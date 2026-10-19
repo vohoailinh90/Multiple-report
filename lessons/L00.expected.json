@@ -1,0 +1,19 @@
+{
+  "id": "L00",
+  "title": "Dopamine và động lực",
+  "topic": "than-kinh",
+  "sections": ["Tóm tắt", "Dopamine là gì", "Tín hiệu sai số dự đoán phần thưởng", "Muốn và thích là hai việc khác nhau",
+               "Dopamine và nỗ lực", "Áp dụng vào cuộc sống", "Lưu ý", "Nguồn tham khảo"],
+  "sources": {
+    "S1": "https://doi.org/10.1126/science.275.5306.1593",
+    "S2": "https://doi.org/10.1016/S0165-0173(98)00019-8",
+    "S3": "https://doi.org/10.1016/j.neuron.2012.10.021",
+    "S4": ""
+  },
+  "min_words": 700,
+  "max_words": 2500,
+  "min_citations": 6,
+  "key_terms": ["chất dẫn truyền thần kinh", "sai số dự đoán phần thưởng", "nhân accumbens", "incentive salience"],
+  "language": "vi",
+  "slides": {"min": 8, "max": 12}
+}

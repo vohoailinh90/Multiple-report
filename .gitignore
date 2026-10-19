@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Moda PNG exports are not wanted (only .pptx is kept)
+lessons/**/*.png

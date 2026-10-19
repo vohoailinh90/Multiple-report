@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Moda_-_Slides_and_Designs",
+      "mcp__claude_ai_Moda_-_Slides_and_Designs",
+      "Bash(python3 scripts/decks.py:*)",
+      "Bash(python3 -m unittest:*)",
+      "Bash(curl:*)",
+      "Bash(git status:*)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Edit(lessons/**)",
+      "Write(lessons/**)"
+    ]
+  }
+}

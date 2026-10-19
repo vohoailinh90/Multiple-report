@@ -37,17 +37,19 @@ lessons/README.md            mục lục, sinh bởi scripts/decks.py index
 - tiếng Việt có dấu; thuật ngữ kèm tiếng Anh trong ngoặc lần đầu; trích dẫn `[S1]` ngay sau ý;
 - không bịa nguồn, số liệu, nghiên cứu, ngày tháng hay câu trích. Thiếu nguồn thì viết ý không kèm số liệu.
 
-`slides.json`: `{"title", "subtitle", "slides": [{"title", "bullets", "notes", "section", "sources"}]}`. Gạch đầu
+`slides.json`: `{"title", "subtitle", "slides": [{"title", "bullets", "notes", "section", "sources", "layout", "tone"}]}`. Gạch đầu
 dòng là cụm từ ngắn (≤ 160 ký tự, ≤ 6 gạch), phần giải thích để trong `notes`; mỗi mục `## ` có ít nhất một slide.
 
 ## Làm deck (PPTX) bằng Moda
 
+Phong cách và quy trình: **`docs/deck-style.md`** (font, màu, footer, cách vẽ 12 kiểu layout, màu của từng khái niệm),
+lấy từ deck System Design của tool-marketing-studio.
+
 1. `git pull`, rồi `python3 scripts/decks.py todo`: danh sách bài thiếu deck hoặc deck cũ. Làm tất cả.
-2. Mỗi bài: đọc `slides.json` (không thêm ý mới), tạo một deck Moda: slide tiêu đề, rồi mỗi phần tử một slide theo
-   thứ tự (thẻ, bước đánh số hay hai cột khi hợp nội dung), nguồn `[S1]` ở chân slide; `notes` nằm sẵn trong
-   slides.json và lesson.md, chỉ thêm làm ghi chú người trình bày nếu Moda hỗ trợ. Tiếng Việt, font `Be Vietnam Pro`, một
-   theme chung cho cả repo (nền xanh navy đậm, điểm nhấn màu ấm). Logo Moda trên slide là chấp nhận được.
-3. Xuất **PPTX**, tải về `lessons/<id>/<id>.pptx`, rồi `python3 scripts/decks.py record <id> --canvas <canvas id>`.
+2. Mỗi bài: đọc `slides.json` (không thêm ý mới). Một canvas, bìa tối rồi mỗi phần tử một slide theo đúng `layout` và
+   `tone` của nó; nguồn `[S1]` ở chân slide. Logo Moda trên slide là chấp nhận được.
+3. Xem mọi slide (ba trang một lệnh chụp), sửa một lần. Xuất **PPTX** (không PNG), tải về `lessons/<id>/<id>.pptx`,
+   rồi `python3 scripts/decks.py record <id> --canvas <URL>`.
 4. Hết bài: `python3 scripts/decks.py todo` không in gì; `python3 scripts/decks.py index`; commit
    (`decks: <ids>`) và push; báo link canvas của từng bài.
 

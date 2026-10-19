@@ -9,6 +9,7 @@ import json
 import shutil
 import tempfile
 import unittest
+import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,6 +17,7 @@ spec = importlib.util.spec_from_file_location("decks", ROOT / "scripts" / "decks
 decks = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(decks)
 
+SLIDES = {"title": "x", "slides": [{"title": "a", "layout": "flow"}, {"title": "b", "layout": "card-grid"}]}
 LESSON = "---\nid: L01\ntitle: Dopamine và động lực\ntopic: than-kinh\ndate: 2026-10-19\n---\n# Dopamine\n"
 
 
@@ -26,7 +28,7 @@ class DeckTests(unittest.TestCase):
         self.folder = self.root / "lessons" / "L01"
         self.folder.mkdir(parents=True)
         (self.folder / "lesson.md").write_text(LESSON, encoding="utf-8")
-        (self.folder / "slides.json").write_text('{"title": "x", "slides": []}', encoding="utf-8")
+        (self.folder / "slides.json").write_text(json.dumps(SLIDES), encoding="utf-8")
 
     def run_main(self, *args: str) -> tuple[int, str]:
         out = io.StringIO()
@@ -37,8 +39,16 @@ class DeckTests(unittest.TestCase):
                 code, _ = 1, print(exc)
         return code, out.getvalue()
 
-    def save_pptx(self, data: bytes = b"PK\x03\x04deck") -> None:
-        (self.folder / "L01.pptx").write_bytes(data)
+    def save_pptx(self, data: bytes | None = None, slides: int = 3) -> None:
+        target = self.folder / "L01.pptx"
+        if data is not None:
+            target.write_bytes(data)
+            return
+        with zipfile.ZipFile(target, "w") as archive:
+            archive.writestr("ppt/presentation.xml", "<p/>")
+            for n in range(1, slides + 1):
+                archive.writestr(f"ppt/slides/slide{n}.xml", "<s/>")
+                archive.writestr(f"ppt/slides/_rels/slide{n}.xml.rels", "<r/>")
 
     def test_a_lesson_without_a_deck_is_listed(self):
         self.assertEqual(self.run_main("todo")[1], "L01\tno .pptx\n")
@@ -48,8 +58,19 @@ class DeckTests(unittest.TestCase):
         self.assertEqual(self.run_main("record", "L01", "--canvas", "cvs_1")[0], 0)
         self.assertEqual(json.loads((self.folder / "deck.json").read_text())["canvas"], "cvs_1")
         self.assertEqual(self.run_main("todo")[1], "")
-        (self.folder / "slides.json").write_text('{"title": "y", "slides": []}', encoding="utf-8")
+        (self.folder / "slides.json").write_text(json.dumps({**SLIDES, "title": "y"}), encoding="utf-8")
         self.assertIn("slides.json changed", self.run_main("todo")[1])
+
+    def test_record_refuses_a_deck_with_missing_slides_and_keeps_the_layouts(self):
+        self.save_pptx(slides=2)
+        code, out = self.run_main("record", "L01", "--canvas", "cvs_1")
+        self.assertEqual(code, 1)
+        self.assertIn("has 2 slides, slides.json asks for 3", out)
+        self.save_pptx(slides=3)
+        self.assertEqual(self.run_main("record", "L01", "--canvas", "cvs_1")[0], 0)
+        record = json.loads((self.folder / "deck.json").read_text())
+        self.assertEqual(record["layouts"], ["cover", "flow", "card-grid"])
+        self.assertEqual(record["slide_count"], 3)
 
     def test_a_deck_without_its_record_is_listed(self):
         self.save_pptx()

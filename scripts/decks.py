@@ -18,7 +18,9 @@ import argparse
 import datetime as _dt
 import hashlib
 import json
+import re
 import sys
+import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,6 +34,19 @@ TOPICS = {
     "khac": "Khác",
 }
 PPTX_MAGIC = b"PK\x03\x04"  # a .pptx is a zip archive
+SLIDE_PART_RE = re.compile(r"ppt/slides/slide\d+\.xml")
+
+
+def pptx_slides(path: Path) -> int | None:
+    """How many slides the PowerPoint file holds, None when it is not one that reads through."""
+    try:
+        with zipfile.ZipFile(path) as archive:
+            names = archive.namelist()
+            if "ppt/presentation.xml" not in names or archive.testzip() is not None:
+                return None
+            return sum(1 for name in names if SLIDE_PART_RE.fullmatch(name))
+    except (OSError, zipfile.BadZipFile):
+        return None
 
 
 def lessons_dir(root: Path) -> Path:
@@ -115,8 +130,14 @@ def cmd_record(root: Path, args) -> int:
     pptx = folder / f"{args.id}.pptx"
     if not pptx.is_file() or pptx.read_bytes()[:4] != PPTX_MAGIC:
         raise SystemExit(f"{pptx} is missing or not a PowerPoint file: export the deck as PPTX first")
+    outline = json.loads((folder / "slides.json").read_text(encoding="utf-8"))["slides"]
+    found, want = pptx_slides(pptx), len(outline) + 1  # the cover, then one slide per entry
+    if found != want:
+        raise SystemExit(f"{pptx} has {found} slides, slides.json asks for {want} (the cover and {len(outline)}): "
+                         "build the missing slides and export again")
     record = {"slides_sha256": sha256(folder / "slides.json"), "pptx_sha256": sha256(pptx),
-              "canvas": args.canvas, "built": _dt.date.today().isoformat()}
+              "canvas": args.canvas, "built": _dt.date.today().isoformat(), "slide_count": want,
+              "layouts": ["cover"] + [slide.get("layout") for slide in outline]}
     (folder / "deck.json").write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"recorded {folder / 'deck.json'}")
     return 0

@@ -48,7 +48,7 @@
     "S25": "",
     "S26": "",
     "S27": "",
-    "S28": "",
+    "S28": "https://www.adlerpedia.org/concepts/83",
     "S29": "https://www.adlerpedia.org/concepts/45",
     "S30": "https://www.adlerpedia.org/concepts/57",
     "S31": "",
@@ -72,10 +72,14 @@
     "S49": "",
     "S50": "",
     "S51": "",
-    "S52": ""
+    "S52": "",
+    "S53": "",
+    "S54": "",
+    "S55": "",
+    "S56": ""
   },
   "min_words": 6000,
-  "max_words": 17000,
+  "max_words": 18000,
   "min_citations": 40,
   "key_terms": [
     "phân tâm học",

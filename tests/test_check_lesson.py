@@ -125,6 +125,13 @@ class GateTests(unittest.TestCase):
         self.assertIn("images are drawn only by figure and annotated-figure: Ba bước", errs)
         self.assertIn("figure needs images: Ba bước", self.run_gate(self.mutated(4, layout="figure"))[0])
 
+    def test_three_text_heavy_slides_in_a_row_are_refused(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        heavy = self.mutated(3, layout="annotated-figure", body=" ".join(["chữ"] * 50), images=img, bullets=[])
+        self.assertIn("three text-heavy slides in a row from slide 2", self.run_gate(heavy)[0])
+
     def test_a_slide_title_fits_two_lines(self):
         errs, _ = self.run_gate(self.mutated(4, title="Ba " + "bước " * 25))
         self.assertTrue(any(e.startswith("title>90: ") for e in errs))

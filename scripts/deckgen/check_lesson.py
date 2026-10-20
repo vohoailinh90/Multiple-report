@@ -20,6 +20,7 @@ OLD = {"sequence-diagram", "flow", "two-column-comparison", "2x2-matrix", "looku
        "connection-diagram", "layers", "timeline", "one-big-number", "one-highlighted-sentence", "figure"}
 BODY = {"explainer": (40, 130, 60, 110), "annotated-figure": (30, 80, 40, 70)}  # hard lo, hard hi, target lo, target hi
 LAYOUTS = OLD | set(BODY) | {"profile-card", "references"}
+HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
 
@@ -71,6 +72,8 @@ def check(root, lid):
     lay = [s["layout"] for s in S]; tone = [s["tone"] for s in S]
     if len(set(lay)) < ex.get("min_layouts", 5): errs.append(f"layout kinds {len(set(lay))}")
     if any(a == b for a, b in zip(lay, lay[1:])): errs.append("adjacent layout")
+    heavy = [i for i in range(len(lay) - 2) if set(lay[i:i + 3]) <= HEAVY]
+    if heavy: errs.append(f"three text-heavy slides in a row from slide {heavy[0] + 1}")
     run, prev = 1, "dark"  # the cover is dark
     for t in tone:
         run = run + 1 if t == prev else 1

@@ -1,157 +1,685 @@
 {
-  "title": "Hệ thưởng, chú ý và cảm xúc",
+  "title": "Hệ thưởng, chú ý và căng thẳng",
   "subtitle": "Thần kinh học · Bài L05",
   "slides": [
     {
       "title": "Vì sao ta bị cuốn vào thứ không quan trọng?",
       "section": "Tóm tắt",
       "sources": [
-        "S1",
-        "S3",
-        "S4",
-        "S5"
+        "S12",
+        "S13",
+        "S15"
       ],
-      "bullets": [
-        "Bốn hệ thống cùng kéo ta đi"
-      ],
-      "notes": "Hệ thưởng và hạnh nhân đã gặp ở L00 và L01; chú ý và căng thẳng là mới. Vỏ não trước trán có thể điều chỉnh nhưng có giới hạn (mở rộng của người viết từ L04).",
       "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "tone": "light",
+      "bullets": [
+        "Ba hệ của não cùng kéo ta: thưởng, chú ý và căng thẳng"
+      ],
+      "notes": "Câu hỏi mở bài được giữ từ bản cũ. Câu trả lời ngắn: não có ít nhất ba hệ cùng tham gia quyết định ta làm gì tiếp theo. Hệ thưởng cho biết thứ gì đáng theo đuổi, hệ chú ý cho biết nên nhìn vào đâu, hệ căng thẳng chuẩn bị cơ thể trước đe dọa. Chỗ dễ nhầm: ba hệ không phải ba hộp tách rời, chúng đan vào nhau, và bài sẽ chỉ ra những chỗ nối có nguồn. Phần cảm xúc chi tiết đã chuyển sang L09; ở đây chỉ nhắc khi cần. Cách đọc nhãn: giáo khoa, đang tranh luận, suy luận của người viết, ví dụ của người viết."
     },
     {
-      "title": "Bốn hệ thống",
+      "title": "Ba hệ, ba câu hỏi",
       "section": "Tóm tắt",
       "sources": [
-        "S1",
-        "S3",
-        "S4",
-        "S5"
+        "S2",
+        "S12",
+        "S13",
+        "S16"
       ],
-      "bullets": [
-        "Hệ thưởng: điều gì đáng theo đuổi",
-        "Chú ý: ta nhìn vào đâu",
-        "Hạnh nhân: điều gì đáng sợ",
-        "Căng thẳng: cơ thể phản ứng ra sao"
-      ],
-      "notes": "Nền để L06 xem mạng xã hội tác động lên não thế nào.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "bullets": [
+        "Hệ thưởng: thứ gì đáng theo đuổi? Mạch vỏ não, thể vân bụng, dopamine não giữa",
+        "Chú ý: nhìn vào đâu? Hệ theo mục tiêu và hệ bị kích thích kéo đi",
+        "Căng thẳng: chuẩn bị thế nào? Đường giao cảm và trục HPA"
+      ],
+      "notes": "Mỗi thẻ là một hệ và câu hỏi nó trả lời. Hệ thưởng theo Haber và Knutson là một mạch vỏ não và hạch nền, không phải một điểm. Chú ý theo Corbetta và Shulman có hai mạng tách biệt một phần. Căng thẳng có đường thần kinh giao cảm và đường hormone qua trục dưới đồi, tuyến yên, thượng thận. Các khái niệm đã có ở bài khác chỉ nhắc một dòng: ba đường dopamine ở L00, hồ sơ dopamine và noradrenaline ở L03, cấu trúc hạnh nhân và hải mã ở L07, vỏ não trước trán ở L04. Bài nên đọc sau L10."
     },
     {
-      "title": "Dopamine báo khác với dự đoán",
-      "section": "Nhắc lại từ L00: hệ thưởng",
+      "title": "Hệ thưởng là một mạch, không phải một điểm",
+      "section": "Hệ thưởng: các vùng và đường dẫn",
       "sources": [
+        "S12",
         "S1"
       ],
+      "layout": "explainer",
+      "tone": "light",
       "bullets": [
-        "Dự đoán phần thưởng",
-        "Phần thưởng đến",
-        "Dopamine báo chênh lệch với dự đoán"
+        "Ở đâu: vỏ trán ổ mắt, vòng đai trước, thể vân bụng, não giữa",
+        "Làm gì: theo dõi và thúc đẩy hành vi có động cơ",
+        "Đừng hiểu nhầm: VTA và accumbens chỉ là trung tâm của một vòng lớn"
       ],
-      "notes": "Sai số dự đoán phần thưởng: tín hiệu mạnh khi bất ngờ; phần thưởng đã dự đoán thì gần như không còn tín hiệu. Chi tiết ở L00.",
-      "layout": "flow",
-      "tone": "light"
+      "notes": "Mở slide bằng câu hỏi: hệ thưởng nằm ở đâu? Câu trả lời của Haber và Knutson là một mạch, gồm vỏ não trước trán, thể vân bụng, cầu nhạt bụng và nơron dopamine ở não giữa. Chỗ dễ nhầm là nghĩ hệ thưởng là một điểm nhỏ, kiểu nút bấm khoái cảm. Lịch sử giải thích vì sao có hình ảnh đó: thí nghiệm của Olds và Milner cho thấy chuột chịu bấm cần để được kích thích điện vào một số điểm, và VTA cùng accumbens được coi là trung tâm. Về sau người ta thấy vùng liên quan rộng hơn, gồm cả liềm đen. Các vùng như hạnh nhân, hải mã, đồi thị điều chỉnh mạch.",
+      "body": "Theo Haber và Knutson, nhiều vùng não có tế bào đáp ứng với phần thưởng, nhưng trái tim của **hệ thưởng** là mạch vỏ não – hạch nền [S12]. Các cấu trúc chính là vỏ vòng đai trước, vỏ trán ổ mắt, **thể vân bụng**, cầu nhạt bụng và các nơron **dopamine** ở não giữa [S12]. Hạnh nhân, hải mã, đồi thị và vài nhân thân não điều chỉnh mạch [S12]. Giáo trình gọi cùng hệ ấy là hệ ham muốn (desire), gồm vùng dưới đồi bên, hạnh nhân, **nhân accumbens** và vỏ trán [S1]."
     },
     {
-      "title": "Muốn khác với thích",
-      "section": "Nhắc lại từ L00: hệ thưởng",
+      "title": "Thẻ hồ sơ: hệ thưởng",
+      "section": "Hệ thưởng: các vùng và đường dẫn",
+      "sources": [
+        "S1",
+        "S9",
+        "S12"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "notes": "Thẻ hồ sơ theo khung của bộ phận: ở đâu, gồm gì, làm gì, bằng chứng, kết nối, đừng hiểu nhầm. Con số một triệu nơron dopamine ở người là ước tính Schultz nêu trong bài tổng quan năm 2016, kèm hai trăm nghìn ở khỉ và hai mươi nghìn ở chuột. Bằng chứng về vai trò của hệ đến nhiều nhất từ động vật: kích thích điện, tổn thương, ghi điện nơron; ở người thì từ ảnh chụp chức năng. Chất dẫn truyền chính ở đây là dopamine, hồ sơ đầy đủ ở L03. Chỗ dễ nhầm: gọi dopamine là hormone hạnh phúc là sai, và slide mục bốn sẽ cho thấy vai trò của nó trong khoái cảm đang bị nghi ngờ.",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Mạch vỏ não – hạch nền, nằm trải từ vỏ não trán xuống não giữa [S12]"
+        },
+        {
+          "label": "Gồm gì",
+          "text": "Vỏ trán ổ mắt, vỏ vòng đai trước, thể vân bụng, cầu nhạt bụng, nơron dopamine não giữa [S12]"
+        },
+        {
+          "label": "Làm gì",
+          "text": "Tạo hăng hái, tò mò, thúc đẩy đi tìm thức ăn, bạn tình và kích thích dễ chịu [S1]"
+        },
+        {
+          "label": "Bằng chứng",
+          "text": "Động vật chịu bấm cần để được kích thích điện vào hệ; ở người là ảnh chụp chức năng [S1] [S12]"
+        },
+        {
+          "label": "Chất chính",
+          "text": "Dopamine: khoảng một triệu nơron ở người, tỏa tới thể vân, vỏ trán, hạnh nhân [S9]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Không phải một điểm khoái cảm; phần thưởng nối với mạch nhận thức và vận động [S12]"
+        }
+      ]
+    },
+    {
+      "title": "Thể vân: nơi phần thưởng gặp thói quen",
+      "section": "Hệ thưởng: các vùng và đường dẫn",
+      "sources": [
+        "S3",
+        "S12"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "bullets": [
+        "Striatum: thể vân (nhân đuôi và bèo sẫm)",
+        "Ventral striatum: thể vân bụng, có nhân accumbens"
+      ],
+      "notes": "Hình là một khung tĩnh lấy từ ảnh động của giáo trình, chương 8, giấy phép CC BY-SA theo sách. Thể vân tô đỏ. Giáo trình nói thể vân quan trọng cho trí nhớ thói quen và cho phần thưởng trong học tập, với ví dụ chuột trong mê lộ chữ T: chuột bị tổn thương thể vân học kém bài này. Đây là kết quả từ động vật. Haber và Knutson bổ sung: thể vân bụng gồm accumbens và phần dưới của nhân đuôi và bèo sẫm, và không có ranh giới mô học rõ với thể vân lưng. Cấu trúc accumbens như một bộ phận được trình bày ở L07, ở đây chỉ dùng vị trí.",
+      "body": "**Thể vân** gồm nhân đuôi và bèo sẫm, quan trọng cho trí nhớ thói quen và phần thưởng trong học tập; chuột bị tổn thương thể vân học kém mê lộ chữ T [S3]. **Nhân accumbens** chỉ là một phần nhỏ của **thể vân bụng**, và chỉ thể vân bụng nhận bó tín hiệu dày từ hạnh nhân và hải mã [S12].",
+      "images": [
+        {
+          "file": "images/the-van.png",
+          "alt": "Vị trí thể vân trong não",
+          "credit": "Wikipedia, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 8 (chương 8)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-3-brain-structures-in-memory/"
+        }
+      ]
+    },
+    {
+      "title": "Tín hiệu đi một vòng khép kín",
+      "section": "Hệ thưởng: các vùng và đường dẫn",
+      "sources": [
+        "S12"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Vỏ trán ổ mắt và vòng đai trước gửi tín hiệu xuống thể vân bụng",
+        "Dopamine từ não giữa đổ vào thể vân bụng",
+        "Thể vân bụng chiếu tới cầu nhạt bụng, VTA và liềm đen",
+        "Tín hiệu về lại vỏ não trước trán qua nhân lưng giữa của đồi thị"
+      ],
+      "notes": "Đọc sơ đồ từ trái sang phải. Đây là giải phẫu chủ yếu từ khỉ, Haber và Knutson nối nó với ảnh chụp não người. Điểm cần nhớ là mạch là một vòng: vỏ não, thể vân bụng, cầu nhạt bụng, đồi thị, rồi lại vỏ não, với dopamine điều chỉnh ở giữa. Một chi tiết thú vị: ở khỉ, nhân cương bên bị ức chế bởi dấu hiệu báo trước phần thưởng và phát xung khi có tín hiệu không có thưởng, và kích thích nó làm ức chế tế bào dopamine. Nói nôm na, hệ thưởng có cả một bộ báo tin xấu. Ba đường dopamine chính được trình bày ở L00, không lặp lại ở đây."
+    },
+    {
+      "title": "Ham muốn nhìn thấy được trên não",
+      "section": "Hệ thưởng: các vùng và đường dẫn",
+      "sources": [
+        "S1",
+        "S12"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "bullets": [
+        "Vỏ trán trái: hoạt động mạnh hơn khi ham muốn",
+        "Accumbens và não giữa: cùng hoạt động khi chờ thưởng"
+      ],
+      "notes": "Ảnh món ăn trong giáo trình thuộc phạm vi công cộng theo sách. Giáo trình dùng nó để nói một kết quả trên người và động vật: vỏ trán trái hoạt động mạnh hơn vỏ trán phải khi ham muốn và quan tâm, ví dụ ở người lớn đang đói xem ảnh món tráng miệng. Haber và Knutson nêu kết quả chụp chức năng: chờ tiền hay vị ngon làm accumbens và não giữa cùng hoạt động, còn khi phần thưởng đến thì phần khác của thể vân được huy động. Họ cũng nêu hoạt động chờ ở accumbens có thể dự đoán hành vi tiến tới trong cờ bạc và mua hàng. Đừng hiểu đây là đọc được ý nghĩ: đó là xu hướng trung bình.",
+      "body": "Nghiên cứu trên người và động vật cho thấy **vỏ trán trái** hoạt động mạnh hơn khi ham muốn và quan tâm [S1]. Ở người, khi **chờ phần thưởng**, nhân accumbens và não giữa cùng hoạt động; hoạt động chờ ở accumbens có thể dự đoán hành vi tiến tới khi chấp nhận rủi ro tài chính, cờ bạc hay mua hàng [S12].",
+      "images": [
+        {
+          "file": "images/mon-an-hap-dan.jpeg",
+          "alt": "Ảnh một món ăn hấp dẫn",
+          "credit": "Noba, giấy phép theo sách Public Domain; Hove & Martinez, Hình 3 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/basic-emotions/"
+        }
+      ]
+    },
+    {
+      "title": "Sai số dự đoán: phần thưởng trừ dự đoán",
+      "section": "Sai số dự đoán phần thưởng",
+      "sources": [
+        "S9"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Dương: tốt hơn dự đoán, làm lại hành vi",
+        "Bằng không: đúng dự đoán, không học thêm",
+        "Âm: kém hơn dự đoán, tránh lần sau"
+      ],
+      "notes": "Định nghĩa đơn giản: sai số dự đoán phần thưởng là phần thưởng nhận được trừ đi phần thưởng đã dự đoán. Từ sai số không có nghĩa ai làm sai. Ví dụ máy bán nước là của chính Schultz, trong bài tổng quan năm 2016: lần đầu bấm đại một nút và ra đúng lon ông thích, đó là sai số dương; bấm mãi ra cùng lon thì hết bất ngờ; vài tuần sau nút ấy ra lon khác, đó là sai số âm. Chỗ dễ nhầm là nghĩ hệ thưởng đáp ứng với phần thưởng nói chung. Thật ra, theo mô hình này, nó đáp ứng với chỗ chênh giữa điều xảy ra và điều đã chờ.",
+      "body": "**Sai số dự đoán phần thưởng** (reward prediction error) là hiệu giữa phần thưởng nhận được và phần thưởng đã dự đoán [S9]. Schultz kể ví dụ của chính ông: bấm đại một nút máy bán nước ở Nhật và ra đúng lon mình thích là một **sai số dương**, nên lần sau bấm lại nút đó [S9]. Bấm mãi ra cùng lon thì không còn gì để học. Vài tuần sau nút ấy ra lon khác: một **sai số âm**, và ông phải thử nút khác [S9]."
+    },
+    {
+      "title": "Ba trường hợp trong thí nghiệm",
+      "section": "Sai số dự đoán phần thưởng",
+      "sources": [
+        "S7",
+        "S9"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Phần thưởng bất ngờ: nơron dopamine phát xung mạnh lên",
+        "Phần thưởng đã được báo trước: hoạt động giữ ở mức nền",
+        "Phần thưởng đã báo mà không đến: hoạt động giảm dưới mức nền"
+      ],
+      "notes": "Đây là ba hàng nổi tiếng nhất của thí nghiệm Schultz, Dayan và Montague năm 1997, ghi điện nơron dopamine ở khỉ. Hình gốc của bài năm 1997 được Schultz in lại trong bài tổng quan 2016. Nhãn mức chắc chắn: hiện tượng này là giáo khoa, vì đã thấy ở khỉ, người và loài gặm nhấm. Chỗ dễ nhầm ở hàng thứ hai: phần thưởng vẫn đến, con vật vẫn được uống nước quả, nhưng nơron không đáp ứng thêm, vì không có gì bất ngờ. Hàng thứ ba cho thấy nơron còn báo cả sự thiếu vắng: hoạt động tụt xuống đúng thời điểm phần thưởng lẽ ra phải đến."
+    },
+    {
+      "title": "Đáp ứng dời về dấu hiệu sớm nhất",
+      "section": "Sai số dự đoán phần thưởng",
+      "sources": [
+        "S9"
+      ],
+      "layout": "timeline",
+      "tone": "dark",
+      "bullets": [
+        "Ban đầu: nơron đáp ứng khi phần thưởng đến",
+        "Học xong: đáp ứng chuyển sang dấu hiệu báo trước",
+        "Chuỗi dài: đáp ứng dời về dấu hiệu sớm nhất",
+        "Chờ càng lâu: đáp ứng càng nhỏ"
+      ],
+      "notes": "Trục thời gian đọc từ trái sang phải theo quá trình học. Theo Schultz, khi một ánh đèn, hình hay âm thanh báo trước phần thưởng, đáp ứng của dopamine chuyển sang thời điểm của dấu hiệu, và trong một chuỗi nhiều dấu hiệu thì chuyển dần về dấu hiệu sớm nhất. Khoảng chờ càng dài, đáp ứng càng nhỏ, phù hợp với việc phần thưởng ở xa có giá trị chủ quan thấp hơn, gọi là giảm giá theo thời gian. Ý nghĩa: não học được cả những chuỗi sự kiện dài dẫn tới phần thưởng. Ví dụ của người viết: tiếng chuông báo giờ ăn trưa có thể làm ta hào hứng trước khi thấy món ăn."
+    },
+    {
+      "title": "Sai số dự đoán dạy não học thế nào",
+      "section": "Sai số dự đoán phần thưởng",
+      "sources": [
+        "S7",
+        "S9",
+        "S8"
+      ],
+      "layout": "flow",
+      "tone": "light",
+      "bullets": [
+        "Dự đoán phần thưởng từ kinh nghiệm cũ",
+        "So phần thưởng thật với dự đoán",
+        "Có sai số: cập nhật dự đoán và đổi hành vi",
+        "Không sai số: giữ nguyên, không học thêm"
+      ],
+      "notes": "Sơ đồ là vòng học theo sai số mà Schultz mô tả. Đáp ứng của dopamine khớp khá tốt với các mô hình học tính toán, như mô hình Rescorla và Wagner và học sai biệt thời gian. Từ đó Schultz đề xuất tín hiệu sai số có thể là tín hiệu dạy, tác động lên tính mềm dẻo của nơron ở thể vân, vỏ não trán và hạnh nhân. Nhãn: mô hình là giáo khoa, còn việc dopamine thật sự là tín hiệu dạy thì đang tranh luận, xem mục Muốn khác thích. Bài năm 2000 của Schultz nhấn mạnh chỉ một số ít cấu trúc não ở khỉ mang tín hiệu cụ thể về phần thưởng đã qua và sắp tới."
+    },
+    {
+      "title": "Hai chi tiết dễ bỏ sót",
+      "section": "Sai số dự đoán phần thưởng",
+      "sources": [
+        "S9",
+        "S12"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Đáp ứng hai thành phần: một tín hiệu nổi bật chung đến trước, vài trăm mili giây sau mới là tín hiệu giá trị",
+        "Ảnh chụp não người: hoạt động não giữa không giảm rõ khi phần thưởng không đến, chưa chắc là sai số",
+        "Chưa rõ: khác biệt thật hay giới hạn của kỹ thuật chụp"
+      ],
+      "notes": "Cột trái: Schultz mô tả đáp ứng của dopamine có một thành phần đầu, không chọn lọc, xuất hiện với mọi kích thích nổi bật, kể cả trung tính hay khó chịu, rồi tắt sau vài chục đến vài trăm mili giây. Sau đó mới là thành phần mang giá trị phần thưởng. Ông cho rằng thành phần đầu có tính chất của chú ý; ta sẽ gặp lại ý này ở mục chú ý. Cột phải: Haber và Knutson nêu rằng trong các nghiên cứu chụp chức năng dùng nước quả và tiền, hoạt động não giữa không giảm rõ khi phần thưởng không đến. Não giữa nhỏ và khó chụp, nên chưa rõ đây là giới hạn kỹ thuật hay khác biệt thật."
+    },
+    {
+      "title": "Khi chất gây nghiện chen ngang",
+      "section": "Sai số dự đoán phần thưởng",
+      "sources": [
+        "S9"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Thuốc không được so với dự đoán, nên giống một sai số dương không bao giờ tắt",
+        "Theo Schultz: cocaine, amphetamine, nicotine, rượu kích thích quá mức hệ dopamine"
+      ],
+      "notes": "Schultz viết rằng cocaine, amphetamine, methamphetamine, nicotine và rượu kích thích quá mức cơ chế dopamine. Lập luận của ông: thuốc tác động thẳng lên não qua máu, không đi qua các giác quan, và không bị so với một dự đoán; vì thế nó giống một sai số dương kéo dài, điều mà dự đoán bình thường đã chặn lại. Ông cho rằng một số não không chịu được sự kích thích quá mức ấy và trở nên nghiện. Nhãn: việc các chất này kích thích hệ dopamine là giáo khoa; cơ chế dẫn tới nghiện đang tranh luận. Berridge và Robinson đưa ra giải thích khác, dựa trên muốn bị nhạy cảm hóa, ở mục sau."
+    },
+    {
+      "title": "Ba thành phần của một phần thưởng",
+      "section": "Muốn khác thích",
+      "sources": [
+        "S11",
+        "S1"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Thích (liking): phản ứng cốt lõi với khoái cảm, nổi trội lúc tiêu thụ",
+        "Muốn (wanting): incentive salience, sức hút thúc đẩy đi tìm",
+        "Học (learning): các liên hệ học được, diễn ra suốt chu trình"
+      ],
+      "notes": "Berridge và Kringelbach chia phần thưởng thành ba thành phần. Muốn chiếm ưu thế ở pha tìm kiếm ban đầu, thích chiếm ưu thế ở pha tiêu thụ, còn học diễn ra suốt. Giáo trình nói thẳng: mức ham muốn một phần thưởng không nhất thiết khớp với mức thích nó, và các cấu trúc tạo ra hai thứ khác nhau. Cách đo ở động vật và trẻ nhỏ: thích đo bằng tốc độ liếm, kiểu đưa lưỡi và nét mặt khi nếm vị ngọt; muốn đo bằng mức sẵn sàng bỏ công để có phần thưởng. Chỗ dễ nhầm: muốn ở đây là một quá trình đo được, không đồng nghĩa với mong muốn có ý thức."
+    },
+    {
+      "title": "Thí nghiệm then chốt: bỏ dopamine, vẫn thích",
+      "section": "Muốn khác thích",
+      "sources": [
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Làm gì: giảm dopamine tới 99% ở chuột",
+        "Kết quả: phản ứng thích và ghét vẫn bình thường",
+        "Đừng hiểu nhầm: kết quả từ chuột, là một quan điểm"
+      ],
+      "notes": "Đây là thí nghiệm của Berridge và Robinson năm 1998. Chất độc 6-hydroxydopamine phá các sợi dopamine, làm giảm dopamine ở accumbens và thể vân tới 99 phần trăm. Họ đo phản ứng nét mặt của chuột khi nếm đường và quinine. Kết quả bất ngờ: phản ứng thích và ghét vẫn bình thường, chuột vẫn học được giá trị khoái cảm mới, và thuốc không qua dopamine vẫn làm tăng khoái cảm. Nhãn: đây là một quan điểm có bằng chứng mạnh từ động vật, không phải đồng thuận. Chỗ dễ nhầm: kết quả không nói dopamine vô dụng, mà nói nó cần cho muốn hơn là cho thích.",
+      "body": "Berridge và Robinson làm giảm **dopamine** ở nhân accumbens và thể vân của chuột tới 99% bằng chất độc 6-hydroxydopamine [S10]. Chuột vẫn có phản ứng **thích** với đường và **ghét** với quinine bình thường, vẫn học được giá trị khoái cảm mới, và vẫn tăng khoái cảm khi được cho thuốc không qua dopamine [S10]. Họ kết luận dopamine không cần cho khoái cảm mà quan trọng hơn cho việc gán **incentive salience**, tức sự muốn [S10]."
+    },
+    {
+      "title": "Muốn và thích dùng mạch khác nhau",
+      "section": "Muốn khác thích",
+      "sources": [
+        "S11",
+        "S1"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Muốn: hệ lớn và phân tán; dopamine làm tăng muốn ăn mà không tăng thích vị ngọt",
+        "Thích: một tập nhỏ điểm nóng trong hệ viền, nhạy với opioid và endocannabinoid",
+        "Bản đồ điểm nóng và mạch thích: xem L09"
+      ],
+      "notes": "So sánh hai cột. Theo Berridge và Kringelbach năm 2015, muốn được tạo bởi một hệ lớn và phân tán trong não, còn thích do một tập nhỏ các điểm nóng khoái cảm trong hệ viền. Ở điểm nóng trong accumbens của chuột, kích thích dopamine làm tăng muốn ăn mà không làm tăng thích vị ngọt. Giáo trình nêu nghiên cứu về thích tập trung vào một vùng nhỏ trong accumbens và nửa sau cầu nhạt bụng, những vùng nhạy với opioid và endocannabinoid. Vị trí và kích thước các điểm nóng là nội dung của L09, bài này chỉ cần biết hai thứ dùng mạch khác nhau."
+    },
+    {
+      "title": "Tranh luận: dopamine làm gì?",
+      "section": "Muốn khác thích",
+      "sources": [
+        "S11",
+        "S7",
+        "S10"
+      ],
+      "layout": "connection-diagram",
+      "tone": "light",
+      "bullets": [
+        "Khoái cảm: Wise 1980, chính Wise đã rút lại",
+        "Tín hiệu dạy: Schultz và cộng sự 1997",
+        "Sức hút (muốn): Berridge và Robinson 1998"
+      ],
+      "notes": "Sơ đồ có ba giả thuyết quanh câu hỏi trung tâm. Giả thuyết dopamine là khoái cảm do Roy Wise đưa ra năm 1980; theo Berridge và Kringelbach, đến giữa thập niên 1990 chính Wise đã rút lại. Giả thuyết tín hiệu dạy của Schultz và cộng sự được Berridge và Kringelbach gọi là phương án thay thế chính. Họ cho rằng rất khó tách học dự đoán khỏi động lực, vì hai thứ thường đi cùng, và nhiều thí nghiệm giữ trạng thái cơ thể cố định, như khỉ luôn hơi khát. Họ cũng thừa nhận vấn đề vẫn đang được bàn. Suy luận của người viết: hai quan điểm không nhất thiết loại trừ nhau."
+    },
+    {
+      "title": "Muốn mà không thích",
+      "section": "Muốn khác thích",
+      "sources": [
+        "S1",
+        "S11"
+      ],
+      "layout": "numbered-rows",
+      "tone": "dark",
+      "bullets": [
+        "Người nghiện thường vẫn thèm ma túy dù biết liều có sẵn không đem lại khoái cảm [S1]",
+        "Giả thuyết nhạy cảm hóa: dùng lặp lại có thể phóng đại muốn do dấu hiệu gợi ra [S11]",
+        "Ví dụ của người viết: mở một ứng dụng lần thứ mười mà mở xong không vui hơn"
+      ],
+      "notes": "Ba hàng đi từ bằng chứng tới ví dụ đời thường. Hàng một là điều giáo trình dẫn từ nghiên cứu về nghiện. Hàng hai là giả thuyết nhạy cảm hóa động cơ của Robinson và Berridge năm 1993, theo lời Berridge và Kringelbach: ở một số người, dùng lặp lại làm hệ dopamine nhạy hơn, phóng đại sự muốn do dấu hiệu gợi ra, ngay cả khi thuốc đã bớt dễ chịu. Đây là giả thuyết, không phải kết luận đã đóng. Hàng ba là ví dụ của người viết: sức kéo trước khi mở và cảm giác khi đã mở là hai thứ khác nhau. Đừng suy ra rằng dùng ứng dụng là nghiện; đó chỉ là minh họa khái niệm."
+    },
+    {
+      "title": "Hai cách chú ý chọn thông tin",
+      "section": "Chú ý: hệ theo mục tiêu và hệ theo kích thích",
+      "sources": [
+        "S14",
+        "S13"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Theo mục tiêu: tìm chìa khóa xe",
+        "Theo kích thích: quay về tiếng động đột ngột",
+        "Đừng hiểu nhầm: chú ý không hoàn toàn do ý chí"
+      ],
+      "notes": "Bắt đầu bằng định nghĩa: chú ý là việc não chọn một số thông tin để xử lý sâu hơn và bỏ qua phần còn lại. Hai ví dụ trên slide là của chính Anderson và cộng sự: tìm chìa khóa xe là chú ý tự nguyện theo mục tiêu, quay về phía tiếng động đột ngột là chú ý bị độ nổi bật kéo đi. Corbetta và Shulman năm 2002 cho rằng hai kiểu này dựa trên hai mạng vùng não tách biệt một phần. Nhãn: mô hình hai mạng là giáo khoa, được dẫn rộng rãi, nhưng ranh giới chi tiết vẫn được nghiên cứu. Slide sau so sánh hai mạng.",
+      "body": "**Chú ý** là việc não chọn một số thông tin để xử lý sâu hơn và bỏ qua phần còn lại. Anderson và cộng sự mô tả hai cách ưu tiên kích thích: tự nguyện, theo **mục tiêu** của tình huống, như tìm chìa khóa xe; và không tự nguyện, bị **độ nổi bật** vật lý kéo đi, như quay về phía một tiếng động đột ngột [S14]. Corbetta và Shulman tổng hợp bằng chứng rằng hai kiểu này dựa trên hai mạng vùng não tách biệt một phần [S13]."
+    },
+    {
+      "title": "Hệ lưng và hệ bụng",
+      "section": "Chú ý: hệ theo mục tiêu và hệ theo kích thích",
+      "sources": [
+        "S13"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Hệ lưng (theo mục tiêu): vỏ đỉnh trong rãnh và vỏ trán trên; chọn kích thích và phản ứng theo mục tiêu",
+        "Hệ bụng (theo kích thích): vỏ thái dương – đỉnh và vỏ trán dưới, nghiêng phải; phát hiện điều nổi bật, bất ngờ",
+        "Hệ lưng cũng chịu ảnh hưởng khi phát hiện kích thích; hai hệ tương tác"
+      ],
+      "notes": "Hai cột là hai mạng của Corbetta và Shulman. Hệ lưng gồm một phần vỏ đỉnh trong rãnh và vỏ trán trên, chuẩn bị và áp dụng việc chọn theo mục tiêu. Hệ bụng gồm vỏ thái dương đỉnh và vỏ trán dưới, phần lớn nằm bên bán cầu phải; nó không chọn theo mục tiêu mà chuyên phát hiện kích thích liên quan đến hành vi, nhất là khi nổi bật hoặc bất ngờ. Chỗ dễ nhầm: L04 cũng nói về một mạng kiểm soát chú ý nghiêng phải; chưa rõ mạng ấy trùng với hệ bụng đến đâu, nên bài không gộp hai khái niệm. Lưng và bụng ở đây là vị trí trên não, không phải bộ phận cơ thể."
+    },
+    {
+      "title": "Hệ bụng là cầu dao của hệ lưng",
+      "section": "Chú ý: hệ theo mục tiêu và hệ theo kích thích",
+      "sources": [
+        "S13"
+      ],
+      "layout": "flow",
+      "tone": "light",
+      "bullets": [
+        "Hệ lưng giữ chú ý vào mục tiêu",
+        "Một kích thích nổi bật, bất ngờ xuất hiện",
+        "Hệ bụng ngắt mạch, chuyển chú ý sang sự kiện",
+        "Không liên quan thì hệ lưng kéo chú ý trở lại"
+      ],
+      "notes": "Corbetta và Shulman dùng hình ảnh cầu dao: hệ bụng ngắt hướng chú ý hiện tại để chuyển sang sự kiện nổi bật. Ví dụ của người viết: bạn đang đọc sách trong thư viện thì có tiếng sách rơi; bạn ngẩng lên dù không định, rồi quay lại trang sách khi thấy không có gì đáng kể. Bước cuối của sơ đồ là suy luận của người viết từ ý hai hệ tương tác, nguồn không mô tả bước này cụ thể. Bằng chứng từ bệnh nhân: hai hệ cùng bị rối loạn trong chứng lãng quên nửa không gian, khi người bệnh sau tổn thương não bỏ qua một nửa thế giới. Vì vậy hệ bụng không phải thứ xấu cần tắt."
+    },
+    {
+      "title": "Phần thưởng cũng kéo chú ý",
+      "section": "Chú ý: hệ theo mục tiêu và hệ theo kích thích",
+      "sources": [
+        "S14",
+        "S9"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Thí nghiệm: vật từng gắn với tiền làm chậm việc tìm",
+        "Khác người: đi cùng trí nhớ làm việc, bốc đồng",
+        "Đừng hiểu nhầm: kết quả phòng thí nghiệm, đời thực chưa rõ"
+      ],
+      "notes": "Đây là thí nghiệm của Anderson, Laurent và Yantis năm 2011. Sau một buổi luyện ngắn, một loại vật được ghép với tiền thưởng. Khi người tham gia tìm một mục tiêu khác, sự có mặt của vật ấy, dù không nổi bật và không liên quan, vẫn làm chậm việc tìm, kể cả khi không còn thưởng. Đây là cách thứ ba, nằm giữa hai hệ: không do mục tiêu, không do độ nổi bật, mà do lịch sử phần thưởng. Nối với thành phần nổi bật của dopamine mà Schultz mô tả là suy luận của người viết. Mức khái quát ra đời thực chưa rõ, vì đây là bài tìm kiếm thị giác trong phòng thí nghiệm.",
+      "body": "Anderson, Laurent và Yantis cho người tham gia một buổi luyện ngắn, trong đó một loại vật được ghép với **tiền thưởng** [S14]. Sau đó, khi tìm một mục tiêu nổi bật, vật ấy, dù không nổi bật và không liên quan nhiệm vụ, vẫn làm chậm việc tìm, kể cả khi không còn thưởng [S14]. Họ gọi đây là **kéo chú ý theo giá trị**: độc lập với mục tiêu và độ nổi bật; mức bị kéo đi cùng dung lượng trí nhớ làm việc và tính bốc đồng [S14]."
+    },
+    {
+      "title": "Não quyết định điều gì là đe dọa",
+      "section": "Căng thẳng: phản ứng nhanh và phản ứng chậm",
+      "sources": [
+        "S15",
+        "S16"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Não là cơ quan then chốt của căng thẳng: nó quyết định điều gì là đe dọa",
+        "Căng thẳng là liên lạc hai chiều giữa não với tim mạch, miễn dịch [S15]"
+      ],
+      "notes": "Câu lớn là ý mở đầu bài tổng quan của Bruce McEwen năm 2007: não quyết định điều gì là đe dọa, và quyết định các phản ứng sinh lý và hành vi, có thể thích nghi hoặc gây hại. Smith và Vale nêu định nghĩa thường dùng: căng thẳng là trạng thái bị đe dọa thật hoặc cảm thấy bị đe dọa đối với cân bằng nội môi. Chú ý chữ cảm thấy: cùng một tình huống, người này thấy đe dọa, người kia không. Ví dụ của người viết: một buổi thuyết trình có thể là thử thách thú vị với người này và nỗi lo mất ngủ với người khác. Hai slide sau là hai đường của phản ứng: thần kinh và hormone."
+    },
+    {
+      "title": "Đường nhanh: hệ giao cảm",
+      "section": "Căng thẳng: phản ứng nhanh và phản ứng chậm",
       "sources": [
         "S2"
       ],
+      "layout": "annotated-figure",
+      "tone": "dark",
       "bullets": [
-        "Muốn: sức hút của một thứ",
-        "Thích: khoái cảm khi có nó",
-        "Hai việc có thể tách rời"
+        "Sympathetic: giao cảm, đánh hay chạy",
+        "Parasympathetic: đối giao cảm, nghỉ và tiêu hóa",
+        "Secretion of adrenaline: tiết adrenaline"
       ],
-      "notes": "Berridge và Robinson: dopamine gắn với muốn (incentive salience). Đây là một quan điểm trong thảo luận về vai trò của dopamine, nhấn mạnh khía cạnh khác với Schultz.",
+      "notes": "Hình của OpenStax trong giáo trình chương 2, giấy phép CC BY-NC-SA theo sách. Bên phải là hệ giao cảm: giãn đồng tử, tăng nhịp tim, giãn phế quản, ức chế tiêu hóa, kích thích tiết adrenaline và noradrenaline. Bên trái là hệ đối giao cảm, gần như làm ngược lại: co đồng tử, làm chậm tim, kích thích tiêu hóa. Giáo trình gợi một mẹo nhớ bằng tiếng Anh: con rắn và giao cảm cùng bắt đầu bằng chữ s, buổi picnic và đối giao cảm cùng bắt đầu bằng chữ p. Chỗ dễ nhầm: hệ đối giao cảm không phải là hệ lười, nó đưa cơ thể về trạng thái cũ sau phản ứng.",
+      "body": "Hệ thần kinh tự chủ điều khiển tim, phổi và các tuyến mà phần lớn không cần ý thức [S2]. **Hệ giao cảm** lo phản ứng đánh hay chạy: tim đập nhanh, tiêu hóa bị ức chế, kích thích tiết **adrenaline** và noradrenaline [S2]. **Hệ đối giao cảm** cho phép nghỉ và tiêu hóa, đưa cơ quan về trạng thái cũ; hai nhánh làm việc kiểu đẩy – kéo [S2].",
+      "images": [
+        {
+          "file": "images/giao-cam-doi-giao-cam.png",
+          "alt": "Hệ giao cảm và đối giao cảm",
+          "credit": "OpenStax, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 4 (chương 2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-peripheral-nervous-system/"
+        }
+      ]
+    },
+    {
+      "title": "Đường chậm: trục HPA",
+      "section": "Căng thẳng: phản ứng nhanh và phản ứng chậm",
+      "sources": [
+        "S16",
+        "S6"
+      ],
+      "layout": "flow",
+      "tone": "light",
+      "bullets": [
+        "Vùng dưới đồi tiết CRF vào mạch máu tới tuyến yên",
+        "Tuyến yên tiết ACTH vào máu",
+        "Vỏ thượng thận tạo và tiết cortisol",
+        "Cortisol tác động nhiều mô và ức chế ngược trục HPA"
+      ],
+      "notes": "Bốn bước theo Smith và Vale. Vùng dưới đồi, cụ thể là nhân cạnh não thất, tiết yếu tố giải phóng corticotropin, viết tắt CRF. Tuyến yên đáp lại bằng hormone hướng vỏ thượng thận, ACTH. ACTH đi theo máu tới vỏ thượng thận, nơi tạo glucocorticoid: cortisol ở người, corticosterone ở loài gặm nhấm. Bước cuối là ức chế ngược: chính cortisol hãm trục HPA, hai vị trí then chốt là vùng dưới đồi và hải mã. Giáo trình xếp cortisol vào nhóm hormone steroid; hormone đi trong máu nên tác động xa hơn, lâu hơn chất dẫn truyền. Ghép cortisol với từng cảm xúc là nội dung của L10."
+    },
+    {
+      "title": "Thẻ hồ sơ: trục HPA",
+      "section": "Căng thẳng: phản ứng nhanh và phản ứng chậm",
+      "sources": [
+        "S16",
+        "S6",
+        "S15"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "notes": "Thẻ hồ sơ của trục HPA, theo khung bộ phận. Ba thẻ đáng chú ý nhất. Ai bật, ai tắt: hạnh nhân được cho là kích hoạt trục, còn hải mã và vỏ não trước trán ức chế nó; ví dụ ở động vật, tổn thương hải mã làm hormone nền cao hơn và kéo dài phản ứng. Kết nối: các nơron noradrenaline ở thân não là một lực kích thích chính lên trục, nên đường nhanh và đường chậm không tách rời. Đừng hiểu nhầm: cortisol không phải hormone xấu. Smith và Vale viết tác dụng của glucocorticoid thường là thích nghi; chỉ khi trục hoạt động quá ít hoặc quá nhiều mới góp phần gây bệnh. McEwen nói cùng ý: hormone căng thẳng bảo vệ cơ thể trong ngắn hạn.",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Nhân cạnh não thất của vùng dưới đồi, thùy trước tuyến yên, tuyến thượng thận [S16]"
+        },
+        {
+          "label": "Chất chính",
+          "text": "CRF, rồi ACTH, rồi glucocorticoid: cortisol ở người [S16]; cortisol là hormone steroid [S6]"
+        },
+        {
+          "label": "Làm gì",
+          "text": "Huy động năng lượng, tăng tỉnh táo; tạm ngừng tiêu hóa, tăng trưởng, sinh sản, miễn dịch [S16]"
+        },
+        {
+          "label": "Ai bật, ai tắt",
+          "text": "Hạnh nhân kích hoạt trục; hải mã và vỏ não trước trán ức chế nó [S16]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Nơron noradrenaline ở thân não là lực kích thích chính lên trục [S16]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Cortisol không phải hormone xấu: tác dụng thường là thích nghi, bảo vệ ngắn hạn [S15] [S16]"
+        }
+      ]
+    },
+    {
+      "title": "Nhanh và chậm, so cho đúng",
+      "section": "Căng thẳng: phản ứng nhanh và phản ứng chậm",
+      "sources": [
+        "S2",
+        "S6",
+        "S16"
+      ],
       "layout": "two-column-comparison",
-      "tone": "dark"
-    },
-    {
-      "title": "Hai hệ điều khiển chú ý",
-      "section": "Chú ý: hai hệ cùng điều khiển",
-      "sources": [
-        "S5"
-      ],
+      "tone": "light",
       "bullets": [
-        "Hệ lưng: theo mục tiêu",
-        "Hệ bụng: theo kích thích nổi bật",
-        "Hai hệ tương tác với nhau"
+        "Đường thần kinh: hệ giao cảm, nhân lục, tủy thượng thận; adrenaline, noradrenaline",
+        "Đường hormone: trục HPA, đi qua chuỗi tuyến và máu; cortisol",
+        "Nguồn đã đọc không cho số giây hay phút; nhanh và chậm là so sánh tương đối"
       ],
-      "notes": "Corbetta và Shulman. Hệ bụng phần lớn nghiêng về bán cầu phải. L04 cũng nêu một mạng kiểm soát chú ý nghiêng phải; chưa rõ có trùng hệ bụng.",
-      "layout": "connection-diagram",
-      "tone": "light"
+      "notes": "So sánh hai cột. Cột trái là đường thần kinh: hệ giao cảm, cụm nơron noradrenaline lớn nhất ở nhân lục, và mạch giao cảm tủy thượng thận tiết adrenaline. Cột phải là đường hormone qua trục HPA. Giáo trình nêu hormone tác động xa hơn và lâu hơn chất dẫn truyền. Dòng dưới là một lời nhắc trung thực: các nguồn đã đọc cho bài này không đưa con số thời gian cụ thể, nên bài không nêu số. Chỗ dễ nhầm là nghĩ hai đường chạy riêng: Smith và Vale mô tả nơron noradrenaline kích thích trục HPA, và có tương tác giữa CRF với nơron noradrenaline. Hồ sơ noradrenaline ở L03."
     },
     {
-      "title": "Chú ý không hoàn toàn do ta quyết định",
-      "section": "Chú ý: hai hệ cùng điều khiển",
+      "title": "Allostasis và allostatic load",
+      "section": "Căng thẳng ngắn hạn và mãn tính",
       "sources": [
-        "S5"
+        "S15"
       ],
+      "layout": "explainer",
+      "tone": "dark",
       "bullets": [
-        "Một phần do thế giới quyết định thay ta"
+        "Ngắn hạn: hormone bảo vệ, giúp thích nghi",
+        "Mãn tính: sự kiện đời thường lặp lại gây hao mòn",
+        "Đừng hiểu nhầm: không phải mọi căng thẳng đều hại"
       ],
-      "notes": "Ví dụ của người viết: đang đọc sách trong thư viện yên tĩnh thì có tiếng động lớn, bạn ngẩng lên dù không định.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "notes": "Hai khái niệm này là khung của McEwen, được dùng rộng rãi, nên gắn nhãn giáo khoa. Allostasis có thể hiểu là giữ ổn định bằng cách thay đổi: tim nhanh hơn, đường huyết tăng, chú ý tập trung để vượt qua thử thách rồi trở lại. Allostatic load, gánh nặng allostatic, là cái giá khi phải thích nghi mãi. Điểm tinh tế là cùng một hệ hormone vừa bảo vệ vừa có thể gây hại, tùy thời gian và mức độ. Chỗ dễ nhầm: McEwen nhấn mạnh chính các sự kiện đời thường lặp lại, không chỉ biến cố lớn, tạo ra gánh nặng này.",
+      "body": "McEwen viết rằng hormone căng thẳng bảo vệ cơ thể trong ngắn hạn và thúc đẩy thích nghi, quá trình gọi là **allostasis** [S15]. Ngoài phản ứng đánh hay chạy với căng thẳng cấp tính, các sự kiện đời thường tạo ra một kiểu căng thẳng mãn tính, theo thời gian gây hao mòn cơ thể, gọi là **allostatic load** (gánh nặng allostatic) [S15]. Cùng một hệ hormone vừa bảo vệ vừa có thể gây hại, tùy thời gian và mức độ [S15]."
     },
     {
-      "title": "Hạnh nhân và nỗi sợ",
-      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "title": "Chạy nước rút và máy chạy không nghỉ",
+      "section": "Căng thẳng ngắn hạn và mãn tính",
       "sources": [
+        "S15"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Chạy nước rút: nhanh, có ích, rồi nghỉ; như allostasis",
+        "Máy chạy không nghỉ: vẫn làm được việc, nhưng mòn dần; như allostatic load",
+        "Ví dụ của người viết, minh họa khái niệm của McEwen"
+      ],
+      "notes": "Đây là ví dụ của người viết, giữ từ bản cũ. Chạy nước rút là căng thẳng ngắn hạn: cơ thể huy động toàn lực, có ích cho việc trước mắt, rồi nghỉ và hồi phục. Máy chạy không nghỉ là căng thẳng mãn tính: từng lúc nó vẫn làm được việc, nhưng các bộ phận mòn dần. Chỗ dễ nhầm khi dùng ví dụ này: không phải ai làm việc nhiều cũng đang chịu gánh nặng allostatic, vì não đánh giá tình huống khác nhau ở từng người. Ví dụ chỉ để nhớ khái niệm, không phải công cụ tự chẩn đoán. Ý chính cần mang theo: vấn đề không phải là có căng thẳng mà là không có lúc nghỉ."
+    },
+    {
+      "title": "Căng thẳng cấp tính: được và mất",
+      "section": "Căng thẳng ngắn hạn và mãn tính",
+      "sources": [
+        "S17"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Mất: các việc đòi hỏi suy nghĩ phức tạp, linh hoạt dễ bị kém đi",
+        "Được: các việc đơn giản hoặc đã luyện thuộc có thể còn tốt hơn",
+        "Cảm giác kiểm soát: người thấy làm chủ tình huống thường không bị suy giảm"
+      ],
+      "notes": "Ba thẻ tóm tắt điều Amy Arnsten tổng hợp về căng thẳng cấp tính. Các nghiên cứu đầu, bắt đầu sau Thế chiến thứ hai, cho thấy căng thẳng làm kém các việc cần suy nghĩ phức tạp, linh hoạt, nhưng có thể làm tốt hơn các việc đơn giản hoặc đã luyện thuộc. Thẻ thứ ba là điểm dễ bỏ qua: cảm giác kiểm soát rất quan trọng; người cảm thấy làm chủ tình huống, kể cả khi đó chỉ là ảo tưởng, thường không bị suy giảm như người cảm thấy mất kiểm soát. Suy luận của người viết: vì thế luyện thuộc một bài thuyết trình có thể giúp nó đứng vững dưới áp lực."
+    },
+    {
+      "title": "Điều làm gánh nặng nặng hơn hoặc nhẹ đi",
+      "section": "Căng thẳng ngắn hạn và mãn tính",
+      "sources": [
+        "S15",
+        "S17"
+      ],
+      "layout": "layers",
+      "tone": "light",
+      "bullets": [
+        "Đầu đời: sự kiện sớm ảnh hưởng đến phản ứng căng thẳng suốt đời [S15]",
+        "Mức độ: căng thẳng nhẹ, kiểm soát được có vẻ tăng phục hồi; nặng thì ngược lại (động vật) [S17]",
+        "Lối sống: vận động đều đặn và hỗ trợ xã hội giúp giảm gánh nặng [S15]"
+      ],
+      "notes": "Ba tầng từ sớm nhất đến điều ta làm được hôm nay. Tầng một: McEwen viết các sự kiện sớm trong đời ảnh hưởng đến kiểu cảm xúc và mức phản ứng căng thẳng suốt đời, và làm đổi tốc độ lão hóa của não và cơ thể. Tầng hai là kết quả từ động vật mà Arnsten tổng hợp: khỉ con học rằng mẹ sẽ quay lại sau một lúc xa có vẻ phục hồi tốt hơn khi trưởng thành, còn căng thẳng nặng làm phản ứng về sau mạnh hơn. Tầng ba: McEwen nêu vận động đều đặn và hỗ trợ xã hội giúp giảm gánh nặng, bên cạnh điều trị bằng thuốc. Đây không phải lời khuyên y tế."
+    },
+    {
+      "title": "Ba vùng được căng thẳng tái cấu trúc",
+      "section": "Căng thẳng thay đổi não",
+      "sources": [
+        "S15",
+        "S17"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Hải mã: mục tiêu đầu tiên của glucocorticoid",
+        "Vỏ trước trán: nhạy nhất với tác hại của căng thẳng",
+        "Đừng hiểu nhầm: chi tiết tế bào chủ yếu từ động vật"
+      ],
+      "notes": "McEwen viết rằng não là mục tiêu của căng thẳng, và hải mã là vùng đầu tiên, ngoài vùng dưới đồi, được nhận ra là mục tiêu của glucocorticoid. Ông tổng hợp rằng hải mã, hạnh nhân và vỏ não trước trán đều trải qua tái cấu trúc do căng thẳng. Arnsten bổ sung vỏ trước trán là vùng nhạy nhất: căng thẳng cấp tính dù nhẹ, nếu không kiểm soát được, có thể làm mất nhanh các khả năng của vùng này. Nhãn: việc căng thẳng làm đổi cấu trúc các vùng này là giáo khoa; chi tiết tế bào chủ yếu từ động vật. Cấu trúc hải mã và hạnh nhân như bộ phận là nội dung của L07.",
+      "body": "McEwen viết rằng não là mục tiêu của căng thẳng, và **hải mã** là vùng đầu tiên, ngoài vùng dưới đồi, được nhận ra là mục tiêu của glucocorticoid [S15]. Hải mã, **hạnh nhân** và **vỏ não trước trán** đều trải qua tái cấu trúc do căng thẳng, làm đổi phản ứng hành vi và sinh lý [S15]. Arnsten tổng hợp rằng vỏ trước trán là vùng nhạy nhất: căng thẳng cấp tính dù nhẹ, nếu không kiểm soát được, có thể làm mất nhanh khả năng nhận thức của vùng này [S17]."
+    },
+    {
+      "title": "Vỏ trước trán co lại, hạnh nhân nở ra",
+      "section": "Căng thẳng thay đổi não",
+      "sources": [
+        "S17"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Vỏ trước trán (chuột): nhánh và gai đuôi gai giảm, kém chuyển hướng chú ý; dần đảo ngược khi hết căng thẳng",
+        "Hạnh nhân (chuột): đuôi gai nở rộng khi căng thẳng mãn tính",
+        "Arnsten: căng thẳng mãn tính làm yếu bộ hãm, làm mạnh bộ thúc phản ứng căng thẳng"
+      ],
+      "notes": "Cả hai cột là kết quả ở chuột mà Arnsten tổng hợp. Cột trái: căng thẳng mãn tính làm các nơron lớp hai và ba của vỏ trước trán mất bớt nhánh; chiều dài, độ phân nhánh và mật độ gai đuôi gai đều giảm, kèm kém khả năng chuyển hướng chú ý. Tin tốt: thay đổi này dần đảo ngược khi căng thẳng qua đi. Cột phải: đuôi gai trong hạnh nhân lại nở rộng. Dòng dưới là câu tóm của chính Arnsten. Đặt cạnh slide trước về trục HPA, hải mã và vỏ trước trán là bộ hãm, hạnh nhân là bộ thúc, nên đây là một vòng tự củng cố. Chỗ dễ nhầm: hạnh nhân mạnh lên không tự nó là xấu."
+    },
+    {
+      "title": "Dưới căng thẳng, điều khiển chuyển chỗ",
+      "section": "Căng thẳng thay đổi não",
+      "sources": [
+        "S17",
         "S3"
       ],
+      "layout": "flow",
+      "tone": "dark",
       "bullets": [
-        "Tiếp nhận ký ức sợ",
-        "Lưu giữ ký ức sợ",
-        "Thể hiện ký ức sợ"
+        "Căng thẳng tăng catecholamine và glucocorticoid",
+        "Hạnh nhân mạnh lên: học nỗi sợ, củng cố ký ức cảm xúc",
+        "Vỏ trước trán yếu đi: kém suy nghĩ linh hoạt",
+        "Thói quen do thể vân đảm nhận được giữ hoặc tăng"
       ],
-      "notes": "LeDoux: hạnh nhân là thành phần quan trọng của hệ thống này, chủ yếu từ thí nghiệm trên động vật.",
-      "layout": "lookup-table",
-      "tone": "light"
+      "notes": "Sơ đồ theo Arnsten: trong căng thẳng, nồng độ cao của catecholamine, tức noradrenaline và dopamine, cùng glucocorticoid làm mạnh chức năng của hạnh nhân nhưng làm yếu vỏ trước trán; bà mô tả đó là việc điều phối não chuyển từ vỏ trước trán sang hạnh nhân. Căng thẳng cấp tính nặng còn làm mạnh thói quen vận động do thể vân đảm nhận. Giáo trình chương 8 bổ sung: ở vùng hạnh nhân bên đáy, noradrenaline tăng cường củng cố ký ức cảm xúc, kết quả từ loài gặm nhấm; bình thường cơ chế này có ích, nhưng trong căng thẳng sang chấn hoặc mãn tính có thể góp phần gây lo âu và giữ ký ức sang chấn."
     },
     {
-      "title": "Nỗi sợ được học thế nào",
-      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "title": "Các vùng não liên quan đến PTSD",
+      "section": "Căng thẳng thay đổi não",
       "sources": [
-        "S3"
+        "S4"
       ],
+      "layout": "annotated-figure",
+      "tone": "light",
       "bullets": [
-        "Âm thanh, rồi cú sốc nhẹ",
-        "Lặp lại nhiều lần",
-        "Chỉ còn âm thanh cũng gây sợ"
+        "Prefrontal cortex: vỏ não trước trán",
+        "Amygdala: hạnh nhân",
+        "Hippocampus: hải mã"
       ],
-      "notes": "Ví dụ của người viết mô phỏng kiểu thí nghiệm gây điều kiện hóa nỗi sợ.",
-      "layout": "sequence-diagram",
-      "tone": "dark"
+      "notes": "Hình của Wikipedia trong giáo trình chương 12, giấy phép CC BY theo sách. Mục đích của hình là chỉ vị trí đúng các vùng vừa nói: vỏ não trước trán, vỏ vòng đai trước, hạnh nhân và hải mã. Giáo trình nêu người có PTSD có thể tích một số phần của hải mã nhỏ hơn, và sau điều trị hiệu quả bằng thuốc hoặc liệu pháp nhận thức hành vi thì kích thước hải mã tăng. Chỗ dễ nhầm: hình không phải bản đồ để tự chẩn đoán. PTSD là rối loạn cần chẩn đoán chuyên môn; bài này không bàn sâu, dự kiến có bài riêng về rối loạn ở giai đoạn sau.",
+      "body": "Giáo trình liệt kê các vùng thường được liên hệ với rối loạn căng thẳng sau sang chấn (**PTSD**): vỏ não trước trán, hải mã, vỏ vòng đai và **hạnh nhân** [S4]. Người có PTSD có thể tích một số phần của **hải mã** nhỏ hơn; sau điều trị hiệu quả, kích thước hải mã tăng [S4]. Hình chỉ dùng để chỉ vị trí.",
+      "images": [
+        {
+          "file": "images/vung-nao-ptsd.png",
+          "alt": "Các vùng não liên quan đến rối loạn căng thẳng sau sang chấn",
+          "credit": "Wikipedia, giấy phép theo sách CC BY; Hove & Martinez, Hình 9 (chương 12)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/post-traumatic-stress-disorder/"
+        }
+      ]
     },
     {
-      "title": "Từ động vật sang người",
-      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "title": "Một thông báo điện thoại, năm bước",
+      "section": "Các hệ gặp nhau trong một tình huống",
       "sources": [
-        "S3"
+        "S13",
+        "S14",
+        "S9",
+        "S16",
+        "S17"
       ],
+      "layout": "numbered-rows",
+      "tone": "dark",
       "bullets": [
-        "Chủ yếu từ động vật, có thể áp dụng cho người"
+        "Ánh sáng, âm thanh bất ngờ: hệ bụng ngắt chú ý theo mục tiêu [S13]",
+        "Biểu tượng từng đi kèm tin vui kéo chú ý theo giá trị [S14]",
+        "Dấu hiệu báo trước phần thưởng tạo đáp ứng dopamine trước khi biết nội dung [S9]",
+        "Tin đáng lo: hạnh nhân có thể kích hoạt trục HPA [S16]",
+        "Vỏ trước trán so với mục tiêu; căng thẳng kéo dài làm việc kìm khó hơn [S17]"
       ],
-      "notes": "Hạnh nhân không chỉ là trung tâm sợ hãi của mọi cảm xúc; bài chỉ nói vai trò trong nỗi sợ vì đó là phần được nghiên cứu nhiều nhất.",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "notes": "Đây là ví dụ của người viết, giữ từ bản cũ và đã đơn giản hóa nhiều: bạn đang làm một bản báo cáo khó thì điện thoại sáng lên. Mỗi hàng dựa vào một khái niệm có nguồn, nhưng không nghiên cứu nào trong bài đo đúng kịch bản này. Việc áp kết quả về dopamine và incentive salience vào thông báo điện thoại là suy luận của người viết. Chỗ dễ nhầm: năm bước không chạy lần lượt như dây chuyền, nhiều bước diễn ra gần như cùng lúc. Vai trò của vỏ não trước trán trong việc kìm hành vi ở L04, thiết kế của mạng xã hội và ứng dụng ở L06."
     },
     {
-      "title": "Cấu trúc tham gia cảm xúc",
+      "title": "Cảm xúc là mạng, không phải một điểm",
+      "section": "Các hệ gặp nhau trong một tình huống",
+      "sources": [
+        "S5",
+        "S18"
+      ],
+      "layout": "figure",
+      "tone": "light",
       "bullets": [
         "Amygdala: hạnh nhân",
         "Nucleus accumbens: nhân accumbens",
         "Orbital frontal cortex: vỏ não trán ổ mắt"
       ],
-      "notes": "Hình cho thấy vị trí một số cấu trúc, không phải sơ đồ đầy đủ.",
-      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
-      "sources": [
-        "S6"
-      ],
-      "layout": "figure",
-      "tone": "dark",
+      "notes": "Hình của Noba trong giáo trình chương 10, giấy phép CC BY-NC-SA theo sách, giữ từ bản cũ. Giáo trình nhấn mạnh rằng cảm xúc không nằm ở một cấu trúc duy nhất mà là hoạt động của các mạng, gần như khắp não; hình chỉ một số cấu trúc. Trong tình huống thông báo, nếu tin nhắn đáng lo, hạnh nhân tham gia: LeDoux tổng hợp rằng hạnh nhân là một thành phần quan trọng của hệ thống tiếp nhận, lưu giữ và thể hiện ký ức sợ, chủ yếu từ thí nghiệm điều kiện hóa nỗi sợ ở động vật. Chỗ dễ nhầm: hạnh nhân không phải trung tâm sợ hãi duy nhất. Các cảm xúc và mạch của chúng ở L09.",
       "images": [
         {
           "file": "images/cau-truc-cam-xuc.png",
@@ -162,114 +690,83 @@
       ]
     },
     {
-      "title": "Não đánh giá mối đe dọa",
-      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Não đánh giá mối đe dọa",
-        "Hormone căng thẳng được tiết ra",
-        "Cơ thể thích nghi hoặc hao mòn"
-      ],
-      "notes": "McEwen: não là cơ quan trung tâm của phản ứng căng thẳng. Hormone là chất do tuyến tiết vào máu để tác động lên nhiều cơ quan.",
-      "layout": "flow",
-      "tone": "dark"
-    },
-    {
-      "title": "Ngắn hạn và mãn tính",
-      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Ngắn hạn: giúp thích nghi (allostasis)",
-        "Mãn tính: hao mòn dần (allostatic load)"
-      ],
-      "notes": "Ví dụ của người viết: ngắn hạn như chạy nước rút, mãn tính như chạy máy không nghỉ. Allostasis: giữ ổn định thông qua thay đổi.",
-      "layout": "two-column-comparison",
-      "tone": "light"
-    },
-    {
-      "title": "Căng thẳng mãn tính có thể đổi cấu trúc",
-      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Hải mã",
-        "Hạnh nhân",
-        "Vỏ não trước trán"
-      ],
-      "notes": "McEwen tổng hợp rằng ba vùng này có thể thay đổi cấu trúc dưới tác động của căng thẳng. Noradrenaline (L03) liên quan đến phản ứng căng thẳng.",
-      "layout": "card-grid",
-      "tone": "dark"
-    },
-    {
-      "title": "Điều có thể giảm gánh nặng",
-      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Vận động và hỗ trợ xã hội có thể giúp"
-      ],
-      "notes": "Tổng hợp của McEwen 2007. Trải nghiệm sớm trong đời cũng ảnh hưởng đến phản ứng căng thẳng về sau.",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
-    },
-    {
-      "title": "Một thông báo, bốn bước",
+      "title": "Ba hệ đan vào nhau",
       "section": "Các hệ gặp nhau trong một tình huống",
       "sources": [
-        "S1",
-        "S2",
-        "S3",
-        "S5"
+        "S9",
+        "S14",
+        "S16",
+        "S17"
       ],
+      "layout": "connection-diagram",
+      "tone": "dark",
       "bullets": [
-        "Thông báo kéo chú ý",
-        "Hệ thưởng muốn biết",
-        "Mạch cảm xúc tham gia nếu đáng lo",
-        "Vỏ não trước trán cân nhắc"
+        "Thưởng → chú ý: vật từng có thưởng kéo chú ý [S14]",
+        "Chú ý ↔ dopamine: đáp ứng đầu mang tính nổi bật [S9]",
+        "Căng thẳng → hạnh nhân: kích hoạt trục HPA [S16]",
+        "Căng thẳng → vỏ trước trán: yếu đi, thói quen thắng [S17]"
       ],
-      "notes": "Ví dụ của người viết, đã đơn giản hóa nhiều. Nguồn chỉ hỗ trợ khái niệm ở từng bước, không hỗ trợ kịch bản. Bước cuối là nhận định tổng hợp dựa trên L04. Không bước nào là lỗi của bạn.",
-      "layout": "sequence-diagram",
-      "tone": "dark"
+      "notes": "Sơ đồ gom các chỗ nối có nguồn giữa ba hệ. Phần thưởng kéo chú ý theo thí nghiệm của Anderson. Đáp ứng đầu của dopamine mang tính chất của chú ý theo Schultz; việc nối hai kết quả này là suy luận của người viết. Hạnh nhân kích hoạt trục HPA theo Smith và Vale. Căng thẳng làm yếu vỏ trước trán và đẩy điều khiển về thói quen và cảm xúc theo Arnsten. Chỗ dễ nhầm: các mũi tên không có nghĩa là đường dây thần kinh nối thẳng giữa hai vùng, mà là ảnh hưởng chức năng. Suy luận của người viết: biết các chỗ nối này giúp ta sửa môi trường, như tắt bớt thông báo, thay vì trông vào ý chí."
+    },
+    {
+      "title": "Không phải lỗi của bạn, nhưng là việc của bạn",
+      "section": "Các hệ gặp nhau trong một tình huống",
+      "sources": [
+        "S13",
+        "S17"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Không phải: lỗi của riêng ý chí",
+        "Nên làm: sửa môi trường quanh mình",
+        "Xem thêm: thiết kế ứng dụng ở L06"
+      ],
+      "notes": "Câu lớn là suy luận của người viết, không phải kết luận của một nghiên cứu. Lập luận: chú ý bị kích thích bất ngờ kéo đi là cách hệ bụng được cấu tạo, theo Corbetta và Shulman; và căng thẳng kéo dài làm vỏ trước trán yếu đi, theo Arnsten. Vì vậy trông vào ý chí ở mọi lần là một chiến lược kém. Ví dụ của người viết: tắt thông báo không cần thiết, để điện thoại ở phòng khác khi cần tập trung, hẹn giờ xem tin nhắn. Chỗ dễ nhầm: câu này không có nghĩa con người không chịu trách nhiệm; nó có nghĩa trách nhiệm hợp lý là sắp xếp môi trường.",
+      "body": "Hệ bụng được cấu tạo để ngắt chú ý khi có kích thích **bất ngờ** [S13], và căng thẳng kéo dài làm **vỏ não trước trán** yếu đi, đẩy điều khiển về thói quen và cảm xúc [S17]. Suy luận của người viết: vì vậy trông vào ý chí ở mọi lần là một chiến lược kém. Hợp lý hơn là **thiết kế môi trường** để vỏ trước trán không phải thắng mỗi lần: tắt thông báo không cần thiết, để điện thoại ở phòng khác khi cần tập trung, hẹn giờ xem tin nhắn. Đây là ví dụ của người viết, không phải kết quả của một nghiên cứu."
     },
     {
       "title": "Điều cần nhớ",
       "section": "Điều cần nhớ",
       "sources": [
-        "S1",
-        "S2",
-        "S3",
-        "S4",
-        "S5"
+        "S7",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17"
       ],
-      "bullets": [
-        "Dopamine phản ứng với điều khác dự đoán",
-        "Chú ý có hai hệ",
-        "Hạnh nhân tham gia học nỗi sợ",
-        "Căng thẳng mãn tính làm hao mòn dần",
-        "Vỏ não trước trán điều chỉnh, có giới hạn"
-      ],
-      "notes": "Bài sau (L06) về mạng xã hội và truyền thông.",
       "layout": "numbered-rows",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "Hệ thưởng là một mạch vỏ não – hạch nền, có thể vân bụng, accumbens, VTA [S12]",
+        "Dopamine báo sai số dự đoán và dời về dấu hiệu báo trước [S7] [S9]",
+        "Muốn khác thích; vai trò của dopamine vẫn đang tranh luận [S10] [S11]",
+        "Chú ý: hệ lưng theo mục tiêu, hệ bụng là cầu dao; phần thưởng cũng kéo chú ý [S13] [S14]",
+        "Căng thẳng: giao cảm và trục HPA; allostasis và allostatic load [S15] [S16]",
+        "Căng thẳng mãn tính làm yếu vỏ trước trán, làm mạnh hạnh nhân [S17]"
+      ],
+      "notes": "Sáu điều để mang theo. Một: hệ thưởng là một mạch, không phải một điểm. Hai: dopamine phản ứng với chỗ chênh giữa điều xảy ra và điều đã chờ, và đáp ứng dời về dấu hiệu sớm nhất. Ba: muốn khác thích, và câu hỏi dopamine chính xác làm gì vẫn còn bàn giữa nhóm Berridge và nhóm Schultz. Bốn: chú ý một phần do mục tiêu, một phần do thế giới, một phần do lịch sử phần thưởng. Năm: căng thẳng ngắn hạn giúp thích nghi, kéo dài thì hao mòn. Sáu: căng thẳng mãn tính làm lệch cân bằng giữa bộ hãm và bộ thúc, và ở động vật phần lớn thay đổi ở vỏ trước trán đảo ngược được."
     },
     {
       "title": "Lưu ý",
       "section": "Lưu ý",
-      "sources": [],
-      "bullets": [
-        "Bài về cơ chế, không phải lời khuyên y tế",
-        "Căng thẳng, lo âu kéo dài: gặp chuyên gia",
-        "Nghiên cứu hạnh nhân: chủ yếu nỗi sợ, động vật"
+      "sources": [
+        "S4",
+        "S15"
       ],
-      "notes": "Không dùng nghiên cứu về hạnh nhân để giải thích mọi cảm xúc.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "light",
+      "bullets": [
+        "Bài nhằm hiểu cơ chế, không phải lời khuyên y tế",
+        "Căng thẳng, lo âu kéo dài hay khó kiểm soát một hành vi: gặp bác sĩ hoặc chuyên gia tâm lý",
+        "Nhiều kết quả trong bài đến từ động vật, không áp trực tiếp cho một người"
+      ],
+      "notes": "Lưu ý cuối bài. Bài này giải thích cơ chế, không thay thế khám và điều trị. Nếu căng thẳng kéo dài, lo âu nhiều, mất ngủ, mất hứng thú với mọi việc, hoặc thấy khó kiểm soát một hành vi như dùng chất, cờ bạc hay dùng điện thoại, hãy gặp bác sĩ hoặc chuyên gia tâm lý. Nếu bạn từng trải qua sang chấn và có ký ức xâm nhập, né tránh hoặc giật mình quá mức kéo dài, hãy tìm trợ giúp chuyên môn. Không tự dùng hay tự ngừng thuốc. Nhiều kết quả quan trọng trong bài, như giảm dopamine, điểm nóng khoái cảm hay thay đổi đuôi gai, đến từ động vật."
     },
     {
       "title": "Nguồn tham khảo",
@@ -280,19 +777,43 @@
         "S3",
         "S4",
         "S5",
-        "S6"
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
       ],
+      "layout": "references",
+      "tone": "dark",
       "bullets": [
-        "Schultz và cộng sự, Science, 1997",
-        "Berridge và Robinson, Brain Res Rev, 1998",
-        "LeDoux, Annu Rev Neurosci, 2000",
-        "McEwen, Physiol Rev, 2007",
-        "Corbetta và Shulman, Nat Rev Neurosci, 2002",
-        "Hove & Martinez, Biological Psychology, chương 10 (hình)"
+        "S1: Hove & Martinez, Biological Psychology, mục 10.2 Basic Emotions, Hình 3",
+        "S2: Hove & Martinez, mục 2.4 The Peripheral Nervous System, Hình 4",
+        "S3: Hove & Martinez, mục 8.3 Brain Structures in Memory, Hình 8",
+        "S4: Hove & Martinez, mục 12.6 Post-Traumatic Stress Disorder, Hình 9",
+        "S5: Hove & Martinez, mục 10.1 Affective Neuroscience, Hình 2",
+        "S6: Hove & Martinez, mục 6.1 Introduction (hormone, cortisol)",
+        "S7: Schultz, Dayan, Montague, A neural substrate of prediction and reward, Science, 1997",
+        "S8: Schultz, Multiple reward signals in the brain, Nat Rev Neurosci, 2000",
+        "S9: Schultz, Dopamine reward prediction error coding, Dialogues Clin Neurosci, 2016",
+        "S10: Berridge & Robinson, What is the role of dopamine in reward?, Brain Res Rev, 1998",
+        "S11: Berridge & Kringelbach, Pleasure systems in the brain, Neuron, 2015",
+        "S12: Haber & Knutson, The reward circuit, Neuropsychopharmacology, 2010",
+        "S13: Corbetta & Shulman, Goal-directed and stimulus-driven attention, Nat Rev Neurosci, 2002",
+        "S14: Anderson, Laurent, Yantis, Value-driven attentional capture, PNAS, 2011",
+        "S15: McEwen, Physiology and neurobiology of stress and adaptation, Physiol Rev, 2007",
+        "S16: Smith & Vale, The role of the HPA axis in responses to stress, Dialogues Clin Neurosci, 2006",
+        "S17: Arnsten, Stress signalling pathways that impair prefrontal cortex, Nat Rev Neurosci, 2009",
+        "S18: LeDoux, Emotion circuits in the brain, Annual Review of Neuroscience, 2000"
       ],
-      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
-      "layout": "lookup-table",
-      "tone": "dark"
+      "notes": "Mười tám nguồn: sáu mục của giáo trình Hove và Martinez, và mười hai bài tổng quan hoặc nghiên cứu gốc đã kiểm DOI."
     }
   ]
 }

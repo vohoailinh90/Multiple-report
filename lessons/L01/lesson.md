@@ -12,7 +12,9 @@ Phần nào của não quyết định bạn làm gì ngay lúc này? Câu trả
 lưới gồm khoảng 86 tỷ nơron (neuron, tế bào thần kinh) [S2]. Để dễ học, người ta chia não thành vài bộ phận lớn: thân
 não (brain stem) giữ các chức năng sống còn, tiểu não (cerebellum) giúp cử động trơn tru, nhóm cấu trúc nằm sâu thường
 gọi là hệ viền (limbic system) liên quan đến cảm xúc và trí nhớ, và vỏ não (cerebral cortex) chia thành bốn thùy (lobe)
-lo cảm giác, suy nghĩ và hành động [S1] [S3]. Bài này chỉ vẽ bản đồ ở mức đại khái. L02 sẽ vào cách nơron nói chuyện với
+lo cảm giác, suy nghĩ và hành động [S1] [S3]. Ví dụ của người viết để dễ hình dung: não giống một thành phố. Thân não là hệ thống điện nước giữ cho thành phố chạy, tiểu não là
+điều phối giao thông giúp mọi thứ trơn tru, hệ viền là khu dân cư của cảm xúc và ký ức, còn vỏ não là khu trung tâm điều hành và
+sáng tạo. Phép so sánh chỉ để nhớ, không phải mô tả chính xác. Bài này chỉ vẽ bản đồ ở mức đại khái. L02 sẽ vào cách nơron nói chuyện với
 nhau, L03 vào các chất hóa học ảnh hưởng đến tâm lý.
 
 ## Hệ thần kinh: bức tranh chung

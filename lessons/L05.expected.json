@@ -4,22 +4,21 @@
   "topic": "than-kinh",
   "sections": [
     "Tóm tắt",
-    "Hệ thưởng: dự đoán và mong muốn",
+    "Nhắc lại từ L00: hệ thưởng",
     "Chú ý: hai hệ cùng điều khiển",
-    "Cảm xúc: hạnh nhân và phản ứng nhanh",
+    "Cảm xúc: hạnh nhân và nỗi sợ",
     "Căng thẳng: não quyết định điều gì là mối đe dọa",
-    "Ba hệ gặp nhau trong một tình huống",
+    "Các hệ gặp nhau trong một tình huống",
     "Điều cần nhớ",
     "Lưu ý",
     "Nguồn tham khảo"
   ],
   "sources": {
-    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
-    "S2": "https://doi.org/10.1126/science.275.5306.1593",
-    "S3": "https://doi.org/10.1016/S0165-0173(98)00019-8",
-    "S4": "https://doi.org/10.1146/annurev.neuro.23.1.155",
-    "S5": "https://doi.org/10.1152/physrev.00041.2006",
-    "S6": "https://doi.org/10.1038/nrn755"
+    "S1": "https://doi.org/10.1126/science.275.5306.1593",
+    "S2": "https://doi.org/10.1016/S0165-0173(98)00019-8",
+    "S3": "https://doi.org/10.1146/annurev.neuro.23.1.155",
+    "S4": "https://doi.org/10.1152/physrev.00041.2006",
+    "S5": "https://doi.org/10.1038/nrn755"
   },
   "min_words": 700,
   "max_words": 30000,

@@ -4,7 +4,8 @@
   "topic": "nao-bo",
   "sections": [
     "Tóm tắt",
-    "Thùy trán: trung tâm điều hành",
+    "Thùy trán và vỏ não trước trán",
+    "Vỏ não trước trán làm gì",
     "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
     "Kiểm soát bản thân: cái phanh của não",
     "Hai bán cầu và thể chai",
@@ -18,7 +19,8 @@
     "S2": "https://doi.org/10.1146/annurev.neuro.24.1.167",
     "S3": "https://doi.org/10.1038/nrn1723",
     "S4": "https://doi.org/10.1371/journal.pone.0071275",
-    "S5": "https://bps.org.uk/psychologist/phineas-gage-unravelling-myth"
+    "S5": "https://bps.org.uk/psychologist/phineas-gage-unravelling-myth",
+    "S6": "https://doi.org/10.1038/nrn2648"
   },
   "min_words": 700,
   "max_words": 30000,

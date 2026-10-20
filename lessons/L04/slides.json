@@ -9,9 +9,9 @@
         "S4"
       ],
       "bullets": [
-        "Chuyên biệt hóa là thật, nhưng theo từng chức năng"
+        "Chuyên biệt hóa có thật, theo từng chức năng"
       ],
-      "notes": "Bài này xem thùy trán điều hành thế nào và hai bán cầu khác nhau ra sao, rồi trả lời câu hỏi mở bài.",
+      "notes": "Bài xem vỏ não trước trán điều hành thế nào và hai bán cầu khác nhau ra sao, rồi trả lời câu hỏi mở bài.",
       "layout": "one-highlighted-sentence",
       "tone": "light"
     },
@@ -25,7 +25,7 @@
         "S4"
       ],
       "bullets": [
-        "Thùy trán: trung tâm điều hành",
+        "Vỏ não trước trán: trung tâm điều hành",
         "Hai bán cầu: chuyên biệt hóa thật",
         "Không có người não trái hay não phải"
       ],
@@ -34,36 +34,47 @@
       "tone": "dark"
     },
     {
-      "title": "Thùy trán làm gì",
-      "section": "Thùy trán: trung tâm điều hành",
+      "title": "Thùy trán và vỏ não trước trán",
+      "section": "Thùy trán và vỏ não trước trán",
       "sources": [
         "S1",
         "S2"
       ],
       "bullets": [
-        "Giữ mục tiêu khi bị xao nhãng",
-        "Chọn cách làm phù hợp",
-        "Đổi cách làm khi hoàn cảnh đổi",
+        "Thùy trán: phía trước mỗi bán cầu",
         "Vỏ não trước trán: phần trước nhất"
       ],
-      "notes": "Miller và Cohen: vỏ não trước trán duy trì mẫu hoạt động mã hóa mục tiêu và cách đạt mục tiêu, rồi hướng dẫn các vùng khác. Ví dụ điện thoại rung khi đang học là ví dụ minh họa của người viết.",
-      "layout": "connection-diagram",
+      "notes": "Hai khái niệm hay bị lẫn. Nghiên cứu về kiểm soát chủ yếu nói về vỏ não trước trán. Nối với L00: một đường dopamine đi từ não giữa lên vỏ não trước trán.",
+      "layout": "two-column-comparison",
       "tone": "light"
     },
     {
-      "title": "Người điều phối của nhóm",
-      "section": "Thùy trán: trung tâm điều hành",
+      "title": "Vỏ não trước trán làm gì",
+      "section": "Vỏ não trước trán làm gì",
       "sources": [
+        "S1",
         "S2"
       ],
       "bullets": [
-        "Không tự làm mọi việc",
-        "Quyết định ai làm gì, lúc nào",
-        "Kiểm soát nhận thức"
+        "Giữ mục tiêu trong đầu",
+        "Chọn cách làm phù hợp",
+        "Điều chỉnh khi hoàn cảnh đổi",
+        "Dẫn hoạt động ở các vùng khác"
       ],
-      "notes": "So sánh người điều phối là hình ảnh minh họa của người viết.",
-      "layout": "numbered-rows",
+      "notes": "Miller và Cohen: vỏ não trước trán duy trì mẫu hoạt động mã hóa mục tiêu và phương tiện, gửi tín hiệu thiên lệch cho vùng khác. Ví dụ điện thoại rung khi đang học là của người viết.",
+      "layout": "connection-diagram",
       "tone": "dark"
+    },
+    {
+      "title": "Người điều phối của nhóm",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [],
+      "bullets": [
+        "Không tự làm mọi việc, quyết định ai làm gì"
+      ],
+      "notes": "Cách ví von của người viết. Trong nghiên cứu, thuật ngữ thường dùng là kiểm soát điều hành (executive control).",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
     },
     {
       "title": "Phineas Gage qua các mốc",
@@ -73,12 +84,12 @@
       ],
       "bullets": [
         "1848: thanh sắt xuyên thùy trán, ông sống sót",
-        "1868: Harlow mô tả thay đổi tính cách",
-        "2000 và 2008: Macmillan nghi ngờ độ chính xác"
+        "1868: Harlow mô tả thay đổi mạnh hơn",
+        "2008: Macmillan nói nhiều điều kể về Gage là sai"
       ],
-      "notes": "Báo cáo 1848 nhắc rất ít đến thay đổi tâm lý; mô tả mạnh hơn xuất hiện năm 1868.",
+      "notes": "Báo cáo 1848 nhắc rất ít đến thay đổi tâm lý. Macmillan còn là tác giả cuốn An Odd Kind of Fame (2000).",
       "layout": "timeline",
-      "tone": "light"
+      "tone": "dark"
     },
     {
       "title": "Điều chắc và điều còn tranh cãi",
@@ -87,13 +98,13 @@
         "S5"
       ],
       "bullets": [
-        "Chắc: tổn thương thùy trán, ông sống sót",
+        "Chắc: tai nạn xảy ra, ông sống sót",
         "Tranh cãi: mức thay đổi tính cách",
         "Bài học: kiểm tra lại chuyện cũ"
       ],
-      "notes": "Tổn thương thùy trán có thể ảnh hưởng đến hành vi; nhưng phần tính cách bị kể phóng đại.",
+      "notes": "Mức tổn thương chính xác của não chỉ được suy ra về sau.",
       "layout": "two-column-comparison",
-      "tone": "dark"
+      "tone": "light"
     },
     {
       "title": "Cái phanh của não",
@@ -103,12 +114,25 @@
       ],
       "bullets": [
         "Cám dỗ xuất hiện",
-        "Thùy trán so với mục tiêu",
+        "So với mục tiêu đã đặt",
         "Kìm lại hoặc cho phép",
         "Hành động"
       ],
-      "notes": "Chuỗi minh họa đã đơn giản hóa nhiều, không phải sơ đồ chính xác của từng nơron.",
+      "notes": "Mô hình minh họa do người viết dựng, dựa trên ý tín hiệu thiên lệch của Miller và Cohen; không phải sơ đồ chính xác từng nơron.",
       "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Căng thẳng và người điều phối",
+      "section": "Kiểm soát bản thân: cái phanh của não",
+      "sources": [
+        "S6"
+      ],
+      "bullets": [
+        "Căng thẳng có thể làm yếu vỏ não trước trán"
+      ],
+      "notes": "Arnsten tổng hợp tác động của căng thẳng lên cấu trúc và chức năng vỏ não trước trán. Sẽ gặp lại ở L05.",
+      "layout": "one-highlighted-sentence",
       "tone": "light"
     },
     {
@@ -121,9 +145,9 @@
       "bullets": [
         "Thể chai: bó sợi nối hai bán cầu",
         "Một số bệnh nhân từng bị cắt thể chai",
-        "Sperry và Gazzaniga: mỗi bên có thế mạnh riêng"
+        "Mỗi bán cầu có thế mạnh riêng"
       ],
-      "notes": "Ngôn ngữ ở phần lớn người nghiêng về bán cầu trái; trong não bình thường hai bên phối hợp chặt chẽ.",
+      "notes": "Sperry, Bogen và Gazzaniga. Trong não bình thường hai bên phối hợp chặt chẽ nhờ thể chai.",
       "layout": "card-grid",
       "tone": "dark"
     },
@@ -134,10 +158,10 @@
         "S4"
       ],
       "bullets": [
-        "Ngôn ngữ: thường nghiêng trái",
+        "Ngôn ngữ (Broca, Wernicke): thường nghiêng trái",
         "Kiểm soát chú ý: thường nghiêng phải"
       ],
-      "notes": "Từ nghiên cứu fMRI lúc nghỉ của Nielsen và cộng sự, 2013.",
+      "notes": "Nghiêng trái nghĩa là kết nối của mạng đó mạnh hơn ở bên trái. Từ fMRI lúc nghỉ của Nielsen và cộng sự, 2013.",
       "layout": "lookup-table",
       "tone": "light"
     },
@@ -156,18 +180,33 @@
       "tone": "dark"
     },
     {
-      "title": "Chuyên biệt hóa là của từng mạng",
+      "title": "Ba lý do hiểu lầm",
       "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
       "sources": [
         "S3",
         "S4"
       ],
       "bullets": [
-        "Không phải của cả con người"
+        "Chức năng phức tạp cần cả hai bên",
+        "Chuyên biệt hóa theo mạng, không theo người",
+        "Nghiên cứu không đo logic hay sáng tạo"
       ],
-      "notes": "Ba lý do: chức năng phức tạp cần cả hai bên; chuyên biệt hóa theo mạng; logic và sáng tạo không được gán cho bán cầu nào.",
-      "layout": "one-highlighted-sentence",
+      "notes": "Các nghiên cứu nói về chức năng cụ thể như ngôn ngữ và chú ý.",
+      "layout": "numbered-rows",
       "tone": "light"
+    },
+    {
+      "title": "Chuyên biệt hóa là cục bộ",
+      "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Theo từng mạng, không theo cả con người"
+      ],
+      "notes": "Chuyên biệt hóa là đặc điểm cục bộ, theo từng kết nối và mạng.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
     },
     {
       "title": "Điều cần nhớ",
@@ -177,17 +216,19 @@
         "S2",
         "S3",
         "S4",
-        "S5"
+        "S5",
+        "S6"
       ],
       "bullets": [
-        "Thùy trán giữ mục tiêu, điều chỉnh hành vi",
-        "Gage nổi tiếng nhưng kể phóng đại",
+        "Vỏ não trước trán giữ mục tiêu, chỉnh hành vi",
+        "Gage nổi tiếng nhưng bị kể quá đà",
+        "Căng thẳng làm suy giảm vỏ não trước trán",
         "Hai bán cầu nối bằng thể chai",
         "Chuyên biệt hóa theo chức năng, không theo người"
       ],
-      "notes": "Bài sau (L05) về hệ thưởng, chú ý và cảm xúc.",
+      "notes": "Bài sau (L05) về hệ thưởng, chú ý, cảm xúc và căng thẳng.",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "light"
     },
     {
       "title": "Nguồn tham khảo",
@@ -197,7 +238,8 @@
         "S2",
         "S3",
         "S4",
-        "S5"
+        "S5",
+        "S6"
       ],
       "bullets": [
         "Hove & Martinez, Biological Psychology, chương 2",
@@ -206,7 +248,7 @@
         "Nielsen và cộng sự, PLOS ONE, 2013",
         "Macmillan, The Psychologist, 2008"
       ],
-      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "notes": "Có thêm Arnsten, Nat Rev Neurosci, 2009. Đường dẫn đầy đủ ở lesson.md.",
       "layout": "lookup-table",
       "tone": "dark"
     }

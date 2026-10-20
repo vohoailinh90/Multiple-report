@@ -4,8 +4,11 @@
   "topic": "than-kinh",
   "sections": [
     "Tóm tắt",
-    "Hai chất chủ lực: kích thích và ức chế",
-    "Các chất điều hòa: dopamine, serotonin, noradrenaline",
+    "Chất dẫn truyền khác hormone thế nào",
+    "Hai chất chủ lực: glutamate và GABA",
+    "Dopamine",
+    "Serotonin",
+    "Noradrenaline",
     "Acetylcholine và endorphin",
     "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
     "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
@@ -15,7 +18,7 @@
   ],
   "sources": {
     "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
-    "S2": "https://nba.uth.tmc.edu/neuroscience",
+    "S2": "https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm",
     "S3": "https://doi.org/10.1038/s41380-022-01661-0",
     "S4": "https://www.ncbi.nlm.nih.gov/books/NBK10795/"
   },
@@ -30,7 +33,8 @@
     "serotonin",
     "noradrenaline",
     "acetylcholine",
-    "endorphin"
+    "endorphin",
+    "umbrella review"
   ],
   "language": "vi",
   "slides": {

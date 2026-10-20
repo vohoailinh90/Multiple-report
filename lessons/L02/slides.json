@@ -3,36 +3,51 @@
   "subtitle": "Não bộ · Bài L02",
   "slides": [
     {
-      "title": "Làm sao 86 tỷ tế bào nói chuyện với nhau?",
+      "title": "Hai kiểu tín hiệu trong não",
       "section": "Tóm tắt",
       "sources": [
         "S1",
-        "S3"
+        "S3",
+        "S4"
       ],
       "bullets": [
-        "Trong một tế bào: xung điện",
-        "Giữa hai tế bào: chất hóa học",
-        "Chỗ nối giữa hai tế bào: synapse"
+        "Dọc sợi trục: xung điện",
+        "Giữa hai nơron: chất hóa học",
+        "Chỗ nối giữa hai nơron: synapse"
       ],
-      "notes": "Điện để chạy nhanh trong một tế bào; hóa chất để bắc cầu giữa hai tế bào. Đây là chìa khóa để sang L03 về chất dẫn truyền.",
+      "notes": "Ví dụ của người viết: điện như đường dây chạy nhanh trong một nhà, hóa chất như người đưa thư sang nhà kế bên. Đây là chìa khóa để sang L03.",
       "layout": "card-grid",
       "tone": "light"
     },
     {
-      "title": "Cấu tạo một nơron",
+      "title": "Bốn phần của một nơron",
       "section": "Cấu tạo một nơron",
       "sources": [
         "S1"
       ],
       "bullets": [
         "Sợi nhánh: nhận tín hiệu",
-        "Thân tế bào: tổng hợp tín hiệu",
+        "Thân tế bào: gom tín hiệu",
         "Sợi trục: dẫn tín hiệu đi",
         "Đầu tận cùng: trao cho tế bào kế"
       ],
       "notes": "Một nơron nhận từ nhiều nơron và gửi cho nhiều nơron, nên cả não là mạng lưới chứ không phải dây chuyền thẳng.",
       "layout": "flow",
       "tone": "dark"
+    },
+    {
+      "title": "Bên gửi và bên nhận",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Nơron trước: bên gửi tín hiệu",
+        "Nơron sau: bên nhận tín hiệu"
+      ],
+      "notes": "Một nơron có thể là nơron sau của nơron này và nơron trước của nơron khác.",
+      "layout": "two-column-comparison",
+      "tone": "light"
     },
     {
       "title": "Một xung thần kinh",
@@ -46,9 +61,9 @@
         "Kali chảy ra khỏi tế bào",
         "Trở về trạng thái nghỉ"
       ],
-      "notes": "Hodgkin và Huxley mô tả cơ chế này trên sợi trục khổng lồ của mực.",
+      "notes": "Hodgkin và Huxley mô tả và xây mô hình toán học cho cơ chế này từ thí nghiệm trên sợi trục khổng lồ của mực. Bài báo gốc rất kỹ thuật.",
       "layout": "timeline",
-      "tone": "light"
+      "tone": "dark"
     },
     {
       "title": "Có hoặc không",
@@ -58,12 +73,11 @@
         "S3"
       ],
       "bullets": [
-        "Xung không to hay nhỏ, chỉ có hoặc không",
-        "Kích thích mạnh hơn: phát xung dày hơn"
+        "Xung điện không to nhỏ khác nhau"
       ],
-      "notes": "Cường độ kích thích được mã hóa bằng số lần phát xung, không bằng độ lớn của một xung.",
+      "notes": "Ví dụ của người viết: chuông cửa. Bấm nhẹ hay mạnh, tiếng chuông vẫn như nhau; bấm dồn thì vang dày hơn. Kích thích mạnh hơn thường được mã hóa chủ yếu bằng xung dày hơn; thời điểm xung và số nơron tham gia cũng góp phần.",
       "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "tone": "light"
     },
     {
       "title": "Synapse: bốn bước",
@@ -80,40 +94,99 @@
       ],
       "notes": "Phần lớn synapse truyền bằng hóa chất; xung điện không nhảy qua khe synapse.",
       "layout": "sequence-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Thụ thể: ổ khóa và chìa",
+      "section": "Thụ thể: ổ khóa và chìa",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Chất dẫn truyền: chiếc chìa",
+        "Thụ thể: ổ khóa trên màng",
+        "Mở kênh ion hoặc báo hiệu trong tế bào"
+      ],
+      "notes": "Ví dụ của người viết: chìa đúng thì mở được, chìa sai thì không. Kênh ion là lỗ nhỏ cho ion đi qua màng.",
+      "layout": "connection-diagram",
       "tone": "light"
     },
     {
       "title": "Kích thích và ức chế",
-      "section": "Thụ thể, kích thích và ức chế",
+      "section": "Kích thích, ức chế và phép cộng",
       "sources": [
         "S1",
         "S3"
       ],
       "bullets": [
         "Kích thích: nơron sau dễ phát xung hơn",
-        "Ức chế: nơron sau khó phát xung hơn",
-        "Nơron sau cộng mọi tác động lại"
+        "Ức chế: nơron sau khó phát xung hơn"
       ],
       "notes": "Tác động tùy chất dẫn truyền và loại thụ thể. L03 sẽ nói chất nào kích thích, chất nào ức chế.",
       "layout": "two-column-comparison",
       "tone": "dark"
     },
     {
-      "title": "Chu trình của một chất dẫn truyền",
-      "section": "Dọn dẹp và thuốc",
+      "title": "Nơron sau cộng gộp",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Nhiều synapse cùng gửi tín hiệu",
+        "Kích thích và ức chế được cộng gộp",
+        "Đủ mạnh thì phát xung, chưa đủ thì không"
+      ],
+      "notes": "Ví dụ của người viết: hội đồng bỏ phiếu, có người ủng hộ, có người phản đối.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Năm bước đời một chất dẫn truyền",
+      "section": "Thuốc can thiệp ở đâu",
       "sources": [
         "S1"
       ],
       "bullets": [
-        "Tổng hợp: nơron trước tạo ra chất",
-        "Giải phóng: ra khe synapse",
-        "Gắn thụ thể: truyền tín hiệu",
-        "Thu hồi: đưa ngược vào nơron trước",
-        "Phân hủy: enzym cắt bỏ"
+        "Tổng hợp",
+        "Giải phóng",
+        "Gắn thụ thể",
+        "Thu hồi",
+        "Phân hủy"
       ],
       "notes": "Mỗi bước là một điểm mà thuốc hoặc chất kích thích có thể can thiệp.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba cách chấm dứt tín hiệu",
+      "section": "Chấm dứt tín hiệu: thu hồi và phân hủy",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Thu hồi (tái hấp thu): đưa ngược vào nơron trước",
+        "Phân hủy: enzym cắt bỏ",
+        "Khuếch tán: trôi ra khỏi khe synapse"
+      ],
+      "notes": "Ví dụ của người viết: bật công tắc thì cũng phải có cách tắt.",
       "layout": "lookup-table",
       "tone": "light"
+    },
+    {
+      "title": "Hiểu synapse là hiểu thuốc",
+      "section": "Thuốc can thiệp ở đâu",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Mỗi bước là một điểm thuốc có thể can thiệp"
+      ],
+      "notes": "Điều này sẽ rõ hơn ở L03.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
     },
     {
       "title": "Synapse thay đổi theo kinh nghiệm",
@@ -122,12 +195,13 @@
         "S3"
       ],
       "bullets": [
-        "Độ mạnh synapse tăng hoặc giảm theo hoạt động",
-        "Tính dẻo là một cơ sở của học và nhớ"
+        "Có thể mạnh lên theo hoạt động",
+        "Có thể yếu đi theo hoạt động",
+        "Cơ sở của học và nhớ"
       ],
-      "notes": "Não không phải một mạch điện đóng khung từ khi sinh ra.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "notes": "Tính dẻo synapse. Ví dụ của người viết: lối đi qua bãi cỏ càng nhiều người đi thì càng thành đường mòn.",
+      "layout": "card-grid",
+      "tone": "light"
     },
     {
       "title": "Điều cần nhớ",
@@ -139,13 +213,14 @@
       ],
       "bullets": [
         "Nhận ở sợi nhánh, gửi bằng sợi trục",
-        "Trong tế bào là điện, giữa tế bào là hóa chất",
-        "Thụ thể quyết định kích thích hay ức chế",
+        "Dọc sợi trục là điện, giữa nơron là hóa chất",
+        "Thụ thể quyết định tác động lên nơron sau",
+        "Mỗi bước là một điểm thuốc can thiệp",
         "Synapse thay đổi theo kinh nghiệm"
       ],
       "notes": "Bài sau (L03) về từng chất dẫn truyền.",
       "layout": "numbered-rows",
-      "tone": "light"
+      "tone": "dark"
     },
     {
       "title": "Nguồn tham khảo",
@@ -153,12 +228,14 @@
       "sources": [
         "S1",
         "S2",
-        "S3"
+        "S3",
+        "S4"
       ],
       "bullets": [
         "Hove & Martinez, Biological Psychology, chương 3 và 5",
         "Hodgkin và Huxley, J Physiol, 1952",
-        "Neuroscience Online, UTHealth Houston, chương 5 và 6"
+        "Neuroscience Online, UTHealth Houston",
+        "Azevedo và cộng sự, J Comp Neurol, 2009"
       ],
       "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
       "layout": "lookup-table",

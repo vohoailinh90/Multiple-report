@@ -5,27 +5,27 @@
   "sections": [
     "Tóm tắt",
     "Chất dẫn truyền khác hormone thế nào",
-    "Hai chất chủ lực: glutamate và GABA",
+    "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+    "Glutamate",
+    "GABA",
     "Dopamine",
     "Serotonin",
     "Noradrenaline",
-    "Acetylcholine và endorphin",
+    "Acetylcholine",
+    "Endorphin và hệ opioid",
+    "Oxytocin và vasopressin",
+    "Bản đồ nguồn và đích",
+    "Thuốc và các chất tác động lên chất dẫn truyền",
     "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
     "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
     "Điều cần nhớ",
     "Lưu ý",
     "Nguồn tham khảo"
   ],
-  "sources": {
-    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
-    "S2": "https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm",
-    "S3": "https://doi.org/10.1038/s41380-022-01661-0",
-    "S4": "https://www.ncbi.nlm.nih.gov/books/NBK10795/",
-    "S5": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
-  },
-  "min_words": 700,
-  "max_words": 30000,
-  "min_citations": 6,
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/how-drugs-affect-neurotransmitters/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
+  ],
   "key_terms": [
     "chất dẫn truyền thần kinh",
     "glutamate",
@@ -35,11 +35,33 @@
     "noradrenaline",
     "acetylcholine",
     "endorphin",
+    "oxytocin",
+    "vasopressin",
+    "thụ thể",
+    "nhân raphe",
+    "locus coeruleus",
     "umbrella review"
   ],
+  "min_words": 4500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
   "language": "vi",
   "slides": {
-    "min": 8,
-    "max": 40
+    "min": 30,
+    "max": 60
   }
 }

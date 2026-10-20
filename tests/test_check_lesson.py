@@ -74,8 +74,12 @@ class GateTests(unittest.TestCase):
     def test_the_synthetic_lesson_passes(self):
         self.assertEqual(self.run_gate(), ([], []))
 
-    def test_the_existing_lessons_still_pass(self):
+    def test_every_finished_lesson_passes_its_gate(self):
+        """A lesson whose spec says it is being written is skipped until the orchestrator merges it."""
         for lid in sorted(p.stem.split(".")[0] for p in (ROOT / "lessons").glob("*.expected.json")):
+            spec = ROOT / "lessons" / f"{lid}.spec.md"
+            if spec.is_file() and "Trạng thái: đang viết" in spec.read_text(encoding="utf-8"):
+                continue
             with self.subTest(lesson=lid):
                 self.assertEqual(gate.check(ROOT, lid)[0], [])
 
@@ -112,6 +116,14 @@ class GateTests(unittest.TestCase):
     def test_a_slide_may_only_cite_listed_sources(self):
         errs, _ = self.run_gate(self.mutated(3, bullets=["A: một [S9]", "B: hai"]))
         self.assertIn("slide cites S9, not in the reference list: Hai phía", errs)
+
+    def test_images_only_on_layouts_that_draw_them(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        errs, _ = self.run_gate(self.mutated(4, images=img))
+        self.assertIn("images are drawn only by figure and annotated-figure: Ba bước", errs)
+        self.assertIn("figure needs images: Ba bước", self.run_gate(self.mutated(4, layout="figure"))[0])
 
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})

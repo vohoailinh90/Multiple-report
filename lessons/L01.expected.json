@@ -4,38 +4,59 @@
   "topic": "nao-bo",
   "sections": [
     "Tóm tắt",
-    "Hệ thần kinh: bức tranh chung",
-    "Thân não và tiểu não",
-    "Hệ viền và các cấu trúc nằm sâu",
-    "Vỏ não và bốn thùy",
+    "Hệ thần kinh trung ương và ngoại biên",
+    "Đọc bản đồ não: hướng và mặt cắt",
+    "Nhìn vào não sống: các cách chụp não",
+    "Thân não: hành não, cầu não, não giữa",
+    "Thân não: nơi xuất phát của các chất dẫn truyền",
+    "Tiểu não (cerebellum)",
+    "Tầng trên: các nhân nằm sâu và vỏ não",
     "Đừng hiểu \"mỗi vùng một việc\" quá đà",
     "Điều cần nhớ",
     "Nguồn tham khảo"
   ],
-  "sources": {
-    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
-    "S2": "https://doi.org/10.1002/cne.21974",
-    "S3": "https://www.ninds.nih.gov/publications/know-your-brain-brain-basics",
-    "S4": "https://www.brainfacts.org/book"
-  },
-  "min_words": 700,
-  "max_words": 30000,
-  "min_citations": 6,
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/visualizing-and-navigating-the-human-brain/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-nervous-system/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-peripheral-nervous-system/"
+  ],
   "key_terms": [
     "hệ thần kinh trung ương",
+    "hệ thần kinh ngoại biên",
+    "hệ thần kinh tự chủ",
+    "mặt cắt",
     "thân não",
+    "hành não",
+    "cầu não",
+    "não giữa",
     "tiểu não",
-    "hệ viền",
-    "vỏ não",
-    "thùy trán",
-    "hạnh nhân",
-    "hải mã",
-    "vùng dưới đồi",
-    "thùy chẩm"
+    "medulla",
+    "pons",
+    "midbrain",
+    "cerebellum",
+    "locus coeruleus"
   ],
+  "min_words": 3500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
   "language": "vi",
   "slides": {
-    "min": 8,
-    "max": 40
+    "min": 30,
+    "max": 60
   }
 }

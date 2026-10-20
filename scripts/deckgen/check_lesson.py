@@ -120,6 +120,8 @@ def check(root, lid):
             errs.append(f"profile-card needs facts: {name}")
         if L in ("figure", "annotated-figure"):
             if not s.get("images"): errs.append(f"{L} needs images: {name}")
+        elif s.get("images"):
+            errs.append(f"images are drawn only by figure and annotated-figure: {name}")
         for img in s.get("images", []):
             figures += 1
             if not {"file", "alt", "credit", "url"} <= set(img): errs.append(f"image entry incomplete: {name}")

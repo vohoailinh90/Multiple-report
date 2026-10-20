@@ -1,0 +1,59 @@
+{
+  "id": "L10",
+  "title": "Chất dẫn truyền, hormone và cảm xúc",
+  "topic": "than-kinh",
+  "sections": [
+    "Tóm tắt",
+    "Hai hệ truyền tin: chất dẫn truyền và hormone",
+    "Bảng ghép cảm xúc, mạch, chất và hormone",
+    "Đọc bảng cho đúng: mức bằng chứng",
+    "Cortisol: khi căng thẳng gặp cảm xúc",
+    "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
+    "Testosterone và gây hấn",
+    "Dopamine và opioid: muốn và thích",
+    "Serotonin, noradrenaline và tâm trạng, lo âu",
+    "Vì sao không có \"hormone hạnh phúc\"",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/introduction-5/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/parental-behaviors/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/basic-emotions/"
+  ],
+  "key_terms": [
+    "hormone",
+    "cortisol",
+    "oxytocin",
+    "vasopressin",
+    "testosterone",
+    "dopamine",
+    "serotonin",
+    "noradrenaline",
+    "mức bằng chứng",
+    "hormone hạnh phúc"
+  ],
+  "min_words": 3500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

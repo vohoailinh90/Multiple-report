@@ -1,0 +1,168 @@
+{
+  "title": "Nơron và synapse: não truyền tin thế nào",
+  "subtitle": "Não bộ · Bài L02",
+  "slides": [
+    {
+      "title": "Làm sao 86 tỷ tế bào nói chuyện với nhau?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Trong một tế bào: xung điện",
+        "Giữa hai tế bào: chất hóa học",
+        "Chỗ nối giữa hai tế bào: synapse"
+      ],
+      "notes": "Điện để chạy nhanh trong một tế bào; hóa chất để bắc cầu giữa hai tế bào. Đây là chìa khóa để sang L03 về chất dẫn truyền.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Cấu tạo một nơron",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Sợi nhánh: nhận tín hiệu",
+        "Thân tế bào: tổng hợp tín hiệu",
+        "Sợi trục: dẫn tín hiệu đi",
+        "Đầu tận cùng: trao cho tế bào kế"
+      ],
+      "notes": "Một nơron nhận từ nhiều nơron và gửi cho nhiều nơron, nên cả não là mạng lưới chứ không phải dây chuyền thẳng.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Một xung thần kinh",
+      "section": "Tín hiệu điện: xung thần kinh",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Nơron đủ bị kích thích",
+        "Natri chảy vào tế bào",
+        "Kali chảy ra khỏi tế bào",
+        "Trở về trạng thái nghỉ"
+      ],
+      "notes": "Hodgkin và Huxley mô tả cơ chế này trên sợi trục khổng lồ của mực.",
+      "layout": "timeline",
+      "tone": "light"
+    },
+    {
+      "title": "Có hoặc không",
+      "section": "Tín hiệu điện: xung thần kinh",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Xung không to hay nhỏ, chỉ có hoặc không",
+        "Kích thích mạnh hơn: phát xung dày hơn"
+      ],
+      "notes": "Cường độ kích thích được mã hóa bằng số lần phát xung, không bằng độ lớn của một xung.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Synapse: bốn bước",
+      "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Xung điện tới đầu tận cùng",
+        "Canxi vào, túi giải phóng chất dẫn truyền",
+        "Chất dẫn truyền gắn vào thụ thể",
+        "Nơron sau thay đổi hoạt động"
+      ],
+      "notes": "Phần lớn synapse truyền bằng hóa chất; xung điện không nhảy qua khe synapse.",
+      "layout": "sequence-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Kích thích và ức chế",
+      "section": "Thụ thể, kích thích và ức chế",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Kích thích: nơron sau dễ phát xung hơn",
+        "Ức chế: nơron sau khó phát xung hơn",
+        "Nơron sau cộng mọi tác động lại"
+      ],
+      "notes": "Tác động tùy chất dẫn truyền và loại thụ thể. L03 sẽ nói chất nào kích thích, chất nào ức chế.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Chu trình của một chất dẫn truyền",
+      "section": "Dọn dẹp và thuốc",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Tổng hợp: nơron trước tạo ra chất",
+        "Giải phóng: ra khe synapse",
+        "Gắn thụ thể: truyền tín hiệu",
+        "Thu hồi: đưa ngược vào nơron trước",
+        "Phân hủy: enzym cắt bỏ"
+      ],
+      "notes": "Mỗi bước là một điểm mà thuốc hoặc chất kích thích có thể can thiệp.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Synapse thay đổi theo kinh nghiệm",
+      "section": "Synapse thay đổi theo kinh nghiệm",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Độ mạnh synapse tăng hoặc giảm theo hoạt động",
+        "Tính dẻo là một cơ sở của học và nhớ"
+      ],
+      "notes": "Não không phải một mạch điện đóng khung từ khi sinh ra.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "bullets": [
+        "Nhận ở sợi nhánh, gửi bằng sợi trục",
+        "Trong tế bào là điện, giữa tế bào là hóa chất",
+        "Thụ thể quyết định kích thích hay ức chế",
+        "Synapse thay đổi theo kinh nghiệm"
+      ],
+      "notes": "Bài sau (L03) về từng chất dẫn truyền.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 3 và 5",
+        "Hodgkin và Huxley, J Physiol, 1952",
+        "Neuroscience Online, UTHealth Houston, chương 5 và 6"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "L03",
+  "title": "Chất dẫn truyền thần kinh và tâm lý",
+  "topic": "than-kinh",
+  "sections": [
+    "Tóm tắt",
+    "Hai chất chủ lực: kích thích và ức chế",
+    "Các chất điều hòa: dopamine, serotonin, noradrenaline",
+    "Acetylcholine và endorphin",
+    "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+    "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "sources": {
+    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
+    "S2": "https://nba.uth.tmc.edu/neuroscience",
+    "S3": "https://doi.org/10.1038/s41380-022-01661-0",
+    "S4": "https://www.ncbi.nlm.nih.gov/books/NBK10795/"
+  },
+  "min_words": 700,
+  "max_words": 30000,
+  "min_citations": 6,
+  "key_terms": [
+    "chất dẫn truyền thần kinh",
+    "glutamate",
+    "GABA",
+    "dopamine",
+    "serotonin",
+    "noradrenaline",
+    "acetylcholine",
+    "endorphin"
+  ],
+  "language": "vi",
+  "slides": {
+    "min": 8,
+    "max": 40
+  }
+}

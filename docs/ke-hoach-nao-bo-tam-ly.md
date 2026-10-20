@@ -3,11 +3,12 @@
 Bộ tài liệu giải thích đại khái cách não vận hành và ảnh hưởng đến tâm lý, rồi dùng nó để hiểu mạng xã hội và truyền thông
 tác động lên con người thế nào. Giáo trình nền: **Biological Psychology** (Hove & Martinez, CC BY-NC-SA 4.0,
 [bản Rotel Pressbooks](https://rotel.pressbooks.pub/biologicalpsychology/)). Mục tiêu là hiểu ý chính, không đi sâu;
-mỗi bài một file PowerPoint 9–12 slide.
+mỗi bài một file PowerPoint. Chủ repo cho phép bài dài và nhiều slide, miễn là dễ hiểu (không giới hạn số từ; `expected.json` đặt
+tối đa 30000 từ và 40 slide).
 
 ## Quy mô
 
-3 phần, 6 bài (`L01`–`L06`), khoảng 63 slide. Bài `L00` (Dopamine và động lực) đã có, được dùng như bài tham chiếu
+3 phần, 6 bài (`L01`–`L06`), mỗi bài khoảng 12–25 slide sau khi mở rộng. Bài `L00` (Dopamine và động lực) đã có, được dùng như bài tham chiếu
 cho chất dẫn truyền dopamine; các bài mới không lặp lại nội dung của nó mà dẫn về nó.
 
 | Phần | Bài | Tiêu đề | Chủ đề (`topic`) | Chương giáo trình |
@@ -41,7 +42,7 @@ L06 không có trong giáo trình, nên dùng nghiên cứu gốc, và chỉ vi�
 
 ## Cấu trúc và kiểm tra mỗi bài
 
-Theo `CLAUDE.md`: `lessons/Lxx.expected.json`, `lessons/Lxx/lesson.md`, `slides.json` (9–12 slide, ít nhất 5 kiểu
+Theo `CLAUDE.md`: `lessons/Lxx.expected.json`, `lessons/Lxx/lesson.md`, `slides.json` (ít nhất 8 slide, ít nhất 5 kiểu
 layout, không trùng kiểu ở hai slide liền nhau, không quá 3 slide liền cùng tone), rồi `Lxx.pptx` và `deck.json`.
 Bài có nội dung y tế (L03, L05, L06) có `## Lưu ý`; mục cuối là `## Nguồn tham khảo`.
 Mỗi bài có tối thiểu 5 trích dẫn `[Sn]`, gồm giáo trình (kèm chương) và ít nhất một nguồn gốc độc lập.
@@ -69,3 +70,19 @@ Mỗi bài có tối thiểu 5 trích dẫn `[Sn]`, gồm giáo trình (kèm ch�
 L01 → L02 → L03 → L04 → L05 → L06 (bài sau dẫn về bài trước). L01 làm mẫu và qua phản biện trước, để lỗi không lặp
 6 lần. Tổng cộng 8 agent phản biện. Không dùng số liệu, nghiên cứu hay câu trích
 mà không có nguồn đã kiểm lại.
+
+## Hình minh họa từ sách miễn phí (yêu cầu của chủ repo)
+
+Mỗi bài có hình lấy từ giáo trình mở hoặc Wikimedia Commons, để bài sinh động và dễ hiểu.
+
+- **Trạng thái:** chờ mở mạng. Máy chủ của phiên này đang chặn các trang nguồn nên chưa tải được ảnh nào; danh sách domain
+  đã gửi chủ repo để thêm vào Allowed domains.
+- **Điều kiện dùng một hình:** trang nguồn ghi rõ giấy phép cho phép dùng lại (CC BY, CC BY-SA, CC0, public domain, hoặc
+  CC BY-NC-SA của chính giáo trình nếu mục đích phi thương mại). Ghi tác giả, giấy phép và URL trang ảnh; đặt vào `notes` của
+  slide và ở chân slide.
+- **Nơi lưu:** ảnh nằm trong file PPTX do Moda xuất. `CLAUDE.md` chỉ cho phép PPTX trong thư mục bài, nên không để PNG riêng
+  trong repo; bảng tác giả/giấy phép của ảnh ghi trong `slides.json` (khóa `images`) để nhóm phản biện kiểm lại.
+- **Phản biện:** thêm một agent kiểm hình: giấy phép có đúng không, hình có minh họa đúng ý slide không, có hình nào sai
+  khoa học hay lỗi thời không.
+- **Việc của `deck-style.md`:** quy định hiện tại "chỉ vector (không sinh ảnh)" nói về ảnh do máy sinh. Ảnh có giấy phép
+  được thêm theo yêu cầu của chủ repo; sẽ cập nhật tài liệu phong cách khi bắt đầu dùng ảnh.

@@ -19,7 +19,7 @@
     "S4": "https://www.brainfacts.org/book"
   },
   "min_words": 700,
-  "max_words": 2500,
+  "max_words": 30000,
   "min_citations": 6,
   "key_terms": [
     "hệ thần kinh trung ương",
@@ -36,6 +36,6 @@
   "language": "vi",
   "slides": {
     "min": 8,
-    "max": 12
+    "max": 40
   }
 }

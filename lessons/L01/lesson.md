@@ -268,7 +268,7 @@ Jung chịu ảnh hưởng của truyền thống Lãng mạn và của gia đì
 - **Tranh cãi chính trị thập niên 1930.** Từ 1933 (một số nguồn ghi 1934), Jung làm chủ tịch Hội Quốc tế Y khoa Tổng quát về Trị liệu Tâm lý (Internationale Allgemeine Ärztliche Gesellschaft für Psychotherapie), đến khoảng 1939–1940. Ông đứng tên cùng M. H. Göring trên tạp chí *Zentralblatt für Psychotherapie* của hội. Chi nhánh Đức do Göring dẫn dắt, đi theo đường lối Quốc xã [S39].
   - **Sự kiện có tài liệu:** Jung sửa điều lệ để bác sĩ Do Thái Đức có thể là hội viên cá nhân của hội quốc tế [S39].
   - **Lời Jung:** ông nhận chức để giữ hội trung lập và coi chức danh biên tập chỉ trên danh nghĩa [S39] [S51].
-  - **Bị chỉ trích:** năm 1934 ông viết bài đối lập "tâm lý Do Thái" với "tâm lý Đức/Aryan" theo cách khuôn mẫu [S49]. Ông cũng bị chỉ trích vì không công khai bác bỏ bài xã luận thân Quốc xã của Göring trên chính tạp chí đó (12/1933); Jung nói bài ấy được Göring đưa vào mà không có sự đồng ý của ông. Lời mở đầu do chính Jung ký (12/1933) và bài năm 1934 cũng gây phản đối công khai [S39] [S51].
+  - **Bị chỉ trích:** năm 1934 ông viết bài đối lập "tâm lý Do Thái" với "tâm lý Đức/Aryan" theo cách khuôn mẫu [S49]. Ông cũng bị chỉ trích vì không công khai bác bỏ bài xã luận thân Quốc xã của Göring trên chính tạp chí đó (12/1933); Jung nói ông không được báo trước về bài ấy và nó do Göring đưa vào. Lời mở đầu do chính Jung ký (12/1933) và bài năm 1934 cũng gây phản đối công khai [S39] [S51].
   - Học giả bất đồng về việc đó là thái độ bài Do Thái, cơ hội, hay ngây thơ chính trị, theo các tác giả trong tuyển tập [S51].
 
 ## Adler: huấn luyện viên của can đảm

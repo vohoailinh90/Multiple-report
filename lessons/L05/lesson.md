@@ -11,7 +11,7 @@ date: 2026-10-20
 Vì sao ta có thể bị cuốn vào một thứ mà ta biết là không quan trọng? Câu trả lời nằm ở bốn hệ thống của não. Hai hệ ta đã gặp: hệ
 thưởng (reward system) ở L00 và hạnh nhân (amygdala), cấu trúc xử lý cảm xúc, ở L01. Hai hệ mới: chú ý (attention), quyết định ta
 nhìn vào đâu; và phản ứng căng thẳng (stress response), quyết định cơ thể phản ứng thế nào khi áp lực kéo dài [S1] [S3] [S4] [S5].
-Vỏ não trước trán (L04) cố gắng điều phối cả bốn hệ theo mục tiêu dài hạn, nhưng nó có giới hạn. Hiểu bốn hệ này là nền để bài cuối
+Vỏ não trước trán (L04) có thể điều chỉnh các hệ thưởng, cảm xúc và chú ý theo mục tiêu dài hạn, nhưng nó có giới hạn; đây là mở rộng của người viết từ L04. Hiểu bốn hệ này là nền để bài cuối
 (L06) xem mạng xã hội và truyền thông tác động lên não thế nào.
 
 ## Nhắc lại từ L00: hệ thưởng
@@ -22,8 +22,7 @@ Phần này chỉ nhắc ý chính để nối với các hệ khác; chi tiết
   đã được báo trước thì tín hiệu chuyển sang lúc có dấu hiệu báo trước, và giảm xuống dưới mức nền khi phần thưởng đáng lẽ đến mà
   không đến. Đó là tín hiệu sai số dự đoán phần thưởng (reward prediction error); phần thưởng đã được dự đoán thì gần như không còn
   tạo ra tín hiệu [S1].
-- **Muốn khác với thích.** Kent Berridge và Terry Robinson lập luận rằng dopamine không chủ yếu tạo ra khoái cảm (liking), cũng
-  không chỉ là tín hiệu học theo thưởng, mà gắn với sức hút của một thứ, gọi là incentive salience, tức cảm giác "muốn" (wanting)
+- **Muốn khác với thích.** Kent Berridge và Terry Robinson lập luận rằng dopamine không chủ yếu tạo ra khoái cảm (liking), cũng không phải là tín hiệu học thưởng thuần túy, mà gắn với sức hút của một thứ, gọi là incentive salience, tức cảm giác "muốn" (wanting)
   [S2]. Đây là một quan điểm trong cuộc thảo luận về vai trò của dopamine, và nhấn mạnh khía cạnh khác với Schultz.
 
 Ví dụ của người viết: ta có thể rất muốn mở một ứng dụng mà mở xong lại không thấy vui.
@@ -34,8 +33,7 @@ Chú ý là việc não chọn một số thông tin để xử lý sâu hơn v�
 các nghiên cứu hình ảnh não và cho rằng chú ý do hai hệ phối hợp điều khiển [S5]:
 
 1. **Hệ lưng (dorsal), theo mục tiêu (goal-directed).** Ta chủ động hướng chú ý vào thứ phục vụ mục tiêu của mình.
-2. **Hệ bụng (ventral), theo kích thích (stimulus-driven).** Một thứ nổi bật hoặc bất ngờ tự kéo chú ý về phía nó dù ta không định
-   nhìn; hệ này nghiêng về bán cầu phải, khớp với mạng kiểm soát chú ý ở L04 [S5].
+2. **Hệ bụng (ventral), theo kích thích (stimulus-driven).** Một thứ nổi bật hoặc bất ngờ, và liên quan đến hành vi, tự kéo chú ý về phía nó dù ta không định nhìn; hệ này phần lớn nghiêng về bán cầu phải [S5]. L04 cũng nêu một mạng kiểm soát chú ý nghiêng phải; chưa rõ có trùng với hệ bụng hay không.
 
 Hai hệ tương tác với nhau. Ví dụ của người viết: bạn đang đọc sách trong thư viện yên tĩnh (hệ lưng giữ chú ý) thì có tiếng động lớn
 (hệ bụng kéo chú ý), và bạn ngẩng lên dù không định. Chú ý không hoàn toàn do ta quyết định; một phần do thế giới quyết định thay ta.
@@ -75,7 +73,7 @@ Ví dụ của người viết, đã đơn giản hóa nhiều: điện thoại 
 ở từng bước, không hỗ trợ kịch bản này.
 
 1. Ánh sáng và âm thanh bất ngờ kéo chú ý từ hệ bụng [S5].
-2. Bạn không biết đó là gì, nên hệ thưởng "muốn" biết, vì kết quả có thể tốt hơn dự đoán [S1] [S2].
+2. Bạn không biết đó là gì, nên hệ thưởng "muốn" biết, vì kết quả có thể tốt hơn dự đoán (diễn giải của người viết).
 3. Nếu tin nhắn gợi một điều đáng lo, các mạch cảm xúc quanh hạnh nhân tham gia thêm [S3].
 4. Vỏ não trước trán (L04) so sánh với mục tiêu "đang làm việc" và quyết định kìm lại hay xem. Đây là nhận định tổng hợp của người
    viết dựa trên L04, không phải kết quả của một nghiên cứu cụ thể.
@@ -90,7 +88,7 @@ còn khó làm việc hơn (L04).
 2. Chú ý có hai hệ: theo mục tiêu và theo kích thích nổi bật [S5].
 3. Hạnh nhân là phần quan trọng của hệ thống học và thể hiện nỗi sợ [S3].
 4. Căng thẳng ngắn hạn giúp thích nghi, căng thẳng mãn tính làm hao mòn dần [S4].
-5. Vỏ não trước trán điều phối các hệ này nhưng có giới hạn (L04).
+5. Vỏ não trước trán có thể điều chỉnh các hệ này nhưng có giới hạn (L04, mở rộng của người viết).
 
 ## Lưu ý
 

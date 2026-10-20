@@ -14,7 +14,7 @@
       "bullets": [
         "Bốn hệ thống cùng kéo ta đi"
       ],
-      "notes": "Hệ thưởng và hạnh nhân đã gặp ở L00 và L01; chú ý và căng thẳng là mới. Vỏ não trước trán điều phối nhưng có giới hạn.",
+      "notes": "Hệ thưởng và hạnh nhân đã gặp ở L00 và L01; chú ý và căng thẳng là mới. Vỏ não trước trán có thể điều chỉnh nhưng có giới hạn (mở rộng của người viết từ L04).",
       "layout": "one-highlighted-sentence",
       "tone": "light"
     },
@@ -78,7 +78,7 @@
         "Hệ bụng: theo kích thích nổi bật",
         "Hai hệ tương tác với nhau"
       ],
-      "notes": "Corbetta và Shulman. Hệ bụng nghiêng về bán cầu phải, khớp với mạng kiểm soát chú ý ở L04.",
+      "notes": "Corbetta và Shulman. Hệ bụng phần lớn nghiêng về bán cầu phải. L04 cũng nêu một mạng kiểm soát chú ý nghiêng phải; chưa rõ có trùng hệ bụng.",
       "layout": "connection-diagram",
       "tone": "light"
     },
@@ -229,7 +229,7 @@
         "Chú ý có hai hệ",
         "Hạnh nhân tham gia học nỗi sợ",
         "Căng thẳng mãn tính làm hao mòn dần",
-        "Vỏ não trước trán điều phối nhưng có giới hạn"
+        "Vỏ não trước trán điều chỉnh, có giới hạn"
       ],
       "notes": "Bài sau (L06) về mạng xã hội và truyền thông.",
       "layout": "numbered-rows",

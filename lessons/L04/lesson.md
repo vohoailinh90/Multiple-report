@@ -11,8 +11,7 @@ date: 2026-10-20
 Hai người bạn cãi nhau: một người nói "mình thiên về não trái nên giỏi toán", người kia nói "mình thiên về não phải nên vẽ đẹp".
 Câu đó đúng hay sai? Bài này trả lời bằng cách xem hai việc: thùy trán (frontal lobe), phần ở phía trước của vỏ não, làm gì
 trong việc lập kế hoạch và kiểm soát bản thân; và hai bán cầu não (cerebral hemispheres), trái và phải, khác nhau ở đâu. Kết luận
-ngắn gọn: phần trước nhất của thùy trán, gọi là vỏ não trước trán (prefrontal cortex), thật sự đóng vai trò giống một "trung tâm
-điều hành" [S1] [S2]; hai bán cầu thật sự có chuyên biệt hóa, nhưng ở từng chức năng, không phải ở từng con người [S3] [S4]. Vì vậy khái
+ngắn gọn: phần trước nhất của thùy trán, gọi là vỏ não trước trán (prefrontal cortex), có vai trò điều hành, gọi là kiểm soát nhận thức [S1] [S2]; hai bán cầu thật sự có chuyên biệt hóa, nhưng ở từng chức năng, không phải ở từng con người [S3] [S4]. Vì vậy khái
 niệm "người não trái" và "người não phải" không có bằng chứng ủng hộ [S4].
 
 ## Thùy trán và vỏ não trước trán
@@ -43,11 +42,10 @@ quyết định ai làm gì lúc nào.
 Phineas Gage là bệnh nhân sách giáo khoa thường nhắc đến. Năm 1848, một thanh sắt đâm xuyên má trái và thùy trán của ông rồi
 ra khỏi đỉnh đầu; ông sống sót [S5].
 
-Tuy vậy, Malcolm Macmillan, tác giả cuốn An Odd Kind of Fame (2000) về trường hợp này, cho rằng nhiều điều kể về Gage là sai. Báo
-cáo ban đầu của bác sĩ John Harlow năm 1848 nhắc rất ít đến thay đổi tâm lý; những mô tả mạnh hơn xuất hiện trong báo cáo của chính
-Harlow năm 1868, nhiều năm sau; thay đổi ghi nhận khi Gage còn sống ít kịch tính hơn nhiều so với cách kể lại về sau [S5]. Bài học nên
+Tuy vậy, Malcolm Macmillan, tác giả cuốn An Odd Kind of Fame (2000) về trường hợp này, cho rằng nhiều điều kể về Gage là sai. Theo Macmillan, báo cáo ban đầu của bác sĩ John Harlow năm 1848 nhắc rất ít đến thay đổi tâm lý; những mô tả mạnh hơn xuất hiện trong báo cáo của chính
+Harlow năm 1868, nhiều năm sau; theo ông, thay đổi ghi nhận khi Gage còn sống ít kịch tính hơn so với cách kể lại về sau [S5]. Bài học nên
 rút ra: tổn thương thùy trán có thể ảnh hưởng đến hành vi, nhưng một câu chuyện cũ được kể lại nhiều lần cần được kiểm tra lại trước
-khi tin hoàn toàn [S5]. Mức tổn thương chính xác của não ông cũng chỉ được suy ra về sau, không phải điều chắc chắn.
+khi tin hoàn toàn [S5]. Mức tổn thương chính xác của não ông cũng chỉ được suy ra về sau, không phải điều chắc chắn (nhận định của người viết).
 
 ## Kiểm soát bản thân: cái phanh của não
 
@@ -60,7 +58,7 @@ trước trán so nó với mục tiêu đã đặt, rồi hoặc kìm hành đ�
 đồ chính xác từng nơron.
 
 Về điều kiện để "người điều phối" làm việc tốt: Amy Arnsten tổng hợp rằng căng thẳng có thể làm suy giảm cấu trúc và chức năng của
-vỏ não trước trán [S6]. Đây là lý do nhiều người thấy khó tự kiểm soát khi căng thẳng; ta sẽ gặp lại ở L05.
+vỏ não trước trán [S6]. Đây có thể là một lý do khiến nhiều người thấy khó tự kiểm soát khi căng thẳng; ta sẽ gặp lại ở L05.
 
 ## Hai bán cầu và thể chai
 
@@ -113,5 +111,5 @@ hệ thưởng, chú ý, cảm xúc và căng thẳng, nơi vỏ não trước t
 - [S2] Miller E. K., Cohen J. D., An integrative theory of prefrontal cortex function, Annual Review of Neuroscience, 2001 https://doi.org/10.1146/annurev.neuro.24.1.167
 - [S3] Gazzaniga M. S., Forty-five years of split-brain research and still going strong, Nature Reviews Neuroscience, 2005 https://doi.org/10.1038/nrn1723
 - [S4] Nielsen J. A. và cộng sự, An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging, PLOS ONE, 2013 https://doi.org/10.1371/journal.pone.0071275
-- [S5] Macmillan M., Phineas Gage – Unravelling the myth, The Psychologist, 2008 https://bps.org.uk/psychologist/phineas-gage-unravelling-myth
+- [S5] Macmillan M., Phineas Gage – Unravelling the myth, The Psychologist, 2008 (tác giả cũng viết cuốn An Odd Kind of Fame, MIT Press, 2000) https://bps.org.uk/psychologist/phineas-gage-unravelling-myth
 - [S6] Arnsten A. F. T., Stress signalling pathways that impair prefrontal cortex structure and function, Nature Reviews Neuroscience, 2009 https://doi.org/10.1038/nrn2648

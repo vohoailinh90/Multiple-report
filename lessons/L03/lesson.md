@@ -9,18 +9,15 @@ date: 2026-10-20
 ## Tóm tắt
 
 Có phải mỗi cảm xúc do một chất hóa học trong não quyết định? Câu trả lời là không đơn giản như vậy. Ở L02 ta đã thấy các nơron
-(neuron) nói chuyện với nhau ở synapse bằng chất dẫn truyền thần kinh (neurotransmitter). Con số chính xác chưa rõ, nhưng các
-chất dẫn truyền đã biết vượt xa 100 [S4]. Để không bị ngợp, bài này chỉ nhớ vài chất chính: glutamate và GABA như "chân ga" và
+(neuron) nói chuyện với nhau ở synapse bằng chất dẫn truyền thần kinh (neurotransmitter). Con số chính xác chưa rõ, nhưng các chất dẫn truyền đã biết là hơn 100 [S4]. Để không bị ngợp, bài này chỉ nhớ vài chất chính: glutamate và GABA như "chân ga" và
 "chân phanh" của cả mạng lưới; dopamine, serotonin và noradrenaline điều chỉnh động lực, tâm trạng, tỉnh táo; acetylcholine liên
 quan đến cử động và chú ý; endorphin liên quan đến giảm đau [S1] [S2]. Quan trọng hơn danh sách là cách hiểu: cùng một chất có thể
 làm việc khác nhau ở nơi khác nhau, và tâm lý là hoạt động của cả mạng lưới chứ không phải của một phân tử.
 
 ## Chất dẫn truyền khác hormone thế nào
 
-Bạn hay nghe "hormone hạnh phúc". Hormone là chất do tuyến trong cơ thể tiết vào máu, đi khắp cơ thể để tác động lên nhiều cơ
-quan. Chất dẫn truyền thần kinh thì khác: nó được nơron giải phóng vào khe synapse, tác động lên nơron kế tiếp rất gần đó. Hai
-loại chất có khi trùng tên (một số chất vừa là hormone vừa là chất dẫn truyền), nhưng cách làm việc khác nhau. Đây là định nghĩa
-cơ bản, không phải phát hiện của riêng nghiên cứu nào.
+Bạn hay nghe "hormone hạnh phúc". Hormone là chất do tuyến nội tiết hoặc một số tế bào khác tiết vào máu, đi khắp cơ thể để tác động lên nhiều cơ quan. Chất dẫn truyền thần kinh thì khác: nó được nơron giải phóng vào khe synapse, tác động lên nơron kế tiếp rất gần đó. Hai
+loại chất có khi trùng tên (một số chất vừa là hormone vừa là chất dẫn truyền), nhưng cách làm việc khác nhau. Đây là định nghĩa giáo khoa tối giản; thực tế còn nhiều trường hợp nằm giữa hai loại.
 
 Ví dụ của người viết: hormone giống loa phát thanh cả khu phố; chất dẫn truyền giống một lá thư gửi cho người hàng xóm. Vì vậy
 gọi dopamine là "hormone hạnh phúc" gây hiểu sai ở cả hai chỗ: nó chủ yếu làm việc như chất dẫn truyền, và nó không đơn giản
@@ -28,7 +25,7 @@ là "hạnh phúc" (L00).
 
 ## Hai chất chủ lực: glutamate và GABA
 
-Phần lớn giao tiếp nhanh trong não dùng hai chất amino acid [S2] [S4]:
+Phần lớn giao tiếp nhanh trong não chủ yếu dùng hai chất amino acid [S2] [S4]:
 
 - **Glutamate** là chất dẫn truyền kích thích chủ yếu: nó làm nơron sau dễ phát xung hơn.
 - **GABA** là chất dẫn truyền ức chế chủ yếu (ở não trưởng thành): nó làm nơron sau khó phát xung hơn.
@@ -46,8 +43,7 @@ chính được trình bày ở L00. Liên quan đến những chức năng này
 ## Serotonin
 
 Serotonin cũng là một chất điều hòa. Nó liên quan đến tâm trạng, giấc ngủ và khẩu vị [S1] [S2]. Nhiều thuốc chống trầm cảm tác
-động lên hệ serotonin, cụ thể một nhóm làm giảm bước thu hồi (tái hấp thu, reuptake) ở synapse (L02) [S1]. Vì thuốc tác động lên
-chất này nên có quan niệm "trầm cảm là do thiếu serotonin"; mục cuối của bài xem quan niệm ấy được khoa học ủng hộ đến đâu.
+động lên hệ serotonin, cụ thể một nhóm ức chế bước thu hồi (tái hấp thu, reuptake) ở synapse (L02) [S1]. Một quan niệm phổ biến là "trầm cảm do thiếu serotonin"; mục cuối của bài xem quan niệm ấy được khoa học ủng hộ đến đâu.
 
 ## Noradrenaline
 
@@ -74,10 +70,10 @@ Ví dụ của người viết: một từ như "đường" có nghĩa khác nha
 
 ## Serotonin và trầm cảm: điều khoa học chưa xác nhận
 
-Năm 2022, Joanna Moncrieff và cộng sự thực hiện một tổng quan ô dù (umbrella review, tổng quan của các tổng quan) về thuyết
+Năm 2022, Joanna Moncrieff và cộng sự thực hiện một tổng quan ô dù (umbrella review, chủ yếu xem xét các tổng quan hệ thống và phân tích gộp) về thuyết
 "trầm cảm do serotonin thấp". Họ xem xét 17 nghiên cứu, trong đó 12 là tổng quan hệ thống hoặc phân tích gộp (meta-analysis), và
 kết luận rằng thuyết này chưa được bằng chứng ủng hộ nhất quán [S3]. Như mọi tổng quan, kết quả phụ thuộc vào chất lượng các nghiên
-cứu được xem xét, vốn không đồng đều [S3].
+cứu được xem xét, vốn không đồng đều [S3]. Như nhiều kết quả khoa học, nó có thể được tranh luận; người đọc nên tìm thêm các bình luận chuyên môn.
 
 Cần đọc kết quả này đúng phạm vi:
 

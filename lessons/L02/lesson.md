@@ -76,9 +76,9 @@ hơn) hoặc ức chế (khiến nó khó phát xung hơn), tùy chất dẫn tr
 Ví dụ của người viết: giống một hội đồng bỏ phiếu, có người ủng hộ, có người phản đối; nếu số ủng hộ thắng đủ nhiều thì nơron
 sau phát xung. Chất dẫn truyền nào kích thích, chất nào ức chế sẽ là chủ đề của L03.
 
-## Chấm dứt tín hiệu: thu hồi và phân hủy
+## Chấm dứt tín hiệu
 
-Một chất dẫn truyền không được ở lại khe synapse mãi. Nó được chấm dứt tác dụng bằng ba cách [S1]:
+Một chất dẫn truyền không được ở lại khe synapse mãi. Nó được chấm dứt tác dụng bằng ba cách; thu hồi và phân hủy được trình bày trong giáo trình [S1], còn khuếch tán là kiến thức chung:
 
 - **Thu hồi (reuptake, tái hấp thu):** được đưa ngược vào nơron trước để dùng lại.
 - **Phân hủy:** bị enzym (enzyme, chất xúc tác sinh học) cắt bỏ.
@@ -88,7 +88,7 @@ Ví dụ của người viết: bật công tắc thì cũng phải có cách t�
 
 ## Thuốc can thiệp ở đâu
 
-Vòng đời một chất dẫn truyền gồm năm bước: tổng hợp, giải phóng, gắn thụ thể, thu hồi, phân hủy [S1]. Mỗi bước là một điểm mà
+Vòng đời một chất dẫn truyền gồm các bước: tổng hợp, giải phóng, gắn thụ thể, thu hồi, phân hủy [S1]. Mỗi bước là một điểm mà
 thuốc hoặc chất kích thích có thể can thiệp, nên hiểu synapse là hiểu cách nhiều thuốc tác động lên tâm lý, điều ta sẽ thấy ở L03
 [S1].
 
@@ -110,7 +110,7 @@ truyền: glutamate, GABA, dopamine, serotonin và các chất khác.
 
 ## Nguồn tham khảo
 
-- [S1] Hove & Martinez, Biological Psychology (Revised Edition), Chương 3 "Neurons" và Chương 5 "Psychopharmacology", ROTEL Pressbooks https://rotel.pressbooks.pub/biologicalpsychology/part/neurons/
+- [S1] Hove & Martinez, Biological Psychology (Revised Edition), Chương 3 "Neurons" và Chương 5 "Psychopharmacology", ROTEL Pressbooks https://rotel.pressbooks.pub/biologicalpsychology/
 - [S2] Hodgkin A. L., Huxley A. F., A quantitative description of membrane current and its application to conduction and excitation in nerve, Journal of Physiology 117(4):500-544, 1952 https://doi.org/10.1113/jphysiol.1952.sp004764
 - [S3] Byrne J. H. (chủ biên), Neuroscience Online: An Open-Access Neuroscience Electronic Textbook, UTHealth Houston, Chương 1-3, 5-7 https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm
 - [S4] Azevedo F. A. C. và cộng sự, Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain, Journal of Comparative Neurology, 2009 https://doi.org/10.1002/cne.21974

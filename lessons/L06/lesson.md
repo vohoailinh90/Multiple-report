@@ -19,9 +19,7 @@ cho các phần đó trong những nguồn đã chọn.
 ## Mạng xã hội chạm vào những cơ chế nào
 
 Dar Meshi, Diana Tamir và Hauke Heekeren viết một tổng quan về lĩnh vực này. Họ xem xét các động cơ xã hội khiến người ta dùng mạng xã
-hội và những hệ thần kinh có thể nằm sau việc dùng đó, và nhận xét rằng năm 2015 lĩnh vực thần kinh học về chủ đề này còn rất ít công
-trình [S1]. Vì vậy phần nhiều điều ta nói về "não và mạng xã hội" là suy ra từ nghiên cứu về thưởng, chú ý và quan hệ xã hội nói chung; đây là
-nhận định của người viết, không phải kết luận của một nghiên cứu duy nhất.
+hội và những hệ thần kinh có thể nằm sau việc dùng đó, và gọi đây là một lĩnh vực đang nổi lên (emerging) [S1]. Theo nhận định của người viết (không phải kết luận của một nghiên cứu), nhiều điều ta nói về "não và mạng xã hội" là suy ra từ nghiên cứu về thưởng, chú ý và quan hệ xã hội nói chung.
 
 Ba nhóm cơ chế liên quan nhiều nhất mà các bài trước đã trình bày hoặc bài này sẽ trình bày:
 
@@ -54,7 +52,7 @@ nội bộ một nhóm cùng quan điểm so với giữa các nhóm khác nhau 
 1. Đây là dữ liệu từ một nền tảng và ba chủ đề, không phải toàn bộ mạng xã hội.
 2. Đây là **dữ liệu quan sát** (observational data): ta thấy hai thứ đi cùng nhau, nhưng chưa chứng minh thứ này gây ra thứ kia. Ví dụ
    của người viết: ngày bán nhiều kem cũng là ngày có nhiều người đuối nước, nhưng kem không gây đuối nước; cả hai cùng tăng vào ngày nóng.
-3. Nghiên cứu đo ngôn từ, không đo cường độ cảm xúc của người đọc, và đo số lần chia sẻ, không đo tốc độ lan.
+3. Theo nhận xét của người viết, nghiên cứu đo ngôn từ, không đo cường độ cảm xúc của người đọc, và đo số lần chia sẻ, không đo tốc độ lan.
 
 ## Từ cơ chế đến thiết kế: bảng suy luận
 
@@ -64,7 +62,7 @@ kết quả thí nghiệm trực tiếp.
 | Tính năng | Cơ chế có thể liên quan | Mức bằng chứng |
 |---|---|---|
 | Thông báo, âm thanh, đèn | chú ý bị kích thích nổi bật kéo đi [S6] | cơ chế có nguồn; tác động của từng ứng dụng là suy luận |
-| Lượt thích, bình luận | tín hiệu xã hội và thưởng [S2] | có thí nghiệm mô phỏng ở thiếu niên |
+| Lượt thích | tín hiệu xã hội và thưởng [S2] | có thí nghiệm mô phỏng ở thiếu niên |
 | Kết quả lúc có lúc không (làm mới trang, video kế tiếp) | thưởng phản ứng với điều khác dự đoán [S5] | cơ chế có nguồn; tính năng cụ thể là suy luận |
 | Nội dung đạo đức-cảm xúc | được chia sẻ nhiều hơn [S4] | có dữ liệu quan sát trên Twitter |
 
@@ -92,13 +90,13 @@ khả năng một số người hoặc một số cách dùng bị ảnh hưởn
 Những gợi ý sau suy ra từ các cơ chế ở L00 đến L05; chúng là cách nghĩ hữu ích, chưa phải biện pháp đã được kiểm chứng trong thử nghiệm.
 "Có thể giúp" nghĩa là giả thuyết hợp lý, không phải đã chứng minh:
 
-- **Tắt thông báo không cần thiết.** Có thể giảm kích thích nổi bật kéo chú ý [S6].
+- **Tắt thông báo không cần thiết.** Đây là suy luận: chú ý bị kích thích nổi bật kéo đi là cơ chế có nguồn [S6], còn việc tắt thông báo có giúp hay không thì chưa được kiểm chứng ở đây.
 - **Đặt điểm dừng từ trước.** Khi tính năng không có điểm dừng, vỏ não trước trán phải tự quyết định dừng mỗi lần (L04); đặt giới hạn trước
   có thể giúp nó đỡ phải thắng mỗi lần. Đây là suy luận của người viết.
 - **Hỏi: mình đang muốn hay đang thích?** Phân biệt sức hút với sự hài lòng (L00, L05) [S7].
 - **Chậm lại trước khi chia sẻ nội dung đạo đức-cảm xúc.** Loại nội dung này được chia sẻ nhiều hơn [S4].
 - **Giữ nền tảng sức khỏe.** Trong dữ liệu của Orben và Przybylski, ngủ đủ và ăn sáng có liên hệ tích cực với sức khỏe tinh thần mạnh hơn nhiều
-  so với hiệu ứng của chính việc dùng công nghệ [S3]. Ngoài ra, vận động và hỗ trợ xã hội có thể giảm gánh nặng của căng thẳng (L05).
+  so với hiệu ứng của chính việc dùng công nghệ [S3]. Ngoài ra, vận động và hỗ trợ xã hội có thể giảm gánh nặng của căng thẳng (L05); áp dụng điều này cho bối cảnh mạng xã hội là suy luận của người viết.
 
 ## Điều cần nhớ
 

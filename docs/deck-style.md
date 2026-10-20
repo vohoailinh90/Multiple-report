@@ -11,7 +11,8 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
   (layout `figure`, bên dưới) được phép; mỗi hình phải có dòng tín dụng.
   Tên canvas: `Multiple-report · <id> · <tiêu đề>`. Gửi link editor ngay khi canvas có.
 - Font: **Bricolage Grotesque** 800 cho tiêu đề và số lớn, **Be Vietnam Pro** cho mọi chữ khác. Cỡ: tiêu đề bìa 108,
-  tiêu đề slide 72–100, thân 34–40, nhãn 22–28; không gì dưới 22.
+  tiêu đề slide 56–76, thân 34–40, đoạn `body` của slide giải thích 30–38, chữ trong thẻ hồ sơ 28–34, nhãn 22–28; không gì dưới 22.
+  `gen.py` tự hạ cỡ chữ theo độ dài (hàm `fit`), không xuống dưới mức sàn của từng ô.
 - Màu nền sáng: kem `#F3EEE3`, mực `#14161C`, thẻ `#E8E0CF`, thẻ sơ đồ `#FBF8F2` (viền `#DDD5C1`), chữ phụ `#6B6A66`.
   Accent trên nền sáng: xanh `#1F3FD1`, hổ phách `#B45309`, xanh ngọc `#0F766E`, đỏ `#E8472B`
   (nền nhạt tương ứng `#DDE3FA` `#F3DFB8` `#CFE8E2` `#F8D9D0`).
@@ -20,18 +21,22 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 - **Mỗi khái niệm một màu, giống nhau trên mọi slide.** Với n là số của bài (`L07` → 7), khái niệm thứ k (đếm từ 0) lấy
   accent số (n + k) mod 4 trong thứ tự xanh, hổ phách, xanh ngọc, đỏ.
 - Footer trên mọi slide trừ bìa, góc dưới bên trái: một chấm tiến độ cho mỗi slide (chấm hiện tại màu đỏ) và
-  `Multiple-report · L00 · 03/11`. **Để trống góc dưới bên phải** (logo Moda nằm ở đó khi xuất).
+  `Multiple-report · L00 · 03/11`. **Để trống góc dưới bên phải** (logo Moda nằm ở đó khi xuất). Deck dài hơn 40 trang thì chấm
+  xích lại gần nhau để nhãn không chạm góc đó.
 - Bìa (tối): nhãn chủ đề viết hoa giãn chữ, tiêu đề, câu hỏi mở bài, mỗi khái niệm chính một thẻ bo tròn viền màu của nó.
   Slide cuối là nguồn tham khảo, nền tối.
-- Chữ: tiếng Việt có dấu; mỗi gạch đầu dòng tối đa 10 chữ, mỗi thẻ tối đa 3 gạch; một slide đọc trong 5 giây.
+- Chữ: tiếng Việt có dấu. Chủ repo đã bỏ luật "một slide đọc trong 5 giây" (2026-10-20) cho mọi layout: slide được nhiều
+  chữ, miễn đọc được. Slide giải thích mang đoạn `body` 60–110 chữ; gạch đầu dòng ≤ 160 ký tự, ≤ 6 gạch.
   Chỉ dùng nội dung của `slides.json`; không thêm số liệu, ví dụ hay khẳng định.
 
 ## Thay đổi theo từng deck
 
 - **Ý tưởng hình ảnh:** một ý lấy từ chính chủ đề bài (`spec.md` ghi nó; ví dụ bài dopamine dựng quanh một tín hiệu
   thần kinh phát xung). Nói ý đó một dòng khi báo link canvas.
-- **Layout:** mỗi slide trong `slides.json` có `layout` và `tone`. Gate `lesson_gates.py` bắt buộc: ít nhất 5 kiểu,
-  không trùng kiểu ở hai slide liền nhau, không quá 3 slide liền cùng tone (tính cả bìa tối). Deck builder vẽ đúng kiểu đó:
+- **Layout:** mỗi slide trong `slides.json` có `layout` và `tone`. Gate (`scripts/deckgen/check_lesson.py`) bắt buộc: ít nhất 5 kiểu
+  (bài theo chuẩn đào sâu: 8), không trùng kiểu ở hai slide liền nhau, không quá 3 slide liền cùng tone (tính cả bìa tối).
+  Deck builder (`scripts/deckgen/gen.py`) vẽ đúng kiểu đó; bốn kiểu cuối của bảng thêm ngày 2026-10-20, dựng thử trên canvas
+  `Multiple-report · T00 · Mẫu ba layout mới` từ `tests/fixtures/deckgen/slides.json`:
 
 | layout | Vẽ thế nào |
 |---|---|
@@ -48,12 +53,18 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `one-big-number` | một con số rất lớn (chỉ số bài học có nêu) và một câu giải thích |
 | `one-highlighted-sentence` | một câu lớn, từ khóa tô màu của khái niệm |
 | `figure` | khung trắng bo góc bên trái chứa hình (`fit="contain"`, tải bằng `upload url=`), bên phải 3 thẻ chú giải: nhãn tiếng Anh của hình màu nhấn, nghĩa tiếng Việt bên dưới; dòng `Hình: <tác giả, giấy phép, hình số, chương>` cỡ 22 ở y=892, dòng `Nguồn:` ở y=944 |
+| `explainer` | cột trái ~65% là đoạn `body` (cỡ 30–38, giãn dòng 1,35, vạch màu bên trái, `**từ khoá**` tô màu khái niệm, `[Sn]` màu chữ phụ); cột phải 2–3 thẻ lấy từ `bullets` dạng `Nhãn: nội dung` (Ở đâu / Làm gì / Đừng hiểu nhầm) |
+| `profile-card` | thẻ hồ sơ: lưới 2×2 (4 mục) hoặc 3 cột (3, 5, 6 mục) lấy từ `facts`, nhãn màu khái niệm cỡ 28, chữ 28–34; không vẽ `bullets` |
+| `annotated-figure` | như `figure` (khung hình rộng 980) nhưng cột phải là tối đa 3 thẻ chú giải ngắn (≤ 70 ký tự) và một khối nền nhạt chứa `body` 40–70 chữ |
+| `references` | slide nguồn: mỗi nguồn một thẻ `S1` + tên rút gọn (≤ 110 ký tự); một cột đến 6 nguồn, hai cột đến 18 |
 
 ## Quy trình
 
 1. `moda_bootstrap`, `load_skill("moda-deck")`, `load_skill("markup")`. Không hỏi brand kit: câu trả lời là *không kit*.
 2. Một canvas, đủ số trang ngay từ đầu (`page_count` = số slide của `slides.json` + 1 bìa).
-3. Mỗi slide một lệnh `canvas_apply_markup`, không chụp màn hình giữa chừng.
+3. Mỗi slide một lệnh `canvas_apply_markup` với markup của `python3 scripts/deckgen/gen.py <id> <i> --opts scripts/deckgen/opts/<id>.json`
+   (`i = 0` là bìa; trang `p_a` là 0, `p_b` là 1...). Nhiều lệnh song song trong một lượt được; không chụp màn hình giữa chừng.
+   `opts/<id>.json` giữ nhãn bìa, câu hỏi mở bài, thẻ bìa, số lớn, câu tô màu và danh sách `concepts` (màu khái niệm của `**từ khoá**`).
 4. Ô chữ bị `text_auto_shrunk`: sửa tất cả trong một lệnh `canvas_edit` (`fontSize` cỡ đã khai, `fitHeight: true`).
 5. Xem **mọi** slide bằng `canvas_screenshot`, ba trang một lệnh; sửa chữ bị cắt, co nhỏ, chồng lên nhau.
 6. `export` dạng **PPTX** (không PNG, không PDF), tải về `lessons/<id>/<id>.pptx`, rồi

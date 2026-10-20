@@ -1,0 +1,7 @@
+{
+ "topic_label": "Công cụ deck · Mẫu",
+ "motif": "dots",
+ "question": "Slide giải thích, thẻ hồ sơ, hình có chú giải: đọc được không?",
+ "cards": ["explainer", "profile-card", "annotated-figure", "references"],
+ "concepts": ["hạnh nhân", "hệ viền", "serotonin", "SSRI"]
+}

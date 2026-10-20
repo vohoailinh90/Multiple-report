@@ -19,6 +19,8 @@ dựng bằng Moda.
 
 - Repo `vohoailinh90/Multiple-report`. Nhánh làm việc `claude/dreamy-johnson-xy3y2y` (commit `d8c9857` trở lên); `main` chưa có
   L01–L06 bản có hình. Chưa tạo PR. Việc đầu tiên của bạn: tạo nhánh của mình từ nhánh này hoặc hỏi chủ repo có merge không.
+  *Cập nhật 2026-10-20:* nhánh điều phối là `claude/orchestrate-brain-series` (tách từ nhánh trên); chủ repo chọn **một PR vào `main` sau
+  giai đoạn 1** (mục 11).
 - 7 bài: `L00` (dopamine, bài mẫu cũ) và `L01`–`L06`. Mỗi bài có `lesson.md`, `slides.json`, `Lxx.pptx`, `deck.json`, `images/`.
 - Công cụ đã chuyển vào repo ở `scripts/deckgen/` (trước đó nằm ngoài repo, sẽ mất): `gen.py` (sinh markup Moda từ `slides.json`),
   `check_lesson.py` (gate cấu trúc thay cho `lesson_gates.py` của repo template), `mk.py` (viết `slides.json` + `expected.json`),
@@ -155,6 +157,10 @@ Luật hiện hành chặn nội dung dày, nên sửa luật trước, nếu kh
    model VPS. Chủ repo biết điều đó; nêu lại khi báo cáo.)
 6. **Gate của repo template:** `lesson_gates.py` nằm ở repo `claude-agent-routing-template`, nằm ngoài phạm vi truy cập của phiên này. Kiểm xem nó có giới hạn slide/độ dài không;
    nếu có, báo chủ repo.
+   *Đã kiểm 2026-10-20 (bản `f80c4cc`):* có giới hạn. Nó chỉ nhận 7 trường slide (`title, bullets, notes, section, sources, layout, tone`), nên `images`, `body`, `facts`
+   bị từ chối; chỉ nhận 12 layout (không có `figure` và 4 layout mới); `bullets` phải có ít nhất một gạch; khóa lạ trong `expected.json` bị từ chối (mã 3);
+   `slides.max` mặc định 20; `sources` là danh sách cố định. Hệ quả: L01–L06 có hình đã không qua gate đó, và bài đào sâu cũng vậy. Repo này không sửa repo template;
+   chủ repo quyết định có cập nhật nó không. Gate dùng ở đây là `scripts/deckgen/check_lesson.py` (có test).
 7. Cập nhật `docs/deck-style.md` (bảng layout, cỡ chữ tối thiểu cho `body` là 30 chứ không phải 34–40).
 
 ### 6.1 Ví dụ slide giải thích
@@ -179,6 +185,7 @@ Luật hiện hành chặn nội dung dày, nên sửa luật trước, nếu kh
 | `explainer` | cột trái 60–70% chiều rộng là `body` (cỡ 30, giãn dòng 1,3, từ khoá tô màu khái niệm), cột phải 2–3 thẻ nhỏ "Ở đâu / Làm gì / Đừng hiểu nhầm" lấy từ `bullets` |
 | `profile-card` | lưới 2×3 thẻ lấy từ `facts` (nhãn màu khái niệm, chữ ≥ 28), tiêu đề là tên bộ phận/chất; dùng cho thẻ hồ sơ mục 4.1 |
 | `annotated-figure` | như `figure` nhưng thêm một khối `body` 40–70 chữ dưới hình hoặc thay một thẻ chú giải |
+| `references` | *(thêm 2026-10-20)* slide nguồn: 1 cột đến 6 nguồn, 2 cột đến 18; mỗi gạch `S1: tên rút gọn` ≤ 110 ký tự. Bài ≥ 12 nguồn không nhét vừa `lookup-table` |
 
 Ba layout này không được dùng hai lần liền nhau (gate vẫn cấm hai slide liền cùng kiểu); xen với `card-grid`, `flow`, `two-column-comparison`, `layers`, `figure`.
 Một bài 40 slide cần đủ ≥ 8 kiểu để đỡ đơn điệu.
@@ -269,7 +276,10 @@ Mỗi bài 30–50 slide thành ~35–55 lệnh Moda, nên đừng dựng deck t
 
 ## 10. Mạng và hình
 
-- Mạng đã mở (chủ repo cấp toàn bộ domain). `rotel.pressbooks.pub` trả 403 nếu không có `User-Agent` trình duyệt; có thì tải được:
+- Mạng mở ở môi trường cloud `env_01FLRVzUuF7HzUtxGKMRQJrt`. *Cập nhật 2026-10-20:* môi trường còn lại (`env_016xkeasTxqB1STnoRvbnVgg`, nơi phiên điều phối
+  chạy) chặn `rotel.pressbooks.pub`, NCBI, doi.org, Wikimedia (proxy trả 403, WebFetch không phân giải tên miền). Vì vậy phiên viết, phản biện và phiên phụ
+  đọc nguồn được tạo bằng `create_session(environment_id="env_01FLRVzUuF7HzUtxGKMRQJrt")`; điều phối kiểm nguồn qua bản ghi lệnh `curl` của các phiên đó.
+  `rotel.pressbooks.pub` trả 403 nếu không có `User-Agent` trình duyệt; có thì tải được:
   `curl -sS -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36" -H "Accept: text/html" -L <URL>`.
   Có lúc phải thử lần hai.
 - API Wikimedia Commons hay trả 429; đối chiếu giấy phép hình thì chờ rồi thử lại. Hiện chỉ hình Blausen (CC BY 3.0) và Gage (CC BY 2.5) đã đối chiếu tận gốc, các hình còn lại ghi giấy phép "theo sách";
@@ -288,6 +298,10 @@ Mỗi bài 30–50 slide thành ~35–55 lệnh Moda, nên đừng dựng deck t
 
 Những điều khác (cách viết, cấu trúc, nguồn) điều phối tự quyết theo văn bản này.
 
+**Chủ repo đã trả lời (2026-10-20):** (1) giai đoạn 3 hỏi lại sau khi xong giai đoạn 1–2; (2) **bỏ luật "đọc trong 5 giây" cho mọi layout**, không chỉ
+3 layout mới (đã ghi vào `docs/deck-style.md`); (3) thuốc: chỉ nêu nhóm thuốc và cơ chế, không liều, không khuyến nghị; (4) một PR từ nhánh điều phối vào
+`main` sau giai đoạn 1.
+
 ## 12. Thứ tự làm việc gợi ý
 
 1. Giai đoạn 0 (mục 6): sửa luật và công cụ, dựng thử **một** slide mỗi layout mới, chụp ảnh. Commit.
@@ -298,3 +312,19 @@ Những điều khác (cách viết, cấu trúc, nguồn) điều phối tự q
 6. Dựng deck từng bài (mục 9); `decks.py todo` rỗng; `decks.py index`; cập nhật `docs/ke-hoach-nao-bo-tam-ly.md` (bảng bài, thứ tự đọc).
 7. Giai đoạn 2, rồi hỏi chủ repo về giai đoạn 3.
 8. Báo cáo: link canvas từng bài, số chữ/slide trước và sau, điều chưa kiểm được, quyết định đang chờ.
+
+## 13. Nhật ký điều phối
+
+**2026-10-20, giai đoạn 0 xong** (nhánh `claude/orchestrate-brain-series`):
+- `CLAUDE.md`: thêm `body`, `facts`, `lessons/<id>.spec.md`; gạch ngắn chỉ cho slide sơ đồ; ghi rõ giới hạn của gate template.
+- `scripts/deckgen/check_lesson.py` viết lại thành hàm `check()` có test (`tests/test_check_lesson.py`). Khóa mới của `expected.json` (đều tuỳ chọn, bài cũ giữ
+  kiểm tra cũ): `required_urls` (thay `sources` cố định, vì phiên viết tự tìm nguồn), `min_independent_sources`, `min_layouts`, `section_min_slides` +
+  `section_min_exempt`, `notes_words` (cảnh báo), `min_images` (cảnh báo). Trích dẫn giờ chỉ đếm phần trước `## Nguồn tham khảo` (trước đây đếm cả danh sách nguồn).
+  Kiểm thêm: `body` chỉ trên layout vẽ nó, `facts` 3–6, nguồn của slide phải có trong danh sách, hình khai báo phải tồn tại. Bỏ cảnh báo "gạch > 10 chữ" (quyết định 11.2).
+- `scripts/deckgen/gen.py`: 4 layout mới (`explainer`, `profile-card`, `annotated-figure`, `references`); hàm `fit` tự hạ cỡ chữ theo độ dài cho mọi layout
+  (deck cũ L01–L06 sinh ra đúng cỡ chữ và nội dung như trước); footer co chấm khi deck > 40 trang (deck 51 trang trước đây đẩy nhãn ra ngoài khổ);
+  `--slides` để dựng deck mẫu. Test: `tests/test_deckgen.py`.
+- Dựng thử 6 trang (bìa + 4 layout mới + `card-grid` gạch dài) trên canvas `Multiple-report · T00 · Mẫu ba layout mới`
+  (https://moda.app/canvas/6b00067f-f69e-4200-b090-1e660bcb271a), không cảnh báo co chữ, ảnh chụp đạt. Nội dung lấy từ L01/L03/L05.
+- `docs/deck-style.md`: bảng 17 layout, cỡ chữ `body` 30–38, bỏ luật 5 giây, lệnh `gen.py` trong quy trình.
+- `expected.json` của các bài giai đoạn 1 do phiên điều phối viết thay vai "tester" (chưa có model VPS), theo `scripts/deckgen/mk.py` `deep_expected`.

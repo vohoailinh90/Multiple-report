@@ -3,7 +3,7 @@
   "subtitle": "Não bộ · Bài L01",
   "slides": [
     {
-      "title": "Não là các bộ phận phối hợp",
+      "title": "Phần nào của não quyết định bạn làm gì?",
       "section": "Tóm tắt",
       "sources": [
         "S1",
@@ -12,10 +12,11 @@
       ],
       "bullets": [
         "Thân não: giữ các chức năng sống còn",
+        "Tiểu não: chỉnh cử động",
         "Hệ viền: cảm xúc, trí nhớ",
         "Vỏ não: bốn thùy lo cảm giác, nghĩ, làm"
       ],
-      "notes": "Cách chia não thành vài bộ phận lớn chỉ để dễ học. Bài này vẽ bản đồ ở mức đại khái; các bài sau vào tế bào và chất hóa học.",
+      "notes": "Không phải một phần nào riêng: cả một mạng lưới khoảng 86 tỷ nơron. Chia thành bộ phận chỉ để dễ học. L02 vào nơron, L03 vào chất hóa học.",
       "layout": "card-grid",
       "tone": "light"
     },
@@ -42,10 +43,9 @@
       ],
       "bullets": [
         "86 tỷ nơron",
-        "Chỉ khoảng 19% nằm ở vỏ não",
-        "Con số 100 tỷ trước đây không đếm trực tiếp"
+        "Chỉ khoảng 19% nằm ở vỏ não"
       ],
-      "notes": "Ước tính trực tiếp trên não người trưởng thành. Vỏ não chiếm phần lớn khối lượng nhưng chứa ít nơron hơn nhiều người tưởng.",
+      "notes": "Ước tính trực tiếp trên một mẫu nhỏ não nam trưởng thành. Vỏ não chiếm phần lớn khối lượng nhưng chỉ chứa khoảng 19% số nơron. Con số 100 tỷ trước đây không dựa trên phép đếm trực tiếp.",
       "layout": "one-big-number",
       "tone": "light"
     },
@@ -57,12 +57,11 @@
         "S3"
       ],
       "bullets": [
-        "Tiểu não: thăng bằng, phối hợp, kỹ năng vận động",
         "Thân não: nhịp thở, nhịp tim, tỉnh táo",
-        "Thân não gồm hành tủy, cầu não, não giữa"
+        "Tiểu não: thăng bằng, phối hợp, kỹ năng vận động"
       ],
-      "notes": "Thân não ở đáy não, nối với tủy sống; tổn thương ở đây thường nghiêm trọng. Tiểu não không ra lệnh cử động mà chỉnh cho mượt và chính xác.",
-      "layout": "layers",
+      "notes": "Thân não gồm hành tủy, cầu não và não giữa, nằm ở đáy não; vì chứa vùng điều khiển thở và nhịp tim nên tổn thương ở đây có thể rất nghiêm trọng. Tiểu não nằm phía sau, bên dưới vỏ não.",
+      "layout": "two-column-comparison",
       "tone": "dark"
     },
     {
@@ -78,7 +77,7 @@
         "Đồi thị: trạm chuyển tiếp thông tin giác quan",
         "Vùng dưới đồi: đói, khát, thân nhiệt, hormone"
       ],
-      "notes": "Cách chia hệ viền là quy ước tiện cho việc học; còn tranh luận cấu trúc nào thuộc về nó. Hạnh nhân cũng không chỉ lo chuyện sợ hãi.",
+      "notes": "Cách chia hệ viền là quy ước tiện cho việc học; các tài liệu không xếp hoàn toàn giống nhau, chẳng hạn đồi thị.",
       "layout": "lookup-table",
       "tone": "light"
     },
@@ -90,10 +89,10 @@
         "S3"
       ],
       "bullets": [
-        "Trán: kế hoạch, quyết định, kiểm soát",
-        "Đỉnh: cảm giác cơ thể, không gian",
-        "Thái dương: nghe, ngôn ngữ, trí nhớ",
-        "Chẩm: xử lý hình ảnh"
+        "Trán (phía trước): kế hoạch, quyết định",
+        "Đỉnh (trên, sau trán): cảm giác cơ thể, không gian",
+        "Thái dương (hai bên): nghe, ngôn ngữ, trí nhớ",
+        "Chẩm (sau đầu): xử lý hình ảnh"
       ],
       "notes": "Mỗi bán cầu có đủ bốn thùy. Thùy trán và hai bán cầu có bài riêng (L04).",
       "layout": "card-grid",
@@ -102,22 +101,18 @@
     {
       "title": "Một việc nhỏ dùng nhiều vùng",
       "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
-      "sources": [
-        "S1",
-        "S4"
-      ],
+      "sources": [],
       "bullets": [
-        "Nghe tên mình: thái dương",
-        "Nhận ra giọng quen: hải mã và vỏ não",
-        "Quyết định trả lời: thùy trán",
-        "Cử động: vùng vận động và tiểu não"
+        "Nghe tiếng gọi: thùy thái dương",
+        "Cân nhắc có trả lời: thùy trán",
+        "Phát lệnh nói: vùng vận động"
       ],
-      "notes": "Ví dụ minh họa, đã được đơn giản hóa, không phải mô tả đầy đủ của từng bước.",
+      "notes": "Ví dụ do người viết đặt ra, đã đơn giản hóa nhiều, không phải mô tả đầy đủ từng bước.",
       "layout": "flow",
       "tone": "light"
     },
     {
-      "title": "Vùng X quan trọng, không phải duy nhất",
+      "title": "Một vùng quan trọng, không phải duy nhất",
       "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
       "sources": [
         "S1",
@@ -145,7 +140,7 @@
         "Cấu trúc sâu: cảm xúc, trí nhớ, nhu cầu",
         "Vỏ não có bốn thùy, cần phối hợp"
       ],
-      "notes": "Bốn ý chốt của bài.",
+      "notes": "Bốn ý chốt của bài. Nối với L00: dopamine do vùng não giữa sản xuất. Bài sau (L02) về nơron.",
       "layout": "numbered-rows",
       "tone": "light"
     },

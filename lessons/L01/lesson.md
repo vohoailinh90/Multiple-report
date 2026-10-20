@@ -8,11 +8,12 @@ date: 2026-10-20
 
 ## Tóm tắt
 
-Não người có khoảng 86 tỷ nơron (neuron, tế bào thần kinh) [S2]. Để khỏi lạc giữa chừng ấy tế bào, người ta chia não
-thành vài bộ phận lớn: thân não giữ các chức năng sống còn, tiểu não giúp cử động trơn tru, nhóm cấu trúc nằm sâu
-(thường gọi là hệ viền, limbic system) liên quan đến cảm xúc và trí nhớ, và vỏ não chia thành bốn thùy lo cảm giác,
-suy nghĩ và hành động [S1] [S3]. Bài này chỉ vẽ bản đồ ở mức đại khái; các bài sau sẽ vào cách các tế bào nói chuyện
-với nhau và cách chất hóa học ảnh hưởng đến tâm lý.
+Phần nào của não quyết định bạn làm gì ngay lúc này? Câu trả lời ngắn gọn là: không phải một phần, mà là cả một mạng
+lưới gồm khoảng 86 tỷ nơron (neuron, tế bào thần kinh) [S2]. Để dễ học, người ta chia não thành vài bộ phận lớn: thân
+não (brain stem) giữ các chức năng sống còn, tiểu não (cerebellum) giúp cử động trơn tru, nhóm cấu trúc nằm sâu thường
+gọi là hệ viền (limbic system) liên quan đến cảm xúc và trí nhớ, và vỏ não (cerebral cortex) chia thành bốn thùy (lobe)
+lo cảm giác, suy nghĩ và hành động [S1] [S3]. Bài này chỉ vẽ bản đồ ở mức đại khái. L02 sẽ vào cách nơron nói chuyện với
+nhau, L03 vào các chất hóa học ảnh hưởng đến tâm lý.
 
 ## Hệ thần kinh: bức tranh chung
 
@@ -22,7 +23,7 @@ biên (peripheral nervous system) là các dây thần kinh nối phần còn l�
 Hệ ngoại biên có hai nhánh chính. Nhánh thân thể (somatic) mang cảm giác về và lệnh cử động đi, như cầm một chiếc
 cốc. Nhánh tự chủ (autonomic) điều khiển các cơ quan bên trong như tim và hệ tiêu hóa, phần lớn không cần ta để ý [S1].
 
-Một con số cho thấy quy mô: ước tính trực tiếp trên não người trưởng thành cho thấy khoảng 86 tỷ nơron, và chỉ khoảng
+Một con số cho thấy quy mô: ước tính trực tiếp trên một mẫu nhỏ não nam trưởng thành cho thấy khoảng 86 tỷ nơron, và chỉ khoảng
 19% trong số đó nằm ở vỏ não, dù vỏ não chiếm phần lớn khối lượng não [S2]. Con số "100 tỷ nơron" hay gặp trước đây
 không dựa trên phép đếm trực tiếp [S2].
 
@@ -30,15 +31,15 @@ không dựa trên phép đếm trực tiếp [S2].
 
 Thân não (brain stem) nằm ở đáy não, nối não với tủy sống. Nó gồm hành tủy (medulla), cầu não (pons) và não giữa
 (midbrain). Các vùng này điều khiển những việc không thể thiếu như nhịp thở và nhịp tim, và góp phần giữ cho ta tỉnh
-táo [S1] [S3]. Tổn thương ở thân não vì vậy thường nghiêm trọng hơn tổn thương ở phần lớn các vùng khác.
+táo [S1] [S3]. Vì chứa những vùng điều khiển nhịp thở và nhịp tim, tổn thương ở thân não có thể rất nghiêm trọng.
 
-Tiểu não (cerebellum) nằm phía sau, bên dưới vỏ não. Nó giúp giữ thăng bằng, phối hợp các cử động và học các kỹ năng
-vận động [S1] [S3]. Tiểu não không "ra lệnh" cử động; nó chỉnh cho cử động mượt và chính xác.
+Tiểu não nằm phía sau, bên dưới vỏ não. Nó giúp giữ thăng bằng, phối hợp các cử động và học các kỹ năng vận động
+[S1] [S3].
 
 ## Hệ viền và các cấu trúc nằm sâu
 
-Nằm sâu bên trong, giữa thân não và vỏ não, là một nhóm cấu trúc thường được xếp vào hệ viền (limbic system). Bốn
-cấu trúc nên biết [S1] [S3]:
+Nằm sâu bên trong, giữa thân não và vỏ não, là một nhóm cấu trúc thường được xếp vào hệ viền (limbic system) [S1].
+Bốn cấu trúc nên biết là hạnh nhân, hải mã, đồi thị và vùng dưới đồi (ba cấu trúc cuối cũng được [S3] mô tả):
 
 | Cấu trúc | Việc chính |
 |---|---|
@@ -47,26 +48,28 @@ cấu trúc nên biết [S1] [S3]:
 | Đồi thị (thalamus) | trạm chuyển tiếp thông tin giác quan lên vỏ não |
 | Vùng dưới đồi (hypothalamus) | điều hòa đói, khát, thân nhiệt và hormone |
 
-Cách chia "hệ viền" là quy ước tiện cho việc học; các nhà khoa học vẫn tranh luận chính xác cấu trúc nào thuộc về nó.
-Hạnh nhân cũng không chỉ "lo chuyện sợ hãi": nó tham gia nhiều loại xử lý cảm xúc [S1].
+Cách chia "hệ viền" là quy ước tiện cho việc học: các tài liệu không xếp hoàn toàn giống nhau, chẳng hạn đồi thị không
+phải tài liệu nào cũng tính vào nhóm này.
 
 ## Vỏ não và bốn thùy
 
 Vỏ não (cerebral cortex) là lớp ngoài cùng, nhăn nheo, của hai bán cầu não. Mỗi bán cầu thường được chia thành bốn
-thùy [S1] [S3]:
+thùy gọi theo vị trí: thùy trán, thùy đỉnh, thùy thái dương và thùy chẩm [S1] [S3]:
 
-- **Thùy trán (frontal):** lập kế hoạch, ra quyết định, kiểm soát bản thân, khởi động cử động và phát ra lời nói.
-- **Thùy đỉnh (parietal):** cảm giác trên cơ thể như chạm, đau, và nhận biết không gian xung quanh.
-- **Thùy thái dương (temporal):** nghe, hiểu ngôn ngữ và tham gia vào trí nhớ.
-- **Thùy chẩm (occipital):** xử lý hình ảnh từ mắt.
+- **Thùy trán (frontal), ở phía trước:** lập kế hoạch, ra quyết định, kiểm soát bản thân, khởi động cử động và phát ra lời nói.
+- **Thùy đỉnh (parietal), ở phía trên và sau thùy trán:** cảm giác trên cơ thể như chạm, đau, và nhận biết không gian xung quanh.
+- **Thùy thái dương (temporal), ở hai bên, gần tai:** nghe, hiểu ngôn ngữ và tham gia vào trí nhớ.
+- **Thùy chẩm (occipital), ở phía sau đầu:** xử lý hình ảnh từ mắt.
 
 Thùy trán và hai bán cầu có bài riêng (L04), vì đó là nơi nhiều hiểu lầm nhất.
 
 ## Đừng hiểu "mỗi vùng một việc" quá đà
 
 Các bản đồ như trên là cách học, không phải mô tả hoàn toàn đúng thực tế. Một hoạt động đơn giản thường dùng nhiều vùng
-cùng lúc [S1] [S4]. Ví dụ minh họa, đã được đơn giản hóa: nghe ai đó gọi tên mình dùng thùy thái dương để nghe, hải mã và
-vỏ não để nhận ra giọng quen, thùy trán để quyết định có trả lời không, rồi các vùng vận động và tiểu não để cử động.
+cùng lúc [S1] [S4].
+
+Ví dụ do người viết bài đặt ra, đã được đơn giản hóa nhiều: khi nghe ai đó gọi tên mình, thùy thái dương nhận âm thanh,
+thùy trán cân nhắc có trả lời không, rồi các vùng vận động phát lệnh nói.
 
 Vì vậy khi đọc "vùng X chịu trách nhiệm cho Y", hãy hiểu là "vùng X đóng vai trò quan trọng trong mạng lưới làm Y",
 không phải "chỉ vùng X làm Y".
@@ -77,6 +80,9 @@ không phải "chỉ vùng X làm Y".
 2. Thân não giữ sự sống, tiểu não chỉnh cử động [S1] [S3].
 3. Các cấu trúc nằm sâu liên quan đến cảm xúc, trí nhớ và nhu cầu cơ thể [S1] [S3].
 4. Vỏ não có bốn thùy, và mọi chức năng phức tạp cần nhiều vùng phối hợp [S1] [S4].
+
+Nối với bài trước: ở L00, dopamine được nói là do hai vùng nhỏ của não giữa sản xuất; bây giờ bạn biết não giữa là một phần
+của thân não. Bài sau (L02) đi vào chính các nơron: chúng nói chuyện với nhau bằng điện và hóa chất như thế nào.
 
 ## Nguồn tham khảo
 

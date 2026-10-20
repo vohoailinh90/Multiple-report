@@ -188,6 +188,7 @@ Luật hiện hành chặn nội dung dày, nên sửa luật trước, nếu kh
 | `references` | *(thêm 2026-10-20)* slide nguồn: 1 cột đến 6 nguồn, 2 cột đến 18; mỗi gạch `S1: tên rút gọn` ≤ 110 ký tự. Bài ≥ 12 nguồn không nhét vừa `lookup-table` |
 
 Ba layout này không được dùng hai lần liền nhau (gate vẫn cấm hai slide liền cùng kiểu); xen với `card-grid`, `flow`, `two-column-comparison`, `layers`, `figure`.
+*Cách hiểu đã chốt (2026-10-20):* không quá **hai** slide `explainer`/`profile-card`/`annotated-figure` liền nhau; gate kiểm ("three text-heavy slides in a row").
 Một bài 40 slide cần đủ ≥ 8 kiểu để đỡ đơn điệu.
 
 ## 7. Phân công và quy trình đa phiên

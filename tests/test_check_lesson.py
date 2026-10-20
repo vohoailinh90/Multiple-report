@@ -125,6 +125,10 @@ class GateTests(unittest.TestCase):
         self.assertIn("images are drawn only by figure and annotated-figure: Ba bước", errs)
         self.assertIn("figure needs images: Ba bước", self.run_gate(self.mutated(4, layout="figure"))[0])
 
+    def test_a_slide_title_fits_two_lines(self):
+        errs, _ = self.run_gate(self.mutated(4, title="Ba " + "bước " * 25))
+        self.assertTrue(any(e.startswith("title>90: ") for e in errs))
+
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})
         self.assertIn("cites 6", errs)

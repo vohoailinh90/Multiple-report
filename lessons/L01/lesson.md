@@ -8,41 +8,47 @@ date: 2026-10-20
 
 ## Tóm tắt
 
-Freud, Jung và Adler thường được gọi gộp là "ba nhà phân tâm học". Cách gọi đó tiện nhưng che mất điều quan trọng nhất: họ không chỉ khác nhau về kỹ thuật chữa bệnh, mà khác nhau về **triết học làm người**. Mỗi người trả lời khác nhau cho những câu hỏi rất cũ: con người là gì, ta bị điều gì thúc đẩy, ta tự do đến đâu, đau khổ có ý nghĩa gì, và một đời sống tốt trông như thế nào.
+Freud, Jung và Adler thường được gọi gộp là "ba nhà phân tâm học". Cách gọi đó tiện nhưng che mất điều quan trọng nhất: họ không chỉ khác nhau về kỹ thuật chữa bệnh mà còn có những **quan niệm khác nhau về con người**. Mỗi người trả lời khác nhau cho những câu hỏi rất cũ: con người là gì và bị điều gì thúc đẩy, ta tự do đến đâu, đau khổ có ý nghĩa gì, và một đời sống tốt trông như thế nào.
 
-Lưu ý ngay từ đầu: cả ba là **bác sĩ** (nhà thần kinh học, bác sĩ tâm thần), không phải triết gia theo nghĩa nhà hàn lâm. Nhưng học thuyết của họ có nền triết học rõ ràng, và đó là phần giúp ta *giải thích cho người khác* vì sao họ khác nhau [S1].
+**Phân tâm học** (psychoanalysis) là cách chữa bệnh tâm lý bằng trò chuyện do Freud lập ra. Người bệnh nói ra mọi điều thoáng qua đầu; nhà phân tích giúp tìm ra điều đang âm thầm chi phối họ. Sau khi tách khỏi Freud, Jung gọi hệ thống của mình là *tâm lý học phân tích* (Analytical Psychology) và Adler gọi hệ thống của mình là *tâm lý học cá nhân* (Individual Psychology). Cả hai đều đi ra từ phân tâm học.
 
-Bản đồ một phút:
+Cả ba là **bác sĩ** (nhà thần kinh học, bác sĩ tâm thần), không phải triết gia theo nghĩa nhà hàn lâm. Nhưng học thuyết của họ ngầm chứa nền triết học rõ ràng, và đó là phần giúp bạn *giải thích cho người khác* vì sao họ khác nhau [S1].
 
-- **Freud** (1856–1939): con người là sinh vật bị bản năng và quá khứ chưa giải quyết chi phối. Lý tưởng: *đối diện sự thật*, kể cả sự thật khó chịu. Hình ảnh: nhà khảo cổ đào xuống các tầng bị chôn.
-- **Jung** (1875–1961): con người là một hành trình đi tới sự trọn vẹn, qua đối thoại với chiều sâu tâm hồn. Lý tưởng: *trở thành toàn thể*, không phải trở nên hoàn hảo. Hình ảnh: người đi rừng dưới sự dẫn đường của biểu tượng.
-- **Adler** (1870–1937): con người là sinh vật hướng mục tiêu, sống trong cộng đồng, luôn tìm cách vượt qua cảm giác còn thiếu. Lý tưởng: *can đảm và gắn kết*. Hình ảnh: huấn luyện viên đứng cạnh sân.
+Bản đồ một phút (mỗi người một hình ảnh về nhà chữa bệnh):
 
-Bài này dài vì mục tiêu của nó là để bạn đọc xong có thể tự giảng lại. Cấu trúc: bối cảnh chung, ba chương riêng cho từng người, một chương so sánh ba "triết học", rồi mối quan hệ, bảng tóm tắt, ví dụ đời thường, phê bình, và cách giải thích cho người khác. Ở mọi chỗ, bài tách **sự kiện** (có ghi chép) khỏi **diễn giải** (cách học giả hiểu); điều gì chưa chắc sẽ được nói rõ.
+- **Freud** (1856–1939): con người bị bản năng và quá khứ chưa giải quyết chi phối. Lý tưởng (cách bài này tóm): *đối diện sự thật*, kể cả sự thật khó chịu. Hình ảnh: nhà khảo cổ đào xuống các tầng bị chôn.
+- **Jung** (1875–1961): con người đang trên hành trình trở nên trọn vẹn, qua đối thoại với chiều sâu tâm hồn. Lý tưởng: *trọn vẹn thay vì hoàn hảo*. Hình ảnh: người dẫn đường cùng đi vào rừng biểu tượng.
+- **Adler** (1870–1937): con người hướng mục tiêu, sống trong cộng đồng, luôn tìm cách vượt qua cảm giác còn thiếu. Lý tưởng: *can đảm và hợp tác*. Hình ảnh: huấn luyện viên đứng cạnh sân.
+
+Bài này dài vì mục tiêu của nó là để bạn đọc xong có thể tự giảng lại. Cấu trúc: bối cảnh chung; ba chương riêng cho Freud, Jung và Adler; so sánh ba quan niệm triết học; quan hệ giữa ba người; so sánh theo tám trục và bảng tóm tắt; hai tình huống đời thường; phê bình; ảnh hưởng ngày nay; hiểu lầm thường gặp cùng cách giải thích cho người khác; kết luận.
+
+**Cách đọc.** Ở mọi chỗ, bài tách **sự kiện** (có ghi chép) khỏi **diễn giải** (cách học giả hiểu); điều gì chưa chắc sẽ được nói rõ. Câu đặt trong ngoặc kép là bản dịch gần nghĩa hoặc diễn đạt lại, không phải trích nguyên văn. Các phần "Lý tưởng sống" là cách bài này *tóm* từ tác phẩm của mỗi người, không phải lời tự nhận của họ; học giả có thể tóm khác.
 
 ## Bối cảnh chung
 
-**Sự kiện.** Freud sinh năm 1856, Adler năm 1870, Jung năm 1875. Freud và Adler lớn lên ở Vienna (Áo), Jung ở Thụy Sĩ và làm việc ở Zurich. Cả ba học y và bắt đầu bằng việc chữa bệnh: Freud là nhà thần kinh học, Jung là bác sĩ tâm thần ở bệnh viện Burghölzli, Adler khởi đầu là bác sĩ mắt rồi chuyển sang đa khoa [S1].
+**Sự kiện.** Freud sinh năm 1856, Adler năm 1870, Jung năm 1875. Freud và Adler lớn lên ở Vienna (Áo), Jung lớn lên ở Thụy Sĩ và làm việc ở Zurich. Cả ba học y. Freud khởi đầu là nhà nghiên cứu thần kinh học trong phòng thí nghiệm rồi hành nghề bác sĩ thần kinh. Jung là bác sĩ tâm thần ở bệnh viện Burghölzli. Adler khởi đầu là bác sĩ mắt rồi chuyển sang đa khoa [S1].
 
 **Thời đại.** Hãy hình dung châu Âu nói tiếng Đức khoảng năm 1900. Có ba dòng chảy cùng lúc:
 
 1. **Khoa học tự nhiên đang thắng thế.** Vật lý, hóa học và sinh học (thuyết tiến hóa của Darwin) giải thích được rất nhiều thứ. Câu hỏi đặt ra: tâm trí có thể được giải thích theo cách tương tự không?
-2. **Y học bế tắc trước "bệnh thần kinh".** Nhiều bệnh nhân bị liệt, mất tiếng, co giật mà cơ thể không có tổn thương nào (thời đó gọi là chứng hysteria). Thuật thôi miên của bác sĩ Charcot ở Paris cho thấy triệu chứng thể xác có thể do ý nghĩ gây ra [S1].
-3. **Văn hóa Trung Âu đầy mâu thuẫn.** Vienna thời đó là nơi âm nhạc, văn chương và triết học nở rộ, nhưng cũng nặng quy tắc ứng xử, đặc biệt về tính dục, và có làn sóng bài Do Thái gia tăng. Freud và Adler đều là người Do Thái ở Vienna, Jung là người Thụy Sĩ theo Tin Lành [S1].
+2. **Y học bế tắc trước "bệnh thần kinh".** Nhiều bệnh nhân bị liệt, mất tiếng, co giật mà cơ thể không có tổn thương nào. Thời đó gọi chung là chứng hysteria (một dạng bệnh thần kinh chức năng, tiếng Việt cũ gọi là "cuồng loạn"). Thuật thôi miên của bác sĩ Charcot ở Paris cho thấy triệu chứng thể xác có thể do ý nghĩ gây ra [S1].
+3. **Văn hóa Trung Âu đầy mâu thuẫn.** Vienna thời đó là nơi âm nhạc, văn chương và triết học nở rộ, nhưng cũng nặng quy tắc ứng xử, đặc biệt về tính dục, và có làn sóng bài Do Thái gia tăng. Freud và Adler xuất thân từ gia đình Do Thái ở Vienna (Adler về sau cải sang đạo Tin Lành); Jung là người Thụy Sĩ theo Tin Lành [S1].
 
-**Vì sao hay nhắc cùng nhau?** Họ là ba cái tên đầu tiên của "tâm lý học chiều sâu" (depth psychology): quan điểm cho rằng nhiều điều chi phối ta nằm dưới mặt ý thức. Và họ từng làm việc trong cùng một nhóm quanh Freud rồi rẽ ba hướng. Ẩn dụ dễ nhớ: **ba nhánh sông cùng một nguồn**. Nguồn là ý tưởng "tâm lý có phần vô thức, và nói chuyện có thể chữa bệnh". Ba nhánh là ba cách hiểu vô thức.
+**Vì sao hay nhắc cùng nhau?** Họ là ba cái tên nổi tiếng nhất của "tâm lý học chiều sâu" (depth psychology): quan điểm cho rằng nhiều điều chi phối ta nằm dưới mặt ý thức. Cả ba đều từng gắn với phong trào phân tâm học quanh Freud, ở những thời điểm khác nhau, rồi rẽ hướng riêng. Ẩn dụ dễ nhớ: **ba nhánh sông cùng một nguồn**. Nguồn là ý tưởng "tâm lý có phần vô thức, và nói chuyện có thể chữa bệnh". Ba nhánh là ba cách hiểu vô thức. Mỗi nhánh còn có nguồn riêng: Freud từ sinh lý học, Jung từ tâm thần học và triết học Đức, Adler từ y học xã hội.
 
 **Một cảnh báo về từ ngữ.** "Vô thức" ở đây không có nghĩa là "bất tỉnh". Nó có nghĩa là *những gì đang tác động lên ta mà ta không nhận ra*. Ví dụ đời thường: bạn luôn thấy khó chịu với một kiểu đồng nghiệp mà không biết vì sao. Cả ba đồng ý có một "lý do bạn chưa thấy". Họ chỉ bất đồng về *lý do đó là gì*.
 
-## Freud: người đi tìm sự thật dưới mặt nước
+## Freud: nhà khảo cổ của tâm trí
 
 ### Xuất thân và con đường
 
-**Sự kiện.** Sigmund Freud sinh ngày 6/5/1856 ở Freiberg (nay là Příbor, Cộng hòa Séc) trong một gia đình Do Thái; cả nhà chuyển tới Vienna khi ông khoảng bốn tuổi. Ông học y ở Đại học Vienna, tốt nghiệp năm 1881. Những năm đầu ông làm nghiên cứu thần kinh học trong phòng thí nghiệm của giáo sư Ernst Brücke, rồi hành nghề bác sĩ thần kinh [S1].
+**Sự kiện.** Sigmund Freud sinh ngày 6/5/1856 ở Freiberg (nay là Příbor, Cộng hòa Séc) trong một gia đình Do Thái. Cha ông, Jacob, là thương nhân buôn len, hơn vợ khoảng 20 tuổi. Mẹ ông, Amalia, là người vợ thứ ba của Jacob, và Freud là con cả của bà; ông còn hai anh cùng cha khác mẹ có tuổi gần bằng mẹ ông. Cả nhà chuyển tới Vienna năm 1860 khi ông khoảng bốn tuổi [S1].
 
-Năm 1885–1886 Freud sang Paris học với Charcot ở bệnh viện Salpêtrière. Ông thấy rằng chứng hysteria có thể do ý tưởng, không phải do tổn thương cơ thể. Ông cũng cộng tác với bác sĩ Josef Breuer, người kể về một bệnh nhân (trong tài liệu gọi là "Anna O.") tự gọi cách chữa của mình là "chữa bằng lời nói" (talking cure). Hai người công bố *Nghiên cứu về hysteria* năm 1895 [S9].
+Freud học y ở Đại học Vienna, tốt nghiệp năm 1881. Những năm đầu ông làm nghiên cứu thần kinh học trong phòng thí nghiệm của giáo sư Ernst Brücke, rồi hành nghề bác sĩ thần kinh [S1]. Năm 1885–1886 ông sang Paris học với Charcot ở bệnh viện Salpêtrière và thấy rằng chứng hysteria có thể do ý tưởng, không do tổn thương cơ thể [S1]. Ông cũng cộng tác với bác sĩ Josef Breuer, người kể về một bệnh nhân (trong tài liệu gọi là "Anna O.") tự gọi cách chữa của mình là "chữa bằng lời nói" (talking cure). Hai người công bố *Nghiên cứu về hysteria* năm 1895 [S9].
 
-**Mốc đời tư tưởng.** Cha của Freud mất năm 1896. Từ năm 1897 ông tiến hành một cuộc tự phân tích kéo dài, phần lớn qua thư từ với người bạn Wilhelm Fliess. **Diễn giải:** nhiều tiểu sử xem đây là bước ngoặt để hình thành lý thuyết. Cuốn *Giải mã giấc mơ* (The Interpretation of Dreams) ra cuối năm 1899, đề năm 1900 [S2]. Năm 1938, sau khi Đức sáp nhập Áo, Freud rời Vienna sang London; ông mất ở đó năm 1939 [S1].
+**Diễn giải theo tiểu sử.** Nhiều tiểu sử cho rằng vị trí đặc biệt của Freud trong một gia đình đông người, và mối quan hệ nhiều cảm xúc với người cha, để lại dấu vết trong lý thuyết sau này, nhất là ý tưởng về phức cảm Oedipus. Cha ông mất năm 1896. Từ năm 1897 ông tiến hành một cuộc tự phân tích kéo dài, phần lớn qua thư từ với người bạn Wilhelm Fliess [S1]. Đây là diễn giải của người sau; bản thân Freud nói tự phân tích là nguồn của nhiều ý tưởng trong *Giải mã giấc mơ* (The Interpretation of Dreams), cuốn sách ra cuối năm 1899 và đề năm 1900 [S2].
+
+Năm 1938, sau khi Đức sáp nhập Áo, Freud rời Vienna sang London; ông mất ở đó năm 1939 [S1].
 
 ### Nền tảng tư tưởng: Freud học từ ai?
 
@@ -50,151 +56,165 @@ Freud thường tự mô tả mình là nhà khoa học tự nhiên, không ph�
 
 1. **Trường phái sinh lý học của Helmholtz và Brücke.** Quan điểm của họ: mọi hiện tượng sống đều giải thích được bằng lực vật lý và hóa học, không cần "linh hồn". Freud mang tinh thần đó vào tâm lý: tâm trí vận hành theo "năng lượng" và "lực" [S1].
 2. **Darwin.** Con người là động vật tiến hóa, có bản năng. Lý trí không phải chủ nhân tuyệt đối [S1].
-3. **Triết học Đức đầu đời.** Freud nghe các bài giảng của nhà triết học Franz Brentano ở Vienna và từng dịch một tập tiểu luận của John Stuart Mill. Về Schopenhauer và Nietzsche (hai triết gia nói về ý chí vô thức và sức mạnh bản năng), có nhiều điểm trùng ý tưởng; Freud nói mình không đọc Nietzsche vì sợ bị ảnh hưởng. Mức độ ảnh hưởng thật sự còn được học giả tranh luận [S1].
+3. **Triết học và tư tưởng thời đó.** Freud nghe giảng của nhà triết học Franz Brentano ở Vienna thời sinh viên và dịch một tập tiểu luận của nhà triết học Anh John Stuart Mill sang tiếng Đức. Về Schopenhauer và Nietzsche (hai triết gia nói về ý chí vô thức và sức mạnh bản năng), có nhiều điểm trùng ý tưởng. Freud nói mình tránh đọc Nietzsche để khỏi bị ảnh hưởng, nhưng nhiều học giả nghi ngờ lời tự bạch này nên mức độ ảnh hưởng vẫn còn tranh luận [S1].
 
-Ba ảnh hưởng này dẫn tới một niềm tin triết học: **quyết định luận tâm lý** (psychic determinism). Mọi ý nghĩ, giấc mơ, câu nói nhầm đều có nguyên nhân; không có gì "ngẫu nhiên" trong đời sống tinh thần.
+Ba ảnh hưởng này dẫn tới một niềm tin triết học: **quyết định luận tâm lý** (psychic determinism), tức mọi ý nghĩ, giấc mơ, câu nói nhầm đều có nguyên nhân; không có gì "ngẫu nhiên" trong đời sống tinh thần.
 
 ### Từ hysteria đến phân tâm học
 
 Hành trình của Freud đi qua bốn bước, mỗi bước là một ý tưởng mới:
 
-1. **Triệu chứng có nghĩa.** Cơn liệt hay mất tiếng không phải "giả vờ" cũng không chỉ là thể xác; nó mang một ý nghĩa về cảm xúc bị giấu [S9].
+1. **Triệu chứng có nghĩa.** Cơn liệt hay mất tiếng không phải "giả vờ", cũng không chỉ là thể xác; nó mang một ý nghĩa về cảm xúc bị giấu [S9].
 2. **Nói ra giúp giải tỏa.** Khi bệnh nhân kể lại ký ức đau và cảm xúc đi cùng, triệu chứng nhẹ đi [S9].
-3. **Liên tưởng tự do.** Freud bỏ thôi miên, bảo bệnh nhân nói bất cứ điều gì thoáng qua đầu, kể cả điều ngượng hay vô lý. Cách này lần ra các mắt xích bị chặn lại [S2].
+3. **Liên tưởng tự do.** Freud dần bỏ thôi miên, bảo bệnh nhân nói bất cứ điều gì thoáng qua đầu, kể cả điều ngượng hay vô lý. Cách này lần ra các mắt xích bị chặn lại [S2] [S9].
 4. **Ký ức bị nén (repression).** Những ham muốn hay ký ức quá khó chịu bị đẩy khỏi ý thức, nhưng không biến mất; chúng tìm đường khác để biểu hiện qua triệu chứng, giấc mơ và lời nói nhầm [S2].
 
-Năm 1897 Freud viết cho Fliess rằng ông không còn tin vào lý thuyết ban đầu của mình về nguồn gốc bệnh thần kinh (cho rằng bệnh nhân từng bị xâm hại thật), và chuyển sang nhấn mạnh vai trò của *tưởng tượng và ham muốn thời nhỏ*. **Diễn giải:** đây là điểm tranh cãi lớn nhất về Freud; một số học giả cho rằng ông đúng khi tránh khái quát hóa, số khác cho rằng ông đã xem nhẹ trải nghiệm có thật của bệnh nhân [S1].
+Ngày 21/9/1897 Freud viết cho Fliess rằng ông không còn tin lý thuyết ban đầu của mình về nguồn gốc bệnh thần kinh (cho rằng bệnh nhân từng bị xâm hại thật trong thời thơ ấu), và chuyển sang nhấn mạnh vai trò của *tưởng tượng và ham muốn thời nhỏ* [S1]. **Diễn giải:** đây là một trong những điểm tranh cãi dai dẳng nhất về Freud. Jeffrey Masson cho rằng Freud bỏ lý thuyết vì áp lực nghề nghiệp và xem nhẹ trải nghiệm có thật của bệnh nhân [S41]. Allen Esterson và một số người khác cho rằng chính các "ký ức bị xâm hại" ban đầu là do Freud suy diễn chứ bệnh nhân không kể [S42]. Số khác cho rằng ông đúng khi nhận ra không phải ký ức nào cũng là sự kiện có thật. Freud không phủ nhận rằng xâm hại có xảy ra.
 
 ### Bản đồ tâm trí
 
 Freud vẽ hai bản đồ tâm trí, bản sau không xóa bản trước.
 
-**Bản đồ thứ nhất (khoảng 1900): ba tầng.** Ý thức (điều ta đang nhận biết), tiền ý thức (điều ta có thể nhớ lại nếu chú ý) và vô thức (điều bị nén, không tự nhớ được) [S2]. Hình ảnh **tảng băng chìm** hay được gán cho Freud, nhưng đó là hình ảnh phổ biến về sau; hãy dùng nó như ẩn dụ, không phải trích dẫn.
+**Bản đồ thứ nhất (khoảng 1900): ba tầng.** Ý thức (conscious: điều ta đang nhận biết), tiền ý thức (preconscious: điều ta có thể nhớ lại nếu chú ý) và vô thức (unconscious: điều bị nén, không tự nhớ được) [S2]. Hình ảnh **tảng băng chìm** hay được gán cho Freud, nhưng đó là hình ảnh phổ biến về sau; hãy dùng nó như ẩn dụ, không phải trích dẫn.
 
 **Bản đồ thứ hai (1923): ba phần.** Cuốn *Cái tôi và cái nó* (The Ego and the Id) chia tâm trí làm ba [S13]:
 
 - **Cái nó (id):** kho ham muốn và bản năng, đòi thỏa mãn ngay, không biết "không".
 - **Cái tôi (ego):** phần giao tiếp với thực tế, tìm cách thỏa mãn ham muốn một cách khả thi.
-- **Siêu ngã (superego):** tiếng nói của quy tắc và lương tâm, được "nuốt vào" từ cha mẹ và xã hội.
+- **Siêu ngã (superego, còn gọi là "cái siêu tôi"):** tiếng nói của quy tắc và lương tâm, được "nuốt vào" từ cha mẹ và xã hội.
 
-Freud so sánh cái tôi với **người cưỡi ngựa**: con ngựa (cái nó) khỏe hơn người cưỡi, nên người cưỡi phải khéo léo dẫn con ngựa đi hướng nó muốn [S13]. Về sau ông còn nói cái tôi "phục vụ ba ông chủ": cái nó, siêu ngã và thế giới bên ngoài. Cái tôi luôn ở thế khó, nên *lo âu* là chuyện bình thường.
+Freud so sánh cái tôi với **người cưỡi ngựa**: con ngựa (cái nó) khỏe hơn người cưỡi, nên người cưỡi phải khéo léo dẫn con ngựa đi hướng nó muốn [S13]. Trong bài giảng năm 1933, ông nói rõ cái tôi "phục vụ ba ông chủ": cái nó, siêu ngã và thế giới bên ngoài [S31]. Cái tôi luôn ở thế khó, nên *lo âu* là chuyện bình thường.
+
+**Lưu ý quan trọng:** trong mô hình thứ hai, "vô thức" không còn là một "tầng" riêng. Cái nó hoàn toàn vô thức, nhưng một phần cái tôi và siêu ngã cũng vô thức. Vì vậy, nói "vô thức của Freud là kho ham muốn bị nén" là cách nói rút gọn: nội dung điển hình đúng là ham muốn và ký ức bị nén, nhưng vô thức rộng hơn cái bị nén [S13].
 
 ### Bản năng và sự phát triển
 
 Đây là phần nổi tiếng và hay bị hiểu lầm nhất.
 
-**Libido.** Freud dùng từ này cho năng lượng của bản năng sống. Ông mở rộng nghĩa của "tính dục" tới mọi khoái cảm thể xác và gắn bó (bú mút, bài tiết, được yêu thương), không chỉ giao hợp [S10]. Vì vậy câu "Freud nghĩ mọi thứ đều là tính dục" là cách nói rút gọn, dễ gây hiểu sai.
+**Libido** là "nhiên liệu của ham muốn và sự gắn bó". Hãy nghĩ đến cảm giác háo hức: ăn một món ngon, nhớ người thương, mê một công việc. Freud cho rằng đó là cùng một dòng năng lượng bên trong và gọi nó là libido. Ban đầu, đó là năng lượng của bản năng *tính dục* theo nghĩa rộng: mọi khoái cảm thể xác và gắn bó (bú mút, bài tiết, được yêu thương), không chỉ giao hợp [S10]. Sau 1920, ông gắn nó với bản năng sống (Eros). Chữ gốc *Trieb* thường được dịch là "bản năng" nhưng nghĩa sát hơn là "xung năng" hay "động lực". Vì vậy câu "Freud nghĩ mọi thứ đều là tính dục" là cách nói rút gọn, dễ gây hiểu sai. Trước 1920, ông còn có một lực thứ hai là bản năng tự bảo tồn của cái tôi.
 
-**Năm giai đoạn phát triển** (*Ba tiểu luận về lý thuyết tính dục*, 1905, các tiểu luận sau bổ sung) [S10]:
+**Năm giai đoạn phát triển.** Nền tảng nằm trong *Ba tiểu luận về lý thuyết tính dục* (1905); Freud bổ sung dần sơ đồ hoàn chỉnh trong các lần tái bản và bài viết sau (các giai đoạn miệng và hậu môn từ khoảng 1915, giai đoạn dương vật từ khoảng 1923) [S10]:
 
 1. **Miệng (oral):** khoái cảm xoay quanh bú mút, đồng thời là giai đoạn gắn bó đầu tiên.
 2. **Hậu môn (anal):** liên quan việc kiểm soát bài tiết, và lần đầu trẻ va vào quy tắc của người lớn.
-3. **Dương vật/giai đoạn sinh dục sớm (phallic):** trẻ tò mò về cơ thể và khác biệt giới; theo Freud đây là lúc xuất hiện *Oedipus complex*, trẻ có tình cảm chiếm hữu với cha hoặc mẹ và ganh với người còn lại.
+3. **Dương vật (phallic):** trẻ bắt đầu tò mò về cơ thể và khác biệt giới. Theo Freud, đây là lúc xuất hiện **phức cảm Oedipus** (Oedipus complex): trẻ có tình cảm chiếm hữu với cha hoặc mẹ và ganh với người còn lại. Ví dụ đời thường: cậu bé bốn tuổi nói "lớn lên con sẽ cưới mẹ". Freud xem những cảm xúc này là phổ quát; đây cũng là phần bị phê bình nhiều nhất.
 4. **Tiềm ẩn (latency):** năng lượng chuyển sang học tập và bạn bè.
 5. **Sinh dục (genital):** thời dậy thì, hướng tới các mối quan hệ người lớn.
 
-Ý chính: nếu ở một giai đoạn nào đó trẻ bị chiều quá hoặc bị cấm quá, một phần năng lượng bị "kẹt" lại và ảnh hưởng tính cách về sau. **Diễn giải:** đây là mô hình ít được ủng hộ nhất trong lý thuyết Freud theo giới khoa học hiện đại.
+Ý chính: nếu ở một giai đoạn nào đó trẻ bị chiều quá hoặc bị cấm quá, một phần năng lượng bị "kẹt" lại và ảnh hưởng tính cách về sau. **Diễn giải:** các giai đoạn này, nhất là ý tưởng "kẹt" ở một giai đoạn quyết định tính cách người lớn, hầu như không được bằng chứng thực nghiệm hiện đại ủng hộ.
 
-**Bản năng chết.** Sau Thế chiến I, Freud trong *Vượt khỏi nguyên lý khoái cảm* (1920) bổ sung rằng con người còn có một lực đẩy tới phá hủy và trở về trạng thái yên tĩnh; ông gọi nó là bản năng chết, đối lập với bản năng sống (Eros) [S12]. Ý tưởng này gây tranh cãi ngay trong cộng đồng phân tâm học; nhiều người không chấp nhận [S1].
+**Bản năng chết.** Sau Thế chiến I, Freud trong *Vượt khỏi nguyên lý khoái cảm* (1920) bổ sung một lực đẩy tới trở về trạng thái yên tĩnh, vô sinh; ông gọi là bản năng chết, đối lập với bản năng sống (Eros) [S12]. Về sau (thập niên 1920–1930) ông gắn nó thêm với sự gây hấn và phá hủy. Ý tưởng này gây tranh cãi ngay trong cộng đồng phân tâm học; nhiều người không chấp nhận [S1].
 
 ### Cơ chế phòng vệ
 
 Cái tôi bảo vệ mình khỏi lo âu bằng các "cơ chế phòng vệ" (defense mechanisms). Con gái ông, Anna Freud, hệ thống hóa chúng trong cuốn sách năm 1936 [S15]. Mấy ví dụ đời thường:
 
-- **Nén (repression):** quên thật sự một chuyện đau lòng.
+- **Nén (repression):** đẩy một ký ức hay ham muốn đau đớn ra khỏi ý thức (không phải quên bình thường).
 - **Chối bỏ (denial):** "Không có chuyện đó".
 - **Phóng chiếu (projection):** thấy ở người khác điều ta không nhận ở mình ("anh ta mới là người đang giận").
-- **Dời chuyển (displacement):** giận sếp nhưng quát con.
+- **Dời đích (displacement):** đổi đối tượng của cảm xúc, ví dụ giận sếp nhưng quát con.
 - **Thăng hoa (sublimation):** chuyển năng lượng thành điều được xã hội coi trọng (sáng tác, thể thao, nghiên cứu).
 
 ### Giấc mơ, nói nhầm và triệu chứng
 
-Freud phân biệt **nội dung bề mặt** (manifest) của giấc mơ với **nội dung ẩn** (latent). Giấc mơ là sự thỏa mãn ngụy trang của một ham muốn bị nén; quá trình ngụy trang (dream work) có hai cách chính là *cô đặc* (nhiều ý gộp vào một hình ảnh) và *dời chuyển* (cảm xúc gắn vào một thứ vô hại) [S2]. Ông gọi việc giải mã giấc mơ là "đường chính" (royal road) tới vô thức [S2]. Cùng logic được áp dụng cho "nói nhầm" (Freudian slip) và triệu chứng bệnh.
+Freud phân biệt **nội dung bề mặt** (manifest) của giấc mơ với **nội dung ẩn** (latent). Ví dụ: bạn mơ thấy mình đi thi mà quên bút (bề mặt). Freud có thể hỏi bạn đang lo bị đánh giá là thiếu chuẩn bị chuyện gì (ẩn).
+
+Theo Freud, giấc mơ là sự thỏa mãn (được ngụy trang) của một ham muốn bị nén; ông về sau thừa nhận ngoại lệ, như giấc mơ lặp lại sau chấn thương. Quá trình ngụy trang (dream work) gồm bốn thao tác; hai thao tác nổi tiếng nhất là *cô đặc* (nhiều ý gộp vào một hình ảnh) và *dời đích* (cảm xúc gắn vào một thứ vô hại) [S2]. Ông gọi việc giải mã giấc mơ là "con đường vương giả" (royal road) tới vô thức [S2]. Cùng logic được áp dụng cho "nói nhầm" (Freudian slip) và triệu chứng bệnh.
 
 ### Trị liệu
 
-Phân tâm học cổ điển có các đặc điểm sau:
+Phân tâm học cổ điển có các đặc điểm sau [S37]:
 
 - **Nguyên tắc cơ bản:** bệnh nhân nói tự do mọi điều thoáng qua, nhà phân tích lắng nghe với sự chú ý đều, không phán xét.
-- **Chuyển di (transference):** bệnh nhân vô tình đặt cảm xúc cũ, thường là với cha mẹ, lên nhà phân tích. Đây là "vật liệu" chính để quan sát.
+- **Chuyển di (transference):** bệnh nhân vô tình đặt cảm xúc cũ, thường là với cha mẹ, lên nhà phân tích. Ví dụ: bạn bỗng thấy sợ một bác sĩ vì ông có giọng nói giống người thầy từng quát mình. Freud thấy chuyển di vừa là sức cản vừa là công cụ chính của điều trị.
 - **Kháng cự (resistance):** bệnh nhân vô thức tránh chủ đề đau; nhà phân tích gọi tên sự kháng cự đó.
 - **Diễn giải và "làm cho thấu" (working through):** lặp đi lặp lại qua nhiều tình huống cho tới khi hiểu thật sự, chứ không chỉ nghe một lần.
-- **Cấu trúc:** nhiều buổi mỗi tuần, kéo dài nhiều năm; bệnh nhân thường nằm trên đi-văng.
+- **Cấu trúc:** nhiều buổi mỗi tuần, kéo dài nhiều năm; bệnh nhân thường nằm trên đi-văng. Đây là khuôn khổ cổ điển về sau; công trình ban đầu năm 1895 không có khuôn khổ này.
 
-Mục tiêu nhiều lần được diễn đạt là biến vô thức thành ý thức, củng cố cái tôi. Câu nổi tiếng thường được trích (dịch gần nghĩa): *"Chỗ nào có cái nó, chỗ đó cái tôi sẽ thế vào"* (Wo Es war, soll Ich werden, 1933). Freud cũng rất khiêm tốn về kết quả: trong *Nghiên cứu về hysteria*, ông viết rằng nếu thành công, họ đã biến "nỗi khổ hysteria" thành "nỗi bất hạnh thông thường" [S9].
+Mục tiêu nhiều lần được diễn đạt là biến vô thức thành ý thức, củng cố cái tôi. Câu nổi tiếng thường được trích (dịch gần nghĩa): *"Nơi nào có cái nó, nơi đó cái tôi phải có mặt"* (Wo Es war, soll Ich werden; bài giảng năm 1933) [S31]. Freud cũng rất khiêm tốn về kết quả: trong chương do chính ông chấp bút của *Nghiên cứu về hysteria*, ông viết rằng sẽ là nhiều điều đã đạt được nếu biến "nỗi khổ hysteria" thành "nỗi bất hạnh thông thường" [S9].
 
 ### Văn minh, tôn giáo và đạo đức
 
-Phần này cho thấy rõ nhất *triết học* của Freud.
+Phần này cho thấy rõ nhất quan niệm triết học của Freud.
 
-**Văn minh đòi hỏi từ bỏ.** Trong *Sự bất mãn trong văn minh* (1930), Freud cho rằng xã hội chỉ tồn tại khi mỗi người từ bỏ một phần bản năng (tính dục, gây hấn). Phần bản năng bị từ bỏ không biến mất; nó quay vào trong thành **mặc cảm tội lỗi**. Cái giá của văn minh là một lượng bất hạnh nhất định, không thể xóa hết [S14].
+**Văn minh đòi hỏi từ bỏ.** Trong *Sự bất mãn trong văn minh* (1930), Freud cho rằng xã hội chỉ tồn tại khi mỗi người từ bỏ một phần bản năng (tính dục, gây hấn). Sự gây hấn bị kìm lại không biến mất; nó quay vào bên trong, được siêu ngã tiếp nhận và trở thành **cảm giác tội lỗi**. Ông xem đây là cái giá chính của văn minh, và nói thêm rằng Eros là lực gắn kết con người thành cộng đồng. Cái giá của văn minh là một lượng bất hạnh nhất định, không thể xóa hết [S38].
 
-**Tôn giáo như ảo tưởng.** Trong *Tương lai của một ảo tưởng* (1927), Freud cho rằng niềm tin tôn giáo bắt nguồn từ nhu cầu được che chở, giống nhu cầu của đứa trẻ với người cha. Ông dùng chữ "ảo tưởng" theo nghĩa đặc biệt: một niềm tin sinh ra từ *ước muốn* (không nhất thiết là sai, nhưng nguồn gốc của nó là ước muốn, không phải bằng chứng) [S14]. Ông kỳ vọng ở lý trí và khoa học: tiếng nói của lý trí nhỏ, nhưng bền bỉ [S14].
+**Tôn giáo như ảo tưởng.** Trong *Tương lai của một ảo tưởng* (1927), Freud cho rằng niềm tin tôn giáo bắt nguồn từ nhu cầu được che chở, giống nhu cầu của đứa trẻ với người cha. Ông dùng chữ "ảo tưởng" theo nghĩa đặc biệt: một niềm tin sinh ra từ *ước muốn* (không nhất thiết là sai, nhưng nguồn gốc của nó là ước muốn, không phải bằng chứng). Ông kỳ vọng ở lý trí và khoa học: tiếng nói của lý trí nhỏ nhưng bền bỉ (diễn đạt lại) [S14].
 
-### Lý tưởng sống của Freud
+### Lý tưởng sống của Freud (cách bài này tóm)
 
-Có thể tóm lý tưởng của Freud trong một chữ: **sự thật**. Cụ thể:
+**Diễn giải.** Đây là cách bài tóm lý tưởng của Freud từ các tác phẩm của ông, không phải lời tự nhận. Có thể tóm trong một chữ: **sự thật**. Cụ thể:
 
-1. **Can đảm nhìn vào điều khó chịu.** Freud cho rằng con người thích tự dối mình. Điều đáng tôn trọng là chịu nhìn.
-2. **"Ba vết thương" lên lòng tự ái của nhân loại** (bài viết 1917) [S11]: Copernicus nói Trái Đất không là trung tâm vũ trụ; Darwin nói con người không đứng ngoài giới động vật; còn phân tâm học nói "cái tôi không phải chủ nhân trong chính ngôi nhà của nó". Freud tự xếp mình vào chuỗi "những người làm người ta tỉnh ra khỏi ảo tưởng".
-3. **Khiêm tốn về hạnh phúc.** Mục tiêu không phải là hạnh phúc trọn vẹn mà là **bớt bị chi phối mù quáng**, để cái tôi có nhiều quyền chọn hơn.
-4. **Tin lý trí, nhưng không ngây thơ.** Lý trí yếu và dễ bị bản năng kéo, nhưng đó là công cụ duy nhất đáng tin để cải thiện đời sống chung.
+1. **Can đảm nhìn vào điều khó chịu.** Freud cho rằng con người thích tự dối mình. Điều đáng tôn trọng là chịu nhìn [S14].
+2. **"Ba vết thương" lên lòng tự ái ngây thơ của nhân loại** (bài viết 1917) [S11]: Copernicus nói Trái Đất không là trung tâm vũ trụ; Darwin nói con người không đứng ngoài giới động vật; còn phân tâm học nói cái tôi không phải chủ nhân trong chính ngôi nhà của nó (dịch gần nghĩa). Freud xếp mình vào chuỗi những người làm tổn thương lòng tự ái ngây thơ (narcissism) đó.
+3. **Khiêm tốn về hạnh phúc.** Mục tiêu không phải là hạnh phúc trọn vẹn mà là **bớt bị chi phối mù quáng**, để cái tôi có nhiều quyền chọn hơn [S9] [S31].
+4. **Tin lý trí, nhưng không ngây thơ.** Lý trí yếu và dễ bị bản năng kéo, nhưng đó là công cụ đáng tin nhất để cải thiện đời sống chung [S14].
 
-Nói cách khác, Freud là một **người của Khai sáng, có phần bi quan**: tin ở khoa học và sự thật, nhưng không tin con người sẽ trở nên hiền lành.
+Có thể xem Freud là người thừa kế tinh thần **Khai sáng** (Enlightenment: thời đại tin lý trí và khoa học làm cuộc sống tốt hơn), nhưng với cái nhìn bi quan về bản năng. **Diễn giải:** Ellenberger lại nhấn mạnh các mạch **Lãng mạn** (Romanticism: dòng tư tưởng đề cao cảm xúc, trực giác và chiều sâu nội tâm) trong tư tưởng của Freud và của cả "tâm thần học động" nói chung [S1]. Vì vậy cách xếp "Freud thuộc Khai sáng, Jung thuộc Lãng mạn" chỉ là cách đơn giản hóa để dễ nhớ.
 
 ### Mâu thuẫn nội tại và phê bình riêng
 
-- **Khoa học tự nhiên hay giải thích ý nghĩa?** Freud tự xem mình theo khoa học tự nhiên, nhưng phương pháp của ông (diễn giải ý nghĩa) gần với nhân văn hơn. Triết gia Adolf Grünbaum và nhiều người khác cho rằng bằng chứng mà Freud dùng (lời kể trong buổi phân tích) không đủ để kiểm chứng giả thuyết [S26].
-- **Khó bác bỏ.** Triết gia Karl Popper dùng Freud và Adler làm ví dụ về lý thuyết giải thích được mọi hành vi nên không thể sai [S6].
-- **Mẫu hẹp và định kiến thời đại.** Bệnh nhân chủ yếu là người thuộc tầng lớp trung lưu Vienna. Các quan điểm về nữ giới bị phê phán mạnh từ các nhà phân tâm học nữ như Karen Horney và từ phong trào nữ quyền (diễn giải của học giả).
+- **Khoa học tự nhiên hay giải thích ý nghĩa?** Freud tự xem mình theo khoa học tự nhiên, nhưng phương pháp của ông (diễn giải ý nghĩa trong lời kể của bệnh nhân) gần với nhân văn hơn. Có trường phái đọc ông theo hướng nhân văn (hermeneutic). Triết gia Adolf Grünbaum bác cách đọc đó: ông cho rằng lý thuyết Freud có thể kiểm chứng về nguyên tắc, nhưng bằng chứng từ buổi phân tích dễ bị chính nhà trị liệu gợi ý nên không đủ làm cơ sở [S26].
+- **Khó bác bỏ.** Triết gia Karl Popper dùng Freud và Adler làm ví dụ về lý thuyết giải thích được mọi hành vi nên không thể bị bác bỏ [S6]. (Grünbaum phản bác Popper ở điểm này.)
+- **Mẫu hẹp và định kiến thời đại.** Bệnh nhân chủ yếu là người thuộc tầng lớp trung lưu Vienna. Các quan điểm về nữ giới, như thuyết ghen tị dương vật (penis envy) và ý cho rằng nữ giới có siêu ngã yếu hơn, bị phê phán mạnh, đặc biệt từ nhà phân tâm học Karen Horney từ thập niên 1920 (diễn giải của học giả).
 - **Bản năng chết** khó chấp nhận cả với người ủng hộ ông [S1].
+- **Ký ức bị nén.** Ý niệm rằng một ký ức đau có thể bị "nén" hẳn rồi trở lại nguyên vẹn là vùng tranh luận trong nghiên cứu ký ức; bằng chứng không rõ ràng (chưa kèm nguồn trong danh sách).
 
 ## Jung: người dẫn đường vào chiều sâu
 
 ### Xuất thân và con đường
 
-**Sự kiện.** Carl Gustav Jung sinh ngày 26/7/1875 ở Kesswil, Thụy Sĩ; cha là mục sư Tin Lành Cải cách, họ hàng bên mẹ cũng có nhiều mục sư. Ông lớn lên gần Basel, học y ở Basel, rồi chọn ngành tâm thần học sau khi đọc một cuốn giáo trình (theo tự truyện) [S3]. Từ năm 1900 ông làm ở bệnh viện Burghölzli (Zurich) dưới Eugen Bleuler, nơi nghiên cứu bệnh tâm thần nặng, và dùng **thí nghiệm liên tưởng từ** để nhận ra "phức cảm" (complex): nhóm ý nghĩ và cảm xúc bị bí mật gắn với nhau, khiến người nghe phản ứng lạ với một số từ [S1].
+**Sự kiện.** Carl Gustav Jung sinh ngày 26/7/1875 ở Kesswil, Thụy Sĩ; cha là mục sư Tin Lành Cải cách, họ hàng bên mẹ cũng có nhiều mục sư. Ông lớn lên gần Basel, học y ở Basel, rồi chọn ngành tâm thần học sau khi đọc một cuốn giáo trình (theo tự truyện) [S3]. Từ năm 1900 ông làm ở bệnh viện Burghölzli (Zurich) dưới quyền Eugen Bleuler, nơi chuyên nghiên cứu bệnh tâm thần nặng.
 
-**Diễn giải theo tự truyện.** Trong tự truyện, Jung kể mình thuở nhỏ sống như có hai "nhân cách": nhân cách số 1 là cậu học trò bình thường, nhân cách số 2 là thế giới nội tâm đầy giấc mơ, biểu tượng và câu hỏi về Thượng đế. Cha ông là mục sư nhưng mất dần niềm tin, và ông kể rằng điều đó thôi thúc ông tìm trải nghiệm tâm linh trực tiếp thay vì giáo lý [S3]. Đây là lời tự kể, nên cần đọc như một diễn giải.
+Ở đây Jung dùng **thí nghiệm liên tưởng từ**: bác sĩ đọc một từ, người tham gia nói từ đầu tiên nảy ra trong đầu, và bác sĩ đo thời gian trả lời. Nếu họ bỗng ngập ngừng với từ "cha", Jung nghĩ có một cụm cảm xúc chưa giải quyết gắn với từ đó. Ông gọi cụm này là **phức cảm** (complex): cụm ý nghĩ và cảm xúc gắn chặt với nhau quanh một lõi cảm xúc, thường nằm ngoài ý thức [S1].
 
-**Các mốc.** Ông kết hôn năm 1903, gửi bài viết về chứng tâm thần cho Freud năm 1906, gặp Freud năm 1907 và rời Burghölzli năm 1909 để hành nghề tư ở Küsnacht [S1] [S5]. Sau khi chia tay Freud, ông trải qua giai đoạn khủng hoảng nội tâm khoảng 1913–1919, ghi lại những hình ảnh và đối thoại với nhân vật nội tâm trong *Sách đỏ* (Liber Novus), mãi tới 2009 mới xuất bản [S20]. Ông xây "tháp Bollingen" từ 1923, ra *Các kiểu tâm lý* năm 1921, trải qua cơn đau tim và những thị kiến năm 1944, và mất năm 1961 [S16] [S3].
+**Diễn giải theo tự truyện.** Trong tự truyện, Jung kể mình thuở nhỏ sống như có hai "nhân cách": nhân cách số 1 là cậu học trò bình thường, nhân cách số 2 là thế giới nội tâm đầy giấc mơ, biểu tượng và câu hỏi về Thượng đế. Cha ông là mục sư nhưng mất dần niềm tin, và ông kể rằng điều đó thôi thúc ông tìm trải nghiệm tâm linh trực tiếp thay vì giáo lý [S3]. Đây là lời tự kể, và cuốn sách (do Aniela Jaffé ghi lại, có biên tập đáng kể) cần được đọc như một diễn giải.
+
+**Các mốc.** Ông kết hôn năm 1903. Năm 1906 ông gửi Freud các công trình về thí nghiệm liên tưởng từ, và hai người bắt đầu thư từ. Ông gặp Freud năm 1907 và rời Burghölzli năm 1909 để hành nghề tư ở Küsnacht [S1] [S5]. Ông ra *Các kiểu tâm lý* năm 1921 [S16]. Sau khi chia tay Freud, ông trải qua giai đoạn khủng hoảng nội tâm, theo tự truyện khoảng 1913–1917. Ông ghi lại các hình ảnh và đối thoại với nhân vật nội tâm trong các sổ đen từ 1913, rồi dựng lại, chép thư pháp và vẽ minh họa thành *Sách đỏ* (Liber Novus) đến khoảng 1930 rồi để dở; sách mãi tới 2009 mới xuất bản [S3] [S20]. Ông xây "tháp Bollingen" từ 1923, trải qua cơn đau tim và những thị kiến năm 1944, và mất năm 1961 [S3].
 
 ### Nền tảng tư tưởng: Jung học từ ai?
 
-Nếu Freud là con của khoa học tự nhiên thế kỷ 19, Jung là **con của triết học và văn hóa Đức, cộng với một nhà tâm linh thực nghiệm**:
+Nếu Freud là con của khoa học tự nhiên thế kỷ 19, Jung chịu ảnh hưởng của **triết học và văn hóa Đức, cộng với truyền thống huyền học, và ông nghiên cứu trải nghiệm tâm linh bằng quan sát**:
 
-1. **Kant.** Kant cho rằng chúng ta không biết "vật tự nó", chỉ biết cách tâm trí tổ chức kinh nghiệm theo các hình thức có sẵn. Jung tự kể mình đọc Kant, Schopenhauer và Nietzsche thời sinh viên [S3]. **Diễn giải:** nhiều học giả thấy nguyên mẫu (archetype) của Jung giống "hình thức có sẵn của tâm trí" theo tinh thần Kant: ta không thấy chính nguyên mẫu, chỉ thấy hình ảnh nó tạo ra.
-2. **Schopenhauer và Nietzsche.** Ý chí vô thức, mặt tối của con người, sự cần thiết phải vượt qua chính mình. Jung sau này dành nhiều buổi hội thảo (1934–1939) để đọc *Zarathustra* của Nietzsche [S1].
+1. **Kant.** Kant cho rằng ta không bao giờ thấy "vật tự nó" (thing-in-itself), chỉ thấy vật qua "cặp kính" của tâm trí, như người đeo kính màu thấy cả thế giới ngả màu. Jung kể mình đọc Kant, Schopenhauer và Nietzsche thời sinh viên [S3]. **Diễn giải:** nhiều học giả thấy nguyên mẫu (archetype) của Jung giống "cặp kính có sẵn của tâm trí" theo tinh thần Kant: ta không thấy chính nguyên mẫu, chỉ thấy hình ảnh nó tạo ra.
+2. **Schopenhauer và Nietzsche.** Ý chí vô thức, mặt tối của con người, sự cần thiết phải vượt qua chính mình. Jung sau này dành nhiều buổi hội thảo (1934–1939) để đọc *Zarathustra* của Nietzsche [S32].
 3. **Goethe, đặc biệt *Faust*.** Hình ảnh con người ôm cả sáng lẫn tối, và Mephistopheles như một phần của chính mình.
 4. **Truyền thống Lãng mạn Đức** (Carus, von Hartmann), những người đã nói về vô thức trước Freud [S1].
-5. **Các truyền thống tâm linh và huyền học:** thuật giả kim, Gnosticism, Kinh Dịch, Phật giáo và Đạo giáo (Jung viết lời bình cho *Bí mật của Hoa Vàng*). Ông coi chúng là kho biểu tượng người ta đã dùng để mô tả hành trình tâm hồn [S19].
+5. **Các truyền thống huyền học và tâm linh.** Thuật giả kim (alchemy, kỹ thuật cổ vừa là hóa học sơ khai vừa là biểu tượng về biến đổi tâm hồn) [S19]; Kinh Dịch, Phật giáo và Đạo giáo (Jung viết lời bình cho *Bí mật của Hoa Vàng*, 1929) [S33]. Ông coi chúng là kho biểu tượng người ta đã dùng để mô tả hành trình tâm hồn.
 
-Triết học của Jung vì thế là **kiểu Lãng mạn kết hợp với nhận thức luận Kant**: con người có một chiều sâu mà lý trí không bao quát, và chiều sâu đó có cấu trúc.
+**Diễn giải:** triết học của Jung có thể đọc là kiểu Lãng mạn kết hợp với nhận thức luận Kant: con người có một chiều sâu mà lý trí không bao quát, và chiều sâu đó có cấu trúc. Jung tự xem mình là nhà kinh nghiệm luận (người dựa vào quan sát), không phải nhà triết học.
 
 ### Bản đồ tâm hồn: ba lớp
 
 Jung chia tâm hồn thành [S18]:
 
-1. **Ý thức** có trung tâm là **cái tôi (ego)**, phần ta biết là "tôi".
+1. **Ý thức** có trung tâm là **cái tôi (ego)**, phần ta biết là "tôi". *Lưu ý:* "cái tôi" của Jung là phần ý thức biết "tôi là ai", khác với "cái tôi" của Freud là người điều phối ham muốn và thực tế.
 2. **Vô thức cá nhân:** những gì bị quên, nén, hoặc chưa thành ý thức trong đời một người. Ở đây có các **phức cảm**.
 3. **Vô thức tập thể (collective unconscious):** tầng sâu nhất, chung cho cả loài người, chứa các **nguyên mẫu (archetypes)**.
 
-Ẩn dụ dễ nhớ: **các hòn đảo cùng chung một đáy biển**. Mỗi người là một hòn đảo (ý thức); mực nước phía dưới là vô thức cá nhân; còn đáy biển nối mọi hòn đảo là vô thức tập thể.
+Ẩn dụ dễ nhớ: hình dung nhiều hòn đảo trong biển. Phần nhô lên trên mặt nước là ý thức của mỗi người. Phần đảo chìm dưới nước là vô thức cá nhân, riêng từng người. Dưới đáy biển, mọi hòn đảo nối vào cùng một nền đất: đó là vô thức tập thể, chung cho cả loài người.
 
-Jung nhấn mạnh rằng nguyên mẫu không phải ý tưởng có sẵn mà là *khuynh hướng tạo hình ảnh* giống nhau. Các hình ảnh (người mẹ vĩ đại, người anh hùng, kẻ lừa đảo, ông già khôn ngoan) xuất hiện lặp đi lặp lại trong thần thoại, truyện cổ và giấc mơ của nhiều nền văn hóa [S18].
+Jung nhấn mạnh rằng nguyên mẫu không phải ý tưởng có sẵn mà là *khả năng hình thức bẩm sinh để tạo hình ảnh giống nhau*. Chính nguyên mẫu không thể quan sát trực tiếp; ta chỉ gặp các hình ảnh và hành vi mang tính nguyên mẫu (người mẹ vĩ đại, người anh hùng, kẻ lừa đảo, ông già khôn ngoan) lặp đi lặp lại trong thần thoại, truyện cổ và giấc mơ của nhiều nền văn hóa. Nguyên mẫu cũng không chỉ là hình ảnh mà còn là mẫu cảm xúc và hành vi, gần với bản năng [S18]. **Diễn giải:** trong các tác phẩm đầu, Jung có lúc nói như thể hình ảnh được thừa kế, nên phê bình nhắm vào chỗ này vẫn có cơ sở.
 
-### Những nguyên mẫu quan trọng
+### Những cấu trúc quan trọng của tâm hồn
 
-- **Persona (mặt nạ):** vai ta đeo với xã hội. Cần thiết, nhưng nếu đồng nhất bản thân với vai, ta mất liên lạc với chính mình.
-- **Bóng tối (shadow):** những phần ta không nhận hoặc không muốn nhận ở bản thân (tức giận, ích kỷ, yếu đuối). Bóng tối không chỉ xấu; nó còn chứa năng lượng và tiềm năng chưa dùng.
+- **Persona (mặt nạ):** vai ta đeo với xã hội, là cấu trúc ở ranh giới giữa cái tôi và xã hội. Cần thiết, nhưng nếu đồng nhất bản thân với vai, ta mất liên lạc với chính mình.
+- **Bóng tối (shadow):** những phần ta không nhận hoặc không muốn nhận ở bản thân (tức giận, ích kỷ, yếu đuối). Bóng tối chủ yếu thuộc vô thức cá nhân nhưng có gốc nguyên mẫu. Nó không chỉ xấu; nó còn chứa năng lượng và tiềm năng chưa dùng.
 - **Anima và animus:** hình ảnh "nữ tính trong người đàn ông" và "nam tính trong người phụ nữ" theo Jung; chúng là cầu nối tới vô thức. **Diễn giải:** khái niệm này bị phê phán là gắn khuôn mẫu giới.
-- **Cái tôi tự thân (Self):** nguyên mẫu của sự trọn vẹn, trung tâm và toàn thể của tâm hồn, lớn hơn cái tôi. Mục tiêu của đời sống tinh thần là cái tôi có quan hệ đúng với Self [S18].
+- **Bản thể (Self):** nguyên mẫu của sự trọn vẹn, trung tâm và toàn thể của tâm hồn, lớn hơn cái tôi (ego), vốn chỉ là trung tâm của ý thức. Mục tiêu của đời sống tinh thần là cái tôi có quan hệ đúng với Bản thể [S18].
 
 ### Libido, kiểu tính cách và các chức năng
 
-Jung định nghĩa lại **libido** là năng lượng tâm lý chung, không chỉ tính dục; tính dục chỉ là một dạng của nó. Đây là một lý do khiến ông bất đồng với Freud [S5].
+Jung định nghĩa lại **libido** là năng lượng tâm lý chung, không chỉ tính dục; tính dục chỉ là một dạng của nó. Ông trình bày điều này trong *Biến hóa và biểu tượng của libido* (xuất bản 1911–1912, sau này là *Symbols of Transformation*) [S35]. Đây là một lý do khiến ông bất đồng với Freud [S5].
 
-Trong *Các kiểu tâm lý* (1921), Jung đưa ra hai **thái độ** (hướng nội: năng lượng quay vào bên trong; hướng ngoại: quay ra thế giới bên ngoài) và bốn **chức năng** (tư duy, cảm xúc, cảm giác, trực giác). Mỗi người có một chức năng trội và một chức năng yếu nhất [S16]. Bài trắc nghiệm MBTI do Katharine Briggs và Isabel Myers phát triển dựa trên ý tưởng này, nhưng không phải là công trình của chính Jung.
+Trong *Các kiểu tâm lý* (1921), Jung đưa ra hai **thái độ**: hướng nội (năng lượng quay vào bên trong) và hướng ngoại (năng lượng quay ra thế giới bên ngoài). Ông cũng đưa ra bốn **chức năng**, tức bốn cách ta tiếp nhận và xử lý thế giới [S16]:
+
+- *Tư duy:* phân tích "đúng hay sai".
+- *Cảm xúc:* cân nhắc "điều này quan trọng hay không với tôi và người khác".
+- *Cảm giác:* để ý điều đang hiện ra trước mắt (âm thanh, mùi, chi tiết).
+- *Trực giác:* linh cảm điều có thể xảy ra.
+
+Ví dụ: hai người cùng xem một bản hợp đồng; một người soi từng điều khoản (tư duy cộng cảm giác), người kia thấy "có gì đó không ổn" (trực giác). Mỗi người có một chức năng trội và một chức năng yếu nhất. Bài trắc nghiệm MBTI do Katharine Briggs và Isabel Myers phát triển dựa trên ý tưởng này, nhưng không phải là công trình của chính Jung (kiến thức chung).
 
 ### Đời người hai nửa và quá trình "cá thể hóa"
 
@@ -203,89 +223,91 @@ Trong *Các kiểu tâm lý* (1921), Jung đưa ra hai **thái độ** (hướng
 - **Nửa đầu** (tuổi trẻ đến khoảng giữa đời): xây dựng cái tôi và persona, học nghề, lập gia đình, tìm chỗ đứng.
 - **Nửa sau:** nhiệm vụ không còn là mở rộng mà là **quay vào trong**, hỏi "thành tựu này nghĩa là gì?", gặp bóng tối, hòa giải các mặt đối lập.
 
-Quá trình đó ông gọi là **cá thể hóa (individuation)**: trở thành con người toàn vẹn, độc đáo của chính mình. Lưu ý: *individuation không phải chủ nghĩa cá nhân*. Nó là hòa giải giữa ý thức và vô thức, và thường dẫn tới gắn bó sâu hơn với đời sống chung chứ không cô lập [S18].
+Quá trình đó ông gọi là **cá thể hóa (individuation)**: trở thành con người toàn vẹn, độc đáo của chính mình. Lưu ý: *individuation không phải chủ nghĩa cá nhân*. Đó là hòa giải giữa ý thức và vô thức; ví dụ một người thành đạt nhưng thấy trống rỗng, bắt đầu để ý những phần mình đã bỏ rơi (sở thích cũ, cảm xúc bị gạt đi) và thường gắn bó sâu hơn với người khác thay vì cô lập [S18].
 
-Jung quan sát rằng nhiều bệnh nhân ở nửa sau cuộc đời đến vì mất phương hướng và ý nghĩa hơn là vì triệu chứng cụ thể [S17].
+Jung kể rằng một phần đáng kể bệnh nhân của ông, nhất là người đã qua giữa đời, không có bệnh lý rõ ràng mà khổ vì cảm giác đời mình vô nghĩa và vô định (theo ước lượng của ông, khoảng một phần ba số ca). Đây là nhận xét lâm sàng của riêng ông, không phải kết quả nghiên cứu có đối chứng [S17].
 
 ### Giấc mơ, biểu tượng và tôn giáo
 
-**Giấc mơ.** Với Freud, giấc mơ che giấu ham muốn. Với Jung, giấc mơ *nói thẳng bằng ngôn ngữ biểu tượng*, và có chức năng **bù trừ (compensation)**: bù cho sự lệch lạc của thái độ ý thức. Nếu ban ngày bạn quá lý trí, giấc mơ có thể mang về những hình ảnh cảm xúc. Phương pháp của ông là **khuếch đại (amplification)**: so sánh hình ảnh với thần thoại và truyện cổ để hiểu nó đang gợi gì [S18].
+**Giấc mơ.** Với Freud, giấc mơ che giấu ham muốn. Với Jung, giấc mơ *không ngụy trang mà biểu đạt trực tiếp, nhưng bằng ngôn ngữ biểu tượng nên khó đọc*. Chức năng chính là **bù trừ (compensation)**: bù cho sự lệch lạc của thái độ ý thức. Nếu ban ngày bạn quá lý trí, giấc mơ có thể mang về những hình ảnh cảm xúc. Jung cũng nói giấc mơ có thể hướng tới tương lai. Để hiểu giấc mơ, ông dùng liên tưởng cá nhân (người mơ nghĩ gì về hình ảnh này) và **khuếch đại (amplification)**: so sánh hình ảnh với thần thoại và truyện cổ khi hình ảnh có tính nguyên mẫu [S18].
 
-**Biểu tượng.** Jung phân biệt *dấu hiệu* (chỉ một thứ đã biết) với *biểu tượng* (chỉ một điều chưa thể nói hết bằng khái niệm). Biểu tượng là cách tâm hồn nói về điều chưa có từ.
+**Biểu tượng.** Jung phân biệt *dấu hiệu* (chỉ một thứ đã biết) với *biểu tượng* (chỉ một điều chưa thể nói hết bằng khái niệm). Biển "cấm hút thuốc" là dấu hiệu: chỉ một ý đã rõ. Con rắn trong mơ là biểu tượng: có thể là nỗi sợ, sự đổi mới, cám dỗ; không thể nói hết bằng một khái niệm.
 
-**Tôn giáo.** Jung xem tôn giáo như một biểu hiện tự nhiên và quan trọng của tâm hồn. Ông tự nhận làm *khoa học thực nghiệm*: không tuyên bố Thượng đế có thật hay không, chỉ quan sát rằng hình ảnh về Thượng đế (God-image) là một thực tại tâm lý có sức tác động [S19]. Về bệnh nhân nửa sau cuộc đời, ông cho rằng vấn đề ở gốc rễ là thiếu một quan điểm có tính tôn giáo về đời sống [S17]. **Diễn giải:** các nhà thần học và triết gia phê phán rằng ông làm tâm lý hóa tôn giáo; một số nhà khoa học thì cho rằng ông quá thần bí.
+**Tôn giáo.** Jung xem tôn giáo như một biểu hiện tự nhiên và quan trọng của tâm hồn. Ông tự nhận làm khoa học thực nghiệm: không tuyên bố Thượng đế có thật hay không, chỉ quan sát rằng hình ảnh về Thượng đế (God-image) là một thực tại tâm lý có sức tác động [S34]. Về bệnh nhân trên khoảng 35 tuổi, ông viết rằng vấn đề cuối cùng của họ luôn là đi tìm một thái độ tôn giáo trước đời sống, và nhấn mạnh đó không phải chuyện thuộc giáo phái hay tín điều nào [S17]. **Diễn giải:** lập trường "chỉ nói về tâm lý" không phải lúc nào cũng nhất quán; ông có lúc nói Bản thể khó phân biệt với hình ảnh Thượng đế về mặt kinh nghiệm. Các nhà thần học và triết gia phê phán rằng ông tâm lý hóa tôn giáo; một số nhà khoa học thì cho rằng ông quá thần bí.
 
 ### Trị liệu
 
-Trong bài viết 1929, Jung mô tả bốn giai đoạn của tiến trình trị liệu: **thú nhận** (nói ra điều giấu), **làm sáng tỏ** (hiểu ý nghĩa, kể cả chuyển di), **giáo dục** (học cách sống khác) và **chuyển hóa** (thay đổi nhân cách) [S17]. Khác với Freud, Jung nhấn mạnh:
+Trong bài viết 1929, Jung mô tả bốn giai đoạn của tiến trình trị liệu: **thú nhận** (nói ra điều giấu), **làm sáng tỏ** (hiểu ý nghĩa, kể cả chuyển di), **giáo dục** (học cách sống khác) và **chuyển hóa** (thay đổi nhân cách) [S17]. Ông liên hệ giai đoạn thứ hai với Freud và giai đoạn thứ ba với Adler, còn giai đoạn thứ tư là hướng riêng của ông; ông nói các giai đoạn không bắt buộc nối tiếp nhau và không ai phải đi hết. Khác với Freud, Jung nhấn mạnh:
 
-- Người trị liệu và bệnh nhân ngồi đối diện, trò chuyện như hai con người.
+- Người trị liệu và thân chủ (client, người đến trị liệu) ngồi đối diện, trò chuyện như hai con người.
 - **Tưởng tượng tích cực (active imagination):** để một hình ảnh nội tâm hiện ra rồi đối thoại với nó (vẽ, viết, hoặc tưởng tượng). Đây là phương pháp ông tự dùng trong giai đoạn viết *Sách đỏ* [S20].
-- Người trị liệu cũng bị thay đổi trong quá trình; không có "người biết" đứng ngoài.
+- Người trị liệu cũng bị thay đổi trong quá trình; không có "người biết" đứng ngoài. "Chuyển hóa" ở đây là sự biến đổi lẫn nhau của cả hai người.
 - Với người ở nửa sau cuộc đời, mục tiêu không chỉ là hết triệu chứng mà là tìm lại ý nghĩa.
 
-### Lý tưởng sống của Jung
+### Lý tưởng sống của Jung (cách bài này tóm)
 
-Lý tưởng của Jung có thể gói trong cụm **trọn vẹn thay vì hoàn hảo**.
+**Diễn giải.** Đây là cách bài tóm lý tưởng của Jung từ các tác phẩm của ông, không phải lời tự nhận. Có thể gói trong cụm **trọn vẹn thay vì hoàn hảo**:
 
-1. **Toàn thể, không phải toàn mỹ.** Không loại bỏ phần xấu của mình; nhận ra và tích hợp nó.
-2. **Ý nghĩa là nhu cầu sống còn.** Con người không chỉ cần hết bệnh mà cần cảm thấy đời mình có ý nghĩa.
-3. **Khiêm nhường trước vô thức.** Cái tôi không phải trung tâm duy nhất; có một trí tuệ sâu hơn mà ta chỉ hiểu dần.
-4. **Hòa giải các mặt đối lập:** lý trí và cảm xúc, sáng và tối, nam tính và nữ tính, ý thức và vô thức.
-5. **Trách nhiệm cá nhân trong hành trình tinh thần**, không giao phó hoàn toàn cho tổ chức tôn giáo hay chính trị.
+1. **Toàn thể, không phải toàn mỹ.** Không loại bỏ phần xấu của mình; nhận ra và tích hợp nó [S18].
+2. **Ý nghĩa là nhu cầu sống còn.** Con người không chỉ cần hết bệnh mà cần cảm thấy đời mình có ý nghĩa [S17].
+3. **Khiêm nhường trước vô thức.** Cái tôi không phải trung tâm duy nhất; có một trí tuệ sâu hơn mà ta chỉ hiểu dần [S18].
+4. **Hòa giải các mặt đối lập:** lý trí và cảm xúc, sáng và tối, nam tính và nữ tính, ý thức và vô thức [S18].
+5. **Trách nhiệm cá nhân trong hành trình tinh thần.** Jung chống "tâm lý đám đông" nhưng lại đánh giá cao nghi lễ và tác dụng bảo vệ của tôn giáo có tổ chức; nên đây là diễn giải, không phải lập trường một chiều.
 
-Jung là **người của Lãng mạn, có phần mục sư**: tin rằng con người có một chiều kích thiêng liêng cần được quan tâm, và nhà trị liệu thời hiện đại thực hiện một phần vai trò cũ của người chăm sóc linh hồn.
+Jung chịu ảnh hưởng của truyền thống Lãng mạn và của gia đình mục sư; ông tự cho rằng nhà trị liệu hiện đại phần nào đảm nhận vai trò chăm sóc tâm hồn mà tôn giáo từng giữ [S17].
 
 ### Mâu thuẫn nội tại và phê bình riêng
 
-- **Khó kiểm chứng.** Vô thức tập thể và nguyên mẫu khó đo lường; câu hỏi "nguyên mẫu truyền qua thế hệ bằng cách nào" chưa có câu trả lời khoa học thỏa đáng [S6].
-- **Ranh giới khoa học và thần bí.** Jung vừa dùng ngôn ngữ thực nghiệm vừa quan tâm giả kim, thiên văn học và "đồng bộ" (synchronicity); điều này khiến giới khoa học dè dặt.
+- **Khó kiểm chứng.** Vô thức tập thể và nguyên mẫu khó đo lường; câu hỏi "nguyên mẫu truyền qua thế hệ bằng cách nào" chưa có câu trả lời khoa học thỏa đáng (diễn giải, chưa kèm nguồn).
+- **Ranh giới khoa học và thần bí.** Jung vừa dùng ngôn ngữ thực nghiệm vừa quan tâm giả kim, chiêm tinh học và **đồng bộ** (synchronicity: hai sự việc xảy ra cùng lúc, không có nguyên nhân chung nhưng có vẻ cùng một ý nghĩa, ví dụ vừa nghĩ đến một người thì họ gọi điện; Jung cho rằng đây là hiện tượng không giải thích được bằng nhân quả). Điều này khiến giới khoa học dè dặt.
 - **MBTI không phải Jung.** Các kiểu tính cách phổ biến trong đời thường chỉ là một diễn giải đơn giản hóa; nhiều nhà nghiên cứu tính cách ưu tiên các mô hình khác (diễn giải).
-- **Tranh cãi chính trị thập niên 1930.** Trong thời kỳ Đức Quốc xã, Jung giữ vai trò trong một hội trị liệu tâm lý quốc tế có phân nhánh ở Đức và có những phát biểu về "tâm lý Do Thái" và "Arya" bị chỉ trích nặng nề. Học giả vẫn tranh luận về mức độ và động cơ; đây là một phần không thể bỏ qua khi đánh giá ông.
+- **Tranh cãi chính trị thập niên 1930.** Từ 1933 (một số nguồn ghi 1934), Jung làm chủ tịch Hội Quốc tế Trị liệu Tâm lý Y khoa và là chủ biên tạp chí của hội, đến khoảng 1939–1940. Chi nhánh Đức của hội do M. H. Göring dẫn dắt, hướng theo đường lối của chế độ Quốc xã. Jung nói ông nhận chức để giữ hội trung lập, và sửa điều lệ để bác sĩ Do Thái Đức vẫn là hội viên cá nhân của hội quốc tế. Trong các bài viết thời này, ông đối lập "tâm lý Do Thái" với "tâm lý Đức/Aryan" theo cách khuôn mẫu và bị chỉ trích nặng nề, kể cả vì không lên tiếng công khai rõ ràng. Học giả bất đồng về việc đó là bài Do Thái, cơ hội, hay ngây thơ chính trị [S39].
 
-## Adler: người huấn luyện viên của can đảm
+## Adler: huấn luyện viên của can đảm
 
 ### Xuất thân và con đường
 
-**Sự kiện.** Alfred Adler sinh ngày 7/2/1870 ở Rudolfsheim, ngoại ô Vienna, trong một gia đình Do Thái gốc Hungary, cha buôn ngũ cốc. Ông học y ở Vienna, tốt nghiệp 1895 [S1]. Năm 1897 ông kết hôn với Raissa Epstein, một phụ nữ sinh ra ở Nga và có quan điểm xã hội chủ nghĩa. Adler khởi đầu bằng nghề bác sĩ mắt, rồi bác sĩ đa khoa với bệnh nhân phần lớn thuộc tầng lớp lao động, sau đó chuyển sang thần kinh và tâm thần [S1]. Ông cũng viết về sức khỏe của người làm nghề may, thể hiện mối quan tâm sớm về điều kiện xã hội gây bệnh.
+**Sự kiện.** Alfred Adler sinh ngày 7/2/1870 ở Rudolfsheim, ngoại ô Vienna, trong một gia đình Do Thái gốc Hungary, cha buôn ngũ cốc. Ông học y ở Vienna, tốt nghiệp 1895 [S1]. Theo các nguồn tiếng Đức, năm 1904 ông cải sang đạo Tin Lành; ý nghĩa của việc này không rõ (một số người cho rằng ông từ bỏ một tôn giáo bó hẹp trong một dân tộc, còn gia đình về sau tự mô tả là thế tục) [S40]. Adler khởi đầu bằng nghề bác sĩ mắt, rồi bác sĩ đa khoa với bệnh nhân phần lớn thuộc tầng lớp lao động, sau đó chuyển sang thần kinh và tâm thần [S1]. Năm 1897 ông kết hôn với Raissa Epstein, một phụ nữ sinh ra ở Nga và có quan điểm xã hội chủ nghĩa. Ông cũng viết về sức khỏe của người làm nghề may, thể hiện mối quan tâm sớm về điều kiện xã hội gây bệnh.
 
-**Diễn giải theo tiểu sử.** Các tiểu sử (dựa nhiều vào chính lời kể của Adler) cho biết thuở nhỏ ông ốm yếu, từng suýt chết vì viêm phổi, và mất một người em trai; từ đó ông quyết làm bác sĩ. Nhiều người xem trải nghiệm này là gốc của ý tưởng "cảm giác thiếu sót và quá trình vượt lên". Đây là diễn giải, không phải bằng chứng.
+**Diễn giải theo tiểu sử.** Các tiểu sử (dựa nhiều vào chính lời kể của Adler) cho biết thuở nhỏ ông ốm yếu, từng suýt chết vì viêm phổi, và mất một người em trai; từ đó ông quyết làm bác sĩ. Nhiều người xem trải nghiệm này là gốc của ý tưởng "cảm giác còn thiếu và quá trình vượt lên". Đây là diễn giải, không phải bằng chứng.
 
-**Các mốc.** Khoảng 1902 ông tham gia nhóm thảo luận quanh Freud; việc Freud mời ông hay ông tự đến vẫn được tranh luận. Ông luôn coi mình là đồng nghiệp, không phải học trò của Freud [S1]. Năm 1907 ông công bố *Nghiên cứu về sự kém phát triển của cơ quan và sự bù trừ tâm lý* (Organ Inferiority); 1910 làm chủ tịch Hội Phân tâm Vienna; 1911 rời hội, lập nhóm riêng; 1912 xuất bản *Tính cách thần kinh* (Über den nervösen Charakter) [S21] [S22]. Ông phục vụ như bác sĩ quân đội trong Thế chiến I. Sau chiến tranh, ông mở nhiều phòng tư vấn nuôi dạy trẻ gắn với trường học ở Vienna (thập niên 1920) và đi diễn thuyết rộng rãi, đặc biệt ở Mỹ. Ông mất đột ngột năm 1937 ở Aberdeen, Scotland, trong chuyến diễn thuyết [S1].
+**Các mốc.** Khoảng 1902 ông tham gia nhóm thảo luận quanh Freud; việc Freud mời ông hay ông tự đến vẫn được tranh luận. Ông luôn coi mình là đồng nghiệp, không phải học trò của Freud [S1]. Năm 1907 ông công bố *Nghiên cứu về tính kém giá trị (khiếm khuyết) của cơ quan và sự bù trừ tâm lý* (Study of Organ Inferiority and Its Psychical Compensation) [S21]. Năm 1910 ông làm chủ tịch Hội Phân tâm Vienna. Năm 1911 ông từ chức chủ tịch, rồi rời hội cùng một nhóm người ủng hộ và lập Hội Nghiên cứu Phân tâm Tự do, sau đổi thành Hội Tâm lý học cá nhân (năm đổi tên được ghi khác nhau, khoảng 1912–1914). Năm 1912 ông xuất bản *Über den nervösen Charakter* (bản dịch tiếng Anh đầu tiên năm 1917 tên *The Neurotic Constitution*, nay thường dịch là *The Neurotic Character*) [S22].
+
+Ông phục vụ như bác sĩ quân đội trong Thế chiến I. Sau chiến tranh, ông cùng các cộng sự mở nhiều phòng tư vấn nuôi dạy trẻ gắn với trường học ở Vienna (khoảng đầu thập niên 1920; bị đóng khoảng năm 1934). Từ giữa thập niên 1920 ông đi diễn thuyết rộng rãi ở Mỹ, và từ khoảng 1934 sống chủ yếu ở đó. Ông mất đột ngột ngày 28/5/1937 ở Aberdeen, Scotland, trong một chuyến diễn thuyết ở châu Âu [S1].
 
 ### Nền tảng tư tưởng: Adler học từ ai?
 
-1. **Y học và quan sát xã hội.** Khởi điểm của Adler là *y học xã hội*: bệnh gắn với hoàn cảnh sống. Ý tưởng "cơ quan kém phát triển" xuất phát từ quan sát rằng người có khiếm khuyết thể chất đôi khi dốc sức bù lại bằng tài năng nổi bật [S21].
-2. **Hans Vaihinger và "Triết học của cái *như thể*".** Vaihinger (1911) cho rằng ta sống bằng những "hư cấu hữu ích": những ý niệm biết là không hoàn toàn đúng nhưng giúp ta hành động ("hãy sống *như thể* mọi người đều bình đẳng"). Adler lấy ý này làm nền cho khái niệm **mục tiêu hư cấu (fictional goal)** [S25] [S28].
-3. **Nietzsche** (ý chí vươn lên, "ý chí quyền lực") ảnh hưởng ý niệm sớm về "vươn tới ưu thế" của Adler. **Diễn giải:** về sau Adler chuyển sang nhấn mạnh hợp tác và cảm giác cộng đồng [S1].
-4. **Môi trường xã hội dân chủ ở Vienna** giữa hai cuộc chiến, nơi nhiều phong trào cải cách giáo dục và xã hội (diễn giải của học giả; Adler thường được xếp vào dòng này).
-5. **Kinh nghiệm chiến tranh.** Nhiều người cho rằng Thế chiến I khiến Adler đặt cảm giác cộng đồng ở trung tâm [S24].
+1. **Y học và quan sát xã hội.** Khởi điểm của Adler là *y học xã hội*: bệnh gắn với hoàn cảnh sống. Ý tưởng "cơ quan khiếm khuyết" xuất phát từ quan sát rằng người có khiếm khuyết thể chất đôi khi dốc sức bù lại bằng tài năng nổi bật [S21].
+2. **Hans Vaihinger và "Triết học của cái *như thể*".** Vaihinger (1911) cho rằng ta sống bằng những "hư cấu hữu ích": những ý niệm biết là không hoàn toàn đúng nhưng giúp ta hành động (ví dụ của chính Vaihinger gồm nguyên tử hay khí lý tưởng trong khoa học) [S25]. Adler lấy ý này làm nền cho khái niệm **mục tiêu hư cấu (fictional goal)**, nhưng khác ở chỗ người ta thường *không biết* mục tiêu của mình là hư cấu [S28] [S29].
+3. **Nietzsche** (ý chí quyền lực): nhiều học giả thấy tương đồng với ý niệm sớm của Adler về ý chí quyền lực và "vươn tới ưu thế" (khoảng 1910–1912), nhưng mức ảnh hưởng trực tiếp còn tranh luận [S1]. **Diễn giải:** về sau Adler chuyển sang "vươn tới ưu thế" theo hướng hữu ích cho cộng đồng, rồi "vươn tới sự hoàn thiện", và nhấn mạnh hợp tác và cảm giác cộng đồng.
+4. **Vienna Đỏ**, tức chính quyền xã hội dân chủ ở Vienna (1919–1934), nơi có nhiều cải cách giáo dục; Adler hoạt động trong môi trường này (diễn giải của học giả).
+5. **Kinh nghiệm chiến tranh.** Nhiều người cho rằng Thế chiến I khiến Adler đặt cảm giác cộng đồng ở trung tâm [S24] (diễn giải).
 
-Triết học của Adler là **chủ nghĩa nhân văn thực dụng, hướng mục đích**: con người được hiểu qua *mục tiêu* và *quan hệ*, không qua nguyên nhân quá khứ.
+**Diễn giải:** triết học của Adler là chủ nghĩa nhân văn thực dụng, hướng mục đích: con người được hiểu qua *mục tiêu* và *quan hệ*, không qua nguyên nhân quá khứ.
 
-### Từ "cơ quan kém" tới "cảm giác tự ti"
+### Từ "khiếm khuyết cơ quan" tới "cảm giác tự ti"
 
 Hành trình ý tưởng của Adler đi qua các bước:
 
-1. **Cơ quan kém phát triển (1907).** Mỗi người có một điểm yếu thể chất, và có thể bù trừ hoặc bị đè bẹp bởi nó [S21].
-2. **Cảm giác tự ti (inferiority feeling).** Mở rộng ra mọi mặt: *làm người nghĩa là bắt đầu từ chỗ nhỏ bé*. Đứa trẻ sinh ra yếu, phụ thuộc, sống giữa những người lớn khỏe và giỏi hơn. Cảm giác thiếu này **bình thường và thậm chí cần thiết**, vì nó là động lực phát triển [S4].
-3. **Bù trừ và quá bù trừ (compensation, overcompensation).** Cố gắng vượt thiếu sót có thể thành tích cực (học, luyện tập), hoặc thành quá mức, chẳng hạn đòi mình phải hơn người khác (đây là **mặc cảm tự tôn - superiority complex**) [S22].
-4. **Vươn lên từ "âm" lên "dương".** Giai đoạn đầu ông gọi là "vươn tới ưu thế"; sau này nói "vươn tới sự hoàn thiện/đầy đủ". Nó là lực chung của đời sống, không riêng ai [S24].
+1. **Cơ quan khiếm khuyết (organ inferiority, 1907).** Mỗi người có một điểm yếu thể chất, và có thể bù trừ hoặc bị đè bẹp bởi nó [S21].
+2. **Cảm giác tự ti (inferiority feeling).** Mở rộng ra mọi mặt: *làm người nghĩa là bắt đầu từ chỗ nhỏ bé*. Đứa trẻ sinh ra yếu, phụ thuộc, sống giữa những người lớn khỏe và giỏi hơn. Cảm giác còn thiếu này **bình thường và thậm chí cần thiết**, vì nó là động lực phát triển [S4].
+3. **Bù trừ (compensation).** Cố gắng vượt thiếu sót thành tích cực: học, luyện tập, sáng tạo [S4].
+4. **Vươn lên từ chỗ thiếu đến chỗ đủ.** Giai đoạn đầu Adler gọi là "vươn tới ưu thế"; sau này nói "vươn tới sự hoàn thiện/đầy đủ". Nó là lực chung của đời sống, không riêng ai [S24].
 
-**Mặc cảm tự ti (inferiority complex)** khác với cảm giác tự ti: nó là khi cảm giác thiếu bị phóng đại tới mức làm tê liệt, hoặc được dùng như cái cớ ("tôi kém nên không làm được"). Adler nhìn thấy ở đây một sự bù trừ sai hướng.
+**Mặc cảm tự ti (inferiority complex)** khác với cảm giác tự ti: nó xuất hiện khi cảm giác thiếu bị phóng đại tới mức làm tê liệt, hoặc được dùng làm cớ ("tôi kém nên không làm được"). Theo Adler, **mặc cảm tự tôn (superiority complex)** thường là cách bù trừ sai hướng để che mặc cảm tự ti này: ra vẻ hơn người để khỏi phải thấy mình thiếu. Cả hai đều là cách thoát khỏi nhiệm vụ cuộc sống thay vì đối diện nó [S4] [S23] [S24]. (Từ "mặc cảm" ở đây là cách dùng quen thuộc trong tiếng Việt cho *complex*.)
 
 ### Mục tiêu hư cấu và lối sống
 
 Hai khái niệm trung tâm của Adler:
 
-**Mục tiêu hư cấu (fictional goal), còn gọi là "chủ nghĩa mục đích hư cấu" (fictional finalism).** Mỗi người, từ nhỏ, hình thành một hình dung ngầm về "thế nào là an toàn, thế nào là thành công, thế nào là thuộc về". Hình dung này là *hư cấu* vì không có bằng chứng khách quan, nhưng nó hướng dẫn hành vi như một la bàn [S25] [S28] [S29]. Ví dụ: "Chỉ khi mình đứng nhất thì mới an toàn" hay "Chỉ khi mình được mọi người thích thì mới có chỗ đứng".
+**Mục tiêu hư cấu (fictional goal).** Mỗi người, từ nhỏ, hình thành một hình dung ngầm về "thế nào là an toàn, thế nào là thành công, thế nào là thuộc về". Hình dung này là *hư cấu* vì không có bằng chứng khách quan, nhưng nó hướng dẫn hành vi như một la bàn [S25] [S28]. Ví dụ: "Chỉ khi mình đứng nhất thì mới an toàn" hay "Chỉ khi mình được mọi người thích thì mới có chỗ đứng". Nguyên lý rằng hành vi được dẫn dắt bởi mục đích như vậy gọi là **chủ nghĩa mục đích hư cấu (fictional finalism)** [S29].
 
-**Lối sống (style of life, Lebensstil).** Từ mục tiêu hư cấu ấy, trẻ hình thành một kiểu nhìn người, nhìn thế giới và cách hành xử. Theo Adler, nền tảng lối sống hình thành rất sớm (những năm đầu đời), từ hoàn cảnh gia đình, vị trí trong nhà, những lần thấy mình yếu hay mạnh. Lối sống thường ổn định cả đời nếu không được nhận ra [S4].
+**Lối sống (style of life, Lebensstil).** Từ mục tiêu hư cấu ấy, trẻ hình thành một kiểu nhìn người, nhìn thế giới và cách hành xử. Theo Adler, nền tảng lối sống hình thành rất sớm (những năm đầu đời), từ hoàn cảnh gia đình, vị trí trong nhà, những lần thấy mình yếu hay mạnh. Lối sống thường ổn định cả đời nếu không được nhận ra, nhưng ý nghĩa ta gán cho nó có thể được xem lại [S4].
 
 Từ đây Adler phân biệt:
 
-- **Ý thức chung (common sense):** cách nghĩ mà người khác có thể hiểu và chia sẻ, gắn với lợi ích chung.
-- **Lôgic riêng (private logic):** cách nghĩ chỉ có ý nghĩa với chính người đó, thường để bảo vệ mục tiêu hư cấu ("tôi không thử thì sẽ không thất bại") [S24].
+- **Lẽ thường chung (common sense):** cách nghĩ mà người khác có thể hiểu và chia sẻ, gắn với lợi ích chung.
+- **Lôgic riêng (private logic):** cách nghĩ chỉ có ý nghĩa với chính người đó, thường để bảo vệ mục tiêu hư cấu ("tôi không thử thì sẽ không thất bại"). Từ này thường dùng trong truyền thống Adler; trong bản của Ansbacher có thể thấy cách gọi khác [S24].
 
 **Vô thức theo Adler** vì thế không phải một căn hầm chứa ham muốn, mà là *phần mục tiêu và lối sống của chính ta mà ta chưa hiểu*. Ý thức và vô thức không đối nghịch, chúng cùng hướng về một mục tiêu [S4].
 
@@ -293,7 +315,7 @@ Từ đây Adler phân biệt:
 
 Đây là điều Adler coi là **thước đo của sức khỏe tâm lý**.
 
-**Cảm giác cộng đồng (Gemeinschaftsgefühl, social interest).** Là cảm giác thuộc về loài người và mong muốn đóng góp cho cộng đồng. Một cách mô tả quen thuộc: nhìn bằng mắt người khác, nghe bằng tai người khác, cảm bằng tim người khác. Adler xem nó là một khả năng bẩm sinh cần được nuôi dưỡng, thường bắt đầu từ mối gắn bó giữa mẹ và con [S4] [S23].
+**Cảm giác cộng đồng (Gemeinschaftsgefühl, social interest).** Là cảm giác thuộc về loài người và mong muốn đóng góp cho cộng đồng. Một cách mô tả quen thuộc: nhìn bằng mắt người khác, nghe bằng tai người khác, cảm bằng tim người khác [S24]. Adler xem nó là một khả năng bẩm sinh cần được nuôi dưỡng, thường bắt đầu từ mối gắn bó giữa mẹ và con [S4] [S23].
 
 **Ba nhiệm vụ cuộc sống (life tasks).** Mọi người đều phải đối diện ba việc, và cách ta đối mặt cho thấy lối sống [S23] [S30]:
 
@@ -301,17 +323,17 @@ Từ đây Adler phân biệt:
 2. **Nghề nghiệp:** đóng góp bằng công việc.
 3. **Tình yêu/hôn nhân:** gắn bó thân mật.
 
-Theo Adler, ai gặp khó khăn tâm lý thì thường đang tránh một trong ba nhiệm vụ này, bằng triệu chứng, bằng viện cớ, hoặc bằng cách đề cao mình. Ông cho rằng người thiếu cảm giác cộng đồng sẽ dễ chọn mục tiêu chỉ có lợi cho mình [S4].
+(Các nhà Adler về sau thêm nhiệm vụ "bản thân" và "tâm linh/hiện sinh"; đó không phải bản gốc của Adler.) Theo Adler, ai gặp khó khăn tâm lý thì thường đang tránh một trong ba nhiệm vụ này, bằng triệu chứng, bằng viện cớ, hoặc bằng cách đề cao mình [S23]. Ông cho rằng người thiếu cảm giác cộng đồng sẽ dễ chọn mục tiêu chỉ có lợi cho mình [S4].
 
 ### Gia đình, thứ tự sinh, nuông chiều và bỏ mặc
 
-Adler chú ý rất sớm tới vị trí đứa trẻ trong gia đình (family constellation) và ba hoàn cảnh dễ dẫn đến lối sống lệch [S4]:
+Adler chú ý rất sớm tới vị trí đứa trẻ trong gia đình (family constellation) và ba hoàn cảnh dễ dẫn đến lối sống lệch [S23]:
 
-- **Cơ quan kém phát triển**, sinh ra với điểm yếu thể chất.
+- **Cơ quan khiếm khuyết**, sinh ra với điểm yếu thể chất.
 - **Nuông chiều (pampering):** trẻ được làm thay mọi thứ, học rằng người khác phải phục vụ mình và mình không làm được gì.
 - **Bỏ mặc (neglect):** trẻ không được yêu thương đúng mức, học rằng thế giới lạnh lẽo.
 
-Ông cũng mô tả các khuynh hướng theo **thứ tự sinh**: con đầu có thể thấy mình bị "truất ngôi" khi em ra đời; con thứ hay chạy đua; con út dễ được chiều; con một ở trung tâm sự chú ý. **Diễn giải và lưu ý:** đây là khuôn mẫu gợi ý, không phải quy luật. Một nghiên cứu lớn năm 2015 trên mẫu từ Mỹ, Anh và Đức không tìm thấy ảnh hưởng đáng kể của thứ tự sinh lên các nét tính cách chính [S8].
+Ông cũng mô tả các khuynh hướng theo **thứ tự sinh**: con đầu có thể thấy mình bị "truất ngôi" khi em ra đời; con thứ hay chạy đua; con út dễ được chiều; con một ở trung tâm sự chú ý. **Diễn giải và lưu ý:** đây là khuôn mẫu gợi ý, không phải quy luật. Một nghiên cứu lớn năm 2015 (khoảng 20.000 người ở Mỹ, Anh, Đức) về thứ tự sinh thực tế và tính cách Big Five không tìm thấy ảnh hưởng đáng kể lên các nét tính cách chính; chỉ có chênh lệch rất nhỏ về trí tuệ tự báo cáo, con đầu nhỉnh hơn [S8]. Tuy nhiên Adler nhấn mạnh *vị trí tâm lý mà trẻ tự cảm nhận* hơn là số thứ tự khai sinh, nên nghiên cứu này không bác trực tiếp toàn bộ ý của ông, mà chỉ cho thấy khuôn mẫu theo thứ tự khai sinh không phổ biến.
 
 ### Trị liệu và giáo dục
 
@@ -321,45 +343,45 @@ Với Adler, trị liệu gần với **giáo dục lại và khích lệ**:
 - **Khảo sát lối sống:** hỏi về gia đình, thứ tự sinh, những ký ức sớm nhất (**ký ức sớm - early recollections**: ký ức nào ta chọn nhớ từ nhỏ thường phản ánh điều ta tin về đời), giấc mơ [S4].
 - **Giấc mơ** được hiểu như buổi *diễn tập cảm xúc* cho mục tiêu của lối sống, không phải thỏa mãn ham muốn bị nén [S4].
 - **Khích lệ (encouragement):** trung tâm của phương pháp. Làm thân chủ lấy lại can đảm để thử và chấp nhận có thể sai.
-- **Kỹ thuật "như thể" (acting as if):** mời thân chủ thử hành động *như thể* mình đã có điều mình sợ không có, để thấy điều gì thay đổi [S28].
+- **Kỹ thuật "như thể" (acting as if):** mời thân chủ thử hành động *như thể* mình đã có điều mình sợ không có, để thấy điều gì thay đổi. Kỹ thuật này được các nhà trị liệu theo Adler về sau hệ thống hóa từ ý tưởng "như thể" [S28].
 - **Giáo dục gia đình và trường học:** Adler tin rằng phòng bệnh bắt đầu từ cách nuôi dạy: không nuông chiều, không áp bức; dạy trẻ hợp tác và tự chịu trách nhiệm. Các phòng tư vấn của ông ở trường học Vienna là ứng dụng thực tế điều này [S1].
 
-Một câu thường gắn với trường phái Adler (do học trò ông, Rudolf Dreikurs, phổ biến): *một đứa trẻ hư là một đứa trẻ nản lòng*. Ý chính: sau hành vi gây rối là một mục tiêu sai nảy sinh từ nản lòng, không phải tính xấu.
+Một ý thường gắn với trường phái Adler nhưng do Rudolf Dreikurs (cộng sự và người kế tục của Adler) phổ biến: *một đứa trẻ hư là một đứa trẻ nản lòng*. Dreikurs mô tả bốn "mục tiêu sai" của hành vi gây rối (chú ý, quyền lực, trả thù, thể hiện bất lực); Adler nhấn mạnh sự nản lòng và thiếu cảm giác cộng đồng, nhưng sơ đồ bốn mục tiêu là của Dreikurs [S36].
 
-### Lý tưởng sống của Adler
+### Lý tưởng sống của Adler (cách bài này tóm)
 
-Lý tưởng của Adler có thể tóm trong ba chữ: **can đảm, hợp tác, bình đẳng**.
+**Diễn giải.** Đây là cách bài tóm lý tưởng của Adler từ các tác phẩm của ông, không phải lời tự nhận. Có thể tóm trong ba chữ: **can đảm, hợp tác, bình đẳng**.
 
-1. **Can đảm sống bất toàn.** Cảm giác thiếu là điều bình thường; điều quan trọng là *làm gì với nó*. Can đảm là chấp nhận có thể sai mà vẫn bước tới.
-2. **Giá trị của một người nằm ở đóng góp, không ở thứ hạng.** Thay vì "hơn người", câu hỏi là "mình đang giúp ích như thế nào".
-3. **Hợp tác thay cho cạnh tranh.** Xã hội tốt là xã hội mọi người cùng làm việc và cảm thấy mình thuộc về.
-4. **Bình đẳng giá trị giữa người với người**, kể cả giữa trẻ em và người lớn, giữa nam và nữ. Adler được xem là một trong những nhà tâm lý sớm ủng hộ bình đẳng giới và giáo dục dân chủ (diễn giải của học giả) [S24].
-5. **Trách nhiệm cá nhân và tự do.** Vì hành vi hướng về mục tiêu mà ta có thể thay đổi, mỗi người có thể thay lối sống của mình; quá khứ không phải bản án.
+1. **Can đảm sống bất toàn.** Cảm giác thiếu là điều bình thường; điều quan trọng là *làm gì với nó*. Can đảm là chấp nhận có thể sai mà vẫn bước tới [S4].
+2. **Giá trị của một người nằm ở đóng góp, không ở thứ hạng.** Thay vì "hơn người", câu hỏi là "mình đang giúp ích như thế nào" [S23].
+3. **Hợp tác thay cho cạnh tranh.** Xã hội tốt là xã hội mọi người cùng làm việc và cảm thấy mình thuộc về [S4].
+4. **Bình đẳng giá trị giữa người với người**, kể cả giữa trẻ em và người lớn, giữa nam và nữ. Adler thường được xem là một trong những nhà tâm lý sớm ủng hộ bình đẳng giới và giáo dục dân chủ (diễn giải của học giả) [S24].
+5. **Trách nhiệm cá nhân và tự do.** Vì hành vi hướng về mục tiêu mà ta có thể thay đổi, mỗi người có thể thay lối sống của mình; quá khứ không phải bản án [S4].
 
-Adler là **người của chủ nghĩa nhân văn dân chủ**, thực tế và lạc quan hơn Freud và Jung: tin rằng giáo dục, khích lệ và hợp tác thật sự thay đổi được con người.
+Adler gắn với chủ nghĩa nhân văn dân chủ và tin vào khả năng thay đổi qua giáo dục, khích lệ và hợp tác; so với Freud, ông lạc quan hơn về khả năng thay đổi (diễn giải của các tiểu sử) [S24].
 
 ### Mâu thuẫn nội tại và phê bình riêng
 
 - **Khái niệm rộng, khó đo.** "Cảm giác cộng đồng" và "lối sống" khó định nghĩa để kiểm tra bằng thực nghiệm; Popper cũng đặt Adler ở nhóm các lý thuyết khó bác bỏ [S6].
-- **Thứ tự sinh** không được ủng hộ trong nghiên cứu hiện đại [S8].
+- **Tính thực nghiệm.** Rất ít kiểm định thực nghiệm trực tiếp cho các khái niệm trung tâm (mục tiêu hư cấu, lối sống), và nhiều tài liệu nền là lời kể của chính ông và học trò [S24] (cần nguồn đối chiếu).
+- **Thứ tự sinh:** mô tả của Adler theo thứ tự khai sinh không được nghiên cứu lớn về Big Five ủng hộ [S8].
 - **Có thể trách quá nhiều cho cá nhân.** Nhấn mạnh trách nhiệm và mục tiêu cá nhân có nguy cơ xem nhẹ các yếu tố sinh học và hoàn cảnh nằm ngoài tầm kiểm soát (diễn giải).
-- **Ít được xếp vào "đại triết gia".** Adler thường được nhớ ít hơn Freud và Jung, dù ý tưởng của ông (khích lệ, mục tiêu, bối cảnh xã hội) thấm vào nhiều trường phái sau [S1].
 
 ## Ba triết học về con người
 
-Đây là phần giúp bạn thấy vì sao ba người không chỉ "khác kỹ thuật". Mỗi người trả lời năm câu hỏi triết học cổ điển theo một cách.
+Đây là phần giúp bạn thấy vì sao ba người không chỉ "khác kỹ thuật". Mỗi người trả lời năm câu hỏi theo một cách (bốn câu hỏi triết học và một câu hỏi về nghề chữa bệnh). Nội dung dưới đây là sự tổng hợp của bài này, không phải lập trường mỗi người từng phát biểu thành hệ thống.
 
-**1. Con người là gì?**
+**1. Con người là gì và bị điều gì thúc đẩy?**
 
-- Freud: sinh vật bản năng, bị lực bên trong chi phối; lý trí là thợ phải làm việc ở thế yếu.
-- Jung: một thực thể có chiều sâu thiêng liêng, đang trên đường trở thành toàn thể.
-- Adler: sinh vật xã hội hướng mục tiêu, bắt đầu từ chỗ yếu và luôn tìm cách vươn lên cùng người khác.
+- Freud: sinh vật bản năng, bị lực bên trong chi phối; lý trí giống người cưỡi ngựa phải dẫn con ngựa mạnh hơn mình [S13].
+- Jung: một thực thể có chiều sâu thiêng liêng, đang trên đường trở thành toàn thể [S18].
+- Adler: sinh vật xã hội hướng mục tiêu, bắt đầu từ chỗ yếu và luôn tìm cách vươn lên cùng người khác [S4].
 
 **2. Ta có tự do không?**
 
-- Freud: *quyết định luận mềm*. Quá khứ chi phối nhiều hơn ta tưởng; tự do là kết quả của hiểu biết, tức là càng hiểu ta càng ít bị chi phối [S13].
-- Jung: tự do là *tham gia có ý thức* vào quá trình phát triển mà tâm hồn đã sẵn có xu hướng; ta chọn có đi cùng hay chống lại nó.
-- Adler: *tự do tương đối lớn*. Quá khứ cung cấp nguyên liệu, nhưng điều quyết định là *mục tiêu và cách ta diễn giải*. Ta là người vẽ bức tranh về đời mình [S4].
+- Freud: *quyết định luận tâm lý*, tức mọi hiện tượng tinh thần đều có nguyên nhân. Tự do, nếu có, là phần được mở rộng nhờ hiểu biết (một số người đọc đây là lập trường tương hợp, "quyết định luận mềm"; đó là diễn giải của người sau, không phải thuật ngữ của Freud) [S13].
+- Jung: cái tôi có thể chọn hợp tác hoặc chống lại xu hướng phát triển của tâm hồn, nhưng vô thức có tính tự trị nên tự do bị giới hạn; ông không đặt tự do ý chí thành một chủ đề riêng (diễn giải).
+- Adler: cũng là một dạng quyết định luận mềm: hoàn cảnh và quá khứ tạo nguyên liệu, nhưng ý nghĩa ta gán cho chúng quyết định hướng đi (người theo Adler gọi là "tự quyết định") [S4].
 
 **3. Đau khổ và triệu chứng có nghĩa gì?**
 
@@ -369,36 +391,39 @@ Adler là **người của chủ nghĩa nhân văn dân chủ**, thực tế và
 
 **4. Thế nào là sống tốt?**
 
-- Freud: nhìn thấy sự thật, cái tôi đủ mạnh để chọn, biết yêu và làm việc mà không bị bản năng điều khiển mù quáng. Không hứa hẹn hạnh phúc trọn vẹn.
-- Jung: sống trọn vẹn và có ý nghĩa, đã hòa giải với bóng tối và các mặt đối lập.
-- Adler: sống can đảm, có ích cho người khác, thuộc về cộng đồng.
+- Freud: nhìn thấy sự thật, cái tôi đủ mạnh để chọn, ít bị bản năng điều khiển mù quáng. Không hứa hẹn hạnh phúc trọn vẹn [S9].
+- Jung: sống trọn vẹn và có ý nghĩa, đã hòa giải với bóng tối và các mặt đối lập [S18].
+- Adler: sống can đảm, có ích cho người khác, thuộc về cộng đồng [S4].
 
 **5. Vai trò của người chữa trị:**
 
 - Freud: *nhà khảo cổ* (đào lớp ký ức) và *người phiên dịch* (dịch ngôn ngữ vô thức).
-- Jung: *người dẫn đường* trong rừng biểu tượng, cũng là người cùng đi và cùng thay đổi.
+- Jung: *người dẫn đường* cùng đi trong rừng biểu tượng, và cũng bị thay đổi trong quá trình.
 - Adler: *huấn luyện viên và người khích lệ*, giúp thân chủ thử lại.
 
-**Một cách tóm tắt trong một câu mỗi người** có thể là: Freud là người **gỡ rối quá khứ**; Jung là người **đi cùng ta vào chiều sâu để trở thành chính mình**; Adler là người **giúp ta can đảm hướng về phía trước cùng người khác**.
+**Một cách tóm tắt trong một câu mỗi người:** Freud giúp **gỡ rối quá khứ**; Jung đồng hành **vào chiều sâu để trở thành chính mình**; Adler giúp **can đảm hướng về phía trước cùng người khác**.
 
-## Mối quan hệ giữa ba người
+## Quan hệ giữa Freud, Jung và Adler
 
 **Các mốc chính** (sự kiện; năm có thể lệch theo nguồn) [S1] [S5]:
 
 - 1902: nhóm thảo luận nhỏ tại nhà Freud ở Vienna (Hội Tâm lý Thứ Tư); Adler là thành viên sớm. Năm 1908 nhóm đổi tên thành Hội Phân tâm Vienna.
-- 1906: Jung gửi Freud công trình của mình và hai người bắt đầu trao đổi thư từ.
+- 1906: Jung gửi Freud các công trình về thí nghiệm liên tưởng từ và hai người bắt đầu trao đổi thư từ.
 - 3/1907: Freud và Jung gặp nhau lần đầu ở Vienna; theo Jung họ nói chuyện gần như không nghỉ khoảng 13 giờ [S3].
 - 1909: Freud và Jung cùng sang Clark University (Mỹ) để thuyết trình.
 - 1910: Jung làm chủ tịch đầu tiên của Hội Phân tâm quốc tế; Adler làm chủ tịch Hội Vienna.
-- 1911: Adler rời Hội Vienna và lập nhóm riêng; từ 1912 trường phái của ông gọi là Tâm lý học cá nhân (Individual Psychology).
-- 1912–1913: Jung xuất bản cuốn nói về libido theo nghĩa rộng; thư từ giữa hai người chấm dứt năm 1913.
+- 1911: Adler từ chức chủ tịch, rời Hội Vienna cùng một nhóm người ủng hộ và lập nhóm riêng; từ 1912 trường phái của ông gọi là Tâm lý học cá nhân (Individual Psychology).
+- 1911–1912: Jung công bố *Biến hóa và biểu tượng của libido*, hiểu libido là năng lượng tâm lý nói chung; căng thẳng với Freud tăng mạnh [S35].
+- Đầu 1913: thư từ giữa Freud và Jung chấm dứt.
 - 1914: Jung từ chức chủ tịch và rời hiệp hội.
 
-**Ai ảnh hưởng ai?** Freud là nguồn chung: cả hai người kia đều thừa nhận ý niệm vô thức và tầm quan trọng của giấc mơ, trẻ thơ và biểu tượng. Nhưng ảnh hưởng không một chiều. Jung đem lại cho phong trào phân tâm học uy tín học thuật và chỗ đứng quốc tế (ông là bác sĩ ở một bệnh viện đại học có tiếng); Adler đem lại góc nhìn xã hội và giáo dục. **Diễn giải:** một số học giả cho rằng lý thuyết sau của Freud (về bản năng gây hấn, về cái tôi) chịu một phần tác động từ những tranh luận với hai người này; điều này khó chứng minh chắc chắn [S1].
+**Ai ảnh hưởng ai?** Freud là nguồn chung: cả hai người kia đều thừa nhận ý niệm vô thức và tầm quan trọng của giấc mơ, trẻ thơ và biểu tượng. Nhưng ảnh hưởng không một chiều. Jung đem lại cho phong trào phân tâm học uy tín học thuật và chỗ đứng quốc tế (ông là bác sĩ ở một bệnh viện đại học có tiếng); Adler đem lại góc nhìn xã hội và giáo dục. **Diễn giải:** một số học giả cho rằng lý thuyết sau của Freud (về bản năng gây hấn, về cái tôi) chịu một phần tác động từ các tranh luận với hai người này. Adler đề xuất "bản năng gây hấn" từ 1908 và Freud lúc đó bác bỏ, nhưng sau này chính ông đưa yếu tố gây hấn vào lý thuyết (1920). Quan hệ nhân quả vẫn là diễn giải, khó chứng minh chắc [S1].
 
-**Vì sao Adler tách ra?** Adler đặt cảm giác tự ti và các quan hệ xã hội lên trên tính dục, và nhấn mạnh cái tôi có ý thức hơn là ham muốn bị nén. **Diễn giải:** Freud coi đây là bỏ mất cốt lõi của phân tâm học; Adler coi Freud cứng nhắc và giáo điều. Xung đột cá nhân (tự trọng, quyền lực trong nhóm) cũng góp phần [S1].
+**Vì sao Adler tách ra?** **Sự kiện (theo lời chính họ):** Freud cho rằng thuyết của Adler bỏ mất cốt lõi của phân tâm học vì đặt cảm giác tự ti và quan hệ xã hội lên trên tính dục; Adler chê cách làm của Freud là cứng nhắc. **Diễn giải:** nhiều học giả cho rằng xung đột cá nhân về vị thế trong nhóm cũng góp phần [S1].
 
-**Vì sao Jung tách ra?** Jung muốn hiểu libido là năng lượng sống chung, không chỉ tính dục, và quan tâm thần thoại, tôn giáo. **Diễn giải:** Freud lo Jung nghiêng về thần bí; Jung không muốn đứng vai "người thừa kế" của Freud. Thư từ của họ cho thấy cả tình bạn lẫn căng thẳng quyền lực [S5].
+**Vì sao Jung tách ra?** Jung muốn hiểu libido là năng lượng sống chung, không chỉ tính dục, và quan tâm thần thoại, tôn giáo. Freud lo Jung nghiêng về thần bí (theo thư từ và tự truyện của hai bên). **Diễn giải:** Jung không muốn đứng vai "người thừa kế" của Freud. Thư từ của họ cho thấy cả tình bạn lẫn căng thẳng quyền lực [S3] [S5].
+
+**Jung và Adler với nhau.** Hai người không có quan hệ thầy trò hay cộng tác sâu như mỗi người với Freud; cả hai cùng rời nhóm Freud trong vòng vài năm, vì những lý do khác nhau. Điểm chung là không chấp nhận tính dục làm trung tâm duy nhất. Trong *Các kiểu tâm lý*, Jung dùng sự khác nhau giữa Freud và Adler như ví dụ cho hai thái độ khác nhau của tâm trí (diễn giải của chính Jung) [S16].
 
 **Hậu quả.** Sau chia tay, mỗi người xây một hệ thống riêng và ba trường phái phát triển song song, đôi khi có thái độ khá gay gắt với nhau. Ngày nay người học tâm lý thường đọc cả ba như những "tiếng nói" về cùng một vùng đất.
 
@@ -415,167 +440,172 @@ Sau ba chương riêng, phần này gom lại để bạn có một "bảng tra 
 
 **2. Vô thức là gì?**
 
-- Freud: kho chứa ham muốn và ký ức bị nén (ẩn dụ tảng băng).
-- Jung: vô thức cá nhân cộng vô thức tập thể chứa nguyên mẫu (ẩn dụ đảo và đáy biển).
-- Adler: phần mục tiêu và lối sống của mình mà ta chưa hiểu.
-- *Chốt:* kho chứa bị nén (Freud), biển chung (Jung), mục tiêu chưa nhìn rõ (Adler).
+- Freud: vô thức gồm cái bị nén lẫn cái chưa bao giờ vào ý thức (cái nó); nội dung điển hình là ham muốn và ký ức bị nén, nhưng vô thức không đồng nhất với cái bị nén [S13]. (Tảng băng là ẩn dụ phổ biến về sau, không phải của Freud.)
+- Jung: vô thức cá nhân cộng vô thức tập thể chứa nguyên mẫu (ẩn dụ đảo và đáy biển) [S18].
+- Adler: phần mục tiêu và lối sống của mình mà ta chưa hiểu [S4].
+- *Chốt:* kho chứa ham muốn và ký ức bị nén (Freud), biển chung (Jung), mục tiêu chưa nhìn rõ (Adler).
 
 **3. Quá khứ (nhân quả) hay tương lai (mục đích)?**
 
-- Freud: nhân quả; tuổi thơ quyết định phần lớn.
+- Freud: nhân quả; trải nghiệm sớm có ảnh hưởng lớn tới hiện tại.
 - Jung: cả hai; triệu chứng có thể do quá khứ, nhưng biểu tượng cũng chỉ hướng phát triển, nhất là ở nửa sau cuộc đời.
-- Adler: mục đích; hành vi được kéo bởi mục tiêu ta tự đặt, dù tuổi thơ tạo lối sống ban đầu.
-- *Chốt:* Freud hỏi "vì sao", Adler hỏi "để làm gì", Jung hỏi "đang gọi mình đi đâu".
+- Adler: mục đích; hành vi được kéo bởi mục tiêu ta tự đặt, dù lối sống hình thành sớm, và ý nghĩa gán cho nó có thể được xem lại [S4].
+- *Chốt:* Freud hỏi "vì sao", Adler hỏi "để làm gì", Jung hỏi "điều này đang gọi mình đi đâu".
 
 **4. Bản năng và tính dục**
 
-- Freud: trung tâm; các giai đoạn phát triển tâm tính dục [S10].
-- Jung: libido là năng lượng chung; tính dục chỉ là một dạng.
-- Adler: vai trò phụ; chỉ là một lĩnh vực nơi lối sống bộc lộ.
-- *Chốt:* đây là điểm làm hai người kia xa Freud nhất.
+- Freud: trung tâm; các giai đoạn phát triển tâm tính dục từ nhỏ, và những "kẹt" ở một giai đoạn ảnh hưởng tính cách [S10].
+- Jung: libido là năng lượng chung; tính dục chỉ là một dạng. Ông vẫn thừa nhận tính dục quan trọng, nhưng không coi nó là chìa khóa của mọi thứ.
+- Adler: không phủ nhận tính dục, nhưng coi nó là một lĩnh vực nơi lối sống bộc lộ, không phải nguồn gốc của mọi thứ. Ví dụ: người sợ gần gũi trong tình yêu có thể đang tránh nhiệm vụ "tình yêu/hôn nhân" vì sợ thất bại, không phải vì xung đột tính dục thời thơ ấu [S4] [S23] (minh họa của bài).
+- *Chốt:* Freud đặt tính dục ở trung tâm; Jung coi nó là một dạng năng lượng sống; Adler coi nó chỉ là một lĩnh vực nơi lối sống bộc lộ.
 
 **5. Xã hội và các mối quan hệ**
 
-- Freud: xã hội kiềm chế bản năng; quy tắc được "nuốt vào" thành siêu ngã; văn minh có giá bằng bất mãn [S14].
+- Freud: xã hội vừa kiềm chế bản năng (siêu ngã, cảm giác tội lỗi) vừa nhờ Eros (gắn bó) mà tồn tại; văn minh có giá bằng bất mãn [S38].
 - Jung: chú ý thế giới bên trong; persona là mặt nạ xã hội, cần có nhưng đừng đồng nhất.
 - Adler: trung tâm; cảm giác cộng đồng là thước đo sức khỏe [S4].
-- *Chốt:* Adler là người "xã hội" nhất.
+- *Chốt:* với Freud, xã hội vừa kiềm chế vừa gắn kết; với Jung, xã hội là chiếc mặt nạ cần có nhưng đừng đồng nhất; với Adler, cộng đồng là thước đo trung tâm.
 
 **6. Tôn giáo, tâm linh, biểu tượng, giấc mơ**
 
-- Freud: tôn giáo là ảo tưởng sinh từ ước muốn; giấc mơ là đường chính vào vô thức, nơi ham muốn cải trang [S2] [S14].
-- Jung: tôn giáo và thần thoại là biểu hiện tự nhiên của tâm hồn; giấc mơ bù trừ cho thái độ ý thức; biểu tượng là ngôn ngữ, không phải ngụy trang [S18] [S19].
-- Adler: giấc mơ là buổi diễn tập cho mục tiêu; tôn giáo không là trung tâm (một số học giả đọc ý niệm Thượng đế như khát vọng hoàn thiện).
+- Freud: tôn giáo là ảo tưởng sinh từ ước muốn; giấc mơ là con đường vương giả vào vô thức, nơi ham muốn cải trang [S2] [S14].
+- Jung: tôn giáo và thần thoại là biểu hiện tự nhiên của tâm hồn; giấc mơ bù trừ cho thái độ ý thức; biểu tượng là ngôn ngữ, không phải ngụy trang [S18] [S34].
+- Adler: giấc mơ là buổi diễn tập cho mục tiêu; tôn giáo không là trung tâm [S4].
 - *Chốt:* Freud giải mã, Jung đối thoại với biểu tượng, Adler tìm mục tiêu.
 
 **7. Cách trị liệu**
 
-- Freud: liên tưởng tự do, giấc mơ, chuyển di; nhiều buổi mỗi tuần, thường kéo dài [S9].
+- Freud: liên tưởng tự do, giấc mơ, chuyển di; nhiều buổi mỗi tuần, thường kéo dài (khuôn khổ cổ điển) [S2] [S37].
 - Jung: đối thoại ngồi đối diện, biểu tượng, tưởng tượng tích cực [S17].
-- Adler: khảo sát lối sống, ký ức sớm, khích lệ; thường ngắn hơn [S4].
+- Adler: khảo sát lối sống, ký ức sớm, khích lệ [S4].
 - *Chốt:* Freud khai quật, Jung đồng hành khám phá, Adler tiếp sức hành động.
 
 **8. Nguyên nhân của rối loạn tâm lý**
 
 - Freud: xung đột vô thức giữa ham muốn và cấm đoán từ nhỏ, bị nén rồi thành triệu chứng.
 - Jung: mất cân bằng, sống lệch một phía, bỏ rơi phần bản thân (bóng tối) hoặc mất ý nghĩa, nhất là giữa đời.
-- Adler: nản lòng, mặc cảm tự ti quá mức, thiếu cảm giác cộng đồng; nuông chiều hay bỏ mặc làm nặng thêm.
+- Adler: nản lòng, mặc cảm tự ti quá mức, thiếu cảm giác cộng đồng; nuông chiều hay bỏ mặc làm nặng thêm [S23].
 - *Chốt:* xung đột bị nén (Freud), mất cân bằng (Jung), nản lòng và cô lập (Adler).
 
 ## Bảng tóm tắt so sánh
 
 | Trục | Freud | Jung | Adler |
 |---|---|---|---|
-| Xuất phát | Khoa học tự nhiên, Khai sáng | Lãng mạn Đức, Kant, tâm linh | Y học xã hội, Vaihinger |
+| Xuất phát | Sinh lý học, khoa học tự nhiên | Triết học Đức, tâm thần học, huyền học | Y học xã hội, Vaihinger |
 | Hình ảnh con người | Sinh vật bản năng | Hành trình trọn vẹn | Sinh vật xã hội hướng mục tiêu |
 | Động lực | Bản năng, libido | Năng lượng sống, trọn vẹn | Vươn lên, thuộc về |
-| Vô thức | Kho ham muốn bị nén | Cá nhân + tập thể | Mục tiêu chưa hiểu |
-| Hướng nhìn | Quá khứ | Cả hai | Tương lai |
-| Tính dục | Trung tâm | Một dạng năng lượng | Phụ |
-| Xã hội | Lực kiềm chế | Mặt nạ (persona) | Trung tâm (cộng đồng) |
+| Vô thức | Ham muốn, ký ức bị nén (và cái nó) | Cá nhân + tập thể | Mục tiêu chưa hiểu |
+| Hướng nhìn | Quá khứ (nhân quả) | Cả hai | Mục đích (lối sống hình thành sớm) |
+| Tính dục | Trung tâm | Một dạng năng lượng | Một lĩnh vực biểu hiện |
+| Xã hội | Vừa kiềm chế, vừa gắn kết (Eros) | Mặt nạ (persona) | Trung tâm (cộng đồng) |
 | Giấc mơ, tôn giáo | Cải trang, ảo tưởng | Thông điệp, tự nhiên | Diễn tập mục tiêu |
 | Trị liệu | Liên tưởng, chuyển di | Đối thoại, biểu tượng | Khích lệ, lối sống |
 | Gốc rối loạn | Xung đột bị nén | Mất cân bằng | Nản lòng, cô lập |
-| Lý tưởng | Sự thật | Trọn vẹn | Can đảm và hợp tác |
+| Lý tưởng (cách bài tóm) | Sự thật | Trọn vẹn | Can đảm và hợp tác |
 | Người trị liệu là | Nhà khảo cổ | Người dẫn đường | Huấn luyện viên |
 
 ## Hai tình huống, ba cách giải thích
 
+Các ví dụ dưới đây là cách *suy ra từ khái niệm của mỗi người*, không phải điều họ từng viết về đúng tình huống này; một nhà trị liệu thực tế có thể làm khác. Đây là ví dụ minh họa, không phải ca bệnh có thật.
+
 ### Tình huống 1: một người luôn sợ thất bại và né thử thách
 
-Đây là ví dụ minh họa, không phải ca bệnh có thật.
+- **Freud** có thể hỏi nỗi sợ hôm nay có phải là phiên bản của một xung đột cũ hay không: chẳng hạn nỗi xấu hổ, sợ bị trừng phạt hay sợ làm cha mẹ thất vọng mà người đó không còn nhớ. Họ sẽ lần theo liên tưởng và giấc mơ để thấy gốc. Có thể siêu ngã khắc nghiệt đang "chấm điểm" mọi việc.
+- **Jung** có thể hỏi người ấy đang đeo "mặt nạ" nào, ví dụ phải luôn giỏi, và phần nào bị đẩy vào "bóng tối", ví dụ sự yếu đuối. Né thử thách cho thấy một phần bản thân chưa được gặp. Hướng đi là nhận ra và tích hợp phần đó. Nếu người ấy đang ở giữa đời, câu hỏi còn là: thành tích này có còn ý nghĩa với tôi không?
+- **Adler** có thể hỏi: né để đạt được điều gì? Có thể mục tiêu hư cấu là "không bị bẽ mặt", vì không thử thì không thua. Nỗi sợ là một **lôgic riêng** bảo vệ mục tiêu đó. Hướng đi là khích lệ, giúp người ấy thử lại từng bước, và nối người ấy lại với người khác.
 
-- **Freud** sẽ hỏi nỗi sợ hôm nay có phải là phiên bản của một xung đột cũ hay không: chẳng hạn nỗi xấu hổ, sợ bị trừng phạt hay sợ làm cha mẹ thất vọng mà người đó không còn nhớ. Họ sẽ lần theo liên tưởng và giấc mơ để thấy gốc. Có thể siêu ngã khắc nghiệt đang "chấm điểm" mọi việc.
-- **Jung** sẽ hỏi người ấy đang đeo "mặt nạ" nào, ví dụ phải luôn giỏi, và phần nào bị đẩy vào "bóng tối", ví dụ sự yếu đuối. Né thử thách cho thấy một phần bản thân chưa được gặp. Giải pháp là nhận ra và tích hợp phần đó. Nếu người ấy đang ở giữa đời, câu hỏi còn là: thành tích này có còn ý nghĩa với tôi không?
-- **Adler** sẽ hỏi: né để đạt được điều gì? Có thể mục tiêu hư cấu là "không bị bẽ mặt", vì không thử thì không thua. Nỗi sợ là một **lôgic riêng** bảo vệ mục tiêu đó. Giải pháp là khích lệ, chia thử thách thành bước nhỏ, và nối người ấy lại với người khác (ví dụ nhờ một bạn đi cùng).
-
-Tóm lại: Freud hỏi "vì sao", Jung hỏi "phần nào bị bỏ rơi", Adler hỏi "để làm gì".
+Tóm lại: Freud hỏi "vì sao", Jung hỏi "phần nào đã bị bỏ rơi, và điều đó đang gọi mình đi đâu", Adler hỏi "để làm gì".
 
 ### Tình huống 2: một người luôn nhường nhịn, không dám nói "không" với sếp
 
-- **Freud:** có thể người sếp gợi lại hình ảnh người cha hay người có quyền uy (chuyển di), và siêu ngã bắt người đó phải "ngoan". Cơn tức bị nén chuyển thành mệt mỏi, đau đầu hoặc bùng phát ở nơi khác (dời chuyển).
-- **Jung:** persona "người tốt, dễ chịu" đã chiếm hết chỗ; sự giận dữ và nhu cầu riêng nằm trong bóng tối. Khi bóng tối không được nhìn, nó có thể phóng chiếu lên người khác ("sếp độc đoán"). Việc cần làm là nhận lại phần giận dữ, không phải để nổ ra mà để có sức mạnh nói "không".
-- **Adler:** lối sống "để được yêu thì phải chiều" cộng với thiếu can đảm. Mục tiêu hư cấu có thể là "an toàn là không bị ai ghét". Cần khích lệ, thử nói "không" nhỏ, và nhớ rằng giá trị của mình nằm ở đóng góp, không ở việc được tất cả vừa lòng.
+- **Freud:** có thể người sếp gợi lại hình ảnh người cha hay người có quyền uy (cùng cơ chế với chuyển di, nhưng diễn ra ngoài buổi trị liệu), và siêu ngã bắt người đó phải "ngoan". Cơn tức bị nén có thể chuyển thành mệt mỏi, đau đầu (triệu chứng thân thể), hoặc bùng phát ở nơi khác (dời đích).
+- **Jung:** persona "người tốt, dễ chịu" đã chiếm hết chỗ; sự giận dữ và nhu cầu riêng nằm trong bóng tối. Khi bóng tối không được nhìn, nó có thể bị phóng chiếu lên người khác. Việc cần làm là nhận lại phần giận dữ, không phải để nổ ra mà để có sức mạnh nói "không".
+- **Adler:** lối sống "để được yêu thì phải chiều" cộng với thiếu can đảm. Mục tiêu hư cấu có thể là "an toàn là không bị ai ghét". Cần khích lệ, và nhớ rằng giá trị của mình nằm ở đóng góp, không ở việc được tất cả vừa lòng.
+
+*Lưu ý:* cả ba cách đọc đều tập trung vào bên trong người nhường nhịn. Chúng không loại trừ khả năng người sếp thật sự áp đặt, và một tình huống thật cần xét cả yếu tố đó.
 
 ## Phê bình và hạn chế
 
 **Điểm bị giới khoa học hiện đại chỉ trích:**
 
-- **Khó kiểm chứng.** Popper dùng Freud và Adler làm ví dụ về thuyết giải thích được mọi hành vi nên không có cách bác bỏ [S6]. (Có học giả cho rằng lập luận của Popper chưa hoàn toàn công bằng.) Grünbaum cho rằng bằng chứng trong buổi phân tích dễ bị chính nhà trị liệu gợi ý nên không đủ làm thước đo [S26].
+- **Khó kiểm chứng.** Popper dùng Freud và Adler làm ví dụ về lý thuyết giải thích được mọi hành vi nên không có cách bác bỏ [S6]. Grünbaum phản bác ở điểm này (lý thuyết Freud có thể kiểm chứng về nguyên tắc) nhưng cho rằng bằng chứng trong buổi phân tích bị nhiễm gợi ý của nhà trị liệu nên không đủ làm thước đo [S26].
 - **Dữ liệu chủ yếu là ca bệnh** do chính người hành nghề chọn và kể lại, không phải thí nghiệm có nhóm đối chứng.
 - **Freud:** mô hình các giai đoạn tâm tính dục, bản năng chết và một số quan điểm về nữ giới bị phê phán mạnh; mẫu bệnh nhân hẹp.
 - **Jung:** vô thức tập thể và nguyên mẫu khó đo; ranh giới giữa khoa học và thần bí; tranh cãi chính trị thập niên 1930.
-- **Adler:** khái niệm rộng khó đo; ý tưởng về thứ tự sinh không được ủng hộ trong một nghiên cứu lớn trên mẫu từ Mỹ, Anh, Đức, kết quả cho thấy ảnh hưởng lên tính cách rất nhỏ hoặc không có [S8].
+- **Adler:** khái niệm rộng khó đo; ý tưởng về thứ tự sinh theo khai sinh không được một nghiên cứu lớn trên mẫu từ Mỹ, Anh, Đức ủng hộ [S8].
 
 **Phần vẫn có giá trị:**
 
-- Tâm lý học nhận thức hiện nay ghi nhận rất nhiều xử lý tâm lý diễn ra ngoài ý thức, dù không theo nội dung Freud mô tả [S27]. Đây là chỗ "vô thức" của ba người vẫn có tiếng vọng.
-- Liệu pháp tâm động học (psychodynamic, hậu duệ của phân tâm học) có hiệu quả cỡ tương đương các liệu pháp khác và lợi ích còn kéo dài sau khi kết thúc, theo một tổng quan năm 2010; phương pháp tổng quan này cũng có tranh luận [S7].
+- Ý niệm chung rằng nhiều xử lý tâm lý diễn ra ngoài ý thức vẫn được tâm lý học nhận thức ghi nhận [S27]. Nhưng nội dung cụ thể mỗi người đề xuất (ham muốn bị nén, nguyên mẫu, lối sống ngầm) không được các nghiên cứu này xác nhận.
+- Liệu pháp tâm động học (psychodynamic, hậu duệ của phân tâm học) có hiệu quả cỡ tương đương các liệu pháp khác và lợi ích còn kéo dài sau khi kết thúc, theo một tổng quan năm 2010; phương pháp tổng quan này cũng có tranh luận [S7]. Bằng chứng ủng hộ cho trị liệu theo Jung và theo Adler còn ít được nghiên cứu hệ thống hơn so với liệu pháp tâm động học nói chung (cần nguồn).
 - Tầm quan trọng của tuổi thơ và quan hệ sớm, của cơ chế phòng vệ, và ý tưởng "nói chuyện chữa lành" đã thấm vào đời sống thường ngày.
 
 ## Ảnh hưởng đến ngày nay
 
 - **Từ Freud:** từ vựng như "nén", "phòng vệ", "chuyển di", "vô thức", và việc xem nói chuyện là phương pháp chữa. Nhiều liệu pháp tâm động học, tâm lý học về gắn bó và tư vấn đều thừa hưởng một phần.
 - **Từ Jung:** từ ngữ đời thường như hướng nội, hướng ngoại, mặt nạ, bóng tối; sự quan tâm tới ý nghĩa đời sống và khủng hoảng giữa đời; ảnh hưởng tới văn học, nghệ thuật, nghiên cứu thần thoại và các nhóm hỗ trợ tinh thần.
-- **Từ Adler:** các nhà tâm lý sau này như Albert Ellis và Abraham Maslow thường được nói là chịu ảnh hưởng ý tưởng của ông (khích lệ, mục tiêu, bối cảnh xã hội); trong giáo dục, các chương trình nuôi dạy con dựa trên tôn trọng, khích lệ và hậu quả tự nhiên; trong tư vấn gia đình và trường học (diễn giải của học giả) [S24].
+- **Từ Adler:** nhiều ý tưởng của ông (khích lệ, mục tiêu, bối cảnh xã hội) được các trường phái sau tiếp nhận (diễn giải) [S1]; trong giáo dục, nhiều chương trình nuôi dạy con dựa trên tôn trọng, khích lệ và hậu quả tự nhiên, đi qua học trò như Dreikurs [S36]. Adler thường được nhớ ít hơn Freud và Jung dù ảnh hưởng này khá rộng.
 
 ## Hiểu lầm thường gặp và cách giải thích cho người khác
 
-**Tám hiểu lầm hay gặp:**
+**Bảy hiểu lầm hay gặp:**
 
-1. *"Freud nghĩ mọi thứ đều là tính dục."* Không hẳn: "tính dục" của Freud rộng hơn nhiều, và về sau ông còn thêm bản năng gây hấn [S10] [S12].
+1. *"Freud nghĩ mọi thứ đều là tính dục."* Không hẳn: "tính dục" của Freud rộng hơn nhiều, trước 1920 ông còn có bản năng tự bảo tồn, và về sau thêm bản năng gây hấn [S10] [S12].
 2. *"Vô thức là tảng băng chìm của Freud."* Tảng băng là ẩn dụ phổ biến, không phải câu của Freud.
-3. *"Jung là nhà thần bí."* Ông tự nhận làm khoa học thực nghiệm về tâm hồn, dù quan tâm tâm linh; giới phê bình chia ý kiến.
-4. *"MBTI là của Jung."* MBTI dựa trên ý tưởng kiểu tính cách của Jung nhưng do hai người khác phát triển.
-5. *"Adler nói tự ti là xấu."* Ngược lại: cảm giác tự ti bình thường và là động lực; vấn đề là phản ứng sai hướng với nó.
-6. *"Ba người cùng một trường phái."* Không: ba hệ thống khác nhau, chung nguồn gốc.
-7. *"Họ là triết gia."* Họ là bác sĩ; nhưng học thuyết của họ ngầm chứa các quan điểm triết học rõ ràng (con người, tự do, ý nghĩa).
-8. *"Phân tâm học đã bị khoa học bác bỏ hoàn toàn."* Quá đơn giản: nhiều giả thuyết cụ thể không được ủng hộ, nhưng một số ý tưởng nền (xử lý ngầm, vai trò quan hệ sớm, hiệu quả liệu pháp nói chuyện) vẫn có giá trị [S7] [S27].
+3. *"MBTI là của Jung."* MBTI dựa trên ý tưởng kiểu tính cách của Jung nhưng do hai người khác phát triển.
+4. *"Adler nói tự ti là xấu."* Ngược lại: cảm giác tự ti bình thường và là động lực; vấn đề là phản ứng sai hướng với nó.
+5. *"Ba người cùng một trường phái."* Không: ba hệ thống khác nhau, chung nguồn gốc.
+6. *"Họ là triết gia."* Họ là bác sĩ; nhưng học thuyết của họ ngầm chứa các quan điểm triết học rõ ràng (con người, tự do, ý nghĩa).
+7. *"Phân tâm học đã bị khoa học bác bỏ hoàn toàn."* Quá đơn giản: nhiều giả thuyết cụ thể không được ủng hộ, nhưng một số ý tưởng nền (xử lý ngầm, vai trò quan hệ sớm, hiệu quả liệu pháp nói chuyện) vẫn có giá trị [S7] [S27].
+
+**Một câu hỏi còn tranh luận, không phải hiểu lầm đơn giản:** *"Jung là nhà thần bí hay nhà khoa học?"* Jung tự gọi mình là nhà thực nghiệm. Nhưng sự quan tâm của ông tới giả kim, đồng bộ và *Sách đỏ* khiến nhiều người xếp ông ngoài khoa học thực nghiệm. Học giả vẫn tranh luận về điểm này.
 
 **Cách giải thích trong 2 phút:** hãy hình dung **một ngôi nhà**.
 
-- **Freud** đi xuống **tầng hầm** và nói: "Những gì ta không dám nhìn đang nằm ở dưới này và âm thầm điều khiển cả ngôi nhà. Phải xuống đó, nhìn rõ và dọn dẹp."
-- **Jung** đi xuống tầng hầm nhưng thấy thêm **một đường hầm dẫn ra một vùng đất chung của cả thành phố** (vô thức tập thể), và còn trèo lên **gác mái** để nhìn bầu trời (ý nghĩa, tâm linh). Ông nói: "Cả hầm và gác mái đều thuộc về bạn. Hãy đi hết ngôi nhà để trở nên trọn vẹn."
-- **Adler** đứng ở **ban công nhìn ra phố** và nói: "Ngôi nhà này nằm trong một khu phố. Hỏi xem bạn định đi đâu và bạn sống với hàng xóm ra sao. Dũng cảm bước ra cửa."
+- **Freud** đi xuống **tầng hầm** và nói: "Những gì ta không dám nhìn đang nằm ở dưới này và âm thầm ảnh hưởng cả ngôi nhà. Phải xuống đó, nhìn rõ, để bớt bị chúng điều khiển mà không hay."
+- **Jung** cũng xuống tầng hầm nhưng thấy thêm rằng tầng hầm thông với **một nền móng chung của cả khu phố** (vô thức tập thể), nơi chứa những hình ảnh và ý nghĩa mà ta chỉ hiểu dần. Ông nói: "Hãy đi hết ngôi nhà, từ hầm tới gác mái, để trở nên trọn vẹn."
+- **Adler** đứng giữa nhà và hỏi: "Cả ngôi nhà này được dựng để làm gì, và nó nằm trong khu phố nào? Bạn đang định đi đâu và sống với hàng xóm ra sao? Hãy can đảm bước ra cửa."
 
-**Ba câu hỏi để bạn hỏi người nghe** (chứng tỏ họ hiểu): (1) Freud và Adler khác nhau ở chỗ nào khi giải thích một nỗi sợ? (2) Vì sao Jung coi giữa đời là bước ngoặt? (3) Vì sao nói ba người "khác triết học" chứ không chỉ khác kỹ thuật?
+(Hình ảnh ngôi nhà chỉ là gợi nhớ; nó không nói rằng mỗi người đi sâu hơn hay nông hơn người kia.)
+
+**Ba câu hỏi để bạn hỏi người nghe** (chứng tỏ họ hiểu): (1) Freud và Adler khác nhau ở chỗ nào khi giải thích một nỗi sợ? (2) Vì sao Jung coi giữa đời là bước ngoặt? (3) Vì sao nói ba người "khác quan niệm về con người" chứ không chỉ khác kỹ thuật?
 
 ## Kết luận
 
-1. **Freud:** nhìn con người như bị bản năng và quá khứ chưa giải quyết đẩy đi; lý tưởng là đối diện sự thật.
+1. **Freud:** nhìn con người như bị bản năng và quá khứ chưa giải quyết đẩy đi; lý tưởng (cách bài tóm) là đối diện sự thật.
 2. **Jung:** nhìn con người như hành trình trở nên trọn vẹn, qua biểu tượng và chiều sâu chung của loài người; lý tưởng là trọn vẹn thay vì hoàn hảo.
 3. **Adler:** nhìn con người như đang vươn lên một mục tiêu, trong mối quan hệ với người khác; lý tưởng là can đảm và hợp tác.
 4. **Điểm chung:** cả ba tin rằng điều ta không nhận ra vẫn tác động đến đời sống, và nói chuyện có thể chữa lành.
-5. **Cách dùng:** coi họ là ba thấu kính bổ sung nhau, không cần chọn ai đúng ai sai; mỗi thấu kính giúp thấy một lớp khác của cùng một con người.
+5. **Cách dùng:** có thể đọc họ như ba cách nhìn khác nhau về cùng một đề tài. Chúng không luôn tương thích và không có bằng chứng ngang nhau; bài này không kết luận ai đúng. Mỗi cách nhìn là một góc để đặt câu hỏi, không phải để chẩn đoán.
 
 ## Lưu ý
 
-Bài này nhằm hiểu lịch sử và ý tưởng, không phải lời khuyên y tế. Các ví dụ (sợ thất bại, nhường nhịn sếp) chỉ để minh họa, không phải chẩn đoán. Nỗi sợ hoặc lo âu kéo dài, ảnh hưởng đến công việc và đời sống, nên được trao đổi với bác sĩ hoặc chuyên gia tâm lý. Một số chi tiết tiểu sử (đặc biệt về thời thơ ấu và các ảnh hưởng triết học) dựa trên tự truyện và tiểu sử nên được đọc như diễn giải; bản thân tôi chưa đối chiếu được từng chi tiết với tài liệu gốc.
+Bài này nhằm hiểu lịch sử và ý tưởng, không phải lời khuyên y tế. Các ví dụ (sợ thất bại, nhường nhịn sếp) chỉ để minh họa, không phải chẩn đoán. Nỗi sợ hoặc lo âu kéo dài, ảnh hưởng đến công việc và đời sống, nên được trao đổi với bác sĩ hoặc chuyên gia tâm lý. Nhiều chi tiết tiểu sử (nhất là về tuổi thơ và các ảnh hưởng triết học) dựa trên tự truyện và tiểu sử do người trong cuộc hoặc người đời sau viết, nên nên được đọc như diễn giải. Bài chưa đối chiếu từng chi tiết với bản gốc; người muốn trích lại nên kiểm tra nguồn.
 
 ## Nguồn tham khảo
 
 - [S1] Ellenberger H. F., The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry, Basic Books, 1970
-- [S2] Freud S., Die Traumdeutung (The Interpretation of Dreams), 1900
-- [S3] Jung C. G., Memories, Dreams, Reflections (ghi lại cùng Aniela Jaffé), 1963
-- [S4] Adler A., Understanding Human Nature (Menschenkenntnis), 1927
+- [S2] Freud S., Die Traumdeutung (The Interpretation of Dreams), 1900 (ra cuối 1899)
+- [S3] Jung C. G., Erinnerungen, Träume, Gedanken (Memories, Dreams, Reflections; ghi lại cùng Aniela Jaffé), 1962–1963
+- [S4] Adler A., Menschenkenntnis (Understanding Human Nature), 1927
 - [S5] McGuire W. (biên tập), The Freud/Jung Letters, Princeton University Press, 1974
-- [S6] Popper K., Conjectures and Refutations (chương "Science: Conjectures and Refutations"), Routledge, 1963
+- [S6] Popper K., Conjectures and Refutations (chương "Science: Conjectures and Refutations"), Routledge & Kegan Paul, 1963
 - [S7] Shedler J., The efficacy of psychodynamic psychotherapy, American Psychologist, 2010 https://doi.org/10.1037/a0018378
 - [S8] Rohrer J. M., Egloff B., Schmukle S. C., Examining the effects of birth order on personality, PNAS, 2015 https://doi.org/10.1073/pnas.1506451112
 - [S9] Breuer J., Freud S., Studien über Hysterie (Studies on Hysteria), 1895
-- [S10] Freud S., Drei Abhandlungen zur Sexualtheorie (Three Essays on the Theory of Sexuality), 1905
+- [S10] Freud S., Drei Abhandlungen zur Sexualtheorie (Three Essays on the Theory of Sexuality), 1905 (bổ sung các lần tái bản sau)
 - [S11] Freud S., Eine Schwierigkeit der Psychoanalyse (A Difficulty in the Path of Psycho-Analysis), 1917
 - [S12] Freud S., Jenseits des Lustprinzips (Beyond the Pleasure Principle), 1920
 - [S13] Freud S., Das Ich und das Es (The Ego and the Id), 1923
-- [S14] Freud S., Die Zukunft einer Illusion (1927) và Das Unbehagen in der Kultur (Civilization and Its Discontents, 1930)
+- [S14] Freud S., Die Zukunft einer Illusion (The Future of an Illusion), 1927
 - [S15] Freud A., Das Ich und die Abwehrmechanismen (The Ego and the Mechanisms of Defence), 1936
 - [S16] Jung C. G., Psychologische Typen (Psychological Types), 1921
-- [S17] Jung C. G., Modern Man in Search of a Soul (gồm các tiểu luận "Problems of Modern Psychotherapy" và "The Stages of Life"), 1933
-- [S18] Jung C. G., The Archetypes and the Collective Unconscious (Collected Works, vol. 9 part 1), Princeton University Press
+- [S17] Jung C. G., Modern Man in Search of a Soul (tuyển tập tiểu luận, gồm "Problems of Modern Psychotherapy", "The Stages of Life", "Psychotherapists or the Clergy", "The Aims of Psychotherapy"), 1933
+- [S18] Jung C. G., The Archetypes and the Collective Unconscious (Collected Works, vol. 9 part 1), Princeton University Press, 1959 (bản Anh)
 - [S19] Jung C. G., Psychology and Alchemy, 1944
 - [S20] Jung C. G., The Red Book: Liber Novus (Shamdasani S. biên tập), W. W. Norton, 2009
 - [S21] Adler A., Studie über Minderwertigkeit von Organen (Study of Organ Inferiority and Its Psychical Compensation), 1907
-- [S22] Adler A., Über den nervösen Charakter (The Neurotic Character), 1912
+- [S22] Adler A., Über den nervösen Charakter (The Neurotic Constitution, 1917; The Neurotic Character), 1912
 - [S23] Adler A., What Life Should Mean to You, 1931
 - [S24] Ansbacher H. L., Ansbacher R. R. (biên tập), The Individual Psychology of Alfred Adler, Basic Books, 1956
 - [S25] Vaihinger H., Die Philosophie des Als Ob (The Philosophy of "As If"), 1911
@@ -584,3 +614,15 @@ Bài này nhằm hiểu lịch sử và ý tưởng, không phải lời khuyên
 - [S28] Adlerpedia, "As If" (Fictions), https://www.adlerpedia.org/concepts/83
 - [S29] Adlerpedia, Fictional Goal / Guiding Fiction / Fictional Finalism, https://www.adlerpedia.org/concepts/45
 - [S30] Adlerpedia, Lifetasks / Tasks of Life, https://www.adlerpedia.org/concepts/57
+- [S31] Freud S., Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse (New Introductory Lectures on Psycho-Analysis), 1933
+- [S32] Jung C. G., Nietzsche's Zarathustra: Notes of the Seminar Given in 1934–1939 (Jarrett J. L. biên tập), Princeton University Press, 1988
+- [S33] Wilhelm R., Jung C. G., Das Geheimnis der Goldenen Blüte (The Secret of the Golden Flower), 1929
+- [S34] Jung C. G., Psychology and Religion (Terry Lectures, Yale), 1938
+- [S35] Jung C. G., Wandlungen und Symbole der Libido (Symbols of Transformation), 1911–1912
+- [S36] Dreikurs R., Soltz V., Children: The Challenge, 1964
+- [S37] Freud S., Zur Dynamik der Übertragung (1912) và Zur Einleitung der Behandlung (1913)
+- [S38] Freud S., Das Unbehagen in der Kultur (Civilization and Its Discontents), 1930
+- [S39] Cocks G., Psychotherapy in the Third Reich: The Göring Institute, Oxford University Press, 1985
+- [S40] Adlerpedia, Alexandra Adler (tiểu sử, có nhắc việc cả gia đình Adler cải đạo năm 1904), https://www.adlerpedia.org/people/130
+- [S41] Masson J. M., The Assault on Truth: Freud's Suppression of the Seduction Theory, 1984
+- [S42] Esterson A., Seductive Mirage: An Exploration of the Work of Sigmund Freud, Open Court, 1993

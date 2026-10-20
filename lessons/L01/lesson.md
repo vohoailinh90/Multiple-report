@@ -300,7 +300,7 @@ Hành trình ý tưởng của Adler đi qua các bước:
 1. **Cơ quan khiếm khuyết (organ inferiority, 1907).** Mỗi người có một điểm yếu thể chất, và có thể bù trừ hoặc bị đè bẹp bởi nó [S21].
 2. **Cảm giác tự ti (inferiority feeling).** Mở rộng ra mọi mặt: *làm người nghĩa là cảm thấy mình còn thiếu, và cảm giác ấy luôn đòi được bù trừ* (diễn đạt lại). Đứa trẻ sinh ra yếu, phụ thuộc, sống giữa những người lớn khỏe và giỏi hơn. Cảm giác còn thiếu này **bình thường và thậm chí cần thiết**, vì nó là động lực phát triển [S4].
 3. **Bù trừ (compensation).** Cố gắng vượt thiếu sót thành tích cực: học, luyện tập, sáng tạo (khác "bù trừ" của Jung ở phần trên: đây là bù cho cảm giác thiếu) [S4].
-4. **Vươn lên từ chỗ thiếu đến chỗ đủ.** Ban đầu là "bản năng gây hấn" và "ý chí quyền lực", sau đó "vươn tới ưu thế"; về sau ông thiên về "vươn tới sự hoàn thiện" (perfection). Nó là lực chung của đời sống, không riêng ai [S24].
+4. **Vươn lên từ chỗ thiếu đến chỗ đủ.** Ban đầu là "bản năng gây hấn" và "ý chí quyền lực", sau đó "vươn tới ưu thế"; về sau ông thiên về "vươn tới sự hoàn thiện" (perfection). Ở đây "hoàn thiện" không có nghĩa là không bao giờ sai hay hơn người, mà là hướng về sự đầy đủ và đóng góp cho cộng đồng; vì thế nó không mâu thuẫn với "can đảm sống bất toàn" ở phần lý tưởng sống. Nó là lực chung của đời sống, không riêng ai [S24].
 
 **Mặc cảm tự ti (inferiority complex)** khác với cảm giác tự ti: nó xuất hiện khi cảm giác thiếu bị phóng đại tới mức làm tê liệt, hoặc được dùng làm cớ ("tôi kém nên không làm được"). Theo Adler, **mặc cảm tự tôn (superiority complex)** thường là cách bù trừ sai hướng để che mặc cảm tự ti này: ra vẻ hơn người để khỏi phải thấy mình thiếu. Cả hai đều là cách thoát khỏi nhiệm vụ cuộc sống thay vì đối diện nó [S4] [S23] [S24]. (Từ "mặc cảm" ở đây và "phức cảm" của Jung cùng dịch từ *complex* nhưng chỉ hai khái niệm khác nhau.)
 
@@ -388,9 +388,9 @@ Adler gắn với chủ nghĩa nhân văn dân chủ và tin vào khả năng th
 
 **2. Ta có tự do không?**
 
-- Freud: mọi ý nghĩ đều có nguyên nhân (quyết định luận tâm lý). Tự do là phần ta giành thêm được khi hiểu nguyên nhân: biết mình hay cáu khi đói thì ăn trước buổi họp [S44] [S13]. (Cách gọi "quyết định luận mềm" là của người đọc sau, không phải của Freud.)
+- Freud: mọi ý nghĩ đều có nguyên nhân (quyết định luận tâm lý). Tự do là phần ta giành thêm được khi hiểu nguyên nhân: biết mình hay cáu khi đói thì ăn trước buổi họp [S44] [S13]. (Người đọc sau có thể gọi cách nhìn này là "quyết định luận mềm": có nguyên nhân nhưng vẫn còn chỗ để chọn; đây không phải nhãn của Freud.)
 - Jung: cái tôi có thể chọn hợp tác hoặc chống lại sự phát triển của tâm hồn, nhưng vô thức có sức riêng nên tự do bị giới hạn (diễn giải).
-- Adler: cũng cho rằng hành vi có nguyên nhân, nhưng nhấn mạnh phần ta tự chọn. Hoàn cảnh và quá khứ chỉ là nguyên liệu; ý nghĩa ta gán cho chúng mới quyết định hướng đi [S4]. (Người đọc sau gọi cách nhìn này là "quyết định luận mềm": có nguyên nhân nhưng vẫn còn chỗ để chọn; nhóm Adler gọi là "tự quyết định" [S24]. Đây là nhãn của người đọc sau.)
+- Adler: cũng cho rằng hành vi có nguyên nhân, nhưng nhấn mạnh phần ta tự chọn. Hoàn cảnh và quá khứ chỉ là nguyên liệu; ý nghĩa ta gán cho chúng mới quyết định hướng đi [S4]. (Nhóm Adler gọi cách nhìn này là "tự quyết định" [S24]; người đọc sau cũng gọi nó là "quyết định luận mềm", như đã nói ở trên. Đây là nhãn của người đọc sau.)
 
 **3. Đau khổ và triệu chứng có nghĩa gì?**
 

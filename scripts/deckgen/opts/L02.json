@@ -1,0 +1,46 @@
+{
+ "topic_label": "Não bộ · Bài L02",
+ "motif": "pulse",
+ "question": "Làm sao hàng chục tỷ tế bào thần kinh nói chuyện được với nhau?",
+ "cards": [
+  "Sợi trục: xung điện",
+  "Synapse: chất hóa học",
+  "Thụ thể: ổ khóa và chìa",
+  "Thuốc can thiệp ở synapse"
+ ],
+ "big": {},
+ "actors": {
+  "7": [
+   "Nơron trước",
+   "Khe synapse",
+   "Nơron sau"
+  ]
+ },
+ "mark": {
+  "6": "không to nhỏ",
+  "15": "thuốc"
+ },
+ "center": {
+  "9": "Thụ thể"
+ },
+ "pairs": {
+  "7": [
+   [
+    0,
+    0
+   ],
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ }
+}

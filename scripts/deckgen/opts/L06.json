@@ -1,0 +1,25 @@
+{
+ "topic_label": "Mạng xã hội · Bài L06",
+ "motif": "feed",
+ "question": "Mạng xã hội có “thao túng” não không?",
+ "cards": [
+  "Cơ chế có thật",
+  "Suy luận từ cơ chế",
+  "Bằng chứng còn chưa rõ",
+  "Cách tự bảo vệ"
+ ],
+ "big": {
+  "8": "563.312",
+  "12": "0,4%"
+ },
+ "actors": {},
+ "mark": {
+  "1": "suy luận",
+  "4": "đang nổi lên",
+  "11": "suy luận",
+  "17": "y tế"
+ },
+ "center": {
+  "3": "Mạng xã hội"
+ }
+}

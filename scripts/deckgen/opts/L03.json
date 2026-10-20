@@ -1,0 +1,23 @@
+{
+ "topic_label": "Thần kinh học · Bài L03",
+ "motif": "dots",
+ "question": "Có phải mỗi cảm xúc do một chất hóa học quyết định?",
+ "cards": [
+  "Glutamate và GABA",
+  "Dopamine, serotonin",
+  "Noradrenaline, acetylcholine",
+  "Serotonin và trầm cảm"
+ ],
+ "big": {
+  "12": "17"
+ },
+ "actors": {},
+ "mark": {
+  "3": "ga lẫn phanh",
+  "11": "nghĩa khác theo ngữ cảnh",
+  "14": "khác với nguyên nhân bệnh"
+ },
+ "center": {
+  "5": "Dopamine"
+ }
+}

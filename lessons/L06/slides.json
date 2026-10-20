@@ -1,0 +1,251 @@
+{
+  "title": "Mạng xã hội và truyền thông tác động lên não",
+  "subtitle": "Mạng xã hội · Bài L06",
+  "slides": [
+    {
+      "title": "Mạng xã hội \"thao túng\" não, hay dùng cách não vận hành?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Cơ chế có thật; thiết kế tận dụng là suy luận"
+      ],
+      "notes": "Bài trả lời trung thực gồm ba phần: cơ chế có thật, tính năng tận dụng là suy luận, bằng chứng tác hại còn tranh cãi.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Ba điều cần nhớ",
+      "section": "Tóm tắt",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "bullets": [
+        "Cơ chế não: có thật",
+        "Tính năng tận dụng cơ chế: suy luận",
+        "Tác hại trung bình: nhỏ, còn tranh cãi"
+      ],
+      "notes": "Bài không dùng chữ nghiện như chẩn đoán y khoa.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Mạng xã hội chạm vào bốn cơ chế",
+      "section": "Mạng xã hội chạm vào những cơ chế nào",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Hệ thưởng",
+        "Chú ý",
+        "Cảm xúc",
+        "Ảnh hưởng xã hội"
+      ],
+      "notes": "Meshi và cộng sự: năm 2015 số công trình thần kinh học về chủ đề này còn rất ít, nên nhiều điều là suy ra từ nghiên cứu cơ chế nói chung.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Thí nghiệm lượt thích",
+      "section": "Lượt thích và ảnh hưởng của bạn bè",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "32 thiếu niên 13 đến 18 tuổi",
+        "Xem ảnh khi chụp fMRI",
+        "Số lượt thích hiển thị được thay đổi",
+        "Đo phản ứng của não và hành vi"
+      ],
+      "notes": "Sherman và cộng sự, 2016. Nhiệm vụ mô phỏng Instagram.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Kết quả của thí nghiệm",
+      "section": "Lượt thích và ảnh hưởng của bạn bè",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Nhiều lượt thích: dễ được thích hơn, kể cả ảnh có nguy cơ",
+        "Nhiều lượt thích: vùng thưởng, xã hội, chú ý hoạt động mạnh hơn"
+      ],
+      "notes": "Giới hạn: mẫu nhỏ, trong phòng thí nghiệm, mô phỏng chứ không phải mạng xã hội thật.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "563.312 thông điệp",
+      "section": "Cảm xúc mạnh lan nhanh",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Ngôn từ đạo đức và cảm xúc được chia sẻ nhiều hơn",
+        "Mạnh hơn trong nhóm cùng quan điểm"
+      ],
+      "notes": "Brady và cộng sự, 2017. Dữ liệu quan sát nên không chứng minh ngôn từ gây ra việc lan truyền.",
+      "layout": "one-big-number",
+      "tone": "dark"
+    },
+    {
+      "title": "Từ cơ chế đến thiết kế",
+      "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+      "sources": [
+        "S3",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Thông báo: chú ý bị kéo đi",
+        "Lượt thích: tín hiệu xã hội và thưởng",
+        "Kết quả lúc có lúc không: thưởng khác dự đoán",
+        "Nội dung gây phẫn nộ: cảm xúc thúc đẩy chia sẻ"
+      ],
+      "notes": "Bảng là suy luận của người viết: cơ chế có nguồn, việc tính năng tận dụng cơ chế chưa phải kết quả thí nghiệm trực tiếp.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Đây là suy luận",
+      "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+      "sources": [],
+      "bullets": [
+        "Suy luận từ cơ chế, chưa phải kết quả thí nghiệm"
+      ],
+      "notes": "Cần gắn nhãn rõ để không biến suy luận thành sự thật.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "0,4%",
+      "section": "Bằng chứng về tác hại: còn tranh cãi",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Dùng công nghệ số giải thích tối đa 0,4% phúc lợi thiếu niên",
+        "Hơn 300.000 thiếu niên và phụ huynh ở Anh và Mỹ"
+      ],
+      "notes": "Orben và Przybylski, 2019. Liên hệ tiêu cực nhưng nhỏ.",
+      "layout": "one-big-number",
+      "tone": "light"
+    },
+    {
+      "title": "Vì sao chưa kết luận chắc",
+      "section": "Bằng chứng về tác hại: còn tranh cãi",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Dữ liệu quan sát, không chứng minh nhân quả",
+        "Cách phân tích khác nhau cho kết quả khác nhau",
+        "Tác giả nói chưa phải câu trả lời dứt khoát"
+      ],
+      "notes": "Mức trung bình nhỏ không loại trừ một số người hoặc cách dùng bị ảnh hưởng nhiều hơn.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba tầng bảo vệ",
+      "section": "Cách tự bảo vệ (suy ra từ cơ chế, không phải phác đồ)",
+      "sources": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Môi trường: tắt thông báo không cần thiết",
+        "Thói quen: đặt điểm dừng từ trước",
+        "Nhận thức: hỏi muốn hay thích"
+      ],
+      "notes": "Gợi ý suy ra từ cơ chế, chưa phải biện pháp đã được kiểm chứng trong thử nghiệm.",
+      "layout": "layers",
+      "tone": "light"
+    },
+    {
+      "title": "Bốn việc nhỏ",
+      "section": "Cách tự bảo vệ (suy ra từ cơ chế, không phải phác đồ)",
+      "sources": [
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Tắt thông báo không cần thiết",
+        "Đặt giới hạn từ trước",
+        "Hỏi: mình muốn hay thích?",
+        "Chậm lại trước nội dung gây phẫn nộ"
+      ],
+      "notes": "Thêm: giữ nền tảng sức khỏe như ngủ, vận động và quan hệ ngoài đời.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Cơ chế thưởng, chú ý, cảm xúc, xã hội là có thật",
+        "Tính năng tận dụng chúng phần lớn là suy luận",
+        "Tác hại trung bình nhỏ, còn tranh cãi",
+        "Thiết kế môi trường giúp giảm tác động"
+      ],
+      "notes": "Đây là bài ứng dụng của L00 đến L05.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Bài về cơ chế, không phải lời khuyên y tế",
+        "Mất ngủ, lo âu, khó kiểm soát: gặp chuyên gia"
+      ],
+      "notes": "Không dùng bài này để quy kết lỗi cho thiếu niên hay phụ huynh.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology",
+        "Meshi và cộng sự, Trends Cogn Sci, 2015",
+        "Sherman và cộng sự, Psychol Sci, 2016",
+        "Orben và Przybylski, Nat Hum Behav, 2019",
+        "Brady và cộng sự, PNAS, 2017"
+      ],
+      "notes": "Có thêm Schultz và cộng sự, Science, 1997 và Corbetta và Shulman, Nat Rev Neurosci, 2002. Đường dẫn đầy đủ ở lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

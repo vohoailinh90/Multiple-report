@@ -1,0 +1,214 @@
+{
+  "title": "Thùy trán, não trái và não phải",
+  "subtitle": "Não bộ · Bài L04",
+  "slides": [
+    {
+      "title": "Não trái logic, não phải sáng tạo: đúng hay sai?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Chuyên biệt hóa là thật, nhưng theo từng chức năng"
+      ],
+      "notes": "Bài này xem thùy trán điều hành thế nào và hai bán cầu khác nhau ra sao, rồi trả lời câu hỏi mở bài.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Ba điều của bài",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Thùy trán: trung tâm điều hành",
+        "Hai bán cầu: chuyên biệt hóa thật",
+        "Không có người não trái hay não phải"
+      ],
+      "notes": "Kết luận ngắn của bài.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Thùy trán làm gì",
+      "section": "Thùy trán: trung tâm điều hành",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Giữ mục tiêu khi bị xao nhãng",
+        "Chọn cách làm phù hợp",
+        "Đổi cách làm khi hoàn cảnh đổi",
+        "Vỏ não trước trán: phần trước nhất"
+      ],
+      "notes": "Miller và Cohen: vỏ não trước trán duy trì mẫu hoạt động mã hóa mục tiêu và cách đạt mục tiêu, rồi hướng dẫn các vùng khác. Ví dụ điện thoại rung khi đang học là ví dụ minh họa của người viết.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Người điều phối của nhóm",
+      "section": "Thùy trán: trung tâm điều hành",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Không tự làm mọi việc",
+        "Quyết định ai làm gì, lúc nào",
+        "Kiểm soát nhận thức"
+      ],
+      "notes": "So sánh người điều phối là hình ảnh minh họa của người viết.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Phineas Gage qua các mốc",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "1848: thanh sắt xuyên thùy trán, ông sống sót",
+        "1868: Harlow mô tả thay đổi tính cách",
+        "2000 và 2008: Macmillan nghi ngờ độ chính xác"
+      ],
+      "notes": "Báo cáo 1848 nhắc rất ít đến thay đổi tâm lý; mô tả mạnh hơn xuất hiện năm 1868.",
+      "layout": "timeline",
+      "tone": "light"
+    },
+    {
+      "title": "Điều chắc và điều còn tranh cãi",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Chắc: tổn thương thùy trán, ông sống sót",
+        "Tranh cãi: mức thay đổi tính cách",
+        "Bài học: kiểm tra lại chuyện cũ"
+      ],
+      "notes": "Tổn thương thùy trán có thể ảnh hưởng đến hành vi; nhưng phần tính cách bị kể phóng đại.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Cái phanh của não",
+      "section": "Kiểm soát bản thân: cái phanh của não",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Cám dỗ xuất hiện",
+        "Thùy trán so với mục tiêu",
+        "Kìm lại hoặc cho phép",
+        "Hành động"
+      ],
+      "notes": "Chuỗi minh họa đã đơn giản hóa nhiều, không phải sơ đồ chính xác của từng nơron.",
+      "layout": "flow",
+      "tone": "light"
+    },
+    {
+      "title": "Thể chai nối hai bán cầu",
+      "section": "Hai bán cầu và thể chai",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Thể chai: bó sợi nối hai bán cầu",
+        "Một số bệnh nhân từng bị cắt thể chai",
+        "Sperry và Gazzaniga: mỗi bên có thế mạnh riêng"
+      ],
+      "notes": "Ngôn ngữ ở phần lớn người nghiêng về bán cầu trái; trong não bình thường hai bên phối hợp chặt chẽ.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Nghiêng trái, nghiêng phải theo chức năng",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Ngôn ngữ: thường nghiêng trái",
+        "Kiểm soát chú ý: thường nghiêng phải"
+      ],
+      "notes": "Từ nghiên cứu fMRI lúc nghỉ của Nielsen và cộng sự, 2013.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "1.011 người",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Nielsen: người từ 7 đến 29 tuổi",
+        "Không thấy kiểu người não trái hay não phải"
+      ],
+      "notes": "Mỗi mạng nghiêng riêng; người nghiêng trái mạnh ở mạng này không nhất thiết nghiêng trái ở mạng khác.",
+      "layout": "one-big-number",
+      "tone": "dark"
+    },
+    {
+      "title": "Chuyên biệt hóa là của từng mạng",
+      "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Không phải của cả con người"
+      ],
+      "notes": "Ba lý do: chức năng phức tạp cần cả hai bên; chuyên biệt hóa theo mạng; logic và sáng tạo không được gán cho bán cầu nào.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Thùy trán giữ mục tiêu, điều chỉnh hành vi",
+        "Gage nổi tiếng nhưng kể phóng đại",
+        "Hai bán cầu nối bằng thể chai",
+        "Chuyên biệt hóa theo chức năng, không theo người"
+      ],
+      "notes": "Bài sau (L05) về hệ thưởng, chú ý và cảm xúc.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 2",
+        "Miller và Cohen, Annu Rev Neurosci, 2001",
+        "Gazzaniga, Nat Rev Neurosci, 2005",
+        "Nielsen và cộng sự, PLOS ONE, 2013",
+        "Macmillan, The Psychologist, 2008"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "title": "Hệ thưởng, chú ý và cảm xúc",
+  "subtitle": "Thần kinh học · Bài L05",
+  "slides": [
+    {
+      "title": "Vì sao ta bị cuốn vào thứ không quan trọng?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Bốn hệ thống cùng kéo ta đi"
+      ],
+      "notes": "Hệ thưởng, chú ý, cảm xúc và phản ứng căng thẳng; thùy trán điều phối nhưng có giới hạn.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Bốn hệ thống",
+      "section": "Tóm tắt",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Hệ thưởng: điều gì đáng theo đuổi",
+        "Chú ý: ta nhìn vào đâu",
+        "Cảm xúc: điều gì đáng sợ",
+        "Căng thẳng: cơ thể phản ứng ra sao"
+      ],
+      "notes": "Nền để L06 xem mạng xã hội tác động lên não thế nào.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Dopamine báo khác với dự đoán",
+      "section": "Hệ thưởng: dự đoán và mong muốn",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Dự đoán phần thưởng",
+        "Kết quả đến",
+        "So sánh với dự đoán",
+        "Điều chỉnh lần sau"
+      ],
+      "notes": "Sai số dự đoán phần thưởng: tín hiệu mạnh khi bất ngờ, giảm dưới mức nền khi mong mà không có. Chi tiết ở L00.",
+      "layout": "flow",
+      "tone": "light"
+    },
+    {
+      "title": "Muốn khác với thích",
+      "section": "Hệ thưởng: dự đoán và mong muốn",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Muốn: sức hút của một thứ",
+        "Thích: khoái cảm khi có nó",
+        "Hai việc có thể tách rời"
+      ],
+      "notes": "Dopamine liên quan nhiều đến muốn hơn đến thích.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Hai hệ điều khiển chú ý",
+      "section": "Chú ý: hai hệ cùng điều khiển",
+      "sources": [
+        "S6"
+      ],
+      "bullets": [
+        "Từ trên xuống: theo mục tiêu",
+        "Từ dưới lên: theo kích thích nổi bật",
+        "Chia sẻ một phần mạng lưới"
+      ],
+      "notes": "Corbetta và Shulman: chú ý do hai hệ phối hợp điều khiển.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Cái gì kéo chú ý",
+      "section": "Chú ý: hai hệ cùng điều khiển",
+      "sources": [
+        "S6"
+      ],
+      "bullets": [
+        "Kích thích bất ngờ",
+        "Kích thích nổi bật",
+        "Mục tiêu giữ chú ý có chủ ý"
+      ],
+      "notes": "Chú ý không hoàn toàn do ta quyết định; một phần do thế giới quyết định thay ta.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Hạnh nhân và nỗi sợ",
+      "section": "Cảm xúc: hạnh nhân và phản ứng nhanh",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Học nỗi sợ",
+        "Lưu giữ nỗi sợ",
+        "Thể hiện nỗi sợ"
+      ],
+      "notes": "LeDoux: hạnh nhân là thành phần quan trọng của hệ thống này, chủ yếu từ thí nghiệm trên động vật.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Từ động vật sang người",
+      "section": "Cảm xúc: hạnh nhân và phản ứng nhanh",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Phát hiện ở động vật áp dụng được cho não người"
+      ],
+      "notes": "Đừng hiểu hạnh nhân chỉ là trung tâm sợ hãi; bài chỉ nói vai trò trong nỗi sợ vì đó là phần được nghiên cứu nhiều nhất.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Não quyết định đâu là mối đe dọa",
+      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Não đánh giá mối đe dọa",
+        "Hormone căng thẳng được tiết ra",
+        "Cơ thể thích nghi hoặc hao mòn"
+      ],
+      "notes": "McEwen: căng thẳng ngắn hạn giúp thích nghi (allostasis); mãn tính làm hao mòn (allostatic load).",
+      "layout": "layers",
+      "tone": "light"
+    },
+    {
+      "title": "Căng thẳng mãn tính làm đổi não",
+      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Hải mã thay đổi cấu trúc",
+        "Hạnh nhân thay đổi cấu trúc",
+        "Vỏ não trước trán thay đổi cấu trúc",
+        "Vận động và hỗ trợ xã hội có thể giảm gánh nặng"
+      ],
+      "notes": "Tổng hợp của McEwen 2007.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Một thông báo, bốn hệ",
+      "section": "Ba hệ gặp nhau trong một tình huống",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S6"
+      ],
+      "bullets": [
+        "Thông báo kéo chú ý",
+        "Hệ thưởng muốn biết",
+        "Cảm xúc tham gia nếu đáng lo",
+        "Thùy trán cân nhắc"
+      ],
+      "notes": "Ví dụ minh họa do người viết đặt ra, đã đơn giản hóa nhiều. Không bước nào là lỗi của bạn.",
+      "layout": "sequence-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Thưởng phản ứng với điều khác dự đoán",
+        "Chú ý có hai hệ",
+        "Hạnh nhân tham gia học nỗi sợ",
+        "Căng thẳng mãn tính làm hao mòn dần",
+        "Thùy trán điều phối nhưng có giới hạn"
+      ],
+      "notes": "Bài sau (L06) về mạng xã hội và truyền thông.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Bài về cơ chế, không phải lời khuyên y tế",
+        "Căng thẳng, lo âu kéo dài: gặp chuyên gia"
+      ],
+      "notes": "Nghiên cứu về hạnh nhân chủ yếu dựa trên nỗi sợ ở động vật; không dùng để giải thích mọi cảm xúc.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 5 và 11",
+        "Schultz và cộng sự, Science, 1997",
+        "Berridge và Robinson, Brain Res Rev, 1998",
+        "LeDoux, Annu Rev Neurosci, 2000",
+        "McEwen, Physiol Rev, 2007"
+      ],
+      "notes": "Có thêm Corbetta và Shulman, Nat Rev Neurosci, 2002. Đường dẫn đầy đủ ở lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "title": "Freud, Jung và Adler",
+  "subtitle": "Khác · Bài L01",
+  "slides": [
+    {
+      "title": "Một nguồn, ba nhánh",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S5"
+      ],
+      "bullets": [
+        "Freud hỏi \"vì sao\", Jung hỏi \"phần nào bị bỏ rơi\", Adler hỏi \"để làm gì\"",
+        "Cùng thế hệ bác sĩ, cùng một nhóm quanh Freud",
+        "Adler rời năm 1911, Jung khoảng 1913"
+      ],
+      "notes": "Freud lập phân tâm học. Adler rời nhóm năm 1911, Jung khoảng 1913, mỗi người dựng một trường phái riêng. Bài tách sự kiện có ghi chép khỏi cách học giả diễn giải.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Vì sao hay nhắc cùng nhau",
+      "section": "Bối cảnh chung",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Thời đại: sinh năm 1856, 1870, 1875",
+        "Nơi chốn: Vienna và Zurich",
+        "Nghề: bác sĩ thần kinh và tâm thần",
+        "Cùng mở ra tâm lý học chiều sâu"
+      ],
+      "notes": "Freud và Adler ở Vienna, Jung ở Zurich. Freud là nhà thần kinh học, Jung bác sĩ tâm thần ở Burghölzli, Adler bắt đầu là bác sĩ mắt. Tâm lý học chiều sâu: nhiều điều chi phối ta nằm dưới mặt ý thức. Ba nhánh sông cùng một nguồn.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba xuất thân",
+      "section": "Xuất thân từng người",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "bullets": [
+        "Freud: 1856, Freiberg rồi Vienna: nhà thần kinh học",
+        "Jung: 1875, Thụy Sĩ, con mục sư: bác sĩ tâm thần",
+        "Adler: 1870, Vienna, nhà buôn ngũ cốc: bác sĩ mắt, đa khoa"
+      ],
+      "notes": "Freud tốt nghiệp y 1881, học Charcot ở Paris 1885–1886, làm với Breuer; Giải mã giấc mơ ra cuối 1899. Jung học y ở Basel, từ 1900 làm dưới Bleuler. Adler tốt nghiệp y Vienna 1895.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Tuổi thơ và học thuyết",
+      "section": "Xuất thân từng người",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Freud: cha mất, tự phân tích, giải mã giấc mơ",
+        "Jung: hai \"nhân cách\", thế giới nội tâm, tôn giáo",
+        "Adler: ốm yếu thuở nhỏ, quyết làm bác sĩ, vượt yếu kém"
+      ],
+      "notes": "Đây là diễn giải của học giả, không phải sự kiện chắc chắn. Jung kể trong tự truyện về hai nhân cách thuở nhỏ. Chi tiết tuổi thơ Adler dựa nhiều vào lời kể của chính ông. Việc Freud mời Adler vào nhóm hay ông tự đến vẫn được tranh luận.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Các mốc chính",
+      "section": "Mối quan hệ giữa ba người",
+      "sources": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "bullets": [
+        "1902: nhóm thảo luận tại nhà Freud",
+        "3/1907: Freud gặp Jung, nói chuyện 13 giờ",
+        "1909: cùng sang Mỹ thuyết trình",
+        "1911: Adler rời hội, lập nhóm riêng",
+        "1913: thư từ Freud–Jung chấm dứt",
+        "1914: Jung từ chức chủ tịch"
+      ],
+      "notes": "Năm có thể lệch theo nguồn. 13 giờ là theo lời kể của Jung. 1910: Jung làm chủ tịch đầu tiên Hội Phân tâm quốc tế, Adler chủ tịch Hội Vienna. Từ 1912 trường phái của Adler gọi là Tâm lý học cá nhân.",
+      "layout": "timeline",
+      "tone": "light"
+    },
+    {
+      "title": "Hai cuộc chia tay",
+      "section": "Mối quan hệ giữa ba người",
+      "sources": [
+        "S1",
+        "S5"
+      ],
+      "bullets": [
+        "Adler (1911): tự ti và xã hội trên tính dục",
+        "Jung (1913): libido là năng lượng chung, thêm thần thoại",
+        "Freud thấy: Adler bỏ cốt lõi, Jung nghiêng thần bí",
+        "Cả hai: bất đồng ý tưởng cộng xung đột cá nhân"
+      ],
+      "notes": "Cách Freud nhìn và việc Jung không muốn làm người thừa kế là diễn giải. Thư từ Freud–Jung cho thấy cả tình bạn lẫn căng thẳng quyền lực.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều gì thúc đẩy con người?",
+      "section": "So sánh theo tám trục",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Con người",
+        "Freud: bản năng, libido",
+        "Jung: trọn vẹn bản thân",
+        "Adler: vươn lên, thuộc về"
+      ],
+      "notes": "Trục 1. Freud ban đầu là libido, sau thêm bản năng gây hấn. Jung: năng lượng sống chung và nhu cầu trọn vẹn (individuation). Adler: đi từ thấp lên cao, từ thiếu sót tới hoàn thiện, cùng nhu cầu thuộc về.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Vô thức là gì?",
+      "section": "So sánh theo tám trục",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Ý thức: phần ta biết",
+        "Freud: kho ham muốn bị nén (tảng băng)",
+        "Jung: vô thức cá nhân + tập thể (đáy biển chung)",
+        "Adler: mục tiêu của mình mà ta chưa hiểu"
+      ],
+      "notes": "Trục 2. Tảng băng chìm là ẩn dụ phổ biến, thường gán cho Freud. Jung: vô thức tập thể chứa nguyên mẫu (archetype) chung của loài người. Adler: không phải một căn hầm riêng.",
+      "layout": "layers",
+      "tone": "dark"
+    },
+    {
+      "title": "Quá khứ hay tương lai?",
+      "section": "So sánh theo tám trục",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Trục ngang: nhìn về quá khứ ↔ nhìn về mục đích",
+        "Trục dọc: từ bên trong ↔ từ quan hệ với người",
+        "Freud: tuổi thơ và bản năng",
+        "Jung: hướng tới trọn vẹn, từ bên trong",
+        "Adler: mục tiêu tương lai, trong quan hệ",
+        "Ô còn trống trong cách sắp xếp này"
+      ],
+      "notes": "Trục 3. Cách sắp xếp chỉ để dễ nhớ, không phải phân loại chính thức. Jung đứng cả hai phía: triệu chứng có thể do quá khứ, biểu tượng cũng chỉ hướng phát triển. Freud hỏi vì sao, Adler hỏi để làm gì.",
+      "layout": "2x2-matrix",
+      "tone": "light"
+    },
+    {
+      "title": "Tính dục và xã hội",
+      "section": "So sánh theo tám trục",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Freud: tính dục trung tâm; xã hội kiềm chế bản năng",
+        "Jung: libido là năng lượng chung; xã hội là mặt nạ",
+        "Adler: tính dục phụ; cảm giác cộng đồng là trung tâm"
+      ],
+      "notes": "Trục 4 và 5. Freud mô tả các giai đoạn phát triển tâm tính dục; quy tắc xã hội được nuốt vào thành siêu ngã. Jung: persona là mặt nạ xã hội. Adler: social interest, gồm gia đình và thứ tự sinh.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Giấc mơ, tôn giáo, biểu tượng",
+      "section": "So sánh theo tám trục",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "bullets": [
+        "Freud: ham muốn cải trang: tôn giáo là ảo tưởng",
+        "Jung: thông điệp bù đắp: tôn giáo là tự nhiên",
+        "Adler: diễn tập mục tiêu: không là trung tâm"
+      ],
+      "notes": "Trục 6. Freud: giấc mơ là con đường chính vào vô thức. Jung: biểu tượng là ngôn ngữ, không phải ngụy trang. Adler: một số học giả đọc ý niệm Thượng đế như khát vọng hoàn thiện (diễn giải).",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Rối loạn và cách trị",
+      "section": "So sánh theo tám trục",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Freud: xung đột bị nén; liên tưởng tự do, chuyển di",
+        "Jung: mất cân bằng; đối thoại với biểu tượng",
+        "Adler: nản lòng, cô lập; khích lệ, ký ức sớm"
+      ],
+      "notes": "Trục 7 và 8. Freud: nhiều buổi mỗi tuần, thường kéo dài. Jung: ngồi đối diện, tưởng tượng tích cực. Adler: ngồi đối diện, xem ký ức sớm nhất, thường ngắn hơn.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Bảng so sánh",
+      "section": "Bảng tóm tắt so sánh",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Động lực: Bản năng: Trọn vẹn: Vươn lên",
+        "Vô thức: Kho nén: Cá nhân + tập thể: Mục tiêu chưa hiểu",
+        "Hướng nhìn: Quá khứ: Cả hai: Tương lai",
+        "Tính dục · xã hội: Trung tâm, kiềm chế: Năng lượng chung, mặt nạ: Phụ, cộng đồng",
+        "Trị liệu: Liên tưởng: Biểu tượng: Khích lệ"
+      ],
+      "notes": "Bản đầy đủ tám hàng nằm trong lesson.md. Cột: Freud, Jung, Adler.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Sợ thất bại, ba cách nhìn",
+      "section": "Một tình huống, ba cách giải thích",
+      "sources": [],
+      "bullets": [
+        "Freud: nỗi sợ cũ từ nhỏ hiện lại; lần theo liên tưởng",
+        "Jung: phải luôn giỏi (mặt nạ); yếu đuối ở bóng tối",
+        "Adler: né để khỏi bẽ mặt; chia bước nhỏ, khích lệ",
+        "Vì sao? Phần nào bị bỏ rơi? Để làm gì?"
+      ],
+      "notes": "Ví dụ minh họa một người luôn sợ thất bại và né thử thách, không phải ca bệnh có thật.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Phê bình và phần còn lại",
+      "section": "Phê bình và hạn chế",
+      "sources": [
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "bullets": [
+        "Khó kiểm chứng (Popper)",
+        "Ca bệnh chọn lọc, không đối chứng",
+        "Thứ tự sinh: ảnh hưởng rất nhỏ",
+        "Quá trình ngoài ý thức, trị liệu trò chuyện",
+        "Liệu pháp tâm động học có hiệu quả (2010)",
+        "Hướng nội, mặt nạ, bóng tối thành từ thường dùng"
+      ],
+      "notes": "Bên trái bị chỉ trích, bên phải còn ảnh hưởng. Popper dùng Freud và Adler làm ví dụ thuyết khó bác bỏ, dù có học giả cho Popper chưa công bằng. Nghiên cứu thứ tự sinh 2015 trên mẫu Mỹ, Anh, Đức. Tổng quan 2010 của Shedler cũng có tranh luận về phương pháp.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Nhớ mỗi người một câu",
+      "section": "Kết luận",
+      "sources": [],
+      "bullets": [
+        "Freud: bản năng và quá khứ đẩy ta đi",
+        "Jung: hành trình trọn vẹn qua biểu tượng",
+        "Adler: vươn lên mục tiêu, cùng người khác",
+        "Chung: điều ta không nhận ra vẫn tác động",
+        "Dùng: ba thấu kính, không cần chọn ai đúng"
+      ],
+      "notes": "Giữ trung lập: ba cách nhìn bổ sung nhau.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Bài về lịch sử và ý tưởng, không phải lời khuyên y tế",
+        "Ví dụ sợ thất bại chỉ để minh họa, không chẩn đoán",
+        "Lo âu kéo dài: gặp bác sĩ hoặc chuyên gia tâm lý"
+      ],
+      "notes": "Nỗi sợ hoặc lo âu kéo dài, ảnh hưởng công việc và đời sống nên được trao đổi với chuyên gia.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "bullets": [
+        "S1–S2: Ellenberger, 1970; Freud, Giải mã giấc mơ, 1900",
+        "S3–S4: Jung, Memories, Dreams, Reflections; Adler, Understanding Human Nature",
+        "S5: McGuire (biên tập), The Freud/Jung Letters, 1974",
+        "S6: Popper, Conjectures and Refutations, 1963",
+        "S7–S8: Shedler, 2010; Rohrer và cộng sự, PNAS, 2015"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

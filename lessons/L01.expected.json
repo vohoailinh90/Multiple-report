@@ -1,0 +1,24 @@
+{
+  "id": "L01",
+  "title": "Freud, Jung và Adler",
+  "topic": "khac",
+  "sections": ["Tóm tắt", "Bối cảnh chung", "Xuất thân từng người", "Mối quan hệ giữa ba người", "So sánh theo tám trục",
+               "Bảng tóm tắt so sánh", "Một tình huống, ba cách giải thích", "Phê bình và hạn chế", "Kết luận", "Lưu ý",
+               "Nguồn tham khảo"],
+  "sources": {
+    "S1": "",
+    "S2": "",
+    "S3": "",
+    "S4": "",
+    "S5": "",
+    "S6": "",
+    "S7": "https://doi.org/10.1037/a0018378",
+    "S8": "https://doi.org/10.1073/pnas.1506451112"
+  },
+  "min_words": 1500,
+  "max_words": 2800,
+  "min_citations": 8,
+  "key_terms": ["phân tâm học", "vô thức tập thể", "nguyên mẫu", "cảm giác cộng đồng", "libido"],
+  "language": "vi",
+  "slides": {"min": 14, "max": 20}
+}

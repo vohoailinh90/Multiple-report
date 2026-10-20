@@ -1,0 +1,172 @@
+{
+  "title": "Bản đồ não: các bộ phận lớn làm gì",
+  "subtitle": "Não bộ · Bài L01",
+  "slides": [
+    {
+      "title": "Não là các bộ phận phối hợp",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "bullets": [
+        "Thân não: giữ các chức năng sống còn",
+        "Hệ viền: cảm xúc, trí nhớ",
+        "Vỏ não: bốn thùy lo cảm giác, nghĩ, làm"
+      ],
+      "notes": "Cách chia não thành vài bộ phận lớn chỉ để dễ học. Bài này vẽ bản đồ ở mức đại khái; các bài sau vào tế bào và chất hóa học.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Hệ thần kinh: trung ương và ngoại biên",
+      "section": "Hệ thần kinh: bức tranh chung",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Trung ương: não và tủy sống",
+        "Ngoại biên: dây thần kinh khắp cơ thể",
+        "Ngoại biên có nhánh thân thể và nhánh tự chủ"
+      ],
+      "notes": "Nhánh thân thể mang cảm giác về và lệnh cử động đi. Nhánh tự chủ điều khiển tim, tiêu hóa, phần lớn không cần ta để ý.",
+      "layout": "connection-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Quy mô của não",
+      "section": "Hệ thần kinh: bức tranh chung",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "86 tỷ nơron",
+        "Chỉ khoảng 19% nằm ở vỏ não",
+        "Con số 100 tỷ trước đây không đếm trực tiếp"
+      ],
+      "notes": "Ước tính trực tiếp trên não người trưởng thành. Vỏ não chiếm phần lớn khối lượng nhưng chứa ít nơron hơn nhiều người tưởng.",
+      "layout": "one-big-number",
+      "tone": "light"
+    },
+    {
+      "title": "Thân não và tiểu não",
+      "section": "Thân não và tiểu não",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Tiểu não: thăng bằng, phối hợp, kỹ năng vận động",
+        "Thân não: nhịp thở, nhịp tim, tỉnh táo",
+        "Thân não gồm hành tủy, cầu não, não giữa"
+      ],
+      "notes": "Thân não ở đáy não, nối với tủy sống; tổn thương ở đây thường nghiêm trọng. Tiểu não không ra lệnh cử động mà chỉnh cho mượt và chính xác.",
+      "layout": "layers",
+      "tone": "dark"
+    },
+    {
+      "title": "Hệ viền và các cấu trúc nằm sâu",
+      "section": "Hệ viền và các cấu trúc nằm sâu",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Hạnh nhân: cảm xúc, phản ứng với đe dọa",
+        "Hải mã: hình thành trí nhớ mới",
+        "Đồi thị: trạm chuyển tiếp thông tin giác quan",
+        "Vùng dưới đồi: đói, khát, thân nhiệt, hormone"
+      ],
+      "notes": "Cách chia hệ viền là quy ước tiện cho việc học; còn tranh luận cấu trúc nào thuộc về nó. Hạnh nhân cũng không chỉ lo chuyện sợ hãi.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Bốn thùy của vỏ não",
+      "section": "Vỏ não và bốn thùy",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Trán: kế hoạch, quyết định, kiểm soát",
+        "Đỉnh: cảm giác cơ thể, không gian",
+        "Thái dương: nghe, ngôn ngữ, trí nhớ",
+        "Chẩm: xử lý hình ảnh"
+      ],
+      "notes": "Mỗi bán cầu có đủ bốn thùy. Thùy trán và hai bán cầu có bài riêng (L04).",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Một việc nhỏ dùng nhiều vùng",
+      "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "bullets": [
+        "Nghe tên mình: thái dương",
+        "Nhận ra giọng quen: hải mã và vỏ não",
+        "Quyết định trả lời: thùy trán",
+        "Cử động: vùng vận động và tiểu não"
+      ],
+      "notes": "Ví dụ minh họa, đã được đơn giản hóa, không phải mô tả đầy đủ của từng bước.",
+      "layout": "flow",
+      "tone": "light"
+    },
+    {
+      "title": "Vùng X quan trọng, không phải duy nhất",
+      "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "bullets": [
+        "Chức năng là kết quả của cả mạng lưới",
+        "\"X làm Y\" nghĩa là X quan trọng cho Y"
+      ],
+      "notes": "Bản đồ là cách học, không mô tả hoàn toàn đúng thực tế.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Trung ương là não và tủy sống",
+        "Thân não giữ sự sống, tiểu não chỉnh cử động",
+        "Cấu trúc sâu: cảm xúc, trí nhớ, nhu cầu",
+        "Vỏ não có bốn thùy, cần phối hợp"
+      ],
+      "notes": "Bốn ý chốt của bài.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 2",
+        "Azevedo và cộng sự, J Comp Neurol, 2009",
+        "NINDS, Know Your Brain",
+        "Society for Neuroscience, Brain Facts, 2018"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

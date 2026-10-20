@@ -1,0 +1,19 @@
+{
+  "id": "L01",
+  "title": "Bản đồ não: các bộ phận lớn làm gì",
+  "topic": "nao-bo",
+  "sections": ["Tóm tắt", "Hệ thần kinh: bức tranh chung", "Thân não và tiểu não", "Hệ viền và các cấu trúc nằm sâu",
+               "Vỏ não và bốn thùy", "Đừng hiểu \"mỗi vùng một việc\" quá đà", "Điều cần nhớ", "Nguồn tham khảo"],
+  "sources": {
+    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
+    "S2": "https://doi.org/10.1002/cne.21974",
+    "S3": "https://www.ninds.nih.gov/publications/know-your-brain-brain-basics",
+    "S4": "https://www.brainfacts.org/book"
+  },
+  "min_words": 700,
+  "max_words": 2500,
+  "min_citations": 6,
+  "key_terms": ["hệ thần kinh trung ương", "thân não", "tiểu não", "hệ viền", "vỏ não", "thùy trán"],
+  "language": "vi",
+  "slides": {"min": 8, "max": 12}
+}

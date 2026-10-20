@@ -89,6 +89,7 @@ def check(root, lid):
         name, L = s["title"], s["layout"]
         bl = s.get("bullets", [])
         if L not in LAYOUTS: errs.append(f"unknown layout {L}: {name}"); continue
+        if len(name) > 90: errs.append(f"title>90: {name}")
         if L == "references":
             if len(bl) > 18: errs.append(f"too many references on one slide: {name}")
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]

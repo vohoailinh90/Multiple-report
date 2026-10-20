@@ -332,7 +332,10 @@ def images(p, s, px, py, pw, ph):
     for k, im in enumerate(imgs):
         cx = px + k * (cw + gap)
         out.append(f'<rectangle x="{cx:.0f}" y="{py}" width="{cw:.0f}" height="{ph}" corner-radius="28" fill="#FFFFFF" stroke="{p["diagline"]}" stroke-width="3"/>')
-        fid = FILE_IDS[Path(im["file"]).name]
+        name = Path(im["file"]).name
+        if name not in FILE_IDS:
+            raise SystemExit(f"{name} has no Moda id: upload it (upload url=...) and add it to scripts/deckgen/file_ids.json")
+        fid = FILE_IDS[name]
         out.append(f'<image src="{fid}" x="{cx + 20:.0f}" y="{py + 20}" width="{cw - 40:.0f}" height="{ph - 40}" fit="contain"/>')
     credits = "; ".join(dict.fromkeys(im["credit"] for im in imgs))
     out.append(f'<text x="{M}" y="892" width="1728" height="36" font-size="22" color="{p["sub"]}" max-lines="1">Hình: {x(credits)}</text>')

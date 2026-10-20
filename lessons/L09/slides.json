@@ -1,0 +1,973 @@
+{
+  "title": "Cảm xúc cơ bản và mạch thần kinh",
+  "subtitle": "Ham muốn, thích, sợ, giận, yêu thương, đau buồn: mạch nào, chất nào, và tranh luận nào",
+  "slides": [
+    {
+      "title": "Khi bạn sợ, giận hay nhớ một người, não đang chạy một mạng lưới",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Không cảm xúc nào nằm gọn trong một vùng: mỗi phản ứng cảm xúc huy động một mạng lưới trải gần khắp não [S1]",
+        "Phần tạo cảm xúc cơ bản nằm sâu dưới vỏ não [S1]"
+      ],
+      "notes": "Câu hỏi mở bài là câu hỏi đời thường, nhưng câu trả lời của khoa học thần kinh có một điểm chung: không có ô nào trong não chứa sẵn một cảm xúc. Giáo trình nền viết rằng phản ứng cảm xúc huy động mạng lưới, nhiều phần của não cùng hoạt động, và các mạch liên quan đến cảm xúc gần như là cả bộ não. Phần tạo cảm xúc cơ bản nằm sâu dưới vỏ não. Cả bài sẽ quay lại ý này nhiều lần, nên hãy giữ nó trong đầu khi đọc từng cảm xúc. Chỗ dễ nhầm: 'mạng lưới' không có nghĩa là mọi vùng làm cùng một việc; mỗi cảm xúc có những vùng góp phần nhiều hơn, và bài sẽ gọi tên chúng."
+    },
+    {
+      "title": "Sáu hệ cảm xúc của giáo trình, ba ý xuyên suốt",
+      "section": "Tóm tắt",
+      "sources": [
+        "S2",
+        "S7",
+        "S8",
+        "S14"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Sáu hệ: ham muốn, thích, sợ, giận, yêu thương, đau buồn [S2]",
+        "Đang tranh luận: có hệ cảm xúc cơ bản [S7] hay cảm xúc được kiến tạo [S8]",
+        "Mạch đổi theo kinh nghiệm: ở chuột, môi trường chỉnh lại nhân accumbens [S14]"
+      ],
+      "notes": "Giáo trình Hove và Martinez chia sáu hệ: ham muốn, thích, sợ, giận, yêu thương và gắn bó, đau buồn và cô đơn. Mỗi hệ có một thẻ hồ sơ bảy ý giống nhau để so sánh. Ba ý xuyên suốt: thứ nhất, cảm xúc là mạng lưới chứ không phải điểm; thứ hai, chính câu hỏi có cảm xúc cơ bản hay không đang được tranh luận giữa Panksepp, nhóm Barrett và LeDoux; thứ ba, kinh nghiệm có thể chỉnh lại mạch, ít nhất là ở chuột. Bài gắn ba nhãn mức chắc chắn: giáo khoa, đang tranh luận, và suy luận của người viết. Khi nghe 'sáu cảm xúc cơ bản', đừng hiểu đó là danh sách mọi nhà khoa học đồng ý; đó là cách chia của một giáo trình."
+    },
+    {
+      "title": "Khoa học thần kinh cảm xúc nghiên cứu gì",
+      "section": "Khoa học thần kinh nghiên cứu cảm xúc thế nào",
+      "sources": [
+        "S1"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Khoa học thần kinh cảm xúc** (affective neuroscience) tìm hiểu não và hệ thần kinh tạo ra phản ứng cảm xúc như thế nào [S1]. Giáo trình dùng định nghĩa của Izard: cảm xúc gồm thay đổi trên cơ thể như nét mặt, thay đổi hoạt động của **hệ thần kinh tự chủ**, trạng thái cảm nhận chủ quan, và thôi thúc hành động theo một hướng [S1]. Ngành này dùng các thước đo quan sát được, để người khác kiểm lại, và hướng tới cách điều trị rối loạn cảm xúc dựa trên sinh học [S1].",
+      "bullets": [
+        "Đo gì: cơ thể, hệ tự chủ, cảm nhận, thôi thúc hành động",
+        "Dùng để làm gì: hiểu và điều trị rối loạn cảm xúc",
+        "Mức chắc chắn: giáo khoa"
+      ],
+      "notes": "Định nghĩa của Izard mà giáo trình dùng chia cảm xúc thành bốn phần đo được: thay đổi trên cơ thể như nét mặt, thay đổi hệ thần kinh tự chủ như nhịp tim, trạng thái cảm nhận chủ quan, và thôi thúc hành động. Lợi ích của định nghĩa này là nó biến một từ mơ hồ thành bốn thứ có thể đo hoặc hỏi. Ví dụ của người viết: khi bạn hồi hộp trước buổi phỏng vấn, nét mặt căng, tim đập nhanh, bạn thấy lo, và bạn muốn chuẩn bị thêm. Đó là bốn phần của cùng một cảm xúc. Giáo trình cũng nói mục tiêu thực tế của ngành: hiểu cơ sở sinh học để tìm cách điều trị các rối loạn cảm xúc như trầm cảm và rối loạn lưỡng cực."
+    },
+    {
+      "title": "Đo cảm xúc bằng gì",
+      "section": "Khoa học thần kinh nghiên cứu cảm xúc thế nào",
+      "sources": [
+        "S1",
+        "S4",
+        "S7"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Ở người: EEG, fMRI và người bị tổn thương não [S1]",
+        "Giới hạn: fMRI chưa xem được từng nhân nhỏ như ở động vật [S4]",
+        "Ở động vật: cấy điện cực, gây tổn thương, đưa hormone vào [S1]",
+        "Kích thích điện: con vật tìm hoặc tránh kích thích, như phần thưởng hoặc phạt [S7]"
+      ],
+      "notes": "Ở người, nhà nghiên cứu chủ yếu dùng điện não đồ và cộng hưởng từ chức năng, cộng với các ca tổn thương não do tai nạn hay bệnh. Những kỹ thuật này cho biết vùng nào hoạt động cùng lúc với cảm xúc. Nhưng fMRI chưa phân biệt được từng nhân nhỏ bên trong một cấu trúc, điều mà nghiên cứu xâm lấn ở động vật làm được. Ở động vật, người ta cấy điện cực, gây tổn thương có chủ đích, đưa hormone vào. Panksepp nhấn mạnh kích thích điện vùng dưới vỏ dễ gây phản ứng cảm xúc mạnh, và con vật chủ động tìm hoặc tránh kích thích đó. Chỗ dễ nhầm: 'vùng X sáng lên trên fMRI' là tương quan, không chứng minh vùng X gây ra cảm xúc."
+    },
+    {
+      "title": "Cảm xúc (emotion) khác cảm giác (feeling)",
+      "section": "Khoa học thần kinh nghiên cứu cảm xúc thế nào",
+      "sources": [
+        "S10",
+        "S12",
+        "S15"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Cảm xúc: phản ứng đo được trên hành vi, cơ thể và thần kinh; có thể xảy ra mà người đó không nhận ra [S10]",
+        "Cảm giác: trải nghiệm có ý thức, chỉ biết qua lời kể; LeDoux cho rằng mạch sinh tồn không trực tiếp gây ra nó [S12]",
+        "Cảm nhận nội thân (interoception) có thể là nền cho cảm giác chủ quan, theo Craig [S15]"
+      ],
+      "notes": "Đây là phân biệt quan trọng nhất của mục này. 'Cảm xúc' theo nghĩa hẹp là phản ứng đo được: nét mặt, nhịp tim, hành vi, hoạt động thần kinh. 'Cảm giác' là điều người đó tự trải nghiệm và kể lại. Berridge và Kringelbach cho thấy phản ứng 'thích' có thể xảy ra mà người đó không nhận ra. LeDoux cho rằng mạch sinh tồn không trực tiếp gây ra cảm giác. Craig mô tả hệ cảm nhận nội thân, báo về tình trạng cơ thể, như nền có thể có của cảm giác. Ví dụ của người viết: tim đập nhanh khi suýt bị xe đâm là phần cảm xúc; câu 'sợ quá' bạn tự nói sau đó là phần cảm giác. Hai phần thường đi cùng nhau nhưng không phải là một."
+    },
+    {
+      "title": "Những cấu trúc tham gia xử lý cảm xúc",
+      "section": "Khoa học thần kinh nghiên cứu cảm xúc thế nào",
+      "sources": [
+        "S1"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "Nhiều cấu trúc tham gia, phần lớn nằm sâu dưới vỏ não [S1]. Cùng một cấu trúc sẽ xuất hiện trong nhiều cảm xúc ở các mục sau. Giáo trình lưu ý rằng nghiên cứu sau có thể tìm thêm vùng quan trọng [S1].",
+      "bullets": [
+        "Amygdala: hạnh nhân",
+        "Periaqueductal gray: chất xám quanh cống não",
+        "Nucleus accumbens: nhân accumbens"
+      ],
+      "images": [
+        {
+          "file": "images/cau-truc-cam-xuc.png",
+          "alt": "Một số cấu trúc tham gia xử lý cảm xúc",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/"
+        }
+      ],
+      "notes": "Hình của giáo trình đánh dấu một số trong nhiều cấu trúc liên quan đến cảm xúc: vỏ não trán ổ mắt, nhân accumbens, vùng trước thị, vùng dưới đồi, hạnh nhân, dải tận, chất xám quanh cống não, đồi thị và vỏ não thị giác. Hầu hết nằm sâu bên dưới vỏ não. Các cấu trúc như hạnh nhân, vùng dưới đồi, nhân accumbens có thẻ hồ sơ đầy đủ ở L07; bài này chỉ dùng tên của chúng khi mô tả mạch. Giáo trình tự nói: nghiên cứu trước đây tập trung vào vài cấu trúc cụ thể, và nghiên cứu sau có thể tìm thêm vùng quan trọng. Chỗ dễ nhầm: hình này không phải bản đồ 'mỗi vùng một cảm xúc'."
+    },
+    {
+      "title": "Panksepp: bảy hệ cảm xúc nguyên thủy",
+      "section": "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
+      "sources": [
+        "S7"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Jaak Panksepp** cho rằng mọi loài có vú có các mạng cảm xúc mang giá trị dương và âm, nằm ở vùng não tương đồng [S7]. Ông mô tả bảy hệ, viết hoa để khỏi lẫn với từ thường: SEEKING, RAGE, FEAR, LUST, CARE, PANIC/GRIEF, PLAY [S7]. Bằng chứng: kích thích điện vùng dưới vỏ gây phản ứng cảm xúc chưa qua học; mạch nằm ở vùng tương đồng giữa các loài; thôi thúc như chơi đùa vẫn còn sau khi vỏ não mới bị cắt bỏ từ sớm [S7].",
+      "bullets": [
+        "Mức chắc chắn: giả thuyết, có người ủng hộ và phản bác",
+        "Nền của giáo trình: mục 10.2 dẫn Panksepp nhiều lần",
+        "Đừng hiểu nhầm: không nói vỏ não vô dụng"
+      ],
+      "notes": "Trong bài năm 2011, Jaak Panksepp tóm tắt bằng chứng cho bảy hệ cảm xúc ở mọi loài có vú: SEEKING, RAGE, FEAR, LUST, CARE, PANIC/GRIEF và PLAY. Chữ in hoa là cố ý: ông muốn phân biệt hệ thần kinh với từ ngữ thường ngày, và nói rõ không khẳng định chúng trùng với nghĩa từ thường. Bằng chứng chính là kích thích điện vùng dưới vỏ, sự tương đồng giữa các loài, và việc các thôi thúc như chơi đùa vẫn còn sau khi vỏ não mới bị cắt bỏ từ sớm. Chỗ dễ nhầm: đây là lập trường của Panksepp, không phải điều mọi người đồng ý; mục này sẽ trình bày cả người phản bác."
+    },
+    {
+      "title": "Ba tầng xử lý cảm xúc theo Panksepp",
+      "section": "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
+      "sources": [
+        "S7"
+      ],
+      "layout": "layers",
+      "tone": "dark",
+      "bullets": [
+        "Tầng tam cấp: suy nghĩ, nghiền ngẫm, tự điều chỉnh, ở vỏ não trán giữa [S7]",
+        "Tầng thứ cấp: học tập và ghi nhớ, như điều kiện hóa nỗi sợ [S7]",
+        "Tầng sơ cấp: các hệ cảm xúc bẩm sinh dưới vỏ não [S7]"
+      ],
+      "notes": "Panksepp không nói mọi thứ nằm dưới vỏ não. Ông xếp ba tầng lồng vào nhau. Tầng sơ cấp là các hệ cảm xúc bẩm sinh dưới vỏ. Tầng thứ cấp là học tập và ghi nhớ, ví dụ điều kiện hóa nỗi sợ. Tầng tam cấp là suy nghĩ, nghiền ngẫm và tự điều chỉnh, tập trung ở vỏ não trán giữa. Theo ông, vai trò chính của vỏ não là điều chỉnh: duy trì cảm xúc bằng nghiền ngẫm hoặc làm dịu nó. Ông còn thừa nhận cảm xúc phức tạp hơn có thể được 'kiến tạo' qua khái niệm, nhưng cho rằng đó không phải toàn bộ câu chuyện. Điểm này giúp thấy hai phe không hoàn toàn đối lập: họ khác nhau ở chỗ tầng nào quyết định."
+    },
+    {
+      "title": "Barrett: cảm xúc được kiến tạo",
+      "section": "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
+      "sources": [
+        "S9"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Lisa Feldman Barrett** cho rằng cách nhìn cổ điển bắt đầu từ các từ cảm xúc quen thuộc rồi đi tìm dấu vân tay sinh học cho từng từ [S9]. Lý thuyết **cảm xúc kiến tạo** (constructed emotion) của bà nói não dùng khái niệm cảm xúc để phân loại cảm giác, và phân loại đó tạo ra một trường hợp cảm xúc [S9]. 'Sợ' là một phạm trù gồm những trường hợp rất khác nhau, không cần chung một nhóm nơron; nhiều mạch khác nhau có thể tạo ra cùng một loại cảm xúc [S9].",
+      "bullets": [
+        "Mức chắc chắn: giả thuyết, đang tranh luận",
+        "Thoái hóa (degeneracy): nhiều mạch, cùng một kết quả",
+        "Đừng hiểu nhầm: kiến tạo không có nghĩa là giả"
+      ],
+      "notes": "Lisa Feldman Barrett đi theo hướng ngược lại. Bà cho rằng cách tiếp cận cổ điển bắt đầu từ các từ cảm xúc quen thuộc trong tiếng Anh rồi đi tìm dấu vân tay sinh học cho từng từ. Lý thuyết của bà nói não dùng khái niệm cảm xúc để phân loại cảm giác, và chính sự phân loại đó tạo ra một trường hợp cảm xúc. Bà mượn cách nghĩ quần thể của Darwin: một loài là tập hợp cá thể rất khác nhau, và 'sợ' cũng là tập hợp những lần sợ rất khác nhau. Khái niệm thoái hóa nghĩa là nhiều mạch khác nhau tạo ra cùng một loại kết quả. Chỗ dễ nhầm: 'kiến tạo' không có nghĩa cảm xúc là giả hay do ta tự bịa; nó nói về cách não tạo ra cảm xúc."
+    },
+    {
+      "title": "Lindquist và cộng sự 2012: phân tích gộp ảnh chụp não",
+      "section": "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
+      "sources": [
+        "S8"
+      ],
+      "layout": "numbered-rows",
+      "tone": "dark",
+      "bullets": [
+        "Ít bằng chứng rằng mỗi loại cảm xúc định vị nhất quán và đặc hiệu vào một vùng riêng [S8]",
+        "Một tập vùng não tương tác, cũng làm việc không phải cảm xúc, hoạt động trên nhiều loại cảm xúc [S8]",
+        "Hạnh nhân hoạt động khi nhìn nét mặt sợ, nhưng cũng với cảm xúc khác: không đặc hiệu cho sợ [S8]",
+        "Tự nêu giới hạn: fMRI có thể bỏ sót chuyên biệt ở mức mạch nhỏ hơn [S8]"
+      ],
+      "notes": "Nhóm Lindquist gộp các nghiên cứu hình ảnh não về cảm xúc ở người để so hai giả thuyết: định vị, mỗi cảm xúc một vùng riêng ổn định, và kiến tạo tâm lý, cảm xúc dựng từ các mạng chung. Họ thấy ít bằng chứng cho định vị. Ví dụ hạnh nhân hoạt động nhất quán hơn khi nhìn nét mặt sợ, nhưng cùng những điểm đó cũng hoạt động với giận, ghê, vui, buồn, nên không đặc hiệu. Điều đáng quý là chính họ nêu cách hiểu khác: fMRI có thể bỏ sót chuyên biệt ở mức mạch nhỏ; và có mạch rõ cho từng hành vi ở thú, như đứng im hay tấn công, dù họ gọi đó là thao tác cơ bản. Khi trích nghiên cứu này, nhớ nó nói về ảnh chụp não người, không về mạch ở chuột."
+    },
+    {
+      "title": "Ai nói gì: ba cách gọi cùng những mạch dưới vỏ",
+      "section": "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
+      "sources": [
+        "S7",
+        "S8",
+        "S12"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Cảm xúc cơ bản: Panksepp xem mạch dưới vỏ là hệ cảm xúc có cảm nhận, chung ở mọi loài có vú [S7]",
+        "Kiến tạo: Lindquist và Barrett xem chúng là thao tác cơ bản, nguyên liệu để não dựng cảm xúc [S8]",
+        "LeDoux: mạch sinh tồn không trực tiếp gây ra cảm giác; ông phê bình việc suy từ hành vi sang cảm giác [S12]"
+      ],
+      "notes": "Đặt ba bên cạnh nhau. Panksepp gọi các mạch dưới vỏ là hệ cảm xúc có cảm nhận. Lindquist và Barrett gọi chúng là thao tác cơ bản, nguyên liệu để não dựng cảm xúc. LeDoux, người có công lớn với mạch sợ, gọi chúng là mạch sinh tồn và tách hẳn khỏi cảm giác; ông còn phê bình đích danh Panksepp vì suy từ hành vi giống nhau sang cảm giác giống nhau. Cả ba đồng ý có mạch dưới vỏ chung giữa các loài và quan trọng cho sống còn. Bài không phân xử. Suy luận của người viết: khi gặp chữ 'mạch sợ' trong các slide sau, hãy đọc là 'mạch tạo ra hành vi mà các nhà nghiên cứu gọi là sợ ở động vật'."
+    },
+    {
+      "title": "Ham muốn: cảm xúc của việc đi tìm",
+      "section": "Ham muốn (desire)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Ham muốn** (desire) là cảm xúc thèm, đi tìm phần thưởng. Các nhà nghiên cứu gọi nó là 'muốn' (wanting), 'tìm kiếm' (seeking) hay độ nhạy kích hoạt hành vi [S2]. Khi hệ này được kích hoạt, cơ thể sống tỏ ra hăng hái, quan tâm và tò mò; nó thúc con vật di chuyển để tìm thức ăn ngon, bạn tình và các kích thích dễ chịu khác [S2]. Khi hệ này hoạt động quá yếu, con vật trông chán nản và bất lực [S2].",
+      "bullets": [
+        "Mức chắc chắn: giáo khoa (mô tả hành vi)",
+        "Làm gì: thúc đi tìm phần thưởng",
+        "Đừng hiểu nhầm: muốn không phải là thích"
+      ],
+      "notes": "Ham muốn là hệ đầu tiên trong sáu hệ. Các nhà nghiên cứu gọi nó bằng nhiều tên khác nhau: Berridge và Kringelbach gọi là 'muốn', Panksepp gọi là 'tìm kiếm', Gray gọi là độ nhạy kích hoạt hành vi. Dù tên khác nhau, họ mô tả cùng một kiểu trạng thái: hăng hái, tò mò, thúc con vật rời chỗ đứng yên để đi tìm. Ví dụ của người viết: cảm giác háo hức trước khi mở hộp quà, chưa biết bên trong có gì, đã đủ để bạn hành động. Chỗ dễ nhầm: ham muốn không phải khoái cảm. Bạn có thể rất muốn một thứ mà khi có rồi lại không thấy sướng; slide sau và mục 'Thích' sẽ tách hai thứ đó. Cơ chế dopamine như hệ thưởng thuộc L05."
+    },
+    {
+      "title": "Ham muốn: thẻ hồ sơ",
+      "section": "Ham muốn (desire)",
+      "sources": [
+        "S2",
+        "S10"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Mạch chính",
+          "text": "Vùng dưới đồi bên, hạnh nhân, nhân accumbens, vỏ não trán [S2]"
+        },
+        {
+          "label": "Chất liên quan",
+          "text": "Dopamine từ đường trung não - viền và trung não - vỏ (xem L03, L10) [S2]"
+        },
+        {
+          "label": "Vai trò thích nghi",
+          "text": "Tạo hào hứng, ý nghĩa, mong chờ; đẩy con vật đi tìm thứ nó cần [S2]"
+        },
+        {
+          "label": "Khi mất cân bằng",
+          "text": "Quá yếu: chán nản; liều cao thuốc đồng vận dopamine: thôi thúc cưỡng bức, ít khoái cảm [S2] [S10]"
+        },
+        {
+          "label": "Khác cảm giác",
+          "text": "Đo bằng việc con vật chịu làm việc bao nhiêu để có phần thưởng, tức đo hành vi [S2]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "\"Điện cực khoái cảm\" có lẽ tạo ra muốn nhiều hơn thích [S10]"
+        }
+      ],
+      "bullets": [],
+      "notes": "Thẻ này gom sáu ý còn lại của hồ sơ. Mạch chính đến từ thí nghiệm kích thích điện ở động vật: con vật nhấn cần để tự kích thích vùng dưới đồi bên. Dopamine là chất chính được giáo trình nêu; hồ sơ dopamine ở L03, còn ghép chất với cảm xúc ở L10. Khi mất cân bằng có hai chiều: quá yếu thì chán nản; chiều kia là các chất như cocaine và amphetamine tác động lên chính hệ này, và bệnh nhân Parkinson dùng liều cao thuốc đồng vận dopamine có thể nảy sinh thôi thúc cưỡng bức mà không thấy sướng nhiều. Ý 'đừng hiểu nhầm' quan trọng nhất: các điện cực từng được gọi là 'khoái cảm' có lẽ chủ yếu tạo ra muốn chứ không phải thích, theo diễn giải của Berridge và Kringelbach."
+    },
+    {
+      "title": "Mạch ham muốn",
+      "section": "Ham muốn (desire)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "connection-diagram",
+      "tone": "dark",
+      "bullets": [
+        "Vùng dưới đồi bên: chuột nhấn cần để tự kích thích điện [S2]",
+        "Dopamine từ não giữa hoạt hóa các vùng của hệ [S2]",
+        "Hạnh nhân, nhân accumbens: thành phần của hệ ham muốn [S2]",
+        "Vỏ não trán trái: hoạt động mạnh hơn khi ham muốn, hứng thú [S2]"
+      ],
+      "notes": "Sơ đồ đặt hệ ham muốn ở giữa và bốn thành phần quanh nó. Vùng dưới đồi bên là nơi kích thích điện làm chuột tự nhấn cần. Dopamine từ não giữa đi lên hạnh nhân, nhân accumbens và vỏ não trán, hoạt hóa các vùng này. Vỏ não trán trái hoạt động mạnh hơn trán phải khi ta ham muốn hay hứng thú. Chỗ dễ nhầm: sơ đồ chỉ nêu các thành phần giáo trình gọi tên, không phải toàn bộ mạch; hạnh nhân và nhân accumbens sẽ xuất hiện lại trong nhiều cảm xúc khác, đúng như mục 'Một cấu trúc, nhiều chức năng' nói. Cấu trúc của từng vùng xem L07."
+    },
+    {
+      "title": "Nhìn món ngon, trán trái hoạt động",
+      "section": "Ham muốn (desire)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "body": "Ở người và động vật, **vỏ não trán trái** hoạt động mạnh hơn trán phải khi ham muốn và hứng thú [S2]. Trẻ sơ sinh 2 đến 3 ngày tuổi tăng hoạt động trán trái khi nếm nước đường; người lớn đang đói cũng vậy khi xem hình món tráng miệng [S2].",
+      "bullets": [
+        "Left frontal cortex: vỏ não trán trái",
+        "Đo bằng: EEG và fMRI, tức tương quan"
+      ],
+      "images": [
+        {
+          "file": "images/mon-an-hap-dan.jpeg",
+          "alt": "Món ăn hấp dẫn",
+          "credit": "Noba, giấy phép Public Domain theo sách; Hove & Martinez, Hình 3 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/basic-emotions/"
+        }
+      ],
+      "notes": "Giáo trình dùng hình món kem để mở ý: chỉ nhìn hình món ăn hấp dẫn cũng có thể làm tăng hoạt động vỏ não trán trái. Bằng chứng: trẻ sơ sinh hai đến ba ngày tuổi tăng hoạt động trán trái khi được nhỏ nước đường lên lưỡi; người lớn đang đói cũng vậy khi xem hình món tráng miệng. Các nhà nghiên cứu đầu tiên còn ghi nhận tổn thương trán trái đi kèm trầm cảm, tổn thương trán phải đi kèm hưng cảm. Chỗ dễ nhầm: đây là hoạt động đi kèm, đo bằng EEG và fMRI, không phải bản thân cảm giác thèm, và chênh lệch trái phải không có nghĩa trán trái là 'trung tâm ham muốn'."
+    },
+    {
+      "title": "Thích: khoái cảm khi nhận được",
+      "section": "Thích (liking) và khoái cảm",
+      "sources": [
+        "S2",
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Thích** (liking) là khoái cảm khi nhận được phần thưởng. Mức ham muốn một phần thưởng không nhất thiết tương ứng với mức thích nó, và cấu trúc lo việc thưởng thức khác với cấu trúc lo việc ham muốn [S2]. Ở trẻ nhỏ và động vật, thích được đo bằng tốc độ liếm, động tác thè lưỡi và nét mặt vui; muốn được đo bằng mức sẵn sàng làm việc để có phần thưởng [S2]. Phản ứng thích có thể xảy ra mà người đó không nhận ra [S10].",
+      "bullets": [
+        "Mức chắc chắn: giáo khoa, kết quả chủ yếu từ chuột",
+        "Đo bằng: nét mặt với vị ngọt",
+        "Xem thêm: cơ chế dopamine ở L05"
+      ],
+      "notes": "Mục này tách khoái cảm khỏi ham muốn. Giáo trình nói thẳng: mức ham muốn không nhất thiết tương ứng với mức thích, và cấu trúc não lo việc thưởng thức khác với cấu trúc lo việc ham muốn. Ở trẻ nhỏ và động vật, 'thích' đo bằng nét mặt: liếm môi, thè lưỡi, mặt giãn ra khi nếm vị ngọt. 'Muốn' đo bằng mức chịu làm việc. Berridge và Kringelbach đặt 'thích' trong ngoặc kép để chỉ phản ứng khách quan, dù người đó có nhận ra mình đang thích hay không. Ví dụ của người viết: món ăn bạn mê hồi nhỏ, nay ăn lại vẫn thấy ngon, nhưng bạn không còn chạy đi tìm nó nữa; thích còn, muốn đã giảm. Cơ chế dopamine của 'muốn khác thích' thuộc L05."
+    },
+    {
+      "title": "Thích: thẻ hồ sơ",
+      "section": "Thích (liking) và khoái cảm",
+      "sources": [
+        "S2",
+        "S10"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Mạch chính",
+          "text": "Điểm nóng nhỏ trong nhân accumbens và nửa sau nhạt cầu bụng; vỏ não trán ổ mắt biểu diễn khoái cảm [S2] [S10]"
+        },
+        {
+          "label": "Chất liên quan",
+          "text": "Opioid và endocannabinoid (xem L03) [S2]"
+        },
+        {
+          "label": "Vai trò thích nghi",
+          "text": "Khoái cảm rất khác nhau kích hoạt mạch giống nhau, như một đồng tiền chung [S10]"
+        },
+        {
+          "label": "Khi mất cân bằng",
+          "text": "Mất khoái cảm (anhedonia); ở chuột, hỏng điểm nóng nhạt cầu bụng làm vị ngọt thành đáng ghê [S10]"
+        },
+        {
+          "label": "Khác cảm giác",
+          "text": "Phản ứng thích có thể vô thức; điểm tự chấm có thể lệch do cách hỏi [S10]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Dopamine không phải chất khoái cảm: tăng dopamine tăng muốn, không tăng thích [S10]"
+        }
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ của thích tập trung vào 'điểm nóng khoái cảm': những vùng rất nhỏ, ở chuột khoảng một milimét khối, trong nhân accumbens và nhạt cầu bụng. Chất liên quan là opioid và endocannabinoid, không phải dopamine. Vai trò thích nghi: khoái cảm báo cho cơ thể biết điều gì tốt, và nhiều loại khoái cảm khác nhau kích hoạt mạch giống nhau, như một đồng tiền chung. Khi mất cân bằng, mất khoái cảm có thể xuất hiện trong rối loạn cảm xúc; ở chuột, tổn thương điểm nóng nhạt cầu bụng làm vị ngọt trở nên đáng ghê. Chỗ dễ nhầm nhất: dopamine không phải chất khoái cảm; chuột gần như mất hết dopamine vẫn có nét mặt thích vị ngọt."
+    },
+    {
+      "title": "Mạch điểm nóng khoái cảm",
+      "section": "Thích (liking) và khoái cảm",
+      "sources": [
+        "S10"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Opioid loại mu vào điểm nóng nhân accumbens (khoảng 10% thể tích nhân, ở chuột) [S10]",
+        "Điểm nóng nhạt cầu bụng được kéo theo; hai điểm cần nhau [S10]",
+        "Phản ứng thích với vị ngọt tăng ít nhất gấp đôi [S10]",
+        "Điểm lạnh ngay cạnh: cùng kích thích làm giảm thích [S10]"
+      ],
+      "notes": "Sơ đồ đi theo một thí nghiệm điển hình trên chuột. Kích thích opioid loại mu vào điểm nóng ở phần trước của vỏ giữa nhân accumbens làm phản ứng thích với nước đường tăng ít nhất gấp đôi. Điểm nóng này nối chức năng với điểm nóng ở phần sau nhạt cầu bụng: kích thích một điểm kéo theo điểm kia, và chặn opioid ở một điểm làm điểm kia mất tác dụng. Ngay cạnh đó có điểm lạnh, nơi cùng kích thích làm giảm thích. Điểm nóng chỉ chiếm khoảng mười phần trăm thể tích nhân accumbens. Chỗ dễ nhầm: 'điểm nóng' là khái niệm của nhóm Berridge từ thí nghiệm trên chuột; ở người mới có suy đoán về kích thước."
+    },
+    {
+      "title": "Bằng chứng: dopamine không tạo ra khoái cảm",
+      "section": "Thích (liking) và khoái cảm",
+      "sources": [
+        "S10"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Chuột còn khoảng 1% dopamine vẫn có nét mặt thích vị ngọt [S10]",
+        "Bệnh nhân Parkinson vẫn chấm điểm thích vị ngọt bình thường [S10]",
+        "Tăng dopamine làm tăng muốn, không tăng thích [S10]",
+        "Người đề xuất giả thuyết dopamine là khoái cảm về sau đã rút lại [S10]"
+      ],
+      "notes": "Bốn dòng bằng chứng Berridge và Kringelbach tổng hợp. Chuột bị phá gần hết nơron dopamine, còn khoảng một phần trăm, vẫn giữ nguyên nét mặt thích vị ngọt. Bệnh nhân Parkinson thiếu dopamine nhiều vẫn chấm điểm thích vị ngọt bình thường. Tăng dopamine làm tăng 'muốn' mà không tăng 'thích'. Và chính Roy Wise, người đề xuất giả thuyết dopamine là khoái cảm, về sau đã rút lại, theo hai tác giả. Chỗ dễ nhầm: điều này không có nghĩa dopamine không liên quan đến phần thưởng; nó liên quan đến động lực, đến 'muốn'. L05 giải thích kỹ phần đó. Gọi dopamine là 'hormone hạnh phúc' là sai ở cả hai chữ."
+    },
+    {
+      "title": "Sợ: đứng im hay bỏ chạy",
+      "section": "Sợ (fear)",
+      "sources": [
+        "S2",
+        "S11"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Sợ** (fear) là cảm xúc khó chịu thúc đẩy né tránh những tình huống có thể gây hại [S2]. Kích thích nhẹ vùng não liên quan đến sợ làm con vật **đứng im** (freezing), kích thích mạnh làm nó bỏ chạy [S2]. LeDoux tổng kết rằng hạnh nhân là một thành phần quan trọng của hệ thống tiếp nhận, lưu giữ và thể hiện ký ức sợ, nhờ thí nghiệm **điều kiện hóa nỗi sợ** (fear conditioning) [S11].",
+      "bullets": [
+        "Mức chắc chắn: giáo khoa ở động vật",
+        "Đo bằng: đứng im, bỏ chạy, phản ứng cơ thể",
+        "Cấu trúc hạnh nhân: xem L07"
+      ],
+      "notes": "Sợ là cảm xúc được nghiên cứu nhiều nhất, chủ yếu nhờ thí nghiệm điều kiện hóa nỗi sợ ở chuột: một âm thanh đi kèm một cú sốc nhẹ, sau vài lần chỉ âm thanh cũng làm chuột đứng im. Giáo trình mô tả: kích thích nhẹ vùng liên quan đến sợ làm con vật đứng im, kích thích mạnh làm nó bỏ chạy. LeDoux tổng kết vai trò của hạnh nhân trong việc tiếp nhận, lưu giữ và thể hiện ký ức sợ, và cho biết kết quả từ động vật áp dụng được cho não người. Chỗ dễ nhầm: 'sợ' trong các thí nghiệm này là hành vi đo được, không phải cảm giác sợ; LeDoux cố ý tránh khái niệm 'cảm giác cảm xúc'."
+    },
+    {
+      "title": "Sợ: thẻ hồ sơ",
+      "section": "Sợ (fear)",
+      "sources": [
+        "S2",
+        "S6",
+        "S8",
+        "S12"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Mạch chính",
+          "text": "Nhân trung tâm hạnh nhân → chất xám quanh cống não ở não giữa [S2]"
+        },
+        {
+          "label": "Chất liên quan",
+          "text": "Glutamate, CRF, ACTH, neuropeptide; benzodiazepine ức chế; noradrenaline củng cố ký ức [S2] [S6]"
+        },
+        {
+          "label": "Vai trò thích nghi",
+          "text": "Học tín hiệu báo nguy: âm thanh vô nghĩa thành tín hiệu nguy hiểm [S12]"
+        },
+        {
+          "label": "Khi mất cân bằng",
+          "text": "Hỏng hạnh nhân: mất học sợ; ghi nhớ quá mạnh có thể góp phần vào lo âu, PTSD [S2] [S6]"
+        },
+        {
+          "label": "Khác cảm giác",
+          "text": "Mạch phòng vệ không trực tiếp gây ra cảm giác sợ, theo LeDoux [S12]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Hạnh nhân không phải trung tâm sợ hãi: nó phản ứng với cái mới, cái khó đoán [S8]"
+        }
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ của sợ. Mạch chính đi từ nhân trung tâm của hạnh nhân đến chất xám quanh cống não ở não giữa. Nhiều chất tham gia: glutamate, CRF, ACTH, các neuropeptide; benzodiazepine ức chế mạch này; noradrenaline ở phần đáy bên hạnh nhân giúp củng cố ký ức cảm xúc. Hồ sơ từng chất ở L03. Vai trò thích nghi: học được tín hiệu báo nguy hiểm. Khi mất cân bằng: tổn thương hạnh nhân làm hỏng việc học sợ; ngược lại, cơ chế ghi nhớ mạnh có thể góp phần vào lo âu và PTSD khi căng thẳng kéo dài. Chỗ dễ nhầm lớn nhất: hạnh nhân không phải trung tâm sợ hãi."
+    },
+    {
+      "title": "Hai con đường từ mắt đến hạnh nhân",
+      "section": "Sợ (fear)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "sequence-diagram",
+      "tone": "dark",
+      "bullets": [
+        "Mắt gửi tín hiệu về đồi thị [S2]",
+        "Đồi thị gửi thẳng tới hạnh nhân: nhanh, kém chính xác [S2]",
+        "Đồi thị gửi lên vỏ não thị giác [S2]",
+        "Vỏ não gửi tiếp tới hạnh nhân: chậm, chính xác hơn [S2]"
+      ],
+      "notes": "Đây là ví dụ kinh điển của giáo trình. Khi bạn thấy một con rắn, tín hiệu đi từ mắt tới đồi thị. Từ đồi thị có hai đường. Đường dài đi lên vỏ não thị giác, nơi hình ảnh được phân tích kỹ, rồi mới tới hạnh nhân. Đường ngắn đi thẳng từ đồi thị tới hạnh nhân, giúp cơ thể phản ứng trước khi ta nhận thức rõ đó là con rắn. Đường ngắn nhanh nhưng kém chính xác; đường dài chậm nhưng chính xác hơn. Ví dụ của người viết: bạn giật mình lùi lại vì một sợi dây thừng trên lối đi, rồi một giây sau mới thấy đó chỉ là dây. Chỗ dễ nhầm: 'trước khi nhận thức' không có nghĩa là hạnh nhân 'cảm thấy sợ' thay bạn."
+    },
+    {
+      "title": "Con rắn: phản ứng trước khi kịp nhận ra",
+      "section": "Sợ (fear)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "body": "Vì sợ quan trọng cho sống còn, não có thể 'nhận ra' kích thích đáng sợ trước khi ta nhận thức được nó [S2]. Tổn thương **hạnh nhân** hoặc phần bụng **hải mã** làm hỏng điều kiện hóa nỗi sợ ở cả người và động vật [S2].",
+      "bullets": [
+        "Fast pathway: đường nhanh đồi thị → hạnh nhân",
+        "Visual cortex: vỏ não thị giác, đường chậm"
+      ],
+      "images": [
+        {
+          "file": "images/con-ran.jpeg",
+          "alt": "Con rắn",
+          "credit": "Noba, giấy phép Public Domain theo sách; Hove & Martinez, Hình 4 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/basic-emotions/"
+        }
+      ],
+      "notes": "Hình con rắn trong giáo trình minh họa ý: vì sợ quan trọng cho sống còn, não có thể 'nhận ra' kích thích đáng sợ trước khi ta nhận thức được nó. Đây là kết quả của con đường ngắn từ đồi thị tới hạnh nhân ở slide trước. Giáo trình cũng nêu rằng tổn thương hạnh nhân hoặc phần bụng hải mã làm hỏng điều kiện hóa nỗi sợ ở cả người và động vật. Chỗ dễ nhầm: rắn được dùng làm ví dụ vì nó dễ hình dung; không có nghĩa mọi người đều sợ rắn, hay nỗi sợ rắn là hoàn toàn bẩm sinh ở người. Cấu trúc hải mã xem L07."
+    },
+    {
+      "title": "Đừng hiểu nhầm về sợ",
+      "section": "Sợ (fear)",
+      "sources": [
+        "S4",
+        "S8",
+        "S12"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Không phải trung tâm sợ: hạnh nhân còn hoạt động khi bất định và với cảm xúc tích cực [S4]",
+        "Sợ không cần hạnh nhân mọi lúc: chuẩn bị phát biểu lại làm giảm hoạt động hạnh nhân [S8]",
+        "Sợ không chỉ là đứng im: đứng im chủ yếu xảy ra khi không có lối thoát [S12]"
+      ],
+      "notes": "Ba hiểu lầm thường gặp. Thứ nhất, 'hạnh nhân là trung tâm sợ hãi': giáo trình nói hạnh nhân còn hoạt động khi bất định và khi có cảm xúc tích cực; nhóm Lindquist cho rằng nó báo điều gì đáng chú ý. Thứ hai, 'không có hạnh nhân thì không có sợ': Lindquist dẫn rằng chuẩn bị phát biểu trước đám đông lại làm giảm hoạt động hạnh nhân, và không phải mọi hành vi phòng vệ ở chuột đều cần hạnh nhân. Thứ ba, 'sợ là đứng im': LeDoux lưu ý đứng im chủ yếu xảy ra trong không gian hẹp không có lối thoát. Ba ý này không phủ nhận vai trò lớn của hạnh nhân trong học sợ; chúng chỉ cho thấy nó không phải câu trả lời trọn vẹn."
+    },
+    {
+      "title": "Giận: cảm xúc của tiến tới và tấn công",
+      "section": "Giận (rage)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Giận** (rage) là cảm xúc khó chịu, làm cơ thể hưng phấn, thúc đẩy tiến tới và tấn công [S2]. Nó có thể bị khơi lên khi mục tiêu bị cản trở, khi đau thể xác hoặc khi bị giữ chặt; ở động vật có lãnh thổ, khi kẻ lạ xâm nhập [S2]. Mạch giận nối với mạch ham muốn, nên khi phần thưởng mong đợi không đến, con vật có thể nổi giận [S2]. Khi người ta giận, vỏ não trán trái hoạt động tăng, giống ham muốn [S2].",
+      "bullets": [
+        "Mức chắc chắn: giáo khoa ở động vật",
+        "Hướng: tiến tới, giống ham muốn",
+        "Đừng hiểu nhầm: không phải mặt trái của sợ"
+      ],
+      "notes": "Giận thường bị xem là mặt trái của sợ, nhưng giáo trình mô tả nó khác hẳn: giận thúc đẩy tiến tới và tấn công, không phải né tránh. Có ba loại tình huống gây giận: mục tiêu bị cản, đau thể xác, bị giữ chặt; ở loài có lãnh thổ, kẻ lạ xâm nhập. Một điểm đáng chú ý: mạch giận nối với mạch ham muốn, nên khi phần thưởng mong đợi không đến, con vật có thể nổi giận. Ví dụ của người viết: máy bán hàng nuốt tiền mà không trả nước, nhiều người đập vào máy. Đó là giận do mất phần thưởng mong đợi. Chỗ dễ nhầm: giận là cảm xúc khó chịu nhưng lại thuộc nhóm 'hướng tới', giống ham muốn."
+    },
+    {
+      "title": "Giận: thẻ hồ sơ",
+      "section": "Giận (rage)",
+      "sources": [
+        "S2",
+        "S5",
+        "S13"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Mạch chính",
+          "text": "Hạnh nhân giữa → những phần nhất định của vùng dưới đồi → chất xám quanh cống não [S2]"
+        },
+        {
+          "label": "Chất liên quan",
+          "text": "Chưa rõ; chất P có thể quan trọng; testosterone, vasopressin có thể tham gia [S2]"
+        },
+        {
+          "label": "Vai trò thích nghi",
+          "text": "Xung đột về lãnh thổ, thức ăn, bạn tình; thường kết thúc bằng nghi thức [S5]"
+        },
+        {
+          "label": "Khi mất cân bằng",
+          "text": "Nguyên nhân chênh lệch gây hấn nam - nữ ở người vẫn đang tranh luận mạnh [S5]"
+        },
+        {
+          "label": "Khác cảm giác",
+          "text": "Bằng chứng chủ yếu là hành vi tấn công ở động vật, không phải cảm giác bực [S2]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Không có quan hệ một - một giữa hormone và hành vi gây hấn [S5]"
+        }
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ của giận có một điểm khác: giáo trình nói thẳng rằng chất dẫn truyền của giận chưa được hiểu rõ. Chất P có thể quan trọng; testosterone và vasopressin có thể tham gia; opioid và liều cao thuốc chống loạn thần ức chế hệ này. Vai trò thích nghi: giải quyết xung đột về tài nguyên có hạn, thường bằng tư thế phục tùng hay đấu theo nghi thức chứ không phải thương tích. Khi mất cân bằng: ở người, chênh lệch gây hấn giữa nam và nữ có nhiều giả thuyết (hormone, não trước sinh, nuôi dạy) và vẫn đang tranh luận. Chỗ dễ nhầm: testosterone không phải hormone giận dữ; chương hormone nói không có quan hệ một - một giữa hormone và hành vi."
+    },
+    {
+      "title": "Mạch giận nằm cạnh mạch sợ và nối với ham muốn",
+      "section": "Giận (rage)",
+      "sources": [
+        "S2",
+        "S13"
+      ],
+      "layout": "connection-diagram",
+      "tone": "light",
+      "bullets": [
+        "Hạnh nhân giữa → vùng dưới đồi → chất xám quanh cống não [S2]",
+        "Mạng sợ: nằm gần nhưng tách riêng [S2]",
+        "Mạch ham muốn: mất phần thưởng mong đợi có thể gây giận [S2]",
+        "Vasopressin: canh giữ bạn đời ở chuột đồng thảo nguyên [S13]"
+      ],
+      "notes": "Sơ đồ đặt giận ở giữa. Mạch đi từ hạnh nhân giữa, qua những phần nhất định của vùng dưới đồi, đến chất xám quanh cống não. Mạng giận và mạng sợ nằm gần nhau nhưng tách riêng. Mạch giận nối với mạch ham muốn. Ở chuột đồng thảo nguyên, vasopressin ở vùng dưới đồi trước cần cho hành vi canh giữ bạn đời, một dạng gây hấn có chọn lọc. Chỗ dễ nhầm: 'gần nhau' về giải phẫu không có nghĩa là cùng một mạch; và ví dụ chuột đồng thảo nguyên là ở động vật, không chuyển thẳng sang người. Chất xám quanh cống não xuất hiện trong cả sợ, giận và đau buồn; mục 'Một cấu trúc, nhiều chức năng' sẽ quay lại điểm này."
+    },
+    {
+      "title": "Giận và sợ: gần nhau nhưng khác hướng",
+      "section": "Giận (rage)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Sợ: né tránh; nhân trung tâm hạnh nhân → chất xám quanh cống não; benzodiazepine ức chế [S2]",
+        "Giận: tiến tới, tấn công; hạnh nhân giữa → vùng dưới đồi → chất xám quanh cống não; opioid ức chế [S2]",
+        "Cả hai khó chịu, mạng nằm gần nhau nhưng tách riêng [S2]"
+      ],
+      "notes": "So sánh hai cảm xúc dễ bị gộp chung. Cả hai đều khó chịu và đều đi qua chất xám quanh cống não. Nhưng sợ thúc đẩy né tránh, còn giận thúc đẩy tiến tới. Sợ bắt đầu từ nhân trung tâm của hạnh nhân, giận từ hạnh nhân giữa. Benzodiazepine ức chế mạch sợ; opioid và liều cao thuốc chống loạn thần ức chế mạch giận. Giận còn gần ham muốn ở chỗ cả hai làm vỏ não trán trái hoạt động tăng. Suy luận của người viết: chia cảm xúc theo 'dễ chịu hay khó chịu' thôi là chưa đủ; hướng hành động (tới hay lui) cũng là một trục quan trọng."
+    },
+    {
+      "title": "Yêu thương và gắn bó: chăm sóc và được chăm sóc",
+      "section": "Yêu thương và gắn bó (love)",
+      "sources": [
+        "S2",
+        "S5"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Với động vật xã hội như con người, gắn bó với cá thể cùng loài tạo ra cảm xúc tích cực: **yêu thương**, ấm áp, trìu mến [S2]. Cảm xúc thúc đẩy chăm sóc (mẹ chăm con) khác với cảm xúc thúc đẩy ở gần để được chăm sóc (con bám mẹ) [S2]. Vùng quan trọng cho chăm con gồm vùng trước thị lưng và nhân giường của dải tận, chồng lấn với vùng ham muốn tình dục [S2]. Ở chuột, hormone quanh lúc sinh giúp vượt qua nỗi sợ chuột con [S5].",
+      "bullets": [
+        "Mức chắc chắn: giáo khoa ở động vật",
+        "Hai loại: chăm sóc và được chăm sóc",
+        "Tranh cãi oxytocin và tin tưởng: L10"
+      ],
+      "notes": "Giáo trình tách hai loại cảm xúc trong 'yêu thương'. Một là cảm xúc thúc đẩy chăm sóc, như mẹ chăm con. Hai là cảm xúc thúc đẩy ở gần người mình gắn bó để được chăm sóc và bảo vệ, như con bám mẹ. Vùng quan trọng cho chăm con là vùng trước thị và nhân giường của dải tận, chồng lấn với vùng của ham muốn tình dục. Chương hormone thêm chi tiết từ chuột: chuột trưởng thành vốn né chuột con vì sợ mùi và sợ cái mới; quanh lúc sinh, hormone thay đổi giúp vượt qua nỗi sợ đó. Chỗ dễ nhầm: 'yêu' ở đây là gắn bó và chăm sóc ở động vật có vú, không phải toàn bộ tình yêu lãng mạn của người."
+    },
+    {
+      "title": "Yêu thương: thẻ hồ sơ",
+      "section": "Yêu thương và gắn bó (love)",
+      "sources": [
+        "S2",
+        "S5",
+        "S13"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Mạch chính",
+          "text": "Vùng trước thị, nhân giường của dải tận; kết đôi dùng nhân accumbens, nhạt cầu bụng [S2] [S13]"
+        },
+        {
+          "label": "Chất liên quan",
+          "text": "Oxytocin, vasopressin, opioid nội sinh, dopamine (xem L03, L10) [S2] [S13]"
+        },
+        {
+          "label": "Vai trò thích nghi",
+          "text": "Chăm con quyết định sự sống của con non; kết đôi nối bạn đời với hệ thưởng [S5] [S13]"
+        },
+        {
+          "label": "Khi mất cân bằng",
+          "text": "Ở chuột, thụ thể oxytocin ở nhân accumbens liên quan đến khả năng kết đôi sau cách ly [S13]"
+        },
+        {
+          "label": "Khác cảm giác",
+          "text": "Tình yêu ở người còn gồm ký ức chung và nghĩ về tương lai, nhờ vỏ não [S13]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Oxytocin không phải \"hormone tình yêu\": tác dụng tùy thụ thể ở đâu [S13]"
+        }
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ của yêu thương. Mạch chăm con nằm ở vùng trước thị và nhân giường của dải tận; gắn bó đôi lứa ở chuột đồng thảo nguyên dùng hệ thưởng, nơi có nhiều thụ thể oxytocin và vasopressin. Chất liên quan: oxytocin, vasopressin, opioid nội sinh và dopamine. Hồ sơ hai chất ở L03; ghép với cảm xúc và tranh cãi ở người ở L10. Khi mất cân bằng: ở chuột, mức thụ thể oxytocin ở nhân accumbens liên quan đến việc con non bị cách ly có còn kết đôi được về sau hay không. Chỗ dễ nhầm: oxytocin không phải hormone tình yêu; cùng một chất nhưng tác dụng phụ thuộc thụ thể nằm ở đâu, và ở con đực vasopressin quan trọng hơn."
+    },
+    {
+      "title": "Chuột đồng thảo nguyên: mô hình của gắn bó",
+      "section": "Yêu thương và gắn bó (love)",
+      "sources": [
+        "S5",
+        "S13"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "body": "Chuột đồng thảo nguyên kết đôi sau giao phối và cùng chăm con [S5]. Cho **oxytocin** làm con cái gắn bó hơn, chặn thụ thể làm giảm gắn bó; ở con đực, **vasopressin** có tác dụng tương tự [S5]. Tăng thụ thể vasopressin ở loài không kết đôi làm chúng kết đôi [S13].",
+      "bullets": [
+        "Prairie vole: chuột đồng thảo nguyên",
+        "Montane vole: chuột đồng núi, không kết đôi"
+      ],
+      "images": [
+        {
+          "file": "images/chuot-dong-thao-nguyen.jpg",
+          "alt": "Chuột đồng thảo nguyên",
+          "credit": "Todd Ahern, giấy phép CC BY theo sách; Hove & Martinez, Hình 10 (chương 6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/parental-behaviors/"
+        }
+      ],
+      "notes": "Chuột đồng thảo nguyên là loài gặm nhấm Bắc Mỹ sống chung một đôi sau giao phối và cùng chăm con, còn họ hàng gần là chuột đồng núi thì không. So sánh hai loài cho phép tìm tín hiệu thần kinh của gắn bó. Ở con cái, cho oxytocin làm tăng gắn bó, chặn thụ thể oxytocin làm giảm. Ở con đực, vasopressin có tác dụng tương tự. Kết quả nổi bật nhất trong tổng quan của Walum và Young: tăng thụ thể vasopressin ở nhạt cầu bụng của chuột đồng cỏ, loài không kết đôi, làm chúng gắn bó như chuột đồng thảo nguyên. Chỗ dễ nhầm: đây là chuột; người có vỏ não phức tạp hơn nhiều."
+    },
+    {
+      "title": "Kết đôi hình thành thế nào (mô hình ở chuột)",
+      "section": "Yêu thương và gắn bó (love)",
+      "sources": [
+        "S5",
+        "S13"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Giao phối: vùng dưới đồi tiết oxytocin, vasopressin [S5]",
+        "Gắn thụ thể ở hệ thưởng: nhân accumbens, nhạt cầu bụng [S13]",
+        "Tính dẻo nối tín hiệu bạn đời với phần thưởng [S13]",
+        "Kết quả: ưu tiên ở gần bạn đời [S13]"
+      ],
+      "notes": "Sơ đồ theo mô hình Walum và Young đề xuất. Khi giao phối, vùng dưới đồi tiết oxytocin và vasopressin. Hai chất này gắn vào thụ thể ở hệ thưởng: oxytocin ở nhân accumbens, vasopressin ở nhạt cầu bụng. Tính dẻo synapse nối tín hiệu nhận diện bạn đời với hệ thưởng, nên bạn đời trở thành phần thưởng bền vững và con vật thích ở gần bạn đời hơn cá thể lạ. Hai tác giả tự nói mô hình chỉ nên xem là gợi ý để kiểm chứng, không phải sự thật. Chỗ dễ nhầm: ở người, fMRI cho thấy vùng thưởng hoạt động khi xem ảnh con hay người yêu, nhưng đó là tương quan, không phải bằng chứng cho đúng mô hình này."
+    },
+    {
+      "title": "Đau buồn và cô đơn: khi gắn bó bị cắt",
+      "section": "Đau buồn và cô đơn (grief)",
+      "sources": [
+        "S2",
+        "S7"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Các mạng thần kinh của gắn bó cũng nhạy với chia ly; chúng tạo ra cảm xúc đau đớn của **đau buồn** (grief), hoảng loạn và cô đơn [S2]. Khi con non của người hay thú có vú khác bị tách khỏi mẹ, chúng phát ra tiếng kêu đau khổ hoặc khóc [S2]. Mạch gắn bó là các mạch làm con vật phát tiếng kêu đó khi bị kích thích điện [S2]. Panksepp gọi hệ này là PANIC/GRIEF [S7].",
+      "bullets": [
+        "Mức chắc chắn: hành vi là giáo khoa",
+        "Giả thuyết: hoảng loạn và đau buồn chung một hệ",
+        "Đo bằng: tiếng kêu chia ly"
+      ],
+      "notes": "Đau buồn là mặt kia của gắn bó. Giáo trình nói các mạng thần kinh của gắn bó cũng nhạy với chia ly, và tạo ra đau buồn, hoảng loạn, cô đơn. Bằng chứng dễ thấy nhất: con non của người hay thú có vú khác kêu khóc khi bị tách khỏi mẹ. Giáo trình định nghĩa mạch gắn bó chính là những mạch làm con vật phát tiếng kêu đó khi bị kích thích điện. Panksepp đặt tên hệ này là PANIC/GRIEF, xếp hoảng loạn và đau buồn chung một hệ; đó là giả thuyết của ông. Ví dụ của người viết: đứa trẻ lạc mẹ ở chợ khóc thét, rồi nín ngay khi được bế lên. Chỗ dễ nhầm: đau buồn ở người còn gồm ký ức và ý nghĩa của mất mát, những tầng mà thí nghiệm ở chuột không chạm tới."
+    },
+    {
+      "title": "Đau buồn: thẻ hồ sơ",
+      "section": "Đau buồn và cô đơn (grief)",
+      "sources": [
+        "S2",
+        "S13"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Mạch chính",
+          "text": "Bắt đầu ở chất xám quanh cống não, gần vùng đau thể xác; cả đồi thị lưng giữa, vách bụng [S2]"
+        },
+        {
+          "label": "Chất liên quan",
+          "text": "Opiate nội sinh, oxytocin, prolactin ngăn đau khổ chia ly (xem L10) [S2]"
+        },
+        {
+          "label": "Vai trò thích nghi",
+          "text": "Tiếng kêu giúp con non được tìm lại; khó chịu khi xa thúc quay về [S2] [S13]"
+        },
+        {
+          "label": "Khi mất cân bằng",
+          "text": "Chuột mất bạn đời: đối phó thụ động, trục căng thẳng tăng, nhạy đau hơn [S13]"
+        },
+        {
+          "label": "Khác cảm giác",
+          "text": "Ở chuột chỉ đo được tiếng kêu, sự bất động và hormone, không đo được nỗi nhớ [S13]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Opiate \"có thể\" gây nghiện vì giống cảm giác xã hội: chỉ là giả thuyết [S2]"
+        }
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ của đau buồn. Mạch bắt đầu ở chất xám quanh cống não, rất gần vùng tạo phản ứng đau thể xác; theo Panksepp, có thể hệ này tiến hóa từ mạch đau. Chất liên quan: opiate nội sinh, oxytocin và prolactin đều ngăn đau khổ chia ly. Vai trò thích nghi: tiếng kêu giúp con non được tìm lại; với bạn đời, cảm giác khó chịu khi xa có thể thúc quay về. Khi mất cân bằng: chuột đồng thảo nguyên mất bạn đời có hành vi giống trầm cảm và trục căng thẳng tăng hoạt động. Chỗ dễ nhầm: giáo trình nói opiate tạo cảm giác giống giao tiếp xã hội và điều đó 'có thể' giải thích sự gây nghiện; đây là giả thuyết, không phải bằng chứng rằng người nghiện thiếu tình cảm."
+    },
+    {
+      "title": "Mạch đau khổ chia ly",
+      "section": "Đau buồn và cô đơn (grief)",
+      "sources": [
+        "S2"
+      ],
+      "layout": "connection-diagram",
+      "tone": "light",
+      "bullets": [
+        "Chất xám quanh cống não: gần vùng đau thể xác [S2]",
+        "Đồi thị lưng giữa, vách bụng [S2]",
+        "Vùng trước thị lưng, nhân giường của dải tận: gần mạch chăm con [S2]",
+        "Làm dịu: opiate nội sinh, oxytocin, prolactin [S2]"
+      ],
+      "notes": "Sơ đồ đặt đau khổ chia ly ở giữa. Tiếng kêu chia ly có thể được gợi lên khi kích thích điện chất xám quanh cống não, đồi thị lưng giữa, vách bụng, vùng trước thị lưng và nhân giường của dải tận. Hai vùng cuối nằm gần mạch tình dục và chăm con, đúng như ý đau buồn là mặt kia của gắn bó. Ba chất làm dịu đau khổ chia ly là opiate nội sinh, oxytocin và prolactin. Chỗ dễ nhầm: việc mạch đau buồn nằm gần mạch đau thể xác là quan sát giải phẫu; ý 'đau buồn tiến hóa từ đau thể xác' là giả thuyết của Panksepp mà giáo trình nhắc lại."
+    },
+    {
+      "title": "Mất bạn đời ở chuột đồng thảo nguyên",
+      "section": "Đau buồn và cô đơn (grief)",
+      "sources": [
+        "S13"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Hành vi: đối phó thụ động trong bài kiểm tra giống trầm cảm [S13]",
+        "Cơ thể: trục căng thẳng tăng hoạt động, nhạy đau hơn [S13]",
+        "Đối chứng: tách khỏi anh em ruột thì không có hiệu ứng [S13]",
+        "Cơ chế đề xuất: CRF làm giảm oxytocin ở nhân accumbens [S13]"
+      ],
+      "notes": "Walum và Young tổng hợp các thí nghiệm trên chuột đồng thảo nguyên đã kết đôi rồi bị tách khỏi bạn đời. Chúng có hành vi đối phó thụ động trong các bài kiểm tra giống trầm cảm, trục căng thẳng tăng hoạt động và nhạy đau hơn. Bị tách khỏi anh em ruột thì không gây ra điều đó, nên hiệu ứng gắn với mối gắn bó đôi lứa. Cơ chế đề xuất: khi xa bạn đời, hệ CRF ở nhân accumbens làm giảm giải phóng oxytocin; cho oxytocin vào nhân accumbens xóa được tác động của mất bạn đời. Hai tác giả cho rằng cảm giác khó chịu này giữ mối gắn bó, giống cơ chế khiến người nghiện tìm lại chất. Chỗ dễ nhầm: đây là chuột; không suy thẳng ra cách chữa đau buồn ở người."
+    },
+    {
+      "title": "Một cấu trúc là một tổ hợp nhiều nhân",
+      "section": "Một cấu trúc, nhiều chức năng",
+      "sources": [
+        "S4"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Hạnh nhân và nhân accumbens chính xác hơn phải gọi là **tổ hợp** (complex), gồm nhiều nhóm nhân làm việc khác nhau [S4]. Hạnh nhân ở linh trưởng không phải người có thể chia thành 13 nhân và vùng vỏ [S4]. **Nhân trung tâm** gửi tín hiệu xuống thân não, tạo biểu hiện cảm xúc bẩm sinh và phản ứng sinh lý; **nhân đáy** nối với thể vân, tham gia hành động như chạy đến chỗ an toàn [S4]. Ảnh chụp não người chưa xem được từng nhân như vậy [S4].",
+      "bullets": [
+        "Mức chắc chắn: giáo khoa",
+        "Hệ quả: một vùng, nhiều việc",
+        "Hồ sơ từng cấu trúc: L07"
+      ],
+      "notes": "Mục 10.4 của giáo trình ngắn nhưng quan trọng. Nhiều nghiên cứu nói về cả khối như hạnh nhân hay nhân accumbens, nhưng chúng thật ra là tổ hợp gồm nhiều nhóm nhân làm việc khác nhau. Hạnh nhân ở linh trưởng không phải người có thể chia thành mười ba nhân và vùng vỏ. Nhân trung tâm gửi tín hiệu xuống thân não, tạo biểu hiện cảm xúc và phản ứng sinh lý; nhân đáy nối với thể vân, tham gia hành động như chạy đến chỗ an toàn. fMRI ở người chưa xem được từng nhân như vậy. Ví dụ của người viết: nói 'hạnh nhân làm X' giống nói 'bệnh viện chữa bệnh'; đúng, nhưng mỗi khoa làm một việc khác."
+    },
+    {
+      "title": "Cùng một vùng, nhiều cảm xúc",
+      "section": "Một cấu trúc, nhiều chức năng",
+      "sources": [
+        "S2",
+        "S13"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Hạnh nhân: ham muốn, sợ, giận [S2]",
+        "Chất xám quanh cống não: sợ, giận, đau buồn [S2]",
+        "Nhân giường của dải tận: chăm con, đau khổ chia ly [S2]",
+        "Nhân accumbens: ham muốn, thích, gắn bó đôi lứa [S2] [S13]"
+      ],
+      "notes": "Bảng này gom lại những gì sáu mục trước đã nói, để thấy cùng một vùng xuất hiện nhiều lần. Hạnh nhân có trong ham muốn, sợ và giận. Chất xám quanh cống não có trong sợ, giận và đau buồn. Nhân giường của dải tận có trong chăm con và đau khổ chia ly. Nhân accumbens có trong ham muốn, thích và gắn bó đôi lứa. Đây là lý do giáo trình viết rằng không thể lập bản đồ một - một giữa cảm xúc và vùng não. Chỗ dễ nhầm: bảng không nói các vùng này 'làm mọi việc như nhau'; trong mỗi vùng có những nhân khác nhau góp phần cho từng cảm xúc, như slide trước đã nói."
+    },
+    {
+      "title": "Ba lý do để nghi câu \"vùng X là trung tâm cảm xúc Y\"",
+      "section": "Một cấu trúc, nhiều chức năng",
+      "sources": [
+        "S4",
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Nhiều nhân: một vùng gồm nhiều nhân làm việc khác nhau [S4]",
+        "Nhiều cảm xúc: hạnh nhân hoạt động khi sợ, khi bất định, khi vui [S4] [S8]",
+        "Nhiều mạch: mất mạch viền vẫn còn cảm xúc, theo Barrett [S9]",
+        "Bàn phím: nhân accumbens chứa cả vùng ham muốn lẫn vùng sợ [S10]"
+      ],
+      "notes": "Ba lý do, từ ba hướng khác nhau. Một: mỗi vùng là nhiều nhân khác việc nhau, theo giáo trình. Hai: một vùng góp mặt trong nhiều cảm xúc; giáo trình thấy điều đó ở động vật, nhóm Lindquist thấy ở ảnh chụp não người. Ba: một cảm xúc dùng được nhiều mạch; Barrett dẫn ca bệnh nhân mất mạch viền vẫn có cảm xúc, và cặp sinh đôi cùng trứng cùng tổn thương hạnh nhân nhưng khả năng cảm xúc khác nhau. Thêm một ví dụ: nhân accumbens chứa cả vùng tạo ham muốn và vùng tạo sợ, xếp như phím đàn. Chỗ dễ nhầm: điều này đúng cho cả hai phe tranh luận; giáo trình theo dòng cảm xúc cơ bản cũng viết như vậy."
+    },
+    {
+      "title": "Một chất, nhiều việc",
+      "section": "Một cấu trúc, nhiều chức năng",
+      "sources": [
+        "S2",
+        "S13"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Opioid: tăng thích, ức chế giận, ngăn đau khổ chia ly [S2]",
+        "Vasopressin: liên quan đến giận và đến gắn bó đôi lứa [S2] [S13]",
+        "Một cảm xúc cũng dùng nhiều chất: gắn bó dùng oxytocin, vasopressin, opioid, dopamine [S2] [S13]"
+      ],
+      "notes": "Ý 'một cấu trúc, nhiều chức năng' cũng đúng cho chất. Opioid làm tăng thích ở điểm nóng, ức chế hệ giận và ngăn đau khổ chia ly. Vasopressin liên quan đến cả giận lẫn gắn bó đôi lứa ở chuột đồng thảo nguyên. Ở chiều ngược lại, một cảm xúc dùng nhiều chất: gắn bó dùng oxytocin, vasopressin, opioid và dopamine. Suy luận của người viết: vì vậy câu hỏi 'chất X làm ta cảm thấy gì' thường sai từ cách hỏi; câu đúng hơn là 'chất X ở vùng nào, gắn thụ thể nào, trong hoàn cảnh nào'. Bài L03 đã phản bác 'một chất, một cảm xúc'; L10 sẽ làm bảng ghép chất, hormone và cảm xúc kèm mức bằng chứng."
+    },
+    {
+      "title": "Kinh nghiệm có thể chỉnh lại mạch cảm xúc",
+      "section": "Kinh nghiệm làm đổi não",
+      "sources": [
+        "S3"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Phản ứng của một vùng não cụ thể có thể bị **kinh nghiệm** thay đổi [S3]. Giáo trình tóm ý bằng câu 'nơron cùng phát xung thì nối với nhau': khi một cảm xúc thường đi kèm một bối cảnh, ta học liên kết hai thứ đó [S3]. Phần vỏ phía trước của **nhân accumbens** thường tham gia hành vi hướng tới như ăn, phần phía sau tham gia hành vi phòng vệ do sợ; ảnh chụp não người cũng thấy sự phân chia này [S3].",
+      "bullets": [
+        "Mức chắc chắn: thực nghiệm ở chuột",
+        "Ở người: thấy phân chia trước - sau",
+        "Cơ chế synapse: L02"
+      ],
+      "notes": "Mục 10.3 của giáo trình nói rằng phản ứng của một vùng não cụ thể có thể bị kinh nghiệm thay đổi. Giáo trình mượn câu quen thuộc 'nơron cùng phát xung thì nối với nhau' để nói: khi một cảm xúc thường đi kèm một bối cảnh, ta học liên kết hai thứ đó. Ví dụ chính là nhân accumbens: phần vỏ phía trước thường tham gia ăn uống, phần phía sau tham gia hành vi phòng vệ do sợ. Ảnh chụp não người cũng thấy sự phân chia trước - sau này. Chỗ dễ nhầm: câu 'cùng phát xung thì nối với nhau' là cách nói gợi nhớ, không phải mô tả đầy đủ cơ chế tính dẻo; cơ chế synapse xem L02."
+    },
+    {
+      "title": "Khoảng 90%",
+      "section": "Kinh nghiệm làm đổi não",
+      "sources": [
+        "S3",
+        "S14"
+      ],
+      "layout": "one-big-number",
+      "tone": "dark",
+      "bullets": [
+        "Khoảng 90% phần vỏ nhân accumbens thành vùng tạo sợ ở chuột trong môi trường căng thẳng [S3] [S14]",
+        "Môi trường nhà ưa thích: vùng tạo ham muốn chiếm khoảng 90% [S3] [S14]"
+      ],
+      "notes": "Con số này là kết quả của Reynolds và Berridge năm 2008, được giáo trình nhắc lại. Ở chuột sống trong môi trường căng thẳng, vùng tạo sợ trong vỏ giữa nhân accumbens lan về phía trước, chiếm khoảng chín mươi phần trăm. Ở chuột sống trong môi trường quen thuộc ưa thích, điều ngược lại xảy ra: vùng tạo ham muốn lan về phía sau, cũng chiếm khoảng chín mươi phần trăm. Hai tác giả kết luận môi trường cảm xúc đã chỉnh lại cách mạch tạo ra động lực. Chỗ dễ nhầm: con số là ở chuột, trong điều kiện thí nghiệm, trên một vùng nhỏ; nó không cho biết một người sống trong căng thẳng sẽ thay đổi bao nhiêu, hay thay đổi có đảo ngược được không."
+    },
+    {
+      "title": "Nơron cùng phát xung thì nối với nhau",
+      "section": "Kinh nghiệm làm đổi não",
+      "sources": [
+        "S3"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "body": "Giáo trình minh họa tính dẻo bằng câu 'nơron cùng phát xung thì nối với nhau' [S3]. Khi một cảm xúc thường đi kèm một bối cảnh, ta học liên kết hai thứ đó [S3]. Hình là ảnh hiển vi **nơron** và **tế bào thần kinh đệm**, không phải ảnh của một vùng cảm xúc cụ thể.",
+      "bullets": [
+        "Neurons: nơron",
+        "Glia: tế bào thần kinh đệm"
+      ],
+      "images": [
+        {
+          "file": "images/noron-va-te-bao-dem.jpeg",
+          "alt": "Ảnh hiển vi nơron và tế bào thần kinh đệm",
+          "credit": "Flickr, giấy phép CC BY theo sách; Hove & Martinez, Hình 6 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/plasticity-experiences-can-alter-the-brain/"
+        }
+      ],
+      "notes": "Hình của giáo trình là ảnh hiển vi huỳnh quang các nơron và tế bào thần kinh đệm, minh họa ý nơron cùng phát xung thì nối với nhau. Hình không phải ảnh của nhân accumbens; nó chỉ cho thấy mạng lưới tế bào dày đặc, nơi các kết nối thay đổi theo kinh nghiệm. Ý của giáo trình là khi một cảm xúc thường đi kèm một bối cảnh, ta học liên kết hai thứ đó. Ví dụ của người viết: mùi bệnh viện làm nhiều người thấy bồn chồn, vì mùi đó từng đi kèm những lúc lo lắng. Chỗ dễ nhầm: màu sắc trong ảnh là thuốc nhuộm huỳnh quang, không phải màu thật của tế bào."
+    },
+    {
+      "title": "Ba ví dụ kinh nghiệm làm đổi cảm xúc",
+      "section": "Kinh nghiệm làm đổi não",
+      "sources": [
+        "S3",
+        "S5",
+        "S6",
+        "S14"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Bàn phím: môi trường chỉnh lại vùng ham muốn và vùng sợ ở nhân accumbens [S14]",
+        "Chăm con: chuột tiếp xúc hằng ngày với chuột con dần có hành vi chăm sóc [S5]",
+        "Ký ức: noradrenaline ở hạnh nhân củng cố ký ức cảm xúc; quá mức có thể góp phần gây lo âu [S6]"
+      ],
+      "notes": "Ba ví dụ từ ba chương của giáo trình. Một: bàn phím nhân accumbens ở chuột được môi trường chỉnh lại, như slide số lớn đã nói. Hai: chuột trưởng thành vốn né chuột con vì sợ mùi và sợ cái mới, nhưng nếu được tiếp xúc hằng ngày thì dần có hành vi chăm sóc; kinh nghiệm làm đổi cân bằng giữa sợ và chăm sóc. Ba: sự kiện gây xúc động được nhớ mạnh nhờ phần đáy bên hạnh nhân và noradrenaline; cùng cơ chế ấy, khi căng thẳng kéo dài hoặc sang chấn, có thể góp phần gây lo âu. Ảnh hưởng của căng thẳng lên cấu trúc não thuộc L05; trí nhớ cảm xúc sẽ có bài riêng."
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S7",
+        "S8",
+        "S10",
+        "S14"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Cảm xúc là mạng lưới trải gần khắp não, không nằm ở một vùng [S1]",
+        "Có cảm xúc cơ bản hay không là tranh luận đang mở [S7] [S8]",
+        "Ham muốn khác thích: dopamine với muốn, opioid với thích [S2] [S10]",
+        "Sợ, giận, yêu thương, đau buồn dùng mạch dưới vỏ chồng lấn nhau [S2]",
+        "Kinh nghiệm có thể chỉnh lại mạch cảm xúc, ít nhất ở chuột [S14]"
+      ],
+      "notes": "Năm ý để mang theo. Một, cảm xúc là mạng lưới trải gần khắp não, phần tạo cảm xúc cơ bản nằm dưới vỏ. Hai, có cảm xúc cơ bản hay không là tranh luận đang mở; bài trình bày Panksepp, nhóm Lindquist và Barrett, và LeDoux mà không phân xử. Ba, ham muốn và thích là hai hệ khác nhau: dopamine với muốn, opioid và endocannabinoid với thích. Bốn, sợ, giận, yêu thương và đau buồn dùng những mạch dưới vỏ chồng lấn nhau, đặc biệt là hạnh nhân và chất xám quanh cống não. Năm, kinh nghiệm có thể chỉnh lại mạch, ít nhất là ở chuột. Bài tiếp theo nên đọc là L10, nơi các chất và hormone được ghép với từng cảm xúc kèm mức bằng chứng."
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "layout": "one-highlighted-sentence",
+      "tone": "dark",
+      "bullets": [
+        "Bài giải thích cơ chế, không phải lời khuyên y tế",
+        "Không tự dùng opioid, benzodiazepine hay thuốc nào để chỉnh cảm xúc",
+        "Hoảng loạn, đau buồn kéo dài, ý nghĩ tự hại: tìm trợ giúp chuyên môn ngay"
+      ],
+      "notes": "Bài này giải thích cơ chế, không phải lời khuyên y tế hay tâm lý. Phần lớn mạch trong bài được tìm thấy ở chuột và các loài khác, nên không dùng nó để tự chẩn đoán. Các thuốc được nhắc như opioid hay benzodiazepine chỉ để mô tả mạch; tự dùng chúng để chỉnh cảm xúc có nguy cơ lệ thuộc. Nếu bạn có cơn hoảng loạn, nỗi sợ hay cơn giận khó kiểm soát, đau buồn kéo dài sau mất mát, hoặc có ý nghĩ tự làm hại mình hay người khác, hãy tìm trợ giúp ngay từ bác sĩ, chuyên gia tâm lý hoặc đường dây hỗ trợ khẩn cấp tại nơi bạn sống. Tìm trợ giúp sớm không phải là yếu đuối."
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15"
+      ],
+      "layout": "references",
+      "tone": "light",
+      "bullets": [
+        "S1: Hove & Martinez, Biological Psychology, mục 10.1 Affective Neuroscience",
+        "S2: Hove & Martinez, mục 10.2 Basic Emotions",
+        "S3: Hove & Martinez, mục 10.3 Plasticity",
+        "S4: Hove & Martinez, mục 10.4 Brain Structures have Multiple Functions",
+        "S5: Hove & Martinez, mục 6.4 Aggression and Parental Behaviors",
+        "S6: Hove & Martinez, mục 8.3 Emotional Memories (Amygdala)",
+        "S7: Panksepp, PLoS ONE, 2011",
+        "S8: Lindquist, Wager, Kober, Bliss-Moreau & Barrett, Behavioral and Brain Sciences, 2012",
+        "S9: Barrett, The theory of constructed emotion, Soc Cogn Affect Neurosci, 2017",
+        "S10: Berridge & Kringelbach, Pleasure systems in the brain, Neuron, 2015",
+        "S11: LeDoux, Emotion circuits in the brain, Annual Review of Neuroscience, 2000",
+        "S12: LeDoux, Rethinking the emotional brain, Neuron, 2012",
+        "S13: Walum & Young, The neural mechanisms and circuitry of the pair bond, Nat Rev Neurosci, 2018",
+        "S14: Reynolds & Berridge, Nature Neuroscience, 2008",
+        "S15: Craig, How do you feel? Interoception, Nat Rev Neurosci, 2002"
+      ],
+      "notes": "Mười lăm nguồn. Sáu nguồn đầu là các mục của giáo trình Hove và Martinez; chín nguồn sau là bài gốc độc lập, đã kiểm DOI và đọc tóm tắt hoặc toàn văn."
+    }
+  ]
+}

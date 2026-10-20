@@ -49,6 +49,29 @@
       "tone": "light"
     },
     {
+      "title": "Vỏ não trước trán trên hình",
+      "bullets": [
+        "Dorsolateral: vùng lưng bên",
+        "Ventrolateral: vùng bụng bên",
+        "Orbitofrontal: vùng ổ mắt"
+      ],
+      "notes": "Các số trong hình là vùng Brodmann.",
+      "section": "Thùy trán và vỏ não trước trán",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/vo-nao-truoc-tran.png",
+          "alt": "Vỏ não trước trán và các vùng con",
+          "credit": "Wikipedia, CC BY-SA, chỉnh bởi Hove & Martinez; Hove & Martinez, Hình 15 (chương 2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
+    },
+    {
       "title": "Vỏ não trước trán làm gì",
       "section": "Vỏ não trước trán làm gì",
       "sources": [
@@ -90,6 +113,29 @@
       "notes": "Báo cáo 1848 nhắc rất ít đến thay đổi tâm lý. Macmillan còn là tác giả cuốn An Odd Kind of Fame (2000).",
       "layout": "timeline",
       "tone": "dark"
+    },
+    {
+      "title": "Mô phỏng đường đi của thanh sắt",
+      "bullets": [
+        "Tái dựng bằng máy tính",
+        "Màu sắc: các bó sợi chất trắng",
+        "Ước đoán, không phải ảnh chụp"
+      ],
+      "notes": "Mức tổn thương chính xác chỉ được suy ra về sau.",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S7"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/phineas-gage-mo-phong.jpg",
+          "alt": "Mô phỏng đường đi của thanh sắt qua hộp sọ Phineas Gage",
+          "credit": "Van Horn JD và cộng sự, CC BY 2.5, Wikimedia Commons; qua Hove & Martinez, Hình 1 (chương 4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/"
+        }
+      ]
     },
     {
       "title": "Điều chắc và điều còn tranh cãi",
@@ -166,6 +212,29 @@
       "tone": "light"
     },
     {
+      "title": "Vùng ngôn ngữ ở bán cầu trái",
+      "bullets": [
+        "Broca's area: vùng Broca",
+        "Wernicke's area: vùng Wernicke",
+        "Arcuate fasciculus: bó cung nối hai vùng"
+      ],
+      "notes": "Hình minh họa hai vùng ngôn ngữ ở bán cầu trái.",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/vung-broca-wernicke.png",
+          "alt": "Vùng Broca, vùng Wernicke và bó cung",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 16 (chương 2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
+    },
+    {
       "title": "1.011 người",
       "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
       "sources": [
@@ -239,10 +308,11 @@
         "S3",
         "S4",
         "S5",
-        "S6"
+        "S6",
+        "S7"
       ],
       "bullets": [
-        "Hove & Martinez, Biological Psychology, chương 2",
+        "Hove & Martinez, Biological Psychology, chương 2 và 4 (hình)",
         "Miller và Cohen, Annu Rev Neurosci, 2001",
         "Gazzaniga, Nat Rev Neurosci, 2005",
         "Nielsen và cộng sự, PLOS ONE, 2013",

@@ -18,7 +18,8 @@
     "S2": "https://doi.org/10.1016/S0165-0173(98)00019-8",
     "S3": "https://doi.org/10.1146/annurev.neuro.23.1.155",
     "S4": "https://doi.org/10.1152/physrev.00041.2006",
-    "S5": "https://doi.org/10.1038/nrn755"
+    "S5": "https://doi.org/10.1038/nrn755",
+    "S6": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/"
   },
   "min_words": 700,
   "max_words": 30000,

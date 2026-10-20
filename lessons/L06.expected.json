@@ -21,7 +21,8 @@
     "S4": "https://doi.org/10.1073/pnas.1618923114",
     "S5": "https://doi.org/10.1126/science.275.5306.1593",
     "S6": "https://doi.org/10.1038/nrn755",
-    "S7": "https://doi.org/10.1016/S0165-0173(98)00019-8"
+    "S7": "https://doi.org/10.1016/S0165-0173(98)00019-8",
+    "S8": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
   },
   "min_words": 700,
   "max_words": 30000,

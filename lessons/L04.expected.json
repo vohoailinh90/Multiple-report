@@ -20,7 +20,8 @@
     "S3": "https://doi.org/10.1038/nrn1723",
     "S4": "https://doi.org/10.1371/journal.pone.0071275",
     "S5": "https://bps.org.uk/psychologist/phineas-gage-unravelling-myth",
-    "S6": "https://doi.org/10.1038/nrn2648"
+    "S6": "https://doi.org/10.1038/nrn2648",
+    "S7": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/"
   },
   "min_words": 700,
   "max_words": 30000,

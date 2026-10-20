@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 # Moda PNG exports are not wanted (only .pptx is kept)
 lessons/**/*.png
+# ...except figures embedded in lessons (lessons/<id>/images/)
+!lessons/*/images/*.png

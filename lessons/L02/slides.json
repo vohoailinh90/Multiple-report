@@ -36,6 +36,30 @@
       "tone": "dark"
     },
     {
+      "title": "Nơron trên một hình",
+      "bullets": [
+        "Dendrites: sợi nhánh",
+        "Soma: thân tế bào",
+        "Axon: sợi trục",
+        "Myelin sheath: bao myelin"
+      ],
+      "notes": "Nhãn trong hình bằng tiếng Anh.",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/cau-tao-noron.png",
+          "alt": "Cấu tạo của hai nơron nối với nhau",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/"
+        }
+      ]
+    },
+    {
       "title": "Bên gửi và bên nhận",
       "section": "Cấu tạo một nơron",
       "sources": [
@@ -97,6 +121,29 @@
       "tone": "dark"
     },
     {
+      "title": "Synapse trên một hình",
+      "bullets": [
+        "Vesicle: túi chứa chất dẫn truyền",
+        "Synaptic gap: khe synapse",
+        "Receptor: thụ thể"
+      ],
+      "notes": "Nhãn trong hình bằng tiếng Anh.",
+      "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/synapse.png",
+          "alt": "Synapse: túi chứa chất dẫn truyền, khe synapse và thụ thể",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/"
+        }
+      ]
+    },
+    {
       "title": "Thụ thể: ổ khóa và chìa",
       "section": "Thụ thể: ổ khóa và chìa",
       "sources": [
@@ -142,6 +189,29 @@
       "notes": "Ví dụ của người viết: hội đồng bỏ phiếu, có người ủng hộ, có người phản đối.",
       "layout": "numbered-rows",
       "tone": "light"
+    },
+    {
+      "title": "Vòng tín hiệu điện hóa",
+      "bullets": [
+        "Action potential: xung có hoặc không",
+        "EPSP, IPSP: kích thích, ức chế",
+        "Release of neurotransmitter: giải phóng chất dẫn truyền"
+      ],
+      "notes": "EPSP và IPSP là điện thế kích thích và ức chế ở nơron sau.",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/vong-tin-hieu.png",
+          "alt": "Vòng tín hiệu điện hóa giữa các nơron",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 9 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/communication-within-and-between-neurons/"
+        }
+      ]
     },
     {
       "title": "Các bước đời một chất dẫn truyền",

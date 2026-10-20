@@ -139,6 +139,29 @@
       "tone": "light"
     },
     {
+      "title": "Cấu trúc tham gia cảm xúc",
+      "bullets": [
+        "Amygdala: hạnh nhân",
+        "Nucleus accumbens: nhân accumbens",
+        "Orbital frontal cortex: vỏ não trán ổ mắt"
+      ],
+      "notes": "Hình cho thấy vị trí một số cấu trúc, không phải sơ đồ đầy đủ.",
+      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "sources": [
+        "S6"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/cau-truc-cam-xuc.png",
+          "alt": "Một số cấu trúc tham gia xử lý cảm xúc",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/"
+        }
+      ]
+    },
+    {
       "title": "Não đánh giá mối đe dọa",
       "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
       "sources": [
@@ -256,14 +279,16 @@
         "S2",
         "S3",
         "S4",
-        "S5"
+        "S5",
+        "S6"
       ],
       "bullets": [
         "Schultz và cộng sự, Science, 1997",
         "Berridge và Robinson, Brain Res Rev, 1998",
         "LeDoux, Annu Rev Neurosci, 2000",
         "McEwen, Physiol Rev, 2007",
-        "Corbetta và Shulman, Nat Rev Neurosci, 2002"
+        "Corbetta và Shulman, Nat Rev Neurosci, 2002",
+        "Hove & Martinez, Biological Psychology, chương 10 (hình)"
       ],
       "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
       "layout": "lookup-table",

@@ -20,7 +20,8 @@
     "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
     "S2": "https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm",
     "S3": "https://doi.org/10.1038/s41380-022-01661-0",
-    "S4": "https://www.ncbi.nlm.nih.gov/books/NBK10795/"
+    "S4": "https://www.ncbi.nlm.nih.gov/books/NBK10795/",
+    "S5": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
   },
   "min_words": 700,
   "max_words": 30000,

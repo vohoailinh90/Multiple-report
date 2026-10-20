@@ -93,6 +93,35 @@
       "tone": "dark"
     },
     {
+      "title": "Chụp não bằng fMRI trông thế nào",
+      "bullets": [
+        "Ảnh minh họa chung",
+        "Không phải ảnh của nghiên cứu",
+        "Màu nóng: hoạt động cao hơn mức nền"
+      ],
+      "notes": "Hai hình chỉ giúp hình dung thiết bị và cách hiển thị kết quả.",
+      "section": "Bấm thích và ảnh hưởng của bạn bè",
+      "sources": [
+        "S8"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/may-mri.jpg",
+          "alt": "Máy chụp cộng hưởng từ với người nằm trong lòng máy",
+          "credit": "Mart Production (Pexels), CC0; qua Hove & Martinez, Hình 9 (chương 4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
+        },
+        {
+          "file": "images/anh-fmri.jpg",
+          "alt": "Nhà nghiên cứu xem ảnh fMRI với vùng hoạt động tô màu",
+          "credit": "Wikimedia Commons, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 11 (chương 4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
+        }
+      ]
+    },
+    {
       "title": "563.312 thông điệp",
       "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
       "sources": [
@@ -255,14 +284,16 @@
         "S4",
         "S5",
         "S6",
-        "S7"
+        "S7",
+        "S8"
       ],
       "bullets": [
         "Meshi và cộng sự, Trends Cogn Sci, 2015",
         "Sherman và cộng sự, Psychol Sci, 2016",
         "Orben và Przybylski, Nat Hum Behav, 2019",
         "Brady và cộng sự, PNAS, 2017",
-        "Schultz 1997, Corbetta 2002, Berridge 1998"
+        "Schultz 1997, Corbetta 2002, Berridge 1998",
+        "Hove & Martinez, Biological Psychology, chương 4 (hình)"
       ],
       "notes": "Đường dẫn đầy đủ ở lesson.md.",
       "layout": "lookup-table",

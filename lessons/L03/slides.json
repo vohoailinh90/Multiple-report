@@ -94,6 +94,29 @@
       "tone": "dark"
     },
     {
+      "title": "Thuốc tác động tại synapse",
+      "bullets": [
+        "Neurotransmitter: chất dẫn truyền",
+        "Reuptake receptor: thụ thể thu hồi",
+        "Reuptake inhibitor: chất ức chế thu hồi"
+      ],
+      "notes": "Hình minh họa một cách thuốc có thể tác động tại synapse.",
+      "section": "Serotonin",
+      "sources": [
+        "S5"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/thu-hoi-serotonin.jpeg",
+          "alt": "Synapse với chất ức chế thu hồi chất dẫn truyền",
+          "credit": "OpenStax Psychology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 12)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
+        }
+      ]
+    },
+    {
       "title": "Noradrenaline",
       "section": "Noradrenaline",
       "sources": [
@@ -231,13 +254,15 @@
         "S1",
         "S2",
         "S3",
-        "S4"
+        "S4",
+        "S5"
       ],
       "bullets": [
         "Hove & Martinez, Biological Psychology, chương 5",
         "Neuroscience Online, UTHealth Houston, chương 11 đến 14",
         "Moncrieff và cộng sự, Molecular Psychiatry, 2022",
-        "Purves và cộng sự, Neuroscience, 2001, chương 6"
+        "Purves và cộng sự, Neuroscience, 2001, chương 6",
+        "Hove và Martinez, chương 12 (hình minh họa)"
       ],
       "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
       "layout": "lookup-table",

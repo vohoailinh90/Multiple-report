@@ -65,6 +65,29 @@
       "tone": "dark"
     },
     {
+      "title": "Thân não nhìn từ bên cạnh",
+      "bullets": [
+        "Midbrain: não giữa",
+        "Pons: cầu não",
+        "Medulla: hành tủy"
+      ],
+      "notes": "Hình lấy nhãn tiếng Anh; phần tiếng Việt là cách gọi trong bài.",
+      "section": "Thân não và tiểu não",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/than-nao.png",
+          "alt": "Thân não: não giữa, cầu não, hành tủy",
+          "credit": "BruceBlaus (Blausen.com), CC BY 3.0, Wikimedia Commons; qua Hove & Martinez, Hình 24",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
+    },
+    {
       "title": "Hệ viền và các cấu trúc nằm sâu",
       "section": "Hệ viền và các cấu trúc nằm sâu",
       "sources": [
@@ -82,6 +105,30 @@
       "tone": "light"
     },
     {
+      "title": "Hệ viền nhìn từ giữa não",
+      "bullets": [
+        "Amygdala: hạnh nhân",
+        "Hippocampus: hải mã",
+        "Thalamus: đồi thị",
+        "Hypothalamus: vùng dưới đồi"
+      ],
+      "notes": "Hình chỉ cho thấy vị trí; chức năng nằm ở bảng của slide trước.",
+      "section": "Hệ viền và các cấu trúc nằm sâu",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/he-vien.jpeg",
+          "alt": "Mặt cắt giữa não với các cấu trúc của hệ viền",
+          "credit": "OpenStax Biology 2e qua Wikimedia Commons, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 19",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
+    },
+    {
       "title": "Bốn thùy của vỏ não",
       "section": "Vỏ não và bốn thùy",
       "sources": [
@@ -97,6 +144,30 @@
       "notes": "Mỗi bán cầu có đủ bốn thùy. Thùy trán và hai bán cầu có bài riêng (L04).",
       "layout": "card-grid",
       "tone": "dark"
+    },
+    {
+      "title": "Bốn thùy trên một hình",
+      "bullets": [
+        "Frontal: thùy trán",
+        "Parietal: thùy đỉnh",
+        "Temporal: thùy thái dương",
+        "Occipital: thùy chẩm"
+      ],
+      "notes": "Rãnh trung tâm ngăn thùy trán với thùy đỉnh.",
+      "section": "Vỏ não và bốn thùy",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/bon-thuy.jpeg",
+          "alt": "Bốn thùy của vỏ não nhìn từ bên cạnh",
+          "credit": "OpenStax Anatomy & Physiology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 12",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
     },
     {
       "title": "Một việc nhỏ dùng nhiều vùng",

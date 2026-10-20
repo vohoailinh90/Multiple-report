@@ -45,6 +45,10 @@ chính được trình bày ở L00. Liên quan đến những chức năng này
 Serotonin cũng là một chất điều hòa. Nó liên quan đến tâm trạng, giấc ngủ và khẩu vị [S1] [S2]. Nhiều thuốc chống trầm cảm tác
 động lên hệ serotonin, cụ thể một nhóm ức chế bước thu hồi (tái hấp thu, reuptake) ở synapse (L02) [S1]. Một quan niệm phổ biến là "trầm cảm do thiếu serotonin"; mục cuối của bài xem quan niệm ấy được khoa học ủng hộ đến đâu.
 
+![Synapse với chất ức chế thu hồi chất dẫn truyền](images/thu-hoi-serotonin.jpeg)
+
+*Nhiều thuốc điều trị rối loạn khí sắc tác động tại synapse; ví dụ nhóm ức chế thu hồi serotonin chọn lọc (SSRI) ngăn chất dẫn truyền bị thu ngược về nơron trước. Nhãn tiếng Anh: reuptake receptor (thụ thể thu hồi), reuptake inhibitor (chất ức chế thu hồi). Nguồn hình: OpenStax Psychology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 12). https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/ [S5]*
+
 ## Noradrenaline
 
 Noradrenaline (còn gọi là norepinephrine) liên quan đến sự tỉnh táo, chú ý và phản ứng với căng thẳng [S1] [S2]. Bạn sẽ gặp lại nó
@@ -110,3 +114,4 @@ trợ giúp ngay từ bác sĩ, chuyên gia tâm lý hoặc đường dây hỗ 
 - [S2] Byrne J. H. (chủ biên), Neuroscience Online: An Open-Access Neuroscience Electronic Textbook, UTHealth Houston, Chương 11-14 (acetylcholine, amin sinh học, amino acid, neuropeptide) https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm
 - [S3] Moncrieff J. và cộng sự, The serotonin theory of depression: a systematic umbrella review of the evidence, Molecular Psychiatry, 2022 https://doi.org/10.1038/s41380-022-01661-0
 - [S4] Purves D. và cộng sự, Neuroscience, 2nd edition, Sinauer Associates, 2001, Chương 6 "Neurotransmitters", NCBI Bookshelf https://www.ncbi.nlm.nih.gov/books/NBK10795/
+- [S5] Hove & Martinez, Biological Psychology (Revised Edition), Chương 12 "Biopsychology of Psychological Disorders", mục 12.3, Hình 3 (hình minh họa), ROTEL Pressbooks https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/

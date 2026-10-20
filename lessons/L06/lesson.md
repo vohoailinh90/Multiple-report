@@ -41,6 +41,14 @@ năng (functional MRI, fMRI), và thay đổi số lượt thích hiển thị b
 tin; nó là tín hiệu xã hội ảnh hưởng đến phản ứng của não. Cần nhớ giới hạn: mẫu nhỏ, trong phòng thí nghiệm, và là mô phỏng chứ không phải
 mạng xã hội thật [S2].
 
+![Máy chụp cộng hưởng từ với người nằm trong lòng máy](images/may-mri.jpg)
+
+*Máy chụp cộng hưởng từ (MRI) với một người nằm trong lòng máy. Đây là ảnh minh họa chung, không phải ảnh của nghiên cứu ở trên. Nguồn hình: Mart Production (Pexels), CC0; qua Hove & Martinez, Hình 9 (chương 4). https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/ [S8]*
+
+![Nhà nghiên cứu xem ảnh fMRI với vùng hoạt động tô màu](images/anh-fmri.jpg)
+
+*Nhà nghiên cứu xem ảnh quét não; vùng hoạt động cao hơn mức nền thường được tô màu nóng (đỏ, cam). Ảnh minh họa chung, không phải ảnh của nghiên cứu ở trên. Nguồn hình: Wikimedia Commons, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 11 (chương 4). https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/ [S8]*
+
 ## Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn
 
 William Brady và cộng sự phân tích 563.312 thông điệp trên Twitter về ba chủ đề gây chia rẽ (kiểm soát súng, hôn nhân đồng giới và biến
@@ -123,3 +131,4 @@ quy kết lỗi cho thiếu niên hay phụ huynh.
 - [S5] Schultz W., Dayan P., Montague P. R., A neural substrate of prediction and reward, Science, 1997 https://doi.org/10.1126/science.275.5306.1593
 - [S6] Corbetta M., Shulman G. L., Control of goal-directed and stimulus-driven attention in the brain, Nature Reviews Neuroscience, 2002 https://doi.org/10.1038/nrn755
 - [S7] Berridge K. C., Robinson T. E., What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?, Brain Research Reviews, 1998 https://doi.org/10.1016/S0165-0173(98)00019-8
+- [S8] Hove & Martinez, Biological Psychology (Revised Edition), Chương 4 "Research Methods in Biological Psychology", mục 4.5, Hình 9 và 11 (hình minh họa), ROTEL Pressbooks https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/

@@ -7,7 +7,8 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 
 ## Cố định cho mọi deck
 
-- Canvas `1920x1080`, category `slides`, **không brand kit** (`skip_brand_kit=true`), chỉ vector (không sinh ảnh).
+- Canvas `1920x1080`, category `slides`, **không brand kit** (`skip_brand_kit=true`), không sinh ảnh bằng máy. Hình có giấy phép lấy từ giáo trình
+  (layout `figure`, bên dưới) được phép; mỗi hình phải có dòng tín dụng.
   Tên canvas: `Multiple-report · <id> · <tiêu đề>`. Gửi link editor ngay khi canvas có.
 - Font: **Bricolage Grotesque** 800 cho tiêu đề và số lớn, **Be Vietnam Pro** cho mọi chữ khác. Cỡ: tiêu đề bìa 108,
   tiêu đề slide 72–100, thân 34–40, nhãn 22–28; không gì dưới 22.
@@ -46,6 +47,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `timeline` | một trục ngang, các mốc có nhãn trên và dưới |
 | `one-big-number` | một con số rất lớn (chỉ số bài học có nêu) và một câu giải thích |
 | `one-highlighted-sentence` | một câu lớn, từ khóa tô màu của khái niệm |
+| `figure` | khung trắng bo góc bên trái chứa hình (`fit="contain"`, tải bằng `upload url=`), bên phải 3 thẻ chú giải: nhãn tiếng Anh của hình màu nhấn, nghĩa tiếng Việt bên dưới; dòng `Hình: <tác giả, giấy phép, hình số, chương>` cỡ 22 ở y=892, dòng `Nguồn:` ở y=944 |
 
 ## Quy trình
 
@@ -56,3 +58,10 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 5. Xem **mọi** slide bằng `canvas_screenshot`, ba trang một lệnh; sửa chữ bị cắt, co nhỏ, chồng lên nhau.
 6. `export` dạng **PPTX** (không PNG, không PDF), tải về `lessons/<id>/<id>.pptx`, rồi
    `python3 scripts/decks.py record <id> --canvas <URL>`: script kiểm PPTX có đúng số slide và ghi `deck.json`.
+
+## Hình trong bài
+
+- Ảnh nằm ở `lessons/<id>/images/` (ngoại lệ của quy tắc "chỉ PPTX"; `.gitignore` cho phép `lessons/*/images/*.png`), khai báo trong `slides.json` khóa `images` (`file`, `alt`, `credit`, `url`) và chèn vào `lesson.md` kèm chú thích và `Nguồn hình`.
+- Chỉ dùng hình mà mục *Media Attributions* của chương ghi giấy phép cho phép dùng lại (giáo trình là CC BY-NC-SA 4.0). Giấy phép riêng của từng hình ghi như sách nêu; hình đã đối chiếu trên Wikimedia Commons: Blausen (CC BY 3.0), Gage (CC BY 2.5).
+- Thêm một slide chen giữa làm dời chân trang (chấm tiến độ và NN/TT) của mọi slide sau, nên dựng lại cả deck trên canvas mới thay vì chèn.
+- Áp markup lên trang đã có nội dung sẽ **thêm chồng**, không thay thế; sửa trang thì xoá nút cũ bằng `canvas_delete` hoặc dùng `canvas_edit`.

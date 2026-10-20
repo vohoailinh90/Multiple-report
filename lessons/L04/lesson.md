@@ -22,6 +22,10 @@ mà bài này dẫn chủ yếu nói về vỏ não trước trán, không phả
 
 Nối với L00: một trong ba đường dẫn dopamine đi từ não giữa lên vỏ não trước trán, liên quan đến chú ý và lập kế hoạch.
 
+![Vỏ não trước trán và các vùng con](images/vo-nao-truoc-tran.png)
+
+*Vỏ não trước trán (màu xanh) và các vùng con. Nhãn tiếng Anh: dorsolateral (lưng bên), ventrolateral (bụng bên), orbitofrontal (ổ mắt), premotor cortex (vỏ tiền vận động), motor cortex (vỏ vận động); các số là vùng Brodmann. Nguồn hình: Wikipedia, CC BY-SA, chỉnh bởi Hove & Martinez; Hove & Martinez, Hình 15 (chương 2). https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/ [S1]*
+
 ## Vỏ não trước trán làm gì
 
 Earl Miller và Jonathan Cohen đề xuất rằng vỏ não trước trán duy trì các mẫu hoạt động mã hóa mục tiêu và phương tiện để đạt
@@ -46,6 +50,10 @@ Tuy vậy, Malcolm Macmillan, tác giả cuốn An Odd Kind of Fame (2000) về 
 Harlow năm 1868, nhiều năm sau; theo ông, thay đổi ghi nhận khi Gage còn sống ít kịch tính hơn so với cách kể lại về sau [S5]. Bài học nên
 rút ra: tổn thương thùy trán có thể ảnh hưởng đến hành vi, nhưng một câu chuyện cũ được kể lại nhiều lần cần được kiểm tra lại trước
 khi tin hoàn toàn [S5]. Mức tổn thương chính xác của não ông cũng chỉ được suy ra về sau, không phải điều chắc chắn (nhận định của người viết).
+
+![Mô phỏng đường đi của thanh sắt qua hộp sọ Phineas Gage](images/phineas-gage-mo-phong.jpg)
+
+*Mô phỏng bằng máy tính đường đi của thanh sắt qua hộp sọ của Phineas Gage; màu sắc là các bó sợi chất trắng. Đây là tái dựng ước đoán, không phải ảnh chụp não của ông. Nguồn hình: Van Horn JD và cộng sự, CC BY 2.5, Wikimedia Commons; qua Hove & Martinez, Hình 1 (chương 4). https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/ [S7]*
 
 ## Kiểm soát bản thân: cái phanh của não
 
@@ -85,6 +93,10 @@ từ 7 đến 29 tuổi. Họ đo mức nghiêng trái, phải của kết nối
 hay "não phải" ở toàn bộ não: người có mạng ngôn ngữ nghiêng trái mạnh không nhất thiết có các mạng khác nghiêng trái mạnh.
 Chuyên biệt hóa là đặc điểm cục bộ, theo từng kết nối và mạng, không phải đặc điểm chung của cả con người [S4].
 
+![Vùng Broca, vùng Wernicke và bó cung](images/vung-broca-wernicke.png)
+
+*Vùng Broca ở thùy trán trái, vùng Wernicke ở thùy thái dương trên, và bó cung (arcuate fasciculus) nối hai vùng. Nhãn tiếng Anh: Broca's area, Wernicke's area, angular gyrus (hồi góc). Nguồn hình: Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 16 (chương 2). https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/ [S1]*
+
 ## Vì sao "người não trái, người não phải" là hiểu lầm
 
 Ba lý do chính [S3] [S4]:
@@ -113,3 +125,4 @@ hệ thưởng, chú ý, cảm xúc và căng thẳng, nơi vỏ não trước t
 - [S4] Nielsen J. A. và cộng sự, An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging, PLOS ONE, 2013 https://doi.org/10.1371/journal.pone.0071275
 - [S5] Macmillan M., Phineas Gage – Unravelling the myth, The Psychologist, 2008 (tác giả cũng viết cuốn An Odd Kind of Fame, MIT Press, 2000) https://bps.org.uk/psychologist/phineas-gage-unravelling-myth
 - [S6] Arnsten A. F. T., Stress signalling pathways that impair prefrontal cortex structure and function, Nature Reviews Neuroscience, 2009 https://doi.org/10.1038/nrn2648
+- [S7] Hove & Martinez, Biological Psychology (Revised Edition), Chương 4 "Research Methods in Biological Psychology", mục 4.2, Hình 1 (hình minh họa), ROTEL Pressbooks https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/

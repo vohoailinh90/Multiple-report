@@ -51,6 +51,10 @@ lại nhiều lần thì chỉ cần âm thanh, động vật cũng có phản �
 Đừng hiểu hạnh nhân chỉ là "trung tâm sợ hãi" của mọi cảm xúc: bài này chỉ nói về vai trò của nó trong nỗi sợ vì đó là phần được
 nghiên cứu nhiều nhất [S3].
 
+![Một số cấu trúc tham gia xử lý cảm xúc](images/cau-truc-cam-xuc.png)
+
+*Một số trong nhiều cấu trúc tham gia xử lý cảm xúc. Nhãn tiếng Anh: amygdala (hạnh nhân), nucleus accumbens (nhân accumbens), orbital frontal cortex (vỏ não trán ổ mắt), hypothalamus (vùng dưới đồi), thalamus (đồi thị). Nguồn hình: Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 10). https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/ [S6]*
+
 ## Căng thẳng: não quyết định điều gì là mối đe dọa
 
 Bruce McEwen mô tả não là cơ quan trung tâm của phản ứng căng thẳng, vì chính não đánh giá điều gì là đe dọa và quyết định phản ứng
@@ -103,3 +107,4 @@ lý. Các nghiên cứu về hạnh nhân chủ yếu dựa trên nỗi sợ ở
 - [S3] LeDoux J. E., Emotion circuits in the brain, Annual Review of Neuroscience, 2000 https://doi.org/10.1146/annurev.neuro.23.1.155
 - [S4] McEwen B. S., Physiology and neurobiology of stress and adaptation: central role of the brain, Physiological Reviews, 2007 https://doi.org/10.1152/physrev.00041.2006
 - [S5] Corbetta M., Shulman G. L., Control of goal-directed and stimulus-driven attention in the brain, Nature Reviews Neuroscience, 2002 https://doi.org/10.1038/nrn755
+- [S6] Hove & Martinez, Biological Psychology (Revised Edition), Chương 10 "Emotion and Affective Neuroscience", mục 10.1, Hình 2 (hình minh họa), ROTEL Pressbooks https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/

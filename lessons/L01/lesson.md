@@ -38,6 +38,10 @@ táo [S1] [S3]. Vì chứa những vùng điều khiển nhịp thở và nhịp
 Tiểu não nằm phía sau, bên dưới vỏ não. Nó giúp giữ thăng bằng, phối hợp các cử động và học các kỹ năng vận động
 [S1] [S3].
 
+![Thân não: não giữa, cầu não, hành tủy](images/than-nao.png)
+
+*Thân não nhìn từ bên cạnh: não giữa (midbrain), cầu não (pons), hành tủy (medulla). Nhãn trong hình bằng tiếng Anh. Nguồn hình: BruceBlaus (Blausen.com), CC BY 3.0, Wikimedia Commons; qua Hove & Martinez, Hình 24. https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/ [S1]*
+
 ## Hệ viền và các cấu trúc nằm sâu
 
 Nằm sâu bên trong, giữa thân não và vỏ não, là một nhóm cấu trúc thường được xếp vào hệ viền (limbic system) [S1].
@@ -53,6 +57,10 @@ Bốn cấu trúc nên biết là hạnh nhân, hải mã, đồi thị và vùn
 Cách chia "hệ viền" là quy ước tiện cho việc học: các tài liệu không xếp hoàn toàn giống nhau, chẳng hạn đồi thị không
 phải tài liệu nào cũng tính vào nhóm này.
 
+![Mặt cắt giữa não với các cấu trúc của hệ viền](images/he-vien.jpeg)
+
+*Mặt cắt giữa não: các cấu trúc thường xếp vào hệ viền. Nhãn tiếng Anh: cingulate gyrus (hồi đai), thalamus (đồi thị), hypothalamus (vùng dưới đồi), pituitary (tuyến yên), amygdala (hạnh nhân), hippocampus (hải mã). Nguồn hình: OpenStax Biology 2e qua Wikimedia Commons, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 19. https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/ [S1]*
+
 ## Vỏ não và bốn thùy
 
 Vỏ não (cerebral cortex) là lớp ngoài cùng, nhăn nheo, của hai bán cầu não. Mỗi bán cầu thường được chia thành bốn
@@ -64,6 +72,10 @@ thùy gọi theo vị trí: thùy trán, thùy đỉnh, thùy thái dương và 
 - **Thùy chẩm (occipital), ở phía sau đầu:** xử lý hình ảnh từ mắt.
 
 Thùy trán và hai bán cầu có bài riêng (L04), vì đó là nơi nhiều hiểu lầm nhất.
+
+![Bốn thùy của vỏ não nhìn từ bên cạnh](images/bon-thuy.jpeg)
+
+*Bốn thùy của vỏ não nhìn từ bên cạnh: trán (frontal), đỉnh (parietal), thái dương (temporal), chẩm (occipital). Rãnh trung tâm (central sulcus) ngăn thùy trán với thùy đỉnh. Nguồn hình: OpenStax Anatomy & Physiology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 12. https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/ [S1]*
 
 ## Đừng hiểu "mỗi vùng một việc" quá đà
 

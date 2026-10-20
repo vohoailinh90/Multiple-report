@@ -75,14 +75,12 @@ mà không có nguồn đã kiểm lại.
 
 Mỗi bài có hình lấy từ giáo trình mở hoặc Wikimedia Commons, để bài sinh động và dễ hiểu.
 
-- **Trạng thái:** chờ mở mạng. Máy chủ của phiên này đang chặn các trang nguồn nên chưa tải được ảnh nào; danh sách domain
-  đã gửi chủ repo để thêm vào Allowed domains.
+- **Trạng thái:** đã làm. 13 hình từ giáo trình *Biological Psychology* (Hove & Martinez, ROTEL Pressbooks) nằm trong L01–L06
+  (L01 3, L02 3, L03 1, L04 3, L05 1, L06 2), mỗi hình có slide `figure` và đoạn trong `lesson.md`.
 - **Điều kiện dùng một hình:** trang nguồn ghi rõ giấy phép cho phép dùng lại (CC BY, CC BY-SA, CC0, public domain, hoặc
   CC BY-NC-SA của chính giáo trình nếu mục đích phi thương mại). Ghi tác giả, giấy phép và URL trang ảnh; đặt vào `notes` của
   slide và ở chân slide.
-- **Nơi lưu:** ảnh nằm trong file PPTX do Moda xuất. `CLAUDE.md` chỉ cho phép PPTX trong thư mục bài, nên không để PNG riêng
-  trong repo; bảng tác giả/giấy phép của ảnh ghi trong `slides.json` (khóa `images`) để nhóm phản biện kiểm lại.
+- **Nơi lưu:** `lessons/<id>/images/`, kèm bảng tác giả/giấy phép trong `slides.json` (khóa `images`) để nhóm phản biện kiểm lại.
 - **Phản biện:** thêm một agent kiểm hình: giấy phép có đúng không, hình có minh họa đúng ý slide không, có hình nào sai
   khoa học hay lỗi thời không.
-- **Việc của `deck-style.md`:** quy định hiện tại "chỉ vector (không sinh ảnh)" nói về ảnh do máy sinh. Ảnh có giấy phép
-  được thêm theo yêu cầu của chủ repo; sẽ cập nhật tài liệu phong cách khi bắt đầu dùng ảnh.
+- **Còn lại:** đối chiếu giấy phép riêng của hình còn ghi "theo sách" trên Wikimedia Commons khi API hết giới hạn tốc độ (chỉ Blausen và Gage đã kiểm).

@@ -30,6 +30,10 @@ chứ không phải một dây chuyền thẳng [S1] [S3].
 Để các bước sau dễ theo dõi, hãy nhớ hai cách gọi: **nơron trước** là nơron đang gửi tín hiệu, **nơron sau** là nơron đang
 nhận. Một nơron có thể là "nơron sau" của nơron này và "nơron trước" của nơron khác.
 
+![Cấu tạo của hai nơron nối với nhau](images/cau-tao-noron.png)
+
+*Cấu tạo cơ bản của nơron. Nhãn tiếng Anh: dendrites (sợi nhánh), soma (thân tế bào), nucleus (nhân), axon (sợi trục), myelin sheath (bao myelin), nodes of Ranvier (eo Ranvier), synapse (khớp thần kinh). Nguồn hình: Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 3). https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/ [S1]*
+
 ## Tín hiệu điện: xung thần kinh
 
 Khi một nơron đủ bị kích thích, nó phát ra một xung thần kinh: một thay đổi điện chạy dọc sợi trục. Alan Hodgkin và Andrew
@@ -57,6 +61,10 @@ khe này như dòng điện; ở phần lớn synapse, tín hiệu được truy
 3. Chất dẫn truyền gắn vào thụ thể (receptor), những phân tử trên màng của nơron sau.
 4. Thụ thể làm thay đổi hoạt động của nơron sau [S1] [S3].
 
+![Synapse: túi chứa chất dẫn truyền, khe synapse và thụ thể](images/synapse.png)
+
+*Đặc điểm của một synapse. Nhãn tiếng Anh: vesicle (túi chứa), neurotransmitter (chất dẫn truyền), synaptic gap (khe synapse), receptor (thụ thể), presynaptic terminal button (đầu tận cùng nơron trước), postsynaptic spine (gai của nơron sau). Nguồn hình: Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 3). https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/ [S1]*
+
 ## Thụ thể: ổ khóa và chìa
 
 Thụ thể là những phân tử trên màng nơron sau, có hình dạng chỉ hợp với một số chất dẫn truyền nhất định [S1]. Ví dụ của người
@@ -75,6 +83,10 @@ hơn) hoặc ức chế (khiến nó khó phát xung hơn), tùy chất dẫn tr
 
 Ví dụ của người viết: giống một hội đồng bỏ phiếu, có người ủng hộ, có người phản đối; nếu số ủng hộ thắng đủ nhiều thì nơron
 sau phát xung. Chất dẫn truyền nào kích thích, chất nào ức chế sẽ là chủ đề của L03.
+
+![Vòng tín hiệu điện hóa giữa các nơron](images/vong-tin-hieu.png)
+
+*Tóm tắt giao tiếp điện hóa trong và giữa các nơron: xung điện kiểu có hoặc không (action potential), giải phóng chất dẫn truyền (release of neurotransmitter), điện thế sau synapse kích thích hoặc ức chế (EPSP và IPSP). Nguồn hình: Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 9 (chương 3). https://rotel.pressbooks.pub/biologicalpsychology/chapter/communication-within-and-between-neurons/ [S1]*
 
 ## Chấm dứt tín hiệu
 

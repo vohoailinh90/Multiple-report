@@ -254,6 +254,12 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(5, bullets=["S1: a", "S2 nguồn hai", "S3: c", "S4: d", "S5: e"]))
         self.assertTrue(any(e.startswith("references slide lists") for e in errs), errs)
 
+    def test_a_reference_card_needs_text_after_its_label(self):
+        errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
+        self.assertIn("reference card has no text after its label: S1: ", errs)
+        errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}:" for k in range(1, 6)]))
+        self.assertIn("reference card has no ': ' after its label: S1:", errs)
+
     def test_image_credit_url_and_alt_must_not_be_blank(self):
         img = [{"file": "images/x.png", "alt": "a", "credit": " ", "url": ""}]
         errs, _ = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))

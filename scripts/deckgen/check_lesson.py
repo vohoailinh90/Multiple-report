@@ -178,6 +178,8 @@ def check(root, lid):
         if L == "references":
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]
             labels = [b.split(": ", 1)[0] if ": " in b else b for b in bl]  # the card label is what gen.split_kv puts before ": "
+            errs += [f"reference card has no text after its label: {b}" for b in bl if ": " in b and not b.split(": ", 1)[1].strip()]
+            errs += [f"reference card has no ': ' after its label: {b}" for b in bl if ": " not in b]
             if sorted(labels) != sorted(refs):
                 errs.append(f"references slide lists {sorted(labels)}, the reference list has {sorted(refs)}")
         else:

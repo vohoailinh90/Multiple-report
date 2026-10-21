@@ -128,6 +128,7 @@ def check(root, lid):
     secs = re.findall(r"^## (.+)$", body, re.M)
     if secs != ex["sections"]: errs.append(f"sections differ: {secs}")
     if not secs or secs[-1] != "Nguồn tham khảo": errs.append("last section")
+    if fm and meta.get("topic") == "suc-khoe" and "Lưu ý" not in secs: errs.append("a health lesson needs a '## Lưu ý' section (not medical advice)")
     text, _, reflist = body.partition("\n## Nguồn tham khảo\n")
     found = re.findall(r"^- \[(S\d+)\] (.+)$", reflist, re.M)
     errs += [f"bibliography line is not '- [Sn] text': {l.strip()[:60]}" for l in reflist.splitlines()
@@ -256,7 +257,7 @@ def check(root, lid):
             figures += 1
             if not {"file", "alt", "credit", "url"} <= set(img): errs.append(f"image entry incomplete: {name}")
             elif not (base / img["file"]).is_file(): errs.append(f"image missing: {img['file']}")
-        drawn = " ".join([name, s.get("body", ""), *bl, *(x[k] for x in s.get("facts", []) for k in ("label", "text") if k in x)])
+        drawn = " ".join([name, s.get("body", ""), *bl, *(m["credit"] for m in s.get("images", [])), *(x[k] for x in s.get("facts", []) for k in ("label", "text") if k in x)])
         for k in set(s.get("sources", [])) | set(CITE.findall(drawn)):
             if k not in refs: errs.append(f"slide cites {k}, not in the reference list: {name}")
         if s["section"] != "Nguồn tham khảo":  # the footer lists `sources` only, so a citation drawn in the text must be there too

@@ -416,6 +416,24 @@ class GateTests(unittest.TestCase):
         (opts / "L99.json").write_text(json.dumps({"big": {"3": "86 tỷ"}}), encoding="utf-8")
         self.assertEqual(self.run_gate()[0], [])
 
+    def test_an_image_credit_cannot_cite_an_undeclared_source(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "Tác giả [S999]", "url": "https://example.org/x.png"}]
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        errs, _ = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
+        self.assertIn("slide cites S999, not in the reference list: Ba bước", errs)
+
+    def test_a_health_lesson_needs_a_warning_section(self):
+        lesson = LESSON.replace("topic: nao-bo", "topic: suc-khoe")
+        errs, _ = self.run_gate(lesson=lesson, expected={**EXPECTED, "topic": "suc-khoe"})
+        self.assertIn("a health lesson needs a '## Lưu ý' section (not medical advice)", errs)
+        with_note = lesson.replace("## Nguồn tham khảo", "## Lưu ý\n\nĐây không phải lời khuyên y tế.\n\n## Nguồn tham khảo")
+        sections = ["Tóm tắt", "Hạnh nhân", "Lưu ý", "Nguồn tham khảo"]
+        slides = copy.deepcopy(SLIDES)
+        slides.insert(-1, {**slides[0], "title": "Lưu ý", "section": "Lưu ý", "layout": "one-highlighted-sentence", "tone": "light", "bullets": ["Không phải lời khuyên y tế."]})
+        errs, _ = self.run_gate(slides, expected={**EXPECTED, "topic": "suc-khoe", "sections": sections, "section_min_exempt": [*EXPECTED["section_min_exempt"], "Lưu ý"]}, lesson=with_note)
+        self.assertEqual(errs, [])
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)

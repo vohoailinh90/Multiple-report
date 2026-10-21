@@ -3,7 +3,7 @@
 
 usage: gen.py <lesson-id> <page 0..N> [--opts file.json] [--slides file.json]
 page 0 is the cover, pages 1..N follow slides.json. Prints the <content>...</content> markup.
---slides reads another slides.json (the demo deck in tests/fixtures/deckgen/). Images are placed by file name from file_ids.json.
+--slides reads another slides.json (the demo deck in tests/fixtures/deckgen/). Images are placed by <lesson id>/<file> from file_ids.json.
 opts file: {"topic_label": "...", "question": "...", "motif": "...", "big": {"3": "86 tỷ"},
             "actors": {"6": ["A","B","C"]}, "mark": {"5": "có hoặc không"}, "concepts": ["hạnh nhân", ...]}
 "concepts" gives each concept its colour (concept k takes accent (n + k) mod 4); a **term** in a body that names
@@ -345,10 +345,10 @@ def images(p, s, px, py, pw, ph):
     for k, im in enumerate(imgs):
         cx = px + k * (cw + gap)
         out.append(f'<rectangle x="{cx:.0f}" y="{py}" width="{cw:.0f}" height="{ph}" corner-radius="28" fill="#FFFFFF" stroke="{p["diagline"]}" stroke-width="3"/>')
-        name = Path(im["file"]).name
-        if name not in FILE_IDS:
-            raise SystemExit(f"{name} has no Moda id: upload it (upload url=...) and add it to scripts/deckgen/file_ids.json")
-        fid = FILE_IDS[name]
+        key = f'{s["_lid"]}/{im["file"]}'  # per lesson: two lessons may keep different files under one name
+        if key not in FILE_IDS:
+            raise SystemExit(f"{key} has no Moda id: upload it (upload url=...) and add it to scripts/deckgen/file_ids.json")
+        fid = FILE_IDS[key]
         out.append(f'<image src="{fid}" x="{cx + 20:.0f}" y="{py + 20}" width="{cw - 40:.0f}" height="{ph - 40}" fit="contain"/>')
     credits = "; ".join(dict.fromkeys(im["credit"] for im in imgs))
     out.append(f'<text x="{M}" y="890" width="1728" height="52" font-size="22" color="{p["sub"]}" line-height="1.1" vertical-align="top">Hình: {x(credits)}</text>')
@@ -512,7 +512,7 @@ def page(lid, i, o, slides=None):
     if i == 0:
         body = cover(lid, d, o, total)
     else:
-        s = d["slides"][i - 1]
+        s = {**d["slides"][i - 1], "_lid": lid}
         p = pal(s["tone"])
         body = [f'<background fill="{p["bg"]}"/>', title(p, s["title"])]
         lay = s["layout"]

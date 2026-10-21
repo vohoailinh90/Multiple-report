@@ -132,6 +132,21 @@ class GenTests(unittest.TestCase):
                 self.assertEqual(len(bottoms), count)
                 self.assertLessEqual(max(bottoms), 944)
 
+    def test_moda_ids_are_per_lesson_not_per_file_name(self):
+        """A file name uploaded for one lesson must not stand in for a different file of the same name in another."""
+        fig = {"title": "Hình", "section": "A", "sources": [], "bullets": ["một"], "notes": "", "layout": "figure", "tone": "light",
+               "images": [{"file": "images/a.png", "alt": "a", "credit": "c", "url": "u"}]}
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [fig]}), encoding="utf-8")
+        self.addCleanup(gen.FILE_IDS.pop, "L40/images/a.png", None)
+        gen.FILE_IDS["L40/images/a.png"] = "file_AAA"
+        self.assertIn('src="file_AAA"', gen.page("L40", 1, {}, path))
+        with self.assertRaises(SystemExit) as caught:
+            gen.page("L41", 1, {}, path)
+        self.assertIn("L41/images/a.png has no Moda id", str(caught.exception))
+
     def test_fit_shrinks_long_text_but_not_below_the_floor(self):
         short, long = "một câu ngắn", " ".join(["chữ"] * 400)
         self.assertEqual(gen.fit(short, 600, 200, 40), 40)

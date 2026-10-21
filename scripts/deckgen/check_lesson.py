@@ -30,6 +30,7 @@ HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of thes
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
+IMG_KEYS = ("file", "alt", "credit", "url")
 FIELDS = {"title": str, "section": str, "layout": str, "tone": str, "sources": list, "bullets": list, "notes": str}
 DATE = re.compile(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])")
 _gen = None
@@ -54,8 +55,10 @@ def overflow(root, lid, S, sl_path):
     opts_file = Path(root) / "scripts" / "deckgen" / "opts" / f"{lid}.json"
     opts = json.loads(opts_file.read_text(encoding="utf-8")) if opts_file.is_file() else {}
     g, errs, warn = gen(), [], []
-    for i, s in enumerate(S, 1):
-        if s.get("layout") not in LAYOUTS or s.get("tone") not in TONES:
+    for i, s in enumerate([None, *S]):  # page 0 is the cover
+        if s is None:
+            s = {"title": "the cover", "layout": "cover"}
+        elif s.get("layout") not in LAYOUTS or s.get("tone") not in TONES:
             continue  # reported above
         try:
             markup = g.page(lid, i, opts, sl_path)
@@ -114,6 +117,16 @@ def check(root, lid):
            if not isinstance(s.get(k), kind)]
     bad += [f"slide {i} has a bullet that is not text" for i, s in enumerate(S, 1) if isinstance(s.get("bullets"), list)
             and not all(isinstance(b, str) for b in s["bullets"])]
+    bad += [f"slide {i} has a source that is not text" for i, s in enumerate(S, 1) if isinstance(s.get("sources"), list)
+            and not all(isinstance(b, str) for b in s["sources"])]
+    bad += [f"slide {i}: body is not text" for i, s in enumerate(S, 1) if "body" in s and not isinstance(s["body"], str)]
+    bad += [f"slide {i}: facts must be a list of {{label, text}} with text values" for i, s in enumerate(S, 1) if "facts" in s
+            and not (isinstance(s["facts"], list) and all(isinstance(f, dict) and isinstance(f.get("label"), str)
+                                                          and isinstance(f.get("text"), str) for f in s["facts"]))]
+    bad += [f"slide {i}: images must be a list of entries with text values" for i, s in enumerate(S, 1) if "images" in s
+            and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) for k in IMG_KEYS)
+                                                           for m in s["images"]))]
+    if not isinstance(sl.get("subtitle"), str): bad.append("slides.json needs a text subtitle (drawn on the cover)")
     if bad:
         return errs + bad, warn, f"{lid}: slides.json is incomplete"
     if {s["section"] for s in S} != set(secs): errs.append(f"slide sections differ: {set(secs) ^ {s['section'] for s in S}}")

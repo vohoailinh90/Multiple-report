@@ -239,6 +239,29 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate()
         self.assertTrue(any("does not render: KeyError" in e for e in errs), errs)
 
+    def test_values_of_the_wrong_type_are_errors_not_crashes(self):
+        errs, _ = self.run_gate(self.mutated(2, facts=[{"label": 4, "text": "x"}] * 3))
+        self.assertIn("slide 3: facts must be a list of {label, text} with text values", errs)
+        errs, _ = self.run_gate(self.mutated(1, body=7))
+        self.assertIn("slide 2: body is not text", errs)
+        errs, _ = self.run_gate(self.mutated(4, sources=["S5", 5]))
+        self.assertIn("slide 5 has a source that is not text", errs)
+        errs, _ = self.run_gate(self.mutated(4, layout="figure", images=["x.png"], bullets=["một"]))
+        self.assertIn("slide 5: images must be a list of entries with text values", errs)
+
+    def test_the_cover_must_be_drawable(self):
+        d = {"title": "Bài thử", "slides": SLIDES}  # no subtitle
+        (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+        (self.root / "lessons" / "L99" / "slides.json").write_text(json.dumps(d, ensure_ascii=False), encoding="utf-8")
+        (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+        errs, _, _ = gate.check(self.root, "L99")
+        self.assertIn("slides.json needs a text subtitle (drawn on the cover)", errs)
+        original = gate.gen().cover
+        gate.gen().cover = lambda *a, **k: (_ for _ in ()).throw(KeyError("subtitle"))
+        self.addCleanup(setattr, gate.gen(), "cover", original)
+        errs, _ = self.run_gate()
+        self.assertTrue(any(e.startswith("slide 0 (the cover) does not render: KeyError") for e in errs), errs)
+
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})
         self.assertIn("cites 6", errs)

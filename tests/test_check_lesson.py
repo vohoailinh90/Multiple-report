@@ -390,6 +390,20 @@ class GateTests(unittest.TestCase):
             with self.subTest(bad=bad):
                 self.assertIn("slides.json needs a non-blank text title (drawn on the cover)", errs)
 
+    def test_every_bibliography_line_must_be_a_well_formed_entry(self):
+        lesson = LESSON + "- S6 Tác giả 6, Tên 6, 2020, https://example.org/6\n"
+        errs, _ = self.run_gate(lesson=lesson)
+        self.assertTrue(any(e.startswith("bibliography line is not '- [Sn] text': - S6") for e in errs), errs)
+        errs, _ = self.run_gate(lesson=LESSON + "Một dòng thừa không phải nguồn.\n")
+        self.assertTrue(any(e.startswith("bibliography line is not") for e in errs), errs)
+
+    def test_the_cover_cannot_cite_a_source(self):
+        (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+        (self.root / "lessons" / "L99" / "slides.json").write_text(
+            json.dumps({"title": "Bài thử", "subtitle": "Phụ đề [S999]", "slides": SLIDES}, ensure_ascii=False), encoding="utf-8")
+        (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+        self.assertIn("the cover has no source line: no [Sn] in the deck title or subtitle", gate.check(self.root, "L99")[0])
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)

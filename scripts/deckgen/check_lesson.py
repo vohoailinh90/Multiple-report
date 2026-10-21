@@ -117,6 +117,8 @@ def check(root, lid):
     if not secs or secs[-1] != "Nguồn tham khảo": errs.append("last section")
     text, _, reflist = body.partition("\n## Nguồn tham khảo\n")
     found = re.findall(r"^- \[(S\d+)\] (.+)$", reflist, re.M)
+    errs += [f"bibliography line is not '- [Sn] text': {l.strip()[:60]}" for l in reflist.splitlines()
+             if l.strip() and not re.fullmatch(r"- \[S\d+\] \S.*", l)]
     refs = dict(found)
     errs += [f"reference label {k} is used twice" for k in sorted({k for k, _ in found if [j for j, _ in found].count(k) > 1})]
     used = set(CITE.findall(text))
@@ -159,6 +161,8 @@ def check(root, lid):
                                                            and URL.fullmatch(m["url"].strip())
                                                            for m in s["images"]))]
     if not (isinstance(sl.get("title"), str) and sl["title"].strip()): bad.append("slides.json needs a non-blank text title (drawn on the cover)")
+    if isinstance(sl.get("title"), str) and isinstance(sl.get("subtitle"), str) and CITE.search(sl["title"] + sl["subtitle"]):
+        bad.append("the cover has no source line: no [Sn] in the deck title or subtitle")
     if not (isinstance(sl.get("subtitle"), str) and sl["subtitle"].strip()): bad.append("slides.json needs a non-blank text subtitle (drawn on the cover)")
     bad += [f"slide {i} has a blank {k}" for i, s in enumerate(S, 1) for k in ("title", "section", "layout", "tone")
             if isinstance(s.get(k), str) and not s[k].strip()]

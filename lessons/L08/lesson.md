@@ -8,7 +8,7 @@ date: 2026-10-21
 
 ## Tóm tắt
 
-Nếu cắt đi một mảnh vỏ não nhỏ, người ta mất đi điều gì, và vì sao mất đúng điều đó? Câu trả lời ngắn: vỏ não là một tấm mỏng nơron gấp nếp, và các vùng của nó được gọi tên theo vị trí; mỗi vùng nhận một loại tín hiệu đầu vào và nối với những vùng khác, nên tổn thương ở đâu thường làm mất phần việc dựa nhiều vào chỗ ấy [S1] [S2].
+Nếu cắt đi một mảnh vỏ não nhỏ, người ta mất đi điều gì, và vì sao mất đúng điều đó? Câu trả lời ngắn: vỏ não là một tấm mỏng nơron gấp nếp, và các vùng của nó được gọi tên theo vị trí; mỗi vùng nhận một loại tín hiệu đầu vào và nối với những vùng khác, nên tổn thương ở đâu thường làm mất phần việc dựa nhiều vào chỗ ấy (suy luận của người viết, tổng hợp từ [S1] [S2]).
 
 Bài đi qua ba trong bốn thùy của vỏ não: thùy thái dương (temporal lobe), thùy đỉnh (parietal lobe) và thùy chẩm (occipital lobe). Thùy trán, vỏ não trước trán và hai bán cầu đã có ở L04; thùy đảo (insula) cùng hải mã, hạnh nhân, đồi thị ở L07; bản đồ tổng ở L01. Mỗi thùy được viết theo một khung bảy ý: ở đâu, gồm những phần nào, vai trò và bằng chứng, kết nối, chất dẫn truyền, khi tổn thương, đừng hiểu nhầm. Mỗi khẳng định được gắn mức chắc chắn: **giáo khoa** (nguồn đồng thuận), **giả thuyết** (có nguồn, nói rõ ai đề xuất) hoặc **suy luận của người viết**.
 
@@ -24,7 +24,7 @@ Ba ý đáng mang theo. Thứ nhất, cách chia thùy là quy ước để gọ
 
 **Mỏng, nhiều lớp và rất rộng (giáo khoa).** Lớp vỏ chỉ dày khoảng 2 đến 4 mm [S1]; Viện NINDS (Hoa Kỳ) hình dung nó dày bằng một chồng hai hoặc ba đồng xu mười xu [S4]. Phần lớn vỏ não có sáu lớp. Lớp 1 có rất ít thân tế bào, chủ yếu là đầu của sợi nhánh và sợi trục; lớp 2 và 3 gửi và nhận tín hiệu với các vùng vỏ gần đó; lớp 4 nhận tín hiệu từ đồi thị; lớp 5 và 6 gửi tín hiệu ra khỏi vỏ [S1] [S2]. Độ dày từng lớp khác nhau theo chức năng: vùng vỏ cảm giác nhận nhiều tín hiệu vào nên lớp 4 dày, vùng vận động gửi nhiều tín hiệu ra nên lớp 5 và 6 dày [S2]. Các nơron cùng một "cột" thẳng đứng xuyên qua các lớp thường đáp ứng với cùng một loại kích thích [S2].
 
-**Một con số cần cẩn thận.** Giáo trình viết rằng vỏ não người rộng khoảng 1.800 cm², tức vỏ của mỗi bán cầu cỡ một chiếc bánh pizza đế mỏng cỡ vừa, và nhờ gấp nếp mà nhét vừa hộp sọ [S1]. Một sách giáo khoa miễn phí khác nói nếu bóc vỏ ra trải phẳng thì diện tích "xấp xỉ một mét vuông" [S3]. Hai tài liệu ghi hai con số khác nhau; bài này dùng con số của giáo trình chính vì nó dẫn một nghiên cứu cụ thể, và không khẳng định con số một mét vuông.
+**Một con số cần cẩn thận.** Giáo trình viết rằng vỏ não người rộng khoảng 1.800 cm², tức vỏ của mỗi bán cầu cỡ một chiếc bánh pizza đế mỏng cỡ vừa, và nhờ gấp nếp mà nhét vừa hộp sọ [S1]. Một sách giáo khoa miễn phí khác nói nếu bóc vỏ ra trải phẳng thì diện tích "xấp xỉ một mét vuông" [S3]. Hai tài liệu ghi hai con số khác nhau; giáo trình dẫn Van Essen và cộng sự (2018) cho con số của mình; bài này chưa đọc nguồn gốc ấy, nên chỉ nói lại con số như giáo trình ghi và không khẳng định con số một mét vuông.
 
 **Gấp nếp và các mốc để chia thùy (giáo khoa).** Các nếp gấp tạo hồi (gyrus, số nhiều gyri) là gờ nổi và rãnh (sulcus, số nhiều sulci) là chỗ lõm giữa hai hồi; rãnh to và sâu gọi là khe (fissure) [S1]. Hầu hết các loài khác, kể cả thú nhỏ, có vỏ não nhẵn; vỏ người gấp nếp nhiều [S1]. Gấp nếp giúp nhét thêm chất xám vào khoang sọ hạn chế bởi kích thước ống sinh [S3]. Dựa vào các hồi, rãnh, khe chính làm mốc, người ta chia vỏ não thành bốn thùy lớn [S1] [S3]:
 
@@ -52,7 +52,7 @@ Ba ý đáng mang theo. Thứ nhất, cách chia thùy là quy ước để gọ
 - vỏ thính giác (auditory cortex) ở phần trên của thùy, vùng Brodmann 41 và 42 theo OpenStax [S1] [S3];
 - vùng Wernicke (Wernicke's area) ở phần sau của hồi thái dương trên, liên quan đến hiểu ngôn ngữ [S1];
 - mặt dưới của thùy, nhận tín hiệu thị giác từ vỏ thị giác, chứa vùng nhận mặt ở hồi thoi (fusiform face area) và vùng nhận nơi chốn và khung cảnh (parahippocampal place area) [S1];
-- phần thái dương giữa (medial temporal lobes), quan trọng cho việc mã hóa trí nhớ dài hạn [S1]. Phần này gồm hải mã và hạnh nhân, thuộc L07.
+- phần thái dương giữa (medial temporal lobes), quan trọng cho việc mã hóa trí nhớ dài hạn [S1]. Phần này gồm hải mã và hạnh nhân [S3], thuộc L07.
 
 **Vai trò chính và bằng chứng.**
 
@@ -76,7 +76,7 @@ Một mô hình nhìn khác (**giả thuyết**, do Hickok và Poeppel đề xu�
 
 **Khi tổn thương hoặc rối loạn.** Tổn thương mặt dưới thùy thái dương có thể gây mất nhận mặt [S1]. Tổn thương phần thái dương giữa ảnh hưởng đến mã hóa trí nhớ dài hạn (xem L07) [S1].
 
-**Đừng hiểu nhầm.** Một: vùng Wernicke không phải là "trung tâm hiểu lời nói" duy nhất; mô hình hai dòng của Hickok và Poeppel mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu [S8] (đây là giả thuyết, không phải sự thật đã đóng). Hai: vùng nhận mặt là vùng hoạt động mạnh hơn với mặt, không phải "nút nhận mặt" duy nhất; chính các tác giả tổng quan mô tả một cuộc tranh luận lâu dài giữa cách giải thích bằng cơ chế chuyên biệt cho mặt và cách giải thích bằng cơ chế đa dụng [S6]. Ba: ký ức không nằm gọn trong thùy thái dương [S3].
+**Đừng hiểu nhầm.** Một: vùng Wernicke có lẽ không phải là "trung tâm hiểu lời nói" duy nhất; mô hình hai dòng của Hickok và Poeppel mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu [S8] (đây là giả thuyết, không phải sự thật đã đóng; kết luận về vùng Wernicke là suy luận của người viết từ mô hình, vì tóm tắt của bài báo không nhắc tên vùng này). Hai: vùng nhận mặt là vùng hoạt động mạnh hơn với mặt, không phải "nút nhận mặt" duy nhất; chính các tác giả tổng quan mô tả một cuộc tranh luận lâu dài giữa cách giải thích bằng cơ chế chuyên biệt cho mặt và cách giải thích bằng cơ chế đa dụng, dù họ nghiêng về phía chuyên biệt [S6]. Ba: ký ức không nằm gọn trong thùy thái dương [S3].
 
 ## Thùy đỉnh (parietal lobe)
 
@@ -104,7 +104,7 @@ Vỏ thể cảm được tổ chức như một bản đồ: các vùng da kề
 
 **Khi tổn thương hoặc rối loạn.** Tổn thương vùng đỉnh sau có thể làm hỏng động tác với tay được dẫn bằng mắt và nhận thức không gian [S1]. Nó cũng có thể gây bỏ rơi nửa không gian (hemispatial neglect): người bệnh mất nhận biết một bên của không gian. Ví dụ giáo trình nêu: đột quỵ ở vùng đỉnh sau bên phải có thể khiến người bệnh hành xử như thể nửa không gian bên trái không tồn tại, bỏ qua thức ăn ở phía trái đĩa, hoặc khi chép một bức tranh thì chỉ vẽ nửa bên phải [S1]. Bài tổng quan của Corbetta và Shulman cho biết cả hai hệ chú ý đều bị rối loạn trong chứng bỏ rơi nửa không gian một bên [S9].
 
-**Đừng hiểu nhầm.** Một: bản đồ cơ thể trên vỏ thể cảm không vẽ theo kích thước cơ thể mà theo độ nhạy: bàn tay và môi to ra vì có nhiều thụ thể, không phải vì chúng "lớn" [S1]. Hai: bỏ rơi nửa không gian không phải là mù một nửa, vì thùy đỉnh liên quan đến chú ý và nhận biết [S1] [S9]; mù do tổn thương thị giác là chuyện khác, ở thùy chẩm [S4].
+**Đừng hiểu nhầm.** Một: bản đồ cơ thể trên vỏ thể cảm không vẽ theo kích thước cơ thể mà theo độ nhạy: bàn tay và môi to ra vì có nhiều thụ thể, không phải vì chúng "lớn" [S1]. Hai: nên đọc bỏ rơi nửa không gian như một rối loạn chú ý và nhận biết chứ không như mù một nửa: các nguồn gắn nó với thùy đỉnh, chú ý và nhận biết [S1] [S9], còn mù do tổn thương thị giác được NINDS nêu ở thùy chẩm [S4]. Cách nói "không phải mù một nửa" là suy luận của người viết; giáo trình cũng mô tả người bệnh như không nhận thấy nửa thị trường bên trái [S1].
 
 ## Thùy chẩm (occipital lobe)
 
@@ -142,7 +142,7 @@ Phần này chỉ ghép những gì các mục trên đã nói; các bước và
 
 1. *Nghe thấy tiếng gọi.* Tín hiệu từ tai tới vỏ thính giác ở phần trên của thùy thái dương [S1] [S4].
 2. *Hiểu đó là tên mình.* Việc hiểu lời nói dựa vào vùng Wernicke theo mô tả của giáo trình, hoặc theo mô hình hai dòng, vào một dòng tổ chức chủ yếu ở cả hai bán cầu [S1] [S8].
-3. *Quay về hướng tiếng gọi.* Chú ý bị kéo về kích thích quan trọng, bất ngờ; theo bài tổng quan, đây là việc của hệ thái dương–đỉnh lệch về bán cầu phải [S9].
+3. *Quay về hướng tiếng gọi.* Chú ý bị kéo về kích thích quan trọng, bất ngờ; theo bài tổng quan, việc phát hiện kích thích quan trọng hoặc bất ngờ là của hệ thái dương–đỉnh lệch về bán cầu phải [S9]; áp vào một tiếng gọi là suy luận của người viết, vì bài tổng quan không nói riêng về âm thanh.
 4. *Thấy hình ảnh.* Tín hiệu từ mắt qua nhân gối ngoài tới V1 ở thùy chẩm [S1] [S4].
 5. *Nhận ra mặt bạn.* Dòng bụng đưa thông tin tới mặt dưới thùy thái dương, nơi có vùng hoạt động mạnh hơn khi xem mặt [S1] [S5] [S6].
 6. *Giơ tay, bắt tay.* Dòng lưng và vùng đỉnh sau lập bản đồ vị trí của tay và của người bạn, rồi gửi sang vùng vận động ở thùy trán (xem L04) [S1] [S7].
@@ -153,15 +153,15 @@ Các bước chồng lên nhau, không chạy lần lượt như dây chuyền. 
 
 ## Những hiểu lầm thường gặp
 
-Mỗi hiểu lầm dưới đây đi kèm điều nguồn nói, và chỉ những hiểu lầm có nguồn phản bác mới được đưa vào.
+Mỗi hiểu lầm dưới đây đi kèm điều nguồn nói. Chỉ những hiểu lầm có nguồn phản bác mới được đưa vào; chỗ nào là suy luận của người viết thì ghi rõ.
 
 1. **"Mỗi thùy làm đúng một việc."** Mỗi thùy có "việc đặc trưng", nhưng OpenStax nhắc rằng thông tin thị giác còn được xử lý ở thùy thái dương và thùy đỉnh, và ranh giới giữa thùy chẩm với hai thùy kia không rõ [S3]. Hai dòng thị giác đi từ thùy chẩm sang thùy thái dương và thùy đỉnh [S1].
-2. **"Vùng Wernicke là trung tâm hiểu lời nói."** Giáo trình gắn vùng này với hiểu ngôn ngữ [S1]; mô hình hai dòng (giả thuyết) mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu, còn dòng nối âm thanh với phát âm mới nghiêng mạnh về trái [S8].
-3. **"Đã có một vùng nhận mặt, hết tranh cãi."** Vùng ở hồi thoi hoạt động mạnh hơn với mặt trong thí nghiệm có nhiều phép thử [S5]; bài tổng quan của chính các tác giả nói rõ đây là một cuộc tranh luận giữa cơ chế chuyên biệt và cơ chế đa dụng [S6].
+2. **"Vùng Wernicke là trung tâm hiểu lời nói."** Giáo trình gắn vùng này với hiểu ngôn ngữ [S1]; mô hình hai dòng (giả thuyết) mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu, còn dòng nối âm thanh với phát âm mới nghiêng mạnh về trái [S8]; kết luận về vùng Wernicke là suy luận của người viết từ mô hình.
+3. **"Đã có một vùng nhận mặt, hết tranh cãi."** Vùng ở hồi thoi hoạt động mạnh hơn với mặt trong thí nghiệm có nhiều phép thử [S5]; bài tổng quan của chính các tác giả mô tả một cuộc tranh luận giữa cơ chế chuyên biệt và cơ chế đa dụng, dù họ nghiêng về phía chuyên biệt [S6].
 4. **"Ký ức nằm trong thùy thái dương."** Thùy thái dương quan trọng cho tạo và gợi lại ký ức [S4], nhưng nơi lưu cuối cùng của ký ức thường là vùng xử lý giác quan tương ứng [S3].
 5. **"Vỏ não trải phẳng ra bằng một mét vuông."** Giáo trình ghi khoảng 1.800 cm², còn một sách miễn phí khác ghi xấp xỉ một mét vuông [S1] [S3]. Bài này không khẳng định số sau.
 6. **"Bản đồ cơ thể trên vỏ não vẽ theo kích thước cơ thể."** Vùng vỏ rộng hay hẹp theo độ nhạy của bộ phận, vì nơi nhiều thụ thể chiếm nhiều vỏ hơn [S1] [S2].
-7. **"Bỏ rơi nửa không gian là mù một nửa."** Giáo trình gắn nó với thùy đỉnh, vai trò chú ý và nhận biết [S1]; bài tổng quan nói cả hai hệ chú ý đều rối loạn trong chứng này [S9]. Mù do tổn thương thị giác là chuyện của thùy chẩm [S4].
+7. **"Bỏ rơi nửa không gian là mù một nửa."** Suy luận của người viết, đặt cạnh các nguồn: giáo trình gắn nó với thùy đỉnh, vai trò chú ý và nhận biết [S1]; bài tổng quan nói cả hai hệ chú ý đều rối loạn trong chứng này [S9]; mù do tổn thương thị giác được NINDS nêu ở thùy chẩm [S4]. Không nguồn nào nói thẳng "đây không phải mù", và giáo trình cũng mô tả người bệnh như không nhận thấy nửa thị trường bên trái [S1].
 
 ## Điều cần nhớ
 
@@ -169,7 +169,7 @@ Mỗi hiểu lầm dưới đây đi kèm điều nguồn nói, và chỉ nhữn
 - Thùy thái dương: nghe, hiểu ngôn ngữ, nhận mặt và nơi chốn, trí nhớ; chi tiết hải mã ở L07 [S1] [S4].
 - Thùy đỉnh: cảm giác cơ thể (bản đồ theo độ nhạy), bản đồ không gian, chú ý; tổn thương có thể gây bỏ rơi nửa không gian [S1] [S9].
 - Thùy chẩm: thị giác, V1 tổ chức theo võng mạc; từ đó hai dòng đi tới thùy thái dương và thùy đỉnh [S1] [S7].
-- Việc thật chạy qua nhiều thùy cùng lúc, và nhiều chỗ ("vùng Wernicke", "vùng nhận mặt", tên hai dòng thị giác) vẫn còn tranh luận [S6] [S7] [S8].
+- Việc thật chạy qua nhiều thùy cùng lúc; nhiều chỗ còn tranh luận (vùng nhận mặt [S6], mô hình hai dòng cho tiếng nói [S8]) và hai dòng thị giác có hai cách gọi tên [S1] [S7].
 
 ## Nguồn tham khảo
 

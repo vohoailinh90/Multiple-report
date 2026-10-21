@@ -312,7 +312,7 @@
         "1997: fMRI, hồi thoi của 12 trong 15 người hoạt động mạnh hơn với mặt so với đồ vật",
         "1997: thêm phép thử (mặt so với nhà, mặt ba phần tư so với bàn tay) cho thấy vùng chọn lọc với mặt",
         "Tổn thương mặt dưới thùy thái dương: có thể mất nhận mặt (prosopagnosia)",
-        "2006: bài tổng quan mô tả tranh luận giữa cơ chế chuyên biệt và đa dụng"
+        "2006: bài tổng quan mô tả tranh luận giữa cơ chế chuyên biệt và đa dụng, nghiêng về chuyên biệt"
       ],
       "notes": "Ba loại bằng chứng cho một vùng. Một: ảnh chụp não ở người. Kanwisher, McDermott và Chun năm 1997 dùng fMRI và thấy ở 12 trong 15 người một vùng ở hồi thoi hoạt động mạnh hơn khi xem mặt so với đồ vật; rồi thêm nhiều phép thử trên cùng vùng ấy, kết luận vùng này chọn lọc với việc nhìn mặt. Hai: bệnh nhân tổn thương; giáo trình nêu mất nhận mặt khi tổn thương mặt dưới thùy thái dương, ví dụ do đột quỵ. Ba: bài tổng quan năm 2006 của Kanwisher và Yovel ủng hộ giả thuyết chuyên biệt cho mặt nhưng nói rõ đây từng là tranh luận lâu dài với cách giải thích đa dụng. Chỗ dễ nhầm: \"hoạt động mạnh hơn\" không đồng nghĩa \"chỉ có vùng này nhận mặt\". Mức chắc chắn: bằng chứng người, còn giả thuyết về tính chuyên biệt."
     },
@@ -393,10 +393,10 @@
         },
         {
           "label": "Đừng hiểu nhầm",
-          "text": "Bỏ rơi nửa không gian không phải mù một nửa: liên quan chú ý và nhận biết [S1] [S9]"
+          "text": "Bỏ rơi nửa không gian: nguồn gắn với chú ý và nhận biết, không với tổn thương vỏ thị giác [S1] [S9]"
         }
       ],
-      "notes": "Đọc thẻ theo hàng. \"Ở đâu\": trên thùy thái dương, sau thùy trán, sau rãnh trung tâm. \"Gồm\": phần trước là hồi sau trung tâm với vỏ thể cảm chính, phần sau là vỏ liên hợp. \"Kết nối\": vùng đỉnh sau gửi tín hiệu tới vùng vận động và vùng điều khiển mắt ở thùy trán, và dòng lưng của thị giác đi tới đây. \"Chất dẫn truyền\": giáo trình không nêu chất đặc thù; xem L03. \"Khi tổn thương\": tổn thương vùng đỉnh sau làm hỏng động tác với tay dẫn bằng mắt và nhận thức không gian, và có thể gây bỏ rơi nửa không gian. \"Đừng hiểu nhầm\": không phải mù một nửa. Mức chắc chắn: giáo khoa, cộng một bài tổng quan về chú ý."
+      "notes": "Đọc thẻ theo hàng. \"Ở đâu\": trên thùy thái dương, sau thùy trán, sau rãnh trung tâm. \"Gồm\": phần trước là hồi sau trung tâm với vỏ thể cảm chính, phần sau là vỏ liên hợp. \"Kết nối\": vùng đỉnh sau gửi tín hiệu tới vùng vận động và vùng điều khiển mắt ở thùy trán, và dòng lưng của thị giác đi tới đây. \"Chất dẫn truyền\": giáo trình không nêu chất đặc thù; xem L03. \"Khi tổn thương\": tổn thương vùng đỉnh sau làm hỏng động tác với tay dẫn bằng mắt và nhận thức không gian, và có thể gây bỏ rơi nửa không gian. \"Đừng hiểu nhầm\": nguồn gắn nó với chú ý và nhận biết, không phải với tổn thương vỏ thị giác (cách nói \"không phải mù\" là suy luận của người viết). Mức chắc chắn: giáo khoa, cộng một bài tổng quan về chú ý."
     },
     {
       "title": "Từ giác quan đến cử động: bản đồ không gian",
@@ -432,7 +432,7 @@
       "notes": "Một bài tổng quan của Corbetta và Shulman năm 2002 mô tả hai hệ chú ý tách một phần. Hệ thứ nhất gồm một phần vỏ trong rãnh đỉnh (intraparietal) và vỏ trán trên, lo việc chọn lọc có chủ đích kích thích và phản ứng. Hệ thứ hai gồm vỏ thái dương–đỉnh và vỏ trán dưới, lệch nhiều về bán cầu phải, chuyên phát hiện kích thích quan trọng với hành vi, nhất là kích thích nổi bật hoặc bất ngờ, và đóng vai cầu dao cho hệ kia. Cả hai hệ tương tác khi nhìn bình thường và cả hai bị rối loạn trong bỏ rơi nửa không gian. Chỗ dễ nhầm: đây là mô hình tổng hợp từ nhiều nghiên cứu, mức giả thuyết, và dùng chữ \"hệ\" cho một mạng vùng, không phải một cấu trúc. Mức chắc chắn: giả thuyết có bằng chứng."
     },
     {
-      "title": "Bỏ rơi nửa không gian: không phải mù",
+      "title": "Bỏ rơi nửa không gian: lỗi chú ý và nhận biết",
       "section": "Thùy đỉnh (parietal lobe)",
       "sources": [
         "S1",
@@ -443,7 +443,7 @@
       "bullets": [
         "Đột quỵ vùng đỉnh sau bên phải: người bệnh hành xử như thể nửa không gian bên trái không tồn tại"
       ],
-      "notes": "Ví dụ của giáo trình: một đột quỵ ở vùng đỉnh sau bên phải có thể khiến người bệnh bỏ qua thức ăn ở phía trái đĩa, hoặc khi chép một bức tranh thì chỉ vẽ nửa bên phải. Đây là bỏ rơi nửa không gian (hemispatial neglect): mất nhận biết một bên của không gian, liên quan đến chú ý và nhận biết. Bài tổng quan của Corbetta và Shulman cho biết cả hai hệ chú ý bị rối loạn trong chứng này. Điểm cần nhấn: người bệnh không phải mù, vì mù do tổn thương thị giác là chuyện của thùy chẩm. Chỗ dễ nhầm: nửa trái hay nửa phải phụ thuộc bên tổn thương; ví dụ trên là bên phải. Mức chắc chắn: ví dụ là giáo khoa; vai trò của hai hệ chú ý là giả thuyết có bằng chứng."
+      "notes": "Ví dụ của giáo trình: một đột quỵ ở vùng đỉnh sau bên phải có thể khiến người bệnh bỏ qua thức ăn ở phía trái đĩa, hoặc khi chép một bức tranh thì chỉ vẽ nửa bên phải. Đây là bỏ rơi nửa không gian (hemispatial neglect): mất nhận biết một bên của không gian, liên quan đến chú ý và nhận biết. Bài tổng quan của Corbetta và Shulman cho biết cả hai hệ chú ý bị rối loạn trong chứng này. Điểm cần nhấn, theo suy luận của người viết: nên đọc đây là rối loạn chú ý và nhận biết chứ không phải tổn thương mắt hay vỏ thị giác; NINDS nêu mù ở thùy chẩm, và giáo trình vẫn mô tả người bệnh như không nhận thấy nửa thị trường bên trái. Chỗ dễ nhầm: nửa trái hay nửa phải phụ thuộc bên tổn thương; ví dụ trên là bên phải. Mức chắc chắn: ví dụ là giáo khoa; vai trò của hai hệ chú ý là giả thuyết có bằng chứng."
     },
     {
       "title": "Thùy chẩm: nơi tín hiệu thị giác vào vỏ não",
@@ -599,7 +599,7 @@
         "Thái dương dưới: nhận ra mặt bạn",
         "Đỉnh sau rồi trán: giơ tay chào, bắt tay"
       ],
-      "notes": "Ví dụ của người viết: đứng ở sân ga, nghe có tiếng gọi tên mình, quay lại, nhận ra mặt một người bạn và giơ tay chào. Cách chia sáu bước là suy luận của người viết; vai trò gán cho mỗi thùy ở mỗi bước đều có nguồn. Bước 1: tín hiệu từ tai tới vỏ thính giác ở phần trên của thùy thái dương. Bước 2: hiểu lời nói, theo giáo trình là vùng Wernicke, theo mô hình hai dòng là dòng bụng ở cả hai bán cầu. Bước 3: chú ý bị kéo về kích thích quan trọng, bất ngờ, theo bài tổng quan là hệ thái dương–đỉnh lệch bên phải. Bước 4: hình ảnh vào V1. Bước 5: nhận ra mặt ở mặt dưới thùy thái dương. Bước 6: dòng lưng và vùng đỉnh sau dựng bản đồ vị trí tay, gửi sang vùng vận động ở thùy trán (L04). Chỗ dễ nhầm: các bước chồng lên nhau, không chạy lần lượt."
+      "notes": "Ví dụ của người viết: đứng ở sân ga, nghe có tiếng gọi tên mình, quay lại, nhận ra mặt một người bạn và giơ tay chào. Cách chia sáu bước là suy luận của người viết; vai trò gán cho mỗi thùy ở mỗi bước đều có nguồn. Bước 1: tín hiệu từ tai tới vỏ thính giác ở phần trên của thùy thái dương. Bước 2: hiểu lời nói, theo giáo trình là vùng Wernicke, theo mô hình hai dòng là dòng bụng ở cả hai bán cầu. Bước 3: chú ý bị kéo về kích thích quan trọng, bất ngờ; theo bài tổng quan đó là việc của hệ thái dương–đỉnh lệch bên phải, còn áp vào một tiếng gọi là suy luận của người viết. Bước 4: hình ảnh vào V1. Bước 5: nhận ra mặt ở mặt dưới thùy thái dương. Bước 6: dòng lưng và vùng đỉnh sau dựng bản đồ vị trí tay, gửi sang vùng vận động ở thùy trán (L04). Chỗ dễ nhầm: các bước chồng lên nhau, không chạy lần lượt."
     },
     {
       "title": "Việc đời thường mượn nhiều thùy cùng lúc",
@@ -663,8 +663,8 @@
       "tone": "light",
       "bullets": [
         "Mỗi thùy làm đúng một việc: thị giác còn xử lý ở thái dương và đỉnh [S3]",
-        "Wernicke là trung tâm hiểu lời nói: mô hình hai dòng dựa vào dòng chủ yếu hai bên [S8]",
-        "Có vùng nhận mặt thì hết tranh cãi: bài tổng quan nói còn tranh luận [S6]",
+        "Wernicke là trung tâm hiểu lời nói duy nhất (suy luận từ mô hình hai dòng, chủ yếu hai bên) [S8]",
+        "Có vùng nhận mặt thì hết tranh cãi: bài tổng quan mô tả tranh luận, dù nghiêng về chuyên biệt [S6]",
         "Ký ức nằm trong thùy thái dương: nơi lưu thường là vùng giác quan tương ứng [S3]"
       ],
       "notes": "Bốn hiểu lầm đầu, mỗi cái kèm điều nguồn nói. Một: mỗi thùy làm đúng một việc; OpenStax nhắc thông tin thị giác còn được xử lý ở thùy thái dương và thùy đỉnh. Hai: vùng Wernicke là trung tâm hiểu lời nói; mô hình hai dòng của Hickok và Poeppel, giả thuyết, mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu. Ba: có vùng nhận mặt nghĩa là hết tranh cãi; chính bài tổng quan của Kanwisher và Yovel mô tả tranh luận giữa cơ chế chuyên biệt và đa dụng, còn nghiên cứu 1997 cho thấy vùng hoạt động mạnh hơn với mặt. Bốn: ký ức nằm trong thùy thái dương; OpenStax viết nơi lưu cuối cùng thường là vùng giác quan tương ứng. Mức chắc chắn: nêu từng cái."
@@ -717,9 +717,9 @@
       "bullets": [
         "Trải phẳng vỏ não bằng 1 mét vuông: giáo trình ghi 1.800 cm², sách khác ghi 1 m² [S1] [S3]",
         "Bản đồ vỏ thể cảm theo kích thước cơ thể: vẽ theo độ nhạy, nhiều thụ thể thì nhiều vỏ [S1] [S2]",
-        "Bỏ rơi nửa không gian là mù một nửa: liên quan chú ý, nhận biết; mù là chuyện thị giác [S1] [S4] [S9]"
+        "Bỏ rơi nửa không gian là mù một nửa (suy luận): nguồn gắn với chú ý, nhận biết; mù nêu ở thùy chẩm [S1] [S4] [S9]"
       ],
-      "notes": "Ba hiểu lầm còn lại. Năm: vỏ não trải phẳng bằng một mét vuông; giáo trình ghi khoảng 1.800 cm² và một sách miễn phí khác ghi xấp xỉ một mét vuông, hai nguồn không khớp, nên bài không khẳng định con số sau. Sáu: bản đồ cơ thể trên vỏ thể cảm vẽ theo kích thước cơ thể; thực ra vùng vỏ rộng hay hẹp theo độ nhạy, vì nơi nhiều thụ thể chiếm nhiều vỏ hơn. Bảy: bỏ rơi nửa không gian là mù một nửa; giáo trình gắn nó với thùy đỉnh, chú ý và nhận biết, bài tổng quan nói cả hai hệ chú ý rối loạn, còn NINDS nói tổn thương thùy chẩm mới gây mù. Chỗ dễ nhầm: đừng dùng \"1.800 cm²\" như số chính xác tuyệt đối; nó là con số giáo trình dẫn. Mức chắc chắn: nêu từng cái."
+      "notes": "Ba hiểu lầm còn lại. Năm: vỏ não trải phẳng bằng một mét vuông; giáo trình ghi khoảng 1.800 cm² và một sách miễn phí khác ghi xấp xỉ một mét vuông, hai nguồn không khớp, nên bài không khẳng định con số sau. Sáu: bản đồ cơ thể trên vỏ thể cảm vẽ theo kích thước cơ thể; thực ra vùng vỏ rộng hay hẹp theo độ nhạy, vì nơi nhiều thụ thể chiếm nhiều vỏ hơn. Bảy, suy luận của người viết đặt cạnh nguồn: bỏ rơi nửa không gian là mù một nửa; giáo trình gắn nó với thùy đỉnh, chú ý và nhận biết, bài tổng quan nói cả hai hệ chú ý rối loạn, NINDS nêu mù ở thùy chẩm; không nguồn nào nói thẳng \"đây không phải mù\". Chỗ dễ nhầm: đừng dùng \"1.800 cm²\" như số chính xác tuyệt đối; nó là con số giáo trình dẫn. Mức chắc chắn: nêu từng cái."
     },
     {
       "title": "Năm điều cần nhớ",
@@ -740,7 +740,7 @@
         "Thái dương: nghe, hiểu ngôn ngữ, nhận mặt và nơi chốn, trí nhớ; hải mã ở L07",
         "Đỉnh: cảm giác cơ thể theo độ nhạy, bản đồ không gian, chú ý; tổn thương gây bỏ rơi nửa không gian",
         "Chẩm: thị giác, V1 theo võng mạc; hai dòng đi tới thái dương và đỉnh",
-        "Việc thật chạy qua nhiều thùy; vùng Wernicke, vùng nhận mặt và tên hai dòng còn tranh luận"
+        "Việc thật chạy qua nhiều thùy; vùng nhận mặt, mô hình hai dòng tiếng nói còn tranh luận; hai dòng thị giác có hai cách gọi"
       ],
       "notes": "Năm điều để mang đi. Một: vỏ não là tấm nơron mỏng, khoảng 2 đến 4 mm, thường sáu lớp, gấp nếp, chia thùy theo rãnh làm mốc. Hai: thùy thái dương lo nghe, hiểu ngôn ngữ, nhận mặt và nơi chốn, trí nhớ; hải mã để dành cho L07. Ba: thùy đỉnh lo cảm giác cơ thể, vẽ bản đồ theo độ nhạy, dựng bản đồ không gian và tham gia chú ý; tổn thương có thể gây bỏ rơi nửa không gian. Bốn: thùy chẩm là điểm vào của thị giác, V1 tổ chức theo võng mạc, từ đó hai dòng đi sang thùy thái dương và thùy đỉnh. Năm: việc thật chạy qua nhiều thùy cùng lúc, và vài chỗ còn tranh luận. Chỗ dễ nhầm: ý năm gồm cả giáo khoa lẫn giả thuyết; xem lại nhãn mức chắc chắn trên các slide trước. Câu hỏi tự kiểm: nêu một việc đời thường và kể thùy nào tham gia ở bước nào."
     },

@@ -850,10 +850,10 @@
       "layout": "one-big-number",
       "tone": "dark",
       "bullets": [
-        "Khoảng 90% phần vỏ ngoài (shell) nhân accumbens thành vùng tạo sợ ở chuột trong môi trường căng thẳng [S3] [S14]",
-        "Môi trường nhà ưa thích: vùng tạo ham muốn chiếm khoảng 90% [S3] [S14]"
+        "Chuột trong môi trường căng thẳng: khoảng 90% vỏ ngoài (shell) nhân accumbens cho ra hành vi sợ khi bị làm gián đoạn glutamate tại chỗ [S3] [S14]",
+        "Môi trường nhà ưa thích: khoảng 90% vỏ ngoài cho ra hành vi ham muốn trong cùng phép thử [S3] [S14]"
       ],
-      "notes": "Con số này là kết quả của Reynolds và Berridge năm 2008, được giáo trình nhắc lại. Ở chuột sống trong môi trường căng thẳng, vùng tạo sợ trong phần vỏ ngoài (shell) của nhân accumbens lan về phía trước, chiếm khoảng chín mươi phần trăm. Ở chuột sống trong môi trường quen thuộc ưa thích, điều ngược lại xảy ra: vùng tạo ham muốn lan về phía sau, cũng chiếm khoảng chín mươi phần trăm. Hai tác giả kết luận môi trường cảm xúc đã chỉnh lại cách mạch tạo ra động lực. Chỗ dễ nhầm: con số là ở chuột, trong điều kiện thí nghiệm, trên một vùng nhỏ; nó không cho biết một người sống trong căng thẳng sẽ thay đổi bao nhiêu, hay thay đổi có đảo ngược được không."
+      "notes": "Con số này là kết quả của Reynolds và Berridge năm 2008, được giáo trình nhắc lại. Các nhà nghiên cứu làm gián đoạn tín hiệu glutamate tại từng điểm nhỏ trong phần vỏ ngoài của nhân accumbens ở chuột rồi xem điểm nào gây hành vi thèm ăn, điểm nào gây hành vi sợ. Ở chuột sống trong môi trường căng thẳng, vùng cho ra hành vi sợ lan về phía trước, chiếm khoảng chín mươi phần trăm vỏ ngoài; ở chuột trong môi trường quen thuộc ưa thích, vùng cho ra hành vi ham muốn lan về phía sau, cũng chiếm khoảng chín mươi phần trăm. Hai tác giả kết luận môi trường cảm xúc đã chỉnh lại cách mạch tạo ra động lực. Chỗ dễ nhầm: con số đo vùng nào cho ra hành vi sợ hay ham muốn khi bị can thiệp bằng thuốc tại chỗ, không phải môi trường tự nó biến chín mươi phần trăm vỏ ngoài thành vùng sợ; và nó là ở chuột, không cho biết người sống trong căng thẳng sẽ đổi bao nhiêu."
     },
     {
       "title": "Nơron cùng phát xung thì nối với nhau",

@@ -305,8 +305,8 @@ dẻo xem L02.
 ngoài phía sau tham gia hành vi phòng vệ do sợ; ảnh chụp não người cũng thấy sự phân chia trước - sau này [S3]. Reynolds & Berridge làm gián đoạn tín
 hiệu liên quan glutamate tại từng điểm nhỏ ở chuột: điểm phía trước thường gây hành vi thèm ăn mạnh, càng lùi về sau càng gây hành vi sợ [S14].
 
-**Môi trường chỉnh lại bàn phím.** Khi chuột ở môi trường căng thẳng, vùng tạo sợ lan về phía trước, chiếm khoảng 90% phần vỏ ngoài; khi chuột ở môi
-trường quen thuộc ưa thích như "nhà", vùng tạo ham muốn lan về phía sau, cũng chiếm khoảng 90% [S3] [S14]. Hai tác giả kết luận môi trường cảm xúc đã
+**Môi trường chỉnh lại bàn phím.** Khi chuột ở môi trường căng thẳng, vùng mà việc làm gián đoạn glutamate gây ra hành vi sợ lan về phía trước, chiếm khoảng 90% phần vỏ ngoài; khi chuột ở môi
+trường quen thuộc ưa thích như "nhà", vùng gây ra hành vi ham muốn lan về phía sau, cũng chiếm khoảng 90% [S3] [S14]. Con số đo vùng nào của vỏ ngoài cho ra hành vi sợ hay ham muốn khi bị can thiệp bằng thuốc tại chỗ, không đo xem môi trường tự nó biến vùng đó thành vùng sợ [S14]. Hai tác giả kết luận môi trường cảm xúc đã
 chỉnh lại cách mạch tạo ra động lực [S14]. Mức chắc chắn: thực nghiệm ở chuột.
 
 Ví dụ của người viết: hãy hình dung nhân accumbens như bàn phím đàn, đầu trước là phím "thèm", đầu sau là phím "sợ"; kinh nghiệm dời ranh giới giữa hai vùng.

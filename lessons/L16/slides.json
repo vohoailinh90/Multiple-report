@@ -273,35 +273,35 @@
       "title": "Không có giá riêng: nằm trong gói",
       "section": "Chi phí và gói truy cập",
       "sources": [
-        "S11"
+        "S11",
+        "S17"
       ],
       "bullets": [
-        "Ở đâu: SuperGrok, Cursor Pro, Cursor Teams",
-        "Làm gì: mở quyền dùng Bot theo gói",
-        "Đừng hiểu nhầm: giá một bài viết là giá hiện nay"
+        "Ở đâu: X Subscription, Cursor cũ, liên kết SuperGrok, Grok Business",
+        "Làm gì: mở quyền dùng Bot từ một bể hằng tuần chung",
+        "Đừng hiểu nhầm: gói đang có có thể đã đủ, đừng mua thêm vội"
       ],
-      "notes": "Slide đặt khung cho chi phí. Grok Bot không bán lẻ; quyền dùng nằm trong gói đăng ký khác. Ngày ra mắt chỉ các gói cao, ngày 26/08 mở cho mọi gói SuperGrok, Cursor Pro và Cursor Teams theo nhiều nguồn. Vì gói được phép dùng đã đổi trong hai tuần, mọi con số trong các slide tiếp theo là con số các nguồn đã nêu chứ chưa kiểm trang giá. Đây là chỗ nên nhắc người nghe mở trang giá chính thức của xAI và Cursor vào đúng ngày quyết định.",
+      "notes": "Slide đặt khung cho chi phí, dựa vào trang gói và thanh toán của Cursor, mới hơn các bài viết tháng tám và chín. Grok Bot không bán lẻ; quyền dùng đi kèm gói khác theo bốn đường: The X Subscription ở các bậc Premium, Super và Ultra; gói Cursor cũ gồm Pro, Pro+, Ultra và chỗ Teams; liên kết tài khoản SuperGrok hoặc X Premium+ với tài khoản Cursor cũ; và chỗ Grok Business, chỉ một nguồn nêu. Các đường không cộng dồn, Bot dùng đường cấp nhiều lượng dùng hơn, từ một bể hằng tuần chung với Cursor và Grok. Ý chính cho người nghe: kiểm tra gói đang có trước khi mua, vì có thể đã có quyền truy cập.",
       "layout": "explainer",
       "tone": "light",
-      "body": "**Grok Bot** không có giá riêng: quyền dùng nằm trong gói đăng ký khác, nên bạn mua **SuperGrok** hoặc gói **Cursor**, không mua Bot rời [S11]. Từ lúc ra mắt đến nay gói được phép dùng đã đổi: ngày ra mắt chỉ các gói cao nhất, ngày 26/08/2026 mở cho mọi gói SuperGrok, Cursor Pro và Cursor Teams [S11]. Vì thế một con số giá trong bài viết cũ có thể đã lỗi thời, và cần đối chiếu trang giá hiện hành."
+      "body": "**Grok Bot** không có giá riêng: quyền dùng đi kèm gói khác. Theo tài liệu Cursor có bốn đường: **The X Subscription** (Premium, Super, Ultra), gói Cursor cũ (Pro, Pro+, Ultra, chỗ Teams), liên kết tài khoản **SuperGrok** hoặc X Premium+ với tài khoản Cursor cũ, và chỗ Grok Business [S17]. Các đường không cộng dồn: Bot dùng đường cấp nhiều lượng dùng hằng tuần hơn, từ một bể chung với Cursor và Grok [S17]. Người đã có một gói như vậy có thể không cần mua thêm, còn con số giá trong bài viết cũ có thể đã lỗi thời [S11]."
     },
     {
-      "title": "Con số giá được các nguồn nêu",
+      "title": "Bốn đường vào Grok Bot hiện hành",
       "section": "Chi phí và gói truy cập",
       "sources": [
-        "S9",
-        "S10",
         "S11",
-        "S12"
+        "S17"
       ],
       "bullets": [
-        "SuperGrok cơ bản: khoảng $30 mỗi tháng, nhiều nguồn khớp",
-        "SuperGrok Plus: khoảng $100 mỗi tháng, một nhóm nguồn",
-        "SuperGrok Heavy: khoảng $300; Alarcon nói yêu cầu này không còn đúng",
-        "Cursor Pro: khoảng $20 mỗi tháng, một bài so sánh",
-        "Cursor Ultra: khoảng $200; chỉ một nguồn, chưa xác nhận"
+        "The X Subscription: Premium, Super, Ultra có Grok Bot; Plus và Free thì không",
+        "Gói Cursor cũ: Pro, Pro+, Ultra và chỗ Teams tự phục vụ",
+        "Liên kết tài khoản: SuperGrok, Plus, Heavy hoặc X Premium+ cấp lượng dùng cho tài khoản Cursor cũ",
+        "Chỗ Grok Business: chỗ được gán cấp lượng dùng như liên kết (một nguồn)",
+        "Không cộng dồn: dùng đường nào cấp nhiều lượng dùng hằng tuần hơn",
+        "Giá chỗ nhóm: $30 Premium, $100 Super, $200 Ultra; bài cũ ghi tên gói khác"
       ],
-      "notes": "Bảng gom các con số theo từng gói, kèm mức chắc chắn. SuperGrok cơ bản khoảng ba mươi đô một tháng được nhiều nguồn nhắc, trong đó Alarcon chụp từ trang giá ngày mười tháng chín. SuperGrok Plus và Heavy đến từ các bài tổng hợp giá; Alarcon cho rằng yêu cầu Heavy lúc ra mắt không còn đúng. Cursor Pro khoảng hai mươi đô theo một bài so sánh. Cursor Ultra hai trăm đô chỉ có MindStudio nói và chưa nguồn nào xác nhận, nên đừng nói đó là sự thật.",
+      "notes": "Bảng sáu dòng về các đường truy cập hiện hành theo trang gói và thanh toán của Cursor. Một: The X Subscription, các bậc Premium, Super, Ultra có Grok Bot, còn Plus và Free thì không. Hai: gói Cursor cũ gồm Pro, Pro+, Ultra và chỗ Teams tự phục vụ. Ba: liên kết tài khoản SuperGrok, Plus, Heavy hoặc X Premium+ với tài khoản Cursor cũ để cấp lượng dùng. Bốn: chỗ Grok Business được gán, chỉ một nguồn nêu. Năm: các đường không cộng dồn. Sáu: giá chỗ nhóm theo tóm tắt tài liệu, trong khi các bài tháng tám và chín ghi theo tên gói trước đó như SuperGrok khoảng ba mươi, một trăm và ba trăm đô, nên chỉ dùng để so sánh thô.",
       "layout": "lookup-table",
       "tone": "dark"
     },
@@ -309,15 +309,15 @@
       "title": "Gói truy cập đã đổi nhanh thế nào",
       "section": "Chi phí và gói truy cập",
       "sources": [
-        "S10",
-        "S11"
+        "S11",
+        "S17"
       ],
       "bullets": [
         "Ra mắt 11/08: các gói cao nhất",
         "26/08: mở cho mọi gói SuperGrok, Cursor Pro, Cursor Teams",
-        "Dùng thử: bảy hay mười bốn ngày, các nguồn lệch nhau"
+        "Nay: The X Subscription và gói Cursor cũ; trang Cursor mới hơn các bài cũ"
       ],
-      "notes": "Ba mốc về truy cập. Lúc ra mắt chỉ các gói cao. Ngày hai mươi sáu tháng tám mở rộng cho mọi gói SuperGrok, Cursor Pro và Cursor Teams. Cột thứ ba là dùng thử: MindStudio ghi bảy ngày và phải nhập thẻ trước, một nguồn khác ghi mười bốn ngày. Đây là ví dụ rõ nhất của việc nguồn thứ ba lệch nhau. Nếu cần quyết định, hãy đọc trang chính thức vào ngày mua và đọc kỹ điều kiện dùng thử thay vì dựa vào một bài blog.",
+      "notes": "Ba mốc về truy cập. Lúc ra mắt chỉ các gói cao. Ngày hai mươi sáu tháng tám nhiều nguồn ghi mở rộng cho mọi gói SuperGrok, Cursor Pro và Cursor Teams. Mốc thứ ba là hiện nay: trang gói và thanh toán của Cursor mô tả The X Subscription cùng các gói Cursor cũ, và bản sao cũ hơn của chính trang đó chưa nhắc The X Subscription. Ý cho người nghe: các bài viết tháng tám và chín mô tả tình hình lúc đó, nên một con số hay một danh sách gói trong bài cũ có thể đã lỗi thời; hãy theo trang ghi ngày mới hơn.",
       "layout": "timeline",
       "tone": "light"
     },
@@ -328,11 +328,12 @@
         "S1",
         "S6",
         "S10",
-        "S11"
+        "S11",
+        "S17"
       ],
       "bullets": [
         "Dùng thử: bảy ngày kèm thẻ [S10], mười bốn ngày [S11]; Cursor mô tả là khoản tín dụng dùng trong cửa sổ bảy ngày, đã dùng không hoàn lại [S6]",
-        "Chi tiêu: không có trần riêng cho Grok Bot [S1]; đặt giới hạn cấp tài khoản: On-demand monthly limit hoặc giới hạn dùng thêm [S6]",
+        "Chi tiêu: một bể hằng tuần chung, không đồng hồ riêng [S17]; không có trần riêng cho Grok Bot [S1]; đặt giới hạn cấp tài khoản [S6]",
         "Lưu ý: giới hạn không phải ngưỡng cứng, Bot đang chạy có thể vượt một chút; đặt trước khi chạy nhiều Bot [S6]"
       ],
       "notes": "Hai cột. Cột trái là dùng thử: một nguồn nói bảy ngày kèm thẻ, một nguồn nói mười bốn ngày, còn Cursor mô tả là một khoản tín dụng sử dụng trong cửa sổ bảy ngày, đã dùng thì không hoàn lại, và một tác vụ lớn có thể dùng hết. Cột phải là chi tiêu: hạn mức hằng tuần có nhưng mức không công bố, và không có trần chi riêng cho Grok Bot theo xAI. Điều làm được là đặt giới hạn cấp tài khoản: On-demand monthly limit trong Settings, Usage và Billing với gói Cursor cũ, hoặc giới hạn dùng thêm và tắt Auto Top-up với gói The X Subscription. Dòng dưới là cảnh báo của Cursor: đây không phải ngưỡng cứng, một Bot đang chạy có thể vượt một chút. Nên đặt giới hạn trước khi chạy nhiều Bot liên tục.",
@@ -463,14 +464,14 @@
       "sources": [
         "S1",
         "S4",
-        "S11",
         "S13",
-        "S15"
+        "S15",
+        "S17"
       ],
       "bullets": [
         "xAI: bên làm sản phẩm; mô hình có thể của xAI hoặc bên thứ ba",
         "Cursor: nơi lưu trữ máy đám mây và tài liệu",
-        "SuperGrok: đường mua trực tiếp từ xAI",
+        "The X Subscription và SuperGrok: đường mua từ xAI",
         "Connector và ứng dụng: Teams, Salesforce, iOS"
       ],
       "notes": "Bốn bên quanh Grok Bot. xAI làm sản phẩm và dòng mô hình Grok; Gigazine gọi bên phát hành là SpaceXAI. Cursor lưu trữ máy đám mây và có tài liệu riêng cho Grok Bot. SuperGrok là đường mua trực tiếp từ xAI với các bậc giá khác nhau. Connector và ứng dụng là phần nối ra ngoài: Teams, Salesforce, SharePoint, chợ connector và ứng dụng iOS để duyệt. Lưu ý cho người nghe: sản phẩm nằm ở giao điểm của xAI và Cursor, nên khi cần tài liệu hãy đọc cả hai bên.",
@@ -485,13 +486,14 @@
         "S4",
         "S5",
         "S8",
+        "S12",
         "S16",
         "S17"
       ],
       "bullets": [
         "xAI: sản phẩm, mô hình, tài liệu chat và bảo mật",
         "Cursor: máy đám mây, bắt đầu, bảo mật, trợ giúp",
-        "SuperGrok và Cursor Pro, Teams: các đường vào",
+        "Gói đăng ký: The X Subscription, gói Cursor cũ, liên kết SuperGrok",
         "Mem0, Vellum, Toolradar: đánh giá bên thứ ba, không phải tài liệu chính thức"
       ],
       "notes": "Bảng phân vai. xAI chịu trách nhiệm sản phẩm, mô hình và hai bộ tài liệu về chat và bảo mật. Cursor lưu trữ máy đám mây và có ba nhóm tài liệu: bắt đầu, bảo mật và trợ giúp. Các gói SuperGrok, Cursor Pro và Cursor Teams là đường vào. Cuối cùng là lớp đánh giá bên thứ ba như Mem0, Vellum và Toolradar. Lớp này hữu ích để biết trải nghiệm thực tế nhưng không phải tài liệu chính thức, nên khi một chi tiết quan trọng thì đối chiếu lại với tài liệu của xAI hoặc Cursor.",
@@ -514,19 +516,17 @@
       "tone": "dark"
     },
     {
-      "title": "Việc được nêu trong các bài đánh giá",
+      "title": "Việc được nêu trong bài đánh giá",
       "section": "Use case thực tế",
       "sources": [
-        "S8",
-        "S17"
+        "S8"
       ],
       "bullets": [
         "Theo dõi đối thủ cạnh tranh",
         "Kiểm tra kho mã và tóm tắt",
-        "Nghiên cứu nhiều nguồn song song, xác minh dữ kiện",
-        "Bot chi phí: chỉ soạn tóm tắt và nhắc việc, không đổi số liệu"
+        "Nghiên cứu nhiều nguồn song song, xác minh dữ kiện"
       ],
-      "notes": "Bốn nhóm việc. Theo dõi đối thủ và kiểm tra kho mã là hai việc Mem0 liệt kê. Nghiên cứu nhiều nguồn song song và xác minh dữ kiện tận dụng việc chia nhiều Bot. Nhóm thứ tư là ví dụ từ Toolradar: một Bot chi phí chỉ soạn tóm tắt và nhắc việc, không đổi số liệu hoàn chi. Chi tiết quan trọng là ranh giới: Bot được giao phần soạn và nhắc, còn phần thay đổi số liệu vẫn do người quyết. Nói rõ đây là các ví dụ được thuật lại, chưa phải kết quả đã kiểm chứng.",
+      "notes": "Ba nhóm việc, đều lấy từ danh sách Mem0. Theo dõi đối thủ cạnh tranh và kiểm tra kho mã là hai việc lặp lại điển hình. Nghiên cứu nhiều nguồn song song và xác minh dữ kiện tận dụng việc chia nhiều Bot. Mem0 còn nêu sinh mã và lập kịch bản. Nói rõ đây là các ví dụ được thuật lại từ một bài đánh giá, chưa phải kết quả đã kiểm chứng; và nhắc ranh giới: giao cho Bot phần soạn và nhắc, còn phần thay đổi dữ liệu thật vẫn nên do người quyết.",
       "layout": "card-grid",
       "tone": "light"
     },
@@ -582,12 +582,13 @@
       "sources": [
         "S5",
         "S6",
-        "S9"
+        "S9",
+        "S17"
       ],
       "bullets": [
         "Nên thử khi: có việc theo lịch chạy lúc máy tắt, chấp nhận đăng nhập dùng chung, bắt đầu với dữ liệu không nhạy cảm",
         "Chưa nên khi: cần cách ly bảo mật giữa tác vụ, cần on-premises hoặc tuân thủ chặt, cần chi phí dự đoán được",
-        "Cả hai: đối chiếu trang giá chính thức trước khi trả tiền"
+        "Trước khi mua: kiểm tra gói đang có (Cursor, SuperGrok, X Premium, Grok Business) đã gồm Grok Bot chưa [S17]"
       ],
       "notes": "Hai cột quyết định. Nên thử khi bạn có việc theo lịch cần chạy lúc máy tắt, chấp nhận rằng đăng nhập trên máy đám mây là chung cho các Bot của mình, và bắt đầu với tài khoản và dữ liệu không nhạy cảm. Chưa nên khi cần cách ly bảo mật giữa các tác vụ, cần triển khai trong hạ tầng riêng hoặc có yêu cầu tuân thủ chặt, hoặc cần chi phí ổn định và dự đoán được. Dòng dưới áp dụng cho cả hai: đối chiếu trang giá chính thức trước khi trả tiền.",
       "layout": "two-column-comparison",
@@ -672,7 +673,7 @@
         "S14: iPhone in Canada, Grok Bot major update, 17/10/2026",
         "S15: Cursor, Which AI models power Grok Bot?, 2026",
         "S16: Vellum, Official Grok Bot breakdown, 2026",
-        "S17: Toolradar, Grok Bot use cases, 2026",
+        "S17: Cursor, Plans and billing (Grok Bot), 2026",
         "S18: Cursor, Grok Bot security (tài liệu), 2026"
       ],
       "notes": "Slide nguồn liệt kê mười tám nguồn dùng trong bài. Bốn nguồn đầu tiên là tài liệu của xAI và Cursor, gọi là nguồn chính thức nhưng chỉ đọc qua bản tóm tắt tìm kiếm. Còn lại là báo, blog và so sánh bên thứ ba. Khi một chi tiết quan trọng như giá hay quyền truy cập, mở tài liệu gốc thay vì tin bài viết. Địa chỉ đầy đủ của từng nguồn nằm trong lesson.md, mục Nguồn tham khảo.",

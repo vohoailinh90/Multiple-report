@@ -52,21 +52,27 @@ Ba ý đáng mang theo. Thứ nhất, Grok Bot không phải chatbot trả lời
 
 ## Chi phí và gói truy cập
 
-**Không có giá riêng (nguồn thứ ba, nhiều nguồn khớp).** Grok Bot không bán lẻ; quyền dùng nằm trong gói đăng ký khác. Từ lúc ra mắt đến nay gói được phép dùng đã đổi: ngày ra mắt chỉ các gói cao nhất, ngày 26/08/2026 mở cho mọi gói SuperGrok, Cursor Pro và Cursor Teams [S11].
+**Không có giá riêng: quyền dùng đi kèm gói khác (nguồn chính thức).** Grok Bot không bán lẻ. Tài liệu gói và thanh toán của Cursor phân biệt các đường truy cập sau; đây là trang mới hơn các bài viết tháng 8 và 9, và bản sao cũ hơn của chính trang đó chưa nhắc The X Subscription [S17].
 
-**Con số giá (mâu thuẫn).** Bảng dưới gom lại, kèm nguồn. Đây là điểm các nguồn lệch nhau nhiều nhất.
+1. **The X Subscription.** Các bậc Premium, Super và Ultra có Grok Bot, cho cá nhân và cho chỗ ngồi nhóm; bậc Plus và Free thì không [S17].
+2. **Gói Cursor cũ (legacy).** Pro, Pro+ và Ultra có Grok Bot; một chỗ Teams tự phục vụ cấp quyền cho mọi thành viên, không cần mua riêng [S17].
+3. **Liên kết tài khoản.** Tài khoản cá nhân SuperGrok, SuperGrok Plus, SuperGrok Heavy hoặc X Premium+ có thể liên kết với tài khoản Cursor cũ để cấp lượng dùng Grok Bot; đây là cấp lượng dùng, không phải một gói Cursor [S17].
+4. **Chỗ Grok Business.** Một chỗ được gán trong gói Grok Business tự phục vụ cấp lượng dùng như liên kết SuperGrok; chỉ một nguồn nêu điều này [S17].
 
-| Gói | Giá được nêu | Nguồn | Mức chắc chắn |
+Các đường này không cộng dồn: Grok Bot dùng đường nào cấp nhiều lượng dùng hằng tuần hơn [S17]. Lượng dùng lấy từ một bể hằng tuần chung với Cursor và các ứng dụng Grok, nên không có đồng hồ riêng cho Grok Bot [S17]. Hệ quả thực tế: người đã có một trong các gói trên có thể đã có quyền truy cập và không cần mua thêm; hãy kiểm tra gói đang có trước khi trả tiền (suy luận của người viết từ [S17]).
+
+**Con số giá (nguồn thứ ba, có thể đã cũ).** Với chỗ ngồi nhóm của The X Subscription, tóm tắt tài liệu nêu $30, $100 và $200 mỗi chỗ cho Premium, Super và Ultra [S17]. Các bài tháng 8 và 9 mô tả theo tên gói trước đó: SuperGrok cơ bản khoảng $30, SuperGrok Plus khoảng $100, SuperGrok Heavy khoảng $300, Cursor Pro khoảng $20 [S9] [S11] [S12]. Một bài nói yêu cầu Heavy lúc ra mắt không còn đúng [S9]. Một bài nêu Cursor Ultra khoảng $200 và chưa có nguồn thứ hai xác nhận [S10]. Các con số này mâu thuẫn hoặc lệch tên gói với trang hiện hành, nên chỉ nên dùng để so sánh thô, không dùng để quyết định mua.
+
+| Đường vào | Gói | Giá được nêu | Nguồn |
 |---|---|---|---|
-| SuperGrok cơ bản | khoảng $30 mỗi tháng | [S9] [S11] | nhiều nguồn khớp, chưa kiểm trang giá |
-| SuperGrok Plus | khoảng $100 mỗi tháng | [S11] | một nhóm nguồn |
-| SuperGrok Heavy | khoảng $300 mỗi tháng | [S11] | có nguồn nói đây là yêu cầu lúc ra mắt; Alarcon nói yêu cầu này không còn đúng [S9] |
-| Cursor Pro | khoảng $20 mỗi tháng | [S12] | một bài so sánh; tài liệu xAI có thể liệt kê hẹp hơn |
-| Cursor Ultra | khoảng $200 mỗi tháng | [S10] | một nguồn; chưa có nguồn thứ hai xác nhận |
+| The X Subscription | Premium, Super, Ultra | chỗ nhóm $30, $100, $200 | [S17] |
+| Gói Cursor cũ | Pro, Pro+, Ultra, chỗ Teams | không nêu trong tài liệu; một bài so sánh ghi Pro khoảng $20 | [S12] [S17] |
+| Liên kết tài khoản | SuperGrok, Plus, Heavy, X Premium+ | các bài cũ ghi khoảng $30, $100, $300 | [S11] [S17] |
+| Chỗ Grok Business | chỗ được gán | không nêu | [S17] |
 
-**Mâu thuẫn về danh sách gói.** Một bài tổng hợp ghi rằng trang FAQ của xAI vẫn liệt kê một tập gói hẹp hơn, bắt đầu từ Cursor Pro+, trong khi các nguồn khác nói mọi gói Cursor Pro đều có [S11]. Suy luận của người viết: chưa thể kết luận gói nào "đủ" nếu chưa mở trang giá chính thức vào đúng ngày mua.
+**Mâu thuẫn còn lại về danh sách gói.** Một bài tổng hợp ghi trang FAQ của xAI vẫn liệt kê tập gói hẹp hơn, bắt đầu từ Cursor Pro+ [S11]. Trang gói của Cursor liệt kê rộng hơn [S17]. Suy luận của người viết: nếu hai trang lệch nhau, theo trang ghi ngày mới hơn và mở trang giá chính thức vào đúng ngày mua.
 
-**Dùng thử và hạn mức (nguồn chính thức và nguồn thứ ba).** Cursor mô tả dùng thử là một khoản tín dụng sử dụng trong cửa sổ bảy ngày; phần đã dùng không được hoàn lại, và một tác vụ lớn có thể dùng hết [S6]. Một nguồn khác ghi bảy ngày và phải nhập thẻ trước [S10]; nguồn khác ghi mười bốn ngày [S11]. Các gói trả phí có hạn mức hằng tuần nhưng mức cụ thể không được công bố, và không có trần chi riêng cho Grok Bot [S1] [S11]. Giới hạn chi tiêu đặt ở cấp tài khoản: với gói Cursor cũ là On-demand monthly limit trong Settings > Usage & Billing; với gói The X Subscription là bật Auto Top-up và đặt giới hạn dùng thêm hằng tháng ở trang thanh toán của grok.com, hoặc tắt Auto Top-up [S6]. Cursor lưu ý đây không phải ngưỡng cứng: một tác vụ đang chạy có thể vượt trần một chút [S6]. Người định dùng quá hạn mức hằng tuần nên đặt giới hạn này trước khi chạy nhiều Bot liên tục.
+**Dùng thử và hạn mức (nguồn chính thức và nguồn thứ ba).** Cursor mô tả dùng thử là một khoản tín dụng sử dụng trong cửa sổ bảy ngày; phần đã dùng không được hoàn lại, và một tác vụ lớn có thể dùng hết [S6]. Một nguồn khác ghi bảy ngày và phải nhập thẻ trước [S10]; nguồn khác ghi mười bốn ngày [S11]. Các gói trả phí có hạn mức hằng tuần, lấy từ một bể chung với Cursor và các ứng dụng Grok, mức cụ thể không được công bố, và không có trần chi riêng cho Grok Bot [S1] [S11] [S17]. Giới hạn chi tiêu đặt ở cấp tài khoản: với gói Cursor cũ là On-demand monthly limit trong Settings > Usage & Billing; với gói The X Subscription là bật Auto Top-up và đặt giới hạn dùng thêm hằng tháng ở trang thanh toán của grok.com, hoặc tắt Auto Top-up [S6]. Cursor lưu ý đây không phải ngưỡng cứng: một tác vụ đang chạy có thể vượt trần một chút [S6]. Người định dùng quá hạn mức hằng tuần nên đặt giới hạn này trước khi chạy nhiều Bot liên tục.
 
 **Bản doanh nghiệp.** Một bài chụp trang giá ngày 10/09/2026 ghi Grok Bot chưa nằm trong gói Business hay Enterprise [S9]. Cursor ghi Team Setup chỉ dành cho Enterprise [S5].
 
@@ -108,21 +114,19 @@ Ba ý đáng mang theo. Thứ nhất, Grok Bot không phải chatbot trả lời
 
 **Cursor.** Bên lưu trữ máy đám mây và có tài liệu riêng (bắt đầu, bảo mật, trợ giúp); Cursor Pro và Cursor Teams là hai đường vào [S4] [S5] [S6].
 
-**SuperGrok.** Đường vào trực tiếp từ xAI với các bậc giá khác nhau [S11].
+**The X Subscription và SuperGrok.** Đường mua trực tiếp từ xAI; The X Subscription có các bậc Premium, Super, Ultra gồm Grok Bot, còn tài khoản SuperGrok cá nhân có thể liên kết với tài khoản Cursor cũ [S17].
 
 **Ứng dụng.** Ứng dụng iOS để duyệt và xem kết quả khi vắng bàn; một nguồn mô tả bản đầu trên macOS, nguồn khác thêm Windows [S7] [S10] [S14].
 
 **Connector và routine.** Teams, Salesforce, SharePoint, danh mục bên thứ ba, chợ connector, MCP; email alias kích hoạt routine [S2] [S8] [S13] [S14].
 
-**Hệ phụ trợ bên thứ ba.** Mem0, Vellum, Alarcon, Toolradar và nhiều blog viết hướng dẫn và đánh giá [S8] [S9] [S12] [S16] [S17]. Đây là phân tích, không phải tài liệu chính thức; nên đối chiếu khi một chi tiết quan trọng.
+**Hệ phụ trợ bên thứ ba.** Mem0, Vellum, Alarcon, Toolradar và nhiều blog viết hướng dẫn và đánh giá [S8] [S9] [S12] [S16]. Đây là phân tích, không phải tài liệu chính thức; nên đối chiếu khi một chi tiết quan trọng.
 
 ## Use case thực tế
 
 **Khung chọn việc (nguồn thứ ba).** Alarcon đặt ba phép thử: việc lặp lại theo lịch; chạy được mà không cần file trên laptop; kết quả để lại cho bạn kiểm tra sau. Trượt một phép thử thì đó không phải việc của Bot [S9].
 
 **Việc được nêu trong các bài đánh giá (nguồn thứ ba).** Mem0 liệt kê: theo dõi đối thủ cạnh tranh, kiểm tra kho mã, nghiên cứu nhiều nguồn song song, sinh mã, xác minh dữ kiện, lập kịch bản [S8].
-
-**Ví dụ vận hành (nguồn thứ ba).** Toolradar mô tả một Bot quản lý chi phí chỉ soạn tóm tắt và nhắc việc, không đổi số liệu hoàn chi [S17].
 
 **Áp dụng khung cho ba tình huống (suy luận của người viết, không phải kết quả đã kiểm).**
 
@@ -144,6 +148,8 @@ Ba ý đáng mang theo. Thứ nhất, Grok Bot không phải chatbot trả lời
 **Giới hạn của phép so sánh.** Kết quả tìm kiếm không có bài nào so Grok Bot với các agent chạy trên Claude, nên bài này không so sánh với chúng (suy luận của người viết).
 
 ## Có nên dùng không
+
+**Trước khi mua, kiểm tra** gói bạn đang có (Cursor, SuperGrok, X Premium, chỗ Grok Business) đã gồm Grok Bot chưa [S17].
 
 **Nên thử khi** bạn có việc theo lịch cần chạy khi máy đã tắt; chấp nhận rằng mọi đăng nhập trên máy đám mây là chung cho các Bot của mình; bắt đầu bằng tài khoản và dữ liệu không nhạy cảm [S5] [S9].
 
@@ -177,5 +183,5 @@ Bài này **không phải lời khuyên tài chính hay bảo mật** cho một 
 - [S14] iPhone in Canada, Grok Bot gets major update with new features and X Chat support, 17/10/2026, https://www.iphoneincanada.ca/2026/10/17/grok-bot-major-update/
 - [S15] Cursor, Which AI models power Grok Bot? (trợ giúp), 2026, https://cursor.com/help/grok-bot/models
 - [S16] Vellum, Official Grok Bot breakdown, 2026, https://www.vellum.ai/blog/official-grok-bot-breakdown
-- [S17] Toolradar, Grok Bot use cases, 2026, https://toolradar.com/blog/grok-bot-use-cases
+- [S17] Cursor, Plans and billing (Grok Bot, trợ giúp), 2026, https://cursor.com/help/grok-bot/plans
 - [S18] Cursor, Grok Bot security (tài liệu), 2026, https://cursor.com/docs/grok-bot/security

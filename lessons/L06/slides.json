@@ -218,9 +218,9 @@
     "Các em nộp ảnh Instagram của mình, được báo có khoảng 50 bạn đã xem",
     "Trong máy quét: 148 ảnh, mỗi ảnh 3 giây, nút Like hoặc Next",
     "Số lượt thích do nhóm nghiên cứu ấn định: nhiều (23 đến 45) hoặc ít (0 đến 22)",
-    "Hai phiên bản đảo ngược nhau, nên cùng một ảnh vừa nhiều vừa ít lượt thích"
+    "Ảnh chung: hai phiên bản đảo ngược. Ảnh của em: chia ngẫu nhiên theo nhóm nội dung"
    ],
-   "notes": "Đọc từ trái sang phải. Sherman và cộng sự tuyển 34 thiếu niên, hai em bị loại khỏi phân tích fMRI vì máy báo lỗi và vì cử động quá nhiều. Các em được báo là nghiên cứu xem não phản ứng thế nào khi dùng mạng xã hội, được nhờ nộp ảnh từ tài khoản Instagram thật, và được báo rằng khoảng 50 thiếu niên khác đã xem và bấm thích. Trên thực tế số lượt thích do nhóm nghiên cứu ấn định. Mỗi em xem 148 ảnh: 66 trung tính, 42 về hành vi nguy cơ và 40 ảnh của chính em. Có hai phiên bản của bộ ảnh, nhiều và ít lượt thích đảo ngược nhau, nên nội dung ảnh được giữ nguyên khi chỉ thay mức nổi tiếng. Vì có đổi điều kiện có kiểm soát, đây là thực nghiệm."
+   "notes": "Đọc từ trái sang phải. Sherman và cộng sự tuyển 34 thiếu niên, hai em bị loại khỏi phân tích fMRI vì máy báo lỗi và vì cử động quá nhiều. Các em được báo là nghiên cứu xem não phản ứng thế nào khi dùng mạng xã hội, được nhờ nộp ảnh từ tài khoản Instagram thật, và được báo rằng khoảng 50 thiếu niên khác đã xem và bấm thích. Trên thực tế số lượt thích do nhóm nghiên cứu ấn định. Mỗi em xem 148 ảnh: 66 trung tính, 42 về hành vi nguy cơ và 40 ảnh của chính em. Với ảnh trung tính và ảnh nguy cơ dùng chung, có hai phiên bản đảo ngược nhau, nên cùng một ảnh được thấy với nhiều lượt thích ở nửa số em và ít ở nửa kia. Ảnh của chính em thì được xếp nhóm theo nội dung rồi chia ngẫu nhiên làm hai nửa, không đảo, nên không có đối chứng cùng một ảnh. Vì có đổi điều kiện có kiểm soát, đây là thực nghiệm."
   },
   {
    "title": "Thẻ hồ sơ: thí nghiệm của Sherman và cộng sự (2016)",
@@ -243,7 +243,7 @@
     },
     {
      "label": "Thao tác",
-     "text": "Số lượt thích hiển thị do nhóm nghiên cứu ấn định, nhiều hoặc ít, đảo chéo giữa hai phiên bản [S2]"
+     "text": "Lượt thích do nhóm nghiên cứu ấn định; ảnh chung đảo chéo hai phiên bản, ảnh của em chia ngẫu nhiên [S2]"
     },
     {
      "label": "Hành vi",

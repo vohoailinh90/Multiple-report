@@ -167,6 +167,7 @@ def check(root, lid):
     if S and S[-1]["section"] != "Nguồn tham khảo": errs.append("the last slide must be the sources slide (section Nguồn tham khảo)")
     if S and "section_min_slides" in ex and S[-1]["layout"] != "references":  # lessons of the deep standard list their sources in full
         errs.append("the last slide of a deep lesson must use the references layout")
+    if S and S[-1]["tone"] != "dark": errs.append("the last slide (sources) must have the dark tone (docs/deck-style.md)")
     if any(s["layout"] == "references" for s in S[:-1]): errs.append("a references slide must be the last slide")
     if not (ex["slides"]["min"] <= len(S) <= ex["slides"]["max"]): errs.append(f"slide count {len(S)}")
     lay = [s["layout"] for s in S]; tone = [s["tone"] for s in S]

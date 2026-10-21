@@ -329,6 +329,10 @@ class GateTests(unittest.TestCase):
         self.assertIn(f"required source missing: {BOOK}", errs)
         self.assertEqual(self.run_gate(lesson=LESSON.replace(BOOK, BOOK.rstrip("/")))[0], [], "a missing trailing slash is the same page")
 
+    def test_the_sources_slide_is_dark(self):
+        errs, _ = self.run_gate(self.mutated(5, tone="light"))
+        self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)
+
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
         self.assertIn("reference card has no text after its label: S1: ", errs)

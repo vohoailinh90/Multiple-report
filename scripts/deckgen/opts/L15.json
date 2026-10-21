@@ -1,0 +1,19 @@
+{
+ "topic_label": "Triết học · Bài L15",
+ "motif": "rings",
+ "question": "Ba bác sĩ cùng nguồn, ba cách hiểu vô thức?",
+ "cards": [
+  "Freud: vì sao",
+  "Jung: phần bị bỏ rơi",
+  "Adler: để làm gì",
+  "Vô thức"
+ ],
+ "concepts": ["freud", "jung", "adler", "vô thức"],
+ "mark": {
+  "1": "ba quan niệm khác nhau",
+  "10": "điều khó chịu",
+  "24": "bất toàn",
+  "37": "không phải lời khuyên y tế"
+ },
+ "center": {"7": "Cái tôi", "21": "Mục tiêu hư cấu", "35": "Ngôi nhà"}
+}

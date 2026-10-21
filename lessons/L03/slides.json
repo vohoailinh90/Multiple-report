@@ -3,110 +3,903 @@
   "subtitle": "Thần kinh học · Bài L03",
   "slides": [
     {
-      "title": "Một cảm xúc, một chất hóa học?",
+      "title": "Có phải mỗi cảm xúc do một chất quyết định?",
       "section": "Tóm tắt",
       "sources": [
-        "S1",
-        "S2",
-        "S4"
+        "S11",
+        "S12"
       ],
-      "bullets": [
-        "Hơn 100 chất dẫn truyền đã biết",
-        "Cùng một chất, nhiều việc khác nhau",
-        "Tâm lý là hoạt động của cả mạng lưới"
-      ],
-      "notes": "Chỉ cần nhớ vài chất chính và cách hiểu: tác động tùy thụ thể, đường dẫn và mạng lưới.",
-      "layout": "card-grid",
-      "tone": "light"
-    },
-    {
-      "title": "Hormone khác chất dẫn truyền",
-      "section": "Chất dẫn truyền khác hormone thế nào",
-      "sources": [],
-      "bullets": [
-        "Hormone: tiết vào máu, đi khắp cơ thể",
-        "Chất dẫn truyền: nơron giải phóng vào khe synapse"
-      ],
-      "notes": "Định nghĩa cơ bản. Ví dụ của người viết: hormone như loa phát thanh cả khu phố, chất dẫn truyền như lá thư gửi người hàng xóm.",
-      "layout": "two-column-comparison",
-      "tone": "dark"
-    },
-    {
-      "title": "Chân ga và chân phanh",
-      "section": "Hai chất chủ lực: glutamate và GABA",
-      "sources": [
-        "S2",
-        "S4"
-      ],
-      "bullets": [
-        "Cả mạng lưới cần cả ga lẫn phanh"
-      ],
-      "notes": "Ví dụ của người viết: một chiếc xe chỉ có ga thì mất kiểm soát, chỉ có phanh thì đứng yên.",
       "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "tone": "light",
+      "bullets": [
+        "Không: một chất làm nhiều việc, và một cảm xúc cần nhiều chất",
+        "Rất nhiều chất dẫn truyền; chia thành phân tử nhỏ (nhanh) và neuropeptide (chậm)"
+      ],
+      "notes": "Mở bài bằng câu hỏi mà nhiều người hay hỏi: dopamine có phải là niềm vui, serotonin có phải là bình yên không. Câu trả lời ngắn là không. Có rất nhiều chất dẫn truyền, nên bài học không cố liệt kê hết mà chọn tám thẻ hồ sơ: glutamate, GABA, dopamine, serotonin, noradrenaline, acetylcholine, endorphin cùng hệ opioid, và oxytocin với vasopressin. Mỗi thẻ có cùng chín ý để người đọc so sánh được. Chỗ dễ nhầm: bài này không nói chất dẫn truyền không quan trọng với cảm xúc; nó nói rằng tác động của một chất phụ thuộc vào thụ thể, vùng não và mạch đang chạy, nên không thể gán trọn một cảm xúc cho một phân tử."
     },
     {
-      "title": "Glutamate và GABA",
-      "section": "Hai chất chủ lực: glutamate và GABA",
+      "title": "Ba ý đi suốt bài",
+      "section": "Tóm tắt",
       "sources": [
-        "S1",
-        "S2",
+        "S6",
+        "S10",
+        "S11"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Glutamate và GABA: làm phần lớn việc kích thích và ức chế của não",
+        "Thụ thể quyết định: cùng một chất có thể gây tác động ngược nhau",
+        "Một cảm xúc, nhiều chất: mạch sợ nhạy với glutamate, CRF và nhiều neuropeptide"
+      ],
+      "notes": "Ba ý này là khung của cả bài. Ý thứ nhất: hai amino acid glutamate và GABA làm phần lớn việc truyền tin kích thích và ức chế, còn các amin như dopamine, noradrenaline hay serotonin xuất phát từ vài nhóm nhân nhỏ rồi tỏa lên các vùng đích; noradrenaline phủ gần như khắp não, dopamine có phóng chiếu hẹp hơn. Ý thứ hai: một chất gắn vào nhiều loại thụ thể; ví dụ dopamine qua họ D1 làm tế bào dễ kích thích hơn, qua họ D2 thì ngược lại. Ý thứ ba: một cảm xúc huy động nhiều chất; giáo trình 10.2 nói mạch sợ từ hạnh nhân đến chất xám quanh cống não nhạy với glutamate, CRF, ACTH và nhiều neuropeptide. Khi đọc từng thẻ hồ sơ phía sau, hãy thử tìm ba ý này trong đó."
+    },
+    {
+      "title": "Hormone và chất dẫn truyền: định nghĩa tối giản",
+      "section": "Chất dẫn truyền khác hormone thế nào",
+      "sources": [
+        "S12"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Định nghĩa giáo khoa tối giản: **hormone** được tiết vào máu và đi đến các cơ quan ở xa; **chất dẫn truyền thần kinh** được nơron giải phóng vào khe synapse và tác động lên tế bào ngay bên cạnh. Ở synapse cổ điển, thông tin đi một chiều từ điểm giải phóng ở nơron trước đến cụm thụ thể ở nơron sau, và chỉ tràn sang synapse bên cạnh rất ít [S12]. Ranh giới này hữu ích để bắt đầu, nhưng trong não có nhiều trường hợp nằm giữa hai loại.",
+      "bullets": [
+        "Hormone: vào máu, tác động ở xa",
+        "Chất dẫn truyền: vào khe synapse, tác động sát bên",
+        "Đừng hiểu nhầm: ranh giới thật ra mờ"
+      ],
+      "notes": "Ví dụ của người viết: hormone giống loa phát thanh cả khu phố, còn chất dẫn truyền ở synapse cổ điển giống một lá thư gửi tận tay người hàng xóm. Ví dụ này giúp nhớ hai cách làm việc, nhưng đừng coi nó là quy luật tuyệt đối. Neuroscience Online nhấn mạnh rằng synapse của glutamate hay acetylcholine truyền tin theo một chiều, có tổ chức rõ ràng về không gian; còn neuropeptide thì tác động lên cả một vùng quanh chỗ giải phóng. Slide sau sẽ so sánh hai cách làm việc cạnh nhau, và slide tiếp theo nữa đưa ra ba trường hợp nằm giữa. Chỗ dễ nhầm: tên gọi không cho biết cách làm việc, vì cùng một phân tử có thể vừa là hormone vừa là chất dẫn truyền."
+    },
+    {
+      "title": "Hai cách làm việc",
+      "section": "Chất dẫn truyền khác hormone thế nào",
+      "sources": [
+        "S12"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Synapse cổ điển: một chiều, đích gần, nhanh, ít tràn sang synapse bên cạnh",
+        "Neuropeptide: lan ra một vùng, chậm, kéo dài, giống hormone thu nhỏ",
+        "Nhiều peptide được biết trước hết là hormone cũng làm chất dẫn truyền trong não"
+      ],
+      "notes": "Cột trái là kiểu synapse cổ điển, như synapse của glutamate: chất được giải phóng ở vùng hoạt động của nơron trước và gắn ngay vào cụm thụ thể đối diện; tín hiệu nhanh và gọn. Cột phải là kiểu neuropeptide: chất được giải phóng không cần chỗ chuyên biệt, rồi lan ra tác động lên tế bào trong một vùng thể tích. Neuroscience Online so sánh kiểu này với hormone peptide được tiết vào máu, và nói thêm rằng nhiều neuropeptide ban đầu được mô tả là hormone, sau đó mới thấy cũng có trong nơron của não. Điều cần rút ra: phân biệt hormone với chất dẫn truyền là phân biệt cách truyền tin, không phải phân biệt hai danh sách phân tử tách rời."
+    },
+    {
+      "title": "Ba trường hợp nằm giữa",
+      "section": "Chất dẫn truyền khác hormone thế nào",
+      "sources": [
+        "S10",
+        "S12",
+        "S17"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Một phân tử, hai vai: noradrenaline là chất dẫn truyền giao cảm, và tủy thượng thận tiết nó vào máu",
+        "Dẫn truyền thể tích: đầu tận cùng của nơron amin thường không có synapse cổ điển",
+        "Hormone do não tiết: oxytocin vào máu qua thùy sau tuyến yên và cũng được giải phóng trong não"
+      ],
+      "notes": "Ba thẻ này cho thấy vì sao không nên chia cứng. Thẻ một: noradrenaline là chất dẫn truyền ở nơron giao cảm, nhưng tủy thượng thận tiết noradrenaline và adrenaline vào máu như hormone, theo tỷ lệ khoảng một phần noradrenaline với bốn phần adrenaline. Thẻ hai: Neuroscience Online mô tả phần lớn đầu tận cùng của nơron dopamine, noradrenaline và serotonin không có synapse cổ điển; chất lan ra và tác động lên nhiều tế bào lân cận. Thẻ ba: theo Froemke và Young, oxytocin được tạo ở vùng dưới đồi, phần lớn vào máu qua thùy sau tuyến yên, nhưng cũng được giải phóng ngay trong não. Vì vậy gọi một chất là hormone hạnh phúc sai ở hai chỗ: gộp hai cách làm việc, và gán một cảm xúc cho một phân tử; L10 bàn kỹ hơn."
+    },
+    {
+      "title": "Ba nhóm hóa học (và acetylcholine)",
+      "section": "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+      "sources": [
+        "S9",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Amino acid: glutamate, GABA, glycine",
+        "Amin sinh học: dopamine, noradrenaline, adrenaline, serotonin, histamine",
+        "Acetylcholine: phân tử nhỏ, đứng riêng một loại",
+        "Neuropeptide: chuỗi amino acid dài hơn, như endorphin, oxytocin"
+      ],
+      "notes": "Bảng này chia chất dẫn truyền theo nhóm hóa học. Nhóm phân tử nhỏ gồm các amino acid, các amin sinh học và acetylcholine; nhóm còn lại là neuropeptide. Ba chất dopamine, noradrenaline và adrenaline được gọi chung là catecholamine vì cùng có nhân catechol; serotonin là một indolamine. Biết nhóm hóa học là đoán được khá nhiều điều. Ví dụ, neuropeptide được tạo từ protein tiền chất ở thân tế bào, chuyển xuống đầu tận cùng, và không có cơ chế thu hồi; các amin thì thường bị thu hồi để dùng lại. Chỗ dễ nhầm: amino acid ở đây là chất dẫn truyền, không phải amino acid trong bữa ăn."
+    },
+    {
+      "title": "Chất dẫn truyền được dọn đi bằng cách nào",
+      "section": "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+      "sources": [
+        "S9",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Acetylcholine: enzyme acetylcholinesterase cắt rất nhanh",
+        "Amin: thu hồi nhờ chất vận chuyển ở màng đầu tận cùng",
+        "GABA, glutamate: nơron và tế bào thần kinh đệm thu hồi",
+        "Neuropeptide: khuếch tán, protease phân hủy, không có thu hồi"
+      ],
+      "notes": "Vòng đời của chất dẫn truyền đã có ở L02; slide này chỉ thêm bước cuối, vì đây là chỗ nhiều thuốc tác động. Mỗi nhóm có cách dọn riêng. Acetylcholine bị enzyme acetylcholinesterase phân hủy rất nhanh. Các amin như dopamine, noradrenaline và serotonin chủ yếu bị thu hồi nhờ một chất vận chuyển ở màng đầu tận cùng. GABA và glutamate được cả nơron lẫn tế bào thần kinh đệm thu hồi. Neuropeptide thì khuếch tán đi rồi bị protease phân hủy; Neuroscience Online ghi chưa thấy bằng chứng về thu hồi peptide. Vì sao cần dọn nhanh? Để tế bào sau sẵn sàng cho tín hiệu kế tiếp. Mục thuốc của bài sẽ quay lại từng bước này."
+    },
+    {
+      "title": "Đọc hình synapse",
+      "section": "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+      "sources": [
         "S4"
       ],
+      "layout": "figure",
+      "tone": "dark",
       "bullets": [
-        "Glutamate: kích thích chủ yếu",
-        "GABA: ức chế chủ yếu",
-        "Rượu và benzodiazepine ảnh hưởng hệ GABA"
+        "Vesicle: túi chứa chất dẫn truyền",
+        "Synaptic gap: khe synapse",
+        "Receptor: thụ thể ở gai nơron sau"
       ],
-      "notes": "Đừng lẫn thuốc an thần ở đây với thuốc an thần kinh (antipsychotic), là một nhóm thuốc khác.",
-      "layout": "lookup-table",
-      "tone": "dark"
+      "images": [
+        {
+          "file": "images/synapse.png",
+          "alt": "Synapse: túi chứa chất dẫn truyền, khe synapse và thụ thể",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/"
+        }
+      ],
+      "notes": "Hình này đã gặp ở L02; ở đây ta đọc lại để định vị các thẻ hồ sơ. Phía trên là đầu tận cùng của nơron trước (presynaptic terminal button) chứa các túi. Khi xung điện đến, túi hòa vào màng và đổ chất dẫn truyền vào khe synapse. Phía dưới là gai của nơron sau (postsynaptic spine) mang các thụ thể. Mỗi thẻ hồ sơ trong bài thực chất trả lời những câu hỏi về hình này: chất nào nằm trong túi, nó gắn vào thụ thể loại nào, và nó bị dọn khỏi khe bằng cách nào. Chỗ dễ nhầm: hình vẽ một synapse cổ điển; các nơron amin và neuropeptide thường giải phóng chất ở chỗ không có cấu trúc gọn như vậy, như slide trước đã nói."
     },
     {
-      "title": "Dopamine",
+      "title": "Hai họ thụ thể: nhanh và chậm",
+      "section": "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+      "sources": [
+        "S3",
+        "S11"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Thụ thể kênh ion: tự nó là kênh; đáp ứng nhanh",
+        "Thụ thể kết cặp protein G: tách khỏi kênh; đáp ứng chậm hơn",
+        "Kích thích hay ức chế do loại kênh ion quyết định, không do bản thân chất"
+      ],
+      "notes": "Neuroscience Online nêu hai cách một thụ thể amino acid hoạt động: mở thẳng một kênh ion (ionotropic) hoặc kết cặp protein G (GPCR). Glutamate và GABA có cả hai: kênh ion cho đáp ứng nhanh, thụ thể protein G cho đáp ứng chậm. Thụ thể kênh ion vừa là chỗ gắn vừa là kênh, nên chất gắn vào là kênh mở ngay; thụ thể protein G kích hoạt chuỗi phản ứng bên trong tế bào nên chậm hơn. Dòng dưới cùng là ý quan trọng nhất của mục này: giáo trình 3.4 nói chất mở kênh natri hoặc canxi tạo điện thế kích thích, chất mở kênh clo hoặc kali tạo điện thế ức chế. Vì vậy câu hỏi đúng là thụ thể nào, không chỉ là chất nào."
+    },
+    {
+      "title": "Từ chất dẫn truyền đến xung kế tiếp",
+      "section": "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+      "sources": [
+        "S3",
+        "S11"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "Chất dẫn truyền gắn vào thụ thể tạo ra **EPSP** (kích thích, đẩy màng gần ngưỡng) hoặc **IPSP** (ức chế, đẩy màng xa ngưỡng). Nơron sau cộng dồn nhiều nghìn tín hiệu như vậy [S11]; đủ ngưỡng thì phát một xung kiểu có hoặc không, và vòng lặp lại ở nơron kế tiếp [S3]. Xem thêm L02.",
+      "bullets": [
+        "Action potential: xung có hoặc không",
+        "Release of neurotransmitter: giải phóng chất",
+        "EPSPs and IPSPs: điện thế kích thích, ức chế"
+      ],
+      "images": [
+        {
+          "file": "images/vong-tin-hieu.png",
+          "alt": "Vòng tín hiệu điện hóa giữa các nơron",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 9 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/communication-within-and-between-neurons/"
+        }
+      ],
+      "notes": "Hình tóm tắt vòng điện hóa đã học ở L02 và giải thích vì sao chất dẫn truyền có ý nghĩa. Xung điện (action potential) đi dọc sợi trục, đến đầu tận cùng thì làm giải phóng chất dẫn truyền. Chất này tạo ra điện thế nhỏ ở nơron sau: EPSP nếu kích thích, IPSP nếu ức chế. Khác với xung điện, EPSP và IPSP có độ lớn thay đổi và cộng dồn theo thời gian và không gian. Giáo trình 3.4 ví như trò chơi tung bóng trên tấm dù lớn: các con sóng cùng chiều thì cộng lại, ngược chiều thì triệt tiêu. Chỗ dễ nhầm: không chất nào tự mình quyết định nơron có phát xung; quyết định là tổng của rất nhiều tín hiệu đến cùng lúc."
+    },
+    {
+      "title": "Chín ý của một thẻ hồ sơ",
+      "section": "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+      "sources": [],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Tên, loại hóa học, nhân tạo ra chất",
+        "Đường đi từ nhân nguồn đến vùng đích",
+        "Các loại thụ thể: kích thích hay ức chế",
+        "Vai trò theo từng vùng",
+        "Liên hệ với cảm xúc, hành vi, kèm mức bằng chứng",
+        "Thuốc và chất tác động, rối loạn liên quan, điều hay hiểu nhầm"
+      ],
+      "notes": "Mỗi chất ở các mục sau được viết theo cùng chín ý, gom lại thành sáu hàng trên slide này. Trên slide của từng chất, thẻ hồ sơ chỉ chọn sáu ý quan trọng nhất; bài viết có đủ chín, và ý nào nguồn không nói thì ghi chưa rõ hoặc bỏ. Khi đọc ý về cảm xúc, hãy để ý nhãn mức chắc chắn: giáo khoa nghĩa là sách giáo khoa nêu như kiến thức đồng thuận; giả thuyết hoặc đang tranh luận nghĩa là có nguồn nhưng còn bàn cãi, và bài nói rõ ai tranh luận; suy luận của người viết thì không gắn nguồn. Về đường đi, phần lớn bản đồ nhân nguồn và vùng đích trong Neuroscience Online được vẽ trên não chuột, nên khi nói về người cần thận trọng. Vị trí các nhân thân não thuộc L01, các nhân sâu như vùng dưới đồi hay nhân accumbens thuộc L07."
+    },
+    {
+      "title": "Glutamate: chất kích thích làm việc nhiều nhất",
+      "section": "Glutamate",
+      "sources": [
+        "S8",
+        "S11"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Glutamate** thường được coi là chất dẫn truyền quan trọng nhất cho hoạt động bình thường của não: gần như mọi nơron kích thích trong hệ thần kinh trung ương dùng nó, và ước tính hơn một nửa số synapse giải phóng glutamate [S8]. Nơron khắp não tự tạo glutamate; tế bào thần kinh đệm thu glutamate dư, đổi thành glutamine rồi trả lại cho nơron [S11]. Phần lớn điện thế kích thích sau synapse do thụ thể glutamate tạo ra [S11].",
+      "bullets": [
+        "Ở đâu: khắp não, không có nhân riêng",
+        "Làm gì: kích thích nhanh, lưu thông tin ở synapse",
+        "Đừng hiểu nhầm: kích thích điện, không phải phấn khích"
+      ],
+      "notes": "Glutamate là ví dụ cho thấy một chất có thể quan trọng mà không gắn với cảm xúc riêng nào. Nó có ở khắp não vì gần như mọi nơron kích thích đều dùng nó. Chu trình glutamate–glutamine cho thấy tế bào thần kinh đệm không chỉ là chất độn: chúng thu glutamate dư khỏi khe synapse, đổi thành glutamine, rồi trả lại để nơron làm lại glutamate. Ví dụ của người viết: hỏi glutamate gây cảm xúc gì giống hỏi điện gây ra chương trình tivi nào; điện cần cho mọi chương trình nhưng không quyết định nội dung. Chỗ dễ nhầm: chữ kích thích ở đây là đẩy điện thế màng của nơron sau đến gần ngưỡng phát xung, không phải làm người ta phấn khích."
+    },
+    {
+      "title": "Glutamate: thẻ hồ sơ",
+      "section": "Glutamate",
+      "sources": [
+        "S1",
+        "S11"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Amino acid, chất kích thích chính của não [S11]"
+        },
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "Không có nhân riêng; nơron khắp não tự tạo [S11]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "AMPA/kainate, NMDA (kênh ion, kích thích); thụ thể protein G (chậm) [S11]"
+        },
+        {
+          "label": "Vai trò theo vùng",
+          "text": "NMDA cần cả hai nơron cùng hoạt động: cơ sở của một số dạng ghi nhớ [S11]"
+        },
+        {
+          "label": "Thuốc, chất tác động",
+          "text": "Rượu giảm tác dụng kích thích của glutamate ở NMDA [S1]"
+        },
+        {
+          "label": "Rối loạn",
+          "text": "Độc tính kích thích sau đột quỵ, chấn thương: Ca2+ vào qua NMDA [S11]"
+        }
+      ],
+      "notes": "Sáu ý chọn từ chín ý của thẻ hồ sơ. Đáng chú ý nhất là thụ thể NMDA: nó cho ion canxi đi vào, cần glycine, và bị ion magie chặn cho đến khi màng nơron sau đã khử cực. Nghĩa là nó chỉ mở khi nơron trước vừa giải phóng glutamate và nơron sau cũng đang hoạt động. Neuroscience Online coi tính chất kết hợp này là cơ sở của một số dạng ghi nhớ ở synapse; đây là kiến thức giáo khoa. Về chất tác động: rượu làm giảm tác dụng kích thích của glutamate ở NMDA, góp phần gây an thần. Glutamate bị kẹt lại ngoài tế bào quá lâu thì độc, như sau đột quỵ hoặc chấn thương: bơm thu hồi thiếu năng lượng, canxi tràn vào qua NMDA và gây tổn thương."
+    },
+    {
+      "title": "Các thụ thể của glutamate",
+      "section": "Glutamate",
+      "sources": [
+        "S11"
+      ],
+      "layout": "connection-diagram",
+      "tone": "dark",
+      "bullets": [
+        "AMPA/kainate: kênh ion, phần lớn EPSP",
+        "NMDA: cho Ca2+ vào, cần glycine, bị Mg2+ chặn",
+        "Thụ thể protein G: đáp ứng chậm"
+      ],
+      "notes": "Sơ đồ đặt glutamate ở giữa và các loại thụ thể xung quanh. Thụ thể kênh ion gồm nhóm không-NMDA, tức AMPA và kainate, và NMDA. Theo Neuroscience Online, nhóm không-NMDA tạo ra phần lớn điện thế kích thích sau synapse. Thụ thể NMDA có hai đặc điểm: cần glycine để kênh mở; và kênh bị ion magie chặn ở điện thế nghỉ, chỉ được tháo khi màng khử cực. Vì cần cả chất gắn lẫn khử cực, NMDA đóng vai trò bộ phát hiện hoạt động đồng thời của hai nơron. Họ thứ ba là thụ thể kết cặp protein G, cho đáp ứng chậm hơn. Chỗ dễ nhầm: tên AMPA, kainate, NMDA là tên của các chất kích hoạt thụ thể trong phòng thí nghiệm, không phải tên chức năng."
+    },
+    {
+      "title": "GABA: chân phanh có mặt khắp não",
+      "section": "GABA",
+      "sources": [
+        "S11"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**GABA** là chất ức chế chính của não, làm trung gian cho phần lớn tác động ức chế ở hệ thần kinh trung ương [S11]. GABA được tạo từ glutamate nhờ enzyme GAD, chỉ có trong nơron; khác các amino acid khác, nó không dùng để tạo protein [S11]. Synapse ức chế thường nằm gần thân tế bào: một nơron vỏ não nhận khoảng 10.000 synapse kích thích trên nhánh (axodendritic) nhưng chỉ 10–50 synapse ức chế trên thân (axosomatic), mà vì gần nơi phát xung nên vẫn đủ hãm [S11].",
+      "bullets": [
+        "Ở đâu: gần thân tế bào, khắp não",
+        "Làm gì: ức chế, định nhịp, chọn lọc",
+        "Đừng hiểu nhầm: ức chế không phải buồn ngủ"
+      ],
+      "notes": "Neuroscience Online ghi GABA được tạo từ glutamate nhờ enzyme GAD, chỉ có trong nơron; khác các amino acid còn lại, GABA không dùng để tạo protein. Vị trí synapse cũng quan trọng: synapse ức chế nằm gần nơi phát xung nên ít synapse vẫn đủ hãm một nơron nhận hàng nghìn tín hiệu kích thích. Ví dụ của người viết: glutamate là chân ga, GABA là chân phanh; xe chỉ có ga thì mất lái, chỉ có phanh thì đứng yên, và tài xế giỏi dùng phanh liên tục chứ không chỉ khi dừng. Chỗ dễ nhầm: ức chế ở đây là đẩy nơron xa ngưỡng phát xung, không có nghĩa làm người ta buồn ngủ hay làm họ vui."
+    },
+    {
+      "title": "GABA: thẻ hồ sơ",
+      "section": "GABA",
+      "sources": [
+        "S1",
+        "S7",
+        "S11"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Amino acid tạo từ glutamate, chất ức chế chính; không dùng để tạo protein [S11]"
+        },
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "Không có nhân riêng; enzyme GAD tạo GABA từ glutamate, chỉ có trong nơron [S11]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "GABA-A: kênh Cl-, nhanh; GABA-B: protein G, chậm; cả hai ức chế [S11]"
+        },
+        {
+          "label": "Cảm xúc, mức bằng chứng",
+          "text": "Ức chế GABA không đủ có thể làm hạnh nhân quá hoạt động trong lo âu: giả thuyết [S7]"
+        },
+        {
+          "label": "Thuốc, chất tác động",
+          "text": "Nhóm benzodiazepine, barbiturate và rượu tăng tác dụng của GABA [S11] [S1]"
+        },
+        {
+          "label": "Rối loạn",
+          "text": "Động kinh ổ: một giải thích là ức chế GABA tại chỗ giảm [S11]"
+        }
+      ],
+      "notes": "Ý về cảm xúc được gắn nhãn giả thuyết. Giáo trình 12.4 viết rằng ức chế GABA không đủ có thể là nguyên nhân khiến hạnh nhân hoạt động quá mức ở người rối loạn lo âu; bằng chứng đến từ động vật, khi tiêm chất chủ vận GABA vào hạnh nhân làm giảm các chỉ số sợ và lo, và từ tác dụng của thuốc. Nhưng cùng chương cũng nói serotonin, endocannabinoid và oxytocin quan trọng; nên lo âu không phải đơn giản là thiếu GABA. Về chất tác động, rượu và nhóm benzodiazepine cùng đi qua GABA, đó là lý do mục Lưu ý nhắc hỏi bác sĩ hoặc dược sĩ trước khi dùng chung. Về rối loạn, một cách giải thích động kinh ổ là ức chế GABA tại chỗ bị giảm, khiến nhiều tế bào phát xung đồng loạt."
+    },
+    {
+      "title": "GABA-A, GABA-B và các chất gắn vào",
+      "section": "GABA",
+      "sources": [
+        "S1",
+        "S11"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "GABA-A: kênh Cl-, đáp ứng nhanh",
+        "GABA-B: kết cặp protein G, đáp ứng chậm",
+        "Benzodiazepine: làm GABA gắn hiệu quả hơn, tự nó không mở kênh",
+        "Rượu: có lẽ giữ kênh GABA mở lâu hơn, nhiều Cl- vào tế bào hơn"
+      ],
+      "notes": "Bảng so sánh hai thụ thể chính của GABA và hai chất hay gặp. GABA-A là kênh cho ion clo mang điện âm đi vào, làm điện thế màng xa ngưỡng hơn, nên ức chế nhanh. GABA-B kết cặp protein G, ức chế chậm hơn qua kênh kali và canxi. Dòng ba là chi tiết hay bị hiểu sai: nhóm benzodiazepine gắn vào một vị trí khác trên GABA-A và làm GABA gắn hiệu quả hơn; bản thân thuốc không mở kênh. Nhóm barbiturate cũng làm GABA tác động mạnh hơn. Dòng bốn từ giáo trình 5.5: rượu gắn vào thụ thể GABA, có lẽ giữ kênh mở lâu hơn. Khi uống lâu, thụ thể GABA lại kém nhạy đi, một phần lý do của cai rượu."
+    },
+    {
+      "title": "Dopamine: ít nơron, nhiều việc",
       "section": "Dopamine",
       "sources": [
-        "S2"
+        "S6",
+        "S10"
       ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Dopamine** là một catecholamine, tạo từ tyrosine qua DOPA [S10]. Thân tế bào nằm chủ yếu ở hai nhân của não giữa: **chất đen** (substantia nigra) và **vùng mái bụng** (VTA), thêm vài nhóm ở vùng dưới đồi [S10]. Từ đó sợi trục đi tới thể vân, nhân accumbens, các cấu trúc hệ viền và vỏ não. Dopamine tham gia điều khiển vận động, điều hòa hormone và động cơ [S10]; giáo trình 10.2 gắn nó với hệ ham muốn, tạo cảm giác hào hứng và mong chờ [S6].",
       "bullets": [
-        "Động lực",
-        "Học theo phần thưởng",
-        "Vận động"
+        "Ở đâu: chất đen, VTA ở não giữa",
+        "Làm gì: vận động, động cơ, điều hòa hormone",
+        "Đừng hiểu nhầm: không phải chất khoái cảm"
       ],
-      "notes": "Dopamine là chất điều hòa: nơron sản xuất ở vùng nhỏ nhưng tỏa nhánh lên nhiều vùng. Chi tiết ở L00. Liên quan không có nghĩa là nguyên nhân duy nhất.",
-      "layout": "connection-diagram",
-      "tone": "light"
+      "notes": "Dopamine là chất điều hòa điển hình: số nơron ít, nằm gọn ở vài nhân, nhưng sợi trục tỏa đi nhiều vùng. Ba đường dẫn chính và chi tiết hệ thưởng đã được trình bày ở L00 và L05, nên ở đây chỉ tóm tắt. Neuroscience Online nêu một quan sát gợi ý vai trò của nhân accumbens: động vật đói bị tổn thương nhân này không tỏ ra tìm thức ăn, nhưng việc ăn khi có thức ăn thì không bị ảnh hưởng. Nghĩa là phần bị ảnh hưởng là giai đoạn thèm muốn và tìm kiếm, không phải giai đoạn ăn; nguồn không nêu loài, và bản đồ trong sách chủ yếu vẽ trên não chuột. Chỗ dễ nhầm: liên quan đến động cơ không có nghĩa là dopamine tạo ra khoái cảm; slide sau và mục Vì sao một chất, một cảm xúc là hiểu lầm nói rõ điều này."
     },
     {
-      "title": "Serotonin",
+      "title": "Dopamine: thẻ hồ sơ",
+      "section": "Dopamine",
+      "sources": [
+        "S6",
+        "S10",
+        "S15",
+        "S16"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Catecholamine, tạo từ tyrosine qua DOPA [S10]"
+        },
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "Chất đen phần đặc, vùng mái bụng (VTA); vài nhóm ở vùng dưới đồi [S10]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "Họ D1 tăng cAMP, làm tế bào đích dễ kích thích; họ D2 giảm cAMP, khó kích thích [S10]"
+        },
+        {
+          "label": "Cảm xúc, mức bằng chứng",
+          "text": "Sai số dự đoán phần thưởng [S16]; tăng muốn hơn là thích: đang tranh luận [S15]"
+        },
+        {
+          "label": "Rối loạn",
+          "text": "Parkinson: nơron dopamine của chất đen thoái hóa (giáo khoa) [S10]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Không phải chất khoái cảm; Roy Wise đã rút lại thuyết đó [S15]"
+        }
+      ],
+      "notes": "Ý về cảm xúc có hai nguồn và hai mức. Schultz, Dayan và Montague năm 1997 tổng hợp các ghi nhận rằng nơron dopamine ở linh trưởng phát tín hiệu như sai số trong dự đoán phần thưởng; chi tiết thuộc L05. Berridge và Kringelbach năm 2015 lập luận rằng dopamine làm tăng muốn mà không làm tăng thích: chuột mất gần hết nơron dopamine vẫn có phản ứng thích vị ngọt. Đây là quan điểm của nhóm Berridge, được nhiều nghiên cứu ủng hộ nhưng vẫn là một lập luận khoa học, nên bài gắn nhãn đang tranh luận. Về rối loạn, mất nơron dopamine ở chất đen gây bệnh Parkinson là kiến thức giáo khoa. Roy Wise, người từng đề xuất dopamine là khoái cảm, sau này đã rút lại thuyết đó."
+    },
+    {
+      "title": "Bốn hệ dopamine",
+      "section": "Dopamine",
+      "sources": [
+        "S10"
+      ],
+      "layout": "connection-diagram",
+      "tone": "dark",
+      "bullets": [
+        "Mesostriatal (chất đen, VTA): vận động và phần thưởng",
+        "Mesolimbocortical: não giữa → cấu trúc viền",
+        "Quanh não thất: vùng dưới đồi → đồi thị, tủy sống",
+        "Tuberohypophyseal: vùng dưới đồi → tuyến yên, hãm prolactin"
+      ],
+      "notes": "Neuroscience Online chia dopamine thành bốn hệ, vẽ trên não chuột. Hệ mesostriatal xuất phát từ chất đen và VTA, gồm nhánh lưng đến thể vân, điều chỉnh đầu ra của thể vân, mất nhánh này gây rối loạn vận động trong bệnh Parkinson; và nhánh bụng đến nhân accumbens, liên quan đến phần thưởng. Hệ mesolimbocortical đi từ não giữa đến các cấu trúc viền như hạnh nhân và hải mã, được giả định có vai trò trong tâm thần phân liệt. Hệ quanh não thất bắt đầu ở vùng dưới đồi, gửi sợi ngắn đến đồi thị và vùng dưới đồi, phối hợp hành vi có động cơ như ăn, uống. Hệ tuberohypophyseal đưa dopamine xuống tuyến yên để hãm tiết prolactin. Cách gọi ba đường ở L00 chia khác nhưng không mâu thuẫn."
+    },
+    {
+      "title": "Serotonin: từ nhân raphe ra khắp não trước",
       "section": "Serotonin",
       "sources": [
-        "S1",
-        "S2"
+        "S10"
       ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Serotonin** (5-HT) là một indolamine, tạo từ tryptophan [S10]. Thân tế bào nằm ở các **nhân raphe** của thân não, chia hai cụm: cụm đuôi ở hành não đi xuống tủy sống, cụm đầu ở não giữa cấp hơn 80% sợi serotonin cho não trước: gian não, hạch nền, hệ viền, vỏ não [S10]. Serotonin tham gia điều hòa khẩu vị, giấc ngủ và hành vi hung hăng [S10]. Nó có rất nhiều loại thụ thể, và tác động phụ thuộc vào loại thụ thể ở từng vùng [S10].",
       "bullets": [
-        "Tâm trạng",
-        "Giấc ngủ",
-        "Khẩu vị"
+        "Ở đâu: nhân raphe ở thân não",
+        "Làm gì: ngủ thức, khẩu vị, hung hăng",
+        "Đừng hiểu nhầm: không phải chất bình yên"
       ],
-      "notes": "Nhiều thuốc chống trầm cảm tác động lên hệ serotonin, một nhóm làm giảm bước thu hồi ở synapse.",
-      "layout": "card-grid",
-      "tone": "dark"
+      "notes": "Tên serotonin đến từ việc chất này lần đầu được tìm thấy trong huyết thanh như một chất làm tăng huyết áp. Về đường đi, nhân raphe là ví dụ khác của kiểu ít nơron, phủ rộng: cụm đầu ở não giữa cấp hơn 80% sợi serotonin cho não trước. Neuroscience Online nói rõ serotonin quan trọng cho nhiều cơ chế điều hòa sinh lý và hành vi, gồm khẩu vị, giấc ngủ và hung hăng. Đừng vội suy ra ăn gì để vui, vì mục Serotonin và trầm cảm cho thấy quan hệ giữa serotonin và tâm trạng phức tạp hơn nhiều. Chỗ dễ nhầm: serotonin không phải chất bình yên; slide thụ thể sau đó cho thấy cùng chất mà có thụ thể hãm và thụ thể kích thích."
     },
     {
-      "title": "Thuốc tác động tại synapse",
-      "bullets": [
-        "Neurotransmitter: chất dẫn truyền",
-        "Reuptake receptor: thụ thể thu hồi",
-        "Reuptake inhibitor: chất ức chế thu hồi"
-      ],
-      "notes": "Hình minh họa một cách thuốc có thể tác động tại synapse.",
+      "title": "Serotonin: thẻ hồ sơ",
       "section": "Serotonin",
+      "sources": [
+        "S2",
+        "S7",
+        "S10",
+        "S13"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "Các nhân raphe: cụm đuôi ở hành não, cụm đầu ở não giữa [S10]"
+        },
+        {
+          "label": "Đường đi",
+          "text": "Cụm đầu cấp hơn 80% sợi serotonin cho não trước; cụm đuôi xuống tủy sống [S10]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "Rất nhiều loại, đều kết cặp protein G trừ 5-HT3 là kênh ion [S10]"
+        },
+        {
+          "label": "Cảm xúc, mức bằng chứng",
+          "text": "Động vật: giảm serotonin đi kèm tăng hung hăng [S10]; trầm cảm: đang tranh luận [S13]"
+        },
+        {
+          "label": "Thuốc, chất tác động",
+          "text": "Nhóm SSRI, ba vòng chặn thu hồi; nhóm MAOI chặn enzyme phân hủy [S2]"
+        },
+        {
+          "label": "Rối loạn",
+          "text": "Trầm cảm; ám ảnh cưỡng chế; hướng dẫn cho lo âu đề xuất nhóm SSRI, SNRI [S10] [S7]"
+        }
+      ],
+      "notes": "Ý về cảm xúc có hai mức. Thứ nhất, ở động vật, dùng thuốc làm giảm serotonin ở synapse liên tục đi kèm tăng hung hăng và giảm thứ bậc xã hội; đó là bằng chứng động vật, và ở người chỉ là tương quan. Thứ hai, quan hệ với trầm cảm là chủ đề tranh luận, mục Serotonin và trầm cảm trình bày cả hai phía. Về thuốc, bài chỉ nêu nhóm và cơ chế: nhóm ức chế thu hồi serotonin chọn lọc chặn bước thu hồi, nhóm ba vòng chặn thu hồi cả serotonin và noradrenaline, nhóm ức chế monoamine oxidase chặn enzyme phân hủy. Rối loạn ám ảnh cưỡng chế được điều trị bằng thuốc chặn thu hồi serotonin; hướng dẫn điều trị lo âu được giáo trình 12.4 dẫn đề xuất nhóm SSRI hoặc SNRI."
+    },
+    {
+      "title": "Các thụ thể serotonin làm việc ngược nhau",
+      "section": "Serotonin",
+      "sources": [
+        "S10"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "5-HT1: nhóm giảm tính dễ kích thích",
+        "5-HT1B, 5-HT1D: chủ yếu là thụ thể tự điều, hãm chính nơron serotonin",
+        "5-HT2, 5-HT4: tăng tính dễ kích thích",
+        "5-HT3: kênh ion, kích thích nhanh"
+      ],
+      "notes": "Đây là bằng chứng trực tiếp nhất chống lại ý serotonin là chất bình yên. Theo Neuroscience Online, cùng serotonin nhưng qua nhóm thụ thể 5-HT1 thì làm tế bào khó kích thích hơn, qua 5-HT2 và 5-HT4 thì dễ kích thích hơn. Hai thụ thể 5-HT1B và 5-HT1D chủ yếu nằm trên chính nơron serotonin, làm thụ thể tự điều: khi serotonin nhiều, chúng hãm việc giải phóng thêm, như một vòng phản hồi. Riêng 5-HT3 là kênh ion, khác mọi thụ thể serotonin còn lại vốn kết cặp protein G. Suy luận của người viết: khi một thuốc làm tăng serotonin, tác dụng cuối cùng phụ thuộc vào thụ thể nào ở vùng nào được kích hoạt nhiều hơn, nên khó đoán từ tên chất."
+    },
+    {
+      "title": "Noradrenaline: một nhân nhỏ chỉnh mức cảnh giác",
+      "section": "Noradrenaline",
+      "sources": [
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Noradrenaline** (norepinephrine) là catecholamine, tạo từ dopamine ngay trong túi chứa [S10]. Nguồn quan trọng nhất trong não là **locus coeruleus** ở cầu não: mỗi bên chưa đến 2.000 tế bào, nhưng sợi trục phủ gần như toàn bộ đại não và gian não, cả tiểu não và tủy sống [S10]. Nhân này gần như im lặng khi ngủ và phát xung mạnh khi có kích thích mạnh; nhìn chung nó lọc bớt kích thích yếu và làm rõ kích thích vừa, nên liên quan đến mức cảnh giác [S10].",
+      "bullets": [
+        "Ở đâu: locus coeruleus ở cầu não",
+        "Làm gì: cảnh giác, chú ý, ngủ thức",
+        "Đừng hiểu nhầm: khác adrenaline"
+      ],
+      "notes": "Locus coeruleus là ví dụ đẹp nhất của kiểu ít tế bào, phủ rộng. Neuroscience Online mô tả tác dụng chung của nhân này khi hoạt động: lọc bớt các kích thích yếu và làm rõ các kích thích vừa, giúp vỏ não và đồi thị xử lý thông tin giác quan. Ví dụ của người viết: nó giống núm chỉnh độ tương phản của màn hình hơn là một kênh mang nội dung. Số tế bào chưa đến hai nghìn mỗi bên là số liệu trên bản đồ vẽ từ não chuột. Ngoài não, noradrenaline là chất dẫn truyền của hệ giao cảm. Chỗ dễ nhầm: noradrenaline và adrenaline là hai chất khác nhau; adrenaline chủ yếu là hormone do tủy thượng thận tiết."
+    },
+    {
+      "title": "Noradrenaline: thẻ hồ sơ",
+      "section": "Noradrenaline",
+      "sources": [
+        "S2",
+        "S7",
+        "S10"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Catecholamine, tạo từ dopamine nhờ dopamine β-hydroxylase trong túi chứa [S10]"
+        },
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "Locus coeruleus (nhân lam) ở cầu não: chưa đến 2.000 tế bào mỗi bên (chuột) [S10]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "Tất cả kết cặp protein G; có các họ α1, α2 và β [S10]"
+        },
+        {
+          "label": "Vai trò theo vùng",
+          "text": "Mức cảnh giác: lọc kích thích yếu, làm rõ kích thích vừa [S10]"
+        },
+        {
+          "label": "Cảm xúc, mức bằng chứng",
+          "text": "Hưng cảm: serotonin thấp cùng noradrenaline cao có thể là cơ chế: giả thuyết [S2]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Adrenaline chủ yếu là hormone tủy thượng thận, khác noradrenaline trong não [S10]"
+        }
+      ],
+      "notes": "Ý về cảm xúc được gắn nhãn giả thuyết: giáo trình 12.3 viết rằng ban đầu các nhà nghiên cứu nghĩ rối loạn lưỡng cực liên quan đến noradrenaline và serotonin thấp, nhưng hiện nay người ta cho rằng serotonin thấp cùng noradrenaline cao có thể giải thích giai đoạn hưng cảm. Neuroscience Online cũng nêu noradrenaline trong trầm cảm, chủ yếu dựa vào việc thuốc chống trầm cảm hiệu quả thường chặn phân hủy hoặc thu hồi noradrenaline. Lập luận dựa vào thuốc này có giới hạn giống trường hợp serotonin. Về thuốc, nhóm ba vòng, nhóm MAOI và nhóm SNRI đều tác động cả lên noradrenaline. Về thụ thể, nguồn chỉ nêu ba họ α1, α2 và β, tất cả kết cặp protein G."
+    },
+    {
+      "title": "Locus coeruleus phủ gần hết não",
+      "section": "Noradrenaline",
+      "sources": [
+        "S10"
+      ],
+      "layout": "connection-diagram",
+      "tone": "dark",
+      "bullets": [
+        "Đại não: gần như toàn bộ vỏ",
+        "Gian não: đồi thị, vùng dưới đồi",
+        "Tiểu não",
+        "Tủy sống"
+      ],
+      "notes": "Sơ đồ đặt locus coeruleus ở giữa và bốn đích chính xung quanh, theo mô tả của Neuroscience Online trên não chuột. Sợi trục đi lên để phủ gần như toàn bộ đại não và gian não, ra phía sau đến tiểu não, và xuống tủy sống. Đầu tận cùng ở các vùng đích thường không có synapse cổ điển; noradrenaline lan ra và tác động lên nhiều tế bào lân cận, gọi là dẫn truyền thể tích. Kiểu phân bố này cho phép nhân chỉnh hoạt động của những vùng vỏ não rộng cùng một lúc. Suy luận của người viết: một hệ như vậy hợp với việc chỉnh mức nền của cả mạng hơn là mang một thông điệp chi tiết như hình ảnh hay từ ngữ."
+    },
+    {
+      "title": "Acetylcholine: từ cơ bắp đến trí nhớ",
+      "section": "Acetylcholine",
+      "sources": [
+        "S9"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Acetylcholine** (ACh) là chất dẫn truyền được phát hiện đầu tiên [S9]. Nó được tạo nhờ enzyme ChAT [S9]. Ngoài não, ACh là chất ở chỗ nối thần kinh–cơ và các hạch tự chủ [S9]. Trong não, phần lớn là nơron trung gian, cộng ba đường dài; quan trọng nhất là từ **nhân nền Meynert** ở não trước nền lên vỏ não và các cấu trúc viền [S9]. ACh bị enzyme acetylcholinesterase phân hủy rất nhanh [S9]. Thụ thể muscarinic của nó tham gia điều chỉnh vận động ở hạch nền và học và nhớ [S9].",
+      "bullets": [
+        "Ở đâu: nhân nền Meynert, vách giữa",
+        "Làm gì: co cơ, vận động, học và nhớ",
+        "Đừng hiểu nhầm: ăn choline không tăng ACh"
+      ],
+      "notes": "Otto Loewi ban đầu gọi chất này là chất của dây phế vị vì nó bắt chước tác dụng của việc kích thích dây thần kinh đó. Ba đường dài trong não theo Neuroscience Online là: nhân nền Meynert lên vỏ não và cấu trúc viền; vùng vách giữa và dải chéo lên các cấu trúc viền; vùng cầu não và não giữa xuống phần lớn vùng dưới vỏ. Thoái hóa đường thứ nhất là một bệnh lý của bệnh Alzheimer. Enzyme acetylcholinesterase phân hủy ACh rất nhanh nên tín hiệu ở cơ rất gọn. Chỗ dễ nhầm: nguồn cho biết bổ sung choline trong khẩu phần không làm tăng dẫn truyền ACh, nên không thể suy ra ăn choline để tăng trí nhớ."
+    },
+    {
+      "title": "Acetylcholine: thẻ hồ sơ",
+      "section": "Acetylcholine",
+      "sources": [
+        "S1",
+        "S9"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Phân tử nhỏ, không thuộc nhóm amino acid hay amin; tạo nhờ enzyme ChAT [S9]"
+        },
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "Nhân nền Meynert, vách giữa và dải chéo, cầu não–não giữa; nơron trung gian [S9]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "Nicotinic: kênh ion, nhanh, kích thích; muscarinic: protein G, chậm [S9]"
+        },
+        {
+          "label": "Vai trò theo vùng",
+          "text": "Co cơ; điều chỉnh mạch vận động ở hạch nền; học và nhớ [S9]"
+        },
+        {
+          "label": "Thuốc, chất tác động",
+          "text": "Chất ức chế AChE không hồi phục gây liệt; nhóm có hồi phục dùng trong nhược cơ; rượu gắn thụ thể ACh [S9] [S1]"
+        },
+        {
+          "label": "Rối loạn",
+          "text": "Alzheimer: đường ACh từ não trước nền thoái hóa; nhược cơ: kháng thể phá thụ thể ACh [S9]"
+        }
+      ],
+      "notes": "Thẻ hồ sơ này cho thấy một chất có thể liên quan đến những việc rất khác nhau tùy vị trí: ở cơ là lệnh co cơ, ở hạch nền là điều chỉnh vận động, ở vỏ não và hải mã là học và nhớ. Bằng chứng cho vai trò học và nhớ theo Neuroscience Online đến từ hai quan sát: thuốc chẹn thụ thể muscarinic gây quên, và đường ACh lên vỏ não thoái hóa trong bệnh Alzheimer đi kèm mất trí nhớ. Về liên hệ với cảm xúc, các nguồn đã đọc không nêu một cảm xúc cụ thể; chỉ có gợi ý rằng thụ thể nicotinic liên quan đến củng cố hành vi vì người ta nghiện nicotine. Chất ức chế enzyme không hồi phục, như một số thuốc trừ sâu và khí độc thần kinh, làm ACh ứ đọng và gây liệt."
+    },
+    {
+      "title": "Nicotinic và muscarinic",
+      "section": "Acetylcholine",
+      "sources": [
+        "S9"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Nicotinic: kênh ion; nhanh, ngắn; kích thích; có ở chỗ nối thần kinh–cơ",
+        "Muscarinic: protein G; chậm, kéo dài; điều chỉnh vận động ở hạch nền, học và nhớ",
+        "Tên hai họ lấy từ nicotine và muscarine, hai chất bắt chước ACh"
+      ],
+      "notes": "Hai họ thụ thể của acetylcholine là ví dụ trực tiếp của công cụ hai họ thụ thể ở mục đọc thẻ hồ sơ. Thụ thể nicotinic là kênh ion, nhanh, kích thích; đó là kiểu thụ thể ở chỗ nối thần kinh–cơ. Thụ thể muscarinic kết cặp protein G, đáp ứng chậm và kéo dài; Neuroscience Online nói chúng là những thụ thể đứng sau nhiều hành vi trong hệ thần kinh trung ương, ví dụ điều chỉnh mạch vận động ở hạch nền và tham gia học và nhớ. Tên hai họ đến từ hai chất bắt chước ACh: nicotine trong thuốc lá và muscarine. Chỗ dễ nhầm: cùng ACh, hai họ cho hai kiểu đáp ứng khác hẳn."
+    },
+    {
+      "title": "Endorphin là một họ trong ba họ opioid",
+      "section": "Endorphin và hệ opioid",
+      "sources": [
+        "S1",
+        "S12"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Opioid nội sinh** là các chất giống thuốc phiện do chính cơ thể tạo ra và dùng làm chất dẫn truyền [S1]. **Endorphin** là một họ trong số đó, cùng với enkephalin và dynorphin; chúng là neuropeptide, cắt ra từ protein tiền chất dài hơn [S12]. Thụ thể opioid (mu, delta, kappa) có gần như khắp não [S1]. Opioid nội sinh điều chỉnh phản ứng với đau, điều hòa đói và khát, tham gia khí sắc và miễn dịch [S1]. Như mọi neuropeptide, chúng không có thu hồi mà bị enzyme phân hủy [S12].",
+      "bullets": [
+        "Ở đâu: thụ thể opioid khắp não",
+        "Làm gì: giảm đau, đói khát, khí sắc",
+        "Đừng hiểu nhầm: không phải mọi niềm vui"
+      ],
+      "notes": "Opioid nội sinh được gọi như vậy vì chúng gắn vào đúng các thụ thể mà thuốc phiện gắn vào. Neuroscience Online cho thấy các peptide opioid được cắt ra từ protein tiền chất dài hơn, và beta-endorphin được cắt ra từ cùng một tiền chất với ACTH, một hormone của phản ứng căng thẳng. Vì neuropeptide được tạo ở thân tế bào rồi chuyển xuống đầu tận cùng, và không có cơ chế thu hồi, tác dụng của chúng thường chậm và kéo dài hơn chất phân tử nhỏ. Nhân cụ thể tạo ra endorphin và một đường dẫn duy nhất chưa rõ trong các nguồn đã đọc. Chỗ dễ nhầm: endorphin là một họ trong ba họ opioid, nên gọi cả hệ là endorphin là gọn quá mức."
+    },
+    {
+      "title": "Endorphin và hệ opioid: thẻ hồ sơ",
+      "section": "Endorphin và hệ opioid",
+      "sources": [
+        "S1",
+        "S6",
+        "S12",
+        "S15"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Neuropeptide cắt ra từ protein tiền chất dài hơn; beta-endorphin cùng tiền chất với ACTH [S12]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "Mu, delta, kappa; tác dụng hưng phấn của opiate qua mu và delta [S1]"
+        },
+        {
+          "label": "Vai trò theo vùng",
+          "text": "Đau, đói khát, khí sắc, miễn dịch [S1]"
+        },
+        {
+          "label": "Cảm xúc, mức bằng chứng",
+          "text": "Điểm nóng opioid tăng gấp đôi phản ứng thích vị ngọt ở chuột (động vật) [S15]"
+        },
+        {
+          "label": "Thuốc, chất tác động",
+          "text": "Heroin, morphin gắn đúng thụ thể của opioid nội sinh [S1]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Ngay cạnh điểm nóng, cùng chất opioid lại làm giảm phản ứng thích [S15]"
+        }
+      ],
+      "notes": "Ý về cảm xúc dựa trên Berridge và Kringelbach: ở chuột, tiêm chất kích thích thụ thể opioid vào một vùng rất nhỏ trong nhân accumbens, gọi là điểm nóng khoái cảm, làm phản ứng thích vị ngọt tăng ít nhất gấp đôi; cầu nhạt bụng cũng có một điểm nóng như vậy. Nhưng ở vùng ngay cạnh, cùng loại chất lại làm giảm phản ứng thích. Đây là bằng chứng động vật, nên bài ghi rõ. Giáo trình 10.2 thêm rằng mạch gây đau khổ khi con non xa mẹ nhạy với opioid, oxytocin và prolactin; đây là giả thuyết của Panksepp mà giáo trình trình bày. Chỗ dễ nhầm: gọi endorphin là morphin tự nhiên dễ khiến người ta nghĩ mọi niềm vui là endorphin; nguồn không nói vậy."
+    },
+    {
+      "title": "Opiate tăng dopamine bằng cách hãm cái hãm",
+      "section": "Endorphin và hệ opioid",
+      "sources": [
+        "S1"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Heroin, morphin gắn thụ thể mu trên nơron GABA ở VTA",
+        "Nơron GABA giải phóng ít GABA hơn",
+        "Nơron dopamine bớt bị hãm",
+        "Nhiều dopamine hơn ở nhân accumbens"
+      ],
+      "notes": "Sơ đồ theo giáo trình 5.5. Bình thường, các nơron GABA ở vùng mái bụng hãm nơron dopamine, làm giảm lượng dopamine giải phóng ở nhân accumbens. Opiate từ ngoài vào gắn vào thụ thể mu trên chính các nơron GABA này và làm chúng giải phóng ít GABA hơn. Hãm cái hãm thì nơron dopamine được thả ra, và dopamine ở nhân accumbens tăng. Cần sa dùng một mẹo tương tự qua thụ thể CB1. Giáo trình cũng giải thích nghiện: dùng lâu, tế bào bù lại bằng cách tăng sản xuất cAMP; khi không còn thuốc, khả năng bù đó lộ ra thành tăng hoạt động thần kinh và cơn thèm. Suy luận của người viết: não tự chỉnh để coi chất đó là bình thường."
+    },
+    {
+      "title": "Oxytocin và vasopressin: hormone và chất điều hòa",
+      "section": "Oxytocin và vasopressin",
+      "sources": [
+        "S5",
+        "S17"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Oxytocin** là một peptide vòng chín amino acid, được tổng hợp ở các nhân cạnh não thất (PVN) và trên thị (SON) của vùng dưới đồi [S17]. Phần lớn đi vào máu qua thùy sau tuyến yên, gây co tử cung khi sinh và tiết sữa khi cho bú [S17]. Nhưng các sợi trục đi xuống tuyến yên có nhánh bên tới đồi thị, vỏ não, hạnh nhân, thể vân và hải mã [S17]. **Vasopressin** là peptide họ hàng; giáo trình ghi cả hai đều được vùng dưới đồi giải phóng [S5].",
+      "bullets": [
+        "Ở đâu: PVN, SON của vùng dưới đồi",
+        "Làm gì: hormone trong máu, điều hòa trong não",
+        "Đừng hiểu nhầm: không xã hội tự thân"
+      ],
+      "notes": "Oxytocin và vasopressin là ví dụ rõ nhất của một chất hai vai đã nói ở mục hormone. Theo Froemke và Young, hai peptide này cùng bắt nguồn từ một gen tổ tiên, và một phần tác dụng của oxytocin đi qua thụ thể vasopressin và ngược lại. Oxytocin còn được giải phóng từ thân và sợi nhánh để tác động ngay tại nhân tạo ra nó. Nhân cụ thể tạo vasopressin chưa rõ trong các nguồn đã đọc. Việc ghép oxytocin với gắn bó, tin tưởng và các tranh cãi quanh các nghiên cứu ở người thuộc L10; ở đây chỉ là thẻ hồ sơ của chất. Chỗ dễ nhầm: gọi oxytocin là hormone tình yêu hay hormone tin tưởng là gán cho một phân tử một cảm xúc trọn vẹn."
+    },
+    {
+      "title": "Oxytocin và vasopressin: thẻ hồ sơ",
+      "section": "Oxytocin và vasopressin",
+      "sources": [
+        "S5",
+        "S6",
+        "S17"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Tên, loại hóa học",
+          "text": "Peptide vòng chín amino acid; họ hàng với vasopressin [S17]"
+        },
+        {
+          "label": "Được tạo ở nhân nào",
+          "text": "PVN, SON và các nhân phụ của vùng dưới đồi [S17]"
+        },
+        {
+          "label": "Đường đi",
+          "text": "Vào máu qua thùy sau tuyến yên; nhánh bên tới vỏ, hạnh nhân, thể vân, hải mã [S17]"
+        },
+        {
+          "label": "Thụ thể",
+          "text": "Protein G, chủ yếu Gq; ở vỏ não nằm nhiều trên nơron ức chế [S17]"
+        },
+        {
+          "label": "Cảm xúc, mức bằng chứng",
+          "text": "Chuột đồng: chặn thụ thể làm giảm gắn đôi (nhân quả, động vật); người: tương quan [S5]"
+        },
+        {
+          "label": "Thuốc, chất tác động",
+          "text": "Chưa rõ trong các nguồn đã đọc; vasopressin có thể liên quan cơn giận: giả thuyết [S6]"
+        }
+      ],
+      "notes": "Ý về cảm xúc phân rõ hai mức. Ở chuột đồng thảo nguyên, bằng chứng là nhân quả: cho oxytocin làm tăng gắn đôi ở con cái, chặn thụ thể làm giảm; với con đực, vasopressin có tác dụng tương tự. Ở người, giáo trình 6.4 chỉ nói các vùng thưởng hoạt động khi nhìn ảnh con hoặc bạn đời có thụ thể oxytocin và vasopressin; đó là tương quan. Về thụ thể, Froemke và Young cho biết ở vỏ não thụ thể oxytocin nằm chủ yếu trên nơron ức chế; ở hải mã, một tác dụng được mô tả là gỡ ức chế, làm tín hiệu đến mạnh hơn. Giáo trình 10.2 nêu vasopressin trong số các chất có thể liên quan đến cơn giận; đó là giả thuyết."
+    },
+    {
+      "title": "Chuột đồng thảo nguyên",
+      "section": "Oxytocin và vasopressin",
       "sources": [
         "S5"
       ],
       "layout": "figure",
       "tone": "light",
+      "bullets": [
+        "Prairie vole: chuột đồng thảo nguyên, sống theo cặp",
+        "Loài họ hàng không sống theo cặp giúp so sánh",
+        "Pair bonding: gắn đôi; xem thêm L09, L10"
+      ],
+      "images": [
+        {
+          "file": "images/chuot-dong-thao-nguyen.jpg",
+          "alt": "Chuột đồng thảo nguyên",
+          "credit": "Todd Ahern, giấy phép theo sách CC BY; Hove & Martinez, Hình 10 (chương 6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/parental-behaviors/"
+        }
+      ],
+      "notes": "Chuột đồng thảo nguyên là loài gặm nhấm Bắc Mỹ sống theo cặp và cùng chăm con. So sánh với loài họ hàng không sống theo cặp giúp tìm ra vai trò của oxytocin và vasopressin trong gắn đôi. Theo giáo trình 6.4, chuột cái được cho oxytocin chăm con nhiều hơn, và ở chuột đồng thảo nguyên, oxytocin ở con cái và vasopressin ở con đực tác động lên hệ viền và hệ thưởng; chặn thụ thể làm giảm gắn đôi. Chỗ dễ nhầm: đây là bằng chứng ở chuột; đưa sang người cần thận trọng, vì ở người giáo trình chỉ nêu tương quan. Phần gắn bó và các tranh cãi thuộc L09 và L10, nên slide này giữ hình và một dòng dẫn."
+    },
+    {
+      "title": "Nhân nguồn và vùng đích của các chất điều hòa",
+      "section": "Bản đồ nguồn và đích",
+      "sources": [
+        "S9",
+        "S10"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Dopamine: chất đen, VTA → thể vân, nhân accumbens, hệ viền, vỏ",
+        "Noradrenaline: locus coeruleus → gần như toàn bộ não, tiểu não, tủy sống",
+        "Serotonin: nhân raphe → não trước; cụm đuôi xuống tủy sống",
+        "Acetylcholine: nhân nền Meynert → vỏ não; vách giữa → cấu trúc viền",
+        "Histamine: vùng dưới đồi sau → phóng chiếu rộng"
+      ],
+      "notes": "Bảng gom các thẻ hồ sơ thành một bản đồ, chủ yếu theo Neuroscience Online, vốn vẽ trên não chuột. Kiểu tổ chức chung: thân tế bào gom thành cụm nhỏ ở thân não, não giữa hoặc vùng dưới đồi, sợi trục tỏa lên vùng rộng. Histamine chưa có thẻ hồ sơ riêng trong bài: thân tế bào chỉ nằm ở vùng dưới đồi sau và phóng chiếu rộng khắp, tương tự noradrenaline và serotonin. Oxytocin không nằm trong bảng này vì nó là peptide; nó đi từ PVN và SON của vùng dưới đồi tới thùy sau tuyến yên và nhiều vùng não trước. Glutamate và GABA cũng không có trong bảng, vì chúng không xuất phát từ một nhân riêng mà có ở nơron khắp não. Vị trí các nhân thân não: L01."
+    },
+    {
+      "title": "Dẫn truyền thể tích: chỉnh mức nền",
+      "section": "Bản đồ nguồn và đích",
+      "sources": [
+        "S10",
+        "S12"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Đầu tận cùng của phần lớn nơron amin không có synapse cổ điển. Chất được giải phóng lan ra và tác động lên nhiều tế bào lân cận: **dẫn truyền thể tích** [S10]. Neuropeptide cũng ảnh hưởng một vùng thể tích quanh điểm giải phóng [S12]. Kết hợp với kiểu ít tế bào, phủ rộng, các hệ này có thể chỉnh hoạt động của những vùng vỏ não rộng cùng một lúc [S10]. Đích của chúng còn chồng lên nhau: sợi serotonin và noradrenaline ở não trước có thể bổ sung cho nhau [S10].",
+      "bullets": [
+        "Ở đâu: amin và neuropeptide",
+        "Làm gì: chỉnh cả vùng cùng lúc",
+        "Đừng hiểu nhầm: vùng không thuộc về một chất"
+      ],
+      "notes": "Slide này giải thích ý nghĩa của bản đồ. Glutamate và GABA ở synapse cổ điển mang thông điệp chi tiết, từ nơron này đến nơron kia. Các amin và neuropeptide thì phần nhiều lan ra cả vùng. Suy luận của người viết: một chất như vậy hợp để chỉnh mức nền của cả mạng, như độ tỉnh táo hay mức sẵn sàng hành động, hơn là mang một nội dung cụ thể như hình ảnh hay từ ngữ. Ý thứ hai là đích chồng lên nhau: hệ viền và vỏ não cùng lúc nhận dopamine, noradrenaline, serotonin và acetylcholine. Vì thế một vùng như hạnh nhân hay vỏ trước trán không thuộc về chất nào; nó chịu tác động của nhiều chất cùng lúc. Hạnh nhân và nhân accumbens có thẻ hồ sơ riêng ở L07."
+    },
+    {
+      "title": "Ba bài học từ bản đồ",
+      "section": "Bản đồ nguồn và đích",
+      "sources": [
+        "S10"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Ít tế bào, phủ rộng: locus coeruleus chưa đến 2.000 tế bào mỗi bên (ở chuột)",
+        "Đích chồng lên nhau: hệ viền nhận dopamine, noradrenaline, serotonin, ACh",
+        "Nhiều chất cùng chỉnh mức tỉnh: histamine, ACh, noradrenaline"
+      ],
+      "notes": "Ba thẻ tóm tắt điều đọc ra từ bản đồ. Thẻ một: số tế bào nhỏ không có nghĩa là ảnh hưởng nhỏ; locus coeruleus chưa đến hai nghìn tế bào mỗi bên, theo bản đồ vẽ từ não chuột, mà phủ gần hết não. Thẻ hai: đích chồng lên nhau, nên không vùng nào thuộc về riêng một chất. Thẻ ba: histamine, acetylcholine và noradrenaline đều có phóng chiếu rộng; Neuroscience Online lưu ý thuốc kháng histamine thường gây buồn ngủ nên có lẽ histamine cũng có thụ thể trong não. Ví dụ của người viết: muốn biết vì sao một người buồn ngủ, nhìn một chất là không đủ; nhiều hệ cùng chỉnh mức tỉnh, giống nhiều núm vặn cùng điều chỉnh một âm lượng."
+    },
+    {
+      "title": "Bốn chất trong giáo trình 5.5",
+      "section": "Thuốc và các chất tác động lên chất dẫn truyền",
+      "sources": [
+        "S1"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Rượu: tăng tác dụng GABA, giảm glutamate ở NMDA, tăng dopamine",
+        "Caffeine: đối kháng thụ thể adenosine, chiếm chỗ của phanh tự nhiên",
+        "Cần sa: THC gắn thụ thể CB1 của anandamide, gỡ hãm nơron dopamine",
+        "Opiate: heroin, morphin gắn thụ thể của opioid nội sinh"
+      ],
+      "notes": "Giáo trình 5.5 lấy bốn ví dụ từ trang The Brain from Top to Bottom; bài nêu chúng chỉ để giải thích cơ chế, không khuyến khích dùng. Rượu đi thẳng vào máu và lên não trong vài phút, gắn vào thụ thể của acetylcholine, serotonin, GABA và thụ thể NMDA của glutamate; tăng tác dụng ức chế cộng giảm tác dụng kích thích giải thích tác dụng an thần. Caffeine chiếm thụ thể của adenosine, một chất điều hòa làm chậm hoạt động thần kinh và gây buồn ngủ. Cần sa có hoạt chất THC gắn vào thụ thể CB1, vốn dành cho anandamide do cơ thể tự tạo. Với opiate, giáo trình so sánh: thuốc phiện gắn trực tiếp vào thụ thể của endorphin, giống cách THC gắn vào thụ thể của anandamide."
+    },
+    {
+      "title": "Chủ vận, đối kháng, điều biến, ức chế",
+      "section": "Thuốc và các chất tác động lên chất dẫn truyền",
+      "sources": [
+        "S1",
+        "S2",
+        "S7",
+        "S11"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Bốn từ giúp đọc mọi cơ chế thuốc. **Chất chủ vận** (agonist) gắn vào thụ thể và hoạt hóa nó, như chất chủ vận GABA [S7]. **Chất đối kháng** (antagonist) gắn vào nhưng không hoạt hóa, chiếm chỗ chất tự nhiên; caffeine là chất đối kháng thụ thể adenosine [S1]. **Chất điều biến** không tự mở kênh mà làm chất tự nhiên gắn hiệu quả hơn, như nhóm benzodiazepine với GABA-A [S11]. **Chất ức chế** thu hồi hoặc enzyme giữ chất dẫn truyền lâu hơn ở khe synapse [S2].",
+      "bullets": [
+        "Chủ vận: bắt chước chất tự nhiên",
+        "Đối kháng: chiếm chỗ, không kích hoạt",
+        "Ức chế: chặn thu hồi hoặc enzyme"
+      ],
+      "notes": "Bốn từ này là chìa khóa để đọc mọi đoạn về thuốc trong bài; ví dụ ổ khóa và chìa của thụ thể đã có ở L02. Chất chủ vận bắt chước chất tự nhiên và hoạt hóa thụ thể; chất đối kháng chiếm chỗ mà không hoạt hóa nên chất thật không vào được; chất điều biến làm chất thật hoạt động hiệu quả hơn; chất ức chế thu hồi hoặc enzyme giữ chất lâu hơn ở khe. Caffeine là ví dụ đối kháng quen thuộc nhất: adenosine bình thường làm chậm hoạt động thần kinh, caffeine chiếm chỗ của nó nên phanh tự nhiên yếu đi. Theo quyết định của chủ repo, bài chỉ nêu nhóm thuốc và cơ chế, không nêu tên hoạt chất của thuốc điều trị, không liều và không khuyến nghị."
+    },
+    {
+      "title": "Các nhóm thuốc điều trị và cơ chế",
+      "section": "Thuốc và các chất tác động lên chất dẫn truyền",
+      "sources": [
+        "S2",
+        "S7",
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Nhóm SSRI, ba vòng, SNRI: chặn thu hồi serotonin, noradrenaline",
+        "Nhóm MAOI: chặn enzyme phân hủy các amin",
+        "Nhóm benzodiazepine, barbiturate: tăng tác dụng của GABA ở GABA-A",
+        "Nhóm đối kháng dopamine: dùng chống loạn thần",
+        "Nhóm ức chế acetylcholinesterase: giữ ACh lâu hơn",
+        "Nhóm ổn định khí sắc: thuốc chủ lực giảm dẫn truyền kích thích, tăng ức chế"
+      ],
+      "notes": "Sáu nhóm thuốc, mỗi nhóm một cơ chế, theo các nguồn đã đọc. Nhóm ức chế thu hồi và nhóm ức chế enzyme MAO giữ các amin lâu hơn ở synapse; giáo trình 12.3 kể nhóm MAOI được phát hiện tình cờ ở thập niên 1950. Nhóm benzodiazepine và barbiturate làm GABA tác động mạnh hơn. Với nhóm đối kháng dopamine, Neuroscience Online ghi khả năng chặn thụ thể dopamine tương quan tốt với hiệu quả chống loạn thần. Nhóm ức chế acetylcholinesterase có hồi phục giữ ACh lâu hơn. Với nhóm ổn định khí sắc, giáo trình mô tả cơ chế của thuốc chủ lực trong nhóm: giảm dẫn truyền kích thích của dopamine và glutamate, tăng dẫn truyền ức chế của GABA. Đây là cơ chế để hiểu, không phải hướng dẫn dùng thuốc."
+    },
+    {
+      "title": "Thuốc tác động tại synapse",
+      "section": "Thuốc và các chất tác động lên chất dẫn truyền",
+      "sources": [
+        "S2"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "Bình thường, nơron trước thu ngược một phần chất dẫn truyền về qua chất vận chuyển thu hồi. Nhóm thuốc **SSRI** chặn bước này, nên **serotonin** ở lại lâu hơn trong khe synapse. Serotonin có thể tăng trong một giờ, nhưng triệu chứng thường cần vài tuần mới cải thiện; cơ chế chính xác chưa rõ [S2].",
+      "bullets": [
+        "Reuptake inhibitor: chất ức chế thu hồi",
+        "Reuptake receptor: chỗ thu hồi",
+        "Attached to receptor: đã gắn thụ thể"
+      ],
       "images": [
         {
           "file": "images/thu-hoi-serotonin.jpeg",
@@ -114,138 +907,213 @@
           "credit": "OpenStax Psychology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 12)",
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
         }
-      ]
+      ],
+      "notes": "Hình lấy từ giáo trình 12.3. Chất dẫn truyền được giải phóng vào khe synapse, một phần gắn vào thụ thể của tế bào sau, một phần được thu ngược về nơron trước qua chỗ thu hồi mà hình gọi là reuptake receptor. Chất ức chế thu hồi, vẽ màu đỏ, chiếm chỗ đó nên chất dẫn truyền ở lại lâu hơn. Chi tiết quan trọng nhất của slide là khoảng cách thời gian: serotonin ở synapse tăng gần như ngay, nhưng cải thiện triệu chứng thường cần vài tuần. Giáo trình nói cơ chế chính xác của nhóm thuốc này vẫn chưa rõ. Khoảng cách đó gợi ý rằng tác dụng của thuốc đi qua những thay đổi chậm hơn, và là một lý do để thận trọng với câu trầm cảm do thiếu serotonin; mục Serotonin và trầm cảm bàn tiếp."
     },
     {
-      "title": "Noradrenaline",
-      "section": "Noradrenaline",
+      "title": "Dùng lâu: não tự chỉnh lại",
+      "section": "Thuốc và các chất tác động lên chất dẫn truyền",
       "sources": [
-        "S1",
-        "S2"
+        "S1"
       ],
+      "layout": "flow",
+      "tone": "light",
       "bullets": [
-        "Tỉnh táo",
-        "Chú ý",
-        "Phản ứng với căng thẳng"
+        "Uống rượu lâu ngày",
+        "Thụ thể NMDA nhạy hơn, thụ thể GABA kém nhạy đi",
+        "Ngừng rượu: mất phần ức chế quen có",
+        "Trạng thái kích thích của cai rượu"
       ],
-      "notes": "Còn gọi là norepinephrine. Sẽ gặp lại ở L05.",
-      "layout": "numbered-rows",
-      "tone": "light"
+      "notes": "Giáo trình 5.5 giải thích lệ thuộc bằng thích nghi của thụ thể. Khi uống rượu lâu ngày, não dần làm thụ thể NMDA của glutamate nhạy hơn và thụ thể GABA kém nhạy đi, như để bù lại tác dụng an thần của rượu. Khi ngừng uống đột ngột, phần bù đó không còn đối trọng, và não rơi vào trạng thái kích thích đặc trưng của cai rượu. Opiate cũng vậy: tế bào bù bằng cách tăng sản xuất cAMP, và khi thiếu thuốc thì sinh tăng hoạt động và cơn thèm. Caffeine thì khác: dung nạp rất ít, nhưng có lệ thuộc thể chất, với triệu chứng cai bắt đầu trong một đến hai ngày, ở khoảng một nửa số người. Đây cũng là lý do mục Lưu ý nói không tự ngừng đột ngột thuốc tác động lên não."
     },
     {
-      "title": "Acetylcholine và endorphin",
-      "section": "Acetylcholine và endorphin",
+      "title": "90%",
+      "section": "Thuốc và các chất tác động lên chất dẫn truyền",
       "sources": [
-        "S1",
-        "S2"
+        "S1"
       ],
-      "bullets": [
-        "Acetylcholine: lệnh cử động, chú ý, trí nhớ",
-        "Endorphin: liên quan đến giảm đau"
-      ],
-      "notes": "Endorphin thuộc nhóm neuropeptide, gắn vào cùng loại thụ thể mà thuốc nhóm opioid tác động.",
-      "layout": "two-column-comparison",
-      "tone": "dark"
-    },
-    {
-      "title": "Ba lý do hiểu lầm",
-      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
-      "sources": [
-        "S1",
-        "S2"
-      ],
-      "bullets": [
-        "Một chất có nhiều loại thụ thể",
-        "Một chất có nhiều đường dẫn",
-        "Cảm xúc không quy về một phân tử"
-      ],
-      "notes": "Chất dẫn truyền chỉ điều chỉnh cách các vùng phối hợp với nhau.",
-      "layout": "numbered-rows",
-      "tone": "light"
-    },
-    {
-      "title": "Một từ, nhiều nghĩa",
-      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
-      "sources": [],
-      "bullets": [
-        "Cùng một chất, nghĩa khác theo ngữ cảnh"
-      ],
-      "notes": "Ví dụ của người viết: từ \"đường\" có nghĩa khác nhau tùy câu; cùng một chất cũng vậy tùy thụ thể và đường dẫn.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
-    },
-    {
-      "title": "17 nghiên cứu được xem xét",
-      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
-      "sources": [
-        "S3"
-      ],
-      "bullets": [
-        "Moncrieff 2022: tổng quan ô dù",
-        "12 trong 17 là tổng quan hoặc phân tích gộp"
-      ],
-      "notes": "Chất lượng các nghiên cứu được xem xét không đồng đều.",
       "layout": "one-big-number",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "90% người trưởng thành ở Mỹ dùng caffeine hằng ngày, theo giáo trình 5.5",
+        "Triệu chứng cai (đau đầu, buồn nôn, buồn ngủ) bắt đầu trong 1–2 ngày, ở khoảng một nửa số người"
+      ],
+      "notes": "Con số lớn này nhắc rằng chất tác động lên chất dẫn truyền không chỉ là thuốc điều trị hay chất cấm; nó có trong ly cà phê buổi sáng. Giáo trình 5.5 ghi caffeine được 90% người trưởng thành ở Mỹ dùng hằng ngày, và giống phần lớn các chất, nó làm tăng sản xuất dopamine ở các mạch khoái cảm, góp phần duy trì sự lệ thuộc. Mỗi tách cà phê đều cho một chút tác dụng kích thích và dung nạp gần như không đáng kể. Nhưng lệ thuộc thể chất có thật: triệu chứng cai bắt đầu trong một đến hai ngày sau khi ngừng, gặp ở khoảng một trong hai người. Chỗ dễ nhầm: con số 90% là của người Mỹ trong nguồn, không phải số liệu của Việt Nam."
     },
     {
-      "title": "Kết quả nói gì, không nói gì",
+      "title": "Năm lý do chống lại công thức một chất, một cảm xúc",
+      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+      "sources": [
+        "S5",
+        "S6",
+        "S10",
+        "S15",
+        "S17"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Một chất, nhiều thụ thể ngược nhau: D1 và D2, 5-HT1 và 5-HT2",
+        "Một chất, nhiều đường dẫn: dopamine cho vận động, phần thưởng, prolactin",
+        "Một cảm xúc, nhiều chất: mạch sợ nhạy với glutamate, CRF, ACTH, neuropeptide",
+        "Muốn khác thích: dopamine tăng muốn, opioid ở điểm nóng tăng thích",
+        "Chất khuếch đại, bối cảnh cho ý nghĩa: oxytocin không xã hội tự thân"
+      ],
+      "notes": "Năm lý do này đều đã gặp trong các thẻ hồ sơ, slide này gom lại. Lý do một và hai đến từ Neuroscience Online: cùng một chất có thụ thể làm tăng và thụ thể làm giảm tính dễ kích thích, và cùng dopamine từ não giữa đi theo các hệ làm việc khác nhau. Lý do ba từ giáo trình 10.2: nỗi sợ huy động glutamate, yếu tố giải phóng corticotropin, ACTH và nhiều neuropeptide; đau khổ khi xa cách nhạy với opioid, oxytocin và prolactin. Lý do bốn theo Berridge và Kringelbach, còn đang tranh luận; phần đầy đủ về muốn và thích ở L00 và L09. Lý do năm theo Froemke và Young. Giáo trình 6.4 viết thẳng rằng không có quan hệ một-một giữa một hormone và một hành vi."
+    },
+    {
+      "title": "Nỗi sợ dùng nhiều chất cùng lúc",
+      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+      "sources": [
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Lấy nỗi sợ làm ví dụ. Mạch sợ đi từ hạnh nhân trung tâm đến chất xám quanh cống não ở não giữa; các cấu trúc này nhạy với **glutamate**, yếu tố giải phóng corticotropin (CRF), ACTH và nhiều neuropeptide [S6]. Trong rối loạn lo âu, nghiên cứu tập trung vào **GABA**, nhưng serotonin, endocannabinoid và oxytocin cũng quan trọng [S7]. Giáo trình về hormone viết: không có quan hệ một-một giữa một hormone và một hành vi [S5]. Vì thế không có chất nào là chất của nỗi sợ.",
+      "bullets": [
+        "Mạch: hạnh nhân → chất xám quanh cống não",
+        "Chất: glutamate, CRF, ACTH, GABA, serotonin",
+        "Đừng hiểu nhầm: không có chất sợ"
+      ],
+      "notes": "Slide này đi theo chiều ngược lại: thay vì bắt đầu từ một chất, nó bắt đầu từ một cảm xúc và đếm xem có bao nhiêu chất tham gia. Chỉ riêng trong hai chương giáo trình đã có glutamate, CRF, ACTH, các neuropeptide khác, GABA, serotonin, endocannabinoid và oxytocin. Mạch sợ thuộc L09; hạnh nhân có thẻ hồ sơ ở L07. Suy luận của người viết: câu hỏi đúng không phải chất nào gây ra nỗi sợ, mà là mạch nào đang chạy, và các chất đang chỉnh mạch đó ra sao. Chỗ dễ nhầm: nói nhiều chất tham gia không có nghĩa là chất nào cũng quan trọng như nhau; mức đóng góp khác nhau tùy vùng và tùy lúc, và nhiều điều vẫn chưa rõ."
+    },
+    {
+      "title": "Một chữ, nhiều nghĩa",
+      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+      "sources": [],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Cùng một chất, nghĩa khác nhau tùy thụ thể, vùng và lúc",
+        "Ví dụ của người viết: chữ đường trong đường phố và đường cát"
+      ],
+      "notes": "Ví dụ của người viết: chữ đường có nghĩa khác nhau trong đường phố và đường cát. Người nghe hiểu đúng nhờ cả câu, không nhờ riêng chữ đó. Chất dẫn truyền cũng vậy: dopamine trong thể vân lưng nói về vận động, trong nhân accumbens nói về muốn, ở tuyến yên nói về prolactin. Serotonin qua nhóm thụ thể 5-HT1 hãm, qua 5-HT2 kích thích. Vì thế khi đọc một tiêu đề báo kiểu chất X là chất của cảm xúc Y, hãy hỏi ba câu: ở vùng nào, qua thụ thể nào, bằng chứng ở người hay ở động vật. Ví dụ này chỉ là hình ảnh để nhớ; nó không có nghĩa não hoạt động giống ngôn ngữ. Mạch của từng cảm xúc thuộc L09, bảng ghép cảm xúc với chất thuộc L10."
+    },
+    {
+      "title": "Thuyết serotonin đến từ đâu",
       "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
       "sources": [
-        "S3"
+        "S2",
+        "S13",
+        "S14"
       ],
+      "layout": "timeline",
+      "tone": "dark",
       "bullets": [
-        "Nói: chưa thấy bằng chứng nhất quán về nguyên nhân",
-        "Không nói: thuốc chống trầm cảm vô dụng",
-        "Chưa chứng minh vai trò bằng không"
+        "1950s: thuốc ức chế MAO cho bệnh nhân lao, tâm trạng cũng cải thiện",
+        "Sau đó: serotonin, noradrenaline thấp được coi là yếu tố góp phần",
+        "2022: Moncrieff và cộng sự công bố umbrella review",
+        "2023: Jauhar và cộng sự phản biện trên cùng tạp chí"
       ],
-      "notes": "Không thấy bằng chứng nhất quán khác với đã chứng minh không có vai trò. Tuyệt đối không tự ngừng thuốc.",
-      "layout": "two-column-comparison",
-      "tone": "dark"
+      "notes": "Giáo trình 12.3 kể rằng quan hệ giữa serotonin, noradrenaline và trầm cảm được phát hiện tình cờ vào thập niên 1950: các thuốc ức chế MAO, vốn làm tăng serotonin và noradrenaline sẵn có, được dùng cho bệnh nhân lao, và tâm trạng trầm cảm của họ cũng cải thiện. Từ đó hoạt động thấp của hai chất này được coi là yếu tố góp phần. Giáo trình vẫn viết như vậy, nhưng cũng nói cơ chế chính xác còn đang được nghiên cứu. Năm 2022, nhóm Moncrieff tổng hợp các tổng quan để hỏi trầm cảm có liên quan đến serotonin thấp không. Năm 2023, nhóm Jauhar phản biện. Chỗ dễ nhầm: mốc thập niên 1950 là một phát hiện tình cờ về tác dụng của thuốc ở bệnh nhân lao, chưa phải một phép đo serotonin ở người bệnh trầm cảm."
     },
     {
-      "title": "Thuốc giúp ≠ nguyên nhân",
+      "title": "17",
       "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
-      "sources": [],
-      "bullets": [
-        "Thuốc có tác dụng khác với nguyên nhân bệnh"
+      "sources": [
+        "S13"
       ],
-      "notes": "Ví dụ của người viết: thuốc giảm đau đầu giúp được bạn không có nghĩa đau đầu do thiếu thuốc đó.",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "layout": "one-big-number",
+      "tone": "light",
+      "bullets": [
+        "17 nghiên cứu trong umbrella review của Moncrieff và cộng sự",
+        "12 trong số đó là tổng quan hệ thống và phân tích gộp"
+      ],
+      "notes": "Umbrella review là tổng quan của các tổng quan: nó không làm thí nghiệm mới mà gom các tổng quan hệ thống, phân tích gộp và phân tích dữ liệu lớn đã có. Nhóm Moncrieff đưa vào 17 nghiên cứu, trong đó 12 là tổng quan hệ thống và phân tích gộp. Kết quả theo từng hướng: chất chuyển hóa 5-HIAA và serotonin huyết tương không liên quan đến trầm cảm; thụ thể 5-HT1A và chất vận chuyển serotonin cho bằng chứng yếu và không nhất quán; làm giảm tryptophan không ảnh hưởng ở phần lớn người khỏe; hai nghiên cứu gen lớn nhất, với 115.257 và 43.165 người, không thấy liên quan. Họ cũng ghi rằng serotonin thấp đi kèm việc dùng thuốc chống trầm cảm, độc lập với trầm cảm."
+    },
+    {
+      "title": "Hai phía của cuộc tranh luận",
+      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+      "sources": [
+        "S13",
+        "S14"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Moncrieff 2022: không có bằng chứng nhất quán rằng trầm cảm do serotonin thấp",
+        "Jauhar 2023: phương pháp sai, bỏ sót dữ liệu; hệ serotonin có liên quan ở người dễ bị trầm cảm",
+        "Cả hai không phải thử nghiệm về hiệu quả thuốc"
+      ],
+      "notes": "Cột trái là kết luận của Moncrieff và cộng sự: các hướng nghiên cứu chính không cho bằng chứng nhất quán về liên quan giữa serotonin và trầm cảm, và không ủng hộ giả thuyết trầm cảm do serotonin thấp. Mục khai báo lợi ích của bài ghi hai tác giả đồng chủ tịch một nhóm tâm thần học phê phán. Cột phải là phản biện của Jauhar và cộng sự: họ cho rằng cách làm không đúng chuẩn umbrella review, thang chấm chất lượng được sửa sau khi đăng ký, bỏ sót dữ liệu làm giảm tryptophan ở người trầm cảm không dùng thuốc, và diễn giải ảnh chụp thụ thể quá đơn giản. Mục khai báo lợi ích của bài phản biện ghi một số tác giả từng nhận thù lao từ các hãng dược. Đây là tranh luận giữa các nhà nghiên cứu, chưa có phán quyết cuối cùng."
+    },
+    {
+      "title": "Đọc kết quả đúng phạm vi",
+      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+      "sources": [
+        "S2",
+        "S13",
+        "S14"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Nhóm Moncrieff hỏi về **nguyên nhân**: có bằng chứng nhất quán rằng trầm cảm do serotonin thấp không; họ không đánh giá thuốc có hiệu quả hay không [S13]. Không thấy bằng chứng nhất quán khác với đã chứng minh serotonin không có vai trò nào; chính phe phản biện cũng chỉ nói hệ serotonin **có liên quan** ở một số người [S14]. Và serotonin ở synapse tăng trong một giờ còn triệu chứng cần vài tuần, nên cơ chế của thuốc vẫn chưa rõ [S2].",
+      "bullets": [
+        "Câu hỏi: nguyên nhân, không phải hiệu quả thuốc",
+        "Chưa thấy bằng chứng khác với không có vai trò",
+        "Đừng hiểu nhầm: không tự ngừng thuốc vì đọc một tổng quan"
+      ],
+      "notes": "Ba ranh giới này giữ cho người đọc không rút ra kết luận quá đà, dù nghiêng về bên nào. Một: tổng quan của nhóm Moncrieff trả lời câu hỏi về nguyên nhân; thuốc có giúp người bệnh không là câu hỏi khác. Hai: chưa thấy bằng chứng nhất quán không đồng nghĩa với đã chứng minh không có vai trò; và ngay phe phản biện cũng không nói trầm cảm do thiếu serotonin, họ nói hệ serotonin có liên quan ở người dễ bị hoặc đang bị trầm cảm. Ba: khoảng cách giữa một giờ và vài tuần gợi ý tác dụng của thuốc đi qua những thay đổi chậm hơn; đó là suy luận của người viết. Chỗ dễ nhầm lớn nhất: đọc một tổng quan rồi tự ngừng thuốc; mục Lưu ý nói rõ vì sao không nên."
+    },
+    {
+      "title": "Thuốc giúp không có nghĩa là bệnh do thiếu thuốc",
+      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+      "sources": [
+        "S2"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Ví dụ của người viết: thuốc giảm đau đầu giúp không có nghĩa đau đầu do thiếu thuốc đó",
+        "Lịch sử: thuyết xuất phát từ phát hiện tình cờ về thuốc ở bệnh nhân lao",
+        "Cơ chế chính xác của nhóm SSRI vẫn chưa rõ, theo giáo trình 12.3"
+      ],
+      "notes": "Thẻ một là ví dụ của người viết: một loại thuốc giảm đau đầu giúp bạn đỡ đau không có nghĩa là đau đầu do thiếu thuốc đó trong cơ thể. Một thuốc có tác dụng và một nguyên nhân bệnh là hai câu hỏi khác nhau, cần hai loại bằng chứng khác nhau. Thẻ hai nối với slide lịch sử: quan hệ serotonin và trầm cảm xuất phát từ tác dụng của thuốc ức chế MAO ở bệnh nhân lao, một phát hiện tình cờ. Thẻ ba: giáo trình 12.3 nói cơ chế chính xác của nhóm SSRI chưa rõ, và nêu rằng serotonin ở synapse tăng trong khoảng một giờ nhưng triệu chứng thường vài tuần mới cải thiện. Khoảng cách đó là một lý do để thận trọng với câu trầm cảm do thiếu serotonin."
     },
     {
       "title": "Điều cần nhớ",
       "section": "Điều cần nhớ",
       "sources": [
-        "S1",
-        "S2",
         "S3",
-        "S4"
+        "S5",
+        "S6",
+        "S10",
+        "S11",
+        "S13",
+        "S14",
+        "S15",
+        "S12"
       ],
-      "bullets": [
-        "Chất dẫn truyền tác động tại synapse",
-        "Glutamate kích thích, GABA ức chế",
-        "Ba chất điều hòa chỉnh trạng thái chung",
-        "Một chất một cảm xúc là quá đơn giản",
-        "Thuyết thiếu serotonin chưa được ủng hộ nhất quán"
-      ],
-      "notes": "Bài sau (L04) về vỏ não trước trán.",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "light",
+      "bullets": [
+        "Rất nhiều chất dẫn truyền: phân tử nhỏ (nhanh) và neuropeptide (chậm)",
+        "Hormone và chất dẫn truyền: ranh giới mờ, như noradrenaline, oxytocin",
+        "Thụ thể và kênh ion quyết định kích thích hay ức chế; glutamate kích thích, GABA ức chế",
+        "Amin xuất phát từ vài nhân nhỏ rồi phủ rộng; đích chồng lên nhau",
+        "Dopamine gắn với muốn hơn khoái cảm; một cảm xúc, nhiều chất",
+        "Trầm cảm do thiếu serotonin: chưa được ủng hộ nhất quán, đang tranh luận"
+      ],
+      "notes": "Sáu điều tóm lại bài. Nếu chỉ nhớ một điều, hãy nhớ điều ba: kích thích hay ức chế, tăng hay giảm, do thụ thể và vùng não quyết định chứ không do bản thân chất; từ đó suy ra vì sao công thức một chất, một cảm xúc là hiểu lầm. Điều sáu cần đọc kèm phạm vi: chưa được ủng hộ nhất quán nói về nguyên nhân của trầm cảm, không nói gì về hiệu quả của thuốc, và cuộc tranh luận vẫn đang diễn ra. Nối bài: L02 cho thấy synapse hoạt động ra sao; bài này đặt tên và hồ sơ cho từng chất. L07 cho vị trí các nhân sâu như vùng dưới đồi và nhân accumbens; L09 cho mạch của từng cảm xúc; L10 ghép cảm xúc với chất và hormone."
     },
     {
       "title": "Lưu ý",
       "section": "Lưu ý",
-      "sources": [],
-      "bullets": [
-        "Không tự dùng, đổi hay ngừng thuốc",
-        "Không trộn rượu với thuốc an thần",
-        "Ý nghĩ tự làm hại mình: tìm trợ giúp ngay"
+      "sources": [
+        "S1",
+        "S11"
       ],
-      "notes": "Bài học về cơ chế, không phải lời khuyên y tế.",
       "layout": "card-grid",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "Không phải lời khuyên y tế: không tự dùng, đổi liều hay ngừng thuốc",
+        "Rượu và benzodiazepine cùng tăng GABA: hỏi bác sĩ",
+        "Nêu rượu, cần sa, opiate chỉ để giải thích cơ chế, không khuyến khích dùng",
+        "Buồn kéo dài, ý nghĩ tự làm hại mình: tìm trợ giúp ngay"
+      ],
+      "notes": "Bài học nhằm hiểu cơ chế, không phải lời khuyên y tế. Theo quyết định của chủ repo, bài không nêu tên hoạt chất của thuốc điều trị, không nêu liều và không khuyến nghị dùng bất kỳ thuốc nào; các chất như rượu, caffeine, cần sa, nicotine, cocaine, heroin, morphin hay nhóm amphetamine chỉ được nêu vì nguồn dùng chúng để giải thích cơ chế. Không tự dùng, tự đổi liều hay tự ngừng thuốc, đặc biệt thuốc chống trầm cảm, thuốc an thần hay thuốc giảm đau; ngừng đột ngột có thể gây triệu chứng khó chịu và cần có hướng dẫn của bác sĩ. Rượu và nhóm benzodiazepine, barbiturate đều làm tăng tác dụng của GABA, nên hãy hỏi bác sĩ hoặc dược sĩ trước khi dùng chung. Nếu bạn buồn bã kéo dài, mất hứng thú với mọi việc, hoặc có ý nghĩ tự làm hại mình, hãy tìm trợ giúp ngay từ bác sĩ, chuyên gia tâm lý hoặc đường dây hỗ trợ khẩn cấp tại nơi bạn sống."
     },
     {
       "title": "Nguồn tham khảo",
@@ -255,18 +1123,42 @@
         "S2",
         "S3",
         "S4",
-        "S5"
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17"
       ],
+      "layout": "references",
+      "tone": "dark",
       "bullets": [
-        "Hove & Martinez, Biological Psychology, chương 5",
-        "Neuroscience Online, UTHealth Houston, chương 11 đến 14",
-        "Moncrieff và cộng sự, Molecular Psychiatry, 2022",
-        "Purves và cộng sự, Neuroscience, 2001, chương 6",
-        "Hove và Martinez, chương 12 (hình minh họa)"
+        "S1: Hove & Martinez, Biological Psychology, mục 5.5 How Drugs Affect Neurotransmitters",
+        "S2: Hove & Martinez, mục 12.3 Mood Disorders (kèm Hình 3)",
+        "S3: Hove & Martinez, mục 3.4 Communication Within and Between Neurons (Hình 9)",
+        "S4: Hove & Martinez, mục 3.2 The Structure of the Neuron, Hình 3",
+        "S5: Hove & Martinez, mục 6.4 Aggression and Parental Behaviors (Hình 10)",
+        "S6: Hove & Martinez, mục 10.2 Basic Emotions",
+        "S7: Hove & Martinez, mục 12.4 Anxiety",
+        "S8: Purves và cộng sự, Neuroscience, 2nd ed., 2001, chương 6 (chỉ một câu về glutamate)",
+        "S9: Waymire, Neuroscience Online, chương 11 Acetylcholine",
+        "S10: Waymire, Neuroscience Online, chương 12 Biogenic Amines",
+        "S11: Waxham, Neuroscience Online, chương 13 Amino Acid Neurotransmitters",
+        "S12: Waxham, Neuroscience Online, chương 14 Neuropeptides and Nitric Oxide",
+        "S13: Moncrieff và cộng sự, Molecular Psychiatry, 2022",
+        "S14: Jauhar và cộng sự, Molecular Psychiatry, 2023",
+        "S15: Berridge & Kringelbach, Neuron, 2015",
+        "S16: Schultz, Dayan & Montague, Science, 1997",
+        "S17: Froemke & Young, Annual Review of Neuroscience, 2021"
       ],
-      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
-      "layout": "lookup-table",
-      "tone": "dark"
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md."
     }
   ]
 }

@@ -1,0 +1,680 @@
+{
+  "title": "Grok Bot: đội agent AI chạy trên máy tính đám mây",
+  "subtitle": "Kỹ thuật · Bài L16",
+  "slides": [
+    {
+      "title": "Câu hỏi của bài",
+      "section": "Tóm tắt",
+      "sources": [
+        "S5",
+        "S9"
+      ],
+      "bullets": [
+        "Grok Bot có đáng tiền không, rủi ro ở đâu, và việc gì nên giao cho nó?"
+      ],
+      "notes": "Mở bài bằng câu hỏi thay vì định nghĩa. Người nghe thường đã thấy tiêu đề giật gân về agent AI làm việc thay con người, nên câu hỏi giúp họ chờ một câu trả lời cân nhắc. Bài trả lời bằng ba thứ: Grok Bot làm gì và chạy ở đâu, giá và gói truy cập, và việc nào hợp với nó. Ba nhãn mức chắc chắn xuyên suốt bài: nguồn chính thức (tài liệu của xAI và Cursor), nguồn thứ ba (blog, báo, so sánh) và mâu thuẫn (các nguồn nói khác nhau). Hãy nhắc người nghe rằng sản phẩm còn beta và nhiều con số có thể đã đổi khi họ xem deck này.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Bản đồ bài: bốn khối",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S2",
+        "S5",
+        "S11"
+      ],
+      "bullets": [
+        "Là gì: agent AI chạy nền trên máy tính đám mây",
+        "Dùng thế nào: chat, nhóm Bot, routine, connector",
+        "Tốn bao nhiêu: nằm trong gói đăng ký, giá còn đổi",
+        "Rủi ro và việc hợp: máy dùng chung, việc lặp lại"
+      ],
+      "notes": "Bản đồ gồm bốn khối. Khối một trả lời Grok Bot là gì và nó khác chatbot ở đâu. Khối hai là cách giao việc: khung chat, nhóm Bot, routine và connector. Khối ba là chi phí, nơi các nguồn lệch nhau nhiều nhất. Khối bốn gộp ưu nhược điểm, hệ sinh thái và use case, rồi kết bằng quyết định có nên dùng hay không. Đi theo thứ tự này để người nghe có khung trước khi gặp con số giá, vì giá là chỗ dễ làm họ rối nhất.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba ý đáng mang theo",
+      "section": "Tóm tắt",
+      "sources": [
+        "S5",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S15"
+      ],
+      "bullets": [
+        "Bot là đồng đội nhận việc, làm trên máy đám mây, không chỉ trả lời một câu",
+        "Các Bot của một người dùng chung một máy; nhiều bài mô tả lệch với tài liệu bảo mật",
+        "Đừng tin con số giá nào chưa đối chiếu với trang giá hiện hành"
+      ],
+      "notes": "Ba ý để mang về. Một: Bot nhận một công việc, thao tác trên máy đám mây rồi báo lại, nên khác với chatbot hỏi đáp. Hai: tài liệu bảo mật của Cursor nói các Bot của cùng một người dùng dùng chung một máy, trong khi vài bài báo mô tả mỗi Bot một máy riêng; khi lệch, theo tài liệu bảo mật. Ba: giá của SuperGrok, Cursor Pro, Cursor Ultra được nêu khác nhau ở các nguồn, và gói được phép dùng đã đổi trong hai tuần đầu. Nếu người nghe chỉ nhớ ba câu này, bài đã đạt mục tiêu.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Grok Bot là gì",
+      "section": "Grok Bot là gì",
+      "sources": [
+        "S1",
+        "S4",
+        "S8",
+        "S9"
+      ],
+      "bullets": [
+        "Ở đâu: máy tính đám mây có trình duyệt, file, terminal",
+        "Làm gì: nhận việc, tự thao tác, báo lại",
+        "Đừng hiểu nhầm: không phải chatbot trả lời một câu"
+      ],
+      "notes": "Đây là slide định nghĩa. Nhấn ba ý. Một, **Grok Bot** là sản phẩm agent của xAI. Hai, Bot có máy đám mây riêng nên chạy tiếp khi bạn tắt laptop. Ba, Alarcon gói gọn thành quy tắc: việc đứng chờ theo lịch thì hợp, câu hỏi một lần thì không. Nói rõ mô hình nền là Grok 4.6 theo tóm tắt tài liệu, và người dùng không tự chọn. Nếu có người hỏi vì sao gọi là early beta, trả lời rằng cả xAI lẫn các bài đánh giá tháng chín đều dùng chữ đó.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Grok Bot** là sản phẩm agent AI của xAI, ra mắt dạng thử nghiệm sớm (**early beta**) ngày 11/08/2026 [S8] [S9]. Mỗi Bot làm việc trên một **máy tính đám mây** có trình duyệt, hệ thống file và terminal, nên vẫn chạy khi bạn tắt laptop [S8]. Theo tóm tắt tài liệu, nền là Grok 4.6 và người dùng không tự chọn mô hình [S1] [S4]. Quy tắc dễ nhớ của Alarcon: hợp với việc đứng chờ theo lịch, không hợp với câu hỏi một lần [S9]."
+    },
+    {
+      "title": "Chatbot và Bot khác nhau thế nào",
+      "section": "Grok Bot là gì",
+      "sources": [
+        "S8",
+        "S9"
+      ],
+      "bullets": [
+        "Chatbot: trả lời khi bạn hỏi rồi dừng, làm việc trong khung chat",
+        "Bot: nhận việc, dùng trình duyệt, file, terminal và tiếp tục khi bạn vắng",
+        "Hợp với Bot: việc lặp lại, không cần file trên laptop, để lại kết quả cho bạn kiểm tra sau"
+      ],
+      "notes": "Hai cột đối lập. Chatbot trả lời khi được hỏi và dừng; mọi việc diễn ra trong khung chat. Bot nhận một công việc, dùng trình duyệt, file và terminal trên máy đám mây, có thể đăng nhập vào ứng dụng của bạn và tiếp tục khi bạn không còn ngồi trước máy. Dòng dưới là ba phép thử của Alarcon: việc có lặp lại theo lịch không, có chạy được mà không cần file cục bộ không, kết quả có để lại cho bạn kiểm tra không. Trượt một phép thử thì dùng chatbot thường rẻ hơn và đơn giản hơn.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Mốc thời gian từ lúc ra mắt",
+      "section": "Grok Bot là gì",
+      "sources": [
+        "S7",
+        "S9",
+        "S11",
+        "S14"
+      ],
+      "bullets": [
+        "11/08/2026: ra mắt beta, ban đầu giới hạn ở các gói cao",
+        "12/08/2026: Gigazine đưa tin ra mắt dưới tên SpaceXAI",
+        "26/08/2026: mở cho mọi gói SuperGrok, Cursor Pro và Cursor Teams",
+        "17/10/2026: bản cập nhật lớn, chợ connector và X Chat"
+      ],
+      "notes": "Bốn mốc cho thấy sản phẩm đổi nhanh. Ngày 11/08 là ra mắt beta, ban đầu chỉ các gói cao nhất theo một số bài. Hôm sau Gigazine đưa tin. Ngày 26/08 nhiều nguồn ghi gói truy cập được mở rộng cho mọi gói SuperGrok, Cursor Pro và Cursor Teams. Giữa tháng mười có bản cập nhật lớn với chợ connector và hỗ trợ X Chat. Ý cho người nghe: ai đọc một bài viết cách đây vài tuần có thể đang giữ thông tin cũ, nên luôn nhìn ngày đăng của nguồn.",
+      "layout": "timeline",
+      "tone": "dark"
+    },
+    {
+      "title": "Máy đám mây: từ bạn xuống nhân riêng",
+      "section": "Cách hoạt động: máy tính đám mây và các Bot",
+      "sources": [
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Bạn: giao việc qua chat, duyệt khi cần",
+        "Các Bot: mỗi Bot một màn hình làm việc",
+        "Một máy đám mây dùng chung: trình duyệt, file, terminal, đăng nhập",
+        "Firecracker microVM: nhân, bộ nhớ, thiết bị ảo riêng cho từng người dùng"
+      ],
+      "notes": "Đọc từ trên xuống. Tầng trên cùng là bạn, giao việc qua chat. Tầng hai là các Bot, mỗi Bot có màn hình riêng để làm việc song song. Tầng ba là điểm mấu chốt: tất cả Bot của một người dùng dùng chung một máy với trình duyệt, file và đăng nhập. Tầng dưới cùng là cô lập giữa người dùng: tài liệu Cursor cho biết mỗi người một microVM Firecracker với nhân, bộ nhớ và thiết bị ảo riêng. Vì thế người khác không vào được máy của bạn, nhưng các Bot của bạn thì nhìn thấy nhau.",
+      "layout": "layers",
+      "tone": "light"
+    },
+    {
+      "title": "Mỗi Bot một máy, hay chung một máy?",
+      "section": "Cách hoạt động: máy tính đám mây và các Bot",
+      "sources": [
+        "S4",
+        "S5",
+        "S7",
+        "S8"
+      ],
+      "bullets": [
+        "Các bài mô tả: tiêu đề Gigazine nói mỗi agent điều khiển một PC đám mây riêng; Mem0 viết mỗi Bot có trình duyệt, file, terminal",
+        "Tài liệu bảo mật: mọi Bot của một người dùng chung một máy, màn hình riêng chỉ là bề mặt làm việc",
+        "Kết luận: khi lệch nhau thì theo tài liệu bảo mật của Cursor"
+      ],
+      "notes": "Đây là mâu thuẫn quan trọng nhất của bài. Cột trái là cách các bài báo và hướng dẫn mô tả, theo cảm nhận người dùng: mỗi Bot có công cụ riêng. Cột phải là tài liệu bảo mật của Cursor mô tả kiến trúc: một máy cho mỗi người dùng, các Bot chia nhau bề mặt làm việc. Hệ quả thực tế rất khác: nếu bạn tin mỗi Bot một máy, bạn sẽ yên tâm cấp một đăng nhập cho một Bot. Nhưng nếu máy dùng chung, đăng nhập ấy có thể được mọi Bot dùng. Đây là suy luận của người viết, nên đọc lại tài liệu gốc trước khi cấp quyền.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Máy tính đám mây: thẻ hồ sơ",
+      "section": "Cách hoạt động: máy tính đám mây và các Bot",
+      "sources": [
+        "S5",
+        "S6"
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ tóm tắt những gì tài liệu Cursor nói về máy đám mây. Nơi chạy là hạ tầng do Cursor lưu trữ. Cô lập là giữa người dùng, không giữa Bot. Hạn chế là chưa có on-premises hay image tự mang, và chưa có nguồn dữ liệu EDR cho khách hàng. Phiên đăng nhập có thể rơi khi máy được tạo lại. Dòng cuối là hạn mức: Cursor nói hạn mức hằng tuần có nhưng không công bố mức cụ thể. Khi trình bày, đừng bỏ qua dòng phiên đăng nhập, vì đó là chỗ người dùng thật hay vấp nhất.",
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Nơi chạy",
+          "text": "Máy đám mây do Cursor lưu trữ; chưa có on-premises hay tự mang image [S5]"
+        },
+        {
+          "label": "Cô lập",
+          "text": "Mỗi người một Firecracker microVM với nhân riêng; các Bot của một người dùng chung máy [S5]"
+        },
+        {
+          "label": "Phiên đăng nhập",
+          "text": "Có thể rơi khi máy được tạo lại sau cập nhật image hoặc đổi chính sách [S5]"
+        },
+        {
+          "label": "Quản trị",
+          "text": "Team Setup chỉ ở Enterprise; chưa có nguồn dữ liệu EDR cho khách hàng [S5]"
+        },
+        {
+          "label": "Hạn mức",
+          "text": "Có hạn mức hằng tuần nhưng không công bố mức cụ thể [S6]"
+        }
+      ]
+    },
+    {
+      "title": "Từ giao việc đến kết quả",
+      "section": "Giao việc cho Bot: chat, nhóm, routine và kết nối",
+      "sources": [
+        "S2",
+        "S3",
+        "S16"
+      ],
+      "bullets": [
+        "Giao việc: @Bot trong chat",
+        "Bot làm: dùng máy đám mây",
+        "Dừng hỏi: việc nhạy cảm cần duyệt",
+        "Bạn quyết: cho một lần, từ chối, luôn cho",
+        "Kết quả: file và bản ghi hoạt động"
+      ],
+      "notes": "Năm bước. Bạn giao việc bằng cách nhắc Bot trong chat. Bot làm trên máy đám mây. Với hành động nhạy cảm, Bot dừng lại hỏi. Bạn chọn cho một lần, từ chối hoặc luôn cho. Cuối cùng bạn nhận file và bản ghi hoạt động, trong đó hiện cả hoạt động công cụ, thao tác máy tính, file đã tạo và các yêu cầu phê duyệt. Nhắc người nghe: lệnh Stop now dừng công việc nhưng không hoàn tác những gì đã xong, nên bước dừng hỏi mới là chỗ chặn rủi ro thật sự.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba cách giao việc",
+      "section": "Giao việc cho Bot: chat, nhóm, routine và kết nối",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Chat: nhắc @Bot, gọi / kỹ năng đã lưu, gửi chỉ dẫn mới giữa chừng",
+        "Nhóm: hai đến sáu Bot chia nhau một kết quả, @everyone gọi tất cả",
+        "Routine: việc lặp lại, có thể chạy khi có thư tới alias email"
+      ],
+      "notes": "Ba cách. Chat là cách cơ bản: nhắc một Bot, một nhóm, một routine hoặc một connector bằng dấu @, gọi kỹ năng đã lưu bằng dấu gạch chéo, và gửi chỉ dẫn mới khi Bot đang làm. Nhóm cho phép chọn hai đến sáu Bot cùng chia sẻ một kết quả; Bot đăng vào nhóm và chuyển việc cho nhau. Routine là việc lặp lại, và tài liệu mô tả cách lập alias email rồi tạo routine chạy mỗi khi có thư tới địa chỉ đó. Đây là cách biến Bot từ công cụ hỏi đáp thành quy trình chạy nền.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Chat và nhóm: đủ điều khiển",
+      "section": "Giao việc cho Bot: chat, nhóm, routine và kết nối",
+      "sources": [
+        "S2",
+        "S14"
+      ],
+      "bullets": [
+        "Ở đâu: khung chat và nhóm hai đến sáu Bot",
+        "Làm gì: nhắc, giao, đổi chỉ dẫn, dừng việc",
+        "Đừng hiểu nhầm: Stop now không hoàn tác"
+      ],
+      "notes": "Slide giải thích về điều khiển. Ba điểm nên nói to. Một, bạn gõ @ để nhắc và gõ / để gọi kỹ năng. Hai, nhóm gồm hai đến sáu Bot và có @everyone. Ba, Stop now chỉ dừng, không hoàn tác. Ứng dụng iOS cho phép duyệt từng bước khi vắng bàn làm việc. Nếu người nghe hỏi có xem được Bot đã làm gì không: bản ghi hội thoại hiện hoạt động công cụ, thao tác máy tính, file đã tạo, câu hỏi và các yêu cầu phê duyệt, nhưng một hướng dẫn nhận xét vẫn thiếu màn hình kiểm toán đầy đủ.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Trong khung chat, bạn gõ @ để nhắc một **Bot**, một nhóm, một **routine** hoặc một **connector**, và gõ / để gọi kỹ năng đã lưu [S2]. Bạn có thể gửi chỉ dẫn mới khi Bot đang làm; lệnh Stop now dừng công việc nhưng không hoàn tác việc đã xong [S2]. Bản ghi hội thoại hiện hoạt động công cụ, thao tác máy tính, file và yêu cầu **phê duyệt**; ứng dụng iOS cho phép duyệt từng bước khi bạn vắng bàn [S2] [S14]."
+    },
+    {
+      "title": "Phê duyệt: bốn lựa chọn",
+      "section": "Giao việc cho Bot: chat, nhóm, routine và kết nối",
+      "sources": [
+        "S3",
+        "S16",
+        "S18"
+      ],
+      "bullets": [
+        "Allow once: cho phép đúng lần này",
+        "Deny: từ chối hành động",
+        "Always allow: luôn cho phép loại hành động này",
+        "Auto Review: luật dừng chờ người ký hoặc tự chạy khi thỏa điều kiện",
+        "Nên duyệt thủ công: gửi, đăng, mua, xóa, đổi quyền, chấp nhận điều khoản pháp lý"
+      ],
+      "notes": "Bảng bốn lựa chọn phê duyệt. Allow once cho đúng một lần. Deny từ chối. Always allow mở cho cả loại hành động nên dùng thận trọng. Auto Review là luật: hoặc dừng chờ người ký, hoặc tự chạy khi thỏa điều kiện đã đặt. Dòng cuối là khuyến cáo từ một hướng dẫn kỹ năng: luôn yêu cầu duyệt trước khi gửi, đăng, mua, xóa, đổi quyền hoặc sản phẩm đang chạy, và chấp nhận điều khoản pháp lý. Gợi ý trình bày: Always allow chỉ nên dùng cho hành động chỉ đọc.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Connector: Bot nối vào công cụ nào",
+      "section": "Giao việc cho Bot: chat, nhóm, routine và kết nối",
+      "sources": [
+        "S2",
+        "S13",
+        "S14"
+      ],
+      "bullets": [
+        "Microsoft Teams: tìm, đọc, gửi tin nhắn",
+        "Salesforce và SharePoint",
+        "Danh mục connector bên thứ ba",
+        "Email alias: kích hoạt routine"
+      ],
+      "notes": "Bốn nút nối vào Bot. Teams là connector được mô tả kỹ nhất: một bài tháng chín cho biết nó tìm kiếm, đọc và gửi tin nhắn trong hội thoại và kênh. Salesforce và SharePoint nằm trong danh sách dựng sẵn. Ngoài ra có danh mục connector bên thứ ba, và bản cập nhật tháng mười nói có chợ connector để nhóm tự nộp tích hợp. Email alias không phải connector theo nghĩa hẹp nhưng là cách kích hoạt routine. Lưu ý: connector càng rộng thì quyền Bot nắm càng lớn, nên quay lại cổng phê duyệt.",
+      "layout": "connection-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Không có giá riêng: nằm trong gói",
+      "section": "Chi phí và gói truy cập",
+      "sources": [
+        "S11",
+        "S15"
+      ],
+      "bullets": [
+        "Ở đâu: SuperGrok, Cursor Pro, Cursor Teams",
+        "Làm gì: mở quyền dùng Bot theo gói",
+        "Đừng hiểu nhầm: giá một bài viết là giá hiện nay"
+      ],
+      "notes": "Slide đặt khung cho chi phí. Grok Bot không bán lẻ; quyền dùng nằm trong gói đăng ký khác. Ngày ra mắt chỉ các gói cao, ngày 26/08 mở cho mọi gói SuperGrok, Cursor Pro và Cursor Teams theo nhiều nguồn. Vì gói được phép dùng đã đổi trong hai tuần, mọi con số trong các slide tiếp theo là con số các nguồn đã nêu chứ chưa kiểm trang giá. Đây là chỗ nên nhắc người nghe mở trang giá chính thức của xAI và Cursor vào đúng ngày quyết định.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Grok Bot** không có giá riêng: quyền dùng nằm trong gói đăng ký khác, nên bạn mua **SuperGrok** hoặc gói **Cursor**, không mua Bot rời [S11] [S15]. Từ lúc ra mắt đến nay gói được phép dùng đã đổi: ngày ra mắt chỉ các gói cao nhất, ngày 26/08/2026 mở cho mọi gói SuperGrok, Cursor Pro và Cursor Teams [S11] [S15]. Vì thế một con số giá trong bài viết cũ có thể đã lỗi thời, và cần đối chiếu trang giá hiện hành."
+    },
+    {
+      "title": "Con số giá được các nguồn nêu",
+      "section": "Chi phí và gói truy cập",
+      "sources": [
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S15"
+      ],
+      "bullets": [
+        "SuperGrok cơ bản: khoảng $30 mỗi tháng, nhiều nguồn khớp",
+        "SuperGrok Plus: khoảng $100 mỗi tháng, một nhóm nguồn",
+        "SuperGrok Heavy: khoảng $300; Alarcon nói yêu cầu này không còn đúng",
+        "Cursor Pro: khoảng $20 mỗi tháng, một bài so sánh",
+        "Cursor Ultra: khoảng $200; chỉ một nguồn, chưa xác nhận"
+      ],
+      "notes": "Bảng gom các con số theo từng gói, kèm mức chắc chắn. SuperGrok cơ bản khoảng ba mươi đô một tháng được nhiều nguồn nhắc, trong đó Alarcon chụp từ trang giá ngày mười tháng chín. SuperGrok Plus và Heavy đến từ các bài tổng hợp giá; Alarcon cho rằng yêu cầu Heavy lúc ra mắt không còn đúng. Cursor Pro khoảng hai mươi đô theo một bài so sánh. Cursor Ultra hai trăm đô chỉ có MindStudio nói và chưa nguồn nào xác nhận, nên đừng nói đó là sự thật.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    },
+    {
+      "title": "Gói truy cập đã đổi nhanh thế nào",
+      "section": "Chi phí và gói truy cập",
+      "sources": [
+        "S10",
+        "S11",
+        "S15"
+      ],
+      "bullets": [
+        "Ra mắt 11/08: các gói cao nhất",
+        "26/08: mở cho mọi gói SuperGrok, Cursor Pro, Cursor Teams",
+        "Dùng thử: bảy hay mười bốn ngày, các nguồn lệch nhau"
+      ],
+      "notes": "Ba mốc về truy cập. Lúc ra mắt chỉ các gói cao. Ngày hai mươi sáu tháng tám mở rộng cho mọi gói SuperGrok, Cursor Pro và Cursor Teams. Cột thứ ba là dùng thử: MindStudio ghi bảy ngày và phải nhập thẻ trước, một nguồn khác ghi mười bốn ngày. Đây là ví dụ rõ nhất của việc nguồn thứ ba lệch nhau. Nếu cần quyết định, hãy đọc trang chính thức vào ngày mua và đọc kỹ điều kiện dùng thử thay vì dựa vào một bài blog.",
+      "layout": "timeline",
+      "tone": "light"
+    },
+    {
+      "title": "Mâu thuẫn về dùng thử và hạn mức",
+      "section": "Chi phí và gói truy cập",
+      "sources": [
+        "S6",
+        "S10",
+        "S11"
+      ],
+      "bullets": [
+        "Dùng thử: bảy ngày kèm thẻ [S10], mười bốn ngày [S11]; Cursor mô tả là khoản tín dụng dùng trong cửa sổ bảy ngày, đã dùng không hoàn lại [S6]",
+        "Hạn mức: có hạn mức hằng tuần nhưng không công bố mức; không có trần chi riêng cho Grok Bot, kiểm soát chi tiêu cấp tài khoản vẫn áp dụng [S6] [S11]",
+        "Hệ quả: khó ước chi phí khi chạy nhiều Bot liên tục"
+      ],
+      "notes": "Hai cột. Cột trái là dùng thử: một nguồn nói bảy ngày kèm thẻ, một nguồn nói mười bốn ngày, còn Cursor mô tả là một khoản tín dụng sử dụng trong cửa sổ bảy ngày, đã dùng thì không hoàn lại, và một tác vụ lớn có thể dùng hết. Cột phải là hạn mức: hạn mức hằng tuần có nhưng mức không công bố, và xAI không nêu trần chi riêng cho Grok Bot. Dòng dưới là suy luận của người viết: chạy nhiều Bot liên tục khó ước chi phí trước, nên hãy thử với một việc nhỏ.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Sáu ưu điểm",
+      "section": "Ưu điểm",
+      "sources": [
+        "S2",
+        "S3",
+        "S5",
+        "S8",
+        "S16"
+      ],
+      "bullets": [
+        "Làm việc nền, không cần laptop bật",
+        "Dùng công cụ thật: trình duyệt, file, terminal",
+        "Chạy song song, hai đến sáu Bot trong một nhóm",
+        "Có cổng kiểm soát: phê duyệt và Auto Review",
+        "Cô lập giữa người dùng bằng microVM",
+        "Kết nối Teams, Salesforce, SharePoint, MCP"
+      ],
+      "notes": "Sáu ưu điểm theo thứ tự quan trọng. Việc nền không cần laptop là khác biệt lớn nhất so với chatbot. Công cụ thật cho phép Bot làm việc thay vì chỉ nói về việc. Song song và phối hợp giúp chia một đầu việc cho nhiều Bot. Cổng kiểm soát giữ con người trong vòng lặp. Cô lập giữa người dùng là điểm mạnh về kiến trúc, miễn là nhớ rằng nó không áp dụng giữa các Bot. Kết nối rộng giúp Bot đi vào công cụ có sẵn của tổ chức. Mỗi ưu điểm đều có nguồn ở lesson.md.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Giá trị lớn nhất: việc chạy khi bạn vắng",
+      "section": "Ưu điểm",
+      "sources": [
+        "S8",
+        "S9"
+      ],
+      "bullets": [
+        "Việc theo lịch chạy tiếp khi bạn đã tắt laptop, rồi để lại kết quả cho bạn kiểm tra sau."
+      ],
+      "notes": "Một câu để người nghe nhớ. Trước đây agent làm việc trong khung chat, cần máy bạn và sự có mặt của bạn. Với Bot, việc theo lịch chạy trên máy đám mây và để lại kết quả. Alarcon nói một việc thuộc về Bot khi nó lặp lại theo lịch, không cần file trên laptop, và cho ra kết quả bạn kiểm tra sau. Nhắc rằng đây là ưu điểm theo nguồn thứ ba, là trải nghiệm của người dùng thử, và giá trị thực phụ thuộc việc bạn chọn.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Mọi Bot của một người dùng chung một máy",
+      "section": "Nhược điểm và rủi ro bảo mật",
+      "sources": [
+        "S4",
+        "S5",
+        "S16"
+      ],
+      "bullets": [
+        "Ở đâu: một máy đám mây cho mỗi người dùng",
+        "Hệ quả: file và đăng nhập có thể bị mọi Bot dùng",
+        "Đừng hiểu nhầm: màn hình riêng không phải ranh giới bảo mật"
+      ],
+      "notes": "Rủi ro lớn nhất. Cursor khuyến cáo coi mọi đăng nhập và file trên máy là có thể dùng được bởi mọi Bot của người đó. Màn hình riêng của từng Bot là bề mặt làm việc, không phải ranh giới bảo mật. Vellum cũng ghi các Bot có thể truy cập cùng một phiên trình duyệt đã đăng nhập. Cách giảm thiểu được khuyến nghị gồm quyền tối thiểu, giao thông tin đăng nhập thủ công, luật phê duyệt hẹp và thu hồi quyền ở phía nguồn. Nhấn mạnh rằng đây là lời của tài liệu bảo mật, không phải suy đoán.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Cursor khuyến cáo coi mọi đăng nhập và file trên **máy tính đám mây** là có thể dùng được bởi mọi Bot của cùng một người dùng; màn hình riêng của từng Bot là bề mặt làm việc, không phải ranh giới bảo mật [S4] [S5]. Vellum cũng ghi các Bot có thể truy cập cùng một phiên trình duyệt đã đăng nhập [S16]. Vì thế một thông tin đăng nhập cấp cho một Bot nên được xem như cấp cho mọi Bot, và nên áp dụng **phê duyệt** hẹp."
+    },
+    {
+      "title": "Sáu điểm yếu khác",
+      "section": "Nhược điểm và rủi ro bảo mật",
+      "sources": [
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S10",
+        "S16"
+      ],
+      "bullets": [],
+      "notes": "Thẻ gom các điểm yếu khác ngoài máy dùng chung. Phiên đăng nhập có thể rơi khi máy được tạo lại. Chỉ chạy trên hạ tầng Cursor, chưa có on-premises. Thiếu công cụ quản trị: Team Setup chỉ ở Enterprise, chưa có nguồn dữ liệu EDR, và một hướng dẫn nói thiếu màn hình kiểm toán đầy đủ. Còn beta nên giá và nền tảng đổi liên tục, thậm chí các nguồn không khớp về nền tảng hỗ trợ. Mem0 thử thấy trang cần đăng nhập có thể đòi đăng nhập thêm. Cuối cùng là khó ước chi phí và không chọn được mô hình.",
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Phiên đăng nhập",
+          "text": "Có thể rơi khi máy được tạo lại [S5]"
+        },
+        {
+          "label": "Hạ tầng",
+          "text": "Chỉ trên máy đám mây Cursor; chưa có on-premises [S5]"
+        },
+        {
+          "label": "Quản trị",
+          "text": "Chưa có nguồn dữ liệu EDR; một hướng dẫn nói thiếu màn hình kiểm toán đầy đủ [S5] [S16]"
+        },
+        {
+          "label": "Còn beta",
+          "text": "Giá và nền tảng đổi nhanh; nguồn lệch về hệ điều hành hỗ trợ [S7] [S10]"
+        },
+        {
+          "label": "Trang cần đăng nhập",
+          "text": "Mem0 thấy chụp màn hình trang đã đăng nhập có thể đòi đăng nhập thêm [S8]"
+        },
+        {
+          "label": "Chi phí và mô hình",
+          "text": "Hạn mức không công bố; không chọn được mô hình [S6]"
+        }
+      ]
+    },
+    {
+      "title": "Giảm rủi ro: năm bước",
+      "section": "Nhược điểm và rủi ro bảo mật",
+      "sources": [
+        "S5",
+        "S16",
+        "S18"
+      ],
+      "bullets": [
+        "Quyền tối thiểu: chỉ cấp đăng nhập cần thiết",
+        "Giao đăng nhập thủ công, từng lần",
+        "Luật phê duyệt hẹp, ít Always allow",
+        "Đọc bản ghi sau vài lần chạy",
+        "Thu hồi quyền ở phía nguồn khi ngừng dùng"
+      ],
+      "notes": "Năm bước giảm rủi ro lấy từ khuyến nghị trong các hướng dẫn. Một, quyền tối thiểu: chỉ cấp đăng nhập thật sự cần. Hai, giao đăng nhập thủ công từng lần thay vì lưu lâu dài. Ba, luật phê duyệt hẹp, hạn chế Always allow. Bốn, đọc bản ghi sau vài lần chạy để biết Bot thật sự làm gì. Năm, thu hồi quyền ở phía nguồn khi không dùng nữa, vì xóa trong Bot không chắc xóa quyền ở dịch vụ gốc. Đây là phần người nghe dễ áp dụng ngay.",
+      "layout": "flow",
+      "tone": "light"
+    },
+    {
+      "title": "Bản đồ hệ sinh thái",
+      "section": "Hệ sinh thái",
+      "sources": [
+        "S1",
+        "S4",
+        "S11",
+        "S13"
+      ],
+      "bullets": [
+        "xAI và dòng mô hình Grok: bên làm sản phẩm",
+        "Cursor: nơi lưu trữ máy đám mây và tài liệu",
+        "SuperGrok: đường mua trực tiếp từ xAI",
+        "Connector và ứng dụng: Teams, Salesforce, iOS"
+      ],
+      "notes": "Bốn bên quanh Grok Bot. xAI làm sản phẩm và dòng mô hình Grok; Gigazine gọi bên phát hành là SpaceXAI. Cursor lưu trữ máy đám mây và có tài liệu riêng cho Grok Bot. SuperGrok là đường mua trực tiếp từ xAI với các bậc giá khác nhau. Connector và ứng dụng là phần nối ra ngoài: Teams, Salesforce, SharePoint, chợ connector và ứng dụng iOS để duyệt. Lưu ý cho người nghe: sản phẩm nằm ở giao điểm của xAI và Cursor, nên khi cần tài liệu hãy đọc cả hai bên.",
+      "layout": "connection-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Ai làm gì trong hệ sinh thái",
+      "section": "Hệ sinh thái",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S8",
+        "S16",
+        "S17"
+      ],
+      "bullets": [
+        "xAI: sản phẩm, mô hình, tài liệu chat và bảo mật",
+        "Cursor: máy đám mây, bắt đầu, bảo mật, trợ giúp",
+        "SuperGrok và Cursor Pro, Teams: các đường vào",
+        "Mem0, Vellum, Toolradar: đánh giá bên thứ ba, không phải tài liệu chính thức"
+      ],
+      "notes": "Bảng phân vai. xAI chịu trách nhiệm sản phẩm, mô hình và hai bộ tài liệu về chat và bảo mật. Cursor lưu trữ máy đám mây và có ba nhóm tài liệu: bắt đầu, bảo mật và trợ giúp. Các gói SuperGrok, Cursor Pro và Cursor Teams là đường vào. Cuối cùng là lớp đánh giá bên thứ ba như Mem0, Vellum và Toolradar. Lớp này hữu ích để biết trải nghiệm thực tế nhưng không phải tài liệu chính thức, nên khi một chi tiết quan trọng thì đối chiếu lại với tài liệu của xAI hoặc Cursor.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Ba phép thử chọn việc cho Bot",
+      "section": "Use case thực tế",
+      "sources": [
+        "S9"
+      ],
+      "bullets": [
+        "Việc lặp lại theo lịch",
+        "Chạy được mà không cần file trên laptop",
+        "Kết quả để lại cho bạn kiểm tra sau"
+      ],
+      "notes": "Ba phép thử của Alarcon để quyết định một việc có hợp với Bot không. Một, việc có lặp lại theo lịch không. Hai, nó có chạy được mà không cần file nằm trên laptop không. Ba, kết quả có để lại cho bạn kiểm tra sau không. Trượt một phép thử thì đó không phải việc của Bot. Quy tắc này đến từ một người dùng trả phí chạy thử một tuần nên đây là kinh nghiệm cá nhân, không phải chuẩn của xAI. Nhưng nó đủ đơn giản để người nghe dùng ngay.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Việc được nêu trong các bài đánh giá",
+      "section": "Use case thực tế",
+      "sources": [
+        "S8",
+        "S17"
+      ],
+      "bullets": [
+        "Theo dõi đối thủ cạnh tranh",
+        "Kiểm tra kho mã và tóm tắt",
+        "Nghiên cứu nhiều nguồn song song, xác minh dữ kiện",
+        "Bot chi phí: chỉ soạn tóm tắt và nhắc việc, không đổi số liệu"
+      ],
+      "notes": "Bốn nhóm việc. Theo dõi đối thủ và kiểm tra kho mã là hai việc Mem0 liệt kê. Nghiên cứu nhiều nguồn song song và xác minh dữ kiện tận dụng việc chia nhiều Bot. Nhóm thứ tư là ví dụ từ Toolradar: một Bot chi phí chỉ soạn tóm tắt và nhắc việc, không đổi số liệu hoàn chi. Chi tiết quan trọng là ranh giới: Bot được giao phần soạn và nhắc, còn phần thay đổi số liệu vẫn do người quyết. Nói rõ đây là các ví dụ được thuật lại, chưa phải kết quả đã kiểm chứng.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Áp dụng ba phép thử vào ba tình huống",
+      "section": "Use case thực tế",
+      "sources": [
+        "S8",
+        "S9",
+        "S18"
+      ],
+      "bullets": [
+        "Tóm tắt thay đổi giá và changelog của đối thủ mỗi sáng: đạt cả ba phép thử",
+        "Quét kho mã hằng tuần tìm dependency cũ: đạt nếu chỉ cấp quyền đọc",
+        "Một câu hỏi pháp lý hỏi một lần: không lặp lại, dùng chatbot thường"
+      ],
+      "notes": "Áp dụng khung vào ba tình huống. Tóm tắt thay đổi của đối thủ mỗi sáng đạt cả ba phép thử vì lặp lại, không cần file cục bộ và có kết quả để đọc. Quét kho mã hằng tuần đạt nếu bạn chỉ cấp quyền đọc, vì mỗi quyền cấp thêm đều đi vào máy dùng chung. Câu hỏi pháp lý hỏi một lần thì không lặp lại và không phải việc của Bot. Nói rõ đây là suy luận của người viết để minh họa khung, không phải kết quả đã chạy thật.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    },
+    {
+      "title": "Grok Bot và OpenClaw",
+      "section": "So sánh với agent tự dựng",
+      "sources": [
+        "S5",
+        "S12"
+      ],
+      "bullets": [
+        "Grok Bot: nhà cung cấp lo máy, gói đăng ký, bộ nhớ chưa có tài liệu xem hoặc sửa, máy dùng chung giữa các Bot",
+        "OpenClaw: mã nguồn mở tự dựng, bạn lo máy chủ và mô hình, bộ nhớ là file văn bản sửa được, chợ kỹ năng từng có chiến dịch mã độc",
+        "Hai cực: quản lý trả phí và tự dựng; chưa có so sánh nào với agent chạy trên Claude"
+      ],
+      "notes": "So sánh hai cực của agent cá nhân theo Toolradar. Grok Bot ở cực quản lý trả phí: nhà cung cấp lo máy, bạn trả gói đăng ký, và theo một bài so sánh chưa có tài liệu nói cách xem hay sửa bộ nhớ của Bot. OpenClaw ở cực tự dựng: mã nguồn mở, miễn phí bản thân phần mềm nhưng bạn lo máy chủ và mô hình; bộ nhớ là file văn bản sửa được, và chợ kỹ năng từng có chiến dịch mã độc được ghi nhận. Giới hạn: kết quả tìm kiếm không có bài so với agent Claude, nên bài không so.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Hai cực của agent cá nhân",
+      "section": "So sánh với agent tự dựng",
+      "sources": [
+        "S12"
+      ],
+      "bullets": [
+        "Quản lý trả phí đổi lấy sự tiện; tự dựng đổi lấy quyền kiểm soát bộ nhớ và máy chủ."
+      ],
+      "notes": "Một câu để người nghe chọn đúng hướng. Quản lý trả phí như Grok Bot đổi tiền lấy sự tiện: không phải dựng máy chủ. Tự dựng như OpenClaw đổi công sức lấy quyền kiểm soát: bạn thấy và sửa bộ nhớ, bạn chọn máy chủ. Cái giá của tự dựng là bạn phải tự bảo mật, kể cả cẩn thận với kỹ năng tải từ chợ. Cái giá của quản lý là phụ thuộc nhà cung cấp về giá, gói và nền tảng. Không có lựa chọn đúng cho mọi người; nó phụ thuộc bạn ngại việc nào hơn.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Nên thử và chưa nên",
+      "section": "Có nên dùng không",
+      "sources": [
+        "S5",
+        "S6",
+        "S9"
+      ],
+      "bullets": [
+        "Nên thử khi: có việc theo lịch chạy lúc máy tắt, chấp nhận đăng nhập dùng chung, bắt đầu với dữ liệu không nhạy cảm",
+        "Chưa nên khi: cần cách ly bảo mật giữa tác vụ, cần on-premises hoặc tuân thủ chặt, cần chi phí dự đoán được",
+        "Cả hai: đối chiếu trang giá chính thức trước khi trả tiền"
+      ],
+      "notes": "Hai cột quyết định. Nên thử khi bạn có việc theo lịch cần chạy lúc máy tắt, chấp nhận rằng đăng nhập trên máy đám mây là chung cho các Bot của mình, và bắt đầu với tài khoản và dữ liệu không nhạy cảm. Chưa nên khi cần cách ly bảo mật giữa các tác vụ, cần triển khai trong hạ tầng riêng hoặc có yêu cầu tuân thủ chặt, hoặc cần chi phí ổn định và dự đoán được. Dòng dưới áp dụng cho cả hai: đối chiếu trang giá chính thức trước khi trả tiền.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Quy trình thử gợi ý",
+      "section": "Có nên dùng không",
+      "sources": [
+        "S5",
+        "S9",
+        "S18"
+      ],
+      "bullets": [
+        "Chọn một việc đạt ba phép thử",
+        "Cấp quyền tối thiểu",
+        "Đặt phê duyệt cho mọi hành động ra ngoài",
+        "Xem bản ghi sau vài lần chạy",
+        "Mở rộng dần; thu hồi quyền khi ngừng dùng"
+      ],
+      "notes": "Quy trình năm bước, suy luận của người viết dựa trên các khuyến nghị đã nêu. Một, chọn một việc đạt cả ba phép thử của Alarcon. Hai, cấp quyền tối thiểu. Ba, đặt phê duyệt cho mọi hành động ra ngoài như gửi thư, mua hàng, xóa. Bốn, xem bản ghi sau vài lần chạy trước khi tin. Năm, mở rộng dần, và thu hồi quyền ở phía nguồn khi ngừng dùng. Không có bước nào cần trả thêm tiền, và bước nào cũng quay lại được. Nhấn mạnh rằng thử nhỏ là cách duy nhất để biết chi phí thật khi hạn mức không công bố.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Bốn ý cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S3",
+        "S5",
+        "S8",
+        "S9",
+        "S11",
+        "S15",
+        "S18"
+      ],
+      "bullets": [
+        "Grok Bot là agent chạy nền trên máy đám mây, mạnh ở việc lặp lại theo lịch",
+        "Các Bot của một người dùng chung một máy; đừng coi đó là cách ly",
+        "Giá và gói chưa ổn định, các nguồn lệch nhau: kiểm trang giá hiện hành",
+        "Đặt phê duyệt cho hành động ra ngoài và cấp quyền tối thiểu"
+      ],
+      "notes": "Bốn ý chốt. Một: Grok Bot là agent chạy nền, mạnh ở việc lặp lại theo lịch. Hai: các Bot của một người dùng chung một máy, nên không coi đó là cách ly bảo mật. Ba: giá và gói truy cập chưa ổn định và các nguồn lệch nhau, nên kiểm trang giá chính thức vào ngày mua. Bốn: đặt phê duyệt cho mọi hành động ra ngoài và cấp quyền tối thiểu. Nếu người nghe làm được đúng bốn việc này, họ đã tránh phần lớn rủi ro đã nêu trong bài.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Giới hạn của bài",
+      "section": "Lưu ý",
+      "sources": [
+        "S1",
+        "S4",
+        "S9"
+      ],
+      "bullets": [
+        "Ở đâu: chỉ đọc tóm tắt qua công cụ tìm kiếm",
+        "Làm gì: cần đối chiếu trang chính thức",
+        "Đừng hiểu nhầm: không phải lời khuyên bảo mật"
+      ],
+      "notes": "Slide thành thật về giới hạn. Tài liệu chính thức của xAI và Cursor chưa được đọc toàn văn trong phiên viết bài; chúng được dẫn qua bản tóm tắt của công cụ tìm kiếm. Nhiều bài thứ ba mâu thuẫn nhau, đặc biệt về giá. Một thông tin về việc bán qua gói đăng ký khác từ tháng mười chỉ có một nguồn không xác định được nên đã bỏ. Bài phản ánh tình hình đến 21/10/2026 và không phải lời khuyên tài chính hay bảo mật cho một tổ chức cụ thể. Mời người nghe đối chiếu trang chính thức trước khi quyết định.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Bài này **không phải lời khuyên tài chính hay bảo mật** cho một tổ chức cụ thể. Tài liệu của xAI và Cursor được dẫn qua bản tóm tắt của công cụ tìm kiếm, chưa đọc toàn văn trong phiên viết bài [S1] [S4]. Nhiều chi tiết quan trọng như giá, gói, nền tảng và hạn mức còn thay đổi vì sản phẩm đang **early beta** [S9]. Hãy đối chiếu trực tiếp trang chính thức trước khi mua hay cấp quyền."
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [],
+      "bullets": [
+        "S1: xAI, Grok Bot FAQ (tài liệu), 2026",
+        "S2: xAI, Work with Grok Bot: chat và cộng tác, 2026",
+        "S3: xAI, Manage and protect: bảo mật Grok Bot, 2026",
+        "S4: Cursor, Get started with Grok Bot, 2026",
+        "S5: Cursor, Grok Bot security FAQ, 2026",
+        "S6: Cursor, Grok Bot FAQs (trợ giúp), 2026",
+        "S7: Gigazine, SpaceXAI ra mắt agent AI Grok Bot, 12/08/2026",
+        "S8: Mem0, Grok Bot guide, 2026",
+        "S9: Christopher Alarcon, Grok Bot use cases, 2026",
+        "S10: MindStudio, Grok Bot pricing and access, 2026",
+        "S11: AI Builder Club, Grok Bot pricing 2026",
+        "S12: Toolradar, OpenClaw vs Grok Bot, 2026",
+        "S13: Tesla North, Grok Bot và Microsoft Teams, 11/09/2026",
+        "S14: iPhone in Canada, Grok Bot major update, 17/10/2026",
+        "S15: ColdICP, Grok Bot pricing, 2026",
+        "S16: Vellum, Official Grok Bot breakdown, 2026",
+        "S17: Toolradar, Grok Bot use cases, 2026",
+        "S18: skills.sh, grok-bot (hướng dẫn kỹ năng), 2026"
+      ],
+      "notes": "Slide nguồn liệt kê mười tám nguồn dùng trong bài. Bốn nguồn đầu tiên là tài liệu của xAI và Cursor, gọi là nguồn chính thức nhưng chỉ đọc qua bản tóm tắt tìm kiếm. Còn lại là báo, blog và so sánh bên thứ ba. Khi một chi tiết quan trọng như giá hay quyền truy cập, mở tài liệu gốc thay vì tin bài viết. Địa chỉ đầy đủ của từng nguồn nằm trong lesson.md, mục Nguồn tham khảo.",
+      "layout": "references",
+      "tone": "dark"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "L16",
+  "title": "Grok Bot: đội agent AI chạy trên máy tính đám mây",
+  "topic": "ky-thuat",
+  "sections": [
+    "Tóm tắt",
+    "Grok Bot là gì",
+    "Cách hoạt động: máy tính đám mây và các Bot",
+    "Giao việc cho Bot: chat, nhóm, routine và kết nối",
+    "Chi phí và gói truy cập",
+    "Ưu điểm",
+    "Nhược điểm và rủi ro bảo mật",
+    "Hệ sinh thái",
+    "Use case thực tế",
+    "So sánh với agent tự dựng",
+    "Có nên dùng không",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://docs.x.ai/grok-bot/faq",
+    "https://cursor.com/docs/grok-bot/security-faq"
+  ],
+  "key_terms": [
+    "Grok Bot",
+    "máy tính đám mây",
+    "routine",
+    "connector",
+    "phê duyệt",
+    "early beta",
+    "SuperGrok",
+    "Cursor"
+  ],
+  "min_words": 2400,
+  "max_words": 30000,
+  "min_citations": 25,
+  "min_independent_sources": 6,
+  "min_layouts": 8,
+  "section_min_slides": 2,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 40
+  }
+}

@@ -224,7 +224,7 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(4, sources=None))
         self.assertIn("slide 5 lacks 'sources' of the right type", errs)
         errs, _ = self.run_gate(self.mutated(4, bullets=["một", 2, "ba"]))
-        self.assertIn("slide 5 has a bullet that is not text", errs)
+        self.assertIn("slide 5 has a bullet that is not text or is blank", errs)
 
     def test_a_slide_the_renderer_cannot_draw_is_an_error_but_a_missing_moda_id_is_a_warning(self):
         img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "https://example.org/x.png"}]
@@ -241,7 +241,7 @@ class GateTests(unittest.TestCase):
 
     def test_values_of_the_wrong_type_are_errors_not_crashes(self):
         errs, _ = self.run_gate(self.mutated(2, facts=[{"label": 4, "text": "x"}] * 3))
-        self.assertIn("slide 3: facts must be a list of {label, text} with text values", errs)
+        self.assertIn("slide 3: facts must be a list of {label, text} with non-blank text values", errs)
         errs, _ = self.run_gate(self.mutated(1, body=7))
         self.assertIn("slide 2: body is not text", errs)
         errs, _ = self.run_gate(self.mutated(4, sources=["S5", 5]))
@@ -316,6 +316,18 @@ class GateTests(unittest.TestCase):
         long = ("abcdef " * 19)[:131]
         errs, _ = self.run_gate(self.mutated(4, bullets=[long] * 5))
         self.assertTrue(any(e.startswith("text does not fit its box on flow") for e in errs), errs)
+
+    def test_blank_bullets_and_blank_facts_are_refused(self):
+        errs, _ = self.run_gate(self.mutated(4, bullets=[" ", " ", " "]))
+        self.assertIn("slide 5 has a bullet that is not text or is blank", errs)
+        errs, _ = self.run_gate(self.mutated(2, facts=[{"label": " ", "text": " "}] * 3))
+        self.assertIn("slide 3: facts must be a list of {label, text} with non-blank text values", errs)
+
+    def test_a_required_url_is_matched_whole_not_as_a_prefix(self):
+        lesson = LESSON.replace(BOOK, BOOK + "not-the-required-page")
+        errs, _ = self.run_gate(lesson=lesson)
+        self.assertIn(f"required source missing: {BOOK}", errs)
+        self.assertEqual(self.run_gate(lesson=LESSON.replace(BOOK, BOOK.rstrip("/")))[0], [], "a missing trailing slash is the same page")
 
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))

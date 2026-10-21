@@ -49,6 +49,12 @@ def gen():
     return _gen
 
 
+def norm_url(url):
+    """Scheme and host are case-insensitive, the path is not; a trailing slash, a fragment and trailing punctuation do not matter."""
+    u = urlsplit(url.strip().rstrip(".,;)"))
+    return (u.scheme.lower(), u.netloc.lower(), u.path.rstrip("/"), u.query)
+
+
 def words(t):
     return len(t.split())
 
@@ -119,15 +125,15 @@ def check(root, lid):
         if set(ex["sources"]) != set(refs): errs.append("expected sources differ")
         for k, url in ex["sources"].items():
             if url and url not in refs.get(k, ""): errs.append(f"url of {k} is not on its own reference line")
+    listed = {norm_url(m.group(0)) for r in refs.values() for m in URL.finditer(r)}
     for url in ex.get("required_urls", []):
-        if not any(url in r for r in refs.values()): errs.append(f"required source missing: {url}")
+        if norm_url(url) not in listed: errs.append(f"required source missing: {url}")
     if "section_min_slides" in ex:  # a deep lesson gives every source a URL; older lessons cite books and articles without one
         errs += [f"reference {k} has no http(s) URL" for k, r in refs.items() if not URL.search(r)]
     indep = {}  # one source per distinct address: the same URL under several labels counts once
     for k, r in refs.items():
         if (m := URL.search(r)) and (urlsplit(m.group(0)).hostname or "").lower() != TEXTBOOK:
-            u = urlsplit(m.group(0).rstrip(".,;)"))  # scheme and host are case-insensitive, the path is not
-            indep.setdefault((u.scheme.lower(), u.netloc.lower(), u.path.rstrip("/"), u.query), k)
+            indep.setdefault(norm_url(m.group(0)), k)
     indep = list(indep.values())
     if len(indep) < ex.get("min_independent_sources", 0):
         errs.append(f"independent sources {len(indep)} < {ex['min_independent_sources']}")
@@ -137,14 +143,15 @@ def check(root, lid):
     S = sl["slides"]
     bad = [f"slide {i} lacks {k!r} of the right type" for i, s in enumerate(S, 1) for k, kind in FIELDS.items()
            if not isinstance(s.get(k), kind)]
-    bad += [f"slide {i} has a bullet that is not text" for i, s in enumerate(S, 1) if isinstance(s.get("bullets"), list)
-            and not all(isinstance(b, str) for b in s["bullets"])]
+    bad += [f"slide {i} has a bullet that is not text or is blank" for i, s in enumerate(S, 1) if isinstance(s.get("bullets"), list)
+            and not all(isinstance(b, str) and b.strip() for b in s["bullets"])]
     bad += [f"slide {i} has a source that is not text" for i, s in enumerate(S, 1) if isinstance(s.get("sources"), list)
             and not all(isinstance(b, str) for b in s["sources"])]
     bad += [f"slide {i}: body is not text" for i, s in enumerate(S, 1) if "body" in s and not isinstance(s["body"], str)]
-    bad += [f"slide {i}: facts must be a list of {{label, text}} with text values" for i, s in enumerate(S, 1) if "facts" in s
+    bad += [f"slide {i}: facts must be a list of {{label, text}} with non-blank text values" for i, s in enumerate(S, 1) if "facts" in s
             and not (isinstance(s["facts"], list) and all(isinstance(f, dict) and isinstance(f.get("label"), str)
-                                                          and isinstance(f.get("text"), str) for f in s["facts"]))]
+                                                          and isinstance(f.get("text"), str) and f["label"].strip()
+                                                          and f["text"].strip() for f in s["facts"]))]
     bad += [f"slide {i}: images must be a list of entries with non-empty text values and an http(s) url" for i, s in enumerate(S, 1) if "images" in s
             and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) and m[k].strip() for k in IMG_KEYS)
                                                            and URL.fullmatch(m["url"].strip())

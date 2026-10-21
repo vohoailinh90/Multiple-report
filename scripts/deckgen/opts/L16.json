@@ -1,0 +1,21 @@
+{
+ "topic_label": "Kỹ thuật · Bài L16",
+ "motif": "rings",
+ "question": "Agent AI làm việc khi bạn đã tắt máy: đáng tiền đến đâu?",
+ "cards": [
+  "Máy tính đám mây",
+  "Nhóm Bot",
+  "Routine và connector",
+  "Giá và rủi ro"
+ ],
+ "concepts": ["máy tính đám mây", "phê duyệt", "connector", "early beta", "SuperGrok"],
+ "mark": {
+  "1": "đáng tiền",
+  "20": "chạy tiếp khi bạn đã tắt laptop",
+  "30": "đổi lấy sự tiện"
+ },
+ "center": {
+  "14": "Grok Bot",
+  "24": "Grok Bot"
+ }
+}

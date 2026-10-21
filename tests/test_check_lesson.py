@@ -118,7 +118,7 @@ class GateTests(unittest.TestCase):
         self.assertIn("slide cites S9, not in the reference list: Hai phía", errs)
 
     def test_images_only_on_layouts_that_draw_them(self):
-        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "https://example.org/x.png"}]
         (self.root / "lessons" / "L99" / "images").mkdir()
         (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
         errs, _ = self.run_gate(self.mutated(4, images=img))
@@ -126,7 +126,7 @@ class GateTests(unittest.TestCase):
         self.assertIn("figure needs images: Ba bước", self.run_gate(self.mutated(4, layout="figure"))[0])
 
     def test_three_text_heavy_slides_in_a_row_are_refused(self):
-        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "https://example.org/x.png"}]
         (self.root / "lessons" / "L99" / "images").mkdir()
         (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
         heavy = self.mutated(3, layout="annotated-figure", body=" ".join(["chữ"] * 50), images=img, bullets=[])
@@ -227,7 +227,7 @@ class GateTests(unittest.TestCase):
         self.assertIn("slide 5 has a bullet that is not text", errs)
 
     def test_a_slide_the_renderer_cannot_draw_is_an_error_but_a_missing_moda_id_is_a_warning(self):
-        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "https://example.org/x.png"}]
         (self.root / "lessons" / "L99" / "images").mkdir()
         (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
         errs, warn = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
@@ -247,7 +247,7 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(4, sources=["S5", 5]))
         self.assertIn("slide 5 has a source that is not text", errs)
         errs, _ = self.run_gate(self.mutated(4, layout="figure", images=["x.png"], bullets=["một"]))
-        self.assertIn("slide 5: images must be a list of entries with non-empty text values", errs)
+        self.assertIn("slide 5: images must be a list of entries with non-empty text values and an http(s) url", errs)
 
     def test_a_reference_label_must_be_the_one_the_renderer_draws(self):
         """gen.references labels a card with the text before ': ', else with its position."""
@@ -257,7 +257,7 @@ class GateTests(unittest.TestCase):
     def test_image_credit_url_and_alt_must_not_be_blank(self):
         img = [{"file": "images/x.png", "alt": "a", "credit": " ", "url": ""}]
         errs, _ = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
-        self.assertIn("slide 5: images must be a list of entries with non-empty text values", errs)
+        self.assertIn("slide 5: images must be a list of entries with non-empty text values and an http(s) url", errs)
 
     def test_a_lesson_marked_vietnamese_must_be_written_in_vietnamese(self):
         english = LESSON.replace(FILLER, " ".join(["plain english words without marks"] * 12))
@@ -275,6 +275,23 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(lesson=lesson, expected=shallow)
         self.assertNotIn("reference S2 has no http(s) URL", errs, "older lessons may cite a book without a URL")
         self.assertIn("independent sources 3 < 4", errs, "but a source without a URL is never counted as independent")
+
+    def test_an_image_url_must_be_a_web_link(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "unknown"}]
+        errs, _ = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
+        self.assertIn("slide 5: images must be a list of entries with non-empty text values and an http(s) url", errs)
+
+    def test_a_malformed_slides_file_is_reported_not_crashed(self):
+        for bad in ({"title": "Bài thử", "subtitle": "s"}, {"title": "Bài thử", "subtitle": "s", "slides": "x"},
+                    {"title": "Bài thử", "subtitle": "s", "slides": []}, {"title": "t", "subtitle": "s", "slides": [1]}, ["x"]):
+            (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+            (self.root / "lessons" / "L99" / "slides.json").write_text(json.dumps(bad, ensure_ascii=False), encoding="utf-8")
+            (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+            errs, _, _ = gate.check(self.root, "L99")
+            with self.subTest(bad=bad):
+                self.assertEqual(errs, ['slides.json must be an object with a non-empty list "slides" of objects'])
+        (self.root / "lessons" / "L99" / "slides.json").write_text("{", encoding="utf-8")
+        self.assertTrue(gate.check(self.root, "L99")[0][0].startswith("slides.json is not valid JSON"))
 
     def test_the_cover_must_be_drawable(self):
         d = {"title": "Bài thử", "slides": SLIDES}  # no subtitle

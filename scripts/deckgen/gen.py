@@ -263,7 +263,10 @@ def big(p, n, s, o, idx):
     size = 300
     while size > 120 and len(num) * size * 0.6 > 1728:
         size -= 20
-    out = [f'<text x="{M}" y="260" width="1728" height="360" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{a}" max-lines="1" vertical-align="middle">{x(num)}</text>']
+    one_line = len(num) * size * 0.6 <= 1728
+    if not one_line:  # a long value (the slide title when opts has no "big") wraps and shrinks instead of being clipped
+        size = fit(num, 1728, 360, 120, 1.0, 40, 0.6)
+    out = [f'<text x="{M}" y="260" width="1728" height="360" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{a}"{" max-lines=" + chr(34) + "1" + chr(34) if one_line else ""} line-height="1.0" vertical-align="middle">{x(num)}</text>']
     bl = list(s["bullets"][:3])
     if bl and bl[0].startswith(num):
         bl[0] = bl[0][len(num):].strip()
@@ -535,10 +538,11 @@ def overflows(markup):
     bad = []
     for node in ET.fromstring(markup).iter("text"):
         text = html.unescape("".join(node.itertext()))
-        if len(text) < 20 or node.get("font-family") == "Bricolage Grotesque":
+        if len(text) < 20 and node.get("font-family") != "Bricolage Grotesque":
             continue
+        display = node.get("font-family") == "Bricolage Grotesque"  # wider glyphs, tighter leading
         w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
-        if lines(text, w, size, 0.55) * size * 1.15 > h * 1.05:
+        if lines(text, w, size, 0.58 if display else 0.55) * size * (1.08 if display else 1.15) > h * 1.05:
             bad.append(text)
     return bad
 

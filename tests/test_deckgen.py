@@ -163,6 +163,22 @@ class GenTests(unittest.TestCase):
             mk.build("L90", "đổi", "s", "nao-bo", {}, [], [])
         self.assertEqual((root / "lessons" / "L90.expected.json").read_text(encoding="utf-8"), written)
 
+    def test_a_long_big_number_wraps_and_shrinks_instead_of_being_clipped(self):
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        title = "Một tiêu đề dài bảy mươi lăm ký tự dùng làm số lớn khi không có giá trị riêng " + "x" * 5
+        slide = {"title": title, "section": "A", "sources": [], "bullets": ["một"], "notes": "", "layout": "one-big-number", "tone": "dark"}
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+        markup = gen.page("L09", 1, {}, path)
+        self.assertEqual(gen.overflows(markup), [])
+        node = next(t for t in ET.fromstring(markup).iter("text") if t.get("font-family") == "Bricolage Grotesque" and t.get("height") == "360")
+        self.assertLess(int(node.get("font-size")), 120)
+        self.assertIsNone(node.get("max-lines"))
+        short = gen.page("L09", 1, {"big": {"1": "86 tỷ"}}, path)
+        node = next(t for t in ET.fromstring(short).iter("text") if t.get("height") == "360")
+        self.assertEqual((node.get("font-size"), node.get("max-lines")), ("300", "1"))
+
     def test_fit_shrinks_long_text_but_not_below_the_floor(self):
         short, long = "một câu ngắn", " ".join(["chữ"] * 400)
         self.assertEqual(gen.fit(short, 600, 200, 40), 40)

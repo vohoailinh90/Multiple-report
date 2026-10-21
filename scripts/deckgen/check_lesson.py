@@ -80,7 +80,13 @@ def check(root, lid):
     base = root / "lessons" / lid
     body = (base / "lesson.md").read_text(encoding="utf-8")
     sl_path = base / "slides.json"
-    sl = json.loads(sl_path.read_text(encoding="utf-8"))
+    try:
+        sl = json.loads(sl_path.read_text(encoding="utf-8"))
+    except ValueError as e:
+        return [f"slides.json is not valid JSON: {e}"], [], f"{lid}: slides.json is malformed"
+    if not (isinstance(sl, dict) and isinstance(sl.get("slides"), list) and sl["slides"]
+            and all(isinstance(s, dict) for s in sl["slides"])):
+        return ['slides.json must be an object with a non-empty list "slides" of objects'], [], f"{lid}: slides.json is malformed"
     ex = json.loads((root / "lessons" / f"{lid}.expected.json").read_text(encoding="utf-8"))
     errs, warn = [], []
     fm = re.match(r"---\n(.*?)\n---\n# ([^\n]+)\n", body, re.S)
@@ -127,8 +133,9 @@ def check(root, lid):
     bad += [f"slide {i}: facts must be a list of {{label, text}} with text values" for i, s in enumerate(S, 1) if "facts" in s
             and not (isinstance(s["facts"], list) and all(isinstance(f, dict) and isinstance(f.get("label"), str)
                                                           and isinstance(f.get("text"), str) for f in s["facts"]))]
-    bad += [f"slide {i}: images must be a list of entries with non-empty text values" for i, s in enumerate(S, 1) if "images" in s
+    bad += [f"slide {i}: images must be a list of entries with non-empty text values and an http(s) url" for i, s in enumerate(S, 1) if "images" in s
             and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) and m[k].strip() for k in IMG_KEYS)
+                                                           and URL.fullmatch(m["url"].strip())
                                                            for m in s["images"]))]
     if not isinstance(sl.get("subtitle"), str): bad.append("slides.json needs a text subtitle (drawn on the cover)")
     if bad:

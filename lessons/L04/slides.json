@@ -3,301 +3,834 @@
   "subtitle": "Não bộ · Bài L04",
   "slides": [
     {
-      "title": "Não trái logic, não phải sáng tạo: đúng hay sai?",
+      "title": "Câu hỏi của bài",
       "section": "Tóm tắt",
       "sources": [
-        "S4"
+        "S10"
       ],
-      "bullets": [
-        "Chuyên biệt hóa có thật, theo từng chức năng"
-      ],
-      "notes": "Bài xem vỏ não trước trán điều hành thế nào và hai bán cầu khác nhau ra sao, rồi trả lời câu hỏi mở bài.",
       "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "tone": "light",
+      "bullets": [
+        "Não trái logic, não phải sáng tạo: đúng hay sai?",
+        "Đi qua thùy trán, vỏ não trước trán và hai bán cầu",
+        "Mỗi ý mang nhãn: giáo khoa, đang tranh luận hoặc suy luận của người viết"
+      ],
+      "notes": "Mở bài bằng câu chuyện hai người bạn cãi nhau xem ai thiên về não trái, ai thiên về não phải. Câu hỏi này quen thuộc đến mức nhiều người coi nó là chuyện đã xong. Bài sẽ không trả lời ngay mà đi qua hai phần: thùy trán làm gì trong cử động, lời nói và kiểm soát bản thân, rồi hai bán cầu khác nhau ở đâu. Điều cần dặn người nghe: mỗi khẳng định trong bài mang một nhãn. Giáo khoa là điều sách và nguồn đồng thuận nói. Đang tranh luận là điều có nguồn nhưng giới nghiên cứu chưa thống nhất. Suy luận của người viết là chỗ tôi tự nối ý, không phải nguồn nói. Chỗ dễ nhầm: một nhãn không làm khẳng định đúng hơn, chỉ cho biết nên tin ở mức nào."
     },
     {
-      "title": "Ba điều của bài",
+      "title": "Bản đồ bài: bốn chặng",
       "section": "Tóm tắt",
       "sources": [
         "S1",
-        "S2",
         "S3",
-        "S4"
+        "S5",
+        "S10"
       ],
-      "bullets": [
-        "Vỏ não trước trán: trung tâm điều hành",
-        "Hai bán cầu: chuyên biệt hóa thật",
-        "Không có người não trái hay não phải"
-      ],
-      "notes": "Kết luận ngắn của bài.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "bullets": [
+        "Thùy trán: cử động, vùng Broca, vỏ não trước trán",
+        "Chức năng điều hành: giữ, kìm, đổi và tranh luận",
+        "Phineas Gage: phần đã kiểm và phần thêm vào",
+        "Hai bán cầu: chuyên biệt hóa theo chức năng"
+      ],
+      "notes": "Bài đi theo bốn chặng. Chặng một là thùy trán: từ vỏ vận động gửi lệnh xuống tủy sống, qua vùng Broca với lời nói, đến vỏ não trước trán. Chặng hai là chức năng điều hành, tức ức chế, bộ nhớ làm việc và linh hoạt nhận thức, cùng câu hỏi vùng nào làm việc nào. Chặng ba là Phineas Gage, nơi tôi tách điều đã kiểm khỏi điều hậu thế thêm vào, và kiểm soát bản thân. Chặng bốn là hai bán cầu: thể chai, nghiên cứu não bị tách, rồi nghiên cứu 1.011 người về chuyện não trái, não phải. Gợi ý khi giảng: hỏi người nghe đoán câu trả lời của chặng bốn trước khi chiếu nó. Chỗ dễ nhầm là nghĩ bài chỉ nói về thùy trán, trong khi nửa sau là về hai bán cầu."
     },
     {
-      "title": "Thùy trán và vỏ não trước trán",
+      "title": "Ba ý đáng mang theo",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S10"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Vỏ não trước trán giữ mục tiêu và điều chỉnh hành vi qua các vùng khác [S4]",
+        "Chức năng điều hành là các năng lực liên quan nhau; chuyện một vùng một việc còn tranh luận [S5] [S6] [S7]",
+        "Chuyên biệt hóa là có thật, nhưng theo chức năng và mạng chứ không theo kiểu người [S1] [S10]"
+      ],
+      "notes": "Nếu người nghe chỉ nhớ ba ý, hãy là ba ý này. Ý một: vỏ não trước trán không phải bộ chỉ huy duy nhất, theo lý thuyết của Miller và Cohen nó gửi tín hiệu thiên lệch cho các vùng khác. Ý hai: chức năng điều hành là cách chia để mô tả; Miyake thấy ba chức năng tách được nhưng có liên quan, còn Aron và cộng sự cho thấy ngay chuyện gán chức năng cho vùng cũng đang tranh luận. Ý ba: hai bán cầu khác nhau thật, ví dụ ngôn ngữ nghiêng trái với đa số người, nhưng nghiên cứu 1.011 người của Nielsen không phù hợp với một kiểu người não trái hay não phải. Chỗ dễ nhầm: không có nghĩa hai bán cầu giống hệt nhau; chúng khác ở từng chức năng."
+    },
+    {
+      "title": "Thùy trán: từ cử động đến kế hoạch",
       "section": "Thùy trán và vỏ não trước trán",
       "sources": [
-        "S1",
-        "S2"
+        "S1"
       ],
+      "layout": "explainer",
+      "tone": "dark",
       "bullets": [
-        "Thùy trán: phía trước mỗi bán cầu",
-        "Vỏ não trước trán: phần trước nhất"
+        "Ở đâu: phía trước rãnh trung tâm",
+        "Làm gì: cử động, chú ý, ngôn ngữ, lập luận",
+        "Đừng hiểu nhầm: thùy trán không chỉ là vỏ não trước trán"
       ],
-      "notes": "Hai khái niệm hay bị lẫn. Nghiên cứu về kiểm soát chủ yếu nói về vỏ não trước trán. Nối với L00: một đường dopamine đi từ não giữa lên vỏ não trước trán.",
-      "layout": "two-column-comparison",
-      "tone": "light"
+      "body": "Thùy trán (**frontal lobe**) nằm ở phía trước mỗi bán cầu, ngăn với thùy đỉnh bằng rãnh trung tâm [S1]. Theo giáo trình, nó tham gia lập kế hoạch và thực hiện cử động, cùng các quá trình nhận thức bậc cao như chú ý, ngôn ngữ, lập luận, giải quyết vấn đề và tư duy trừu tượng [S1]. Từ sau ra trước, nó gồm **vỏ vận động chính**, vùng tiền vận động cùng vùng nhìn trán, rồi **vỏ não trước trán** [S1]. Tổn thương thùy trán có thể đổi nhân cách, ra quyết định và ức chế hành vi, tùy vị trí [S1].",
+      "notes": "Rãnh trung tâm là mốc: phía trước nó là thùy trán, phía sau là thùy đỉnh. Giáo trình mô tả thùy trán gồm các vùng con làm việc chuyên biệt, đi từ sau ra trước là vỏ vận động chính, vùng tiền vận động cùng vùng nhìn trán, rồi vỏ não trước trán. Ví dụ của người viết: khi bạn cầm cốc nước lên, vỏ vận động tham gia thực hiện cử động, còn việc nhớ mình đang định làm gì thuộc về phía trước hơn. Chỗ dễ nhầm thứ nhất: thùy trán và vỏ não trước trán không phải một; các nghiên cứu về kiểm soát mà bài này dẫn chủ yếu nói về vỏ não trước trán. Chỗ dễ nhầm thứ hai: câu nói thùy trán làm việc cao cấp chỉ là cách nói đại thể."
     },
     {
-      "title": "Vỏ não trước trán trên hình",
-      "bullets": [
-        "Dorsolateral: vùng lưng bên",
-        "Ventrolateral: vùng bụng bên",
-        "Orbitofrontal: vùng ổ mắt"
-      ],
-      "notes": "Các số trong hình là vùng Brodmann.",
+      "title": "Vỏ não trước trán và các vùng con",
       "section": "Thùy trán và vỏ não trước trán",
       "sources": [
         "S1"
       ],
       "layout": "figure",
-      "tone": "dark",
+      "tone": "light",
+      "bullets": [
+        "Dorsolateral: lưng bên, vùng 9 và 46",
+        "Ventrolateral: bụng bên, có vùng Broca (44, 45)",
+        "Orbitofrontal: ổ mắt, vùng 10 và 11",
+        "Motor cortex: vỏ vận động, vùng 4"
+      ],
       "images": [
         {
           "file": "images/vo-nao-truoc-tran.png",
           "alt": "Vỏ não trước trán và các vùng con",
-          "credit": "Wikipedia, CC BY-SA, chỉnh bởi Hove & Martinez; Hove & Martinez, Hình 15 (chương 2)",
+          "credit": "Wikipedia, CC BY-SA, chỉnh bởi Hove & Martinez; Hove & Martinez, Hình 15 (mục 2.6)",
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
         }
-      ]
+      ],
+      "notes": "Đây là hình nhìn từ bên trái. Phần màu xanh là vỏ não trước trán; các con số là vùng Brodmann, hệ đánh số vùng vỏ não theo cấu trúc vi thể mà Korbinian Brodmann xây dựng đầu thế kỷ 20. Cách đọc hình: bắt đầu từ rãnh trung tâm, lùi ra phía trước sẽ gặp vỏ vận động và tiền vận động, rồi đến ba nhóm vùng con của vỏ não trước trán. Chỗ dễ nhầm: ranh giới các vùng trên hình là quy ước để gọi tên, không phải đường kẻ thật trên não. Nhãn tiếng Anh nên giữ nguyên vì sách vở và bài báo dùng tên này. Ví dụ của người viết: coi hình như bản đồ hành chính, cho biết ai ở khu nào chứ không nói họ chỉ làm một việc."
     },
     {
-      "title": "Vỏ não trước trán làm gì",
-      "section": "Vỏ não trước trán làm gì",
+      "title": "Vỏ não trước trán: thẻ hồ sơ",
+      "section": "Thùy trán và vỏ não trước trán",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Phần trước nhất của thùy trán, phía trước vỏ vận động và tiền vận động [S1]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Vùng lưng bên (9, 46), vỏ ổ mắt (10, 11), phần dưới có vùng Broca (44, 45) [S1]"
+        },
+        {
+          "label": "Vai trò chính",
+          "text": "Chức năng điều hành, nhận thức bậc cao; lý thuyết: kiểm soát nhận thức [S1] [S4]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Đường dopamine từ vùng mái bụng lên vỏ não trước trán: xem L00 và L03"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Đổi nhân cách, ra quyết định, ức chế hành vi, chức năng xã hội, tùy vị trí [S1]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Không phải bộ chỉ huy duy nhất: làm việc qua các vùng khác [S4]"
+        }
+      ],
+      "notes": "Thẻ hồ sơ giúp so sánh các bộ phận não theo cùng một khung. Ở đâu và Gồm lấy từ giáo trình mục 2.6. Vai trò chính có hai tầng: tầng giáo khoa là chức năng điều hành và nhận thức bậc cao, tầng lý thuyết là kiểm soát nhận thức của Miller và Cohen. Mục Kết nối chỉ dẫn sang L00 và L03 vì chủ sở hữu của dopamine là các bài đó. Khi tổn thương, giáo trình liệt kê đổi nhân cách, nhận thức, học tập, ra quyết định, đánh giá rủi ro, ức chế hành vi và chức năng xã hội, tùy vị trí và mức độ. Chỗ dễ nhầm: đây không phải danh sách triệu chứng của một người cụ thể, và không dùng để chẩn đoán."
+    },
+    {
+      "title": "Thùy trán và vỏ não trước trán: hai khái niệm",
+      "section": "Thùy trán và vỏ não trước trán",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Thùy trán: gồm vỏ vận động chính, tiền vận động, vùng nhìn trán và vỏ não trước trán",
+        "Vỏ não trước trán: phần trước nhất; phần lớn nghiên cứu về kiểm soát nói về vùng này",
+        "Đừng gộp làm một: nói thùy trán kiểm soát hành vi là nói quá rộng"
+      ],
+      "notes": "Slide này sửa một lẫn lộn hay gặp. Thùy trán là cả khối phía trước rãnh trung tâm, trong đó có vỏ vận động gửi lệnh xuống tủy sống. Vỏ não trước trán chỉ là phần trước nhất. Khi một bài báo nói vỏ não trước trán duy trì mục tiêu, ta không được đọc thành cả thùy trán làm việc đó. Giáo trình còn nêu hai ý rộng: các vùng càng ở phía trước càng gắn với nhận thức cao theo kiểu đại thể, và ở người các vùng trước trán lớn không cân xứng, đã mở rộng hoặc tổ chức lại so với loài xa người trên cây tiến hóa. Chỗ dễ nhầm: lớn hơn không có nghĩa là quan trọng hơn mọi vùng khác; sách không nói vậy."
+    },
+    {
+      "title": "Bản đồ vận động trên vỏ não",
+      "section": "Vỏ não vận động và vùng Broca",
+      "sources": [
+        "S1"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "bullets": [
+        "Digit: ngón tay, vùng rộng",
+        "Lips: môi, vùng rất rộng",
+        "Trunk: thân, vùng hẹp"
+      ],
+      "body": "Vỏ vận động chính nằm trên hồi trước trung tâm, ngay trước rãnh trung tâm, và gửi lệnh xuống tủy sống để cử động cơ xương [S1]. Các khu của nó xếp theo thứ tự ứng với nhóm cơ. Bộ phận cần điều khiển tinh vi như ngón tay, môi và lưỡi chiếm nhiều **bất động sản thần kinh** hơn vai hay thân [S1].",
+      "images": [
+        {
+          "file": "images/vo-nao-van-dong.png",
+          "alt": "Vỏ vận động chính trên hồi trước trung tâm và bản đồ các bộ phận cơ thể",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 14 (mục 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình bên phải là lát cắt hồi trước trung tâm, vỏ vận động chính, được vẽ ra để thấy từng khu ứng với bộ phận nào của cơ thể. Điều đáng chú ý là kích thước khu không tỉ lệ với kích thước bộ phận: môi và ngón tay chiếm nhiều chỗ hơn vai hay thân vì chúng cần điều khiển tinh vi. Người ta hay gọi bản đồ kiểu này là homunculus, người tí hon trên vỏ não. Chỗ dễ nhầm: không phải mỗi cơ có một nút bấm riêng. Giáo trình chỉ nói các khu xếp theo thứ tự ứng với nhóm cơ. Ví dụ của người viết: gõ phím nhanh cần nhiều nơron điều khiển ngón tay hơn là nhún vai. Mỗi bên não điều khiển bên đối diện của cơ thể."
+    },
+    {
+      "title": "Từ ý định đến cử động (sơ đồ đơn giản hóa của người viết)",
+      "section": "Vỏ não vận động và vùng Broca",
+      "sources": [
+        "S1"
+      ],
+      "layout": "flow",
+      "tone": "light",
+      "bullets": [
+        "Phía trước: ý định và mục tiêu",
+        "Tiền vận động: lập kế hoạch cử động",
+        "Vỏ vận động chính (vùng 4): gửi lệnh",
+        "Tủy sống: đưa lệnh tới cơ xương"
+      ],
+      "notes": "Đây là sơ đồ của người viết để dễ hình dung, không phải sơ đồ giáo trình vẽ. Giáo trình chỉ nêu vai trò từng vùng: tiền vận động liên quan đến lập kế hoạch cử động, vỏ vận động chính chứa nơron gửi lệnh xuống tủy sống để cử động cơ xương. Việc nối chúng thành dây chuyền một chiều là suy luận của người viết. Ví dụ của người viết: bạn quyết định với lấy ly nước, kế hoạch với tay được chuẩn bị, rồi lệnh đi xuống. Chỗ dễ nhầm: vỏ vận động chính không tự quyết định cử động; nó là nơi gửi lệnh. Trong thực tế các vùng trao đổi qua lại, không chỉ đi theo một chiều."
+    },
+    {
+      "title": "Vùng Broca: tạo ra lời nói",
+      "section": "Vỏ não vận động và vùng Broca",
       "sources": [
         "S1",
         "S2"
       ],
+      "layout": "explainer",
+      "tone": "dark",
       "bullets": [
-        "Giữ mục tiêu trong đầu",
-        "Chọn cách làm phù hợp",
-        "Điều chỉnh khi hoàn cảnh đổi",
-        "Dẫn hoạt động ở các vùng khác"
+        "Ở đâu: vỏ não dưới trán, thường bên trái",
+        "Làm gì: tạo ra lời nói",
+        "Đừng hiểu nhầm: vùng hiểu lời nói (Wernicke) ở thái dương, xem L08"
       ],
-      "notes": "Miller và Cohen: vỏ não trước trán duy trì mẫu hoạt động mã hóa mục tiêu và phương tiện, gửi tín hiệu thiên lệch cho vùng khác. Ví dụ điện thoại rung khi đang học là của người viết.",
-      "layout": "connection-diagram",
-      "tone": "dark"
+      "body": "Vùng Broca nằm ở phần dưới của **vỏ não trước trán**, thường lệch trái, và liên quan đến việc tạo ra lời nói [S1]. Năm 1861, bác sĩ Paul Broca ghi nhận tổn thương ở đây làm hỏng lời nói [S1]. Bệnh nhân Tan của ông chỉ nói được âm tiết \"tan\"; sau khi ông mất, Broca thấy tổn thương lớn ở thùy trán trái; một bệnh nhân khác bị tổn thương cùng phần cũng không nói trôi chảy [S2]. Từ đó Broca **suy ra** lời nói khu trú ở vùng này [S2].",
+      "notes": "Câu chuyện của Broca là một trong những khởi đầu của ý tưởng khu trú chức năng. Bệnh nhân Tan nói được đúng một âm tiết, và khi ông mất, Broca tìm thấy tổn thương lớn ở thùy trán trái. Một bệnh nhân khác cũng không nói trôi chảy và bị tổn thương cùng phần thùy trán trái. Từ đó Broca suy ra lời nói khu trú ở đó; chữ suy ra quan trọng, vì đó là bước nhảy từ quan sát sang kết luận. Thuật ngữ thường dùng cho kiểu mất lời nói này là mất ngôn ngữ biểu đạt, giáo trình chỉ mô tả bệnh nhân không nói trôi chảy. Chỗ dễ nhầm: hiểu lời nói không thuộc vùng Broca mà thuộc vùng Wernicke ở thùy thái dương, thuộc L08."
     },
     {
-      "title": "Người điều phối của nhóm",
-      "section": "Vỏ não trước trán làm gì",
-      "sources": [],
-      "bullets": [
-        "Không tự làm mọi việc, quyết định ai làm gì"
-      ],
-      "notes": "Cách ví von của người viết. Trong nghiên cứu, thuật ngữ thường dùng là kiểm soát điều hành (executive control).",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
-    },
-    {
-      "title": "Phineas Gage qua các mốc",
-      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "title": "Bộ não của bệnh nhân Tan",
+      "section": "Vỏ não vận động và vùng Broca",
       "sources": [
-        "S5"
-      ],
-      "bullets": [
-        "1848: thanh sắt xuyên thùy trán, ông sống sót",
-        "1868: Harlow mô tả thay đổi mạnh hơn",
-        "2008: Macmillan nói nhiều điều kể về Gage là sai"
-      ],
-      "notes": "Báo cáo 1848 nhắc rất ít đến thay đổi tâm lý. Macmillan còn là tác giả cuốn An Odd Kind of Fame (2000).",
-      "layout": "timeline",
-      "tone": "dark"
-    },
-    {
-      "title": "Mô phỏng đường đi của thanh sắt",
-      "bullets": [
-        "Tái dựng bằng máy tính",
-        "Màu sắc: các bó sợi chất trắng",
-        "Ước đoán, không phải ảnh chụp"
-      ],
-      "notes": "Mức tổn thương chính xác chỉ được suy ra về sau.",
-      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
-      "sources": [
-        "S7"
+        "S2"
       ],
       "layout": "figure",
       "tone": "light",
+      "bullets": [
+        "Left inferior frontal: thùy trán dưới bên trái, chỗ tổn thương",
+        "Tan: biệt danh bệnh nhân của Broca",
+        "Lọ bảo quản: giữ tại một bảo tàng ở Paris"
+      ],
+      "images": [
+        {
+          "file": "images/nao-cua-tan-broca.jpg",
+          "alt": "Bộ não của bệnh nhân Tan của Broca bảo quản trong lọ",
+          "credit": "Sorbonne Université, ảnh của người dùng Selbymay trên Wikimedia Commons, CC BY-SA 4.0; qua Hove & Martinez, Hình 2 (mục 4.2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/"
+        }
+      ],
+      "notes": "Đây là ảnh thật, không phải mô phỏng: bộ não của bệnh nhân Tan được bảo quản trong lọ. Theo chú thích của giáo trình, ở phía trên bên phải của lọ có thể thấy chỗ tổn thương ở thùy trán dưới bên trái, liên quan đến lời nói. Tấm ảnh cho thấy vì sao nghiên cứu tổn thương não ngày xưa rất giá trị: mỗi ca là một cơ hội hiếm để nối một chỗ hỏng với một mất mát cụ thể. Chỗ dễ nhầm: tổn thương của Tan còn do bệnh giang mai thần kinh, và giáo trình nhắc rằng tổn thương của mỗi bệnh nhân là riêng và hiếm khi chỉ ở một vùng. Vì vậy ảnh này là minh họa, không phải bằng chứng đóng."
+    },
+    {
+      "title": "Broca, Wernicke và bó cung",
+      "section": "Vỏ não vận động và vùng Broca",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "bullets": [
+        "Broca's area: vùng Broca, tạo lời nói",
+        "Wernicke's area: vùng Wernicke, hiểu lời nói",
+        "Arcuate fasciculus: bó cung nối hai vùng"
+      ],
+      "body": "Vùng Broca ở thùy trán trái liên quan đến tạo lời nói; vùng Wernicke ở phần trên thùy thái dương liên quan đến hiểu lời nói; bó cung nối hai vùng [S1]. Mẹo của giáo trình: BROca là PROduction ở FROntal, WERnicke là perception [S2]. Vùng Wernicke thuộc L08.",
+      "images": [
+        {
+          "file": "images/vung-broca-wernicke.png",
+          "alt": "Vùng Broca, vùng Wernicke và bó cung",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 16 (mục 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình cho thấy hai vùng ngôn ngữ kinh điển và bó sợi nối chúng. Vùng Broca màu xanh ở thùy trán trái; vùng Wernicke màu đỏ ở phần trên thùy thái dương; các mũi tên là bó cung. Giáo trình kể Wernicke thấy tổn thương ở vùng của ông đi kèm việc không hiểu lời nói, và hai phát hiện đi cặp tạo thành phân ly kép: hai chỗ tổn thương khác nhau gây hai mất mát khác nhau. Mẹo nhớ của giáo trình dùng ba chữ cái đầu: BROca là PROduction ở FROntal, WERnicke là perception. Chỗ dễ nhầm: hình là sơ đồ đơn giản, ngôn ngữ thật dùng mạng rộng hơn hai vùng này, như nghiên cứu Nielsen sẽ cho thấy."
+    },
+    {
+      "title": "Điều sách nói và điều là suy luận",
+      "section": "Vỏ não vận động và vùng Broca",
+      "sources": [
+        "S2",
+        "S10"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Sách nói: tổn thương dưới thùy trán trái làm hỏng việc tạo lời nói ở bệnh nhân của Broca [S2]",
+        "Suy luận và giới hạn: lời nói khu trú ở đây là bước suy ra; tổn thương mỗi ca là riêng và hiếm khi chỉ một vùng [S2]",
+        "Tổn thương của Tan còn do bệnh giang mai thần kinh · ngôn ngữ hiện được mô tả là mạng phân tán, nghiêng trái [S10]"
+      ],
+      "notes": "Slide này dạy cách đọc một chuyện kinh điển. Cột trái là điều sách nói: ở các bệnh nhân của Broca, tổn thương vùng dưới thùy trán trái đi cùng việc mất lời nói trôi chảy. Cột phải là chỗ suy luận: kết luận rằng lời nói khu trú ở vùng này là bước Broca suy ra. Giáo trình tự nêu giới hạn của loại bằng chứng này: tổn thương của mỗi người là riêng nên khó khái quát, và hiếm khi chỉ ở một vùng nên khó tách vai trò từng cấu trúc. Nielsen và cộng sự bổ sung bức tranh hiện đại: vùng Broca và Wernicke là một mạng phân tán chủ yếu nghiêng trái. Ví dụ của người viết: giống như nghe nói mất điện ở một phố rồi kết luận nhà máy điện ở đó."
+    },
+    {
+      "title": "Kiểm soát nhận thức theo Miller và Cohen",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [
+        "S4"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Mức: lý thuyết có tổng quan bằng chứng",
+        "Đừng hiểu nhầm: không phải bộ chỉ huy duy nhất",
+        "Chưa rõ: tóm tắt không tách bằng chứng từ người và động vật"
+      ],
+      "body": "Miller và Cohen (2001) đề xuất rằng **kiểm soát nhận thức** (cognitive control), khả năng điều phối suy nghĩ và hành động theo mục tiêu bên trong, đến từ việc vỏ não trước trán duy trì tích cực những mẫu hoạt động biểu diễn mục tiêu và phương tiện đạt mục tiêu [S4]. Các mẫu này gửi **tín hiệu thiên lệch** (bias signals) tới các cấu trúc khác, dẫn dòng hoạt động theo đúng đường thần kinh cho nhiệm vụ [S4]. Đây là lý thuyết, không phải giáo khoa.",
+      "notes": "Miller và Cohen đưa ra một lý thuyết tích hợp năm 2001. Ý chính có thể kể bằng lời thường: vỏ não trước trán giữ trong hoạt động của nó những mẫu biểu diễn mục tiêu và cách đạt mục tiêu, rồi dùng chúng để thiên lệch hoạt động ở nơi khác theo hướng phù hợp. Ví dụ của người viết: bạn đang đọc bài mà bạn bè nhắn tin; mục tiêu đọc bài được giữ, và nó thiên lệch bạn khỏi việc trả lời ngay. Chỗ dễ nhầm thứ nhất: đây là lý thuyết, tuy có nhiều loại bằng chứng, nên đừng nói nó là sự thật giáo khoa. Chỗ dễ nhầm thứ hai: tôi chỉ đọc tóm tắt, nên không biết phần nào của bằng chứng đến từ người, phần nào từ động vật."
+    },
+    {
+      "title": "Vỏ não trước trán gửi tín hiệu thiên lệch",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [
+        "S4"
+      ],
+      "layout": "connection-diagram",
+      "tone": "light",
+      "bullets": [
+        "Mục tiêu: mẫu hoạt động giữ mục tiêu",
+        "Phương tiện: cách đạt mục tiêu",
+        "Tín hiệu thiên lệch: gửi tới vùng khác",
+        "Đầu ra: hành động đúng nhiệm vụ"
+      ],
+      "notes": "Sơ đồ này vẽ lại ý của Miller và Cohen ở mức đơn giản. Nút giữa là vỏ não trước trán. Hai nút đầu vào là mục tiêu và phương tiện đạt mục tiêu, được giữ dưới dạng các mẫu hoạt động. Từ nút giữa, tín hiệu thiên lệch đi tới các cấu trúc khác, và hiệu quả chung là dẫn dòng hoạt động đến đúng đầu ra cho nhiệm vụ. Đây là mô hình để dễ hiểu, không phải sơ đồ chính xác từng nơron. Chỗ dễ nhầm: nút giữa không chỉ huy bằng lệnh trực tiếp mà thiên lệch hoạt động của nơi khác. Ví dụ của người viết: người điều phối nhóm không tự làm mọi việc, họ nghiêng cán cân để đúng người làm đúng việc."
+    },
+    {
+      "title": "Các vùng con của vỏ não trước trán và việc của chúng",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [
+        "S1"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Lưng bên (vùng 9, 46): bộ nhớ làm việc, lập kế hoạch, ức chế phản ứng, linh hoạt nhận thức",
+        "Ổ mắt (vùng 10, 11): quyết định phức tạp, giá trị, cảm xúc, tính xã hội, dự đoán hệ quả",
+        "Phần dưới (vùng 44, 45): vùng Broca, tạo lời nói",
+        "Đại thể: càng ở phía trước càng gắn với nhận thức cao, như học luật trừu tượng",
+        "Ở người: vùng trước trán lớn không cân xứng, đã mở rộng hoặc tổ chức lại"
+      ],
+      "notes": "Bảng này là phần tóm tắt từ giáo trình mục 2.6, nên nhãn là giáo khoa. Giáo trình lấy ý về vỏ ổ mắt từ một bài của Rudebeck và Rich năm 2018, và ý về sự mở rộng ở người từ Van Essen và cộng sự năm 2018; tôi không đọc trực tiếp hai bài này nên chỉ trình bày như giáo trình nói. Chữ đại thể trong dòng bốn rất quan trọng: giáo trình nói roughly, nghĩa là xu hướng chứ không phải quy tắc. Chỗ dễ nhầm thứ nhất: mỗi dòng không có nghĩa là vùng đó chỉ làm đúng việc đó; phần chức năng điều hành sẽ cho thấy chuyện này còn tranh luận. Chỗ dễ nhầm thứ hai: vai trò của vỏ ổ mắt trong cảm xúc được nói kỹ ở L09."
+    },
+    {
+      "title": "Người điều phối của nhóm (ví von)",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [
+        "S4"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Người điều phối không tự làm mọi việc, mà ảnh hưởng ai làm gì lúc nào",
+        "Ví dụ của người viết: điện thoại rung khi đang học",
+        "Đây chỉ là ví von; thuật ngữ nghiên cứu là kiểm soát nhận thức"
+      ],
+      "notes": "Slide này đặt một hình ảnh dễ nhớ cho ý của Miller và Cohen. Ví dụ của người viết: trong một nhóm, người điều phối không tự làm mọi việc mà nhắc ai làm gì, lúc nào. Vỏ não trước trán, theo lý thuyết, làm một việc giống thế bằng tín hiệu thiên lệch. Ví dụ khác của người viết: điện thoại rung khi bạn đang học, và khả năng nhớ mình đang học để làm gì là việc của loại hoạt động này. Hãy nói rõ với người nghe rằng đây là ví von. Chỗ dễ nhầm: không nên nói vỏ não trước trán là trung tâm điều hành theo nghĩa một bộ chỉ huy duy nhất, vì điều đó mâu thuẫn với chính lý thuyết, trong đó nó làm việc thông qua các vùng khác."
+    },
+    {
+      "title": "Ba chức năng điều hành theo Diamond",
+      "section": "Chức năng điều hành: bộ nhớ làm việc, ức chế, linh hoạt",
+      "sources": [
+        "S1",
+        "S5"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Ở đâu: vùng lưng bên là ứng viên (giáo trình)",
+        "Làm gì: ức chế, nhớ làm việc, linh hoạt",
+        "Đừng hiểu nhầm: không phải một năng lực duy nhất"
+      ],
+      "body": "**Chức năng điều hành** (executive functions) giúp ta \"chơi\" với ý tưởng trong đầu, dừng lại nghĩ trước khi làm, cưỡng lại cám dỗ và giữ tập trung [S5]. Diamond xác định ba chức năng nòng cốt: **ức chế** (gồm ức chế phản ứng và kiểm soát nhiễu), **bộ nhớ làm việc** và **linh hoạt nhận thức** [S5]. Giáo trình cũng gắn vùng lưng bên với bộ nhớ làm việc, lập kế hoạch, ức chế phản ứng và linh hoạt nhận thức [S1].",
+      "notes": "Adele Diamond viết một bài tổng quan năm 2013 về chức năng điều hành. Theo tóm tắt, chức năng điều hành cho phép ta chơi với ý tưởng trong đầu, dừng lại nghĩ trước khi hành động, đối phó với thử thách mới, cưỡng lại cám dỗ và giữ tập trung. Ba chức năng nòng cốt là ức chế, bộ nhớ làm việc và linh hoạt nhận thức. Ức chế gồm hai loại: ức chế phản ứng, tức tự kiểm soát, và kiểm soát nhiễu, tức chú ý chọn lọc. Giáo trình gắn vùng lưng bên của vỏ não trước trán với cả bốn việc: bộ nhớ làm việc, lập kế hoạch, ức chế phản ứng, linh hoạt nhận thức. Chỗ dễ nhầm: tôi chỉ đọc tóm tắt của Diamond, nên bài chỉ nói những gì tóm tắt nêu."
+    },
+    {
+      "title": "Ba chức năng nòng cốt",
+      "section": "Chức năng điều hành: bộ nhớ làm việc, ức chế, linh hoạt",
+      "sources": [
+        "S5"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Ức chế: kìm phản ứng bốc đồng, lọc nhiễu",
+        "Bộ nhớ làm việc: giữ và xử lý thông tin trong đầu",
+        "Linh hoạt nhận thức: đổi góc nhìn khi hoàn cảnh đổi"
+      ],
+      "notes": "Ba thẻ này là bản tóm tắt của ba chức năng nòng cốt trong tổng quan của Diamond. Ức chế gồm ức chế phản ứng, nghĩa là tự kiểm soát, cưỡng lại cám dỗ, không hành động bốc đồng, và kiểm soát nhiễu, nghĩa là chú ý chọn lọc. Linh hoạt nhận thức gồm nghĩ ngoài khuôn, nhìn từ góc khác, thích nghi nhanh khi hoàn cảnh đổi. Chữ giữ và xử lý thông tin trong đầu ở thẻ bộ nhớ làm việc là cách gọi giản lược của người viết. Chỗ dễ nhầm: ba thẻ không có nghĩa là ba vùng riêng; chuyện đó đang tranh luận, như hai slide sau cho thấy. Gợi ý khi giảng: hỏi người nghe ví dụ đời thường cho từng thẻ trước khi sang slide kế."
+    },
+    {
+      "title": "Ví dụ của người viết cho ba chức năng",
+      "section": "Chức năng điều hành: bộ nhớ làm việc, ức chế, linh hoạt",
+      "sources": [
+        "S5"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Ức chế: không mở mạng xã hội khi đang làm bài",
+        "Bộ nhớ làm việc: nhớ số điện thoại vừa nghe đủ lâu để bấm",
+        "Linh hoạt nhận thức: đổi cách giải khi cách cũ bế tắc"
+      ],
+      "notes": "Cả ba ví dụ trên slide này là ví dụ của người viết, không phải của Diamond hay giáo trình. Ví dụ ức chế: bạn muốn mở mạng xã hội nhưng đang làm bài, và bạn kìm lại. Ví dụ bộ nhớ làm việc: bạn nghe một số điện thoại và giữ nó trong đầu đủ lâu để bấm. Ví dụ linh hoạt nhận thức: bạn đang giải một bài toán, cách đầu bế tắc, và bạn đổi hướng. Điều đáng nói là trong đời thật các việc này đan vào nhau: khi học, bạn vừa giữ mục tiêu, vừa kìm điện thoại, vừa đổi cách ghi chép. Chỗ dễ nhầm: ví dụ đẹp không chứng minh cơ chế; nó chỉ giúp nhớ khái niệm."
+    },
+    {
+      "title": "Ba chức năng: tách biệt nhưng có liên quan",
+      "section": "Chức năng điều hành: bộ nhớ làm việc, ức chế, linh hoạt",
+      "sources": [
+        "S6"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Đo gì: hành vi của sinh viên, không đo não",
+        "Kết quả: ba chức năng tương quan vừa phải, tách biệt rõ",
+        "Đừng hiểu nhầm: không cho biết vùng não nào"
+      ],
+      "body": "Miyake và cộng sự (2000) cho 137 sinh viên làm các bài đo chuyển đổi tập, cập nhật thông tin và ức chế, cùng các bài \"thùy trán\" phức hợp [S6]. Ba chức năng **tương quan vừa phải nhưng tách biệt rõ**, và đóng góp khác nhau vào các bài phức hợp: Wisconsin liên hệ mạnh nhất với chuyển đổi tập, Tower of Hanoi với ức chế, operation span với cập nhật [S6]. Đây là nghiên cứu hành vi, không đo não.",
+      "notes": "Nghiên cứu của Miyake và cộng sự năm 2000 là một nghiên cứu về khác biệt cá nhân. Họ cho 137 sinh viên làm các bài tập đơn giản, mỗi bài chủ yếu đo một chức năng, rồi cho làm các bài phức hợp quen thuộc như Wisconsin Card Sorting Test và Tower of Hanoi. Phân tích thống kê cho thấy ba chức năng tương quan vừa phải nhưng tách biệt rõ, nên tên bài báo nói đến tính thống nhất và tính đa dạng. Suy luận của người viết: cập nhật của Miyake gần với bộ nhớ làm việc của Diamond, nhưng hai bài dùng thuật ngữ riêng. Chỗ dễ nhầm: nghiên cứu hành vi không nói vùng não nào làm việc nào; và mẫu là sinh viên đại học, nên khái quát cho người khác cần nghiên cứu khác."
+    },
+    {
+      "title": "Một vùng một việc? Còn tranh luận",
+      "section": "Chức năng điều hành: bộ nhớ làm việc, ức chế, linh hoạt",
+      "sources": [
+        "S7"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Truyền thống khu trú: ức chế gắn lần lượt với vùng lưng bên, dưới trán hoặc ổ mắt [S7]",
+        "Đề xuất của Aron và cộng sự: bản đồ tổn thương ở người ủng hộ vỏ não dưới trán phải [S7]",
+        "Nhãn: giả thuyết, đang tranh luận · ảnh học thần kinh cho thấy nhiều điểm trước trán tham gia [S7]"
+      ],
+      "notes": "Aron, Robbins và Poldrack mở bài của họ bằng một câu hỏi còn tranh luận: các chức năng nhận thức khác nhau có thể gán cho các vùng riêng của vỏ não trước trán hay không. Họ nói truyền thống khu trú từng gắn ức chế lần lượt với vùng lưng bên, vùng dưới trán và vùng ổ mắt. Theo họ, ảnh học thần kinh chỉ ra nhiều điểm trước trán, còn bản đồ tổn thương ở người ủng hộ việc khu trú ức chế ở vỏ não dưới trán phải. Họ đề nghị nghiên cứu thêm. Nhãn: giả thuyết, đang tranh luận. Chỗ dễ nhầm: đây là bài tổng quan nêu một đề xuất, không phải kết luận cuối. Điều rút ra: cả ba chức năng và việc gán vùng đều là cách chia để mô tả, không phải bản vẽ cuối cùng của não."
+    },
+    {
+      "title": "Phineas Gage qua các mốc (theo Macmillan)",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S3"
+      ],
+      "layout": "timeline",
+      "tone": "light",
+      "bullets": [
+        "13/9/1848: tai nạn, thanh sắt xuyên đầu",
+        "1848 và 1850: Harlow và Bigelow không nêu thay đổi tâm lý cụ thể",
+        "1851: tạp chí cốt tướng học nêu chi tiết đầu tiên",
+        "21/5/1860: Gage mất sau các cơn co giật",
+        "Cuối 1867 đến đầu 1868: khai quật, sọ đến tay Harlow",
+        "1868: báo cáo của Harlow mô tả thay đổi tâm lý"
+      ],
+      "notes": "Các mốc này lấy từ bài của Macmillan trên tạp chí The Psychologist. Điểm đáng chú ý của dòng thời gian là khoảng lặng: mô tả rõ về thay đổi tâm lý chỉ xuất hiện năm 1868, hai mươi năm sau tai nạn, trong một báo cáo ít được biết của Harlow. Trước đó Harlow năm 1848 và Bigelow năm 1850 không nêu thay đổi tâm lý cụ thể; Jackson năm 1849 chỉ ghi riêng một số suy giảm trí nhớ. Chỗ dễ nhầm: khoảng lặng không có nghĩa là không có thay đổi, mà là ta thiếu ghi chép đương thời. Macmillan giải thích một phần bằng việc thời đó chưa có lý thuyết nào về chức năng của não ngoài cốt tướng học, nên người ta ít để ý. Giáo trình ghi ông sống 12 năm, Macmillan viết mười một năm rưỡi."
+    },
+    {
+      "title": "Mô phỏng đường đi của thanh sắt",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S2"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "bullets": [
+        "Tamping iron: thanh sắt đầm thuốc nổ",
+        "White matter: chất trắng; màu là các bó sợi có thể bị cắt",
+        "Mô phỏng: tái dựng ước đoán, không phải ảnh chụp não"
+      ],
       "images": [
         {
           "file": "images/phineas-gage-mo-phong.jpg",
           "alt": "Mô phỏng đường đi của thanh sắt qua hộp sọ Phineas Gage",
-          "credit": "Van Horn JD và cộng sự, CC BY 2.5, Wikimedia Commons; qua Hove & Martinez, Hình 1 (chương 4)",
+          "credit": "Van Horn JD và cộng sự (2012), CC BY 2.5, Wikimedia Commons; qua Hove & Martinez, Hình 1 (mục 4.2)",
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/"
         }
-      ]
+      ],
+      "notes": "Hình này là bản mô phỏng bằng máy tính của Van Horn và cộng sự, cho thấy đường đi của thanh sắt qua hộp sọ và các bó chất trắng có thể bị cắt. Điều cần nói rõ khi chiếu: đây là tái dựng ước đoán, không phải ảnh chụp não của Gage, vì não ông không còn. Macmillan cũng nhắc rằng chấn động, mảnh xương, chảy máu và nhiễm trùng còn phá hủy thêm mô ngoài đường đi của thanh sắt, nên một đường vẽ đẹp vẫn chỉ là một phần của bức tranh. Giáo trình mô tả cùng đường đi: vào bên mặt, sau mắt trái, ra đỉnh đầu, và ông mất một phần thùy trán trái. Chỗ dễ nhầm: màu sắc đẹp dễ làm ta tin hơn mức hình xứng đáng; hãy đọc chú thích trước."
     },
     {
-      "title": "Điều chắc và điều còn tranh cãi",
+      "title": "Điều đã kiểm: chỉ có bốn nguồn gốc",
       "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S3"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Chắc: tai nạn, sống sót, mất năm 1860",
+        "Không chắc: mức tổn thương chính xác",
+        "Đừng hiểu nhầm: sách cũ cũng kể sai"
+      ],
+      "body": "Theo Macmillan, chỉ có bốn nguồn trực tiếp về Phineas Gage: Harlow (1848), Bigelow (1850), Harlow (1868) và Jackson (1870); điều gì không đến từ đó thì **không phải sự thật** về Gage [S3]. Chắc chắn: vụ nổ ngày 13/9/1848, thanh sắt vào dưới gò má trái và ra đỉnh sọ, ông sống sót và mất vì co giật ngày 21/5/1860 [S3]. Ngay cả bốn nguồn cũng có sai sót: Harlow ghi năm mất là 1861 [S3].",
+      "notes": "Đây là slide quan trọng nhất của phần Gage. Macmillan nói chỉ có bốn nguồn trực tiếp: Harlow 1848, Bigelow 1850, Harlow 1868 và Jackson 1870. Ông viết rằng điều gì không đến từ các nguồn này hoặc từ nguồn được ghi chép tương đương thì không phải là sự thật về Gage. Ông cũng nêu ví dụ rằng chính Harlow ghi Gage mất năm 1861 trong khi hồ sơ nhà tang lễ chứng tỏ là 1860, nên ngay nguồn gốc cũng cần đọc có phản biện. Chỗ dễ nhầm: nguồn gốc không có nghĩa là hoàn toàn đáng tin. Một cách dùng: khi gặp một chi tiết về Gage trong sách, hỏi nó đến từ bốn nguồn nào. Nếu không truy được, coi nó là điều chưa kiểm."
+    },
+    {
+      "title": "Điều thường kể và điều nguồn gốc ghi",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S3"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Thường kể: một Gage nóng nảy, nát rượu, hung bạo, bốc đồng suốt đời, chết nghèo [S3]",
+        "Nguồn gốc ghi: Macmillan khó nhận ra Gage thật trong đó; ông làm 18 tháng cho Currier rồi nhiều năm lái xe ngựa [S3]",
+        "Rối loạn tình dục không có trong nguồn · Harlow 1848 và Bigelow 1850 không nêu thay đổi cụ thể [S3]"
+      ],
+      "notes": "Cột trái là bức tranh tổng hợp mà Macmillan gom từ cách các tác giả hiện đại kể. Cột phải là điều ông thấy khi quay lại nguồn gốc. Ông nhận xét rằng khó nhận ra Gage thật trong bức tranh đó, tuy một số chi tiết, như việc ông từng diễn thuyết và trưng bày bản thân khoảng năm 1850, có trong tiểu sử. Về dài hạn, hơn một năm rưỡi làm cho chủ trạm xe ngựa Currier và nhiều năm lái xe ngựa đòi hỏi kỹ năng vận động và nhận thức phức tạp, khó khớp với bốc đồng suốt đời. Ông phỏng đoán Gage có thể đã hồi phục xã hội nhờ cuộc sống có nề nếp; đó là phỏng đoán của ông, không phải kết luận. Giáo trình cũng mô tả thay đổi mạnh; hai nguồn khớp ở hướng thay đổi, điều Macmillan đặt câu hỏi là độ dài và mức mà hậu thế kể."
+    },
+    {
+      "title": "Tổn thương nằm ở đâu? Không ai biết chắc",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Có: chiếc sọ của Gage",
+        "Không có: bộ não, khám nghiệm tử thi",
+        "Đừng hiểu nhầm: hình mô phỏng là ước đoán"
+      ],
+      "body": "Không có khám nghiệm tử thi và **não không còn**; chỉ có chiếc sọ để suy ra vùng tổn thương, mà chấn động, mảnh xương, chảy máu và nhiễm trùng còn phá hủy thêm mô [S3]. Ba cách dựng lại bằng chụp cắt lớp cho kết quả hơi khác: Damasio (1994) thiên về phía trước và lệch phải hơn, Ratiu (2004) thấy tổn thương thùy trán trái, gần như đúng như Harlow nói [S3]. Giáo trình ghi ông mất một phần thùy trán trái [S2].",
+      "notes": "Slide này giải thích vì sao ta không thể nói chắc mức tổn thương não của Gage. Không có khám nghiệm tử thi; thi thể được khai quật khoảng cuối năm 1867 và chiếc sọ đến tay Harlow đầu năm 1868, nhưng não không còn gì. Ngay cả khi biết chính xác đường đi của thanh sắt, chấn động, mảnh xương, chảy máu và nhiễm trùng vẫn phá hủy thêm mô. Từ năm 1982 có ba cách dựng lại bằng chụp cắt lớp, cho kết quả hơi khác nhau. Damasio và cộng sự mô hình hóa tổn thương thiên về phía trước và lệch phải hơn; Ratiu và cộng sự dựng từ chính chiếc sọ và thấy tổn thương ở thùy trán trái, gần như Harlow đã nói. Chỗ dễ nhầm: các bài báo dùng cùng dữ kiện có thể ra hình khác nhau."
+    },
+    {
+      "title": "Mức chắc chắn của câu chuyện Gage",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S3"
+      ],
+      "layout": "layers",
+      "tone": "dark",
+      "bullets": [
+        "Chắc: tai nạn năm 1848, sống sót, mất ngày 21/5/1860 [S3]",
+        "Có nguồn gốc nhưng sau 20 năm: mô tả thay đổi của Harlow năm 1868 [S3]",
+        "Không chắc: mức tổn thương chính xác, ba cách dựng lại khác nhau [S3]",
+        "Phỏng đoán của Macmillan: có thể đã hồi phục về xã hội [S3]",
+        "Hậu thế thêm vào: nát rượu, hung bạo, chết nghèo, rối loạn tình dục [S3]"
+      ],
+      "notes": "Slide này gom phần Gage thành năm tầng theo mức chắc chắn giảm dần, từ trên xuống. Tầng trên cùng là điều chắc: ngày tai nạn, việc ông sống sót, ngày mất. Tầng hai là điều có nguồn gốc nhưng đến sau hai mươi năm: mô tả thay đổi tâm lý của Harlow năm 1868. Tầng ba là điều không chắc: vùng tổn thương. Tầng bốn là phỏng đoán của Macmillan về hồi phục xã hội, phải ghi rõ tên ai phỏng đoán. Tầng dưới cùng là phần hậu thế thêm vào, theo tổng hợp của Macmillan. Bài học thực dụng, là suy luận của người viết: kiểm lại câu chuyện cũ được kể nhiều lần trước khi dùng làm bằng chứng. Macmillan kết luận giá trị chính của Gage là cột mốc lịch sử: ca đầu tiên được ghi nhận mà tổn thương não làm đổi nhân cách."
+    },
+    {
+      "title": "Chuỗi minh họa của người viết: cái phanh của não",
+      "section": "Kiểm soát bản thân: cái phanh của não",
+      "sources": [
+        "S4"
+      ],
+      "layout": "flow",
+      "tone": "light",
+      "bullets": [
+        "Cám dỗ xuất hiện: điện thoại rung",
+        "Vỏ não trước trán so với mục tiêu đã đặt",
+        "Kìm hành động lại",
+        "Hoặc cho phép hành động"
+      ],
+      "notes": "Đây là chuỗi minh họa do người viết dựng, dựa trên ý tín hiệu thiên lệch của Miller và Cohen, đã đơn giản hóa nhiều. Có một cám dỗ xuất hiện, ví dụ điện thoại rung khi bạn đang học. Vỏ não trước trán, theo mô hình, so nó với mục tiêu đã đặt. Kết quả là hoặc kìm hành động lại, hoặc cho phép hành động, và hộp quyết định ở giữa thể hiện sự rẽ nhánh này. Điều quan trọng là phải nói với người nghe đây là mô hình để dễ hiểu, không phải sơ đồ chính xác từng nơron. Chỗ dễ nhầm: chuỗi có vẻ như ai cũng đi đủ bốn bước một cách có ý thức, trong khi mô hình không nói vậy. Phần thưởng và cảm xúc thuộc các bài L05, L07 và L09."
+    },
+    {
+      "title": "Cái phanh: giả thuyết vỏ não dưới trán phải",
+      "section": "Kiểm soát bản thân: cái phanh của não",
+      "sources": [
+        "S7"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Mức: giả thuyết, đang tranh luận",
+        "Chưa rõ: có đúng với mọi loại nhiệm vụ không",
+        "Đừng hiểu nhầm: phanh chỉ là cách ví von"
+      ],
+      "body": "Aron, Robbins và Poldrack viết rằng **ức chế** được đề xuất là cơ chế qua đó vỏ não trước trán tác động lên các vùng dưới vỏ và vỏ não phía sau để thực hiện kiểm soát điều hành [S7]. Ảnh học thần kinh cho thấy nhiều điểm trước trán tham gia, còn bản đồ tổn thương ở người ủng hộ việc khu trú ức chế ở vỏ não dưới trán phải [S7]. Đây là **giả thuyết**, cần kiểm chứng thêm với các loại nhiệm vụ khác.",
+      "notes": "Chữ phanh là cách ví von của bài này để nói về ức chế. Aron, Robbins và Poldrack dùng chữ ức chế (inhibition) và viết rằng nó được đề xuất là một cơ chế qua đó vỏ não trước trán tác động lên các vùng dưới vỏ và vỏ não phía sau để thực hiện kiểm soát điều hành. Họ thấy ảnh học thần kinh chỉ ra nhiều điểm trước trán, còn bản đồ tổn thương ở người ủng hộ khu trú ức chế ở vỏ não dưới trán phải. Họ cũng nói cần kiểm chứng thêm xem chức năng này có tổng quát cho các loại nhiệm vụ khác không. Nhãn: giả thuyết. Chỗ dễ nhầm: đừng nói bán cầu phải là cái phanh; đó là một đề xuất cho một loại ức chế, còn đang bàn."
+    },
+    {
+      "title": "Điều kiện làm chức năng điều hành giảm (Diamond)",
+      "section": "Kiểm soát bản thân: cái phanh của não",
       "sources": [
         "S5"
       ],
+      "layout": "card-grid",
+      "tone": "light",
       "bullets": [
-        "Chắc: tai nạn xảy ra, ông sống sót",
-        "Tranh cãi: mức thay đổi tính cách",
-        "Bài học: kiểm tra lại chuyện cũ"
+        "Căng thẳng: làm giảm chức năng điều hành; kỹ hơn ở L05",
+        "Thiếu ngủ: tóm tắt nêu là một yếu tố làm giảm",
+        "Cô đơn: cũng được tóm tắt nêu",
+        "Thiếu vận động: cũng được tóm tắt nêu; chi tiết cần đọc toàn văn"
       ],
-      "notes": "Mức tổn thương chính xác của não chỉ được suy ra về sau.",
-      "layout": "two-column-comparison",
-      "tone": "light"
+      "notes": "Tóm tắt của Diamond nêu rằng căng thẳng, thiếu ngủ, cô đơn hay thiếu vận động mỗi thứ đều làm giảm chức năng điều hành, và rằng chức năng điều hành có thể được rèn luyện, với nhiều phương pháp đã thử. Tôi chỉ đọc tóm tắt, nên bài không nêu mức bằng chứng cho từng yếu tố hay phương pháp; muốn dùng vào đời thực cần đọc toàn văn. Đây là bài giáo dục, không phải lời khuyên y tế. Suy luận của người viết: nếu đúng, phanh phụ thuộc điều kiện, và khi mệt hay căng thẳng, khó kiềm chế không hẳn vì ý chí yếu. Chỗ dễ nhầm: hiểu thành cứ ngủ đủ là kiểm soát tốt; tóm tắt không nói vậy."
     },
     {
-      "title": "Cái phanh của não",
+      "title": "Căng thẳng và vỏ não trước trán (Arnsten)",
       "section": "Kiểm soát bản thân: cái phanh của não",
       "sources": [
-        "S2"
+        "S8"
       ],
+      "layout": "explainer",
+      "tone": "dark",
       "bullets": [
-        "Cám dỗ xuất hiện",
-        "So với mục tiêu đã đặt",
-        "Kìm lại hoặc cho phép",
-        "Hành động"
+        "Mức: tổng quan, chỉ đọc tóm tắt",
+        "Chưa rõ: phần nào từ người, phần nào từ động vật",
+        "Đừng hiểu nhầm: không phải lời khuyên y tế"
       ],
-      "notes": "Mô hình minh họa do người viết dựng, dựa trên ý tín hiệu thiên lệch của Miller và Cohen; không phải sơ đồ chính xác từng nơron.",
-      "layout": "flow",
-      "tone": "dark"
-    },
-    {
-      "title": "Căng thẳng và người điều phối",
-      "section": "Kiểm soát bản thân: cái phanh của não",
-      "sources": [
-        "S6"
-      ],
-      "bullets": [
-        "Căng thẳng có thể làm yếu vỏ não trước trán"
-      ],
-      "notes": "Arnsten tổng hợp tác động của căng thẳng lên cấu trúc và chức năng vỏ não trước trán. Sẽ gặp lại ở L05.",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "body": "Arnsten tổng hợp rằng vỏ não trước trán, nơi đảm nhiệm các năng lực nhận thức cao nhất, cũng là vùng nhạy nhất với tác hại của căng thẳng [S8]. Ngay căng thẳng cấp tính nhẹ nhưng không kiểm soát được cũng có thể gây mất nhanh và rõ rệt năng lực nhận thức ở đây; căng thẳng kéo dài làm đổi cấu trúc các sợi nhánh [S8]. Tóm tắt không tách người và động vật; xem L05 về căng thẳng.",
+      "notes": "Amy Arnsten tổng hợp năm 2009 về tác động của căng thẳng lên vỏ não trước trán. Theo tóm tắt, vỏ não trước trán đảm nhiệm các năng lực nhận thức cao nhất nhưng cũng là vùng nhạy nhất với tác hại của căng thẳng. Ngay căng thẳng cấp tính nhẹ nhưng không kiểm soát được cũng có thể gây mất nhanh năng lực nhận thức ở đây, còn căng thẳng kéo dài làm đổi cấu trúc sợi nhánh. Bà cũng mô tả các con đường tín hiệu trong tế bào làm trung gian. Tôi chỉ đọc tóm tắt, nên không biết kết luận đến từ người hay động vật ở mức nào. Căng thẳng thuộc L05, vai trò điều chỉnh cảm xúc của vỏ não trước trán thuộc L09. Chỗ dễ nhầm: không nên áp thẳng vào đời thường khi chưa xem toàn văn."
     },
     {
       "title": "Thể chai nối hai bán cầu",
       "section": "Hai bán cầu và thể chai",
       "sources": [
         "S1",
-        "S3"
+        "S10"
       ],
+      "layout": "connection-diagram",
+      "tone": "light",
       "bullets": [
-        "Thể chai: bó sợi nối hai bán cầu",
-        "Một số bệnh nhân từng bị cắt thể chai",
-        "Mỗi bán cầu có thế mạnh riêng"
+        "Bán cầu trái: ngôn ngữ nghiêng nhiều hơn [S1]",
+        "Bán cầu phải: chú ý bên ngoài nghiêng nhiều hơn [S10]",
+        "Thể chai: bó chất trắng lớn truyền thông tin [S1]",
+        "Đối bên: mỗi bên điều khiển bên kia cơ thể [S1]"
       ],
-      "notes": "Sperry, Bogen và Gazzaniga. Trong não bình thường hai bên phối hợp chặt chẽ nhờ thể chai.",
-      "layout": "card-grid",
-      "tone": "dark"
+      "notes": "Sơ đồ đặt thể chai ở giữa, nối hai bán cầu. Giáo trình mô tả thể chai là một bó chất trắng lớn truyền thông tin giữa hai bán cầu, ngăn cách bởi rãnh dọc giữa. Bốn nút quanh nó: bán cầu trái với ngôn ngữ nghiêng nhiều hơn ở đa số người; bán cầu phải với mạng chú ý bên ngoài theo nghiên cứu Nielsen; thể chai; và quan hệ đối bên, nghĩa là mỗi bên não điều khiển và nhận tín hiệu từ bên đối diện của cơ thể. Chỗ dễ nhầm: chữ nghiêng nhiều hơn là rất quan trọng, vì hai bên thường có chức năng chồng lấn và dư thừa. Ví dụ của người viết: hai tay thợ giỏi hơn một bên nhưng đều biết việc của nhau."
     },
     {
-      "title": "Nghiêng trái, nghiêng phải theo chức năng",
-      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Ngôn ngữ (Broca, Wernicke): thường nghiêng trái",
-        "Kiểm soát chú ý: thường nghiêng phải"
-      ],
-      "notes": "Nghiêng trái nghĩa là kết nối của mạng đó mạnh hơn ở bên trái. Từ fMRI lúc nghỉ của Nielsen và cộng sự, 2013.",
-      "layout": "lookup-table",
-      "tone": "light"
-    },
-    {
-      "title": "Vùng ngôn ngữ ở bán cầu trái",
-      "bullets": [
-        "Broca's area: vùng Broca",
-        "Wernicke's area: vùng Wernicke",
-        "Arcuate fasciculus: bó cung nối hai vùng"
-      ],
-      "notes": "Hình minh họa hai vùng ngôn ngữ ở bán cầu trái.",
-      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "title": "Hai bán cầu và chuyên biệt hóa theo bên",
+      "section": "Hai bán cầu và thể chai",
       "sources": [
         "S1"
       ],
-      "layout": "figure",
+      "layout": "explainer",
       "tone": "dark",
-      "images": [
-        {
-          "file": "images/vung-broca-wernicke.png",
-          "alt": "Vùng Broca, vùng Wernicke và bó cung",
-          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 16 (chương 2)",
-          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
-        }
-      ]
+      "bullets": [
+        "Ở đâu: ngăn cách bởi rãnh dọc giữa",
+        "Làm gì: thể chai truyền thông tin giữa hai bên",
+        "Đừng hiểu nhầm: hai bên không làm việc tách rời"
+      ],
+      "body": "Não có hai bán cầu, ngăn cách bởi rãnh dọc giữa, nối với nhau bằng **thể chai** (corpus callosum), một bó chất trắng lớn truyền thông tin giữa hai bên [S1]. Hai bán cầu đối xứng về cấu trúc và thường có chức năng chồng lấn, dư thừa, nhưng có **chuyên biệt hóa theo bên** (lateralization): một số chức năng được xử lý nhiều hơn ở một bán cầu. Với đa số người, ngôn ngữ nghiêng về bán cầu trái [S1].",
+      "notes": "Đoạn giáo trình này có ba ý. Một: hai bán cầu đối xứng về cấu trúc. Hai: chức năng thường chồng lấn và dư thừa, nghĩa là một việc có thể được cả hai bên hỗ trợ. Ba: vẫn có chuyên biệt hóa theo bên, trong đó một số chức năng được xử lý nhiều hơn ở một bên; ví dụ giáo trình nêu là ngôn ngữ nghiêng bán cầu trái với đa số người. Mức: giáo khoa. Chỗ dễ nhầm: chuyên biệt hóa theo bên khác với chuyên biệt hóa theo người; bài tiếp theo nói rõ điều này."
+    },
+    {
+      "title": "Cơ thể bắt chéo",
+      "section": "Hai bán cầu và thể chai",
+      "sources": [
+        "S1"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Mỗi bên não điều khiển bên đối diện của cơ thể",
+        "Xúc giác và lệnh vận động xử lý ở bán cầu đối bên (contralateral) [S1]",
+        "Mức: giáo khoa"
+      ],
+      "notes": "Một ví dụ dễ nhớ của chuyên biệt hóa theo bên là sự bắt chéo. Theo giáo trình, tín hiệu xúc giác và lệnh vận động của mỗi bên cơ thể được xử lý chủ yếu ở bán cầu đối bên. Ví dụ của người viết: bạn cầm bút bằng tay phải thì lệnh vận động đến từ vỏ vận động bên trái. Suy luận của người viết: vì vậy tổn thương một bán cầu có thể ảnh hưởng đến bên đối diện của cơ thể. Chỗ dễ nhầm: bắt chéo không phải là chuyên biệt hóa chức năng kiểu ngôn ngữ trái, chú ý phải; đó là quy tắc nối dây mang tính hệ thống. Cũng không nên suy từ đây rằng người thuận tay phải là não trái, vì bài sẽ cho thấy chuyện này không đơn giản."
+    },
+    {
+      "title": "Não bị tách: chuyên biệt hóa và tích hợp",
+      "section": "Hai bán cầu và thể chai",
+      "sources": [
+        "S9"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Mức: chỉ đọc tóm tắt",
+        "Chưa nêu ở đây: chi tiết từng thí nghiệm",
+        "Đừng hiểu nhầm: tóm tắt không nói gì về kiểu người"
+      ],
+      "body": "Michael Gazzaniga mô tả rằng ông cùng Roger Sperry và Joseph Bogen bắt đầu các nghiên cứu **não bị tách** (split-brain) hiện đại cách bài báo năm 2005 của ông bốn mươi lăm năm [S9]. Theo ông, các nghiên cứu này tạo nên phần lớn hiểu biết về chuyên biệt hóa và tích hợp giữa hai bán cầu, và cho thấy thể chai có tính đặc hiệu theo vùng cùng vai trò tích hợp trong nhận thức về nhân quả và cảm giác về một bản thân thống nhất [S9].",
+      "notes": "Gazzaniga mô tả nghiên cứu não bị tách, bắt đầu cách bài năm 2005 bốn mươi lăm năm, cùng Roger Sperry và Joseph Bogen. Theo tóm tắt, các nghiên cứu này mở ra hướng mới và tạo nên phần lớn hiểu biết về chuyên biệt hóa và tích hợp giữa hai bán cầu. Dùng riêng hoặc cùng ảnh học thần kinh, phương pháp này cho thấy thể chai có tính đặc hiệu theo vùng và có vai trò tích hợp trong nhận thức về nhân quả và cảm giác về một bản thân thống nhất. Tôi chỉ đọc tóm tắt nên không mô tả chi tiết thí nghiệm hay lý do cắt thể chai. Chỗ dễ nhầm: tóm tắt không bàn đến kiểu người não trái hay não phải; đừng gán điều đó cho Gazzaniga."
     },
     {
       "title": "1.011 người",
       "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
       "sources": [
-        "S4"
+        "S10"
       ],
-      "bullets": [
-        "Nielsen: người từ 7 đến 29 tuổi",
-        "Không thấy kiểu người não trái hay não phải"
-      ],
-      "notes": "Mỗi mạng nghiêng riêng; người nghiêng trái mạnh ở mạng này không nhất thiết nghiêng trái ở mạng khác.",
       "layout": "one-big-number",
-      "tone": "dark"
+      "tone": "light",
+      "bullets": [
+        "1.011",
+        "người từ 7 đến 29 tuổi, ảnh fMRI lúc nghỉ [S10]",
+        "Chín nút nghiêng trái, 11 nút nghiêng phải [S10]"
+      ],
+      "notes": "Con số 1.011 là số người trong nghiên cứu của Nielsen và cộng sự năm 2013, lấy từ các bộ dữ liệu công khai, tuổi từ 7 đến 29. Với 1.011 người, đây là một mẫu lớn, nhưng vẫn chỉ là một nghiên cứu, không phải lời cuối. Họ chụp fMRI lúc nghỉ, nghĩa là người tham gia không làm nhiệm vụ nhận thức. Từ đó họ tìm ra chín nút nghiêng trái và 11 nút nghiêng phải; nút là vùng có nhiều kết nối nghiêng mạnh. Chỗ dễ nhầm: số lớn không tự động nói cái gì được đo; điều được đo là kết nối lúc nghỉ, chứ không phải tính cách hay cách nghĩ. Ví dụ của người viết: đo chiều cao 1.000 người không cho biết ai hát hay."
     },
     {
-      "title": "Ba lý do hiểu lầm",
+      "title": "Nielsen và cộng sự (2013): đo gì, ở ai",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Đo gì: kết nối giữa các vùng lúc nghỉ",
+        "Chưa đo: hành vi hay nhiệm vụ nhận thức",
+        "Đừng hiểu nhầm: không phải bài kiểm tra tính cách"
+      ],
+      "body": "Nielsen và cộng sự (2013) phân tích ảnh **fMRI lúc nghỉ** của 1.011 người từ 7 đến 29 tuổi, lấy từ các bộ dữ liệu công khai [S10]. Với từng người, họ đo mức nghiêng của **kết nối chức năng** (mức các vùng hoạt động cùng nhau) cho từng cặp trong 7.266 vùng chất xám, và trừ ảnh hưởng của khác biệt mật độ chất xám [S10]. Kết quả: chín nút nghiêng trái và 11 nút nghiêng phải [S10].",
+      "notes": "Slide này giải thích cách làm của nghiên cứu bằng lời thường. Họ lấy ảnh fMRI lúc nghỉ, tức ảnh chụp khi người tham gia không làm nhiệm vụ. Với mỗi người, họ tính mức nghiêng của kết nối chức năng, tức mức các vùng hoạt động cùng nhau, cho từng cặp trong 7.266 vùng chất xám. Để đo mức nghiêng, họ so mức tương quan trước và sau khi lật ảnh qua mặt phẳng giữa. Họ còn trừ ảnh hưởng của khác biệt mật độ chất xám để giảm tác động của bất đối xứng về cấu trúc. Chỗ dễ nhầm: ảnh lúc nghỉ cho bản đồ kết nối chứ không nói trực tiếp về cách mỗi người nghĩ hay làm việc. Suy luận của người viết: vì vậy nghiên cứu này không thể xác nhận hay bác bỏ một kiểu tính cách, chỉ bàn về kiểu hình kết nối."
+    },
+    {
+      "title": "Mạng nghiêng trái và mạng nghiêng phải",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S10"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Nghiêng trái: vùng Broca, Wernicke; vỏ trước trán giữa, cingulate sau, chỗ nối thái dương đỉnh (mạng chế độ mặc định) [S10]",
+        "Nghiêng phải: rãnh nội đỉnh, đảo trước, vùng MT, vùng nhìn trán, vỏ lưng bên trước trán (mạng chú ý) [S10]",
+        "Hai nhóm nút tạo thành hai mạng riêng biệt [S10]"
+      ],
+      "notes": "Bảng ví dụ các nút của hai mạng. Bên trái có các vùng ngôn ngữ kinh điển, Broca và Wernicke, cùng các vùng của mạng chế độ mặc định: vỏ trước trán giữa, vỏ cingulate sau và chỗ nối thái dương đỉnh. Các tác giả mô tả mạng chế độ mặc định hoạt động mạnh hơn lúc nghỉ và được đề xuất liên quan đến chú ý đến kích thích bên trong. Bên phải có rãnh nội đỉnh bên, đảo trước, vùng MT, vùng nhìn trán và vỏ lưng bên trước trán, thuộc mạng chú ý, hoạt động mạnh hơn khi cần chú ý đến kích thích bên ngoài. Chỗ dễ nhầm: đây là ví dụ, không phải danh sách đầy đủ các nút. Các tác giả nối nghiêng phải với việc bỏ qua một nửa không gian sau tổn thương bán cầu phải, thuộc L08."
+    },
+    {
+      "title": "Chuyên biệt hóa theo chức năng: bảng tóm tắt",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S1",
+        "S7",
+        "S10"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Ngôn ngữ: nghiêng trái với đa số người [S1] [S10]",
+        "Chú ý bên ngoài: nghiêng phải [S10]",
+        "Xúc giác và vận động: bắt chéo sang bên đối diện [S1]",
+        "Mạng chế độ mặc định: nghiêng trái [S10]",
+        "Ức chế phản ứng: giả thuyết vỏ dưới trán phải, đang tranh luận [S7]"
+      ],
+      "notes": "Bảng tóm tắt nhưng cần đọc theo hai tầng nhãn. Ngôn ngữ nghiêng trái và bắt chéo xúc giác, vận động là mức giáo khoa theo giáo trình. Chú ý bên ngoài nghiêng phải và mạng chế độ mặc định nghiêng trái là kết quả của nghiên cứu Nielsen. Ức chế phản ứng ở vỏ dưới trán phải là giả thuyết đang tranh luận của Aron và cộng sự. Điều đáng nói là mỗi hàng là một chức năng hoặc một mạng, không có hàng nào là một kiểu người. Chỗ dễ nhầm: các hàng không cộng lại thành bán cầu trái làm việc A, bán cầu phải làm việc B; nghiên cứu cho thấy mức nghiêng thuộc từng nút hoặc mạng con. Ví dụ của người viết: như bảng ghi ai thạo món nào trong bếp chứ không nói ai là đầu bếp giỏi."
+    },
+    {
+      "title": "Nghiêng là đặc tính cục bộ, không phải toàn bộ",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Mức: kết quả của một nghiên cứu lớn",
+        "Giới hạn: người tham gia từ 7 đến 29 tuổi",
+        "Đừng hiểu nhầm: không bác bỏ mọi khía cạnh"
+      ],
+      "body": "Các kết nối nghiêng mạnh một bên chỉ **tương quan với nhau** giữa các người khi chúng dùng chung một nút; vì vậy nhóm nghiên cứu kết luận mức nghiêng là đặc tính **cục bộ**, không phải của cả bộ não [S10]. Dữ liệu của họ không phù hợp với một kiểu hình toàn não \"nghiêng trái nhiều hơn\" hay \"nghiêng phải nhiều hơn\" giữa các cá nhân; mức nghiêng tăng nhẹ theo tuổi và không khác biệt theo giới [S10]. Người tham gia từ 7 đến 29 tuổi nên kết luận cho tuổi khác cần nghiên cứu khác.",
+      "notes": "Đây là kết luận then chốt của nghiên cứu. Các kết nối nghiêng mạnh về một bên chỉ có tương quan với nhau giữa các người khi chúng dùng chung một nút. Vì vậy nhóm tác giả nói mức nghiêng là đặc tính cục bộ, và dữ liệu không phù hợp với một kiểu hình toàn não, nghiêng trái nhiều hơn hoặc nghiêng phải nhiều hơn. Họ còn thấy mức nghiêng tăng nhẹ theo tuổi, không khác biệt theo giới. Ví dụ của người viết: một người có thể thạo ngôn ngữ và vẫn bình thường về chú ý, hai chuyện không đi cùng nhau theo kiểu bó buộc. Chỗ dễ nhầm: người tham gia từ 7 đến 29 tuổi và ảnh lúc nghỉ, nên cần nghiên cứu khác cho tuổi lớn hơn và cho nhiệm vụ. Tôi chưa đọc nghiên cứu nào trái chiều."
+    },
+    {
+      "title": "Ba lý do não trái, não phải là hiểu lầm",
       "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
       "sources": [
-        "S3",
-        "S4"
+        "S1",
+        "S9",
+        "S10"
       ],
-      "bullets": [
-        "Chức năng phức tạp cần cả hai bên",
-        "Chuyên biệt hóa theo mạng, không theo người",
-        "Nghiên cứu không đo logic hay sáng tạo"
-      ],
-      "notes": "Các nghiên cứu nói về chức năng cụ thể như ngôn ngữ và chú ý.",
       "layout": "numbered-rows",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "Chuyên biệt hóa là theo mạng, không theo con người [S10]",
+        "Cái được đo là ngôn ngữ, chú ý, mạng bên trong, không phải logic hay sáng tạo [S1] [S10]",
+        "Hai bán cầu phối hợp: chức năng chồng lấn và thể chai tích hợp [S1] [S9]"
+      ],
+      "notes": "Ba lý do tóm lại phần trước. Lý do một: người có một mạng nghiêng trái mạnh không nhất thiết có các mạng khác nghiêng trái mạnh; tương quan chỉ có giữa các kết nối chung một nút. Lý do hai: những gì được thấy nghiêng bên là ngôn ngữ, chú ý bên ngoài và mạng liên quan đến chú ý bên trong; nghiên cứu không đo tính cách logic hay sáng tạo. Lý do ba: hai bán cầu nối bằng thể chai, chức năng thường chồng lấn, và thể chai có vai trò tích hợp. Suy luận của người viết: khi nghe kể một câu chuyện, bạn dùng ngôn ngữ, nghiêng trái, và chú ý đến người kể, nghiêng phải, cùng lúc. Chỗ dễ nhầm: ba lý do không chứng minh mọi người giống nhau về não; chúng chỉ nói rằng kiểu người não trái, não phải không phù hợp với dữ liệu này."
     },
     {
-      "title": "Chuyên biệt hóa là cục bộ",
+      "title": "Cách nói phổ biến và cách đọc dữ liệu",
       "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
       "sources": [
-        "S4"
+        "S10"
       ],
+      "layout": "explainer",
+      "tone": "light",
       "bullets": [
-        "Theo từng mạng, không theo cả con người"
+        "Phổ biến: não trái logic, não phải sáng tạo",
+        "Tác giả gợi ý: trái ngôn ngữ và bên trong, phải chú ý bên ngoài",
+        "Kết luận: không có não trái hay não phải toàn bộ"
       ],
-      "notes": "Chuyên biệt hóa là đặc điểm cục bộ, theo từng kết nối và mạng.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "body": "Các tác giả mô tả cách nói phổ biến: người \"não trái\" được cho là logic, tuần tự; người \"não phải\" sáng tạo, trôi chảy, trực giác [S10]. Từ các vùng tìm thấy, họ gợi ý một cách nhìn nhất quán hơn: kết nối nghiêng trái liên quan đến ngôn ngữ và nhận biết kích thích bên trong, kết nối nghiêng phải liên quan đến chú ý đến kích thích bên ngoài [S10]. Nhưng một bộ não cụ thể không \"não trái\" hay \"não phải\" như một đặc tính toàn bộ [S10].",
+      "notes": "Chính các tác giả nghiên cứu mô tả cách nói phổ biến: người não trái được cho là logic, tuần tự; người não phải sáng tạo, trôi chảy, trực giác. Từ các vùng tìm thấy, họ gợi ý một cách nhìn nhất quán hơn dựa trên dữ liệu: kết nối nghiêng trái liên quan đến ngôn ngữ và nhận biết kích thích bên trong, kết nối nghiêng phải liên quan đến chú ý đến kích thích bên ngoài. Nhưng họ kết luận một bộ não cụ thể không não trái hay não phải như một đặc tính toàn bộ. Chỗ dễ nhầm: gợi ý của họ không phải lý thuyết mới về tính cách, chỉ là cách mô tả nhất quán hơn với dữ liệu kết nối. Suy luận của người viết: người vẽ đẹp hay người giỏi toán đều cần nhiều mạng, ở cả hai bên."
     },
     {
-      "title": "Điều cần nhớ",
+      "title": "Điều đã có bằng chứng và điều chưa thấy",
+      "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+      "sources": [
+        "S1",
+        "S10"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Có bằng chứng: ngôn ngữ nghiêng trái, chú ý bên ngoài nghiêng phải, hai bên phối hợp [S1] [S10]",
+        "Chưa thấy: một kiểu hình toàn não trái nhiều hơn hay phải nhiều hơn ở mỗi người [S10]",
+        "Một nghiên cứu lớn, chưa phải lời cuối · chưa đọc nghiên cứu trái chiều"
+      ],
+      "notes": "Slide này đặt hai cột cạnh nhau để tránh hiểu sai theo hai chiều. Cột trái: chuyên biệt hóa là có thật; không ai bảo hai bán cầu giống hệt nhau, và đó là lý do bài này không kết luận tất cả đều như nhau. Cột phải: điều chưa thấy là một kiểu hình toàn não, người trái nhiều hơn hoặc phải nhiều hơn, trong dữ liệu 1.011 người. Dòng cuối là sự thành thật về mức đọc: đây là một nghiên cứu lớn nhưng chỉ là một nghiên cứu, và tôi chưa đọc nghiên cứu trái chiều. Chỗ dễ nhầm: chưa thấy không có nghĩa là không bao giờ có; nó có nghĩa là với dữ liệu này và cách đo này, kiểu hình đó không xuất hiện."
+    },
+    {
+      "title": "Ba câu hỏi khi gặp bài não trái, não phải (người viết)",
+      "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+      "sources": [
+        "S10"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Đo gì?: kết nối não hay chỉ hỏi sở thích",
+        "Chức năng nào?: một chức năng cụ thể hay một kiểu người",
+        "Bao nhiêu người?: có nghiên cứu lớn như Nielsen không"
+      ],
+      "notes": "Ba câu hỏi này là suy luận của người viết, không phải của nguồn nào, để người nghe tự kiểm tin gặp ngoài đời. Câu một: bài kiểm tra có đo kết nối hay hoạt động của não thật, hay chỉ hỏi sở thích? Câu hai: nó nói về một chức năng cụ thể, như ngôn ngữ hay chú ý, hay gán cho bạn một kiểu người? Câu ba: có nghiên cứu lớn, nhiều người, như nghiên cứu Nielsen, ủng hộ không? Chỗ dễ nhầm: một nghiên cứu cũng chỉ là một nghiên cứu, và kết luận có thể được xem lại khi có nghiên cứu mới. Gợi ý khi giảng: cho người nghe một mẩu tin ngắn tưởng tượng và để họ tự đặt ba câu hỏi này."
+    },
+    {
+      "title": "Sáu điều cần nhớ",
       "section": "Điều cần nhớ",
       "sources": [
         "S1",
         "S2",
         "S3",
-        "S4",
         "S5",
-        "S6"
+        "S7",
+        "S8",
+        "S10"
       ],
-      "bullets": [
-        "Vỏ não trước trán giữ mục tiêu, chỉnh hành vi",
-        "Gage nổi tiếng nhưng bị kể quá đà",
-        "Căng thẳng làm suy giảm vỏ não trước trán",
-        "Hai bán cầu nối bằng thể chai",
-        "Chuyên biệt hóa theo chức năng, không theo người"
-      ],
-      "notes": "Bài sau (L05) về hệ thưởng, chú ý, cảm xúc và căng thẳng.",
       "layout": "numbered-rows",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "Thùy trán gồm vỏ vận động, tiền vận động và vỏ não trước trán [S1]",
+        "Vỏ vận động gửi lệnh xuống tủy sống; vùng Broca liên quan đến tạo lời nói [S1] [S2]",
+        "Chức năng điều hành: ức chế, bộ nhớ làm việc, linh hoạt; gán vùng còn tranh luận [S5] [S7]",
+        "Gage: có phần đã kiểm, có phần hậu thế thêm vào [S3]",
+        "Phanh của não phụ thuộc điều kiện: căng thẳng, thiếu ngủ, cô đơn, thiếu vận động [S5] [S8]",
+        "Chuyên biệt hóa có thật theo chức năng; kiểu người não trái, phải không phù hợp dữ liệu [S10]"
+      ],
+      "notes": "Slide này gom bài lại thành sáu ý. Ý một và hai về thùy trán: vỏ vận động, tiền vận động, vỏ não trước trán, và vai trò của vùng Broca. Ý ba về chức năng điều hành và chuyện vùng nào làm việc nào còn tranh luận. Ý bốn về Gage: đã kiểm và hậu thế thêm vào. Ý năm về kiểm soát bản thân, chỉ ở mức tóm tắt của Diamond và Arnsten. Ý sáu về hai bán cầu. Nếu người nghe còn đúng một phút, hãy dành nó cho ý sáu, vì đó là hiểu lầm phổ biến nhất ngoài đời. Chỗ dễ nhầm: sáu ý không ngang hàng về mức chắc chắn; ý một và hai là giáo khoa, ý ba và năm là tổng quan hoặc giả thuyết. Đây là bài giáo dục, không phải lời khuyên y tế."
+    },
+    {
+      "title": "Đọc tiếp: các bài nối với L04",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "L05: hệ thưởng, chú ý, căng thẳng",
+        "L07: hạnh nhân, hải mã, hạch nền, đồi thị",
+        "L08: thùy thái dương, đỉnh, chẩm",
+        "L09: vỏ não trước trán điều chỉnh cảm xúc"
+      ],
+      "notes": "Bài này chỉ nhắc một dòng các khái niệm thuộc bài khác. L05 nói hệ thưởng, chú ý và căng thẳng, nơi vỏ não trước trán phải cân bằng. L07 nói hạnh nhân, hải mã, hạch nền và đồi thị. L08 nói thùy thái dương, đỉnh, chẩm, trong đó có vùng Wernicke. L09 nói vai trò điều chỉnh cảm xúc của vỏ não trước trán, nối với mạch sợ. L03 đã nói các chất hóa học điều chỉnh mạng lưới, trong đó dopamine đi lên vỏ não trước trán; L00 là bài gốc về dopamine. Gợi ý thứ tự đọc: đi từ L04 sang L08 để hoàn thành bản đồ các thùy, rồi sang L07 và L09 cho phần cảm xúc. Chỗ dễ nhầm: các bài bổ sung nhau, không thay thế nhau."
     },
     {
       "title": "Nguồn tham khảo",
@@ -309,19 +842,26 @@
         "S4",
         "S5",
         "S6",
-        "S7"
+        "S7",
+        "S8",
+        "S9",
+        "S10"
       ],
+      "layout": "references",
+      "tone": "dark",
       "bullets": [
-        "Hove & Martinez, Biological Psychology, chương 2 và 4 (hình)",
-        "Miller và Cohen, Annu Rev Neurosci, 2001",
-        "Gazzaniga, Nat Rev Neurosci, 2005",
-        "Nielsen và cộng sự, PLOS ONE, 2013",
-        "Macmillan, The Psychologist, 2008",
-        "Arnsten, Nat Rev Neurosci, 2009"
+        "S1: Hove & Martinez, Biological Psychology, mục 2.6 The Brain, 2024",
+        "S2: Hove & Martinez, Biological Psychology, mục 4.2 (tổn thương não), 2024",
+        "S3: Macmillan, Phineas Gage – Unravelling the myth, The Psychologist, 2008",
+        "S4: Miller & Cohen, Annual Review of Neuroscience, 2001 (tóm tắt)",
+        "S5: Diamond, Executive functions, Annual Review of Psychology, 2013 (tóm tắt)",
+        "S6: Miyake và cộng sự, Cognitive Psychology, 2000 (tóm tắt)",
+        "S7: Aron, Robbins, Poldrack, Trends in Cognitive Sciences, 2004 (tóm tắt)",
+        "S8: Arnsten, Nature Reviews Neuroscience, 2009 (tóm tắt)",
+        "S9: Gazzaniga, Nature Reviews Neuroscience, 2005 (tóm tắt)",
+        "S10: Nielsen và cộng sự, PLOS ONE, 2013 (tóm tắt, mở đầu, thảo luận)"
       ],
-      "notes": "Đường dẫn đầy đủ ở lesson.md.",
-      "layout": "lookup-table",
-      "tone": "dark"
+      "notes": "Đường dẫn đầy đủ và mức đọc của từng nguồn nằm ở lesson.md."
     }
   ]
 }

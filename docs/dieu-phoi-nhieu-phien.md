@@ -67,6 +67,17 @@ Chưa có, và bằng chứng trong git:
 
 ## 4. Đề xuất: bản nhẹ cho repo này
 
+**Đã làm cả hai tầng (chủ repo chọn, 2026-10-21).** Luật và bảng giữ bài: `docs/dieu-phoi.md`. Công cụ: `scripts/claims.py`, test: `tests/test_claims.py`
+(repo git thật, 37 test). Chỗ khác với đề xuất bên dưới:
+- Giới hạn đồng thời do công cụ ép, không chỉ ghi trong luật: 2 phiên (chủ repo). Phiên thứ ba bị từ chối khi `claim`; nếu đẩy lách thì `verify` báo thua theo thứ tự thời gian.
+- Hạn thuê 24 giờ như đề xuất; chưa được chủ repo xác nhận riêng.
+- Kiểm phạm vi ghi là lệnh `claims.py scope`, không phải script riêng.
+- Bảng giữ bài **có** được máy đọc ở mức nhẹ (`claims.py check`: tên cột, giá trị cho phép, không quá 2 nhánh viết cùng lúc), chạy trong test và CI. Không dùng để tự động bỏ qua dải
+  bài như bảng của họ; ở quy mô này `next` và `claim` đã đủ.
+- Thêm ba chốt họ không có: `claim` từ chối bài đang có việc dở trên nhánh khác (bắt được `L11` đến `L14` ngay trên repo thật), từ chối bài đã viết khi thiếu `--rewrite`,
+  và `check --merge-ready` trong CI chặn khoá `doing` lọt vào `main`.
+- Bản chạy thử trên repo thật (chỉ đọc) mất khoảng 1 giây với 37 nhánh.
+
 Nguyên tắc: chỉ lấy cái chống đúng lỗi đã xảy ra, đi từ rẻ đến đắt, và dừng khi hết va chạm.
 
 ### Tầng 1: luật và bảng, không thêm mã (làm ngay)
@@ -102,8 +113,11 @@ Markdown ở tầng 1 đủ; bảng đọc bằng máy chỉ đáng khi có nhi�
 
 Việc nằm trong `scripts/`, `tests/`, `docs/` và `CLAUDE.md` đi theo quy trình PR + Codex phản biện của repo (không đẩy thẳng).
 
-## 5. Câu hỏi cho chủ repo
+## 5. Quyết định và việc còn mở
 
-1. Tối đa bao nhiêu phiên viết chạy cùng lúc? (Bên họ chủ repo đặt 2 phiên của một tài khoản; `ban-giao`, mục 12, đề ra 6 phiên song song cho giai đoạn 1.)
-2. Làm tầng 1 trước và chỉ làm tầng 2 khi còn đụng nhau, hay làm cả hai ngay?
-3. Bốn nhánh `lesson-L11..L14` đang bay: phiên điều phối nào đang giữ chúng? Phiên này **chưa đụng** tới chúng.
+Đã trả lời (2026-10-21): tối đa **2** phiên viết cùng lúc; làm **cả hai tầng**.
+
+Còn mở:
+1. Bốn nhánh `lesson-L11..L14` đang bay: phiên điều phối nào đang giữ chúng? Bảng giữ bài ghi "chưa rõ". Phiên này **chưa đụng** tới chúng.
+2. Xoá 23 nhánh đã gộp, và quyết định số phận `awesome-curie-uuh5vu` và `lesson-L08` (liệt kê trong `docs/dieu-phoi.md`).
+3. Hạn thuê 24 giờ có hợp không.

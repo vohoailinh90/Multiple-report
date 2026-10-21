@@ -179,7 +179,7 @@ Các chất điều hòa có chung một kiểu tổ chức: thân tế bào gom
 | Acetylcholine | nhân nền Meynert; vách giữa và dải chéo; cầu não–não giữa | vỏ não; cấu trúc viền; vùng dưới vỏ [S9] |
 | Histamine | vùng dưới đồi sau | phóng chiếu rộng, tương tự noradrenaline và serotonin [S10] |
 | Oxytocin | PVN, SON (vùng dưới đồi) | thùy sau tuyến yên (vào máu); đồi thị, vỏ, hạnh nhân, thể vân, hải mã [S17] |
-| Glutamate, GABA | không có nhân riêng: nơron khắp não | tại chỗ [S11] |
+| Glutamate, GABA | không có nhân riêng: nơron khắp não [S11] | không có đích riêng như nhóm amine: tác động ở synapse của từng mạch, gần hay xa (bài không vẽ bản đồ đích cho hai chất này) |
 
 Ba điều đọc ra từ bảng:
 

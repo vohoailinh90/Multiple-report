@@ -147,6 +147,22 @@ class GenTests(unittest.TestCase):
             gen.page("L41", 1, {}, path)
         self.assertIn("L41/images/a.png has no Moda id", str(caught.exception))
 
+    def test_mk_never_overwrites_an_existing_expected_file(self):
+        mk = load("mk")
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        (root / "lessons" / "L90").mkdir(parents=True)
+        (root / "lessons" / "L90" / "lesson.md").write_text("# t\n\n## A\n\n## Nguồn tham khảo\n", encoding="utf-8")
+        self.addCleanup(setattr, mk, "ROOT", mk.ROOT)
+        mk.ROOT = root
+        mk.deep_expected("L90", "t", "nao-bo", ["A"], [], ["x"])
+        written = (root / "lessons" / "L90.expected.json").read_text(encoding="utf-8")
+        with self.assertRaises(SystemExit):
+            mk.deep_expected("L90", "đổi", "nao-bo", ["B"], [], ["y"])
+        with self.assertRaises(SystemExit):
+            mk.build("L90", "đổi", "s", "nao-bo", {}, [], [])
+        self.assertEqual((root / "lessons" / "L90.expected.json").read_text(encoding="utf-8"), written)
+
     def test_fit_shrinks_long_text_but_not_below_the_floor(self):
         short, long = "một câu ngắn", " ".join(["chữ"] * 400)
         self.assertEqual(gen.fit(short, 600, 200, 40), 40)

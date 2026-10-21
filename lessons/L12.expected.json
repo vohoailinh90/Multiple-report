@@ -1,0 +1,62 @@
+{
+  "id": "L12",
+  "title": "Rối loạn tâm trạng, lo âu và PTSD ở mức cơ chế",
+  "topic": "suc-khoe",
+  "sections": [
+    "Tóm tắt",
+    "Rối loạn tâm lý là gì và bài này không làm gì",
+    "Trầm cảm: những vùng não được đo thấy gì",
+    "Trầm cảm và giả thuyết monoamine: bằng chứng và tranh luận",
+    "Rối loạn lưỡng cực: nhạy cảm với phần thưởng và mạch cảm xúc",
+    "Lo âu: hạnh nhân, vỏ trước trán và GABA",
+    "PTSD: ký ức sang chấn, hải mã và noradrenaline",
+    "Các cách điều trị tác động vào mạch nào",
+    "Những hiểu lầm thường gặp",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/biopsychology-of-psychological-disorders-overview/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/anxiety/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/post-traumatic-stress-disorder/"
+  ],
+  "key_terms": [
+    "trầm cảm",
+    "lưỡng cực",
+    "lo âu",
+    "PTSD",
+    "hạnh nhân",
+    "vỏ trước trán",
+    "hải mã",
+    "monoamine",
+    "GABA",
+    "major depressive disorder",
+    "bipolar disorder",
+    "anxiety disorder",
+    "post-traumatic stress disorder"
+  ],
+  "min_words": 4000,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

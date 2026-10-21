@@ -1,0 +1,64 @@
+{
+  "id": "L11",
+  "title": "Trí nhớ cảm xúc: hải mã, hạnh nhân và vỏ trước trán",
+  "topic": "nao-bo",
+  "sections": [
+    "Tóm tắt",
+    "Các loại trí nhớ và ba giai đoạn của một ký ức",
+    "Củng cố: hải mã, vỏ não và giấc ngủ",
+    "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+    "Vỏ trước trán: giữ, điều khiển và kiềm chế ký ức",
+    "Ký ức sợ: học và dập tắt",
+    "Tái củng cố: nhớ lại là viết lại một phần",
+    "Ký ức chói: sống động không có nghĩa là chính xác",
+    "Căng thẳng và sang chấn trong trí nhớ",
+    "Những hiểu lầm thường gặp",
+    "Điều cần nhớ",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-2-types-of-memory/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-3-brain-structures-in-memory/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-5-stages-of-memory/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-6-memory-reconsolidation-new-views-and-applications/"
+  ],
+  "key_terms": [
+    "trí nhớ",
+    "mã hóa",
+    "củng cố",
+    "truy xuất",
+    "tái củng cố",
+    "hải mã",
+    "hạnh nhân",
+    "vỏ trước trán",
+    "noradrenaline",
+    "ký ức chói",
+    "dập tắt",
+    "memory consolidation",
+    "reconsolidation",
+    "flashbulb memory",
+    "extinction"
+  ],
+  "min_words": 4000,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

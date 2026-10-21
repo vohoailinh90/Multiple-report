@@ -273,18 +273,19 @@
       "title": "Không có giá riêng: nằm trong gói",
       "section": "Chi phí và gói truy cập",
       "sources": [
+        "S6",
         "S11",
         "S17"
       ],
       "bullets": [
         "Ở đâu: X Subscription, Cursor cũ, liên kết SuperGrok, Grok Business",
-        "Làm gì: mở quyền dùng Bot từ một bể hằng tuần chung",
+        "Làm gì: mở quyền dùng Bot theo hạn mức hằng tuần của gói",
         "Đừng hiểu nhầm: gói đang có có thể đã đủ, đừng mua thêm vội"
       ],
-      "notes": "Slide đặt khung cho chi phí, dựa vào trang gói và thanh toán của Cursor, mới hơn các bài viết tháng tám và chín. Grok Bot không bán lẻ; quyền dùng đi kèm gói khác theo bốn đường: The X Subscription ở các bậc Premium, Super và Ultra; gói Cursor cũ gồm Pro, Pro+, Ultra và chỗ Teams; liên kết tài khoản SuperGrok hoặc X Premium+ với tài khoản Cursor cũ; và chỗ Grok Business, chỉ một nguồn nêu. Các đường không cộng dồn, Bot dùng đường cấp nhiều lượng dùng hơn, từ một bể hằng tuần chung với Cursor và Grok. Ý chính cho người nghe: kiểm tra gói đang có trước khi mua, vì có thể đã có quyền truy cập.",
+      "notes": "Slide đặt khung cho chi phí, dựa vào trang gói và thanh toán của Cursor, mới hơn các bài viết tháng tám và chín. Grok Bot không bán lẻ; quyền dùng đi kèm gói khác theo bốn đường: The X Subscription ở các bậc Premium, Super và Ultra; gói Cursor cũ gồm Pro, Pro+, Ultra và chỗ Teams; liên kết tài khoản SuperGrok hoặc X Premium+ với tài khoản Cursor cũ; và chỗ Grok Business, chỉ một nguồn nêu. Các đường không cộng dồn, Bot dùng đường cấp nhiều lượng dùng hơn. Cách tính lượng dùng khác nhau theo đường: riêng The X Subscription dùng chung một bể hằng tuần với Cursor và các ứng dụng Grok; với gói Cursor cũ, đồng hồ của Bot tách khỏi ứng dụng Grok. Ý chính cho người nghe: kiểm tra gói đang có trước khi mua, vì có thể đã có quyền truy cập.",
       "layout": "explainer",
       "tone": "light",
-      "body": "**Grok Bot** không có giá riêng: quyền dùng đi kèm gói khác. Theo tài liệu Cursor có bốn đường: **The X Subscription** (Premium, Super, Ultra), gói Cursor cũ (Pro, Pro+, Ultra, chỗ Teams), liên kết tài khoản **SuperGrok** hoặc X Premium+ với tài khoản Cursor cũ, và chỗ Grok Business [S17]. Các đường không cộng dồn: Bot dùng đường cấp nhiều lượng dùng hằng tuần hơn, từ một bể chung với Cursor và Grok [S17]. Người đã có một gói như vậy có thể không cần mua thêm, còn con số giá trong bài viết cũ có thể đã lỗi thời [S11]."
+      "body": "**Grok Bot** không có giá riêng: quyền dùng đi kèm gói khác. Cursor nêu bốn đường: **The X Subscription** (Premium, Super, Ultra), gói Cursor cũ (Pro, Pro+, Ultra, chỗ Teams), liên kết **SuperGrok** hoặc X Premium+ với tài khoản Cursor cũ, và chỗ Grok Business [S17]. Các đường không cộng dồn; Bot dùng đường cấp nhiều lượng dùng hơn [S17]. Chỉ **The X Subscription** dùng chung một bể với Cursor và ứng dụng Grok; với gói Cursor cũ, lượng dùng của Bot tách khỏi ứng dụng Grok [S6] [S17]. Ai đã có một gói như vậy có thể không cần mua thêm; giá trong bài cũ có thể lỗi thời [S11]."
     },
     {
       "title": "Bốn đường vào Grok Bot hiện hành",
@@ -333,7 +334,7 @@
       ],
       "bullets": [
         "Dùng thử: bảy ngày kèm thẻ [S10], mười bốn ngày [S11]; Cursor mô tả là khoản tín dụng dùng trong cửa sổ bảy ngày, đã dùng không hoàn lại [S6]",
-        "Chi tiêu: một bể hằng tuần chung, không đồng hồ riêng [S17]; không có trần riêng cho Grok Bot [S1]; đặt giới hạn cấp tài khoản [S6]",
+        "Chi tiêu: bể chung chỉ có ở The X Subscription [S17]; không có trần riêng cho Grok Bot [S1]; đặt giới hạn cấp tài khoản [S6]",
         "Lưu ý: giới hạn không phải ngưỡng cứng, Bot đang chạy có thể vượt một chút; đặt trước khi chạy nhiều Bot [S6]"
       ],
       "notes": "Hai cột. Cột trái là dùng thử: một nguồn nói bảy ngày kèm thẻ, một nguồn nói mười bốn ngày, còn Cursor mô tả là một khoản tín dụng sử dụng trong cửa sổ bảy ngày, đã dùng thì không hoàn lại, và một tác vụ lớn có thể dùng hết. Cột phải là chi tiêu: hạn mức hằng tuần có nhưng mức không công bố, và không có trần chi riêng cho Grok Bot theo xAI. Điều làm được là đặt giới hạn cấp tài khoản: On-demand monthly limit trong Settings, Usage và Billing với gói Cursor cũ, hoặc giới hạn dùng thêm và tắt Auto Top-up với gói The X Subscription. Dòng dưới là cảnh báo của Cursor: đây không phải ngưỡng cứng, một Bot đang chạy có thể vượt một chút. Nên đặt giới hạn trước khi chạy nhiều Bot liên tục.",

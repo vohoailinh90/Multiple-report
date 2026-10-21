@@ -30,6 +30,7 @@ HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of thes
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
+URL = re.compile(r"https?://[^\s/$.?#][^\s]*\.[^\s]+|https?://localhost\S*", re.I)
 VI_MARKS = re.compile("[ăâđêôơưàáạảãằắặẳẵầấậẩẫèéẹẻẽềếệểễìíịỉĩòóọỏõồốộổỗờớợởỡùúụủũừứựửữỳýỵỷỹ]", re.I)
 IMG_KEYS = ("file", "alt", "credit", "url")
 FIELDS = {"title": str, "section": str, "layout": str, "tone": str, "sources": list, "bullets": list, "notes": str}
@@ -107,7 +108,9 @@ def check(root, lid):
             if url and url not in refs.get(k, ""): errs.append(f"url of {k} is not on its own reference line")
     for url in ex.get("required_urls", []):
         if not any(url in r for r in refs.values()): errs.append(f"required source missing: {url}")
-    indep = [k for k, r in refs.items() if TEXTBOOK not in r]
+    if "section_min_slides" in ex:  # a deep lesson gives every source a URL; older lessons cite books and articles without one
+        errs += [f"reference {k} has no http(s) URL" for k, r in refs.items() if not URL.search(r)]
+    indep = [k for k, r in refs.items() if TEXTBOOK not in r and URL.search(r)]
     if len(indep) < ex.get("min_independent_sources", 0):
         errs.append(f"independent sources {len(indep)} < {ex['min_independent_sources']}")
     for img in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", body):

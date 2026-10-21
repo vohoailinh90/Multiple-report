@@ -266,6 +266,16 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(lesson=english, expected={**EXPECTED, "language": "en"})
         self.assertFalse(any("Vietnamese" in e for e in errs))
 
+    def test_every_reference_needs_a_url_and_a_placeholder_is_not_an_independent_source(self):
+        lesson = LESSON.replace("- [S2] Tác giả 2, Tên nguồn 2, 2001, https://example.org/2", "- [S2] placeholder")
+        errs, _ = self.run_gate(lesson=lesson)
+        self.assertIn("reference S2 has no http(s) URL", errs)
+        self.assertIn("independent sources 3 < 4", errs)
+        shallow = {k: v for k, v in EXPECTED.items() if k not in ("section_min_slides", "section_min_exempt")}
+        errs, _ = self.run_gate(lesson=lesson, expected=shallow)
+        self.assertNotIn("reference S2 has no http(s) URL", errs, "older lessons may cite a book without a URL")
+        self.assertIn("independent sources 3 < 4", errs, "but a source without a URL is never counted as independent")
+
     def test_the_cover_must_be_drawable(self):
         d = {"title": "Bài thử", "slides": SLIDES}  # no subtitle
         (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")

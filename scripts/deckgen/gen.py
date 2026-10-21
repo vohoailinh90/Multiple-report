@@ -324,7 +324,7 @@ def sequence(p, n, s, o, idx):
         out.append(f'<rectangle x="{cxs[i] - 220:.0f}" y="290" width="440" height="84" corner-radius="20" fill="{a}"/>')
         out.append(f'<text x="{cxs[i] - 220:.0f}" y="290" width="440" height="84" font-weight="800" font-size="34" color="{"#FFFFFF" if p is LIGHT else "#14161C"}" text-align="center" vertical-align="middle" max-lines="1">{x(name)}</text>')
         out.append(f'<line x1="{cxs[i]:.0f}" y1="374" x2="{cxs[i]:.0f}" y2="940" stroke="{p["diagline"]}" stroke-width="4" dash="10,10"/>')
-    step = 540 / max(len(bl), 1)
+    step = min(540 / max(len(bl), 1), 405 / max(len(bl) - 1, 1))  # a self-loop (95px tall) on the last step still ends above the source line
     for k, b in enumerate(bl):
         a, t = acc(p, n, k)
         yy = 430 + k * step
@@ -560,7 +560,7 @@ def overflows(markup):
             need = sum(lines(html.unescape("".join(q.itertext())), w, size, 0.55) for q in paras) * size * float(node.get("line-height", 1.15))
             need += float(node.get("paragraph-spacing", 0)) * (len(paras) - 1)
         else:
-            need = lines(text, w, size, 0.58 if display else 0.55) * size * (1.08 if display else 1.15)
+            need = lines(text, w, size, 0.58 if display else 0.55) * size * float(node.get("line-height", 1.08 if display else 1.15))
         cap = node.get("max-lines")  # Moda drops the lines past max-lines, so the text must wrap to no more
         clipped = bool(cap) and not paras and lines(text, w, size, 0.58 if display else 0.55) > int(cap)
         if need > h * 1.05 or clipped:

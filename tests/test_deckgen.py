@@ -179,6 +179,20 @@ class GenTests(unittest.TestCase):
         node = next(t for t in ET.fromstring(short).iter("text") if t.get("height") == "360")
         self.assertEqual((node.get("font-size"), node.get("max-lines")), ("300", "1"))
 
+    def test_a_sequence_self_loop_on_the_last_step_ends_above_the_source_line(self):
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        slide = {"title": "Chuỗi", "section": "A", "sources": ["S1"], "bullets": ["bước"] * 6, "notes": "",
+                 "layout": "sequence-diagram", "tone": "light"}
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+        markup = gen.page("L09", 1, {"actors": {"1": ["Một mình"]}}, path)  # one actor: every step is a self-loop
+        tree = ET.fromstring(markup)
+        loops = [n for n in tree.iter("text") if n.get("height") == "90" and n.get("font-weight") == "600"]
+        self.assertEqual(len(loops), 6)
+        self.assertLessEqual(max(float(n.get("y")) + float(n.get("height")) for n in loops), 944)
+        self.assertLessEqual(max(float(n.get("y2")) for n in tree.iter("line") if n.get("arrow-end")), 944)
+
     def test_fit_shrinks_long_text_but_not_below_the_floor(self):
         short, long = "một câu ngắn", " ".join(["chữ"] * 400)
         self.assertEqual(gen.fit(short, 600, 200, 40), 40)

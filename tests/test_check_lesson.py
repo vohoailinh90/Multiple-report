@@ -306,6 +306,17 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(lesson=same, expected={**EXPECTED, "min_independent_sources": 4})
         self.assertIn("independent sources 3 < 4", errs, "host case and a trailing slash do not make a new source")
 
+    def test_the_textbook_host_is_compared_case_insensitively(self):
+        lesson = LESSON.replace("https://example.org/2", "HTTPS://ROTEL.PRESSBOOKS.PUB/biologicalpsychology/x/")
+        errs, _ = self.run_gate(lesson=lesson, expected={**EXPECTED, "min_independent_sources": 4})
+        self.assertIn("independent sources 3 < 4", errs)
+
+    def test_a_nodes_own_line_height_decides_whether_its_text_fits(self):
+        """A five-item flow bullet of 131 characters needs ten lines at the floor size and line-height 1.25: 275px in a 260px box."""
+        long = ("abcdef " * 19)[:131]
+        errs, _ = self.run_gate(self.mutated(4, bullets=[long] * 5))
+        self.assertTrue(any(e.startswith("text does not fit its box on flow") for e in errs), errs)
+
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
         self.assertIn("reference card has no text after its label: S1: ", errs)

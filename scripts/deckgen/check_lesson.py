@@ -125,7 +125,7 @@ def check(root, lid):
         errs += [f"reference {k} has no http(s) URL" for k, r in refs.items() if not URL.search(r)]
     indep = {}  # one source per distinct address: the same URL under several labels counts once
     for k, r in refs.items():
-        if TEXTBOOK not in r and (m := URL.search(r)):
+        if (m := URL.search(r)) and (urlsplit(m.group(0)).hostname or "").lower() != TEXTBOOK:
             u = urlsplit(m.group(0).rstrip(".,;)"))  # scheme and host are case-insensitive, the path is not
             indep.setdefault((u.scheme.lower(), u.netloc.lower(), u.path.rstrip("/"), u.query), k)
     indep = list(indep.values())

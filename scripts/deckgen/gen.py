@@ -351,6 +351,7 @@ def sequence(p, n, s, o, idx):
     return out
 
 
+PENDING_IDS = None  # a list while the gate renders: images without a Moda id are collected here instead of stopping the render
 FILE_IDS = json.loads((Path(__file__).resolve().parent / "file_ids.json").read_text())
 
 
@@ -362,9 +363,11 @@ def images(p, s, px, py, pw, ph):
         cx = px + k * (cw + gap)
         out.append(f'<rectangle x="{cx:.0f}" y="{py}" width="{cw:.0f}" height="{ph}" corner-radius="28" fill="#FFFFFF" stroke="{p["diagline"]}" stroke-width="3"/>')
         key = f'{s["_lid"]}/{im["file"]}'  # per lesson: two lessons may keep different files under one name
-        if key not in FILE_IDS:
+        if key not in FILE_IDS and PENDING_IDS is None:
             raise SystemExit(f"{key} has no Moda id: upload it (upload url=...) and add it to scripts/deckgen/file_ids.json")
-        fid = FILE_IDS[key]
+        if key not in FILE_IDS:  # the gate draws a figure whose file is not uploaded yet, to check its text, and reports the id as missing
+            PENDING_IDS.append(key)
+        fid = FILE_IDS.get(key, "file_PENDING")
         out.append(f'<image src="{fid}" x="{cx + 20:.0f}" y="{py + 20}" width="{cw - 40:.0f}" height="{ph - 40}" fit="contain"/>')
     credits = "; ".join(dict.fromkeys(im["credit"] for im in imgs))
     out.append(f'<text x="{M}" y="890" width="1728" height="52" font-size="22" color="{p["sub"]}" line-height="1.1" vertical-align="top">Hình: {x(credits)}</text>')
@@ -551,7 +554,7 @@ def overflows(markup):
     bad = []
     for node in ET.fromstring(markup).iter("text"):
         text = html.unescape("".join(node.itertext()))
-        if len(text) < 20 and node.get("font-family") != "Bricolage Grotesque" and not node.get("max-lines"):
+        if len(text) < 20 and "\n" not in text and node.get("font-family") != "Bricolage Grotesque" and not node.get("max-lines"):
             continue
         display = node.get("font-family") == "Bricolage Grotesque"  # wider glyphs, tighter leading
         w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))

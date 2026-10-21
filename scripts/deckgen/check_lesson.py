@@ -52,7 +52,10 @@ def gen():
 
 def norm_url(url):
     """Scheme and host are case-insensitive, the path is not; a trailing slash, a fragment and trailing punctuation do not matter."""
-    u = urlsplit(url.strip().rstrip(".,;)"))
+    try:
+        u = urlsplit(url.strip().rstrip(".,;)"))
+    except ValueError:  # e.g. "https://[bad].org": reported as a malformed reference, never a crash
+        return ("malformed", url, "", "")
     return (u.scheme.lower(), u.netloc.lower(), u.path.rstrip("/"), u.query)
 
 
@@ -83,15 +86,18 @@ def overflow(root, lid, S, sl_path):
             s = {"title": "the cover", "layout": "cover"}
         elif s.get("layout") not in LAYOUTS or s.get("tone") not in TONES:
             continue  # reported above
+        g.PENDING_IDS = []
         try:
             markup = g.page(lid, i, opts, sl_path)
+            warn += [f"slide {i} ({s['title']}): {key} has no Moda id yet (scripts/deckgen/file_ids.json); upload it when the deck is built" for key in g.PENDING_IDS]
         except SystemExit as e:
-            (warn if "has no Moda id" in str(e) else errs).append(f"slide {i} ({s['title']}): {e}")  # a new figure gets its id when the deck is built
+            errs.append(f"slide {i} ({s['title']}): {e}")
             continue
         except Exception as e:  # the documented generation command would fail the same way
             errs.append(f"slide {i} ({s['title']}) does not render: {type(e).__name__}: {e}")
             continue
         errs += [f"text does not fit its box on {s['layout']} ({s['title']}): {t[:50]}" for t in g.overflows(markup)]
+    g.PENDING_IDS = None
     return errs, warn
 
 
@@ -143,6 +149,8 @@ def check(root, lid):
         for k, url in ex["sources"].items():
             if url and norm_url(url) not in {norm_url(m.group(0)) for m in URL.finditer(refs.get(k, ""))}:
                 errs.append(f"url of {k} is not on its own reference line")
+    errs += [f"reference {k} has a malformed URL: {m.group(0)}" for k, r in refs.items() for m in URL.finditer(r)
+             if norm_url(m.group(0))[0] == "malformed"]
     listed = {norm_url(m.group(0)) for r in refs.values() for m in URL.finditer(r)}
     for url in ex.get("required_urls", []):
         if norm_url(url) not in listed: errs.append(f"required source missing: {url}")
@@ -150,7 +158,7 @@ def check(root, lid):
         errs += [f"reference {k} has no http(s) URL" for k, r in refs.items() if not URL.search(r)]
     indep = {}  # one source per distinct address: the same URL under several labels counts once
     for k, r in refs.items():
-        if (m := URL.search(r)) and (urlsplit(m.group(0)).hostname or "").lower() != TEXTBOOK:
+        if (m := URL.search(r)) and norm_url(m.group(0))[1] != TEXTBOOK:
             indep.setdefault(norm_url(m.group(0)), k)
     indep = list(indep.values())
     if len(indep) < ex.get("min_independent_sources", 0):

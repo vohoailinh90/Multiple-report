@@ -434,6 +434,25 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(slides, expected={**EXPECTED, "topic": "suc-khoe", "sections": sections, "section_min_exempt": [*EXPECTED["section_min_exempt"], "Lưu ý"]}, lesson=with_note)
         self.assertEqual(errs, [])
 
+    def test_a_malformed_bibliography_url_is_reported_not_crashed(self):
+        lesson = LESSON.replace("https://example.org/2", "https://[bad].org/2")
+        errs, _ = self.run_gate(lesson=lesson)
+        self.assertIn("reference S2 has a malformed URL: https://[bad].org/2", errs)
+
+    def test_short_text_with_explicit_line_breaks_is_still_measured(self):
+        """19 characters, ten lines: 264px at the 22px floor in a 190px timeline box."""
+        errs, _ = self.run_gate(self.mutated(4, layout="timeline", bullets=["\n".join(["ý"] * 10)]))
+        self.assertTrue(any(e.startswith("text does not fit its box on timeline") for e in errs), errs)
+
+    def test_a_figure_awaiting_its_moda_id_still_has_its_text_checked(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "chữ " * 300, "url": "https://example.org/x.png"}]
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        errs, warn = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
+        self.assertTrue(any(e.startswith("text does not fit its box on figure") for e in errs), errs)
+        self.assertTrue(any("has no Moda id yet" in w for w in warn), warn)
+        self.assertIsNone(gate.gen().PENDING_IDS, "the renderer is left strict for gen.py itself")
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)

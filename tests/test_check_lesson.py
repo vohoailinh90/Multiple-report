@@ -359,6 +359,8 @@ class GateTests(unittest.TestCase):
                     **({"body": " ".join(["plain english words"] * 25)} if "body" in s else {}),
                     **({"facts": [{"label": "plain", "text": "english words"}] * len(s["facts"])} if "facts" in s else {})} for s in SLIDES]
         english[-1]["title"] = "Nguồn tham khảo"
+        for s in english:
+            s["notes"] = "Lời giảng bằng tiếng Việt có dấu, không hiện trên slide. " * 20  # hidden notes must not rescue an English deck
         errs, _ = self.run_gate(english)
         self.assertTrue(any(e.startswith("the deck is not Vietnamese with diacritics") for e in errs), errs)
         self.assertFalse(any(e.startswith("the lesson is not Vietnamese") for e in errs))
@@ -366,6 +368,18 @@ class GateTests(unittest.TestCase):
     def test_the_bibliography_does_not_count_toward_the_lesson_length(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_words": 160})  # 146 words of prose, 199 with the bibliography
         self.assertIn("words 146", errs)
+
+    def test_a_key_term_must_appear_in_the_prose_not_only_in_the_bibliography(self):
+        lesson = LESSON.replace("Hạnh nhân", "Amygdala").replace("- [S2] Tác giả 2,", "- [S2] Hạnh nhân, tác giả 2,")
+        errs, _ = self.run_gate(lesson=lesson, expected={**EXPECTED, "sections": ["Tóm tắt", "Amygdala", "Nguồn tham khảo"]})
+        self.assertIn("key term missing: Hạnh nhân", errs)
+
+    def test_a_key_term_may_wrap_across_a_line_in_the_lesson(self):
+        lesson = LESSON.replace("## Tóm tắt\n\n", "## Tóm tắt\n\nsự nổi bật của động cơ (incentive\nsalience) ")
+        errs, _ = self.run_gate(lesson=lesson, expected={**EXPECTED, "key_terms": ["incentive salience"]})
+        self.assertEqual(errs, [])
+        errs, _ = self.run_gate(expected={**EXPECTED, "key_terms": ["incentive salience"]})
+        self.assertIn("key term missing: incentive salience", errs)
 
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))

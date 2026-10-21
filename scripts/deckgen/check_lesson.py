@@ -249,7 +249,7 @@ def check(root, lid):
     errs += over_errs; warn += over_warn
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")
     if ex.get("language") == "vi":
-        deck = " ".join([sl["title"], sl["subtitle"], *(" ".join([s["title"], s.get("body", ""), s.get("notes", ""), *s["bullets"],
+        deck = " ".join([sl["title"], sl["subtitle"], *(" ".join([s["title"], s.get("body", ""), *s["bullets"],  # what the slide draws: notes are not rendered
                                                                 *(f["label"] + " " + f["text"] for f in s.get("facts", []))]) for s in S)])
         for what, prose_text in (("lesson", text), ("deck", deck)):
             prose = [w for w in re.sub(r"[^\w\s]", " ", prose_text).split() if w.isalpha()]
@@ -259,7 +259,7 @@ def check(root, lid):
     if not ex["min_words"] <= w <= ex["max_words"]: errs.append(f"words {w}")
     if c < ex["min_citations"]: errs.append(f"cites {c}")
     for term in ex["key_terms"]:
-        if term not in body: errs.append(f"key term missing: {term}")
+        if " ".join(term.split()) not in " ".join(text.split()): errs.append(f"key term missing: {term}")
     explained = sum(1 for s in S if s.get("body") or s.get("facts"))
     summary = (f"{lid}: {len(S)} slides ({explained} with body/facts), {len(set(lay))} layouts, {w} words, "
                f"{c} cites, {len(refs)} sources ({len(indep)} independent), {figures} figures")

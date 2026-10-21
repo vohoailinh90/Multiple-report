@@ -24,9 +24,9 @@ Exceptions in this repository, which replace the matching rule above:
 
 - Current process (set by the owner, temporary): Claude designs and writes the code or the lesson in the main session, Codex critiques every pull request (`@codex review` on each head, as the review step above says).
 - Claude scores the requirement with scripts/route.py of the template repo and keeps to the agent budget of its tier; Codex never designs or edits here, it only reviews, and a finding is checked against the code before it is fixed or answered.
-- A lesson's structure is judged by lesson_gates.py (template repo, scripts/team/lesson/) against lessons/<id>.expected.json, which Claude runs by hand when it writes a lesson: `python3 <template>/scripts/team/lesson/lesson_gates.py lessons/<id> --expect lessons/<id>.expected.json`.
+- Claude writes lessons/<id>.expected.json itself when it designs a lesson (the tester that used to write it is not running), from its own outline and sources and before writing lesson.md; after that it is not edited to make the gate pass. Claude then runs the structure gate by hand: `python3 <template>/scripts/team/lesson/lesson_gates.py lessons/<id> --expect lessons/<id>.expected.json` (lesson_gates.py is in the template repo, scripts/team/lesson/).
 - The deck (lessons/<id>/<id>.pptx) is built by Claude with Moda in the main session, never by a subagent; record it with `python3 scripts/decks.py record`.
-- Lessons and decks are personal notes and are committed and pushed as CLAUDE.md "Lam viec tu chu" allows; the pull-request process above applies to changes to scripts/, tests/, docs/ and the agent files.
+- A new or changed lesson (lesson.md, slides.json, expected.json) goes through the pull-request process above like any other change. Only deck commits (`decks: <ids>`, the pptx and its deck.json) are pushed straight to the branch, as CLAUDE.md "Lam viec tu chu" allows; the pull-request process also covers scripts/, tests/, docs/ and the agent files.
 
 Where this repository documents its own rule for one of these steps elsewhere (who merges, what gates a merge, how the review is requested, a cap on rounds), that rule governs that step; this process covers whatever the repository leaves unsaid.
 <!-- team-onboarding:end -->

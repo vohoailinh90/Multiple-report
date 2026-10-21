@@ -210,6 +210,10 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(swapped)
         self.assertIn("slides do not follow the order of the lesson's sections", errs)
         self.assertIn("the last slide must be the sources slide (section Nguồn tham khảo)", errs)
+        lookup = self.mutated(5, layout="lookup-table")
+        self.assertIn("the last slide of a deep lesson must use the references layout", self.run_gate(lookup)[0])
+        shallow = {k: v for k, v in EXPECTED.items() if k not in ("section_min_slides", "section_min_exempt")}
+        self.assertEqual(self.run_gate(lookup, shallow)[0], [], "older lessons may end on any layout in the sources section")
         early = self.mutated(4, layout="references", bullets=["S1: a"])
         self.assertIn("a references slide must be the last slide", self.run_gate(early)[0])
 

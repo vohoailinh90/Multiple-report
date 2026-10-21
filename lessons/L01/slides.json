@@ -64,11 +64,11 @@
       "section": "Hệ thần kinh trung ương và ngoại biên",
       "sources": [
         "S5",
-        "S16"
+        "S10"
       ],
       "layout": "explainer",
       "tone": "dark",
-      "body": "**Hệ thần kinh trung ương** (central nervous system) gồm não và tủy sống. **Hệ thần kinh ngoại biên** (peripheral nervous system) gồm các dây thần kinh nằm ngoài não và tủy sống, nối hệ trung ương với phần còn lại của cơ thể [S5]. Purves và cộng sự chia hệ trung ương thành bảy phần: tủy sống, hành não, cầu não, tiểu não, não giữa, gian não và hai bán cầu đại não; ba phần hành não, cầu não, não giữa gộp lại là **thân não** [S16].",
+      "body": "**Hệ thần kinh trung ương** (central nervous system) gồm não và tủy sống. **Hệ thần kinh ngoại biên** (peripheral nervous system) gồm các dây thần kinh nằm ngoài não và tủy sống, nối hệ trung ương với phần còn lại của cơ thể [S5]. Purves và cộng sự chia hệ trung ương thành bảy phần: tủy sống, hành não, cầu não, tiểu não, não giữa, gian não và hai bán cầu đại não; ba phần hành não, cầu não, não giữa gộp lại là **thân não** [S10].",
       "bullets": [
         "Trung ương: não và tủy sống",
         "Ngoại biên: dây thần kinh sọ và dây thần kinh sống",
@@ -142,7 +142,7 @@
       "section": "Hệ thần kinh trung ương và ngoại biên",
       "sources": [
         "S7",
-        "S16"
+        "S10"
       ],
       "layout": "card-grid",
       "tone": "light",
@@ -159,7 +159,7 @@
       "section": "Hệ thần kinh trung ương và ngoại biên",
       "sources": [
         "S7",
-        "S9"
+        "S8"
       ],
       "layout": "figure",
       "tone": "dark",
@@ -183,8 +183,7 @@
       "section": "Hệ thần kinh trung ương và ngoại biên",
       "sources": [
         "S7",
-        "S8",
-        "S9"
+        "S8"
       ],
       "layout": "two-column-comparison",
       "tone": "light",
@@ -200,11 +199,11 @@
       "section": "Hệ thần kinh trung ương và ngoại biên",
       "sources": [
         "S7",
-        "S9"
+        "S8"
       ],
       "layout": "annotated-figure",
       "tone": "dark",
-      "body": "Phần lớn cơ quan nhận cả sợi **giao cảm** lẫn **đối giao cảm**, nhưng tuyến mồ hôi, tủy thượng thận, cơ dựng lông và phần lớn động mạch chỉ nhận sợi giao cảm [S9]. Phần đối giao cảm xuất phát từ thân não và đoạn cùng của tủy sống, trong đó có nhân vận động lưng của dây phế vị ở hành não [S9].",
+      "body": "Phần lớn cơ quan nhận cả sợi **giao cảm** lẫn **đối giao cảm**, nhưng tuyến mồ hôi, tủy thượng thận, cơ dựng lông và phần lớn động mạch chỉ nhận sợi giao cảm [S8]. Phần đối giao cảm xuất phát từ thân não và đoạn cùng của tủy sống, trong đó có nhân vận động lưng của dây phế vị ở hành não [S8].",
       "bullets": [
         "Parasympathetic: đối giao cảm",
         "Sympathetic: giao cảm",
@@ -224,7 +223,7 @@
       "title": "Các cặp từ chỉ hướng",
       "section": "Đọc bản đồ não: hướng và mặt cắt",
       "sources": [
-        "S10"
+        "S9"
       ],
       "layout": "lookup-table",
       "tone": "light",
@@ -241,12 +240,12 @@
       "title": "Ba mặt cắt chuẩn",
       "section": "Đọc bản đồ não: hướng và mặt cắt",
       "sources": [
-        "S10",
-        "S11"
+        "S9",
+        "S10"
       ],
       "layout": "annotated-figure",
       "tone": "dark",
-      "body": "Não là khối ba chiều, nên ta xem nó qua các lát hai chiều. **Mặt cắt** đứng ngang (coronal) chia trước và sau; đứng dọc (sagittal) chia trái và phải; nằm ngang (axial) chia trên và dưới [S10]. Lát đứng dọc ngay giữa hai bán cầu gọi là mặt cắt giữa [S11].",
+      "body": "Não là khối ba chiều, nên ta xem nó qua các lát hai chiều. **Mặt cắt** đứng ngang (coronal) chia trước và sau; đứng dọc (sagittal) chia trái và phải; nằm ngang (axial) chia trên và dưới [S9]. Lát đứng dọc ngay giữa hai bán cầu gọi là mặt cắt giữa [S10].",
       "bullets": [
         "Frontal plane: đứng ngang",
         "Sagittal plane: đứng dọc",
@@ -266,11 +265,11 @@
       "title": "Vì sao \"lưng\" có hai nghĩa",
       "section": "Đọc bản đồ não: hướng và mặt cắt",
       "sources": [
-        "S11"
+        "S10"
       ],
       "layout": "explainer",
       "tone": "light",
-      "body": "Với cơ thể, các hướng đi theo một trục dài thẳng. Nhưng trục dài của **hệ thần kinh trung ương** ở người bị gập: Purves và cộng sự mô tả góc khoảng 120° giữa trục của **thân não** và trục của não trước, hình thành khi loài người đứng thẳng [S11]. Hệ quả là ở thân não và tủy sống, \"lưng\" (dorsal) chỉ về phía gáy, còn ở não trước, \"lưng\" chỉ về phía đỉnh đầu [S11]. Cùng một chữ, hai hướng khác nhau.",
+      "body": "Với cơ thể, các hướng đi theo một trục dài thẳng. Nhưng trục dài của **hệ thần kinh trung ương** ở người bị gập: Purves và cộng sự mô tả góc khoảng 120° giữa trục của **thân não** và trục của não trước, hình thành khi loài người đứng thẳng [S10]. Hệ quả là ở thân não và tủy sống, \"lưng\" (dorsal) chỉ về phía gáy, còn ở não trước, \"lưng\" chỉ về phía đỉnh đầu [S10]. Cùng một chữ, hai hướng khác nhau.",
       "bullets": [
         "Ở thân não: lưng là phía gáy",
         "Ở não trước: lưng là phía đỉnh đầu",
@@ -283,8 +282,7 @@
       "section": "Nhìn vào não sống: các cách chụp não",
       "sources": [
         "S1",
-        "S12",
-        "S13"
+        "S11"
       ],
       "layout": "lookup-table",
       "tone": "dark",
@@ -301,11 +299,11 @@
       "title": "Bằng chứng từ bệnh nhân tổn thương",
       "section": "Nhìn vào não sống: các cách chụp não",
       "sources": [
-        "S14"
+        "S11"
       ],
       "layout": "explainer",
       "tone": "light",
-      "body": "Trước khi có máy chụp, bằng chứng đến từ bệnh nhân **tổn thương não**. Phineas Gage mất một phần thùy trán trái; theo giáo trình, ông vẫn nói, đi, nhớ bình thường nhưng tính cách thay đổi [S14]. Broca và Wernicke thấy hai vùng tổn thương khác nhau làm hỏng hai việc khác nhau, nói và hiểu lời; giáo trình gọi đó là **phân ly kép** [S14]. Giới hạn: tổn thương mỗi người một khác và hiếm khi gọn trong một vùng [S14].",
+      "body": "Trước khi có máy chụp, bằng chứng đến từ bệnh nhân **tổn thương não**. Phineas Gage mất một phần thùy trán trái; theo giáo trình, ông vẫn nói, đi, nhớ bình thường nhưng tính cách thay đổi [S11]. Broca và Wernicke thấy hai vùng tổn thương khác nhau làm hỏng hai việc khác nhau, nói và hiểu lời; giáo trình gọi đó là **phân ly kép** [S11]. Giới hạn: tổn thương mỗi người một khác và hiếm khi gọn trong một vùng [S11].",
       "bullets": [
         "Mạnh: cho biết vùng nào cần cho việc gì",
         "Yếu: tổn thương không gọn, khó khái quát",
@@ -317,8 +315,8 @@
       "title": "Ảnh màu không phải bằng chứng nhân quả",
       "section": "Nhìn vào não sống: các cách chụp não",
       "sources": [
-        "S12",
-        "S15"
+        "S11",
+        "S12"
       ],
       "layout": "one-highlighted-sentence",
       "tone": "dark",
@@ -334,11 +332,11 @@
       "section": "Thân não: hành não, cầu não, não giữa",
       "sources": [
         "S1",
-        "S16"
+        "S10"
       ],
       "layout": "explainer",
       "tone": "light",
-      "body": "**Thân não** (brainstem) gồm, từ dưới lên, **hành não** (medulla oblongata) nối liền tủy sống, **cầu não** (pons) và **não giữa** (midbrain) [S1]. Nó chứa nhiều bó chất trắng mang tin lên xuống giữa tủy sống, dây thần kinh sọ và phần còn lại của não, và lo những chức năng giữ ta sống như thở, nhịp tim, tiêu hóa [S1]. Các nhân của dây thần kinh sọ nằm ở đây [S16]. Bệnh nhân tổn thương thân não nặng thường phải dùng máy hỗ trợ sự sống [S1].",
+      "body": "**Thân não** (brainstem) gồm, từ dưới lên, **hành não** (medulla oblongata) nối liền tủy sống, **cầu não** (pons) và **não giữa** (midbrain) [S1]. Nó chứa nhiều bó chất trắng mang tin lên xuống giữa tủy sống, dây thần kinh sọ và phần còn lại của não, và lo những chức năng giữ ta sống như thở, nhịp tim, tiêu hóa [S1]. Các nhân của dây thần kinh sọ nằm ở đây [S10]. Bệnh nhân tổn thương thân não nặng thường phải dùng máy hỗ trợ sự sống [S1].",
       "bullets": [
         "Ở đâu: đáy não, nối với tủy sống",
         "Làm gì: thở, nhịp tim, đường dẫn truyền",
@@ -375,9 +373,9 @@
       "sources": [
         "S1",
         "S4",
-        "S9",
-        "S16",
-        "S17"
+        "S8",
+        "S10",
+        "S13"
       ],
       "layout": "profile-card",
       "tone": "light",
@@ -388,7 +386,7 @@
         },
         {
           "label": "Gồm",
-          "text": "Đường dây nối não với tủy sống, nhân dây thần kinh sọ, nhân vận động lưng của dây phế vị [S9] [S16]"
+          "text": "Đường dây nối não với tủy sống, nhân dây thần kinh sọ, nhân vận động lưng của dây phế vị [S8] [S10]"
         },
         {
           "label": "Vai trò và bằng chứng",
@@ -396,11 +394,11 @@
         },
         {
           "label": "Kết nối",
-          "text": "Xuống tủy sống; qua dây phế vị đến tim, phổi, ruột [S9]"
+          "text": "Xuống tủy sống; qua dây phế vị đến tim, phổi, ruột [S8]"
         },
         {
           "label": "Chất dẫn truyền",
-          "text": "Chưa có nguồn trong bài nêu chất chính; có nhóm nơron chứa adrenaline, chức năng chưa rõ [S17]"
+          "text": "Chưa có nguồn trong bài nêu chất chính; có nhóm nơron chứa adrenaline, chức năng chưa rõ [S13]"
         },
         {
           "label": "Khi tổn thương",
@@ -414,7 +412,7 @@
       "title": "Cầu não: đường từ vỏ não sang tiểu não",
       "section": "Thân não: hành não, cầu não, não giữa",
       "sources": [
-        "S18"
+        "S14"
       ],
       "layout": "flow",
       "tone": "dark",
@@ -432,9 +430,9 @@
       "sources": [
         "S1",
         "S4",
-        "S17",
-        "S18",
-        "S19"
+        "S13",
+        "S14",
+        "S15"
       ],
       "layout": "profile-card",
       "tone": "light",
@@ -445,19 +443,19 @@
         },
         {
           "label": "Gồm",
-          "text": "Nhân cầu não [S18], hệ lưới cầu não [S19], vùng raphe chứa serotonin [S17]"
+          "text": "Nhân cầu não [S14], hệ lưới cầu não [S15], vùng raphe chứa serotonin [S13]"
         },
         {
           "label": "Vai trò và bằng chứng",
-          "text": "Chuyển tiếp tin cảm giác, vận động [S1]; ảnh hưởng thở, tư thế [S4]; cử động mắt khi ngủ REM [S19]"
+          "text": "Chuyển tiếp tin cảm giác, vận động [S1]; ảnh hưởng thở, tư thế [S4]; cử động mắt khi ngủ REM [S15]"
         },
         {
           "label": "Kết nối",
-          "text": "Vỏ não sang tiểu não qua cuống tiểu não giữa [S18]"
+          "text": "Vỏ não sang tiểu não qua cuống tiểu não giữa [S14]"
         },
         {
           "label": "Chất dẫn truyền",
-          "text": "Serotonin từ vùng raphe [S17]; acetylcholine ở chỗ nối với não giữa [S19]"
+          "text": "Serotonin từ vùng raphe [S13]; acetylcholine ở chỗ nối với não giữa [S15]"
         },
         {
           "label": "Khi tổn thương",
@@ -473,8 +471,8 @@
       "sources": [
         "S1",
         "S4",
-        "S9",
-        "S17"
+        "S8",
+        "S13"
       ],
       "layout": "connection-diagram",
       "tone": "dark",
@@ -493,8 +491,8 @@
         "S1",
         "S3",
         "S4",
-        "S9",
-        "S17"
+        "S8",
+        "S13"
       ],
       "layout": "profile-card",
       "tone": "light",
@@ -505,7 +503,7 @@
         },
         {
           "label": "Gồm",
-          "text": "Gò trên, gò dưới [S1]; chất đen, vùng mái bụng [S17]; nhân Edinger-Westphal [S9]"
+          "text": "Gò trên, gò dưới [S1]; chất đen, vùng mái bụng [S13]; nhân Edinger-Westphal [S8]"
         },
         {
           "label": "Vai trò và bằng chứng",
@@ -513,15 +511,15 @@
         },
         {
           "label": "Kết nối",
-          "text": "Chất đen đến thể vân [S17]; VTA đến nhân accumbens [S4]"
+          "text": "Chất đen đến thể vân [S13]; VTA đến nhân accumbens [S4]"
         },
         {
           "label": "Chất dẫn truyền",
-          "text": "Dopamine [S1] [S17]"
+          "text": "Dopamine [S1] [S13]"
         },
         {
           "label": "Khi tổn thương",
-          "text": "Bệnh Parkinson: nơron dopamine của chất đen thoái hóa, gây rối loạn vận động [S17]"
+          "text": "Bệnh Parkinson: nơron dopamine của chất đen thoái hóa, gây rối loạn vận động [S13]"
         }
       ],
       "notes": "Thẻ hồ sơ não giữa. Bằng chứng rõ nhất về vai trò dopamine của não giữa là bệnh Parkinson: Purves và cộng sự viết rằng các nơron dopamine của chất đen thoái hóa, dẫn đến rối loạn vận động đặc trưng; Brain Facts mô tả các triệu chứng như run và cứng. Brain Facts cũng nêu não giữa điều phối chớp mắt, điều tiết mắt và phản xạ với tiếng động lớn như cú giật mình. Đồi thị, nằm ngay trên não giữa, là trạm trung chuyển tin giác quan lên vỏ; xem L07. Thuốc điều trị thuộc phạm vi L03. Suy luận của người viết: ba thẻ cho thấy thân não có việc tại chỗ và việc phát sóng lên toàn não; mục sau nói về việc thứ hai.",
@@ -533,8 +531,8 @@
       "sources": [
         "S1",
         "S4",
-        "S18",
-        "S19"
+        "S14",
+        "S15"
       ],
       "layout": "numbered-rows",
       "tone": "dark",
@@ -550,8 +548,8 @@
       "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
       "sources": [
         "S4",
-        "S17",
-        "S19"
+        "S13",
+        "S15"
       ],
       "layout": "lookup-table",
       "tone": "light",
@@ -567,26 +565,26 @@
       "title": "Locus coeruleus: hồ sơ ngắn",
       "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
       "sources": [
-        "S17"
+        "S13"
       ],
       "layout": "profile-card",
       "tone": "dark",
       "facts": [
         {
           "label": "Ở đâu",
-          "text": "Một nhân ở thân não; hình 6.12 của Purves vẽ ở vùng cầu não [S17]"
+          "text": "Một nhân ở thân não; hình 6.12 của Purves vẽ ở vùng cầu não [S13]"
         },
         {
           "label": "Chất",
-          "text": "Noradrenaline (norepinephrine); cũng là chất chính của hạch giao cảm [S17]"
+          "text": "Noradrenaline (norepinephrine); cũng là chất chính của hạch giao cảm [S13]"
         },
         {
           "label": "Tỏa đi đâu",
-          "text": "Lan tỏa đến nhiều đích ở não trước; hình vẽ cả tiểu não, tủy sống [S17]"
+          "text": "Lan tỏa đến nhiều đích ở não trước; hình vẽ cả tiểu não, tủy sống [S13]"
         },
         {
           "label": "Liên quan đến",
-          "text": "Ngủ và thức, chú ý, hành vi ăn [S17]; vai trò của chất: xem L03"
+          "text": "Ngủ và thức, chú ý, hành vi ăn [S13]; vai trò của chất: xem L03"
         },
         {
           "label": "Đừng hiểu nhầm",
@@ -601,11 +599,11 @@
       "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
       "sources": [
         "S4",
-        "S19"
+        "S15"
       ],
       "layout": "explainer",
       "tone": "light",
-      "body": "Năm 1949, Magoun và Moruzzi kích thích điện một nhóm nơron cholinergic gần chỗ nối cầu não và não giữa, và con mèo đang ngủ thức dậy (bằng chứng ở động vật); vùng này được gọi là **hệ lưới hoạt hóa** (reticular activating system) [S19]. Các nhân này phóng xung nhanh khi thức và khi ngủ REM, gần như im lặng khi ngủ không REM. Nhưng chúng không phải nền tảng duy nhất của sự thức: nơron của **locus coeruleus** và nhân raphe cũng tham gia [S19].",
+      "body": "Năm 1949, Magoun và Moruzzi kích thích điện một nhóm nơron cholinergic gần chỗ nối cầu não và não giữa, và con mèo đang ngủ thức dậy (bằng chứng ở động vật); vùng này được gọi là **hệ lưới hoạt hóa** (reticular activating system) [S15]. Các nhân này phóng xung nhanh khi thức và khi ngủ REM, gần như im lặng khi ngủ không REM. Nhưng chúng không phải nền tảng duy nhất của sự thức: nơron của **locus coeruleus** và nhân raphe cũng tham gia [S15].",
       "bullets": [
         "Ở đâu: chỗ nối cầu não và não giữa",
         "Làm gì: góp phần giữ ta thức",
@@ -617,7 +615,7 @@
       "title": "Ba trạng thái, hai hệ nhân",
       "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
       "sources": [
-        "S19"
+        "S15"
       ],
       "layout": "lookup-table",
       "tone": "dark",
@@ -633,8 +631,8 @@
       "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
       "sources": [
         "S1",
-        "S17",
-        "S19"
+        "S13",
+        "S15"
       ],
       "layout": "card-grid",
       "tone": "light",
@@ -651,11 +649,11 @@
       "section": "Tiểu não (cerebellum)",
       "sources": [
         "S1",
-        "S18"
+        "S14"
       ],
       "layout": "annotated-figure",
       "tone": "dark",
-      "body": "**Tiểu não** (cerebellum, tiếng Latin là \"não nhỏ\") nằm ở phía sau não. Mặt ngoài gấp nếp rất dày; cắt dọc ở giữa sẽ thấy chất trắng phân nhánh như cành cây, gọi là **cây sống** (arbor vitae) [S1]. Nó nối với thân não qua ba cuống tiểu não [S18].",
+      "body": "**Tiểu não** (cerebellum, tiếng Latin là \"não nhỏ\") nằm ở phía sau não. Mặt ngoài gấp nếp rất dày; cắt dọc ở giữa sẽ thấy chất trắng phân nhánh như cành cây, gọi là **cây sống** (arbor vitae) [S1]. Nó nối với thân não qua ba cuống tiểu não [S14].",
       "bullets": [
         "Phần trắng phân nhánh: cây sống",
         "Khối phía sau, dưới: tiểu não"
@@ -676,37 +674,34 @@
       "sources": [
         "S1",
         "S4",
-        "S18",
-        "S20",
-        "S21",
-        "S22"
+        "S14"
       ],
       "layout": "profile-card",
       "tone": "light",
       "facts": [
         {
           "label": "Ở đâu",
-          "text": "Phía sau não, giữa đại não và thân não [S1]; nối qua ba cuống tiểu não [S18]"
+          "text": "Phía sau não, giữa đại não và thân não [S1]; nối qua ba cuống tiểu não [S14]"
         },
         {
           "label": "Gồm",
-          "text": "Hai bán cầu, vỏ tiểu não, các nhân sâu [S4] [S20]; ba phần: tiền đình, tủy, đại não [S18]"
+          "text": "Hai bán cầu, vỏ tiểu não, các nhân sâu [S4] [S14]; ba phần: tiền đình, tủy, đại não [S14]"
         },
         {
           "label": "Vai trò và bằng chứng",
-          "text": "Không khởi phát lệnh; làm cử động chính xác, đúng lúc, và học vận động [S1] [S21]"
+          "text": "Không khởi phát lệnh; làm cử động chính xác, đúng lúc, và học vận động [S1] [S14]"
         },
         {
           "label": "Kết nối",
-          "text": "Nhận từ vỏ não, nhân tiền đình, tủy sống; gửi qua nhân sâu đến nơron vận động trên [S18] [S20]"
+          "text": "Nhận từ vỏ não, nhân tiền đình, tủy sống; gửi qua nhân sâu đến nơron vận động trên [S14]"
         },
         {
           "label": "Chất dẫn truyền",
-          "text": "Chưa có nguồn trong bài nêu tên; tế bào Purkinje ức chế, nhân sâu kích thích [S21]"
+          "text": "Chưa có nguồn trong bài nêu tên; tế bào Purkinje ức chế, nhân sâu kích thích [S14]"
         },
         {
           "label": "Khi tổn thương",
-          "text": "Cử động giật cục, thiếu chính xác (thất điều), ở cùng bên tổn thương [S21] [S22]"
+          "text": "Cử động giật cục, thiếu chính xác (thất điều), ở cùng bên tổn thương [S14]"
         }
       ],
       "notes": "Thẻ hồ sơ tiểu não, cùng sáu mục như ba thẻ thân não. Ba phần theo nơi gửi tin đến, theo Purves và cộng sự: tiểu não tiền đình nhận tin từ các nhân tiền đình, lo tư thế và thăng bằng; tiểu não tủy nhận tin trực tiếp từ tủy sống, gồm cả thùy giun ở giữa, lo cử động thân mình và chân tay; tiểu não đại não nhận tin từ vỏ đại não, phần lớn nhất ở người, lo chuỗi cử động khéo léo, kể cả lời nói. Nơron vận động trên là nơron ở vỏ não và thân não phát lệnh vận động xuống. Mục đừng hiểu nhầm: tiểu não không ra lệnh, nó sửa lệnh; vai trò ngoài vận động ở slide cuối mục.",
@@ -732,8 +727,7 @@
       "title": "Vòng sửa lỗi của tiểu não",
       "section": "Tiểu não (cerebellum)",
       "sources": [
-        "S20",
-        "S21"
+        "S14"
       ],
       "layout": "flow",
       "tone": "light",
@@ -750,7 +744,7 @@
       "section": "Tiểu não (cerebellum)",
       "sources": [
         "S4",
-        "S22"
+        "S14"
       ],
       "layout": "lookup-table",
       "tone": "dark",
@@ -767,12 +761,12 @@
       "section": "Tiểu não (cerebellum)",
       "sources": [
         "S1",
-        "S23",
-        "S24"
+        "S16",
+        "S17"
       ],
       "layout": "explainer",
       "tone": "light",
-      "body": "Giáo trình nêu như điều đã biết rằng **tiểu não** tham gia cả ngôn ngữ và chú ý [S1]. Buckner (2013) kể rằng khi những nghiên cứu hình ảnh đầu tiên thấy tiểu não phản ứng trong nhiệm vụ không cần vận động, đó là quan sát gây tranh cãi; các phát hiện lặp lại sau đó dẫn đến việc xem lại mô hình cũ [S23]. Schmahmann và Sherman (1998) khám 20 bệnh nhân và mô tả **hội chứng nhận thức cảm xúc tiểu não** [S24].",
+      "body": "Giáo trình nêu như điều đã biết rằng **tiểu não** tham gia cả ngôn ngữ và chú ý [S1]. Buckner (2013) kể rằng khi những nghiên cứu hình ảnh đầu tiên thấy tiểu não phản ứng trong nhiệm vụ không cần vận động, đó là quan sát gây tranh cãi; các phát hiện lặp lại sau đó dẫn đến việc xem lại mô hình cũ [S16]. Schmahmann và Sherman (1998) khám 20 bệnh nhân và mô tả **hội chứng nhận thức cảm xúc tiểu não** [S17].",
       "bullets": [
         "Mức chắc chắn: nhiều bằng chứng, từng gây tranh cãi",
         "Bằng chứng: ảnh chụp, giải phẫu, bệnh nhân",
@@ -851,11 +845,11 @@
       "sources": [
         "S1",
         "S4",
-        "S14"
+        "S11"
       ],
       "layout": "explainer",
       "tone": "light",
-      "body": "Các ca của Broca và Wernicke cho thấy tổn thương ở chỗ cụ thể gắn với khiếm khuyết cụ thể, gọi là **định vị chức năng** (localization of function) [S14]. Nhưng tổn thương ở người hiếm khi gọn trong một vùng [S14], và hai bán cầu thường có chức năng chồng lấn, dự phòng cho nhau [S1]. Đồi thị vừa chuyển tin lên vỏ vừa nhận tin từ vỏ xuống, nên luồng \"đầu vào, tính toán, đầu ra\" không đi một chiều [S1].",
+      "body": "Các ca của Broca và Wernicke cho thấy tổn thương ở chỗ cụ thể gắn với khiếm khuyết cụ thể, gọi là **định vị chức năng** (localization of function) [S11]. Nhưng tổn thương ở người hiếm khi gọn trong một vùng [S11], và hai bán cầu thường có chức năng chồng lấn, dự phòng cho nhau [S1]. Đồi thị vừa chuyển tin lên vỏ vừa nhận tin từ vỏ xuống, nên luồng \"đầu vào, tính toán, đầu ra\" không đi một chiều [S1].",
       "bullets": [
         "Giáo khoa: có vùng chuyên về một số việc",
         "Nhưng: não làm việc theo vòng và mạng",
@@ -868,7 +862,7 @@
       "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
       "sources": [
         "S1",
-        "S19"
+        "S15"
       ],
       "layout": "flow",
       "tone": "dark",
@@ -885,8 +879,8 @@
       "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
       "sources": [
         "S3",
-        "S12",
-        "S25"
+        "S11",
+        "S18"
       ],
       "layout": "two-column-comparison",
       "tone": "light",
@@ -904,12 +898,12 @@
         "S1",
         "S5",
         "S7",
-        "S10",
-        "S12",
-        "S17",
-        "S19",
-        "S23",
-        "S25"
+        "S9",
+        "S11",
+        "S13",
+        "S15",
+        "S16",
+        "S18"
       ],
       "layout": "numbered-rows",
       "tone": "dark",
@@ -924,7 +918,27 @@
       "notes": "Bảy ý của bài, gộp hai ý đầu thành một dòng. Ý một là công cụ: biết phần nào thuộc trung ương hay ngoại biên, và đọc được hướng, mặt cắt. Ý hai nhắc rằng mỗi cách chụp não có giới hạn. Ý ba và bốn là phần chính của bài: thân não không chỉ là đường dây, nó còn là nơi phát sóng của serotonin, noradrenaline, dopamine và acetylcholine; hồ sơ từng chất ở L03. Ý năm nhắc nhãn mức chắc chắn: vai trò vận động của tiểu não là giáo khoa, vai trò nhận thức có nhiều bằng chứng nhưng chưa phải trung tâm của việc gì. Ý sáu là tinh thần của bộ bài. Bài sau, L02, đi vào chính các nơron."
     },
     {
-      "title": "Nguồn tham khảo (1/2)",
+      "title": "Hình trong bài và giấy phép",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S5",
+        "S7",
+        "S9"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Hình 2 (2.3): Wikipedia, CC0",
+        "Hình 1 (2.2), 4 và 5 (2.4): Wikimedia, OpenStax; CC BY-NC-SA theo sách",
+        "Hình 9, 12, 19 (2.6): Martinez, OpenStax, Wikimedia; CC BY-NC-SA",
+        "Hình 23 (2.6): Wikipedia, CC BY-SA; khung tĩnh từ ảnh động",
+        "Hình 24 (2.6): Blausen qua Wikimedia; sách ghi CC BY-NC-SA"
+      ],
+      "notes": "Mọi hình lấy từ giáo trình Hove và Martinez, ghi giấy phép theo mục Media Attributions của từng chương, dùng cho mục đích phi thương mại. Riêng hình thân não, bản gốc trên Wikimedia ghi CC BY 3.0. Hình tiểu não là một khung tĩnh trích từ ảnh động của giáo trình."
+    },
+    {
+      "title": "Nguồn tham khảo",
       "section": "Nguồn tham khảo",
       "sources": [
         "S1",
@@ -939,10 +953,15 @@
         "S10",
         "S11",
         "S12",
-        "S13"
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
       ],
       "layout": "references",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
         "S1: Hove & Martinez, Biological Psychology, mục 2.6 The Brain",
         "S2: Azevedo và cộng sự 2009, J Comp Neurol",
@@ -951,69 +970,19 @@
         "S5: Hove & Martinez, mục 2.3 The Nervous System",
         "S6: Hove & Martinez, mục 2.5 The Central Nervous System",
         "S7: Hove & Martinez, mục 2.4 The Peripheral Nervous System",
-        "S8: Purves và cộng sự, Neuroscience 2e, Ch21: Sympathetic Division",
-        "S9: Purves và cộng sự, Neuroscience 2e, Ch21: Parasympathetic Division",
-        "S10: Hove & Martinez, mục 2.2 Visualizing and Navigating the Human Brain",
-        "S11: Purves và cộng sự, Neuroscience 2e, Ch1: Some Anatomical Terminology",
-        "S12: Hove & Martinez, mục 4.5 Brain imaging, PET and MRI",
-        "S13: Hove & Martinez, mục 4.4 EEG and MEG"
+        "S8: Purves và cộng sự, Neuroscience 2e, Ch21: Visceral Motor System",
+        "S9: Hove & Martinez, mục 2.2 Visualizing and Navigating the Human Brain",
+        "S10: Purves và cộng sự, Neuroscience 2e, Ch1: Anatomical Terminology",
+        "S11: Hove & Martinez, mục 4.2, 4.4, 4.5: phương pháp nghiên cứu",
+        "S12: Logothetis 2008, Nature: What we can do and what we cannot do with fMRI",
+        "S13: Purves và cộng sự, Neuroscience 2e, Ch6: The Biogenic Amines",
+        "S14: Purves và cộng sự, Neuroscience 2e, Ch19: Cerebellum",
+        "S15: Purves và cộng sự, Neuroscience 2e, Ch28: Neural Circuits Governing Sleep",
+        "S16: Buckner 2013, Neuron: The cerebellum and cognitive function",
+        "S17: Schmahmann & Sherman 1998, Brain: cerebellar cognitive affective syndrome",
+        "S18: Poldrack 2006, Trends Cogn Sci: reverse inference"
       ],
       "notes": "Giáo trình nền là Biological Psychology của Hove và Martinez, giấy phép CC BY-NC-SA 4.0; mỗi mục có đường dẫn riêng trong lesson.md."
-    },
-    {
-      "title": "Hình trong bài và giấy phép",
-      "section": "Nguồn tham khảo",
-      "sources": [
-        "S1",
-        "S5",
-        "S7",
-        "S10"
-      ],
-      "layout": "lookup-table",
-      "tone": "dark",
-      "bullets": [
-        "Hình 2 (2.3): Wikipedia, CC0",
-        "Hình 1 (2.2), 4 và 5 (2.4): Wikimedia, OpenStax; CC BY-NC-SA theo sách",
-        "Hình 9, 12, 19 (2.6): Martinez, OpenStax, Wikimedia; CC BY-NC-SA",
-        "Hình 23 (2.6): Wikipedia, CC BY-SA; khung tĩnh từ ảnh động",
-        "Hình 24 (2.6): Blausen qua Wikimedia; sách ghi CC BY-NC-SA"
-      ],
-      "notes": "Mọi hình lấy từ giáo trình Hove và Martinez, ghi giấy phép theo mục Media Attributions của từng chương, dùng cho mục đích phi thương mại. Riêng hình thân não, bản gốc trên Wikimedia ghi CC BY 3.0. Hình tiểu não là một khung tĩnh trích từ ảnh động của giáo trình."
-    },
-    {
-      "title": "Nguồn tham khảo (2/2)",
-      "section": "Nguồn tham khảo",
-      "sources": [
-        "S14",
-        "S15",
-        "S16",
-        "S17",
-        "S18",
-        "S19",
-        "S20",
-        "S21",
-        "S22",
-        "S23",
-        "S24",
-        "S25"
-      ],
-      "layout": "references",
-      "tone": "dark",
-      "bullets": [
-        "S14: Hove & Martinez, mục 4.2 Studies of Brain Damage in Humans",
-        "S15: Logothetis 2008, Nature: What we can do and what we cannot do with fMRI",
-        "S16: Purves và cộng sự, Neuroscience 2e, Ch1: Subdivisions of the CNS",
-        "S17: Purves và cộng sự, Neuroscience 2e, Ch6: The Biogenic Amines",
-        "S18: Purves và cộng sự, Neuroscience 2e, Ch19: Organization of the Cerebellum",
-        "S19: Purves và cộng sự, Neuroscience 2e, Ch28: Neural Circuits Governing Sleep",
-        "S20: Purves và cộng sự, Neuroscience 2e, Ch19: tổng quan",
-        "S21: Purves và cộng sự, Neuroscience 2e, Ch19: Cerebellar Circuitry",
-        "S22: Purves và cộng sự, Neuroscience 2e, Ch19: Consequences of Cerebellar Lesions",
-        "S23: Buckner 2013, Neuron: The cerebellum and cognitive function",
-        "S24: Schmahmann & Sherman 1998, Brain: cerebellar cognitive affective syndrome",
-        "S25: Poldrack 2006, Trends Cogn Sci: reverse inference"
-      ],
-      "notes": "Purves và cộng sự đọc qua NCBI Bookshelf; các bài báo đã đối chiếu DOI qua Crossref và tóm tắt trên PubMed."
     }
   ]
 }

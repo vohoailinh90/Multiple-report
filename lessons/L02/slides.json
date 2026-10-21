@@ -1,0 +1,315 @@
+{
+  "title": "Nơron và synapse: não truyền tin thế nào",
+  "subtitle": "Não bộ · Bài L02",
+  "slides": [
+    {
+      "title": "Hai kiểu tín hiệu trong não",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Dọc sợi trục: xung điện",
+        "Giữa hai nơron: chất hóa học",
+        "Chỗ nối giữa hai nơron: synapse"
+      ],
+      "notes": "Ví dụ của người viết: điện như đường dây chạy nhanh trong một nhà, hóa chất như người đưa thư sang nhà kế bên. Đây là chìa khóa để sang L03.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Bốn phần của một nơron",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Sợi nhánh: nhận tín hiệu",
+        "Thân tế bào: gom tín hiệu",
+        "Sợi trục: dẫn tín hiệu đi",
+        "Đầu tận cùng: trao cho tế bào kế"
+      ],
+      "notes": "Một nơron nhận từ nhiều nơron và gửi cho nhiều nơron, nên cả não là mạng lưới chứ không phải dây chuyền thẳng.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Nơron trên một hình",
+      "bullets": [
+        "Dendrites: sợi nhánh",
+        "Soma: thân tế bào",
+        "Axon: sợi trục",
+        "Myelin sheath: bao myelin"
+      ],
+      "notes": "Nhãn trong hình bằng tiếng Anh.",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/cau-tao-noron.png",
+          "alt": "Cấu tạo của hai nơron nối với nhau",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/"
+        }
+      ]
+    },
+    {
+      "title": "Bên gửi và bên nhận",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Nơron trước: bên gửi tín hiệu",
+        "Nơron sau: bên nhận tín hiệu"
+      ],
+      "notes": "Một nơron có thể là nơron sau của nơron này và nơron trước của nơron khác.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Một xung thần kinh",
+      "section": "Tín hiệu điện: xung thần kinh",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Nơron đủ bị kích thích",
+        "Natri chảy vào tế bào",
+        "Kali chảy ra khỏi tế bào",
+        "Trở về trạng thái nghỉ"
+      ],
+      "notes": "Hodgkin và Huxley mô tả và xây mô hình toán học cho cơ chế này từ thí nghiệm trên sợi trục khổng lồ của mực. Bài báo gốc rất kỹ thuật.",
+      "layout": "timeline",
+      "tone": "dark"
+    },
+    {
+      "title": "Có hoặc không",
+      "section": "Tín hiệu điện: xung thần kinh",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Xung điện không to nhỏ khác nhau"
+      ],
+      "notes": "Ví dụ của người viết: chuông cửa. Bấm nhẹ hay mạnh, tiếng chuông vẫn như nhau; bấm dồn thì vang dày hơn. Kích thích mạnh hơn thường được mã hóa chủ yếu bằng xung dày hơn; thời điểm xung và số nơron tham gia cũng góp phần.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Synapse: bốn bước",
+      "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Xung điện tới đầu tận cùng",
+        "Canxi vào, túi giải phóng chất dẫn truyền",
+        "Chất dẫn truyền gắn vào thụ thể",
+        "Nơron sau thay đổi hoạt động"
+      ],
+      "notes": "Phần lớn synapse truyền bằng hóa chất; xung điện không nhảy qua khe synapse.",
+      "layout": "sequence-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Synapse trên một hình",
+      "bullets": [
+        "Vesicle: túi chứa chất dẫn truyền",
+        "Synaptic gap: khe synapse",
+        "Receptor: thụ thể"
+      ],
+      "notes": "Nhãn trong hình bằng tiếng Anh.",
+      "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/synapse.png",
+          "alt": "Synapse: túi chứa chất dẫn truyền, khe synapse và thụ thể",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/"
+        }
+      ]
+    },
+    {
+      "title": "Thụ thể: ổ khóa và chìa",
+      "section": "Thụ thể: ổ khóa và chìa",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Chất dẫn truyền: chiếc chìa",
+        "Thụ thể: ổ khóa trên màng",
+        "Mở kênh ion hoặc báo hiệu trong tế bào"
+      ],
+      "notes": "Ví dụ của người viết: chìa đúng thì mở được, chìa sai thì không. Kênh ion là lỗ nhỏ cho ion đi qua màng.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Kích thích và ức chế",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Kích thích: nơron sau dễ phát xung hơn",
+        "Ức chế: nơron sau khó phát xung hơn"
+      ],
+      "notes": "Tác động tùy chất dẫn truyền và loại thụ thể. L03 sẽ nói chất nào kích thích, chất nào ức chế.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Nơron sau cộng gộp",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Nhiều synapse cùng gửi tín hiệu",
+        "Kích thích và ức chế được cộng gộp",
+        "Đủ mạnh thì phát xung, chưa đủ thì không"
+      ],
+      "notes": "Ví dụ của người viết: hội đồng bỏ phiếu, có người ủng hộ, có người phản đối.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Vòng tín hiệu điện hóa",
+      "bullets": [
+        "Action potential: xung có hoặc không",
+        "EPSP, IPSP: kích thích, ức chế",
+        "Release of neurotransmitter: giải phóng chất dẫn truyền"
+      ],
+      "notes": "EPSP và IPSP là điện thế kích thích và ức chế ở nơron sau.",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/vong-tin-hieu.png",
+          "alt": "Vòng tín hiệu điện hóa giữa các nơron",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 9 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/communication-within-and-between-neurons/"
+        }
+      ]
+    },
+    {
+      "title": "Ba cách chấm dứt tín hiệu",
+      "section": "Chấm dứt tín hiệu",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Thu hồi (tái hấp thu): đưa ngược vào nơron trước",
+        "Phân hủy: enzym cắt bỏ",
+        "Khuếch tán: trôi ra khỏi khe synapse"
+      ],
+      "notes": "Ví dụ của người viết: bật công tắc thì cũng phải có cách tắt.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Các bước đời một chất dẫn truyền",
+      "section": "Thuốc can thiệp ở đâu",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Tổng hợp",
+        "Giải phóng",
+        "Gắn thụ thể",
+        "Thu hồi",
+        "Phân hủy"
+      ],
+      "notes": "Mỗi bước là một điểm mà thuốc hoặc chất kích thích có thể can thiệp.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Hiểu synapse là hiểu thuốc",
+      "section": "Thuốc can thiệp ở đâu",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Mỗi bước là một điểm thuốc có thể can thiệp"
+      ],
+      "notes": "Điều này sẽ rõ hơn ở L03.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Synapse thay đổi theo kinh nghiệm",
+      "section": "Synapse thay đổi theo kinh nghiệm",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Có thể mạnh lên theo hoạt động",
+        "Có thể yếu đi theo hoạt động",
+        "Cơ sở của học và nhớ"
+      ],
+      "notes": "Tính dẻo synapse. Ví dụ của người viết: lối đi qua bãi cỏ càng nhiều người đi thì càng thành đường mòn.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "bullets": [
+        "Nhận ở sợi nhánh, gửi bằng sợi trục",
+        "Dọc sợi trục là điện, giữa nơron là hóa chất",
+        "Thụ thể quyết định tác động lên nơron sau",
+        "Mỗi bước là một điểm thuốc can thiệp",
+        "Synapse thay đổi theo kinh nghiệm"
+      ],
+      "notes": "Bài sau (L03) về từng chất dẫn truyền.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 3 và 5",
+        "Hodgkin và Huxley, J Physiol, 1952",
+        "Neuroscience Online, UTHealth Houston",
+        "Azevedo và cộng sự, J Comp Neurol, 2009"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Mẫu ba layout mới",
+  "subtitle": "Dựng thử công cụ deck · không phải bài học",
+  "_about": "Deck mẫu để thử layout explainer, profile-card, annotated-figure, references trên Moda và trong tests/test_deckgen.py. Nội dung lấy nguyên ý từ L01, L03, L05 (đã có nguồn); không phải một bài học.",
+  "slides": [
+    {
+      "title": "Hạnh nhân: gắn nhãn \"đáng chú ý về cảm xúc\"",
+      "section": "Hạnh nhân",
+      "sources": ["S3"],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Hạnh nhân** (amygdala) là một cấu trúc nhỏ nằm sâu trong não, thường được xếp vào **hệ viền**. Joseph LeDoux tổng hợp nhiều nghiên cứu và kết luận rằng hạnh nhân là một thành phần quan trọng của hệ thống tiếp nhận, lưu giữ và thể hiện ký ức sợ [S3]. Phần lớn bằng chứng đến từ thí nghiệm gây điều kiện hóa nỗi sợ (fear conditioning) ở động vật: một âm thanh đi kèm cú sốc nhẹ, lặp lại vài lần thì chỉ âm thanh cũng gây phản ứng sợ [S3].",
+      "bullets": ["Ở đâu: sâu trong não, thuộc nhóm hệ viền", "Làm gì: học và thể hiện nỗi sợ", "Đừng hiểu nhầm: không phải \"trung tâm\" của mọi cảm xúc"],
+      "notes": "Lấy từ L05, mục Cảm xúc: hạnh nhân và nỗi sợ."
+    },
+    {
+      "title": "Serotonin: thẻ hồ sơ",
+      "section": "Serotonin",
+      "sources": ["S1", "S2", "S3", "S4"],
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {"label": "Loại", "text": "Chất điều hòa (neuromodulator): ảnh hưởng đến trạng thái chung của mạng lưới [S2]"},
+        {"label": "Được tạo ở", "text": "Các nhân raphe (raphe nuclei) ở thân não [S4]"},
+        {"label": "Liên quan đến", "text": "Tâm trạng, giấc ngủ, khẩu vị [S1] [S2]"},
+        {"label": "Thụ thể", "text": "Nhiều loại thụ thể; cùng một chất có thể gây tác động khác nhau [S1]"},
+        {"label": "Thuốc tác động", "text": "Nhóm ức chế tái hấp thu chọn lọc (**SSRI**) chặn bước thu hồi ở synapse [S1]"},
+        {"label": "Đừng hiểu nhầm", "text": "\"Trầm cảm do thiếu serotonin\" chưa được bằng chứng ủng hộ nhất quán [S3]"}
+      ],
+      "bullets": [],
+      "notes": "Lấy từ L03; dòng nhân raphe theo Purves, chương 6."
+    },
+    {
+      "title": "Thuốc tác động tại synapse",
+      "section": "Serotonin",
+      "sources": ["S3", "S5"],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "body": "Bình thường, nơron trước thu ngược một phần chất dẫn truyền về qua các thụ thể thu hồi. Nhóm thuốc **SSRI** chặn bước này, nên **serotonin** ở lại lâu hơn trong khe synapse [S5]. Thuốc có tác dụng không có nghĩa là bệnh do thiếu chất đó [S3].",
+      "bullets": ["Reuptake inhibitor: chất ức chế thu hồi", "Reuptake receptor: thụ thể thu hồi"],
+      "images": [{"file": "images/thu-hoi-serotonin.jpeg", "alt": "Synapse với chất ức chế thu hồi chất dẫn truyền", "credit": "OpenStax Psychology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 12)", "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"}],
+      "notes": "Lấy từ L03, hình thu-hoi-serotonin."
+    },
+    {
+      "title": "Hai chất chủ lực, nói đủ ý",
+      "section": "Glutamate và GABA",
+      "sources": ["S1", "S2", "S4"],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Glutamate: chất dẫn truyền kích thích chủ yếu, làm nơron sau dễ phát xung hơn",
+        "GABA: chất dẫn truyền ức chế chủ yếu ở não trưởng thành, làm nơron sau khó phát xung hơn",
+        "Rượu và benzodiazepine: ảnh hưởng đến hệ GABA, nên thường làm ta chậm lại, buồn ngủ hoặc bớt lo"
+      ],
+      "notes": "Lấy từ L03; thử card-grid với gạch dài gần 100 ký tự."
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": ["S1", "S2", "S3", "S4", "S5"],
+      "layout": "references",
+      "tone": "light",
+      "bullets": [
+        "S1: Hove & Martinez, Biological Psychology, chương 5 Psychopharmacology",
+        "S2: Byrne (chủ biên), Neuroscience Online, UTHealth Houston, chương 11 đến 14",
+        "S3: Moncrieff và cộng sự, Molecular Psychiatry, 2022",
+        "S4: Purves và cộng sự, Neuroscience, 2nd ed., 2001, chương 6",
+        "S5: Hove & Martinez, chương 12, mục 12.3, Hình 3",
+        "S6: LeDoux, Emotion circuits in the brain, Annual Review of Neuroscience, 2000",
+        "S7: Schultz, Dayan, Montague, Science, 1997",
+        "S8: Berridge & Robinson, Brain Research Reviews, 1998",
+        "S9: McEwen, Physiological Reviews, 2007",
+        "S10: Corbetta & Shulman, Nature Reviews Neuroscience, 2002",
+        "S11: Azevedo và cộng sự, Journal of Comparative Neurology, 2009",
+        "S12: NINDS, Know Your Brain (Brain Basics)"
+      ],
+      "notes": "Mười hai nguồn có thật của L01, L03, L05; thử bố cục hai cột."
+    }
+  ]
+}

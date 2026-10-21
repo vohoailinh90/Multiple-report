@@ -1,0 +1,298 @@
+{
+  "title": "Hệ thưởng, chú ý và cảm xúc",
+  "subtitle": "Thần kinh học · Bài L05",
+  "slides": [
+    {
+      "title": "Vì sao ta bị cuốn vào thứ không quan trọng?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Bốn hệ thống cùng kéo ta đi"
+      ],
+      "notes": "Hệ thưởng và hạnh nhân đã gặp ở L00 và L01; chú ý và căng thẳng là mới. Vỏ não trước trán có thể điều chỉnh nhưng có giới hạn (mở rộng của người viết từ L04).",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Bốn hệ thống",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Hệ thưởng: điều gì đáng theo đuổi",
+        "Chú ý: ta nhìn vào đâu",
+        "Hạnh nhân: điều gì đáng sợ",
+        "Căng thẳng: cơ thể phản ứng ra sao"
+      ],
+      "notes": "Nền để L06 xem mạng xã hội tác động lên não thế nào.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Dopamine báo khác với dự đoán",
+      "section": "Nhắc lại từ L00: hệ thưởng",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Dự đoán phần thưởng",
+        "Phần thưởng đến",
+        "Dopamine báo chênh lệch với dự đoán"
+      ],
+      "notes": "Sai số dự đoán phần thưởng: tín hiệu mạnh khi bất ngờ; phần thưởng đã dự đoán thì gần như không còn tín hiệu. Chi tiết ở L00.",
+      "layout": "flow",
+      "tone": "light"
+    },
+    {
+      "title": "Muốn khác với thích",
+      "section": "Nhắc lại từ L00: hệ thưởng",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Muốn: sức hút của một thứ",
+        "Thích: khoái cảm khi có nó",
+        "Hai việc có thể tách rời"
+      ],
+      "notes": "Berridge và Robinson: dopamine gắn với muốn (incentive salience). Đây là một quan điểm trong thảo luận về vai trò của dopamine, nhấn mạnh khía cạnh khác với Schultz.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Hai hệ điều khiển chú ý",
+      "section": "Chú ý: hai hệ cùng điều khiển",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Hệ lưng: theo mục tiêu",
+        "Hệ bụng: theo kích thích nổi bật",
+        "Hai hệ tương tác với nhau"
+      ],
+      "notes": "Corbetta và Shulman. Hệ bụng phần lớn nghiêng về bán cầu phải. L04 cũng nêu một mạng kiểm soát chú ý nghiêng phải; chưa rõ có trùng hệ bụng.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Chú ý không hoàn toàn do ta quyết định",
+      "section": "Chú ý: hai hệ cùng điều khiển",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Một phần do thế giới quyết định thay ta"
+      ],
+      "notes": "Ví dụ của người viết: đang đọc sách trong thư viện yên tĩnh thì có tiếng động lớn, bạn ngẩng lên dù không định.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Hạnh nhân và nỗi sợ",
+      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Tiếp nhận ký ức sợ",
+        "Lưu giữ ký ức sợ",
+        "Thể hiện ký ức sợ"
+      ],
+      "notes": "LeDoux: hạnh nhân là thành phần quan trọng của hệ thống này, chủ yếu từ thí nghiệm trên động vật.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Nỗi sợ được học thế nào",
+      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Âm thanh, rồi cú sốc nhẹ",
+        "Lặp lại nhiều lần",
+        "Chỉ còn âm thanh cũng gây sợ"
+      ],
+      "notes": "Ví dụ của người viết mô phỏng kiểu thí nghiệm gây điều kiện hóa nỗi sợ.",
+      "layout": "sequence-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Từ động vật sang người",
+      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Chủ yếu từ động vật, có thể áp dụng cho người"
+      ],
+      "notes": "Hạnh nhân không chỉ là trung tâm sợ hãi của mọi cảm xúc; bài chỉ nói vai trò trong nỗi sợ vì đó là phần được nghiên cứu nhiều nhất.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Cấu trúc tham gia cảm xúc",
+      "bullets": [
+        "Amygdala: hạnh nhân",
+        "Nucleus accumbens: nhân accumbens",
+        "Orbital frontal cortex: vỏ não trán ổ mắt"
+      ],
+      "notes": "Hình cho thấy vị trí một số cấu trúc, không phải sơ đồ đầy đủ.",
+      "section": "Cảm xúc: hạnh nhân và nỗi sợ",
+      "sources": [
+        "S6"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/cau-truc-cam-xuc.png",
+          "alt": "Một số cấu trúc tham gia xử lý cảm xúc",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 2 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/"
+        }
+      ]
+    },
+    {
+      "title": "Não đánh giá mối đe dọa",
+      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Não đánh giá mối đe dọa",
+        "Hormone căng thẳng được tiết ra",
+        "Cơ thể thích nghi hoặc hao mòn"
+      ],
+      "notes": "McEwen: não là cơ quan trung tâm của phản ứng căng thẳng. Hormone là chất do tuyến tiết vào máu để tác động lên nhiều cơ quan.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Ngắn hạn và mãn tính",
+      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Ngắn hạn: giúp thích nghi (allostasis)",
+        "Mãn tính: hao mòn dần (allostatic load)"
+      ],
+      "notes": "Ví dụ của người viết: ngắn hạn như chạy nước rút, mãn tính như chạy máy không nghỉ. Allostasis: giữ ổn định thông qua thay đổi.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Căng thẳng mãn tính có thể đổi cấu trúc",
+      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Hải mã",
+        "Hạnh nhân",
+        "Vỏ não trước trán"
+      ],
+      "notes": "McEwen tổng hợp rằng ba vùng này có thể thay đổi cấu trúc dưới tác động của căng thẳng. Noradrenaline (L03) liên quan đến phản ứng căng thẳng.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều có thể giảm gánh nặng",
+      "section": "Căng thẳng: não quyết định điều gì là mối đe dọa",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Vận động và hỗ trợ xã hội có thể giúp"
+      ],
+      "notes": "Tổng hợp của McEwen 2007. Trải nghiệm sớm trong đời cũng ảnh hưởng đến phản ứng căng thẳng về sau.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Một thông báo, bốn bước",
+      "section": "Các hệ gặp nhau trong một tình huống",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ],
+      "bullets": [
+        "Thông báo kéo chú ý",
+        "Hệ thưởng muốn biết",
+        "Mạch cảm xúc tham gia nếu đáng lo",
+        "Vỏ não trước trán cân nhắc"
+      ],
+      "notes": "Ví dụ của người viết, đã đơn giản hóa nhiều. Nguồn chỉ hỗ trợ khái niệm ở từng bước, không hỗ trợ kịch bản. Bước cuối là nhận định tổng hợp dựa trên L04. Không bước nào là lỗi của bạn.",
+      "layout": "sequence-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Dopamine phản ứng với điều khác dự đoán",
+        "Chú ý có hai hệ",
+        "Hạnh nhân tham gia học nỗi sợ",
+        "Căng thẳng mãn tính làm hao mòn dần",
+        "Vỏ não trước trán điều chỉnh, có giới hạn"
+      ],
+      "notes": "Bài sau (L06) về mạng xã hội và truyền thông.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Bài về cơ chế, không phải lời khuyên y tế",
+        "Căng thẳng, lo âu kéo dài: gặp chuyên gia",
+        "Nghiên cứu hạnh nhân: chủ yếu nỗi sợ, động vật"
+      ],
+      "notes": "Không dùng nghiên cứu về hạnh nhân để giải thích mọi cảm xúc.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Schultz và cộng sự, Science, 1997",
+        "Berridge và Robinson, Brain Res Rev, 1998",
+        "LeDoux, Annu Rev Neurosci, 2000",
+        "McEwen, Physiol Rev, 2007",
+        "Corbetta và Shulman, Nat Rev Neurosci, 2002",
+        "Hove & Martinez, Biological Psychology, chương 10 (hình)"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

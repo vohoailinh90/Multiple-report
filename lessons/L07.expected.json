@@ -1,0 +1,60 @@
+{
+  "id": "L07",
+  "title": "Hệ viền và các nhân nằm sâu của não",
+  "topic": "nao-bo",
+  "sections": [
+    "Tóm tắt",
+    "Hệ viền là gì và vì sao chỉ là một quy ước",
+    "Hạnh nhân (amygdala)",
+    "Hải mã (hippocampus)",
+    "Đồi thị (thalamus)",
+    "Vùng dưới đồi (hypothalamus) và tuyến yên",
+    "Hạch nền (basal ganglia) và nhân accumbens",
+    "Thùy đảo (insula)",
+    "Hồi đai và vỏ vòng đai trước",
+    "Các cấu trúc làm việc cùng nhau",
+    "Những hiểu lầm thường gặp",
+    "Điều cần nhớ",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-3-brain-structures-in-memory/"
+  ],
+  "key_terms": [
+    "hệ viền",
+    "hạnh nhân",
+    "hải mã",
+    "vùng dưới đồi",
+    "hạch nền",
+    "amygdala",
+    "hippocampus",
+    "thalamus",
+    "hypothalamus",
+    "basal ganglia",
+    "nucleus accumbens",
+    "insula"
+  ],
+  "min_words": 4000,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

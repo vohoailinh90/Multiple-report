@@ -1,0 +1,24 @@
+{
+ "topic_label": "Não bộ · Bài L04",
+ "motif": "split",
+ "question": "Não trái logic, não phải sáng tạo: đúng hay sai?",
+ "cards": [
+  "Vỏ não trước trán",
+  "Phineas Gage",
+  "Thể chai",
+  "Não trái, não phải"
+ ],
+ "big": {
+  "15": "1.011"
+ },
+ "actors": {},
+ "mark": {
+  "1": "theo từng chức năng",
+  "6": "quyết định ai làm gì",
+  "11": "vỏ não trước trán",
+  "17": "theo từng mạng"
+ },
+ "center": {
+  "5": "Vỏ não trước trán"
+ }
+}

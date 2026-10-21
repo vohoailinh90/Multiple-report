@@ -1,0 +1,43 @@
+{
+  "id": "L06",
+  "title": "Mạng xã hội và truyền thông tác động lên não",
+  "topic": "khac",
+  "sections": [
+    "Tóm tắt",
+    "Mạng xã hội chạm vào những cơ chế nào",
+    "Bấm thích và ảnh hưởng của bạn bè",
+    "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+    "Từ cơ chế đến thiết kế: bảng suy luận",
+    "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+    "Cách tự bảo vệ (gợi ý suy ra từ cơ chế)",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "sources": {
+    "S1": "https://doi.org/10.1016/j.tics.2015.09.004",
+    "S2": "https://doi.org/10.1177/0956797616645673",
+    "S3": "https://doi.org/10.1038/s41562-018-0506-1",
+    "S4": "https://doi.org/10.1073/pnas.1618923114",
+    "S5": "https://doi.org/10.1126/science.275.5306.1593",
+    "S6": "https://doi.org/10.1038/nrn755",
+    "S7": "https://doi.org/10.1016/S0165-0173(98)00019-8",
+    "S8": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
+  },
+  "min_words": 700,
+  "max_words": 30000,
+  "min_citations": 6,
+  "key_terms": [
+    "mạng xã hội",
+    "hệ thưởng",
+    "chú ý",
+    "lượt thích",
+    "suy luận",
+    "dữ liệu quan sát"
+  ],
+  "language": "vi",
+  "slides": {
+    "min": 8,
+    "max": 40
+  }
+}

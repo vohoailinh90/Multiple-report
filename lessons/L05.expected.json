@@ -1,0 +1,57 @@
+{
+  "id": "L05",
+  "title": "Hệ thưởng, chú ý và căng thẳng",
+  "topic": "than-kinh",
+  "sections": [
+    "Tóm tắt",
+    "Hệ thưởng: các vùng và đường dẫn",
+    "Sai số dự đoán phần thưởng",
+    "Muốn khác thích",
+    "Chú ý: hệ theo mục tiêu và hệ theo kích thích",
+    "Căng thẳng: phản ứng nhanh và phản ứng chậm",
+    "Căng thẳng ngắn hạn và mãn tính",
+    "Căng thẳng thay đổi não",
+    "Các hệ gặp nhau trong một tình huống",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/basic-emotions/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-peripheral-nervous-system/"
+  ],
+  "key_terms": [
+    "hệ thưởng",
+    "nhân accumbens",
+    "VTA",
+    "reward prediction error",
+    "incentive salience",
+    "chú ý",
+    "HPA",
+    "cortisol",
+    "allostasis",
+    "allostatic load"
+  ],
+  "min_words": 3500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

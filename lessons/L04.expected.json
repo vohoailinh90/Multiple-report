@@ -1,0 +1,42 @@
+{
+  "id": "L04",
+  "title": "Thùy trán, não trái và não phải",
+  "topic": "nao-bo",
+  "sections": [
+    "Tóm tắt",
+    "Thùy trán và vỏ não trước trán",
+    "Vỏ não trước trán làm gì",
+    "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+    "Kiểm soát bản thân: cái phanh của não",
+    "Hai bán cầu và thể chai",
+    "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+    "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+    "Điều cần nhớ",
+    "Nguồn tham khảo"
+  ],
+  "sources": {
+    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
+    "S2": "https://doi.org/10.1146/annurev.neuro.24.1.167",
+    "S3": "https://doi.org/10.1038/nrn1723",
+    "S4": "https://doi.org/10.1371/journal.pone.0071275",
+    "S5": "https://bps.org.uk/psychologist/phineas-gage-unravelling-myth",
+    "S6": "https://doi.org/10.1038/nrn2648",
+    "S7": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/"
+  },
+  "min_words": 700,
+  "max_words": 30000,
+  "min_citations": 6,
+  "key_terms": [
+    "thùy trán",
+    "vỏ não trước trán",
+    "bán cầu",
+    "thể chai",
+    "kiểm soát nhận thức",
+    "Phineas Gage"
+  ],
+  "language": "vi",
+  "slides": {
+    "min": 8,
+    "max": 40
+  }
+}

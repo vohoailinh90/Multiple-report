@@ -1,0 +1,67 @@
+{
+  "id": "L03",
+  "title": "Chất dẫn truyền thần kinh và tâm lý",
+  "topic": "than-kinh",
+  "sections": [
+    "Tóm tắt",
+    "Chất dẫn truyền khác hormone thế nào",
+    "Cách đọc một thẻ hồ sơ: nhóm hóa học, thụ thể và đường dẫn",
+    "Glutamate",
+    "GABA",
+    "Dopamine",
+    "Serotonin",
+    "Noradrenaline",
+    "Acetylcholine",
+    "Endorphin và hệ opioid",
+    "Oxytocin và vasopressin",
+    "Bản đồ nguồn và đích",
+    "Thuốc và các chất tác động lên chất dẫn truyền",
+    "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+    "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/how-drugs-affect-neurotransmitters/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
+  ],
+  "key_terms": [
+    "chất dẫn truyền thần kinh",
+    "glutamate",
+    "GABA",
+    "dopamine",
+    "serotonin",
+    "noradrenaline",
+    "acetylcholine",
+    "endorphin",
+    "oxytocin",
+    "vasopressin",
+    "thụ thể",
+    "nhân raphe",
+    "locus coeruleus",
+    "umbrella review"
+  ],
+  "min_words": 4500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

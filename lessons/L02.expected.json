@@ -1,0 +1,41 @@
+{
+  "id": "L02",
+  "title": "Nơron và synapse: não truyền tin thế nào",
+  "topic": "nao-bo",
+  "sections": [
+    "Tóm tắt",
+    "Cấu tạo một nơron",
+    "Tín hiệu điện: xung thần kinh",
+    "Synapse: nơi tín hiệu chuyển thành hóa học",
+    "Thụ thể: ổ khóa và chìa",
+    "Kích thích, ức chế và phép cộng",
+    "Chấm dứt tín hiệu",
+    "Thuốc can thiệp ở đâu",
+    "Synapse thay đổi theo kinh nghiệm",
+    "Điều cần nhớ",
+    "Nguồn tham khảo"
+  ],
+  "sources": {
+    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
+    "S2": "https://doi.org/10.1113/jphysiol.1952.sp004764",
+    "S3": "https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm",
+    "S4": "https://doi.org/10.1002/cne.21974"
+  },
+  "min_words": 700,
+  "max_words": 30000,
+  "min_citations": 6,
+  "key_terms": [
+    "nơron",
+    "synapse",
+    "xung thần kinh",
+    "thụ thể",
+    "chất dẫn truyền thần kinh",
+    "sợi trục",
+    "tính dẻo"
+  ],
+  "language": "vi",
+  "slides": {
+    "min": 8,
+    "max": 40
+  }
+}

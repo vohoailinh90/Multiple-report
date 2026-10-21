@@ -1,0 +1,327 @@
+{
+  "title": "Thùy trán, não trái và não phải",
+  "subtitle": "Não bộ · Bài L04",
+  "slides": [
+    {
+      "title": "Não trái logic, não phải sáng tạo: đúng hay sai?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Chuyên biệt hóa có thật, theo từng chức năng"
+      ],
+      "notes": "Bài xem vỏ não trước trán điều hành thế nào và hai bán cầu khác nhau ra sao, rồi trả lời câu hỏi mở bài.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Ba điều của bài",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Vỏ não trước trán: trung tâm điều hành",
+        "Hai bán cầu: chuyên biệt hóa thật",
+        "Không có người não trái hay não phải"
+      ],
+      "notes": "Kết luận ngắn của bài.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Thùy trán và vỏ não trước trán",
+      "section": "Thùy trán và vỏ não trước trán",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Thùy trán: phía trước mỗi bán cầu",
+        "Vỏ não trước trán: phần trước nhất"
+      ],
+      "notes": "Hai khái niệm hay bị lẫn. Nghiên cứu về kiểm soát chủ yếu nói về vỏ não trước trán. Nối với L00: một đường dopamine đi từ não giữa lên vỏ não trước trán.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Vỏ não trước trán trên hình",
+      "bullets": [
+        "Dorsolateral: vùng lưng bên",
+        "Ventrolateral: vùng bụng bên",
+        "Orbitofrontal: vùng ổ mắt"
+      ],
+      "notes": "Các số trong hình là vùng Brodmann.",
+      "section": "Thùy trán và vỏ não trước trán",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/vo-nao-truoc-tran.png",
+          "alt": "Vỏ não trước trán và các vùng con",
+          "credit": "Wikipedia, CC BY-SA, chỉnh bởi Hove & Martinez; Hove & Martinez, Hình 15 (chương 2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
+    },
+    {
+      "title": "Vỏ não trước trán làm gì",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Giữ mục tiêu trong đầu",
+        "Chọn cách làm phù hợp",
+        "Điều chỉnh khi hoàn cảnh đổi",
+        "Dẫn hoạt động ở các vùng khác"
+      ],
+      "notes": "Miller và Cohen: vỏ não trước trán duy trì mẫu hoạt động mã hóa mục tiêu và phương tiện, gửi tín hiệu thiên lệch cho vùng khác. Ví dụ điện thoại rung khi đang học là của người viết.",
+      "layout": "connection-diagram",
+      "tone": "dark"
+    },
+    {
+      "title": "Người điều phối của nhóm",
+      "section": "Vỏ não trước trán làm gì",
+      "sources": [],
+      "bullets": [
+        "Không tự làm mọi việc, quyết định ai làm gì"
+      ],
+      "notes": "Cách ví von của người viết. Trong nghiên cứu, thuật ngữ thường dùng là kiểm soát điều hành (executive control).",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Phineas Gage qua các mốc",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "1848: thanh sắt xuyên thùy trán, ông sống sót",
+        "1868: Harlow mô tả thay đổi mạnh hơn",
+        "2008: Macmillan nói nhiều điều kể về Gage là sai"
+      ],
+      "notes": "Báo cáo 1848 nhắc rất ít đến thay đổi tâm lý. Macmillan còn là tác giả cuốn An Odd Kind of Fame (2000).",
+      "layout": "timeline",
+      "tone": "dark"
+    },
+    {
+      "title": "Mô phỏng đường đi của thanh sắt",
+      "bullets": [
+        "Tái dựng bằng máy tính",
+        "Màu sắc: các bó sợi chất trắng",
+        "Ước đoán, không phải ảnh chụp"
+      ],
+      "notes": "Mức tổn thương chính xác chỉ được suy ra về sau.",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S7"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/phineas-gage-mo-phong.jpg",
+          "alt": "Mô phỏng đường đi của thanh sắt qua hộp sọ Phineas Gage",
+          "credit": "Van Horn JD và cộng sự, CC BY 2.5, Wikimedia Commons; qua Hove & Martinez, Hình 1 (chương 4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/historical-methods-studies-of-brain-damage-in-humans/"
+        }
+      ]
+    },
+    {
+      "title": "Điều chắc và điều còn tranh cãi",
+      "section": "Phineas Gage: chuyện nổi tiếng và phần còn tranh cãi",
+      "sources": [
+        "S5"
+      ],
+      "bullets": [
+        "Chắc: tai nạn xảy ra, ông sống sót",
+        "Tranh cãi: mức thay đổi tính cách",
+        "Bài học: kiểm tra lại chuyện cũ"
+      ],
+      "notes": "Mức tổn thương chính xác của não chỉ được suy ra về sau.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Cái phanh của não",
+      "section": "Kiểm soát bản thân: cái phanh của não",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Cám dỗ xuất hiện",
+        "So với mục tiêu đã đặt",
+        "Kìm lại hoặc cho phép",
+        "Hành động"
+      ],
+      "notes": "Mô hình minh họa do người viết dựng, dựa trên ý tín hiệu thiên lệch của Miller và Cohen; không phải sơ đồ chính xác từng nơron.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Căng thẳng và người điều phối",
+      "section": "Kiểm soát bản thân: cái phanh của não",
+      "sources": [
+        "S6"
+      ],
+      "bullets": [
+        "Căng thẳng có thể làm yếu vỏ não trước trán"
+      ],
+      "notes": "Arnsten tổng hợp tác động của căng thẳng lên cấu trúc và chức năng vỏ não trước trán. Sẽ gặp lại ở L05.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Thể chai nối hai bán cầu",
+      "section": "Hai bán cầu và thể chai",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Thể chai: bó sợi nối hai bán cầu",
+        "Một số bệnh nhân từng bị cắt thể chai",
+        "Mỗi bán cầu có thế mạnh riêng"
+      ],
+      "notes": "Sperry, Bogen và Gazzaniga. Trong não bình thường hai bên phối hợp chặt chẽ nhờ thể chai.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Nghiêng trái, nghiêng phải theo chức năng",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Ngôn ngữ (Broca, Wernicke): thường nghiêng trái",
+        "Kiểm soát chú ý: thường nghiêng phải"
+      ],
+      "notes": "Nghiêng trái nghĩa là kết nối của mạng đó mạnh hơn ở bên trái. Từ fMRI lúc nghỉ của Nielsen và cộng sự, 2013.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Vùng ngôn ngữ ở bán cầu trái",
+      "bullets": [
+        "Broca's area: vùng Broca",
+        "Wernicke's area: vùng Wernicke",
+        "Arcuate fasciculus: bó cung nối hai vùng"
+      ],
+      "notes": "Hình minh họa hai vùng ngôn ngữ ở bán cầu trái.",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/vung-broca-wernicke.png",
+          "alt": "Vùng Broca, vùng Wernicke và bó cung",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 16 (chương 2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ]
+    },
+    {
+      "title": "1.011 người",
+      "section": "Chuyên biệt hóa có thật, nhưng ở từng chức năng",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Nielsen: người từ 7 đến 29 tuổi",
+        "Không thấy kiểu người não trái hay não phải"
+      ],
+      "notes": "Mỗi mạng nghiêng riêng; người nghiêng trái mạnh ở mạng này không nhất thiết nghiêng trái ở mạng khác.",
+      "layout": "one-big-number",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba lý do hiểu lầm",
+      "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Chức năng phức tạp cần cả hai bên",
+        "Chuyên biệt hóa theo mạng, không theo người",
+        "Nghiên cứu không đo logic hay sáng tạo"
+      ],
+      "notes": "Các nghiên cứu nói về chức năng cụ thể như ngôn ngữ và chú ý.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Chuyên biệt hóa là cục bộ",
+      "section": "Vì sao \"người não trái, người não phải\" là hiểu lầm",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Theo từng mạng, không theo cả con người"
+      ],
+      "notes": "Chuyên biệt hóa là đặc điểm cục bộ, theo từng kết nối và mạng.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Vỏ não trước trán giữ mục tiêu, chỉnh hành vi",
+        "Gage nổi tiếng nhưng bị kể quá đà",
+        "Căng thẳng làm suy giảm vỏ não trước trán",
+        "Hai bán cầu nối bằng thể chai",
+        "Chuyên biệt hóa theo chức năng, không theo người"
+      ],
+      "notes": "Bài sau (L05) về hệ thưởng, chú ý, cảm xúc và căng thẳng.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 2 và 4 (hình)",
+        "Miller và Cohen, Annu Rev Neurosci, 2001",
+        "Gazzaniga, Nat Rev Neurosci, 2005",
+        "Nielsen và cộng sự, PLOS ONE, 2013",
+        "Macmillan, The Psychologist, 2008",
+        "Arnsten, Nat Rev Neurosci, 2009"
+      ],
+      "notes": "Đường dẫn đầy đủ ở lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

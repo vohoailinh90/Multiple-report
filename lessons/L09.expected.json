@@ -1,0 +1,61 @@
+{
+  "id": "L09",
+  "title": "Cảm xúc cơ bản và mạch thần kinh",
+  "topic": "than-kinh",
+  "sections": [
+    "Tóm tắt",
+    "Khoa học thần kinh nghiên cứu cảm xúc thế nào",
+    "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
+    "Ham muốn (desire)",
+    "Thích (liking) và khoái cảm",
+    "Sợ (fear)",
+    "Giận (rage)",
+    "Yêu thương và gắn bó (love)",
+    "Đau buồn và cô đơn (grief)",
+    "Một cấu trúc, nhiều chức năng",
+    "Kinh nghiệm làm đổi não",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/basic-emotions/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/plasticity-experiences-can-alter-the-brain/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/brain-structures-have-multiple-functions/"
+  ],
+  "key_terms": [
+    "affective neuroscience",
+    "desire",
+    "liking",
+    "fear",
+    "rage",
+    "grief",
+    "hạnh nhân",
+    "nhân accumbens",
+    "oxytocin",
+    "Panksepp"
+  ],
+  "min_words": 4000,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

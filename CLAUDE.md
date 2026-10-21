@@ -38,13 +38,22 @@ lessons/README.md            mục lục, sinh bởi scripts/decks.py index
 - tiếng Việt có dấu; thuật ngữ kèm tiếng Anh trong ngoặc lần đầu; trích dẫn `[S1]` ngay sau ý;
 - không bịa nguồn, số liệu, nghiên cứu, ngày tháng hay câu trích. Thiếu nguồn thì viết ý không kèm số liệu.
 
-`slides.json`: `{"title", "subtitle", "slides": [{"title", "bullets", "notes", "section", "sources", "layout", "tone"}]}`. Gạch đầu
-dòng là cụm từ ngắn (≤ 160 ký tự, ≤ 6 gạch), phần giải thích để trong `notes`; mỗi mục `## ` có ít nhất một slide.
+`slides.json`: `{"title", "subtitle", "slides": [{"title", "bullets", "notes", "section", "sources", "layout", "tone"}]}`,
+thêm hai trường tuỳ chọn:
+- `body`: đoạn giải thích hiện **trên slide**, 60–110 chữ (gate nhận 40–130), `[S1]` ngay sau ý, `**từ khoá**` được tô màu khái niệm.
+  Chỉ dùng cho layout `explainer` (bắt buộc ở đó) và `annotated-figure` (40–70 chữ).
+- `facts`: mảng 3–6 cặp `{"label", "text"}` (nhãn ≤ 40, chữ ≤ 160 ký tự) cho layout `profile-card` (thẻ hồ sơ của một bộ phận,
+  chất dẫn truyền hay cảm xúc).
+
+Slide giải thích dùng `body`; slide sơ đồ (`flow`, `card-grid`, `layers`...) vẫn dùng gạch ngắn (≤ 160 ký tự, ≤ 6 gạch; layout
+`references` ≤ 18 nguồn). `notes` là lời giảng 80–200 chữ: ví dụ, chỗ dễ nhầm. Mỗi mục `## ` có ít nhất một slide; bài theo chuẩn
+đào sâu (`docs/ban-giao-mo-rong-noi-dung.md`, mục 3) có ít nhất ba slide mỗi mục nội dung. `lessons/<id>.spec.md` là spec của bài
+(điều phối viết, phiên viết đọc). Kiểm: `python3 scripts/deckgen/check_lesson.py . <id>`.
 
 ## Làm deck (PPTX) bằng Moda
 
-Phong cách và quy trình: **`docs/deck-style.md`** (font, màu, footer, cách vẽ 12 kiểu layout, màu của từng khái niệm),
-lấy từ deck System Design của tool-marketing-studio.
+Phong cách và quy trình: **`docs/deck-style.md`** (font, màu, footer, cách vẽ 17 kiểu layout, màu của từng khái niệm),
+lấy từ deck System Design của tool-marketing-studio. Markup từng trang sinh bằng `scripts/deckgen/gen.py`.
 
 1. `git pull`, rồi `python3 scripts/decks.py todo`: danh sách bài thiếu deck hoặc deck cũ. Làm tất cả.
 2. Mỗi bài: đọc `slides.json` (không thêm ý mới). Một canvas, bìa tối rồi mỗi phần tử một slide theo đúng `layout` và
@@ -56,8 +65,11 @@ lấy từ deck System Design của tool-marketing-studio.
 
 ## Kiểm tra
 
-`python3 -m unittest discover -s tests` (CI chạy lệnh này). Gate cấu trúc bài học (`lesson_gates.py`) nằm ở repo
-template; Claude chạy nó bằng tay khi viết bài (`team-lesson` đang tạm dừng).
+`python3 -m unittest discover -s tests` (CI chạy lệnh này). Gate cấu trúc trong repo: `scripts/deckgen/check_lesson.py`
+(có test). Gate `lesson_gates.py` của pipeline `team-lesson` nằm ở repo template; bản `f80c4cc` (2026-10-20) chỉ nhận 7 trường
+slide (không `images`, `body`, `facts`), 12 layout (không `figure` và 4 layout mới), không nhận khóa lạ trong `expected.json` và mặc định
+tối đa 20 slide, nên các bài có hình hoặc theo chuẩn đào sâu chưa chạy được qua pipeline đó cho đến khi repo template được cập nhật.
+Claude chạy gate đó bằng tay khi viết bài (`team-lesson` đang tạm dừng).
 
 <!-- team-onboarding:start -->
 ## Team agent process

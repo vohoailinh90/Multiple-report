@@ -1,0 +1,272 @@
+{
+  "title": "Chất dẫn truyền thần kinh và tâm lý",
+  "subtitle": "Thần kinh học · Bài L03",
+  "slides": [
+    {
+      "title": "Một cảm xúc, một chất hóa học?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "bullets": [
+        "Hơn 100 chất dẫn truyền đã biết",
+        "Cùng một chất, nhiều việc khác nhau",
+        "Tâm lý là hoạt động của cả mạng lưới"
+      ],
+      "notes": "Chỉ cần nhớ vài chất chính và cách hiểu: tác động tùy thụ thể, đường dẫn và mạng lưới.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Hormone khác chất dẫn truyền",
+      "section": "Chất dẫn truyền khác hormone thế nào",
+      "sources": [],
+      "bullets": [
+        "Hormone: tiết vào máu, đi khắp cơ thể",
+        "Chất dẫn truyền: nơron giải phóng vào khe synapse"
+      ],
+      "notes": "Định nghĩa cơ bản. Ví dụ của người viết: hormone như loa phát thanh cả khu phố, chất dẫn truyền như lá thư gửi người hàng xóm.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Chân ga và chân phanh",
+      "section": "Hai chất chủ lực: glutamate và GABA",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "bullets": [
+        "Cả mạng lưới cần cả ga lẫn phanh"
+      ],
+      "notes": "Ví dụ của người viết: một chiếc xe chỉ có ga thì mất kiểm soát, chỉ có phanh thì đứng yên.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Glutamate và GABA",
+      "section": "Hai chất chủ lực: glutamate và GABA",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "bullets": [
+        "Glutamate: kích thích chủ yếu",
+        "GABA: ức chế chủ yếu",
+        "Rượu và benzodiazepine ảnh hưởng hệ GABA"
+      ],
+      "notes": "Đừng lẫn thuốc an thần ở đây với thuốc an thần kinh (antipsychotic), là một nhóm thuốc khác.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    },
+    {
+      "title": "Dopamine",
+      "section": "Dopamine",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Động lực",
+        "Học theo phần thưởng",
+        "Vận động"
+      ],
+      "notes": "Dopamine là chất điều hòa: nơron sản xuất ở vùng nhỏ nhưng tỏa nhánh lên nhiều vùng. Chi tiết ở L00. Liên quan không có nghĩa là nguyên nhân duy nhất.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Serotonin",
+      "section": "Serotonin",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Tâm trạng",
+        "Giấc ngủ",
+        "Khẩu vị"
+      ],
+      "notes": "Nhiều thuốc chống trầm cảm tác động lên hệ serotonin, một nhóm làm giảm bước thu hồi ở synapse.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Thuốc tác động tại synapse",
+      "bullets": [
+        "Neurotransmitter: chất dẫn truyền",
+        "Reuptake receptor: thụ thể thu hồi",
+        "Reuptake inhibitor: chất ức chế thu hồi"
+      ],
+      "notes": "Hình minh họa một cách thuốc có thể tác động tại synapse.",
+      "section": "Serotonin",
+      "sources": [
+        "S5"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "images": [
+        {
+          "file": "images/thu-hoi-serotonin.jpeg",
+          "alt": "Synapse với chất ức chế thu hồi chất dẫn truyền",
+          "credit": "OpenStax Psychology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 12)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
+        }
+      ]
+    },
+    {
+      "title": "Noradrenaline",
+      "section": "Noradrenaline",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Tỉnh táo",
+        "Chú ý",
+        "Phản ứng với căng thẳng"
+      ],
+      "notes": "Còn gọi là norepinephrine. Sẽ gặp lại ở L05.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Acetylcholine và endorphin",
+      "section": "Acetylcholine và endorphin",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Acetylcholine: lệnh cử động, chú ý, trí nhớ",
+        "Endorphin: liên quan đến giảm đau"
+      ],
+      "notes": "Endorphin thuộc nhóm neuropeptide, gắn vào cùng loại thụ thể mà thuốc nhóm opioid tác động.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba lý do hiểu lầm",
+      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "bullets": [
+        "Một chất có nhiều loại thụ thể",
+        "Một chất có nhiều đường dẫn",
+        "Cảm xúc không quy về một phân tử"
+      ],
+      "notes": "Chất dẫn truyền chỉ điều chỉnh cách các vùng phối hợp với nhau.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Một từ, nhiều nghĩa",
+      "section": "Vì sao \"một chất, một cảm xúc\" là hiểu lầm",
+      "sources": [],
+      "bullets": [
+        "Cùng một chất, nghĩa khác theo ngữ cảnh"
+      ],
+      "notes": "Ví dụ của người viết: từ \"đường\" có nghĩa khác nhau tùy câu; cùng một chất cũng vậy tùy thụ thể và đường dẫn.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "17 nghiên cứu được xem xét",
+      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Moncrieff 2022: tổng quan ô dù",
+        "12 trong 17 là tổng quan hoặc phân tích gộp"
+      ],
+      "notes": "Chất lượng các nghiên cứu được xem xét không đồng đều.",
+      "layout": "one-big-number",
+      "tone": "light"
+    },
+    {
+      "title": "Kết quả nói gì, không nói gì",
+      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Nói: chưa thấy bằng chứng nhất quán về nguyên nhân",
+        "Không nói: thuốc chống trầm cảm vô dụng",
+        "Chưa chứng minh vai trò bằng không"
+      ],
+      "notes": "Không thấy bằng chứng nhất quán khác với đã chứng minh không có vai trò. Tuyệt đối không tự ngừng thuốc.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Thuốc giúp ≠ nguyên nhân",
+      "section": "Serotonin và trầm cảm: điều khoa học chưa xác nhận",
+      "sources": [],
+      "bullets": [
+        "Thuốc có tác dụng khác với nguyên nhân bệnh"
+      ],
+      "notes": "Ví dụ của người viết: thuốc giảm đau đầu giúp được bạn không có nghĩa đau đầu do thiếu thuốc đó.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Chất dẫn truyền tác động tại synapse",
+        "Glutamate kích thích, GABA ức chế",
+        "Ba chất điều hòa chỉnh trạng thái chung",
+        "Một chất một cảm xúc là quá đơn giản",
+        "Thuyết thiếu serotonin chưa được ủng hộ nhất quán"
+      ],
+      "notes": "Bài sau (L04) về vỏ não trước trán.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Không tự dùng, đổi hay ngừng thuốc",
+        "Không trộn rượu với thuốc an thần",
+        "Ý nghĩ tự làm hại mình: tìm trợ giúp ngay"
+      ],
+      "notes": "Bài học về cơ chế, không phải lời khuyên y tế.",
+      "layout": "card-grid",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "bullets": [
+        "Hove & Martinez, Biological Psychology, chương 5",
+        "Neuroscience Online, UTHealth Houston, chương 11 đến 14",
+        "Moncrieff và cộng sự, Molecular Psychiatry, 2022",
+        "Purves và cộng sự, Neuroscience, 2001, chương 6",
+        "Hove và Martinez, chương 12 (hình minh họa)"
+      ],
+      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

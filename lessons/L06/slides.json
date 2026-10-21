@@ -1,0 +1,303 @@
+{
+  "title": "Mạng xã hội và truyền thông tác động lên não",
+  "subtitle": "Mạng xã hội · Bài L06",
+  "slides": [
+    {
+      "title": "Mạng xã hội \"thao túng\" não, hay dùng cách não vận hành?",
+      "section": "Tóm tắt",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Cơ chế có thật; tận dụng là suy luận"
+      ],
+      "notes": "Bài trả lời trung thực gồm ba phần: cơ chế có thật, tính năng tận dụng là suy luận, bằng chứng tác hại còn nhiều điều chưa rõ.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Ba điều cần nhớ",
+      "section": "Tóm tắt",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Cơ chế não: có thật",
+        "Tính năng tận dụng cơ chế: suy luận",
+        "Tác hại ở thiếu niên: nhỏ, còn chưa rõ"
+      ],
+      "notes": "Bài không dùng chữ nghiện như chẩn đoán y khoa, và không lấy chất dẫn truyền hay hạnh nhân làm trọng tâm vì thiếu bằng chứng trực tiếp trong các nguồn đã chọn.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Mạng xã hội chạm vào ba cơ chế",
+      "section": "Mạng xã hội chạm vào những cơ chế nào",
+      "sources": [
+        "S2",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Hệ thưởng",
+        "Chú ý",
+        "Ảnh hưởng xã hội"
+      ],
+      "notes": "Hệ thưởng và chú ý đã có ở L00 và L05; ảnh hưởng xã hội ở mục sau.",
+      "layout": "connection-diagram",
+      "tone": "light"
+    },
+    {
+      "title": "Lĩnh vực đang nổi lên",
+      "section": "Mạng xã hội chạm vào những cơ chế nào",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Các tác giả gọi đây là lĩnh vực đang nổi lên"
+      ],
+      "notes": "Meshi và cộng sự, 2015. Nhiều điều ta nói về não và mạng xã hội là suy ra từ nghiên cứu về thưởng, chú ý và quan hệ xã hội: nhận định của người viết.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Thí nghiệm bấm thích",
+      "section": "Bấm thích và ảnh hưởng của bạn bè",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "32 thiếu niên 13 đến 18 tuổi",
+        "Xem ảnh khi chụp fMRI",
+        "Số lượt thích hiển thị được thay đổi",
+        "Đo phản ứng của não và hành vi"
+      ],
+      "notes": "Sherman và cộng sự, 2016. Nhiệm vụ mô phỏng Instagram. Bấm thích là nút trên ứng dụng; thích theo nghĩa khoái cảm (liking) ở L00 là việc khác.",
+      "layout": "flow",
+      "tone": "light"
+    },
+    {
+      "title": "Kết quả và giới hạn",
+      "section": "Bấm thích và ảnh hưởng của bạn bè",
+      "sources": [
+        "S2"
+      ],
+      "bullets": [
+        "Dễ bấm thích ảnh nhiều lượt, kể cả ảnh nguy cơ",
+        "Vùng thưởng, xã hội, chú ý hoạt động mạnh hơn",
+        "Giới hạn: mẫu nhỏ, mô phỏng"
+      ],
+      "notes": "Con số hiển thị là tín hiệu xã hội ảnh hưởng đến phản ứng của não.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Chụp não bằng fMRI trông thế nào",
+      "bullets": [
+        "Ảnh minh họa chung",
+        "Không phải ảnh của nghiên cứu",
+        "Màu nóng: hoạt động cao hơn mức nền"
+      ],
+      "notes": "Hai hình chỉ giúp hình dung thiết bị và cách hiển thị kết quả.",
+      "section": "Bấm thích và ảnh hưởng của bạn bè",
+      "sources": [
+        "S8"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/may-mri.jpg",
+          "alt": "Máy chụp cộng hưởng từ với người nằm trong lòng máy",
+          "credit": "Mart Production (Pexels), CC0; qua Hove & Martinez, Hình 9 (chương 4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
+        },
+        {
+          "file": "images/anh-fmri.jpg",
+          "alt": "Nhà nghiên cứu xem ảnh fMRI với vùng hoạt động tô màu",
+          "credit": "Wikimedia Commons, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 11 (chương 4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
+        }
+      ]
+    },
+    {
+      "title": "563.312 thông điệp",
+      "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Twitter, ba chủ đề gây chia rẽ",
+        "Ngôn từ đạo đức-cảm xúc được chia sẻ nhiều hơn"
+      ],
+      "notes": "Brady và cộng sự, 2017. Mạnh hơn trong nội bộ nhóm cùng quan điểm.",
+      "layout": "one-big-number",
+      "tone": "light"
+    },
+    {
+      "title": "Đọc kết quả thận trọng",
+      "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+      "sources": [
+        "S4"
+      ],
+      "bullets": [
+        "Một nền tảng, ba chủ đề",
+        "Dữ liệu quan sát, chưa chứng minh nhân quả",
+        "Đo ngôn từ và lượt chia sẻ, không đo tốc độ"
+      ],
+      "notes": "Ví dụ của người viết: ngày bán nhiều kem cũng là ngày nhiều người đuối nước, nhưng kem không gây đuối nước; cả hai cùng tăng vào ngày nóng.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Từ cơ chế đến thiết kế",
+      "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Thông báo: chú ý bị kéo (suy luận)",
+        "Lượt thích: tín hiệu xã hội (thí nghiệm mô phỏng)",
+        "Kết quả lúc có lúc không: thưởng (suy luận)",
+        "Nội dung đạo đức-cảm xúc: chia sẻ nhiều (quan sát)"
+      ],
+      "notes": "Bảng suy luận của người viết: cơ chế có nguồn; việc tính năng tận dụng cơ chế chưa phải kết quả thí nghiệm trực tiếp.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Đây là suy luận",
+      "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+      "sources": [],
+      "bullets": [
+        "Cột cuối là suy luận, chưa phải thí nghiệm"
+      ],
+      "notes": "Cần gắn nhãn rõ để không biến suy luận thành sự thật.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "0,4%",
+      "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Công nghệ số giải thích tối đa 0,4%",
+        "Hơn 300.000 thiếu niên ở Anh và Mỹ"
+      ],
+      "notes": "Orben và Przybylski, 2019. Nói bằng lời: trong 1.000 phần khác biệt giữa các em, công nghệ số giải thích tối đa khoảng 4 phần. Họ cho rằng mức này quá nhỏ để biện minh cho thay đổi chính sách.",
+      "layout": "one-big-number",
+      "tone": "light"
+    },
+    {
+      "title": "So sánh trong cùng dữ liệu",
+      "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Ăn khoai tây: liên hệ tương tự",
+        "Bắt nạt, cần sa: tiêu cực mạnh hơn nhiều",
+        "Ngủ đủ, ăn sáng: tích cực mạnh hơn"
+      ],
+      "notes": "Theo công bố của các tác giả. Chỉ nói về thiếu niên và công nghệ số nói chung.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Quan sát khác với nhân quả",
+      "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Quan sát: hai thứ cùng thay đổi",
+        "Nhân quả: thứ này gây ra thứ kia"
+      ],
+      "notes": "Dữ liệu quan sát không chứng minh nhân quả theo chiều nào. Đây là một nghiên cứu lớn, không phải toàn bộ bằng chứng.",
+      "layout": "two-column-comparison",
+      "tone": "light"
+    },
+    {
+      "title": "Bốn việc nhỏ có thể thử",
+      "section": "Cách tự bảo vệ (gợi ý suy ra từ cơ chế)",
+      "sources": [
+        "S3",
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Tắt thông báo không cần thiết",
+        "Đặt điểm dừng từ trước",
+        "Hỏi: mình muốn hay thích?",
+        "Chậm lại trước nội dung đạo đức-cảm xúc"
+      ],
+      "notes": "Gợi ý suy ra từ cơ chế, chưa kiểm chứng. Thêm: giữ nền tảng sức khỏe như ngủ đủ, ăn sáng (có liên hệ trong dữ liệu của Orben và Przybylski), vận động và hỗ trợ xã hội (L05).",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S2",
+        "S3",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "bullets": [
+        "Cơ chế thưởng, chú ý, xã hội là có thật",
+        "Tính năng tận dụng chúng phần lớn là suy luận",
+        "Tác hại ở thiếu niên nhỏ, còn chưa rõ",
+        "Giảm tác động: gợi ý, chưa kiểm chứng"
+      ],
+      "notes": "Đây là bài ứng dụng của L00 đến L05; có thể đọc lại các bài này.",
+      "layout": "numbered-rows",
+      "tone": "light"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Bài về cơ chế, không phải lời khuyên y tế",
+        "Mất ngủ, lo âu, khó kiểm soát: gặp chuyên gia"
+      ],
+      "notes": "Không dùng bài này để quy kết lỗi cho thiếu niên hay phụ huynh.",
+      "layout": "one-highlighted-sentence",
+      "tone": "dark"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "bullets": [
+        "Meshi và cộng sự, Trends Cogn Sci, 2015",
+        "Sherman và cộng sự, Psychol Sci, 2016",
+        "Orben và Przybylski, Nat Hum Behav, 2019",
+        "Brady và cộng sự, PNAS, 2017",
+        "Schultz 1997, Corbetta 2002, Berridge 1998",
+        "Hove & Martinez, Biological Psychology, chương 4 (hình)"
+      ],
+      "notes": "Đường dẫn đầy đủ ở lesson.md.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+ "topic_label": "Thần kinh học · Bài L05",
+ "motif": "rings",
+ "question": "Vì sao ta bị cuốn vào thứ không quan trọng?",
+ "cards": [
+  "Hệ thưởng",
+  "Chú ý",
+  "Hạnh nhân",
+  "Căng thẳng"
+ ],
+ "big": {},
+ "actors": {
+  "8": [
+   "Kích thích",
+   "Phản ứng của động vật"
+  ],
+  "15": [
+   "Thông báo",
+   "Não"
+  ]
+ },
+ "mark": {
+  "1": "bốn hệ thống",
+  "6": "thế giới quyết định thay ta",
+  "9": "động vật",
+  "14": "vận động"
+ },
+ "center": {
+  "5": "Chú ý"
+ }
+}

@@ -152,6 +152,16 @@ class GateTests(unittest.TestCase):
         self.assertIn("url of S2 is not on its own reference line", errs)
         self.assertIn("url of S3 is not on its own reference line", errs)
 
+    def test_every_accepted_layout_has_a_renderer_and_bullet_limits(self):
+        """A layout the gate accepts must not crash validation or gen.py (2x2-matrix was accepted with neither)."""
+        gen = importlib.util.module_from_spec(importlib.util.spec_from_file_location("gen", ROOT / "scripts" / "deckgen" / "gen.py"))
+        gen.__spec__.loader.exec_module(gen)
+        drawn = set(gen.LAYOUTS) | set(gen.INDEXED)
+        self.assertEqual(set(gate.LAYOUTS), drawn)
+        self.assertEqual(set(gate.BULLETS), drawn)
+        errs, _ = self.run_gate(self.mutated(4, layout="2x2-matrix"))
+        self.assertIn("unknown layout 2x2-matrix: Ba bước", errs)
+
     def test_a_slide_title_fits_two_lines(self):
         errs, _ = self.run_gate(self.mutated(4, title="Ba " + "bước " * 25))
         self.assertTrue(any(e.startswith("title>90: ") for e in errs))

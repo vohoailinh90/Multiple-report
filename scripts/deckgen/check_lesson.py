@@ -16,7 +16,7 @@ import json, re, sys
 from pathlib import Path
 
 TOPICS = {"than-kinh", "nao-bo", "triet-hoc", "suc-khoe", "quan-ly-du-an", "ky-thuat", "khac"}
-OLD = {"sequence-diagram", "flow", "two-column-comparison", "2x2-matrix", "lookup-table", "card-grid", "numbered-rows",
+OLD = {"sequence-diagram", "flow", "two-column-comparison", "lookup-table", "card-grid", "numbered-rows",
        "connection-diagram", "layers", "timeline", "one-big-number", "one-highlighted-sentence", "figure"}
 BODY = {"explainer": (40, 130, 60, 110), "annotated-figure": (30, 80, 40, 70)}  # hard lo, hard hi, target lo, target hi
 LAYOUTS = OLD | set(BODY) | {"profile-card", "references"}
@@ -99,7 +99,7 @@ def check(root, lid):
         bl = s.get("bullets", [])
         if L not in LAYOUTS: errs.append(f"unknown layout {L}: {name}"); continue
         if len(name) > 90: errs.append(f"title>90: {name}")
-        lo, hi = BULLETS[L]
+        lo, hi = BULLETS[L]  # every layout in LAYOUTS has a renderer in gen.py and an entry here (tested)
         if not lo <= len(bl) <= hi: errs.append(f"{L} draws {lo}-{hi} bullets, found {len(bl)}: {name}")
         if L == "references":
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]

@@ -1,0 +1,22 @@
+{
+ "topic_label": "Não bộ · Bài L08",
+ "motif": "dots",
+ "question": "Nếu cắt đi một mảnh vỏ não nhỏ, người ta mất đi điều gì?",
+ "cards": [
+  "Vỏ não: tấm mỏng sáu lớp",
+  "Thùy thái dương",
+  "Thùy đỉnh",
+  "Thùy chẩm"
+ ],
+ "concepts": ["vỏ não", "thái dương", "đỉnh", "chẩm"],
+ "big": {"9": "80%"},
+ "mark": {
+  "1": "mất đi điều gì",
+  "22": "nửa không gian bên trái không tồn tại",
+  "32": "chỉ đường",
+  "35": "hoạt động mạnh"
+ },
+ "center": {"21": "Chú ý"},
+ "actors": {"29": ["Tai và mắt", "Thùy thái dương", "Thùy chẩm", "Thùy đỉnh"]},
+ "pairs": {"29": [[0, 1], [1, 1], [1, 3], [0, 2], [2, 1], [3, 3]]}
+}

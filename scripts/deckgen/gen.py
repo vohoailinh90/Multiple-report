@@ -230,7 +230,7 @@ def connection(p, n, s, o, idx):
 
 def layers(p, n, s, o):
     bl = s["bullets"]; out = []
-    rh = min(170, 600 // max(len(bl), 1))
+    rh = min(170, (630 - 16 * (len(bl) - 1)) // max(len(bl), 1))  # the last layer ends by y=930, above the source line at 944
     for k, b in enumerate(bl):
         a, t = acc(p, n, k)
         yy = 300 + k * (rh + 16)

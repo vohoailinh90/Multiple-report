@@ -117,6 +117,21 @@ class GenTests(unittest.TestCase):
             x, w = footer[0]
             self.assertLessEqual(x + w, 1650, "the bottom-right corner stays empty for the Moda logo")
 
+    def test_the_last_layer_ends_above_the_source_line(self):
+        """Six layers used to end at y=980 and cover the source line drawn at y=944."""
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        for count in range(1, 7):
+            slide = {"title": "Lớp", "section": "A", "sources": ["S1"], "bullets": ["lớp"] * count, "notes": "",
+                     "layout": "layers", "tone": "light"}
+            path = root / "slides.json"
+            path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+            tree = ET.fromstring(gen.page("L09", 1, {}, path))
+            with self.subTest(layers=count):
+                bottoms = [float(r.get("y")) + float(r.get("height")) for r in tree.iter("rectangle") if r.get("corner-radius") == "22"]
+                self.assertEqual(len(bottoms), count)
+                self.assertLessEqual(max(bottoms), 944)
+
     def test_fit_shrinks_long_text_but_not_below_the_floor(self):
         short, long = "một câu ngắn", " ".join(["chữ"] * 400)
         self.assertEqual(gen.fit(short, 600, 200, 40), 40)

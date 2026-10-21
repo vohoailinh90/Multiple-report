@@ -193,6 +193,17 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(4, layout="timeline", bullets=["ngắn"] * 6))
         self.assertEqual(errs, [])
 
+    def test_the_front_matter_date_is_required_and_iso(self):
+        for date_line in ("", "date: 20/10/2026\n", "date: 2026-13-01\n"):
+            errs, _ = self.run_gate(lesson=LESSON.replace("date: 2026-10-20\n", date_line))
+            with self.subTest(date_line=date_line):
+                self.assertTrue(any(e.startswith("date must be YYYY-MM-DD") for e in errs), errs)
+
+    def test_a_citation_drawn_on_a_slide_must_be_in_its_sources(self):
+        errs, _ = self.run_gate(self.mutated(3, bullets=["A: một [S2]", "B: hai"]))
+        self.assertIn("slide text cites S2 but its sources omit it: Hai phía", errs)
+        self.assertEqual(self.run_gate(self.mutated(3, bullets=["A: một [S4]", "B: hai"]))[0], [])
+
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})
         self.assertIn("cites 6", errs)

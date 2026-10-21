@@ -30,6 +30,7 @@ HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of thes
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
+DATE = re.compile(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])")
 _gen = None
 
 
@@ -83,6 +84,7 @@ def check(root, lid):
         if meta.get("title") != ex["title"] or fm.group(2) != ex["title"]: errs.append("title mismatch")
         if meta.get("topic") not in TOPICS: errs.append("topic")
         if meta.get("topic") != ex["topic"]: errs.append("topic vs expected")
+        if not DATE.fullmatch(meta.get("date", "")): errs.append(f"date must be YYYY-MM-DD, found {meta.get('date')!r}")
     if sl.get("title") != ex["title"]: errs.append(f"deck title {sl.get('title')!r} differs from the lesson title")
     secs = re.findall(r"^## (.+)$", body, re.M)
     if secs != ex["sections"]: errs.append(f"sections differ: {secs}")
@@ -173,6 +175,8 @@ def check(root, lid):
         drawn = " ".join([s.get("body", ""), *bl, *(x["text"] for x in s.get("facts", []) if "text" in x)])
         for k in set(s.get("sources", [])) | set(CITE.findall(drawn)):
             if k not in refs: errs.append(f"slide cites {k}, not in the reference list: {name}")
+        if s["section"] != "Nguồn tham khảo":  # the footer lists `sources` only, so a citation drawn in the text must be there too
+            errs += [f"slide text cites {k} but its sources omit it: {name}" for k in sorted(set(CITE.findall(drawn)) - set(s.get("sources", [])))]
         if lo_hi and s["section"] != "Nguồn tham khảo" and not lo_hi[0] <= words(s.get("notes", "")) <= lo_hi[1]:
             warn.append(f"notes {words(s.get('notes', ''))} words: {name}")
     errs += overflow(root, lid, S, sl_path)

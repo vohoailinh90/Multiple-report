@@ -7,6 +7,8 @@ This repository's working rules are in `CLAUDE.md`; read it as well as this file
 
 `vohoailinh90/Multiple-report` is registered with the free-model team: `team` (Claude leads) and `team-codex` (Codex leads), with free models writing the tests, the code and a pre-review. The details are in `docs/TEAM.md`; the settings that differ per repository live in `repos.conf` on the VPS, not here.
 
+**Paused:** The free-model VPS team (team, team-codex, team-lesson) is paused for this repository by the owner. Do not run team new, team run, team push or team-lesson new here. Claude designs and writes in the main session and Codex reviews each pull request until the owner turns the team back on.
+
 - Base branch `main`; sensitivity `private`; gates setup none (nothing to install); suggested test commands `python3 -m unittest discover -s tests`.
 - If you are a team worker (tester, coder or reviewer), follow the handoff files you are given and touch only the files the task names. Never edit CI (`.github/`), agent instructions (`CLAUDE.md`, `AGENTS.md`, `.claude/`, `.codex/`), lockfiles or `repos.conf` unless the task says so.
 
@@ -20,7 +22,7 @@ If you are Claude Code or Codex working on this repository directly (a spec, an 
 
 Exceptions in this repository, which replace the matching rule above:
 
-- Current process (set by the owner, temporary): Claude designs and writes the code or the lesson in the main session, Codex critiques every pull request (`@codex review` on each head, as the review step above says). The free-model VPS team (`team-lesson`, docs/vps-team-lesson.md in the template repo) is not used while this holds; no `team new` or `team-lesson new` run is started.
+- Current process (set by the owner, temporary): Claude designs and writes the code or the lesson in the main session, Codex critiques every pull request (`@codex review` on each head, as the review step above says).
 - Claude scores the requirement with scripts/route.py of the template repo and keeps to the agent budget of its tier; Codex never designs or edits here, it only reviews, and a finding is checked against the code before it is fixed or answered.
 - A lesson's structure is judged by lesson_gates.py (template repo, scripts/team/lesson/) against lessons/<id>.expected.json, which Claude runs by hand when it writes a lesson: `python3 <template>/scripts/team/lesson/lesson_gates.py lessons/<id> --expect lessons/<id>.expected.json`.
 - The deck (lessons/<id>/<id>.pptx) is built by Claude with Moda in the main session, never by a subagent; record it with `python3 scripts/decks.py record`.

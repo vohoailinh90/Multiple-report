@@ -5,6 +5,8 @@ Repo `vohoailinh90/Multiple-report` đã được đăng ký với team agent d�
 `vohoailinh90/claude-agent-routing-template`: `docs/vps-team.md` (team Claude) và `docs/vps-team-codex.md` (team Codex).
 Hai team dùng chung worker miễn phí (tester, coder, reviewer); khác nhau ở người thiết kế và audit.
 
+> **Tạm dừng (chủ repo đặt):** The free-model VPS team (team, team-codex, team-lesson) is paused for this repository by the owner. Do not run team new, team run, team push or team-lesson new here. Claude designs and writes in the main session and Codex reviews each pull request until the owner turns the team back on.
+
 | Mục | Giá trị |
 |---|---|
 | Nhánh gốc | `main` |
@@ -16,7 +18,7 @@ Hai team dùng chung worker miễn phí (tester, coder, reviewer); khác nhau �
 Các giá trị này nằm trong `repos.conf` trên VPS, không nằm trong repo này (worker ghi được vào repo, nên cấu hình chạy lệnh
 có mạng không được đặt ở đây). Muốn đổi thì sửa ở VPS.
 
-## Chạy một feature
+## Chạy một feature (tạm dừng: không chạy các lệnh dưới đây)
 
 ```bash
 team new F12 --repo vohoailinh90/Multiple-report      # team-codex nếu để Codex thiết kế và audit
@@ -45,7 +47,7 @@ Nếu chính repo này đã ghi quy tắc riêng cho một bước ở trên (ai
 ## Ghi chú riêng của repo này
 
 - Python without a requirements file or pyproject.toml: the gates run on the image's Python only
-- Exception in this repository (replaces the matching rule above): Current process (set by the owner, temporary): Claude designs and writes the code or the lesson in the main session, Codex critiques every pull request (`@codex review` on each head, as the review step above says). The free-model VPS team (`team-lesson`, docs/vps-team-lesson.md in the template repo) is not used while this holds; no `team new` or `team-lesson new` run is started.
+- Exception in this repository (replaces the matching rule above): Current process (set by the owner, temporary): Claude designs and writes the code or the lesson in the main session, Codex critiques every pull request (`@codex review` on each head, as the review step above says).
 - Exception in this repository (replaces the matching rule above): Claude scores the requirement with scripts/route.py of the template repo and keeps to the agent budget of its tier; Codex never designs or edits here, it only reviews, and a finding is checked against the code before it is fixed or answered.
 - Exception in this repository (replaces the matching rule above): A lesson's structure is judged by lesson_gates.py (template repo, scripts/team/lesson/) against lessons/<id>.expected.json, which Claude runs by hand when it writes a lesson: `python3 <template>/scripts/team/lesson/lesson_gates.py lessons/<id> --expect lessons/<id>.expected.json`.
 - Exception in this repository (replaces the matching rule above): The deck (lessons/<id>/<id>.pptx) is built by Claude with Moda in the main session, never by a subagent; record it with `python3 scripts/decks.py record`.

@@ -254,6 +254,19 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(5, bullets=["S1: a", "S2 nguồn hai", "S3: c", "S4: d", "S5: e"]))
         self.assertTrue(any(e.startswith("references slide lists") for e in errs), errs)
 
+    def test_one_url_under_several_labels_is_one_independent_source(self):
+        lesson = LESSON
+        for k in range(3, 6):
+            lesson = lesson.replace(f"https://example.org/{k}", "https://example.org/2/")
+        errs, _ = self.run_gate(lesson=lesson)
+        self.assertIn("independent sources 1 < 4", errs)
+
+    def test_paragraph_spacing_counts_toward_the_height_of_a_body(self):
+        """Eleven short paragraphs need their 18px gaps: 11 lines of 30px text alone would fit, with the gaps they do not."""
+        body = "\n\n".join(["**Hạnh nhân** là một khối nhỏ [S1]."] * 11)
+        errs, _ = self.run_gate(self.mutated(1, body=body))
+        self.assertTrue(any(e.startswith("text does not fit its box on explainer (Hạnh nhân là gì)") for e in errs), errs)
+
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
         self.assertIn("reference card has no text after its label: S1: ", errs)

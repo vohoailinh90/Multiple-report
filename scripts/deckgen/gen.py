@@ -58,6 +58,19 @@ def fit(text, w, h, size, lh=1.25, floor=FLOOR, cw=0.55):
     return max(size, floor)
 
 
+def rich_height(text, w, size, lh, spacing, cw=0.55):
+    """Height of a body drawn as one <p> per blank-line-separated paragraph, `spacing` px between paragraphs."""
+    paras = [q for q in re.split(r"\n\s*\n", plain(text).strip())]
+    return sum(lines(q, w, size, cw) for q in paras) * size * lh + spacing * (len(paras) - 1)
+
+
+def fit_rich(text, w, h, size, lh, floor, spacing=0, cw=0.55):
+    """Largest font size from size down (step 2, not below floor) whose paragraphs, with their spacing, fit w x h."""
+    while size > floor and rich_height(text, w, size, lh, spacing, cw) > h:
+        size -= 2
+    return max(size, floor)
+
+
 def title(p, text, y=72, w=1728, h=190):
     size = fit(text, w, h, 76, 1.08, 56, 0.58)
     return (f'<text x="{M}" y="{y}" width="{w}" height="{h}" font-family="Bricolage Grotesque" font-weight="800" '
@@ -392,7 +405,7 @@ def annotated_figure(p, n, s, o, idx):
         out += gloss(p, acc(p, n, idx + k)[0], b, rx, py + k * (ch + gap), rw, ch)
     a, t = acc(p, n, idx)
     by = py + len(bl) * (ch + gap); bh = ph - (by - py)
-    size = fit(plain(s["body"]), rw - 64, bh - 56, 34, 1.3, 24)
+    size = fit_rich(s["body"], rw - 64, bh - 56, 34, 1.3, 24)
     out.append(f'<rectangle x="{rx}" y="{by}" width="{rw}" height="{bh}" corner-radius="20" fill="{t}"/>')
     out.append(f'<text x="{rx + 32}" y="{by + 28}" width="{rw - 64}" height="{bh - 56}" format="html" font-size="{size}" color="{p["ink"]}" line-height="1.3" vertical-align="top">{rich(s["body"], p, n, a, o)}</text>')
     return out
@@ -404,7 +417,7 @@ def explainer(p, n, s, o, idx):
     a, t = acc(p, n, 0)
     y0, h = 290, 590
     bw = 1110 if bl else 1688
-    size = fit(plain(s["body"]), bw, h, 38, 1.35, 30)
+    size = fit_rich(s["body"], bw, h, 38, 1.35, 30, 18)
     out.append(f'<rectangle x="{M}" y="{y0 + 6}" width="10" height="{h - 12}" corner-radius="5" fill="{a}"/>')
     out.append(f'<text x="{M + 40}" y="{y0}" width="{bw}" height="{h}" format="html" font-size="{size}" color="{p["ink"]}" line-height="1.35" paragraph-spacing="18" vertical-align="top">{rich(s["body"], p, n, a, o)}</text>')
     if bl:
@@ -542,7 +555,13 @@ def overflows(markup):
             continue
         display = node.get("font-family") == "Bricolage Grotesque"  # wider glyphs, tighter leading
         w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
-        if lines(text, w, size, 0.58 if display else 0.55) * size * (1.08 if display else 1.15) > h * 1.05:
+        paras = node.findall("p")
+        if paras:  # an html body: one <p> per paragraph, drawn at the node's own leading and paragraph spacing
+            need = sum(lines(html.unescape("".join(q.itertext())), w, size, 0.55) for q in paras) * size * float(node.get("line-height", 1.15))
+            need += float(node.get("paragraph-spacing", 0)) * (len(paras) - 1)
+        else:
+            need = lines(text, w, size, 0.58 if display else 0.55) * size * (1.08 if display else 1.15)
+        if need > h * 1.05:
             bad.append(text)
     return bad
 

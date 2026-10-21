@@ -116,7 +116,11 @@ def check(root, lid):
         if not any(url in r for r in refs.values()): errs.append(f"required source missing: {url}")
     if "section_min_slides" in ex:  # a deep lesson gives every source a URL; older lessons cite books and articles without one
         errs += [f"reference {k} has no http(s) URL" for k, r in refs.items() if not URL.search(r)]
-    indep = [k for k, r in refs.items() if TEXTBOOK not in r and URL.search(r)]
+    indep = {}  # one source per distinct address: the same URL under several labels counts once
+    for k, r in refs.items():
+        if TEXTBOOK not in r and (m := URL.search(r)):
+            indep.setdefault(m.group(0).rstrip(".,;)").split("#")[0].rstrip("/").lower(), k)
+    indep = list(indep.values())
     if len(indep) < ex.get("min_independent_sources", 0):
         errs.append(f"independent sources {len(indep)} < {ex['min_independent_sources']}")
     for img in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", body):

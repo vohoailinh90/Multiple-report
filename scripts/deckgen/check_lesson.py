@@ -14,6 +14,7 @@ Errors fail the gate; warnings are printed and must be explained, not ignored.
 """
 import importlib.util, json, re, sys
 from pathlib import Path
+from urllib.parse import urlsplit
 
 TOPICS = {"than-kinh", "nao-bo", "triet-hoc", "suc-khoe", "quan-ly-du-an", "ky-thuat", "khac"}
 OLD = {"sequence-diagram", "flow", "two-column-comparison", "lookup-table", "card-grid", "numbered-rows",
@@ -125,7 +126,8 @@ def check(root, lid):
     indep = {}  # one source per distinct address: the same URL under several labels counts once
     for k, r in refs.items():
         if TEXTBOOK not in r and (m := URL.search(r)):
-            indep.setdefault(m.group(0).rstrip(".,;)").split("#")[0].rstrip("/").lower(), k)
+            u = urlsplit(m.group(0).rstrip(".,;)"))  # scheme and host are case-insensitive, the path is not
+            indep.setdefault((u.scheme.lower(), u.netloc.lower(), u.path.rstrip("/"), u.query), k)
     indep = list(indep.values())
     if len(indep) < ex.get("min_independent_sources", 0):
         errs.append(f"independent sources {len(indep)} < {ex['min_independent_sources']}")
@@ -148,6 +150,8 @@ def check(root, lid):
                                                            and URL.fullmatch(m["url"].strip())
                                                            for m in s["images"]))]
     if not isinstance(sl.get("subtitle"), str): bad.append("slides.json needs a text subtitle (drawn on the cover)")
+    bad += [f"slide {i} has a blank {k}" for i, s in enumerate(S, 1) for k in ("title", "section", "layout", "tone")
+            if isinstance(s.get(k), str) and not s[k].strip()]
     if bad:
         return errs + bad, warn, f"{lid}: slides.json is incomplete"
     if {s["section"] for s in S} != set(secs): errs.append(f"slide sections differ: {set(secs) ^ {s['section'] for s in S}}")

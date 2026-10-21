@@ -294,6 +294,18 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(0, bullets=["Nhãn ngắn: giải thích", "hai: ba", "bốn: năm", "sáu: bảy"]))
         self.assertEqual(errs, [])
 
+    def test_a_slide_title_may_not_be_blank(self):
+        errs, _ = self.run_gate(self.mutated(4, title="  "))
+        self.assertIn("slide 5 has a blank title", errs)
+
+    def test_urls_differing_only_in_path_case_are_distinct_sources(self):
+        lesson = LESSON.replace("https://example.org/2", "https://Example.org/Paper").replace("https://example.org/3", "https://example.ORG/paper")
+        errs, _ = self.run_gate(lesson=lesson, expected={**EXPECTED, "min_independent_sources": 4})
+        self.assertEqual(errs, [], "paper and Paper are two documents")
+        same = LESSON.replace("https://example.org/2", "https://Example.org/Paper").replace("https://example.org/3", "https://example.ORG/Paper/")
+        errs, _ = self.run_gate(lesson=same, expected={**EXPECTED, "min_independent_sources": 4})
+        self.assertIn("independent sources 3 < 4", errs, "host case and a trailing slash do not make a new source")
+
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
         self.assertIn("reference card has no text after its label: S1: ", errs)

@@ -1,0 +1,843 @@
+{
+ "title": "Não thay đổi theo tuổi và kinh nghiệm: từ thai kỳ đến tuổi vị thành niên",
+ "subtitle": "Não bộ · Bài L14",
+ "slides": [
+  {
+   "title": "Câu hỏi của bài",
+   "section": "Tóm tắt",
+   "sources": [
+    "S3",
+    "S7"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Nếu não thay đổi suốt đời, vì sao tuổi dậy thì được gọi là giai đoạn nhạy cảm, và \"não chưa chín đến 25 tuổi\" có đúng không?"
+   ],
+   "notes": "Mở bài bằng câu hỏi mà nhiều người đã nghe: một bên nói não luôn dẻo, một bên nói não chưa chín đến 25 tuổi. Hai câu nghe mâu thuẫn, nhưng thật ra chúng nói về những thứ khác nhau: tính dẻo là khả năng đổi theo trải nghiệm, còn \"chín\" là cách nói gộp nhiều chỉ số có lịch riêng. Bài đi theo thứ tự thời gian từ thai kỳ đến tuổi vị thành niên, và ở mỗi mục gắn nhãn mức chắc chắn: giáo khoa, đang tranh luận, hay suy luận của người viết. Nhắc người nghe rằng có hai tranh luận bài không phân xử, để họ không chờ một câu trả lời dứt khoát."
+  },
+  {
+   "title": "Bốn phần của bài",
+   "section": "Tóm tắt",
+   "sources": [
+    "S1",
+    "S3",
+    "S4",
+    "S12"
+   ],
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Dựng não: tăng sinh, di cư, kết nhóm, chết có chương trình [S1]",
+    "Thừa rồi tỉa: synapse và myelin [S4]",
+    "Cửa sổ nhạy cảm và tới hạn [S3]",
+    "Tuổi vị thành niên và hai tranh luận mở [S12]"
+   ],
+   "notes": "Đây là bản đồ của bài. Phần một đi từ ống thần kinh đến mạng lưới, bốn giai đoạn nối nhau. Phần hai là chuyện thừa rồi tỉa: não tạo synapse nhiều hơn mức cần rồi bỏ bớt, và bọc myelin cho sợi trục. Phần ba nói về cửa sổ nhạy cảm và tới hạn, kèm ví dụ ngôn ngữ thứ hai. Phần cuối đi vào tuổi vị thành niên và hai tranh luận mở: mô hình hệ kép và sinh nơron ở người lớn. Chỗ dễ nhầm: bài không dạy lại cơ chế synapse (xem L02), ba túi phôi (xem L01) hay vỏ trước trán (xem L04); mỗi chỗ chỉ một câu rồi dẫn sang bài đó."
+  },
+  {
+   "title": "Ba nhãn mức chắc chắn",
+   "section": "Tóm tắt",
+   "sources": [
+    "S3"
+   ],
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Giáo khoa: nguồn đồng thuận",
+    "Giả thuyết hoặc đang tranh luận: nói rõ ai tranh luận",
+    "Suy luận của người viết: không gắn nguồn",
+    "Kết quả từ động vật luôn được ghi rõ"
+   ],
+   "notes": "Nhãn giúp người nghe biết mình đang đứng ở đâu trên thang chắc chắn. Giáo khoa là điều sách và các nguồn đã đọc đồng thuận. Giả thuyết hoặc đang tranh luận là điều có nguồn nhưng chưa chốt, và bài nói rõ ai tranh luận với ai. Suy luận của người viết là chỗ người viết nối thêm ý và không gắn nguồn như thể nguồn đã nói. Ví dụ: câu \"chết tế bào giống điêu khắc\" là cách hình dung của người viết, không phải của giáo trình. Nhắc thêm giọng của bài với nghèo, bỏ bê và hành vi của thiếu niên: trung tính, dữ liệu nhóm, không đổ lỗi và không tiên đoán một đứa trẻ."
+  },
+  {
+   "title": "Bốn giai đoạn dựng não",
+   "section": "Dựng não: từ ống thần kinh đến mạng lưới",
+   "sources": [
+    "S1"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Tăng sinh: tế bào gốc sinh nơron và tế bào đệm",
+    "Di cư: nơron non đến đúng chỗ",
+    "Kết nhóm: nơron xếp hàng và nối nhau thành mạch",
+    "Chết có chương trình: bỏ nơron thừa và non"
+   ],
+   "notes": "Giáo trình chia việc dựng não thành bốn giai đoạn nối nhau: tăng sinh, di cư, kết nhóm và chết có chương trình. Ba túi phôi của L01 là điểm xuất phát; đây là bước kế tiếp. Ví dụ của người viết: xây một khu phố, trước hết có công nhân, rồi họ đến công trường, rồi dựng nhà và nối dây điện, và cuối cùng dọn bớt thứ thừa. Chỗ dễ nhầm: sách trình bày theo thứ tự cho dễ hiểu, không có nghĩa mọi vùng đi qua từng bước đồng loạt và tách bạch tuyệt đối. Nhấn rằng đây là mức giáo khoa."
+  },
+  {
+   "title": "Tăng sinh và di cư",
+   "section": "Dựng não: từ ống thần kinh đến mạng lưới",
+   "sources": [
+    "S1"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Ở đâu: vùng thất của ống thần kinh",
+    "Khi nào: từ khoảng tuần thứ tư sau thụ thai",
+    "Đừng hiểu nhầm: nơron đang di cư chưa có sợi trục"
+   ],
+   "body": "Sau khi ống thần kinh đóng, **sinh nơron** (neurogenesis) bắt đầu khoảng bốn tuần sau thụ thai; tế bào gốc cho ra tế bào đệm hình tia, rồi nơron và tế bào đệm [S1]. Phần lớn nơron của đoan não có trước khi sinh, còn tiểu não tiếp tục sau sinh [S1]. Nơron non **di cư** từ trong ra ngoài, men theo tế bào hình tia để dựng các lớp vỏ não, và chưa có sợi trục hay sợi nhánh khi đang đi [S1].",
+   "notes": "Hai con số trong giáo trình, 86 tỷ nơron và 4,6 triệu nơron mỗi giờ, là của giáo trình dẫn Silbereis và cộng sự 2016; bài không kiểm số gốc nên chỉ nên đọc như thế. Điều dễ nhớ hơn là trật tự: tế bào gốc sinh tế bào đệm hình tia, tế bào hình tia vừa sinh nơron vừa làm đường để nơron men theo. Ví dụ của người viết: nơron di cư như người leo cầu thang dựng sẵn. Chỗ dễ nhầm: di cư tia và di cư tiếp tuyến không loại trừ nhau, có nơron đổi kiểu giữa đường."
+  },
+  {
+   "title": "Tế bào thần kinh đệm và myelin",
+   "section": "Dựng não: từ ống thần kinh đến mạng lưới",
+   "sources": [
+    "S1"
+   ],
+   "layout": "figure",
+   "tone": "dark",
+   "bullets": [
+    "Oligodendrocytes: tế bào ít nhánh, tạo myelin ở não và tủy",
+    "Schwann cells: tế bào Schwann, tạo myelin ở ngoại biên",
+    "Astrocytes: tế bào hình sao",
+    "Microglia: tế bào vi mô đệm"
+   ],
+   "images": [
+    {
+     "file": "images/te-bao-than-kinh-dem.png",
+     "alt": "Sáu loại tế bào thần kinh đệm: ống nội tủy, oligodendrocyte, astrocyte, microglia, tế bào vệ tinh, tế bào Schwann",
+     "credit": "Blausen.com staff / BruceBlaus, Wikimedia Commons, CC BY 3.0; Hove & Martinez, Hình 3 (chương 7.3)",
+     "url": "https://commons.wikimedia.org/wiki/File:Blausen_0870_TypesofNeuroglia.png"
+    }
+   ],
+   "notes": "Hình giáo trình cho thấy sáu loại tế bào đệm. Chỉ cần chú ý hai loại có mũi tên cách điện: oligodendrocyte ở não và tủy, tế bào Schwann ở ngoại biên; cả hai tạo myelin. Đây là chỗ nối với mục cắt tỉa và myelin hóa ở phần sau. Nhắc rằng tế bào đệm không chỉ là giá đỡ: giáo trình xếp chúng là tế bào hỗ trợ giúp nơron làm việc, và tế bào đệm hình tia còn làm đường cho nơron di cư. Chỗ dễ nhầm: giấy phép hình, trang Commons ghi CC BY 3.0, còn giáo trình ghi 4.0; bài dùng theo Commons."
+  },
+  {
+   "title": "Chết theo chương trình khác hoại tử",
+   "section": "Dựng não: từ ống thần kinh đến mạng lưới",
+   "sources": [
+    "S1"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Apoptosis (chết theo chương trình): loại nơron thừa, non; tế bào được dọn gọn",
+    "Necrosis (hoại tử): cái chết thụ động do tổn thương, như sau đột quỵ; để lại mảnh vụn"
+   ],
+   "notes": "Hai kiểu chết tế bào có ý nghĩa trái ngược. Chết theo chương trình là một bước của phát triển: sau tăng sinh, não bỏ bớt nơron thừa và non để các mạng được nối đúng. Hoại tử xảy ra do tai nạn, như thiếu máu sau đột quỵ, và gây rối loạn vì mảnh vụn. Suy luận của người viết: apoptosis giống việc điêu khắc, bỏ bớt để hình dạng rõ ra; đây là cách hình dung, không phải câu của nguồn. Chỗ dễ nhầm: \"tế bào chết\" nghe như hại, nhưng chết có chương trình là chuyện bình thường của phát triển."
+  },
+  {
+   "title": "Đỉnh synapse đến sớm hay muộn theo mạng",
+   "section": "Dư thừa rồi cắt tỉa: synapse và myelin",
+   "sources": [
+    "S4"
+   ],
+   "layout": "timeline",
+   "tone": "dark",
+   "bullets": [
+    "Những tháng đầu đời: đỉnh synapse của vùng giác quan",
+    "Cuối năm đầu: đỉnh synapse liên quan ngôn ngữ",
+    "Thời thơ ấu sớm: đỉnh synapse chức năng bậc cao",
+    "Sau đó: giảm dần về mức synapse của người lớn"
+   ],
+   "notes": "Đường thời gian này lấy từ chú thích hình trong giáo trình, nên chỉ dùng mốc sách nêu: giác quan đỉnh trong những tháng đầu, ngôn ngữ cuối năm đầu, chức năng bậc cao trong thời thơ ấu sớm. Đồ thị gốc nằm ở quyển The Developing Brain và giáo trình dẫn Huttenlocher cùng cộng sự. Ví dụ của người viết: như ba đợt xây nhà, mỗi khu phố xong vào một mùa khác nhau rồi mới tỉa bớt. Chỗ dễ nhầm: đây là thời điểm đỉnh synapse mới sinh, không phải lúc vùng đó dừng phát triển; điều chỉnh ở vùng trán còn kéo dài đến tuổi vị thành niên."
+  },
+  {
+   "title": "Số synapse theo giai đoạn phát triển",
+   "section": "Dư thừa rồi cắt tỉa: synapse và myelin",
+   "sources": [
+    "S4"
+   ],
+   "layout": "annotated-figure",
+   "tone": "light",
+   "bullets": [
+    "Xanh lá: vỏ thị giác, thính giác",
+    "Xanh dương: vùng Broca",
+    "Đỏ: vỏ trước trán"
+   ],
+   "body": "Theo giáo trình, synapse được tạo quá nhiều rồi loại bỏ có chương trình để về mức người lớn [S4]. Đỉnh số synapse mới của vùng giác quan đến trước, rồi đến ngôn ngữ, rồi đến chức năng bậc cao như vỏ trước trán [S4]. Đường cong đỏ của vỏ trước trán đỉnh muộn và hạ chậm hơn hẳn.",
+   "images": [
+    {
+     "file": "images/so-synapse-moi-theo-giai-doan.png",
+     "alt": "Đồ thị số synapse mới theo tuổi cho vùng giác quan, ngôn ngữ và nhận thức bậc cao",
+     "credit": "National Library of Medicine, CC BY-NC-SA theo Media Attributions của giáo trình; Hove & Martinez, Hình 6 (chương 7.6)",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/trade-off-between-plasticity-and-efficiency/"
+    }
+   ],
+   "notes": "Hình giáo trình cho thấy ba đường cong khác thời điểm. Xanh lá, thị giác và thính giác, lên và xuống sớm nhất. Xanh dương, vùng Broca liên quan ngôn ngữ, đỉnh ở giữa. Đỏ, vỏ trước trán, đỉnh muộn nhất và hạ xuống chậm nhất. Chỉ ra điều này khớp với ý của giáo trình: mỗi mạng có lịch riêng. Lưu ý trung thực: giấy phép hình được ghi theo giáo trình là CC BY-NC-SA, nguồn gốc là một sách của National Academies; bài chưa đối chiếu giấy phép ở nơi xuất bản gốc, nên đừng dùng hình này vào mục đích thương mại."
+  },
+  {
+   "title": "Thẻ hồ sơ: cắt tỉa synapse",
+   "section": "Dư thừa rồi cắt tỉa: synapse và myelin",
+   "sources": [
+    "S2",
+    "S4"
+   ],
+   "layout": "profile-card",
+   "tone": "dark",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Là gì",
+     "text": "Sau khi tạo thừa, synapse không hoạt động bị loại có chương trình về mức người lớn [S4]"
+    },
+    {
+     "label": "Khi nào",
+     "text": "Khác nhau theo mạng: giác quan sớm nhất, rồi ngôn ngữ, rồi chức năng bậc cao [S4]"
+    },
+    {
+     "label": "Cơ chế được đề xuất",
+     "text": "Giữ kết nối hiệu quả, bỏ kết nối ít dùng; myelin hóa tăng tốc truyền [S2] [S4]"
+    },
+    {
+     "label": "Bằng chứng (người/động vật; loại)",
+     "text": "Mô học ở người và tổng quan, qua giáo trình; chưa đọc bản gốc [S4]"
+    },
+    {
+     "label": "Điều chưa rõ",
+     "text": "Synapse thừa ở thùy trán làm kém hiệu quả: còn là giả thuyết [S4]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Cắt tỉa không phải thoái hóa; mạng thành chuyên biệt và ổn định hơn [S4]"
+    }
+   ],
+   "notes": "Đọc thẻ theo hàng. Ô \"Điều chưa rõ\" là ô quan trọng: giả thuyết rằng synapse thừa ở thùy trán làm xử lý kém hiệu quả chỉ là giả thuyết, giáo trình dùng chữ \"có thể\". Ô \"Bằng chứng\" nói thật: bài dựa vào mô tả của giáo trình, không đọc bản gốc Huttenlocher. Ví dụ của người viết: bụi cây được tỉa bớt cành để nhánh còn lại khỏe hơn, nhưng cây không vì thế mà \"kém đi\". Chỗ dễ nhầm lớn nhất là chữ \"cắt tỉa\": nó gợi sự mất mát, trong khi nguồn mô tả đó là bước làm mạng chuyên biệt hơn. Cơ chế phân tử LTD xem L02."
+  },
+  {
+   "title": "Chất trắng đạt đỉnh muộn nhất",
+   "section": "Dư thừa rồi cắt tỉa: synapse và myelin",
+   "sources": [
+    "S4",
+    "S7"
+   ],
+   "layout": "one-big-number",
+   "tone": "light",
+   "bullets": [
+    "28,7 tuổi",
+    "Đỉnh thể tích chất trắng trong đường cong chuẩn [S7]",
+    "Giáo trình: myelin làm truyền nhanh hơn, tốn ít năng lượng hơn [S4]"
+   ],
+   "notes": "Myelin là lớp cách điện quanh sợi trục. Giáo trình dẫn Spear 2013: hiệu quả truyền thông tin giữa các vùng tăng nhanh ở tuổi vị thành niên khi sợi trục được bọc myelin. Bethlehem và cộng sự cho thể tích chất trắng đạt đỉnh khoảng 28,7 tuổi. Con số này là thể tích đo trên ảnh cộng hưởng từ, ở mức nhóm; nguồn không nói nó bằng mức myelin hóa của từng sợi. Chỗ dễ nhầm: đỉnh thể tích chất trắng ở gần 29 tuổi không có nghĩa não \"chín\" ở 29 tuổi; xem mục sau về câu \"25 tuổi\". Chất xám thì đỉnh sớm hơn nhiều, khoảng 5,9 tuổi."
+  },
+  {
+   "title": "Tính dẻo là gì",
+   "section": "Tính dẻo: học làm đổi cấu trúc",
+   "sources": [
+    "S2",
+    "S4"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Ở mức synapse: LTP và LTD, xem L02",
+    "Ở mức hệ thống: mỗi mạng có lịch dẻo riêng",
+    "Đừng hiểu nhầm: dẻo nhiều không có nghĩa tốt hơn"
+   ],
+   "body": "**Tính dẻo** (neuroplasticity) là khả năng não tổ chức lại các kết nối để đáp ứng trải nghiệm; mỗi khi học điều mới, cấu trúc não thay đổi về vật chất [S2]. Nền tảng là quy tắc Hebb, với LTP và LTD [S2]. Ở mức hệ thống, mạch giác quan cơ bản đạt đỉnh dẻo ở sơ sinh rồi ổn định, còn mạch **tự điều chỉnh** phát triển muộn và dẻo nhiều trong tuổi vị thành niên [S4].",
+   "notes": "Phần synapse đã học ở L02: Hebb, LTP, LTD, thụ thể NMDA và AMPA. Ở đây chỉ nhấn mức hệ thống. Mạch giác quan dẻo nhất ở sơ sinh rồi ổn định, nhờ đó ta không phải học lại cách nhìn. Mạch tự điều chỉnh phát triển muộn và còn dẻo nhiều ở tuổi vị thành niên. Ví dụ của người viết: con đường đã lát đá thì đi nhanh nhưng khó đổi hướng; bãi cỏ chưa lát thì dễ đi lối mới nhưng đi chậm. Chỗ dễ nhầm: \"não dẻo suốt đời\" đúng ở mức chung, nhưng mức dẻo khác nhau theo mạng và theo tuổi."
+  },
+  {
+   "title": "Hai ví dụ về học làm đổi tổ chức não",
+   "section": "Tính dẻo: học làm đổi cấu trúc",
+   "sources": [
+    "S3"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Động vật: bịt một mắt khi non làm giảm vĩnh viễn đáp ứng của vỏ não với mắt đó",
+    "Người: ở người mù sớm, vỏ chẩm chuyển sang xử lý xúc giác và thính giác"
+   ],
+   "notes": "Cả hai ví dụ đều từ giáo trình và cần đọc có giới hạn. Bên trái là thí nghiệm trên động vật, nên chưa thể coi là mô tả cho người. Bên phải là tính dẻo xuyên giác quan ở người mù sớm; giáo trình dẫn nghiên cứu cho thấy nó có thể còn khi thị lực được phục hồi. Bài không đọc các nghiên cứu gốc, nên chỉ nêu điều giáo trình nói. Ví dụ của người viết: như tòa nhà bỏ trống tầng này thì tầng khác dùng lại. Chỗ dễ nhầm: tính dẻo xuyên giác quan không có nghĩa người mù nghe tốt hơn mọi người một cách tự động; đó là mô tả tổ chức lại của vỏ chẩm."
+  },
+  {
+   "title": "Dẻo nhiều thì kém ổn định",
+   "section": "Tính dẻo: học làm đổi cấu trúc",
+   "sources": [
+    "S4"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "Mạng nào càng dẻo và linh hoạt thì càng kém ổn định và kém hiệu quả, và ngược lại."
+   ],
+   "notes": "Đây là ý trung tâm của mục 7.6 trong giáo trình: phép đánh đổi giữa tính dẻo và hiệu quả. Một bộ não luôn mềm sẽ khó giữ điều đã học; một bộ não quá cứng khó học điều mới. Giáo trình nêu hai kết quả sớm về mở lại cửa sổ dẻo ở người trưởng thành và ở chuột, kèm lời cảnh báo rằng giai đoạn tới hạn tiến hóa có lý do và mở lại có thể làm mất ổn định mạch đã xây. Đừng đọc đó là khuyến nghị dùng chất nào. Suy luận của người viết: vì vậy \"càng dẻo càng tốt\" là hiểu lầm; ổn định cũng là một giá trị."
+  },
+  {
+   "title": "Nhạy cảm và tới hạn: hai cửa sổ",
+   "section": "Giai đoạn nhạy cảm và giai đoạn tới hạn",
+   "sources": [
+    "S3"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Giai đoạn nhạy cảm: trải nghiệm tác động đặc biệt mạnh; ngoài cửa sổ vẫn tác động, yếu hơn",
+    "Giai đoạn tới hạn: tập con của nhạy cảm; thiếu trải nghiệm có thể gây thay đổi không đảo ngược"
+   ],
+   "notes": "Giáo trình định nghĩa theo Knudsen 2004. Giai đoạn nhạy cảm là cửa sổ rộng, ngoài cửa sổ trải nghiệm tương tự vẫn tác động, chỉ yếu hơn. Giai đoạn tới hạn là tập con: thiếu trải nghiệm trong cửa sổ có thể để lại hệ quả lâu dài, có khi không đảo ngược. Ví dụ của người viết: nhạy cảm giống mùa gieo hạt dễ nhất trong năm; tới hạn giống mùa mà bỏ lỡ thì rất khó bù. Chỗ dễ nhầm: hai thuật ngữ hay bị dùng lẫn; khi nghe \"giai đoạn tới hạn\" hãy hỏi có bằng chứng không đảo ngược hay không."
+  },
+  {
+   "title": "Ngôn ngữ thứ hai: điều đã đo",
+   "section": "Giai đoạn nhạy cảm và giai đoạn tới hạn",
+   "sources": [
+    "S13",
+    "S3"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Mẫu: 46 người nói tiếng Hàn hoặc Trung, đến Mỹ ở tuổi 3–39",
+    "Nhãn: tương quan với tuổi bắt đầu học",
+    "Đừng hiểu nhầm: không có ngưỡng \"7 tuổi\" cứng"
+   ],
+   "body": "Johnson và Newport 1989 đo **điểm ngữ pháp** tiếng Anh của 46 người nói tiếng Hàn hoặc Trung bản ngữ, đến Mỹ ở tuổi 3–39, bằng bài phán đoán đúng sai [S13]. Điểm có quan hệ tuyến tính với tuổi đến cho đến dậy thì; sau dậy thì điểm thấp, biến thiên lớn và không còn liên quan đến tuổi đến [S13]. Giáo trình xếp ví dụ này là giai đoạn **nhạy cảm**, vì ngôn ngữ thứ hai vẫn học được suốt đời, chậm hơn [S3].",
+   "notes": "Đọc đúng điều đo được. Johnson và Newport đo điểm ngữ pháp bằng bài phán đoán đúng sai ở 46 người, và thấy quan hệ tuyến tính với tuổi đến Mỹ cho đến dậy thì. Sau dậy thì, điểm thấp nhưng biến thiên lớn và không còn liên quan đến tuổi đến. Các tác giả loại trừ khác biệt về thời gian tiếp xúc, động cơ và cảm giác bản sắc. Chỗ dễ nhầm: bài gốc kết luận về giai đoạn tới hạn, còn giáo trình xếp ví dụ này vào giai đoạn nhạy cảm vì học ngôn ngữ thứ hai vẫn có thể diễn ra suốt đời, chỉ chậm hơn. Đó là khác biệt cách gọi, không phải số liệu."
+  },
+  {
+   "title": "Điểm ngữ pháp theo tuổi bắt đầu học",
+   "section": "Giai đoạn nhạy cảm và giai đoạn tới hạn",
+   "sources": [
+    "S3"
+   ],
+   "layout": "annotated-figure",
+   "tone": "light",
+   "bullets": [
+    "Native: bản ngữ",
+    "Age of Exposure: tuổi bắt đầu tiếp xúc"
+   ],
+   "body": "Điểm ngữ pháp tiếng Anh giữ cao ở nhóm bắt đầu học lúc 3–7 tuổi, rồi giảm dần ở các nhóm bắt đầu muộn hơn [S3]. Đây là **tương quan với tuổi** bắt đầu học, tính theo nhóm, không phải ngưỡng cứng ở một tuổi nào [S3].",
+   "images": [
+    {
+     "file": "images/ngu-phap-theo-tuoi-hoc-ngon-ngu-thu-hai.png",
+     "alt": "Đồ thị điểm ngữ pháp tiếng Anh theo nhóm tuổi bắt đầu tiếp xúc",
+     "credit": "National Library of Medicine, CC BY-NC-SA theo Media Attributions của giáo trình; Hove & Martinez, Hình 5 (chương 7.5)",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/sensitive-and-critical-periods-of-development/"
+    }
+   ],
+   "notes": "Hình giáo trình dựng lại kết quả theo nhóm tuổi: bản ngữ, 3–7, 8–10, 11–15, 17–39. Điểm giữ ở mức cao ở nhóm 3–7 rồi giảm dần ở các nhóm sau. Nhắc: đây là điểm trung bình theo nhóm, từ một nghiên cứu, ở một cặp ngôn ngữ; không phải quy luật cho mọi người học hay mọi ngôn ngữ. Giấy phép hình được ghi theo giáo trình là CC BY-NC-SA, nguồn là bản ghi PubMed của bài gốc; bài chưa đối chiếu giấy phép ở nơi xuất bản gốc. Chỗ dễ nhầm: trục tung không bắt đầu từ 0, nên khoảng cách nhìn có vẻ lớn hơn so với thang đầy đủ."
+  },
+  {
+   "title": "Genie và các ví dụ bằng chứng",
+   "section": "Giai đoạn nhạy cảm và giai đoạn tới hạn",
+   "sources": [
+    "S3",
+    "S13"
+   ],
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Học ngôn ngữ thứ hai: tương quan, người [S13]",
+    "Bịt một mắt khi non: thí nghiệm, động vật [S3]",
+    "Người mù sớm: quan sát, người [S3]",
+    "Genie: một ca đơn lẻ, nhiều yếu tố nhiễu [S3]"
+   ],
+   "notes": "Bảng này giúp người nghe phân loại bằng chứng. Học ngôn ngữ thứ hai là tương quan ở người. Bịt một mắt là thí nghiệm trên động vật. Người mù sớm là quan sát ở người. Genie là một ca đơn lẻ: một cô gái bị cô lập và bỏ bê nặng nhiều năm, ngôn ngữ về sau vẫn kém nặng dù có tiến bộ ban đầu. Cần nói ngắn và tôn trọng, không kể chi tiết gây sốc. Suy luận của người viết: bỏ bê nặng kéo theo nhiều yếu tố cùng lúc, nên không thể coi \"thiếu ngôn ngữ\" là nguyên nhân duy nhất từ ca này. Chỗ dễ nhầm: một ca đơn lẻ gợi ý, không chứng minh."
+  },
+  {
+   "title": "Thẻ hồ sơ: giai đoạn nhạy cảm và tới hạn",
+   "section": "Giai đoạn nhạy cảm và giai đoạn tới hạn",
+   "sources": [
+    "S3",
+    "S4",
+    "S13"
+   ],
+   "layout": "profile-card",
+   "tone": "light",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Là gì",
+     "text": "Nhạy cảm: cửa sổ trải nghiệm tác động mạnh; tới hạn: tập con, có thể không đảo ngược [S3]"
+    },
+    {
+     "label": "Khi nào",
+     "text": "Chủ yếu thời thơ ấu sớm (giác quan, ngôn ngữ); tuổi vị thành niên xem mục sau [S3]"
+    },
+    {
+     "label": "Cơ chế được đề xuất",
+     "text": "Tính dẻo tăng cao trong cửa sổ, sau đó mạch ổn định và hiệu quả hơn [S3] [S4]"
+    },
+    {
+     "label": "Bằng chứng (người/động vật; loại)",
+     "text": "Người: tương quan tuổi học ngôn ngữ [S13], ca Genie [S3]; động vật: bịt một mắt [S3]"
+    },
+    {
+     "label": "Điều chưa rõ",
+     "text": "Ranh giới nhạy cảm/tới hạn; mở lại cửa sổ ở người lớn còn sớm [S4]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Không có câu \"sau 7 tuổi không thể học\"; ngôn ngữ thứ hai học được suốt đời [S3]"
+    }
+   ],
+   "notes": "Thẻ này gom lại điều đã nói. Hai ô cần đọc kỹ là \"Bằng chứng\" và \"Điều chưa rõ\". Bằng chứng ở người là nghiên cứu tương quan về tuổi học ngôn ngữ thứ hai và ca đơn lẻ Genie; thí nghiệm bịt một mắt là từ động vật. Việc mở lại cửa sổ ở người lớn còn rất sớm. Ví dụ của người viết: tìm lại giờ vàng của một việc đã qua, ta không thể quay lại, nhưng có thể làm chậm hơn bằng con đường khác. Chỗ dễ nhầm: ô \"Đừng hiểu nhầm\" nhắc rằng không có câu \"sau 7 tuổi không thể học\"."
+  },
+  {
+   "title": "Tuổi vị thành niên là bao nhiêu tuổi",
+   "section": "Tuổi vị thành niên: não đang tái cấu trúc",
+   "sources": [
+    "S3",
+    "S6"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Giáo trình: thường coi là 10–24 tuổi",
+    "Sawyer 2018: nên mở rộng từ 10–19 lên 10–24",
+    "Đừng hiểu nhầm: 24 không phải ranh giới sinh học"
+   ],
+   "body": "Giáo trình viết **tuổi vị thành niên** (adolescence) là giai đoạn giữa thơ ấu và trưởng thành, thường coi là 10–24 tuổi [S3]. Sawyer và cộng sự 2018 lập luận định nghĩa gồm cả tăng trưởng sinh học lẫn chuyển đổi vai trò xã hội, và cả hai đã đổi: dậy thì sớm hơn, tăng trưởng kéo dài vào tuổi 20, học xong, kết hôn, làm cha mẹ muộn hơn; họ đề nghị mở rộng từ 10–19 lên 10–24 [S6].",
+   "notes": "Hai nguồn cùng nêu 10–24, nhưng Sawyer và cộng sự bàn lý do. Dậy thì sớm hơn đẩy điểm bắt đầu lên. Hiểu biết về tăng trưởng kéo dài đẩy điểm kết thúc vào tuổi 20. Học xong, kết hôn và làm cha mẹ đều muộn hơn. Họ cho rằng khung 10–24 khớp hơn với tăng trưởng và cách hiểu phổ biến. Chỗ dễ nhầm: bài tóm tắt này chỉ đọc phần tóm tắt của bài Lancet, không đọc toàn văn. Ví dụ của người viết: hai bạn cùng 22 tuổi, một người đã đi làm và có con, một người còn học; định nghĩa chỉ tuổi không bắt được khác biệt này."
+  },
+  {
+   "title": "Tuổi đỉnh theo từng chỉ số",
+   "section": "Tuổi vị thành niên: não đang tái cấu trúc",
+   "sources": [
+    "S7"
+   ],
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Độ dày vỏ não trung bình: khoảng 1,7 tuổi",
+    "Thể tích chất xám toàn vỏ: khoảng 5,9 tuổi",
+    "Diện tích bề mặt vỏ: khoảng 11 tuổi; thể tích đại não: khoảng 12,5 tuổi",
+    "Thể tích chất xám dưới vỏ: khoảng 14,4 tuổi",
+    "Thể tích chất trắng: khoảng 28,7 tuổi"
+   ],
+   "notes": "Đây là số liệu của Bethlehem và cộng sự 2022, dựng từ 123.984 ảnh cộng hưởng từ của 101.457 người, từ 115 ngày sau thụ thai đến 100 tuổi. Mỗi chỉ số có đỉnh riêng, từ khoảng 1,7 đến khoảng 28,7 tuổi. Ở mức vùng, 34 vùng vỏ có đỉnh chất xám từ khoảng 2 đến 10 tuổi, và vùng liên hợp trán–thái dương đỉnh muộn hơn. Chỗ dễ nhầm: đây là đường cong chuẩn của nhóm và là kích thước trên ảnh, không phải độ chín chức năng và không cho biết một người cụ thể ở đâu. Các con số đã làm tròn từ bài gốc."
+  },
+  {
+   "title": "Hình 1 của biểu đồ não toàn đời",
+   "section": "Tuổi vị thành niên: não đang tái cấu trúc",
+   "sources": [
+    "S7"
+   ],
+   "layout": "figure",
+   "tone": "dark",
+   "bullets": [
+    "Grey matter volume: thể tích chất xám",
+    "White matter volume: thể tích chất trắng",
+    "Subcortical grey matter: chất xám dưới vỏ",
+    "Ventricular volume: thể tích não thất"
+   ],
+   "images": [
+    {
+     "file": "images/bieu-do-nao-ca-doi.png",
+     "alt": "Hình 1 của Bethlehem và cộng sự 2022: đường cong chuẩn thể tích chất xám, chất trắng, chất xám dưới vỏ và não thất theo tuổi",
+     "credit": "Bethlehem và cộng sự, Nature 2022, CC BY 4.0",
+     "url": "https://doi.org/10.1038/s41586-022-04554-y"
+    }
+   ],
+   "notes": "Hình 1 của bài Nature gồm nhiều bảng. Hàng trên là các bộ dữ liệu cộng gộp theo tuổi. Hàng b là từng điểm quét, c là đường cong chuẩn, d là phương sai, e là tốc độ tăng; đỏ là nữ, xanh là nam. Hướng dẫn người nghe nhìn hàng c: chất xám lên sớm và xuống từ từ, chất trắng lên chậm và đỉnh muộn, não thất phẳng rồi tăng mạnh khi rất cao tuổi. Hình thuộc bài báo truy cập mở, CC BY 4.0 theo bản ghi Crossref; chú thích riêng của hình chưa đối chiếu. Chỗ dễ nhầm: đường đậm là trung vị, phần quanh đó là khoảng tin cậy; còn nhiều biến thiên giữa người với người."
+  },
+  {
+   "title": "Không nguồn nào nêu số 25",
+   "section": "Tuổi vị thành niên: não đang tái cấu trúc",
+   "sources": [
+    "S7",
+    "S18"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Mỗi chỉ số có đỉnh riêng, từ khoảng 1,7 đến 28,7 tuổi [S7]; NIMH nói \"giữa đến cuối tuổi 20\" [S18]."
+   ],
+   "notes": "Đây là câu trả lời cho nửa sau của câu hỏi mở bài. Trang NIMH viết rằng não ngừng lớn về kích thước ở đầu tuổi vị thành niên và hoàn thành phát triển vào giữa đến cuối tuổi 20, với vỏ trước trán là một trong những phần chín muộn nhất. Bethlehem cho từng chỉ số một đỉnh riêng. Hai điều này không mâu thuẫn: một là câu tóm tắt cho công chúng, một là số liệu từng chỉ số. Suy luận của người viết: 25 là số tròn dễ nhớ của câu tóm tắt, không phải một phát hiện riêng. Chỗ dễ nhầm: đỉnh thể tích không đồng nghĩa với độ chín chức năng."
+  },
+  {
+   "title": "Tuổi vị thành niên có phải giai đoạn nhạy cảm",
+   "section": "Tuổi vị thành niên: não đang tái cấu trúc",
+   "sources": [
+    "S3",
+    "S12"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Giáo trình: hiện được coi rộng rãi là giai đoạn nhạy cảm",
+    "Fuhrmann 2015: bằng chứng cụ thể phần lớn còn thiếu",
+    "Nhãn: giả thuyết đang được kiểm chứng"
+   ],
+   "body": "Giáo trình viết tuổi vị thành niên \"hiện được coi rộng rãi\" là **giai đoạn nhạy cảm** vì những thay đổi xã hội, nhận thức và cảm xúc [S3]. Fuhrmann, Knoll và Blakemore 2015 xét trí nhớ, căng thẳng xã hội và dùng chất; dữ liệu từ chuột và người phù hợp với tính dẻo tăng, nhưng **bằng chứng cụ thể** cho giai đoạn nhạy cảm ở tuổi này phần lớn còn thiếu [S12].",
+   "notes": "Hai nguồn nói với mức chắc chắn khác nhau. Giáo trình viết tuổi này hiện được coi rộng rãi là giai đoạn nhạy cảm. Fuhrmann, Knoll và Blakemore xét ba ứng viên là trí nhớ, căng thẳng xã hội và dùng chất, thấy dữ liệu từ chuột, hình ảnh học và hành vi ở người phù hợp với tính dẻo tăng, nhưng kết luận bằng chứng cụ thể phần lớn còn thiếu. Họ đề nghị thí nghiệm thao tác trực tiếp môi trường và so sánh trẻ em, thiếu niên, người lớn. Chỗ dễ nhầm: \"được coi là\" không bằng \"đã chứng minh\". Bài giữ nhãn giả thuyết."
+  },
+  {
+   "title": "Thẻ hồ sơ: tuổi vị thành niên như giai đoạn nhạy cảm",
+   "section": "Tuổi vị thành niên: não đang tái cấu trúc",
+   "sources": [
+    "S3",
+    "S4",
+    "S6",
+    "S7",
+    "S11",
+    "S12"
+   ],
+   "layout": "profile-card",
+   "tone": "light",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Là gì",
+     "text": "Giai đoạn giữa thơ ấu và trưởng thành, thường coi là 10–24 tuổi [S3] [S6]"
+    },
+    {
+     "label": "Khi nào",
+     "text": "Đầu gắn với dậy thì, cuối gắn với cả sinh học lẫn vai trò xã hội [S6]"
+    },
+    {
+     "label": "Cơ chế được đề xuất",
+     "text": "Thùy trán chín muộn, myelin hóa, đổi xử lý xã hội–cảm xúc từ dậy thì [S3] [S4] [S11]"
+    },
+    {
+     "label": "Bằng chứng (người/động vật; loại)",
+     "text": "Hình ảnh ở người, tổng quan, dữ liệu từ chuột; chưa có thí nghiệm so sánh nhóm tuổi [S12]"
+    },
+    {
+     "label": "Điều chưa rõ",
+     "text": "Bằng chứng cụ thể cho giai đoạn nhạy cảm ở tuổi này phần lớn còn thiếu [S12]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "10–24 không phải ranh giới sinh học [S6]; không nguồn nêu \"chín ở 25\" [S7]"
+    }
+   ],
+   "notes": "Thẻ này gom bốn ý. Định nghĩa 10–24 là rộng và có lý do. Cơ chế được đề xuất gồm thùy trán trưởng thành muộn, myelin hóa và tinh chỉnh synapse tiếp diễn, và xử lý xã hội–cảm xúc đổi từ dậy thì. Bằng chứng gồm hình ảnh ở người, tổng quan và dữ liệu từ chuột, nhưng chưa có thí nghiệm thao tác môi trường so sánh các nhóm tuổi. Ví dụ của người viết: một chiếc xe đang được sửa khi chạy, nhưng chưa ai chứng minh đây có phải đoạn đường nên cấm đi vội. Chỗ dễ nhầm: ô \"Đừng hiểu nhầm\" nhắc hai điều, 10–24 không phải ranh giới sinh học, và \"chín ở 25\" không có trong nguồn đã đọc."
+  },
+  {
+   "title": "Mô hình hệ kép trong một hình",
+   "section": "Hệ thưởng và kiểm soát ở tuổi vị thành niên: bức tranh còn tranh luận",
+   "sources": [
+    "S8",
+    "S9"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Dậy thì: hệ xã hội–cảm xúc đổi, đáp ứng thưởng tăng [S9]",
+    "Hệ kiểm soát trước trán còn chín muộn hơn [S8]",
+    "Lệch nhịp: giữa tuổi vị thành niên dễ liều hơn [S9]",
+    "Sau đó: kiểm soát tốt dần, mạo hiểm giảm [S9]"
+   ],
+   "notes": "Đây là cách nhìn của Casey, Jones và Hare 2008 và Steinberg 2008. Hệ viền từ dưới lên phát triển khác nhịp với hệ kiểm soát từ trên xuống. Steinberg thêm rằng mạo hiểm tăng sau dậy thì nhờ tăng tìm thưởng, nhất là khi có bạn bè, do hệ dopamine tái cấu trúc mạnh, và giảm sau đó khi hệ kiểm soát nhận thức cải thiện. Hệ thưởng xem L05, hạnh nhân xem L07. Chỗ dễ nhầm: đây là mô hình về nhóm tuổi và là một phía của tranh luận; slide kế tiếp là phía kia. Giáo trình dẫn cách nhìn này ở mục tuổi vị thành niên."
+  },
+  {
+   "title": "Phía kia: bằng chứng không ủng hộ mô hình đơn giản",
+   "section": "Hệ thưởng và kiểm soát ở tuổi vị thành niên: bức tranh còn tranh luận",
+   "sources": [
+    "S10",
+    "S11"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Pfeifer & Allen 2012: bằng chứng gần đây không khớp hệ kép",
+    "Crone & Dahl 2012: không phải \"vỏ trán chưa chín\" đơn giản",
+    "Cả hai: nhìn mạng lưới và thay đổi xã hội–cảm xúc"
+   ],
+   "body": "**Pfeifer và Allen** 2012 gọi hệ kép là cách giải thích trực quan, lan rộng, nhưng bằng chứng gần đây không phù hợp với nó; họ kêu gọi mô hình dựa trên **mạng lưới** [S10]. **Crone và Dahl** 2012 nhận xét các nghiên cứu hình ảnh phát triển không ủng hộ mô hình đơn giản \"vỏ trán chưa chín\"; họ nhấn mạnh thay đổi xã hội–cảm xúc từ dậy thì, có thể mang lợi thế thích nghi như linh hoạt hơn về mục tiêu [S11].",
+   "notes": "Pfeifer và Allen gọi mô hình hệ kép là cách giải thích trực quan, lan rộng ở nhiều lĩnh vực, nhưng bằng chứng gần đây không phù hợp và cho thấy sự phức tạp; họ kêu gọi mô hình dựa trên mạng lưới. Crone và Dahl thì nói các nghiên cứu hình ảnh phát triển không ủng hộ mô hình \"vỏ trán chưa chín\" đơn giản, và nhấn mạnh thay đổi xử lý xã hội–cảm xúc từ dậy thì, có thể có lợi thế thích nghi như linh hoạt hơn về mục tiêu. Chỗ dễ nhầm: bài đọc tóm tắt của các bài này, chưa đọc phần chứng cứ chi tiết, nên không đánh giá phía nào đúng."
+  },
+  {
+   "title": "Hệ kép và cách nhìn khác",
+   "section": "Hệ thưởng và kiểm soát ở tuổi vị thành niên: bức tranh còn tranh luận",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Hệ kép (Casey, Steinberg): hệ xã hội–cảm xúc đổi sớm, hệ kiểm soát chín muộn hơn [S8] [S9]",
+    "Cách nhìn khác (Pfeifer, Crone): mô hình quá đơn giản; cần mạng lưới và mặt thích nghi [S10] [S11]"
+   ],
+   "notes": "Đặt hai phía cạnh nhau, không phân xử. Hai phía cùng thấy não đổi nhiều trong tuổi này; họ khác nhau ở chỗ cách giải thích đó có đủ để nói về hành vi hay không. Nhắc người nghe đây là tranh luận đang mở, nên một người đọc báo chỉ thấy một phía là chưa đủ. Chỗ dễ nhầm: cả hai phía nói về xu hướng của nhóm tuổi, không cho phép đoán một thiếu niên cụ thể sẽ làm gì. Ví dụ của người viết: biết trung bình chiều cao của lớp không cho biết em A cao bao nhiêu. Về mạng xã hội: đặc điểm hệ thưởng ở tuổi dậy thì là một lý do người ta lo, xem L06."
+  },
+  {
+   "title": "Rủi ro cũng có phần tích cực",
+   "section": "Hệ thưởng và kiểm soát ở tuổi vị thành niên: bức tranh còn tranh luận",
+   "sources": [
+    "S3"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Khám phá và thử nghiệm giúp hình thành bản sắc, kỹ năng ra quyết định và tự chủ [S3]."
+   ],
+   "notes": "Đây là quan điểm của giáo trình, nhãn giáo khoa hoặc quan điểm giáo trình. Giáo trình viết rằng khuynh hướng mạo hiểm của thiếu niên thường bị nhìn tiêu cực nhưng có vai trò trong phát triển: qua thử thách, thiếu niên học đánh giá rủi ro và hiểu hậu quả. NIMH cũng nói rủi ro có thể tích cực, như làm quen bạn học mới. Ví dụ của người viết: xin vào một câu lạc bộ lạ cũng là một rủi ro nhỏ, và có khi đáng. Chỗ dễ nhầm: điều này không có nghĩa mọi hành vi nguy hiểm đều vô hại; nó nói rằng không nên chỉ nhìn rủi ro như một khiếm khuyết của não."
+  },
+  {
+   "title": "Tương quan thu nhập và cấu trúc não",
+   "section": "Môi trường và nghịch cảnh sớm",
+   "sources": [
+    "S5"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Cắt ngang: hai thứ đi cùng nhau",
+    "Thu nhập đại diện cho nhiều điều khác",
+    "Không đổ lỗi cho cha mẹ"
+   ],
+   "body": "Giáo trình viết nghèo thuở nhỏ gắn với kết quả học tập, học vấn và thu nhập người lớn thấp hơn; thu nhập gia đình cao hơn **tương quan** với diện tích bề mặt vỏ lớn hơn ở vùng liên quan ngôn ngữ và chức năng điều hành [S5]. Giáo trình nói rõ còn nhiều điều chưa biết về việc những tác động đó hình thành ra sao [S5]. Đây là quan hệ đi cùng nhau, chưa phải **nhân quả**.",
+   "notes": "Giáo trình nêu nhiều tương quan: thu nhập gia đình cao hơn gắn với ngôn ngữ, trí nhớ và tự điều chỉnh tốt hơn, và với diện tích bề mặt vỏ lớn hơn ở vùng liên quan ngôn ngữ và chức năng điều hành. Suy luận của người viết: thu nhập đại diện cho nhà ở, dinh dưỡng, thời gian của cha mẹ, căng thẳng, di truyền, nên không kết luận \"tiền làm lớn vỏ não\". Không đổ lỗi: hoàn cảnh kinh tế là điều nhiều gia đình khó tự quyết. Chỗ dễ nhầm: tương quan nhóm không áp lên một đứa trẻ cụ thể; rất nhiều trẻ trong hoàn cảnh khó khăn phát triển tốt."
+  },
+  {
+   "title": "Baby's First Years: thiết kế và kết quả đầu",
+   "section": "Môi trường và nghịch cảnh sớm",
+   "sources": [
+    "S5",
+    "S16"
+   ],
+   "layout": "sequence-diagram",
+   "tone": "light",
+   "bullets": [
+    "1.000 bà mẹ thu nhập thấp ở bốn vùng đô thị Mỹ [S5]",
+    "Chia ngẫu nhiên: 333 đô la hoặc 20 đô la mỗi tháng [S5]",
+    "Khoảng 1 tuổi: đo điện não lúc nghỉ ở nhà, n = 435 [S16]",
+    "Kết quả đầu: nhóm nhiều tiền có công suất cao hơn ở dải tần cao [S16]",
+    "Mức ý nghĩa thay đổi theo cách phân tích [S16]"
+   ],
+   "notes": "Baby's First Years là thử nghiệm ngẫu nhiên đầu tiên về giảm nghèo thuở đầu đời xem tác động lên phát triển não. Thiết kế ngẫu nhiên cho bằng chứng nhân quả mạnh hơn tương quan. Nhưng chỉ số ở đây là điện não lúc nghỉ ở một mốc, một mẫu ở Mỹ. Các tác giả viết khoản chuyển tiền có thể làm thay đổi hoạt động não theo kiểu từng gắn với kỹ năng nhận thức về sau; họ cũng nêu mức ý nghĩa thay đổi theo cách phân tích. Chỗ dễ nhầm: kết quả này không nói gì về tương lai của một đứa trẻ. Ví dụ của người viết: biết trung bình của nhóm không cho biết một người."
+  },
+  {
+   "title": "Một tuổi và bốn tuổi",
+   "section": "Môi trường và nghịch cảnh sớm",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Khoảng 1 tuổi: nhóm nhiều tiền có điện não tần số cao hơn [S16]",
+    "Sau bốn năm: không có tác động có ý nghĩa thống kê lên bốn kết quả chính [S17]"
+   ],
+   "notes": "Đây là chỗ cần trung thực nhất của mục. Bài đầu năm 2022 báo cáo tín hiệu ở khoảng 1 tuổi. Bản thảo NBER 2025, chưa qua phản biện, báo cáo sau bốn năm đầu (n = 891) không có tác động có ý nghĩa thống kê lên bốn kết quả chính đã đăng ký trước: ngôn ngữ, chức năng điều hành, vấn đề xã hội–cảm xúc, và hoạt động não tần số cao, cũng như ba kết quả phụ. Bản thảo có thảo luận các cách giải thích khả dĩ, phần này bài chưa đọc. Kết quả ở các tuổi lớn hơn: chưa kiểm. Chỗ dễ nhầm: một khác biệt ở 1 tuổi không bảo đảm còn thấy ở 4 tuổi."
+  },
+  {
+   "title": "Dữ liệu nhóm, không phải tiên đoán",
+   "section": "Môi trường và nghịch cảnh sớm",
+   "sources": [
+    "S5",
+    "S17"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Không nên nói một đứa trẻ lớn lên trong nghèo khó \"chắc chắn\" có não khác, hay cha mẹ \"gây ra\" điều đó [S5] [S17]."
+   ],
+   "notes": "Đây là câu kết của mục. Từ bằng chứng hiện có chỉ nên nói: môi trường liên quan đến phát triển não ở mức nhóm; một thử nghiệm ngẫu nhiên gợi ý khoản chuyển tiền có thể đổi hoạt động não ở 1 tuổi; ở 4 tuổi không còn thấy khác biệt rõ. Giáo trình cũng giới thiệu nghiên cứu ABCD, theo dõi hơn 11.000 trẻ từ 9 tuổi; bài chưa đọc kết quả nào của ABCD. Giọng của bài là trung tính: không đổ lỗi cho cha mẹ hay một nhóm người, và không biến số trung bình thành số phận. Chỗ dễ nhầm: nhiều trẻ trong hoàn cảnh khó khăn vẫn phát triển tốt; số trung bình không phủ nhận điều đó."
+  },
+  {
+   "title": "Sinh nơron ở người lớn: tranh luận mở",
+   "section": "Não sau tuổi trưởng thành: tế bào mới và sự lão hóa",
+   "sources": [
+    "S1"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Giáo trình: khá gây tranh cãi",
+    "Nơi nhất quán nhất: vùng dưới hạt hồi răng cưa và vùng dưới thất",
+    "Năm: Eriksson 1998 (giáo trình ghi 1997)"
+   ],
+   "body": "Giáo trình viết đến khoảng 25 năm trước người ta cho rằng não người không sinh nơron mới sau khi chào đời; một nghiên cứu mốc cho thấy hải mã có thể sinh nơron suốt tuổi trưởng thành, gọi là **sinh nơron ở người lớn** [S1]. Theo giáo trình, hiện tượng này nhất quán nhất ở vùng dưới thất và vùng dưới hạt của hồi răng cưa; nhiều nơron mới không sống sót; chủ đề **khá gây tranh cãi** [S1].",
+   "notes": "Giáo trình nói đến khoảng 25 năm trước người ta tin não người không sinh nơron mới sau khi chào đời, rồi một nghiên cứu mốc cho thấy hải mã có thể sinh nơron suốt tuổi trưởng thành. Giáo trình ghi nghiên cứu đó là Eriksson và cộng sự 1997; bản ghi Crossref của bài Neurogenesis in the adult human hippocampus là 1998, nên bài dùng 1998. Giáo trình đặt hai đầu cạnh nhau: có nghiên cứu gợi ý khoảng 700 nơron mới mỗi ngày, nghiên cứu khác cho rằng không phát hiện được hoặc có thể không tồn tại. Chỗ dễ nhầm: nhiều nơron mới sinh còn không sống sót hay không hòa vào mạch. Hải mã xem L07."
+  },
+  {
+   "title": "Sorrells và Boldrini: hai kết luận ngược nhau",
+   "section": "Não sau tuổi trưởng thành: tế bào mới và sự lão hóa",
+   "sources": [
+    "S14",
+    "S15"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Sorrells 2018: nơron non giảm mạnh ở trẻ; không phát hiện ở người lớn 18–77 tuổi [S14]",
+    "Boldrini 2018: nơron non vẫn có ở người 14–79 tuổi; sinh nơron vẫn tiếp diễn [S15]"
+   ],
+   "notes": "Đặt hai bài cạnh nhau và không phân xử. Sorrells và cộng sự báo cáo số tế bào đang phân chia và nơron non ở hồi răng cưa giảm mạnh trong năm đầu đời, chỉ còn vài nơron non lẻ tẻ ở 7 và 13 tuổi, và không phát hiện nơron non ở người lớn từ 18 đến 77 tuổi. Boldrini và cộng sự phân tích toàn bộ hải mã tử thiết của người khỏe mạnh 14 đến 79 tuổi và thấy hàng nghìn nơron non, số tế bào tiền thân tương tự giữa các độ tuổi. Cả hai đều từ mô người sau khi chết. Chỗ dễ nhầm: bài chỉ đọc phần tóm tắt, chưa đọc phương pháp, nên không nêu vì sao hai kết quả khác nhau."
+  },
+  {
+   "title": "Thẻ hồ sơ: sinh nơron ở người lớn",
+   "section": "Não sau tuổi trưởng thành: tế bào mới và sự lão hóa",
+   "sources": [
+    "S1",
+    "S14",
+    "S15"
+   ],
+   "layout": "profile-card",
+   "tone": "dark",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Là gì",
+     "text": "Việc tạo nơron mới trong não trưởng thành [S1]"
+    },
+    {
+     "label": "Khi nào",
+     "text": "Chủ yếu từ trước sinh đến 18 tháng sau sinh; ở người lớn đang tranh luận [S1] [S14] [S15]"
+    },
+    {
+     "label": "Cơ chế được đề xuất",
+     "text": "Tế bào tiền thân ở vùng dưới hạt và vùng dưới thất sinh nơron non; nhiều nơron không sống sót [S1]"
+    },
+    {
+     "label": "Bằng chứng (người/động vật; loại)",
+     "text": "Mô người sau khi chết và mô phẫu thuật, hai bài 2018 ngược nhau; khỉ [S14] [S15]"
+    },
+    {
+     "label": "Điều chưa rõ",
+     "text": "Có hay không, bao nhiêu và vai trò chức năng ở người lớn [S1] [S14] [S15]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Chưa có câu trả lời đã chốt ở cả hai chiều [S14] [S15]"
+    }
+   ],
+   "notes": "Thẻ này giữ cả hai phía. Ô \"Khi nào\": sinh nơron chủ yếu từ trước sinh đến khoảng 18 tháng sau sinh; ở người lớn là điều đang tranh luận. Ô \"Bằng chứng\" ghi hai bài 2018 kết luận ngược nhau và dữ liệu khỉ của Sorrells, nơi tăng sinh có lúc sơ sinh rồi giảm. Ô \"Điều chưa rõ\" nói thẳng: có hay không, bao nhiêu và vai trò chức năng nếu có. Ví dụ của người viết: hai nhóm khảo sát cùng một khu phố và đếm ra hai con số khác nhau; trước khi biết vì sao, chưa nên chọn con số nào. Chỗ dễ nhầm: ô cuối nhắc chưa có câu trả lời đã chốt ở cả hai chiều."
+  },
+  {
+   "title": "Lão hóa: chỉ ở mức đường cong nhóm",
+   "section": "Não sau tuổi trưởng thành: tế bào mới và sự lão hóa",
+   "sources": [
+    "S7"
+   ],
+   "layout": "timeline",
+   "tone": "light",
+   "bullets": [
+    "Sau khoảng 5,9 tuổi: chất xám giảm gần như tuyến tính",
+    "Sau 50 tuổi: thể tích chất trắng giảm nhanh hơn",
+    "Đến khoảng 30 tuổi: dịch não thất đi ngang",
+    "Thập niên thứ sáu: dịch não thất tăng theo cấp số nhân"
+   ],
+   "notes": "Giáo trình Chương 7 không có mục lão hóa, nên mục này chỉ dùng Bethlehem và cộng sự. Hãy đọc như hình dạng trung bình của nhóm: chất xám giảm gần như tuyến tính sau đỉnh, chất trắng giảm nhanh hơn sau 50 tuổi, thể tích dịch não thất tăng đến 2 tuổi, đi ngang đến khoảng 30 tuổi rồi tăng chậm, và đến thập niên thứ sáu tăng theo cấp số nhân. Bài cố ý không đưa lời khuyên giữ não khỏe, vì các nguồn đã đọc không đưa ra. Chỗ dễ nhầm: đường cong nhóm không dự đoán một người cụ thể, và thể tích không đồng nghĩa với chức năng."
+  },
+  {
+   "title": "\"Não chín ở 25 tuổi\"",
+   "section": "Những hiểu lầm thường gặp",
+   "sources": [
+    "S6",
+    "S7",
+    "S18"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Mỗi chỉ số có đỉnh riêng, từ khoảng 1,7 đến 28,7 tuổi",
+    "NIMH: câu tóm tắt \"giữa đến cuối tuổi 20\"",
+    "Đỉnh thể tích không đồng nghĩa độ chín chức năng"
+   ],
+   "body": "Không nguồn nào đã đọc nêu số 25 cho \"độ chín\" của não. Bethlehem và cộng sự cho **từng chỉ số** một đỉnh riêng, từ khoảng 1,7 đến khoảng 28,7 tuổi [S7]; NIMH viết \"giữa đến cuối tuổi 20\" ở mức tóm tắt cho công chúng [S18]; Sawyer đề nghị tuổi vị thành niên kéo đến 24 [S6]. Đỉnh **thể tích** trên ảnh cộng hưởng từ, ở mức nhóm, không đồng nghĩa với độ chín về chức năng [S7].",
+   "notes": "Hiểu lầm quen thuộc nhất của bài, cách chữa là hỏi con số đó đo cái gì. Không nguồn nào đã đọc nêu số 25 cho độ chín. Bethlehem cho từng chỉ số một đỉnh, từ độ dày vỏ não khoảng 1,7 tuổi đến thể tích chất trắng khoảng 28,7 tuổi. NIMH viết giữa đến cuối tuổi 20 ở mức tóm tắt cho công chúng. Sawyer đề nghị coi tuổi vị thành niên kéo đến 24. Suy luận của người viết: 25 là số tròn dễ nhớ của câu tóm tắt. Chỗ dễ nhầm: đỉnh thể tích là kích thước ở mức nhóm trên ảnh, không cho biết một người cụ thể ở đâu và không đo chức năng. Gặp một con số về não, hãy hỏi đó là thể tích, chức năng hay tuổi nào."
+  },
+  {
+   "title": "Bốn hiểu lầm khác",
+   "section": "Những hiểu lầm thường gặp",
+   "sources": [
+    "S3",
+    "S4",
+    "S10",
+    "S14",
+    "S15"
+   ],
+   "layout": "card-grid",
+   "tone": "light",
+   "bullets": [
+    "Sau 7 tuổi không học được ngôn ngữ [S3]",
+    "Thiếu niên liều vì não chưa phát triển: một phía của tranh luận [S10]",
+    "Người lớn không sinh nơron mới, hoặc chắc chắn có [S14] [S15]",
+    "Tính dẻo càng nhiều càng tốt: có đánh đổi với hiệu quả [S4]"
+   ],
+   "notes": "Bốn hiểu lầm còn lại. Sau 7 tuổi không học được ngôn ngữ: điều đo được là điểm ngữ pháp liên quan với tuổi bắt đầu học, và ngôn ngữ thứ hai học được suốt đời, chậm hơn. Thiếu niên liều vì não chưa phát triển chỉ là một phía của tranh luận hệ kép, và giáo trình lưu ý rủi ro có phần tích cực. Về sinh nơron ở người lớn, cả hai câu khẳng định đều chưa đúng với tình trạng hiện nay vì hai bài 2018 kết luận ngược nhau. Còn tính dẻo càng nhiều càng tốt thì không đúng vì có phép đánh đổi với hiệu quả. Chỗ dễ nhầm: gom hiểu lầm vào một dòng dễ nhớ, nhưng nhớ cả lý do mới tránh được."
+  },
+  {
+   "title": "Tương quan không phải số phận",
+   "section": "Những hiểu lầm thường gặp",
+   "sources": [
+    "S5",
+    "S16",
+    "S17"
+   ],
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Thu nhập và cấu trúc não: tương quan cắt ngang [S5]",
+    "Thử nghiệm ngẫu nhiên: tín hiệu điện não ở 1 tuổi [S16]",
+    "Theo dõi 4 tuổi: không có tác động có ý nghĩa thống kê [S17]",
+    "Kết luận cho một đứa trẻ: không rút ra được"
+   ],
+   "notes": "Bảng cuối của phần hiểu lầm phân loại bằng chứng về nghịch cảnh sớm. Dòng một là tương quan cắt ngang, nên không nói nhân quả. Dòng hai là thử nghiệm ngẫu nhiên, mạnh hơn, nhưng chỉ một chỉ số điện não ở một mốc. Dòng ba là bản thảo theo dõi bốn tuổi, chưa qua phản biện, không thấy tác động có ý nghĩa. Dòng cuối nhắc dữ liệu nhóm không tiên đoán một đứa trẻ. Ví dụ của người viết: biết tỷ lệ mưa của tháng không cho biết hôm nay có mưa không. Chỗ dễ nhầm: \"không có ý nghĩa thống kê\" không có nghĩa chắc chắn không có tác động; nó nói rằng nghiên cứu này không phát hiện."
+  },
+  {
+   "title": "Năm điều cần nhớ",
+   "section": "Điều cần nhớ",
+   "sources": [
+    "S1",
+    "S3",
+    "S4",
+    "S6",
+    "S7",
+    "S12",
+    "S13"
+   ],
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Dựng não theo trình tự; synapse tạo thừa rồi tỉa [S1] [S4]",
+    "Nhạy cảm là cửa sổ rộng, tới hạn là tập con [S3]; không có ngưỡng 7 tuổi cứng [S13]",
+    "Tuổi vị thành niên thường coi là 10–24 [S6]; bằng chứng giai đoạn nhạy cảm còn thiếu [S12]",
+    "Không nguồn nào nêu \"não chín ở 25\"; mỗi chỉ số có đỉnh riêng [S7]",
+    "Hai tranh luận mở; dữ liệu nhóm không tiên đoán một đứa trẻ"
+   ],
+   "notes": "Tóm lại năm điều. Một, não dựng theo trình tự và synapse tạo thừa rồi tỉa, đỉnh khác nhau theo mạng. Hai, giai đoạn nhạy cảm là cửa sổ rộng còn giai đoạn tới hạn là tập con có thể không đảo ngược, và ví dụ ngôn ngữ thứ hai là tương quan chứ không có ngưỡng 7 tuổi. Ba, tuổi vị thành niên thường coi là 10–24, nhưng bằng chứng cụ thể cho giai đoạn nhạy cảm ở tuổi này còn thiếu. Bốn, không nguồn nào đã đọc nêu số 25; mỗi chỉ số một đỉnh. Năm, hệ kép và sinh nơron ở người lớn là hai tranh luận mở, và dữ liệu nhóm không tiên đoán một đứa trẻ. Nối bài: L01, L02, L04, L06, L07, L12."
+  },
+  {
+   "title": "Nguồn tham khảo",
+   "section": "Nguồn tham khảo",
+   "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "layout": "references",
+   "tone": "dark",
+   "bullets": [
+    "S1: Hove & Martinez, mục 7.3 Stages of Neuronal Development",
+    "S2: Hove & Martinez, mục 7.4 Neuroplasticity",
+    "S3: Hove & Martinez, mục 7.5 Sensitive and Critical Periods",
+    "S4: Hove & Martinez, mục 7.6 Plasticity and Efficiency",
+    "S5: Hove & Martinez, mục 7.7 Brain Development, Infancy to Adulthood",
+    "S6: Sawyer và cộng sự, The age of adolescence, Lancet Child Adolesc Health, 2018",
+    "S7: Bethlehem và cộng sự, Brain charts for the human lifespan, Nature, 2022",
+    "S8: Casey, Jones & Hare, The adolescent brain, Ann NY Acad Sci, 2008",
+    "S9: Steinberg, Social neuroscience of adolescent risk-taking, Dev Rev, 2008",
+    "S10: Pfeifer & Allen, Arrested development?, Trends Cogn Sci, 2012",
+    "S11: Crone & Dahl, Social–affective engagement, Nat Rev Neurosci, 2012",
+    "S12: Fuhrmann, Knoll & Blakemore, Adolescence as a sensitive period, 2015",
+    "S13: Johnson & Newport, Critical period effects in second language, 1989",
+    "S14: Sorrells và cộng sự, Hippocampal neurogenesis drops sharply, Nature, 2018",
+    "S15: Boldrini và cộng sự, Neurogenesis persists throughout aging, Cell Stem Cell, 2018",
+    "S16: Troller-Renfree và cộng sự, Poverty reduction and infant brain, PNAS, 2022",
+    "S17: Noble và cộng sự, Cash transfer at four years, NBER w33844, 2025",
+    "S18: NIMH, The Teen Brain: 7 Things to Know"
+   ],
+   "notes": ""
+  }
+ ]
+}

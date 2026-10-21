@@ -20,6 +20,12 @@ OLD = {"sequence-diagram", "flow", "two-column-comparison", "2x2-matrix", "looku
        "connection-diagram", "layers", "timeline", "one-big-number", "one-highlighted-sentence", "figure"}
 BODY = {"explainer": (40, 130, 60, 110), "annotated-figure": (30, 80, 40, 70)}  # hard lo, hard hi, target lo, target hi
 LAYOUTS = OLD | set(BODY) | {"profile-card", "references"}
+# bullets each renderer in gen.py draws without crashing or dropping content: (min, max)
+BULLETS = {"card-grid": (1, 4), "flow": (1, 5), "two-column-comparison": (2, 6), "lookup-table": (1, 6),
+           "numbered-rows": (1, 6), "layers": (1, 6), "timeline": (1, 6), "connection-diagram": (1, 4),
+           "one-big-number": (1, 3), "one-highlighted-sentence": (1, 4), "sequence-diagram": (1, 6),
+           "figure": (1, 4), "explainer": (0, 3), "annotated-figure": (0, 3), "profile-card": (0, 0),
+           "references": (1, 18)}
 HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
@@ -57,7 +63,7 @@ def check(root, lid):
     if "sources" in ex:
         if set(ex["sources"]) != set(refs): errs.append("expected sources differ")
         for k, url in ex["sources"].items():
-            if url and url not in body: errs.append(f"url of {k} not in lesson")
+            if url and url not in refs.get(k, ""): errs.append(f"url of {k} is not on its own reference line")
     for url in ex.get("required_urls", []):
         if not any(url in r for r in refs.values()): errs.append(f"required source missing: {url}")
     indep = [k for k, r in refs.items() if TEXTBOOK not in r]
@@ -93,15 +99,13 @@ def check(root, lid):
         bl = s.get("bullets", [])
         if L not in LAYOUTS: errs.append(f"unknown layout {L}: {name}"); continue
         if len(name) > 90: errs.append(f"title>90: {name}")
+        lo, hi = BULLETS[L]
+        if not lo <= len(bl) <= hi: errs.append(f"{L} draws {lo}-{hi} bullets, found {len(bl)}: {name}")
         if L == "references":
-            if len(bl) > 18: errs.append(f"too many references on one slide: {name}")
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]
         else:
-            if len(bl) > 6: errs.append(f"too many bullets: {name}")
             errs += [f"bullet>160: {b}" for b in bl if len(b) > 160]
-        if L in ("explainer", "annotated-figure") and len(bl) > 3: errs.append(f"{L} draws at most 3 cards: {name}")
         if L == "annotated-figure": errs += [f"gloss>70: {b}" for b in bl if len(b) > 70]
-        if L == "profile-card" and bl: errs.append(f"profile-card draws facts, not bullets: {name}")
         if "body" in s:
             if L not in BODY: errs.append(f"body is not drawn by {L}: {name}")
             else:

@@ -98,7 +98,7 @@ class GateTests(unittest.TestCase):
         seven = [{"label": "a", "text": "b"}] * 7
         self.assertIn("profile-card needs 3-6 facts: Hồ sơ hạnh nhân", self.run_gate(self.mutated(2, facts=seven))[0])
         self.assertIn("profile-card needs facts: Hồ sơ hạnh nhân", self.run_gate(self.mutated(2, facts=None))[0])
-        self.assertIn("profile-card draws facts, not bullets: Hồ sơ hạnh nhân",
+        self.assertIn("profile-card draws 0-0 bullets, found 1: Hồ sơ hạnh nhân",
                       self.run_gate(self.mutated(2, bullets=["x"]))[0])
 
     def test_each_content_section_needs_three_slides(self):
@@ -131,6 +131,26 @@ class GateTests(unittest.TestCase):
         (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
         heavy = self.mutated(3, layout="annotated-figure", body=" ".join(["chữ"] * 50), images=img, bullets=[])
         self.assertIn("three text-heavy slides in a row from slide 2", self.run_gate(heavy)[0])
+
+    def test_a_layout_must_get_the_bullets_its_renderer_draws(self):
+        """gen.py draws at most 4 nodes of a connection-diagram and divides by the bullet count of a flow."""
+        errs, _ = self.run_gate(self.mutated(4, layout="connection-diagram", bullets=list("abcde")))
+        self.assertIn("connection-diagram draws 1-4 bullets, found 5: Ba bước", errs)
+        errs, _ = self.run_gate(self.mutated(4, bullets=[]))
+        self.assertIn("flow draws 1-5 bullets, found 0: Ba bước", errs)
+        errs, _ = self.run_gate(self.mutated(4, layout="one-highlighted-sentence", bullets=list("abcde")))
+        self.assertIn("one-highlighted-sentence draws 1-4 bullets, found 5: Ba bước", errs)
+
+    def test_an_expected_url_must_sit_on_its_own_reference_line(self):
+        (self.root / "lessons" / "L99").mkdir(exist_ok=True)
+        urls = {f"S{k}": f"https://example.org/{k}" for k in range(2, 6)}
+        expected = {k: v for k, v in EXPECTED.items() if k not in ("required_urls", "min_independent_sources")}
+        expected["sources"] = {"S1": BOOK, **urls}
+        self.assertEqual(self.run_gate(expected=expected)[0], [])
+        swapped = {**expected["sources"], "S2": urls["S3"], "S3": urls["S2"]}  # both URLs are in the lesson, on the wrong lines
+        errs, _ = self.run_gate(expected={**expected, "sources": swapped})
+        self.assertIn("url of S2 is not on its own reference line", errs)
+        self.assertIn("url of S3 is not on its own reference line", errs)
 
     def test_a_slide_title_fits_two_lines(self):
         errs, _ = self.run_gate(self.mutated(4, title="Ba " + "bước " * 25))

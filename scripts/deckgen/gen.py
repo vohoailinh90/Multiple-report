@@ -288,8 +288,12 @@ def highlight(p, n, s, o, idx):
         out.append(f'<text x="{M + 60}" y="300" width="1660" height="440" format="html" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{p["ink"]}" line-height="1.12" vertical-align="middle"><p>{html}</p></text>')
     else:
         out.append(f'<text x="{M + 60}" y="300" width="1660" height="440" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{p["ink"]}" line-height="1.12" vertical-align="middle">{x(sent)}</text>')
-    for k, b in enumerate(s["bullets"][1:3]):
-        out.append(f'<text x="{M + 60}" y="{780 + k * 70}" width="1660" height="64" font-size="{fit(b, 1660, 64, 36, 1.0, FLOOR)}" color="{p["sub"]}" max-lines="2">{x(b)}</text>')
+    subs = s["bullets"][1:4]
+    step = 70 if len(subs) <= 2 else 54  # three lines start higher and tighten so the last ends above the sources line
+    y0 = 780 if len(subs) <= 2 else 756
+    for k, b in enumerate(subs):
+        h = step - 6
+        out.append(f'<text x="{M + 60}" y="{y0 + k * step}" width="1660" height="{h}" font-size="{fit(b, 1660, h, 36, 1.0, FLOOR)}" color="{p["sub"]}" max-lines="2">{x(b)}</text>')
     return out
 
 

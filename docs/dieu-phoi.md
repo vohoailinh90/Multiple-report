@@ -18,7 +18,7 @@ Tài liệu này là luật và bảng giữ bài; công cụ là `scripts/claim
 4. **Phiên viết chỉ ghi trong `lessons/<id>/`** (và file khoá `lessons/<id>.claim.json`). Không sửa `expected.json`, `lessons/README.md`, `docs/`, `scripts/`,
    `CLAUDE.md`. Trước khi báo xong: `claims.py scope <id>` phải thoát 0.
 5. **Giữ nhịp tim.** Mỗi vài giờ và trước mỗi lần push: `claims.py touch --publish`. Khoá im quá **24 giờ** là "stale": ai cũng nhận lại được bằng
-   `claim <id> --take-stale`, và phiên cũ nếu tỉnh dậy thì thua (`verify` báo). Con số 24 giờ là đề xuất, đổi `LEASE_HOURS` trong script nếu chủ repo muốn.
+   `claim <id> --take-stale`, và phiên cũ nếu tỉnh dậy thì thua (`verify` báo). Hạn 24 giờ do chủ repo chốt (2026-10-21); đổi `LEASE_HOURS` trong script nếu cần.
 6. **Xong thì `finish`.** `claims.py finish <id> --publish` (cần `lessons/<id>/lesson.md`), commit file khoá cùng bài. PR mang khoá `doing` sẽ bị
    `claims.py check --merge-ready` chặn (CI chạy lệnh này).
 7. **Bài đã viết xong muốn viết lại hoặc sửa** cần cờ `--rewrite` (điều phối bảo thì mới dùng). Bài đang có việc dở trên nhánh khác bị từ chối trừ khi
@@ -45,7 +45,7 @@ Ghi chú về bốn dòng trên: nhánh đã đẩy một commit `lesson: <id> t
 được xác nhận, nên cột Phiên ghi "chưa rõ". Chúng viết trước khi có công cụ này nên không có file khoá; `claims.py claim` vẫn từ chối các id này vì thấy
 việc dở trên nhánh (`unmerged work`).
 
-### Nhánh tồn đọng (chờ chủ repo duyệt xoá)
+### Nhánh tồn đọng (chủ repo để xoá sau, 2026-10-21: chưa xoá nhánh nào)
 
 - 23 nhánh đã gộp vào `main` (`git branch -r --merged origin/main`): xoá được không mất việc.
 - `claude/awesome-curie-uuh5vu` (10 commit): bài Freud, Jung và Adler đánh số `L01`; trên `main` bài này là `L15`, `L01` là bản đồ não. Nhánh này không gộp được

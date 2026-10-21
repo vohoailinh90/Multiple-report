@@ -70,7 +70,7 @@ Chưa có, và bằng chứng trong git:
 **Đã làm cả hai tầng (chủ repo chọn, 2026-10-21).** Luật và bảng giữ bài: `docs/dieu-phoi.md`. Công cụ: `scripts/claims.py`, test: `tests/test_claims.py`
 (repo git thật, 37 test). Chỗ khác với đề xuất bên dưới:
 - Giới hạn đồng thời do công cụ ép, không chỉ ghi trong luật: 2 phiên (chủ repo). Phiên thứ ba bị từ chối khi `claim`; nếu đẩy lách thì `verify` báo thua theo thứ tự thời gian.
-- Hạn thuê 24 giờ như đề xuất; chưa được chủ repo xác nhận riêng.
+- Hạn thuê 24 giờ như đề xuất; chủ repo đã xác nhận (2026-10-21).
 - Kiểm phạm vi ghi là lệnh `claims.py scope`, không phải script riêng.
 - Bảng giữ bài **có** được máy đọc ở mức nhẹ (`claims.py check`: tên cột, giá trị cho phép, không quá 2 nhánh viết cùng lúc), chạy trong test và CI. Không dùng để tự động bỏ qua dải
   bài như bảng của họ; ở quy mô này `next` và `claim` đã đủ.
@@ -119,5 +119,4 @@ Việc nằm trong `scripts/`, `tests/`, `docs/` và `CLAUDE.md` đi theo quy tr
 
 Còn mở:
 1. Bốn nhánh `lesson-L11..L14` đang bay: phiên điều phối nào đang giữ chúng? Bảng giữ bài ghi "chưa rõ". Phiên này **chưa đụng** tới chúng.
-2. Xoá 23 nhánh đã gộp, và quyết định số phận `awesome-curie-uuh5vu` và `lesson-L08` (liệt kê trong `docs/dieu-phoi.md`).
-3. Hạn thuê 24 giờ có hợp không.
+2. Xoá 23 nhánh đã gộp, và quyết định số phận `awesome-curie-uuh5vu` và `lesson-L08` (liệt kê trong `docs/dieu-phoi.md`). Chủ repo bảo để sau.

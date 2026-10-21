@@ -12,7 +12,7 @@ Reads lessons/<id>/lesson.md, lessons/<id>/slides.json and lessons/<id>.expected
   min_images                warn when the slides show fewer figures
 Errors fail the gate; warnings are printed and must be explained, not ignored.
 """
-import json, re, sys
+import importlib.util, json, re, sys
 from pathlib import Path
 
 TOPICS = {"than-kinh", "nao-bo", "triet-hoc", "suc-khoe", "quan-ly-du-an", "ky-thuat", "khac"}
@@ -29,10 +29,40 @@ BULLETS = {"card-grid": (1, 4), "flow": (1, 5), "two-column-comparison": (2, 6),
 HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
+TONES = {"light", "dark"}
+_gen = None
+
+
+def gen():
+    """scripts/deckgen/gen.py, loaded once: the gate asks the renderer whether a slide's text fits its boxes."""
+    global _gen
+    if _gen is None:
+        spec = importlib.util.spec_from_file_location("deckgen_gen", Path(__file__).with_name("gen.py"))
+        _gen = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_gen)
+    return _gen
 
 
 def words(t):
     return len(t.split())
+
+
+def overflow(root, lid, S, sl_path):
+    """A slide whose text cannot fit its boxes even at the smallest font gen.py allows (the 160-character limit alone allows it)."""
+    opts_file = Path(root) / "scripts" / "deckgen" / "opts" / f"{lid}.json"
+    opts = json.loads(opts_file.read_text(encoding="utf-8")) if opts_file.is_file() else {}
+    g, errs = gen(), []
+    for i, s in enumerate(S, 1):
+        if s.get("layout") not in LAYOUTS or s.get("tone") not in TONES:
+            continue  # reported above
+        try:
+            markup = g.page(lid, i, opts, sl_path)
+        except SystemExit:
+            continue  # a figure without a Moda file id yet: scripts/deckgen/file_ids.json
+        except (KeyError, IndexError, ZeroDivisionError, TypeError, ValueError):
+            continue  # a malformed slide: the bullet and field checks name it
+        errs += [f"text does not fit its box on {s['layout']} ({s['title']}): {t[:50]}" for t in g.overflows(markup)]
+    return errs
 
 
 def check(root, lid):
@@ -40,7 +70,8 @@ def check(root, lid):
     root = Path(root)
     base = root / "lessons" / lid
     body = (base / "lesson.md").read_text(encoding="utf-8")
-    sl = json.loads((base / "slides.json").read_text(encoding="utf-8"))
+    sl_path = base / "slides.json"
+    sl = json.loads(sl_path.read_text(encoding="utf-8"))
     ex = json.loads((root / "lessons" / f"{lid}.expected.json").read_text(encoding="utf-8"))
     errs, warn = [], []
     fm = re.match(r"---\n(.*?)\n---\n# ([^\n]+)\n", body, re.S)
@@ -52,6 +83,7 @@ def check(root, lid):
         if meta.get("title") != ex["title"] or fm.group(2) != ex["title"]: errs.append("title mismatch")
         if meta.get("topic") not in TOPICS: errs.append("topic")
         if meta.get("topic") != ex["topic"]: errs.append("topic vs expected")
+    if sl.get("title") != ex["title"]: errs.append(f"deck title {sl.get('title')!r} differs from the lesson title")
     secs = re.findall(r"^## (.+)$", body, re.M)
     if secs != ex["sections"]: errs.append(f"sections differ: {secs}")
     if not secs or secs[-1] != "Nguồn tham khảo": errs.append("last section")
@@ -76,6 +108,7 @@ def check(root, lid):
     if {s["section"] for s in S} != set(secs): errs.append(f"slide sections differ: {set(secs) ^ {s['section'] for s in S}}")
     if not (ex["slides"]["min"] <= len(S) <= ex["slides"]["max"]): errs.append(f"slide count {len(S)}")
     lay = [s["layout"] for s in S]; tone = [s["tone"] for s in S]
+    errs += [f"tone {t!r} is not light or dark: {s['title']}" for s, t in zip(S, tone) if t not in TONES]
     if len(set(lay)) < ex.get("min_layouts", 5): errs.append(f"layout kinds {len(set(lay))}")
     if any(a == b for a, b in zip(lay, lay[1:])): errs.append("adjacent layout")
     heavy = [i for i in range(len(lay) - 2) if set(lay[i:i + 3]) <= HEAVY]
@@ -103,6 +136,9 @@ def check(root, lid):
         if not lo <= len(bl) <= hi: errs.append(f"{L} draws {lo}-{hi} bullets, found {len(bl)}: {name}")
         if L == "references":
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]
+            labels = [m.group(1) if (m := re.match(r"(S\d+)\b", b)) else b for b in bl]
+            if sorted(labels) != sorted(refs):
+                errs.append(f"references slide lists {sorted(labels)}, the reference list has {sorted(refs)}")
         else:
             errs += [f"bullet>160: {b}" for b in bl if len(b) > 160]
         if L == "annotated-figure": errs += [f"gloss>70: {b}" for b in bl if len(b) > 70]
@@ -139,6 +175,7 @@ def check(root, lid):
             if k not in refs: errs.append(f"slide cites {k}, not in the reference list: {name}")
         if lo_hi and s["section"] != "Nguồn tham khảo" and not lo_hi[0] <= words(s.get("notes", "")) <= lo_hi[1]:
             warn.append(f"notes {words(s.get('notes', ''))} words: {name}")
+    errs += overflow(root, lid, S, sl_path)
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")
     w = words(body); c = len(CITE.findall(text))
     if not ex["min_words"] <= w <= ex["max_words"]: errs.append(f"words {w}")

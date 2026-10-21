@@ -166,6 +166,33 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(4, title="Ba " + "bước " * 25))
         self.assertTrue(any(e.startswith("title>90: ") for e in errs))
 
+    def test_the_deck_title_must_be_the_lesson_title(self):
+        slides = {"title": "Tiêu đề cũ", "subtitle": "s", "slides": SLIDES}
+        (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+        (self.root / "lessons" / "L99" / "slides.json").write_text(json.dumps(slides, ensure_ascii=False), encoding="utf-8")
+        (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+        errs, _, _ = gate.check(self.root, "L99")
+        self.assertIn("deck title 'Tiêu đề cũ' differs from the lesson title", errs)
+
+    def test_a_tone_must_be_light_or_dark(self):
+        errs, _ = self.run_gate(self.mutated(4, tone="ligt"))
+        self.assertIn("tone 'ligt' is not light or dark: Ba bước", errs)
+
+    def test_the_references_slide_lists_every_source_exactly_once(self):
+        subset = self.mutated(5, bullets=[f"S{k}: nguồn {k}" for k in range(1, 5)])
+        self.assertIn("references slide lists ['S1', 'S2', 'S3', 'S4'], the reference list has ['S1', 'S2', 'S3', 'S4', 'S5']",
+                      self.run_gate(subset)[0])
+        twice = self.mutated(5, bullets=["S1: a", "S1: b", "S3: c", "S4: d", "S5: e"])
+        self.assertTrue(any(e.startswith("references slide lists") for e in self.run_gate(twice)[0]))
+
+    def test_text_that_cannot_fit_its_box_at_the_smallest_font_is_refused(self):
+        """Six 160-character timeline bullets pass the length limit but need about 211px in a 190px box."""
+        long = " ".join(["chữ"] * 36)[:160]
+        errs, _ = self.run_gate(self.mutated(4, layout="timeline", bullets=[long] * 6))
+        self.assertTrue(any(e.startswith("text does not fit its box on timeline (Ba bước)") for e in errs), errs)
+        errs, _ = self.run_gate(self.mutated(4, layout="timeline", bullets=["ngắn"] * 6))
+        self.assertEqual(errs, [])
+
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})
         self.assertIn("cites 6", errs)

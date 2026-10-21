@@ -528,6 +528,21 @@ def page(lid, i, o, slides=None):
     return '<content font-family="Be Vietnam Pro">\n' + "\n".join(body) + "\n</content>"
 
 
+def overflows(markup):
+    """Texts of a page that wrap to more height than their box has at the size fit() settled on (an estimate, cw 0.55)."""
+    import html
+    import xml.etree.ElementTree as ET
+    bad = []
+    for node in ET.fromstring(markup).iter("text"):
+        text = html.unescape("".join(node.itertext()))
+        if len(text) < 20 or node.get("font-family") == "Bricolage Grotesque":
+            continue
+        w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
+        if lines(text, w, size, 0.55) * size * 1.15 > h * 1.05:
+            bad.append(text)
+    return bad
+
+
 def arg(name):
     return sys.argv[sys.argv.index(name) + 1] if name in sys.argv else None
 

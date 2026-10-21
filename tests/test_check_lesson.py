@@ -329,6 +329,23 @@ class GateTests(unittest.TestCase):
         self.assertIn(f"required source missing: {BOOK}", errs)
         self.assertEqual(self.run_gate(lesson=LESSON.replace(BOOK, BOOK.rstrip("/")))[0], [], "a missing trailing slash is the same page")
 
+    def test_expected_legacy_sources_match_whole_urls(self):
+        urls = {f"S{k}": f"https://example.org/{k}" for k in range(2, 6)}
+        expected = {k: v for k, v in EXPECTED.items() if k not in ("required_urls", "min_independent_sources")}
+        expected["sources"] = {"S1": BOOK, **urls}
+        lesson = LESSON.replace("https://example.org/2", "https://example.org/2/not-the-expected-page")
+        errs, _ = self.run_gate(lesson=lesson, expected=expected)
+        self.assertIn("url of S2 is not on its own reference line", errs)
+
+    def test_a_slide_draws_at_most_three_images(self):
+        img = {"file": "images/x.png", "alt": "a", "credit": "c", "url": "https://example.org/x.png"}
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        errs, _ = self.run_gate(self.mutated(4, layout="figure", images=[img] * 4, bullets=["một"]))
+        self.assertIn("a slide draws at most 3 images, found 4: Ba bước", errs)
+        errs, _ = self.run_gate(self.mutated(4, layout="figure", images=[img] * 3, bullets=["một"]))
+        self.assertFalse(any("at most 3 images" in e for e in errs))
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)

@@ -33,6 +33,7 @@ CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
 URL = re.compile(r"https?://[^\s/$.?#][^\s]*\.[^\s]+|https?://localhost\S*", re.I)
 VI_MARKS = re.compile("[ăâđêôơưàáạảãằắặẳẵầấậẩẫèéẹẻẽềếệểễìíịỉĩòóọỏõồốộổỗờớợởỡùúụủũừứựửữỳýỵỷỹ]", re.I)
+MAX_IMAGES = 3  # gen.images() splits one frame between them; more leave each too narrow to read
 IMG_KEYS = ("file", "alt", "credit", "url")
 FIELDS = {"title": str, "section": str, "layout": str, "tone": str, "sources": list, "bullets": list, "notes": str}
 DATE = re.compile(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])")
@@ -124,7 +125,8 @@ def check(root, lid):
     if "sources" in ex:
         if set(ex["sources"]) != set(refs): errs.append("expected sources differ")
         for k, url in ex["sources"].items():
-            if url and url not in refs.get(k, ""): errs.append(f"url of {k} is not on its own reference line")
+            if url and norm_url(url) not in {norm_url(m.group(0)) for m in URL.finditer(refs.get(k, ""))}:
+                errs.append(f"url of {k} is not on its own reference line")
     listed = {norm_url(m.group(0)) for r in refs.values() for m in URL.finditer(r)}
     for url in ex.get("required_urls", []):
         if norm_url(url) not in listed: errs.append(f"required source missing: {url}")
@@ -231,6 +233,7 @@ def check(root, lid):
             if not s.get("images"): errs.append(f"{L} needs images: {name}")
         elif s.get("images"):
             errs.append(f"images are drawn only by figure and annotated-figure: {name}")
+        if len(s.get("images", [])) > MAX_IMAGES: errs.append(f"a slide draws at most {MAX_IMAGES} images, found {len(s['images'])}: {name}")
         for img in s.get("images", []):
             figures += 1
             if not {"file", "alt", "credit", "url"} <= set(img): errs.append(f"image entry incomplete: {name}")

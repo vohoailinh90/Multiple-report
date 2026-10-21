@@ -158,6 +158,7 @@ def check(root, lid):
             and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) and m[k].strip() for k in IMG_KEYS)
                                                            and URL.fullmatch(m["url"].strip())
                                                            for m in s["images"]))]
+    if not (isinstance(sl.get("title"), str) and sl["title"].strip()): bad.append("slides.json needs a non-blank text title (drawn on the cover)")
     if not (isinstance(sl.get("subtitle"), str) and sl["subtitle"].strip()): bad.append("slides.json needs a non-blank text subtitle (drawn on the cover)")
     bad += [f"slide {i} has a blank {k}" for i, s in enumerate(S, 1) for k in ("title", "section", "layout", "tone")
             if isinstance(s.get(k), str) and not s[k].strip()]

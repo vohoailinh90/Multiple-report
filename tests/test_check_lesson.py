@@ -381,6 +381,15 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(expected={**EXPECTED, "key_terms": ["incentive salience"]})
         self.assertIn("key term missing: incentive salience", errs)
 
+    def test_a_missing_or_non_text_deck_title_is_reported_not_crashed(self):
+        for bad in ({"subtitle": "s"}, {"title": 7, "subtitle": "s"}, {"title": " ", "subtitle": "s"}):
+            (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+            (self.root / "lessons" / "L99" / "slides.json").write_text(json.dumps({**bad, "slides": SLIDES}, ensure_ascii=False), encoding="utf-8")
+            (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+            errs, _, _ = gate.check(self.root, "L99")
+            with self.subTest(bad=bad):
+                self.assertIn("slides.json needs a non-blank text title (drawn on the cover)", errs)
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)

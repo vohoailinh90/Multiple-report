@@ -322,7 +322,8 @@
         "S1",
         "S2",
         "S3",
-        "S8"
+        "S8",
+        "S11"
       ],
       "layout": "profile-card",
       "tone": "dark",
@@ -858,7 +859,7 @@
         "S18"
       ],
       "layout": "references",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
         "S1: Hove & Martinez, Biological Psychology, mục 6.1 (hormone và hành vi)",
         "S2: Hove & Martinez, mục 6.4 (gây hấn, hành vi làm cha mẹ và gắn bó)",

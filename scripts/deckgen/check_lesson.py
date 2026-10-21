@@ -158,7 +158,7 @@ def check(root, lid):
             and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) and m[k].strip() for k in IMG_KEYS)
                                                            and URL.fullmatch(m["url"].strip())
                                                            for m in s["images"]))]
-    if not isinstance(sl.get("subtitle"), str): bad.append("slides.json needs a text subtitle (drawn on the cover)")
+    if not (isinstance(sl.get("subtitle"), str) and sl["subtitle"].strip()): bad.append("slides.json needs a non-blank text subtitle (drawn on the cover)")
     bad += [f"slide {i} has a blank {k}" for i, s in enumerate(S, 1) for k in ("title", "section", "layout", "tone")
             if isinstance(s.get(k), str) and not s[k].strip()]
     if bad:
@@ -249,10 +249,13 @@ def check(root, lid):
     errs += over_errs; warn += over_warn
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")
     if ex.get("language") == "vi":
-        prose = [w for w in re.sub(r"[^\w\s]", " ", text).split() if w.isalpha()]
-        marked = sum(1 for w in prose if VI_MARKS.search(w))
-        if not prose or marked / len(prose) < 0.25: errs.append(f"the lesson is not Vietnamese with diacritics ({marked} of {len(prose)} words carry them)")
-    w = words(body); c = len(CITE.findall(text))
+        deck = " ".join([sl["title"], sl["subtitle"], *(" ".join([s["title"], s.get("body", ""), s.get("notes", ""), *s["bullets"],
+                                                                *(f["label"] + " " + f["text"] for f in s.get("facts", []))]) for s in S)])
+        for what, prose_text in (("lesson", text), ("deck", deck)):
+            prose = [w for w in re.sub(r"[^\w\s]", " ", prose_text).split() if w.isalpha()]
+            marked = sum(1 for w in prose if VI_MARKS.search(w))
+            if not prose or marked / len(prose) < 0.25: errs.append(f"the {what} is not Vietnamese with diacritics ({marked} of {len(prose)} words carry them)")
+    w = words(text); c = len(CITE.findall(text))  # the prose, not the bibliography
     if not ex["min_words"] <= w <= ex["max_words"]: errs.append(f"words {w}")
     if c < ex["min_citations"]: errs.append(f"cites {c}")
     for term in ex["key_terms"]:

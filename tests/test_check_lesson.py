@@ -346,6 +346,27 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(4, layout="figure", images=[img] * 3, bullets=["một"]))
         self.assertFalse(any("at most 3 images" in e for e in errs))
 
+    def test_a_blank_cover_subtitle_is_refused(self):
+        (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+        (self.root / "lessons" / "L99" / "slides.json").write_text(
+            json.dumps({"title": "Bài thử", "subtitle": "   ", "slides": SLIDES}, ensure_ascii=False), encoding="utf-8")
+        (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+        self.assertIn("slides.json needs a non-blank text subtitle (drawn on the cover)", gate.check(self.root, "L99")[0])
+
+    def test_the_vietnamese_check_covers_the_slides_too(self):
+        english = [{**s, "title": "plain english title", "bullets": ["plain english words"] * len(s["bullets"]) if s["bullets"] else [],
+                    "notes": "plain english notes " * 20,
+                    **({"body": " ".join(["plain english words"] * 25)} if "body" in s else {}),
+                    **({"facts": [{"label": "plain", "text": "english words"}] * len(s["facts"])} if "facts" in s else {})} for s in SLIDES]
+        english[-1]["title"] = "Nguồn tham khảo"
+        errs, _ = self.run_gate(english)
+        self.assertTrue(any(e.startswith("the deck is not Vietnamese with diacritics") for e in errs), errs)
+        self.assertFalse(any(e.startswith("the lesson is not Vietnamese") for e in errs))
+
+    def test_the_bibliography_does_not_count_toward_the_lesson_length(self):
+        errs, _ = self.run_gate(expected={**EXPECTED, "min_words": 160})  # 146 words of prose, 199 with the bibliography
+        self.assertIn("words 146", errs)
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)
@@ -401,7 +422,7 @@ class GateTests(unittest.TestCase):
         (self.root / "lessons" / "L99" / "slides.json").write_text(json.dumps(d, ensure_ascii=False), encoding="utf-8")
         (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
         errs, _, _ = gate.check(self.root, "L99")
-        self.assertIn("slides.json needs a text subtitle (drawn on the cover)", errs)
+        self.assertIn("slides.json needs a non-blank text subtitle (drawn on the cover)", errs)
         original = gate.gen().cover
         gate.gen().cover = lambda *a, **k: (_ for _ in ()).throw(KeyError("subtitle"))
         self.addCleanup(setattr, gate.gen(), "cover", original)

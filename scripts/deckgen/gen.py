@@ -51,9 +51,9 @@ def lines(text, w, size, cw):
     return n
 
 
-def fit(text, w, h, size, lh=1.25, floor=FLOOR, cw=0.55):
-    """Largest font size from size down (step 2, not below floor) whose wrapped text fits w x h."""
-    while size > floor and lines(text, w, size, cw) * size * lh > h:
+def fit(text, w, h, size, lh=1.25, floor=FLOOR, cw=0.55, max_lines=None):
+    """Largest font size from size down (step 2, not below floor) whose wrapped text fits w x h in at most max_lines lines."""
+    while size > floor and (lines(text, w, size, cw) * size * lh > h or (max_lines and lines(text, w, size, cw) > max_lines)):
         size -= 2
     return max(size, floor)
 
@@ -136,7 +136,7 @@ def card_grid(p, n, s, o):
         out.append(f'<rectangle x="{xx:.0f}" y="320" width="{w:.0f}" height="16" corner-radius="8" fill="{a}"/>')
         out.append(f'<text x="{xx + 40:.0f}" y="372" width="{w - 80:.0f}" height="130" font-family="Bricolage Grotesque" font-weight="800" font-size="96" color="{a}" max-lines="1">{k + 1:02d}</text>')
         if kk:
-            hs = fit(kk, w - 80, 110, 36, 1.2, 26, 0.58)
+            hs = fit(kk, w - 80, 110, 36, 1.2, 26, 0.58, 2)
             out.append(f'<text x="{xx + 40:.0f}" y="510" width="{w - 80:.0f}" height="110" font-weight="700" font-size="{hs}" color="{p["ink"]}" max-lines="2">{x(kk)}</text>')
             vs = fit(vv, w - 80, 200, 34, 1.3)
             out.append(f'<text x="{xx + 40:.0f}" y="630" width="{w - 80:.0f}" height="200" font-size="{vs}" color="{p["sub"]}" line-height="1.3">{x(vv)}</text>')
@@ -175,7 +175,7 @@ def two_col(p, n, s, o):
         out.append(f'<rectangle x="{xx}" y="300" width="{w}" height="{440 if rest else 560}" corner-radius="28" fill="{t}"/>')
         out.append(f'<rectangle x="{xx}" y="300" width="14" height="{440 if rest else 560}" corner-radius="7" fill="{a}"/>')
         h = kk if kk else ("Một phía" if k == 0 else "Phía kia")
-        hs = fit(h, w - 96, 100, 56, 1.1, 36, 0.6)
+        hs = fit(h, w - 96, 100, 56, 1.1, 36, 0.6, 2)
         out.append(f'<text x="{xx + 48}" y="336" width="{w - 96}" height="100" font-family="Bricolage Grotesque" font-weight="800" font-size="{hs}" color="{a}" max-lines="2">{x(h)}</text>')
         vh = 240 if rest else 330
         vs = fit(vv, w - 96, vh, 42, 1.3)
@@ -551,7 +551,7 @@ def overflows(markup):
     bad = []
     for node in ET.fromstring(markup).iter("text"):
         text = html.unescape("".join(node.itertext()))
-        if len(text) < 20 and node.get("font-family") != "Bricolage Grotesque":
+        if len(text) < 20 and node.get("font-family") != "Bricolage Grotesque" and not node.get("max-lines"):
             continue
         display = node.get("font-family") == "Bricolage Grotesque"  # wider glyphs, tighter leading
         w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
@@ -561,7 +561,9 @@ def overflows(markup):
             need += float(node.get("paragraph-spacing", 0)) * (len(paras) - 1)
         else:
             need = lines(text, w, size, 0.58 if display else 0.55) * size * (1.08 if display else 1.15)
-        if need > h * 1.05:
+        cap = node.get("max-lines")  # Moda drops the lines past max-lines, so the text must wrap to no more
+        clipped = bool(cap) and not paras and lines(text, w, size, 0.58 if display else 0.55) > int(cap)
+        if need > h * 1.05 or clipped:
             bad.append(text)
     return bad
 

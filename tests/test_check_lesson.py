@@ -286,6 +286,14 @@ class GateTests(unittest.TestCase):
             with self.subTest(bad=bad):
                 self.assertTrue(any(e.startswith("front matter line is not") for e in errs), errs)
 
+    def test_text_past_a_nodes_max_lines_is_clipped_so_it_is_refused(self):
+        """A card-grid label may wrap to two lines; this one needs three even at the smallest size."""
+        label = "abcdefghij " * 5
+        errs, _ = self.run_gate(self.mutated(0, bullets=[f"{label}: giải thích", "hai: ba", "bốn: năm", "sáu: bảy"]))
+        self.assertTrue(any(e.startswith("text does not fit its box on card-grid") for e in errs), errs)
+        errs, _ = self.run_gate(self.mutated(0, bullets=["Nhãn ngắn: giải thích", "hai: ba", "bốn: năm", "sáu: bảy"]))
+        self.assertEqual(errs, [])
+
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
         self.assertIn("reference card has no text after its label: S1: ", errs)

@@ -404,6 +404,18 @@ class GateTests(unittest.TestCase):
         (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
         self.assertIn("the cover has no source line: no [Sn] in the deck title or subtitle", gate.check(self.root, "L99")[0])
 
+    def test_deck_options_are_valid_json_and_do_not_cite(self):
+        opts = self.root / "scripts" / "deckgen" / "opts"
+        opts.mkdir(parents=True)
+        (opts / "L99.json").write_text("{", encoding="utf-8")
+        errs, _ = self.run_gate()
+        self.assertTrue(any(e.startswith("L99.json is not valid JSON") for e in errs), errs)
+        (opts / "L99.json").write_text(json.dumps({"big": {"3": "86 tỷ [S999]"}, "actors": {"6": ["A", "B"]}}), encoding="utf-8")
+        errs, _ = self.run_gate()
+        self.assertTrue(any("cannot cite a source" in e and "86 tỷ [S999]" in e for e in errs), errs)
+        (opts / "L99.json").write_text(json.dumps({"big": {"3": "86 tỷ"}}), encoding="utf-8")
+        self.assertEqual(self.run_gate()[0], [])
+
     def test_the_sources_slide_is_dark(self):
         errs, _ = self.run_gate(self.mutated(5, tone="light"))
         self.assertIn("the last slide (sources) must have the dark tone (docs/deck-style.md)", errs)

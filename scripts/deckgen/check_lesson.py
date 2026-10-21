@@ -63,8 +63,21 @@ def words(t):
 def overflow(root, lid, S, sl_path):
     """A slide whose text cannot fit its boxes even at the smallest font gen.py allows (the 160-character limit alone allows it)."""
     opts_file = Path(root) / "scripts" / "deckgen" / "opts" / f"{lid}.json"
-    opts = json.loads(opts_file.read_text(encoding="utf-8")) if opts_file.is_file() else {}
     g, errs, warn = gen(), [], []
+    try:
+        opts = json.loads(opts_file.read_text(encoding="utf-8")) if opts_file.is_file() else {}
+    except ValueError as e:
+        return [f"{opts_file.name} is not valid JSON: {e}"], warn
+    if not isinstance(opts, dict):
+        return [f"{opts_file.name} must be a JSON object"], warn
+    strings = []
+    stack = [opts]
+    while stack:
+        v = stack.pop()
+        stack += list(v.values()) if isinstance(v, dict) else v if isinstance(v, list) else []
+        if isinstance(v, str): strings.append(v)
+    errs += [f"{opts_file.name}: text drawn from the options cannot cite a source (the slide footer lists its own): {s[:40]}"
+             for s in strings if CITE.search(s)]
     for i, s in enumerate([None, *S]):  # page 0 is the cover
         if s is None:
             s = {"title": "the cover", "layout": "cover"}

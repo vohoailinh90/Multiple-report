@@ -67,8 +67,8 @@ nghe gọi tên, hiểu lời nói, rồi quay đầu về phía tiếng gọi [
 
 Người có 12 đôi dây thần kinh sọ (cranial nerves) đi ra từ hộp sọ. Có dây chỉ mang cảm giác (dây khứu giác), có dây gần như chỉ mang lệnh
 vận động (dây vận nhãn: mở mi mắt và một số cử động mắt), có dây pha cả hai (dây thiệt hầu: vị giác và nuốt) [S7]. Có 31 đôi dây thần kinh
-sống (spinal nerves), mỗi dây chứa cả sợi cảm giác lẫn vận động [S7]. Các nhân (nucleus, cụm thân nơron) của dây thần kinh sọ nằm trong
-thân não [S10].
+sống (spinal nerves), mỗi dây chứa cả sợi cảm giác lẫn vận động [S7]. Phần lớn các nhân (nucleus, cụm thân nơron) của dây thần kinh sọ nằm trong
+thân não [S10] (ngoại lệ, ghi chú của người viết: dây khứu giác và dây thị giác không bắt đầu từ nhân ở thân não, nhân của dây phụ nằm ở tủy sống cổ).
 
 ![Mười hai đôi dây thần kinh sọ nhìn từ mặt dưới não](images/12-day-than-kinh-so.png)
 
@@ -235,7 +235,7 @@ chiếu rộng lên não trước [S13]. Mức chắc chắn: giáo khoa.
 ### Locus coeruleus: hồ sơ ngắn
 
 - **Ở đâu:** một nhân ở thân não [S13]; hình 6.12 của Purves vẽ nó ở vùng cầu não, sợi tỏa lên vỏ não, xuống tiểu não và tủy sống [S13].
-- **Chất:** noradrenaline (norepinephrine); ngoài não, đây cũng là chất dẫn truyền chính của các hạch giao cảm [S13].
+- **Chất:** noradrenaline (norepinephrine); ngoài não, đây cũng là chất mà phần lớn nơron hậu hạch giao cảm giải phóng ở cơ quan đích; còn truyền tin bên trong hạch giao cảm chủ yếu dùng acetylcholine (ghi chú của người viết, theo Purves chương 21, chưa đối chiếu lại trong phiên này).
 - **Tỏa đi đâu:** lan tỏa đến nhiều đích ở não trước [S13].
 - **Liên quan đến:** giấc ngủ và sự tỉnh táo, chú ý, hành vi ăn [S13]; vai trò của noradrenaline: xem L03.
 - **Đừng hiểu nhầm:** liên quan đến chú ý không có nghĩa nó "là" sự chú ý; nó là một trong nhiều hệ cùng điều chỉnh mạng lưới (L05).

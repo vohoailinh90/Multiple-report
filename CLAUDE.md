@@ -3,9 +3,10 @@
 Kho lưu những gì chủ repo đã hỏi Claude (thần kinh, não bộ, triết học, sức khỏe, quản lý dự án, kỹ thuật...),
 mỗi chủ đề thành một bài học tiếng Việt có nguồn và một file PowerPoint, để đọc lại thay vì hỏi lại.
 
-Bài học được viết theo quy trình `team-lesson` của
-[claude-agent-routing-template](https://github.com/vohoailinh90/claude-agent-routing-template/blob/main/docs/vps-team-lesson.md):
-Claude thiết kế và audit, model miễn phí trên VPS viết, Claude làm deck bằng Moda sau khi merge.
+Quy trình hiện tại (chủ repo đặt, tạm thời): Claude thiết kế và tự viết bài trong phiên chính, Codex phản biện mỗi pull
+request, Claude làm deck bằng Moda sau khi merge. Quy trình `team-lesson` của
+[claude-agent-routing-template](https://github.com/vohoailinh90/claude-agent-routing-template/blob/main/docs/vps-team-lesson.md)
+(model miễn phí trên VPS viết) tạm dừng cho đến khi chủ repo bật lại.
 
 ## Làm việc tự chủ
 
@@ -56,7 +57,7 @@ lấy từ deck System Design của tool-marketing-studio.
 ## Kiểm tra
 
 `python3 -m unittest discover -s tests` (CI chạy lệnh này). Gate cấu trúc bài học (`lesson_gates.py`) nằm ở repo
-template và chạy trong pipeline `team-lesson`.
+template; Claude chạy nó bằng tay khi viết bài (`team-lesson` đang tạm dừng).
 
 <!-- team-onboarding:start -->
 ## Team agent process

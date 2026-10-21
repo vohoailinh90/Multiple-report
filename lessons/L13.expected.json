@@ -1,0 +1,61 @@
+{
+  "id": "L13",
+  "title": "Thuốc và chất tác động lên chất dẫn truyền",
+  "topic": "suc-khoe",
+  "sections": [
+    "Tóm tắt",
+    "Chất đến được synapse thế nào và tác động ra sao",
+    "Rượu (alcohol)",
+    "Caffeine",
+    "Cần sa (cannabis) và hệ endocannabinoid",
+    "Opioid (nhóm thuốc phiện)",
+    "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+    "Những hiểu lầm thường gặp",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/how-drugs-affect-neurotransmitters/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/pharmacokinetics-what-is-it-and-why-is-it-important/"
+  ],
+  "key_terms": [
+    "rượu",
+    "caffeine",
+    "cần sa",
+    "opioid",
+    "adenosine",
+    "endocannabinoid",
+    "thụ thể",
+    "dung nạp",
+    "lệ thuộc",
+    "GABA",
+    "THC",
+    "alcohol",
+    "cannabis",
+    "tolerance",
+    "withdrawal"
+  ],
+  "min_words": 3500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 3,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

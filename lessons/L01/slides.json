@@ -7,213 +7,935 @@
       "section": "Tóm tắt",
       "sources": [
         "S1",
-        "S2",
-        "S3"
-      ],
-      "bullets": [
-        "Thân não: giữ các chức năng sống còn",
-        "Tiểu não: chỉnh cử động",
-        "Hệ viền: cảm xúc, trí nhớ",
-        "Vỏ não: bốn thùy lo cảm giác, nghĩ, làm"
-      ],
-      "notes": "Không phải một phần nào riêng: cả một mạng lưới khoảng 86 tỷ nơron. Chia thành bộ phận chỉ để dễ học. L02 vào nơron, L03 vào chất hóa học. Ví dụ của người viết: não giống một thành phố, thân não là điện nước, tiểu não là điều phối giao thông, hệ viền là khu dân cư của cảm xúc và ký ức, vỏ não là trung tâm điều hành. Chỉ để nhớ, không chính xác.",
-      "layout": "card-grid",
-      "tone": "light"
-    },
-    {
-      "title": "Hệ thần kinh: trung ương và ngoại biên",
-      "section": "Hệ thần kinh: bức tranh chung",
-      "sources": [
-        "S1"
-      ],
-      "bullets": [
-        "Trung ương: não và tủy sống",
-        "Ngoại biên: dây thần kinh khắp cơ thể",
-        "Ngoại biên có nhánh thân thể và nhánh tự chủ"
-      ],
-      "notes": "Nhánh thân thể mang cảm giác về và lệnh cử động đi. Nhánh tự chủ điều khiển tim, tiêu hóa, phần lớn không cần ta để ý.",
-      "layout": "connection-diagram",
-      "tone": "dark"
-    },
-    {
-      "title": "Quy mô của não",
-      "section": "Hệ thần kinh: bức tranh chung",
-      "sources": [
         "S2"
       ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
       "bullets": [
-        "86 tỷ nơron",
-        "Chỉ khoảng 19% nằm ở vỏ não"
+        "Không phải một phần nào riêng lẻ, mà là cả một mạng lưới nơron",
+        "Phép đếm trên não nam giới trưởng thành: trung bình khoảng 86 tỷ nơron",
+        "Chia não thành bộ phận là cách để học, không phải cách não làm việc"
       ],
-      "notes": "Ước tính trực tiếp trên một mẫu nhỏ não nam trưởng thành. Vỏ não chiếm phần lớn khối lượng nhưng chỉ chứa khoảng 19% số nơron. Con số 100 tỷ trước đây không dựa trên phép đếm trực tiếp.",
-      "layout": "one-big-number",
-      "tone": "light"
+      "notes": "Câu hỏi mở bài. Câu trả lời ngắn: không có một phần nào tự quyết định. Não là một mạng lưới nơron, mỗi nơron có thể nối với hàng nghìn nơron khác. Con số 86 tỷ đến từ phép đếm của Azevedo và cộng sự năm 2009 trên não nam giới trưởng thành; con số 100 tỷ hay gặp trước đây không dựa trên phép đếm trực tiếp. Để học được, người ta chia mạng lưới ấy thành các bộ phận và đặt tên. Bài này là tấm bản đồ đầu tiên của bộ bài về não, đi từ dưới lên: tủy sống, thân não, tiểu não, rồi tầng trên. Chỗ dễ nhầm: tên một bộ phận không phải là tên một chức năng."
     },
     {
-      "title": "Thân não và tiểu não",
-      "section": "Thân não và tiểu não",
+      "title": "Bản đồ đi từ dưới lên",
+      "section": "Tóm tắt",
       "sources": [
         "S1",
         "S3"
       ],
+      "layout": "layers",
+      "tone": "dark",
       "bullets": [
-        "Thân não: nhịp thở, nhịp tim, tỉnh táo",
-        "Tiểu não: thăng bằng, phối hợp, kỹ năng vận động"
+        "Vỏ não: bốn thùy và thùy đảo (L04, L08)",
+        "Các nhân nằm sâu: hệ viền, hạch nền, đồi thị (L07)",
+        "Tiểu não (phía sau thân não): sửa lỗi cử động",
+        "Thân não: hành não, cầu não, não giữa",
+        "Tủy sống và dây thần kinh"
       ],
-      "notes": "Thân não gồm hành tủy, cầu não và não giữa, nằm ở đáy não; vì chứa vùng điều khiển thở và nhịp tim nên tổn thương ở đây có thể rất nghiêm trọng. Tiểu não nằm phía sau, bên dưới vỏ não.",
-      "layout": "two-column-comparison",
-      "tone": "dark"
+      "notes": "Tấm bản đồ của bài, đọc từ dưới lên. Tủy sống nối não với cơ thể. Thân não giữ các chức năng sống còn như thở và nhịp tim, và là nơi xuất phát của nhiều đường chất dẫn truyền. Tiểu não nằm phía sau thân não, không nằm trên nó; hình xếp tầng chỉ để nhớ thứ tự học. Tầng trên gồm các nhân nằm sâu và vỏ não; bài chỉ điểm qua vì có hoặc sẽ có bài riêng. Ví dụ của người viết: não như một thành phố, thân não là điện nước, tiểu não là điều phối giao thông, vỏ não là khu làm việc rộng nhất. Phép so sánh chỉ để nhớ: trong não các khu nói chuyện liên tục, không khu nào tự làm xong một việc."
     },
     {
-      "title": "Thân não nhìn từ bên cạnh",
-      "bullets": [
-        "Midbrain: não giữa",
-        "Pons: cầu não",
-        "Medulla: hành tủy"
-      ],
-      "notes": "Hình lấy nhãn tiếng Anh; phần tiếng Việt là cách gọi trong bài.",
-      "section": "Thân não và tiểu não",
+      "title": "Các phần lớn theo nguồn gốc phôi thai",
+      "section": "Tóm tắt",
       "sources": [
         "S1"
       ],
       "layout": "figure",
       "tone": "light",
+      "bullets": [
+        "Forebrain: não trước (đại não, gian não)",
+        "Midbrain: não giữa",
+        "Hindbrain: não sau (cầu não, hành não, tiểu não)"
+      ],
       "images": [
         {
-          "file": "images/than-nao.png",
-          "alt": "Thân não: não giữa, cầu não, hành tủy",
-          "credit": "BruceBlaus (Blausen.com), CC BY 3.0, Wikimedia Commons; qua Hove & Martinez, Hình 24",
+          "file": "images/cac-phan-he-than-kinh-trung-uong.png",
+          "alt": "Sơ đồ các phần lớn của hệ thần kinh trung ương",
+          "credit": "Steven Martinez, CC BY-NC-SA; Hove & Martinez, Hình 9 (chương 2.6)",
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
         }
-      ]
+      ],
+      "notes": "Sơ đồ của giáo trình xếp hệ thần kinh trung ương theo phôi thai. Khoảng 3 đến 4 tuần sau thụ thai, ống thần kinh phình thành ba túi: não trước, não giữa, não sau. Não trước thành đại não và gian não, tức đồi thị và vùng dưới đồi. Não giữa thành một phần thân não. Não sau thành tiểu não, cầu não và hành não. Slide sau sẽ gặp một cách chia khác của Purves, bảy phần; hai cách chia cùng mô tả một bộ não, chỉ khác cách gom nhóm. Giáo trình nhắc rằng cách đặt tên các phần não không hoàn toàn thống nhất giữa các sách."
     },
     {
-      "title": "Hệ viền và các cấu trúc nằm sâu",
-      "section": "Hệ viền và các cấu trúc nằm sâu",
+      "title": "Trung ương và ngoại biên",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S5",
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Hệ thần kinh trung ương** (central nervous system) gồm não và tủy sống. **Hệ thần kinh ngoại biên** (peripheral nervous system) gồm các dây thần kinh nằm ngoài não và tủy sống, nối hệ trung ương với phần còn lại của cơ thể [S5]. Purves và cộng sự chia hệ trung ương thành bảy phần: tủy sống, hành não, cầu não, tiểu não, não giữa, gian não và hai bán cầu đại não; ba phần hành não, cầu não, não giữa gộp lại là **thân não** [S10].",
+      "bullets": [
+        "Trung ương: não và tủy sống",
+        "Ngoại biên: dây thần kinh sọ và dây thần kinh sống",
+        "Đừng hiểu nhầm: cách chia phần não khác nhau giữa các sách"
+      ],
+      "notes": "Đây là cách chia giáo khoa. Hệ thần kinh xử lý thông tin, chuyển tiếp tín hiệu giác quan và phối hợp hành động. Phần trung ương là não và tủy sống; phần ngoại biên là mọi dây thần kinh ra khỏi hai thứ đó. Cách chia bảy phần của Purves không theo phôi thai như slide trước, nhưng cho cùng một kết quả về thân não: hành não, cầu não và não giữa. Chỗ dễ nhầm: khi một sách gọi hành não là hành tủy, hay gom các phần theo cách khác, đó là khác biệt quy ước, không phải mâu thuẫn về giải phẫu. Giáo trình Hove và Martinez nói rõ cách gọi tên có lịch sử dài và không thống nhất."
+    },
+    {
+      "title": "Hệ thần kinh trên cơ thể người",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S5",
+        "S7"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "bullets": [
+        "Brainstem: thân não",
+        "Spinal cord: tủy sống",
+        "Cranial nerves: dây thần kinh sọ"
+      ],
+      "images": [
+        {
+          "file": "images/he-than-kinh-trung-uong-ngoai-bien.png",
+          "alt": "Hệ thần kinh trung ương và ngoại biên trên cơ thể người",
+          "credit": "Wikipedia, CC0; Hove & Martinez, Hình 2 (chương 2.3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-nervous-system/"
+        }
+      ],
+      "notes": "Trong hình, màu vàng là hệ thần kinh trung ương: não và tủy sống. Màu xanh là hệ ngoại biên: các dây thần kinh tỏa ra tay, chân, thân mình. Hãy để ý thân não nằm ngay chỗ não nối với tủy sống, và các dây thần kinh sọ đi ra từ vùng đầu. Hình có rất nhiều tên dây thần kinh ở tay chân; bài này không cần nhớ chúng. Điều cần nhớ là hai phần, và rằng hệ ngoại biên không được xương sọ hay cột sống che chở, cũng không có hàng rào máu não, tức lớp ngăn nhiều chất trong máu đi vào mô thần kinh, nên dễ bị chất độc và chấn thương hơn."
+    },
+    {
+      "title": "Tủy sống: hồ sơ ngắn",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S6"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Từ thân não chạy dọc cột sống; được đốt sống và dịch não tủy bảo vệ [S6]"
+        },
+        {
+          "label": "Làm gì",
+          "text": "Đưa tin hướng tâm (afferent) lên não và lệnh ly tâm (efferent) xuống cơ [S6]"
+        },
+        {
+          "label": "Tự xử lý",
+          "text": "Phản xạ rụt tay, phản xạ đầu gối: không phải vòng lên não nên nhanh hơn [S6]"
+        },
+        {
+          "label": "Bộ tạo nhịp (ở động vật)",
+          "text": "Mèo bị cắt ngang tủy sống vẫn đi tương đối bình thường trên máy chạy [S6]"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Có thể liệt; mức độ tùy vị trí tổn thương và tủy đứt hoàn toàn hay không [S6]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Tủy sống không chỉ là dây cáp: nó tự làm phản xạ và cử động có nhịp"
+        }
+      ],
+      "notes": "Thẻ hồ sơ ngắn cho tủy sống. Hai chữ cần nhớ: hướng tâm là tin đi từ ngoại vi về trung ương, ly tâm là lệnh đi từ trung ương ra ngoài. Giáo trình nói phản xạ xử lý ngay ở tủy sống tiết kiệm được hàng trăm mili giây. Thí nghiệm trên mèo là bằng chứng ở động vật cho thấy tủy sống có bộ tạo mẫu nhịp cho việc đi, kể cả khi đã mất lệnh từ não. Giáo trình ghi khoảng 10.000 ca tổn thương tủy sống mỗi năm ở Hoa Kỳ; tổn thương ở cổ có thể gây liệt từ cổ trở xuống.",
+      "bullets": []
+    },
+    {
+      "title": "Hai nhánh của hệ ngoại biên",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S7",
+        "S10"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Thân thể: cảm giác từ da, cơ, giác quan về; lệnh đến cơ xương",
+        "Tự chủ: tim, phổi, cơ trơn, các tuyến; phần lớn không cần chủ ý",
+        "12 đôi dây sọ: có dây cảm giác, dây vận động, dây pha cả hai",
+        "31 đôi dây sống: mỗi dây có cả sợi cảm giác lẫn vận động"
+      ],
+      "notes": "Nhánh thân thể (somatic) giao tiếp với thế giới bên ngoài. Giáo trình lấy ví dụ: bạn nghe gọi tên, hiểu lời nói, rồi quay đầu về phía tiếng gọi. Nhánh tự chủ (autonomic) lo bên trong cơ thể; cơ trơn là loại cơ ở thành ruột và mạch máu. Dây thần kinh sọ đi ra từ hộp sọ: dây khứu giác chỉ mang cảm giác, dây vận nhãn gần như chỉ mang lệnh vận động như mở mi mắt và một số cử động mắt, dây thiệt hầu tham gia cả vị giác lẫn nuốt. Dây thần kinh sống đi ra từ cột sống. Điều nối sang mục thân não: phần lớn các nhân của dây thần kinh sọ nằm trong thân não (trừ vài ngoại lệ như dây khứu giác, dây thị giác, nhân dây phụ ở tủy sống cổ), theo Purves và cộng sự."
+    },
+    {
+      "title": "Mười hai đôi dây thần kinh sọ",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S7",
+        "S8"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "bullets": [
+        "Optic: dây thị giác",
+        "Trigeminal: dây sinh ba",
+        "Vagus: dây phế vị"
+      ],
+      "images": [
+        {
+          "file": "images/12-day-than-kinh-so.png",
+          "alt": "Mười hai đôi dây thần kinh sọ nhìn từ mặt dưới não",
+          "credit": "OpenStax, CC BY-NC-SA; Hove & Martinez, Hình 5 (chương 2.4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-peripheral-nervous-system/"
+        }
+      ],
+      "notes": "Hình nhìn não từ mặt dưới. Mười hai đôi dây thần kinh sọ màu vàng cam tụ quanh thân não, đối xứng hai bên. Dây phế vị là dây cần nhớ cho phần sau: theo Purves, nhân vận động lưng của dây phế vị nằm ở hành não và điều khiển tim, phổi, ruột, chẳng hạn làm chậm nhịp tim. Chỗ dễ nhầm: dây thần kinh sọ thuộc hệ ngoại biên, dù nó đi ra từ não; còn phần lớn các nhân nơi nó bắt đầu hoặc kết thúc nằm trong thân não, thuộc hệ trung ương (ngoại lệ: dây khứu giác, dây thị giác, nhân dây phụ ở tủy sống cổ). Không cần học thuộc tên cả mười hai dây ở bài này; chỉ cần biết chúng đi ra quanh thân não."
+    },
+    {
+      "title": "Giao cảm và đối giao cảm",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S7",
+        "S8"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Giao cảm: chiến hay chạy; tim nhanh, đồng tử và phế quản giãn, kìm tiêu hóa",
+        "Đối giao cảm: nghỉ và tiêu hóa; tim chậm, đồng tử co, kích thích tiêu hóa",
+        "Thường tác dụng ngược nhau lên cùng một cơ quan, theo kiểu đẩy và kéo"
+      ],
+      "notes": "Hệ thần kinh tự chủ có hai phân nhánh. Hệ giao cảm chuẩn bị cơ thể đối phó với thử thách: tim đập nhanh, phế quản giãn, máu dồn từ da và ruột sang cơ, tủy thượng thận, phần lõi của tuyến nằm trên thận, tiết adrenaline và noradrenaline vào máu. Hệ đối giao cảm cho cơ thể nghỉ và hồi phục. Giáo trình gợi mẹo nhớ bằng tiếng Anh: snake và sympathetic cùng bắt đầu bằng s, picnic và parasympathetic cùng bắt đầu bằng p. Chỗ dễ nhầm: giao cảm không chỉ bật lúc nguy hiểm. Purves và cộng sự viết rằng nó luôn hoạt động ở một mức nền, và nhiều phản xạ giao cảm vận hành tương đối độc lập."
+    },
+    {
+      "title": "Hai hệ trên cùng các cơ quan",
+      "section": "Hệ thần kinh trung ương và ngoại biên",
+      "sources": [
+        "S7",
+        "S8"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "Phần lớn cơ quan nhận cả sợi **giao cảm** lẫn **đối giao cảm**, nhưng tuyến mồ hôi, tủy thượng thận, cơ dựng lông và phần lớn động mạch chỉ nhận sợi giao cảm [S8]. Phần đối giao cảm xuất phát từ thân não và đoạn cùng của tủy sống, trong đó có nhân vận động lưng của dây phế vị ở hành não [S8].",
+      "bullets": [
+        "Parasympathetic: đối giao cảm",
+        "Sympathetic: giao cảm",
+        "Slows heart rate: làm tim chậm"
+      ],
+      "images": [
+        {
+          "file": "images/giao-cam-doi-giao-cam.png",
+          "alt": "Hệ giao cảm và đối giao cảm tác động ngược nhau lên các cơ quan",
+          "credit": "OpenStax, CC BY-NC-SA; Hove & Martinez, Hình 4 (chương 2.4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-peripheral-nervous-system/"
+        }
+      ],
+      "notes": "Hình đặt hai hệ cạnh nhau. Bên trái, đối giao cảm: co đồng tử, làm tim chậm, kích thích tiêu hóa. Bên phải, giao cảm: giãn đồng tử, tăng nhịp tim, kìm tiêu hóa, kích thích tiết adrenaline và noradrenaline. Điều đáng để ý cho bài này là chỗ xuất phát: sợi đối giao cảm đi ra từ thân não và đoạn cùng, tức đoạn thấp nhất, của tủy sống. Ở thân não có nhân Edinger-Westphal ở não giữa điều chỉnh đồng tử theo ánh sáng, các nhân nước bọt ở cầu não và hành não, và nhân vận động lưng của dây phế vị ở hành não. Vậy thân não cũng là nơi xuất phát của một phần hệ tự chủ."
+    },
+    {
+      "title": "Các cặp từ chỉ hướng",
+      "section": "Đọc bản đồ não: hướng và mặt cắt",
+      "sources": [
+        "S9"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Anterior / posterior: về phía trước / về phía sau",
+        "Rostral / caudal: về phía đầu (mỏ) / về phía đuôi",
+        "Dorsal / ventral: về phía lưng / về phía bụng",
+        "Medial / lateral: về đường giữa / ra hai bên",
+        "Contralateral / ipsilateral: nửa bên kia / cùng nửa"
+      ],
+      "notes": "Các từ chỉ hướng đi theo cặp. Ngoài năm cặp trên còn có superior và inferior, tức về phía trên và về phía dưới. Dorsal có gốc là lưng, giáo trình gợi hình vây lưng cá; ventral có gốc là bụng. Hai cặp cuối hay gặp nhất khi đọc về tổn thương. Giáo trình nói tín hiệu chạm và lệnh vận động của mỗi bên cơ thể được xử lý chủ yếu ở bán cầu đối bên; còn Purves mô tả tổn thương tiểu não gây lỗi cử động ở cùng bên. Suy luận của người viết: một tên dài như vỏ trước trán lưng bên ở L04 chỉ là phần phía trước, phía trên, phía ngoài của thùy trán."
+    },
+    {
+      "title": "Ba mặt cắt chuẩn",
+      "section": "Đọc bản đồ não: hướng và mặt cắt",
+      "sources": [
+        "S9",
+        "S10"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "Não là khối ba chiều, nên ta xem nó qua các lát hai chiều. **Mặt cắt** đứng ngang (coronal) chia trước và sau; đứng dọc (sagittal) chia trái và phải; nằm ngang (axial) chia trên và dưới [S9]. Lát đứng dọc ngay giữa hai bán cầu gọi là mặt cắt giữa [S10].",
+      "bullets": [
+        "Frontal plane: đứng ngang",
+        "Sagittal plane: đứng dọc",
+        "Transverse plane: nằm ngang"
+      ],
+      "images": [
+        {
+          "file": "images/ba-mat-cat.png",
+          "alt": "Ba mặt cắt chuẩn của não",
+          "credit": "Wikimedia, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 1 (chương 2.2)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/visualizing-and-navigating-the-human-brain/"
+        }
+      ],
+      "notes": "Ba mặt cắt là ba cách thái lát một khối ba chiều. Mặt cắt đứng ngang còn gọi là coronal hay frontal; mặt cắt đứng dọc là sagittal; mặt cắt nằm ngang còn gọi là axial, horizontal hay transverse. Lát đứng dọc ngay đường giữa hai bán cầu gọi là mặt cắt giữa, lệch ra hai bên gọi là cạnh giữa, theo Purves. Hình hệ viền và hình tiểu não trong bài là mặt cắt giữa. Chỗ dễ nhầm: một tên mặt cắt có thể có hai ba tên tiếng Anh; khi đọc hình, trước hết hãy xác định lát đó chia não thành trước sau, trái phải hay trên dưới."
+    },
+    {
+      "title": "Vì sao \"lưng\" có hai nghĩa",
+      "section": "Đọc bản đồ não: hướng và mặt cắt",
+      "sources": [
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Với cơ thể, các hướng đi theo một trục dài thẳng. Nhưng trục dài của **hệ thần kinh trung ương** ở người bị gập: Purves và cộng sự mô tả góc khoảng 120° giữa trục của **thân não** và trục của não trước, hình thành khi loài người đứng thẳng [S10]. Hệ quả là ở thân não và tủy sống, \"lưng\" (dorsal) chỉ về phía gáy, còn ở não trước, \"lưng\" chỉ về phía đỉnh đầu [S10]. Cùng một chữ, hai hướng khác nhau.",
+      "bullets": [
+        "Ở thân não: lưng là phía gáy",
+        "Ở não trước: lưng là phía đỉnh đầu",
+        "Đừng hiểu nhầm: đọc hướng theo phần não đang xét"
+      ],
+      "notes": "Đây là chỗ người mới học hay bối rối. Purves và cộng sự nói phải hiệu chỉnh trục của não khi so với trục cơ thể, vì ở người trục thân não và trục não trước gập nhau một góc khoảng 120 độ. Vì vậy khi đọc mô tả một nhân ở mặt lưng của thân não, hãy tưởng tượng phía gáy, không phải đỉnh đầu. Việc chọn trục cũng quyết định các mặt cắt chuẩn trong ảnh chụp, theo Purves. Gặp hình thân não ở mục sau, slide Thân não nhìn từ bên cạnh, hãy quay lại slide này để định hướng."
+    },
+    {
+      "title": "Mỗi cách chụp cho biết điều gì",
+      "section": "Nhìn vào não sống: các cách chụp não",
       "sources": [
         "S1",
-        "S3"
+        "S11"
       ],
-      "bullets": [
-        "Hạnh nhân: cảm xúc, phản ứng với đe dọa",
-        "Hải mã: hình thành trí nhớ mới",
-        "Đồi thị: trạm chuyển tiếp thông tin giác quan",
-        "Vùng dưới đồi: đói, khát, thân nhiệt, hormone"
-      ],
-      "notes": "Cách chia hệ viền là quy ước tiện cho việc học; các tài liệu không xếp hoàn toàn giống nhau, chẳng hạn đồi thị.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "CT, MRI cấu trúc, DTI: hình dạng, kích thước, bó chất trắng",
+        "PET: hoạt động gián tiếp; phân bố chất dẫn truyền, thụ thể",
+        "fMRI: tín hiệu BOLD; vài milimét nhưng chậm 2–3 giây",
+        "EEG: chính xác mili giây, khó chỉ ra ở đâu",
+        "MEG: nhanh như EEG, định vị tốt hơn, đắt hơn"
+      ],
+      "notes": "Mục này rút gọn; fMRI trong nghiên cứu mạng xã hội nằm ở L06. CT dùng tia X, có từ những năm 1970, nay ít dùng trong nghiên cứu vì có bức xạ và độ phân giải thấp. MRI cấu trúc cho hình chi tiết cỡ milimét; DTI dựa vào cách nước di chuyển dọc sợi trục để vẽ bó chất trắng, tức mô gồm chủ yếu sợi trục có bọc myelin. PET dò chất phóng xạ tiêm vào máu. fMRI đo nồng độ hemoglobin mang oxy rồi suy ra hoạt động nơron, chứ không đo trực tiếp. EEG ghi điện thế trên da đầu; MEG ghi từ trường rất yếu, ít bị xương sọ làm méo. Chụp cấu trúc không cho biết vùng đang làm gì."
     },
     {
-      "title": "Hệ viền nhìn từ giữa não",
-      "bullets": [
-        "Amygdala: hạnh nhân",
-        "Hippocampus: hải mã",
-        "Thalamus: đồi thị",
-        "Hypothalamus: vùng dưới đồi"
+      "title": "Bằng chứng từ bệnh nhân tổn thương",
+      "section": "Nhìn vào não sống: các cách chụp não",
+      "sources": [
+        "S11"
       ],
-      "notes": "Hình chỉ cho thấy vị trí; chức năng nằm ở bảng của slide trước.",
-      "section": "Hệ viền và các cấu trúc nằm sâu",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Trước khi có máy chụp, bằng chứng đến từ bệnh nhân **tổn thương não**. Phineas Gage mất một phần thùy trán trái; theo giáo trình, ông vẫn nói, đi, nhớ bình thường nhưng tính cách thay đổi [S11]. Broca và Wernicke thấy hai vùng tổn thương khác nhau làm hỏng hai việc khác nhau, nói và hiểu lời; giáo trình gọi đó là **phân ly kép** [S11]. Giới hạn: tổn thương mỗi người một khác và hiếm khi gọn trong một vùng [S11].",
+      "bullets": [
+        "Mạnh: cho biết vùng nào cần cho việc gì",
+        "Yếu: tổn thương không gọn, khó khái quát",
+        "Chi tiết và tranh cãi về Gage: xem L04"
+      ],
+      "notes": "Phân ly kép nghĩa là tổn thương chỗ A làm hỏng việc X mà không hỏng việc Y, còn tổn thương chỗ B thì ngược lại. Đó là bằng chứng mạnh cho định vị chức năng. Giáo trình chỉ ra hai giới hạn: tổn thương ở mỗi bệnh nhân là duy nhất nên khó khái quát sang người khác, và hiếm khi chỉ nằm trong một vùng nên khó tách vai trò từng cấu trúc. Vì không thể gây tổn thương có kiểm soát trên người, các nhà nghiên cứu dùng động vật thí nghiệm. Câu chuyện Gage có phần còn tranh cãi; L04 bàn kỹ, cùng với Broca và Wernicke."
+    },
+    {
+      "title": "Ảnh màu không phải bằng chứng nhân quả",
+      "section": "Nhìn vào não sống: các cách chụp não",
+      "sources": [
+        "S11",
+        "S12"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "dark",
+      "bullets": [
+        "fMRI đo nồng độ hemoglobin mang oxy, không đo trực tiếp xung thần kinh",
+        "Dữ liệu tương quan: cần ghép với bằng chứng nhân quả, ví dụ thí nghiệm trên động vật",
+        "Logothetis (2008): nhiều kết luận bỏ qua giới hạn của phương pháp"
+      ],
+      "notes": "Giáo trình nói rõ: hình fMRI đẹp và thuyết phục, nhưng chúng là tương quan, không giải thích đầy đủ vai trò nhân quả của một vùng. Vì vậy cần bằng chứng hội tụ, chẳng hạn dữ liệu fMRI cộng với thí nghiệm nhân quả trên động vật. Nikos Logothetis, trong bài tổng quan trên Nature năm 2008, cũng cho rằng nhiều kết luận rút ra từ fMRI bỏ qua giới hạn thật của phương pháp, vì tín hiệu đo được là tín hiệu huyết động. Mang ý này sang các mục sau: khi đọc vùng X làm Y, hãy hỏi bằng chứng đến từ bệnh nhân, động vật hay ảnh chụp."
+    },
+    {
+      "title": "Thân não: thân cây của não",
+      "section": "Thân não: hành não, cầu não, não giữa",
+      "sources": [
+        "S1",
+        "S10"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "**Thân não** (brainstem) gồm, từ dưới lên, **hành não** (medulla oblongata) nối liền tủy sống, **cầu não** (pons) và **não giữa** (midbrain) [S1]. Nó chứa nhiều bó chất trắng mang tin lên xuống giữa tủy sống, dây thần kinh sọ và phần còn lại của não, và lo những chức năng giữ ta sống như thở, nhịp tim, tiêu hóa [S1]. Phần lớn nhân của dây thần kinh sọ nằm ở đây [S10]. Bệnh nhân tổn thương thân não nặng thường phải dùng máy hỗ trợ sự sống [S1].",
+      "bullets": [
+        "Ở đâu: đáy não, nối với tủy sống",
+        "Làm gì: thở, nhịp tim, đường dẫn truyền",
+        "Đừng hiểu nhầm: không chỉ là đường dây đi qua"
+      ],
+      "notes": "Giáo trình gọi thân não là thân cây của não. Mức chắc chắn: giáo khoa. Ba vai trò lớn: thứ nhất, đường đi của các bó dẫn truyền lên xuống; thứ hai, nơi có phần lớn nhân của dây thần kinh sọ; thứ ba, các chức năng sống còn. Purves và cộng sự thêm rằng các bó này chuyển tin cảm giác từ tủy sống lên não giữa và não trước, và chuyển lệnh vận động xuống. Chỗ dễ nhầm: vì thân não nhỏ và nằm sâu, người ta hay nghĩ nó chỉ là cuống nối. Ba thẻ hồ sơ tiếp theo, cùng một khung sáu mục, cho thấy mỗi phần có nhân riêng, việc riêng."
+    },
+    {
+      "title": "Thân não nhìn từ bên cạnh",
+      "section": "Thân não: hành não, cầu não, não giữa",
       "sources": [
         "S1"
       ],
       "layout": "figure",
       "tone": "dark",
+      "bullets": [
+        "Midbrain: não giữa",
+        "Pons: cầu não",
+        "Medulla: hành não"
+      ],
       "images": [
         {
-          "file": "images/he-vien.jpeg",
-          "alt": "Mặt cắt giữa não với các cấu trúc của hệ viền",
-          "credit": "OpenStax Biology 2e qua Wikimedia Commons, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 19",
+          "file": "images/than-nao.png",
+          "alt": "Thân não nhìn từ bên cạnh: não giữa, cầu não, hành não",
+          "credit": "BruceBlaus (Blausen.com) qua Wikimedia; giấy phép theo sách CC BY-NC-SA (bản trên Wikimedia: CC BY 3.0); Hove & Martinez, Hình 24 (chương 2.6)",
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
         }
-      ]
+      ],
+      "notes": "Hình cho thấy thân não nhìn nghiêng từ bên ngoài, từ trên xuống: não giữa, cầu não, rồi hành não nối liền tủy sống. Ô nhỏ ở góc là hình đầu cắt dọc giữa cho biết thân não nằm ở đâu. Nhãn trong hình bằng tiếng Anh; phần tiếng Việt là cách gọi trong bài. Hành não còn được gọi là hành tủy. Nhớ quy ước ở slide Vì sao lưng có hai nghĩa: ở thân não, phía lưng là phía gáy. Ba slide hồ sơ tiếp theo dùng cùng sáu mục: ở đâu, gồm gì, vai trò và bằng chứng, kết nối, chất dẫn truyền, khi tổn thương; mục đừng hiểu nhầm của cả ba nằm ở slide cuối của mục."
     },
     {
-      "title": "Bốn thùy của vỏ não",
-      "section": "Vỏ não và bốn thùy",
+      "title": "Hành não (medulla)",
+      "section": "Thân não: hành não, cầu não, não giữa",
       "sources": [
         "S1",
-        "S3"
+        "S4",
+        "S8",
+        "S10",
+        "S13"
       ],
-      "bullets": [
-        "Trán (phía trước): kế hoạch, quyết định",
-        "Đỉnh (trên, sau trán): cảm giác cơ thể, không gian",
-        "Thái dương (hai bên): nghe, ngôn ngữ, trí nhớ",
-        "Chẩm (sau đầu): xử lý hình ảnh"
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Phần thấp nhất của thân não, nối liền tủy sống [S1]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Đường dây nối não với tủy sống, nhân dây thần kinh sọ, nhân vận động lưng của dây phế vị [S8] [S10]"
+        },
+        {
+          "label": "Vai trò và bằng chứng",
+          "text": "Thở, tiêu hóa, tim mạch, nuốt, hắt hơi [S1] [S4]; bằng chứng chủ yếu lâm sàng [S1]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Xuống tủy sống; qua dây phế vị đến tim, phổi, ruột [S8]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Chưa có nguồn trong bài nêu chất chính; có nhóm nơron chứa adrenaline, chức năng chưa rõ [S13]"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Chưa có nguồn trong bài mô tả riêng; tổn thương thân não nặng đe dọa tính mạng [S1]"
+        }
       ],
-      "notes": "Mỗi bán cầu có đủ bốn thùy. Thùy trán và hai bán cầu có bài riêng (L04).",
-      "layout": "card-grid",
-      "tone": "dark"
+      "notes": "Thẻ hồ sơ hành não. Bằng chứng cho vai trò sống còn chủ yếu là lâm sàng: tổn thương thân não nặng đe dọa tính mạng, bệnh nhân thường cần máy hỗ trợ sự sống. Bài chưa có nguồn mô tả riêng hội chứng tổn thương của hành não, nên thẻ không thêm chi tiết. Về chất dẫn truyền, bài không gán cho hành não một chất chính; Purves chỉ ghi có hai nhóm nơron chứa adrenaline ở phần phía đầu của hành não và chức năng của chúng chưa rõ. Chỗ dễ nhầm về hành não, cùng với cầu não và não giữa, được gom ở slide Ba điều dễ nhầm ở cuối mục.",
+      "bullets": []
     },
     {
-      "title": "Bốn thùy trên một hình",
-      "bullets": [
-        "Frontal: thùy trán",
-        "Parietal: thùy đỉnh",
-        "Temporal: thùy thái dương",
-        "Occipital: thùy chẩm"
+      "title": "Cầu não: đường từ vỏ não sang tiểu não",
+      "section": "Thân não: hành não, cầu não, não giữa",
+      "sources": [
+        "S14"
       ],
-      "notes": "Rãnh trung tâm ngăn thùy trán với thùy đỉnh.",
-      "section": "Vỏ não và bốn thùy",
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Gần như mọi vùng vỏ não",
+        "Nhân cầu não ở phần nền cầu não",
+        "Cuống tiểu não giữa: hơn 20 triệu sợi trục mỗi bên",
+        "Tiểu não"
+      ],
+      "notes": "Đây là điểm nổi bật nhất của cầu não. Theo Purves và cộng sự, các nhân cầu não nhận tin từ gần như mọi vùng vỏ não, rồi gửi sợi trục băng qua đường giữa, đi vào tiểu não qua cuống tiểu não giữa. Mỗi cuống chứa hơn 20 triệu sợi trục, trong khi dây thị giác hay bó tháp chỉ khoảng một triệu, nên đây là một trong những đường lớn nhất của não. Phần lớn sợi này chuyển tin từ vỏ não sang tiểu não. Vì vậy tên cầu rất hợp: cầu não nối vỏ não với tiểu não, và theo giáo trình cũng nối vỏ não với hành não."
+    },
+    {
+      "title": "Cầu não (pons)",
+      "section": "Thân não: hành não, cầu não, não giữa",
+      "sources": [
+        "S1",
+        "S4",
+        "S13",
+        "S14",
+        "S15"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Giữa hành não và não giữa; cầu nối vỏ não với hành não [S1]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Nhân cầu não [S14], hệ lưới cầu não [S15], vùng raphe chứa serotonin [S13]"
+        },
+        {
+          "label": "Vai trò và bằng chứng",
+          "text": "Chuyển tiếp tin cảm giác, vận động [S1]; ảnh hưởng thở, tư thế [S4]; cử động mắt khi ngủ REM [S15]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Vỏ não sang tiểu não qua cuống tiểu não giữa [S14]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Serotonin từ vùng raphe [S13]; acetylcholine ở chỗ nối với não giữa [S15]"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Chưa có nguồn trong bài mô tả riêng; tổn thương thân não nặng đe dọa tính mạng [S1]"
+        }
+      ],
+      "notes": "Thẻ hồ sơ cầu não. Hệ lưới cầu não là một phần của hệ lưới, mạng nơron trải dọc lõi thân não mà mục sau sẽ nói. Trong giấc ngủ REM, tức giai đoạn ngủ có cử động mắt nhanh, hệ lưới cầu não phát các tín hiệu gây cử động mắt nhanh và các sóng điện lan qua đồi thị lên vỏ chẩm, theo Purves và cộng sự. Mục sau sẽ nói về vùng raphe và nhóm nhân cholinergic, tức nhóm dùng acetylcholine, gần chỗ nối cầu não với não giữa. Về khi tổn thương, bài chưa có nguồn mô tả riêng cho cầu não, nên thẻ không thêm chi tiết.",
+      "bullets": []
+    },
+    {
+      "title": "Não giữa: các đường đi ra",
+      "section": "Thân não: hành não, cầu não, não giữa",
+      "sources": [
+        "S1",
+        "S4",
+        "S8",
+        "S13"
+      ],
+      "layout": "connection-diagram",
+      "tone": "dark",
+      "bullets": [
+        "Chất đen: dopamine đến thể vân",
+        "VTA: dopamine đến nhân accumbens",
+        "Gò trên, gò dưới: chuyển tin nhìn và nghe",
+        "Edinger-Westphal: đồng tử"
+      ],
+      "notes": "Sơ đồ gom các đường đi ra từ não giữa. Theo Purves, chất đen gửi sợi dopamine đến thể vân; hình 6.12 của Purves vẽ chất đen và vùng mái bụng (VTA) cùng là nơi xuất phát các đường dopamine. Brain Facts mô tả đường từ VTA đến nhân accumbens, một nhân thuộc hạch nền mà L07 sẽ nói kỹ, gọi là đường trung não-viền. Gò trên và gò dưới xử lý và chuyển tiếp tin thị giác và thính giác, theo giáo trình. Nhân Edinger-Westphal là phần đối giao cảm ở não giữa, điều chỉnh đường kính đồng tử theo ánh sáng. L00 đã nhắc dopamine do hai vùng nhỏ của não giữa tạo ra: đó là chất đen và VTA."
+    },
+    {
+      "title": "Não giữa (midbrain)",
+      "section": "Thân não: hành não, cầu não, não giữa",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S8",
+        "S13"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Phần trên cùng của thân não [S1], nằm dưới đồi thị [S4]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Gò trên, gò dưới [S1]; chất đen, vùng mái bụng [S13]; nhân Edinger-Westphal [S8]"
+        },
+        {
+          "label": "Vai trò và bằng chứng",
+          "text": "Tế bào sản xuất dopamine, điều hòa vận động [S1]; phản xạ, cử động mắt [S3]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Chất đen đến thể vân [S13]; VTA đến nhân accumbens [S4]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Dopamine [S1] [S13]"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Bệnh Parkinson: nơron dopamine của chất đen thoái hóa, gây rối loạn vận động [S13]"
+        }
+      ],
+      "notes": "Thẻ hồ sơ não giữa. Bằng chứng rõ nhất về vai trò dopamine của não giữa là bệnh Parkinson: Purves và cộng sự viết rằng các nơron dopamine của chất đen thoái hóa, dẫn đến rối loạn vận động đặc trưng; Brain Facts mô tả các triệu chứng như run và cứng. Brain Facts cũng nêu não giữa điều phối chớp mắt, điều tiết mắt và phản xạ với tiếng động lớn như cú giật mình. Đồi thị, nằm ngay trên não giữa, là trạm trung chuyển tin giác quan lên vỏ; xem L07. Thuốc điều trị thuộc phạm vi L03. Suy luận của người viết: ba thẻ cho thấy thân não có việc tại chỗ và việc phát sóng lên toàn não; mục sau nói về việc thứ hai.",
+      "bullets": []
+    },
+    {
+      "title": "Ba điều dễ nhầm về thân não",
+      "section": "Thân não: hành não, cầu não, não giữa",
+      "sources": [
+        "S1",
+        "S4",
+        "S14",
+        "S15"
+      ],
+      "layout": "numbered-rows",
+      "tone": "dark",
+      "bullets": [
+        "Hành não không phải nơi duy nhất liên quan đến thở: cầu não cũng ảnh hưởng",
+        "Cầu não không chỉ là đoạn dây nối: có nhân riêng cho giấc ngủ, sự tỉnh táo",
+        "Tên \"não giữa\" đến từ ba túi não phôi thai; dopamine không phải \"chất hạnh phúc\""
+      ],
+      "notes": "Mục đừng hiểu nhầm của ba thẻ hồ sơ, mỗi phần một ý. Thứ nhất, giáo trình gán thở cho hành não, còn Brain Facts mô tả cầu não cũng ảnh hưởng đến thở. Thứ hai, theo Purves, cầu não có các nhân cầu não chuyển tin từ vỏ não sang tiểu não và hệ lưới cầu não tham gia giấc ngủ REM. Thứ ba, tên não giữa đến từ ba túi não của phôi thai: não trước, não giữa, não sau. Dopamine liên quan đến vận động, động lực và học từ phần thưởng; L00 và L03 bàn kỹ vì sao gọi nó là chất hạnh phúc là sai. Hành não và hành tủy là hai tên của cùng một phần."
+    },
+    {
+      "title": "Các nhóm nhân ở thân não và nơi sợi tỏa đến",
+      "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
+      "sources": [
+        "S4",
+        "S13",
+        "S15"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Nhân raphe: serotonin; lan rộng lên não trước",
+        "Locus coeruleus (vùng cầu não): noradrenaline; nhiều đích ở não trước",
+        "Chất đen và VTA (não giữa): dopamine; thể vân, nhân accumbens",
+        "Nhân cholinergic: acetylcholine; đến đồi thị"
+      ],
+      "notes": "Mục này chỉ trả lời hai câu hỏi: ở đâu và tỏa đi đâu; hồ sơ từng chất thuộc L03. Purves và cộng sự xếp dopamine, noradrenaline, serotonin vào nhóm amin sinh học. Theo Purves, serotonin nằm trong các nhóm nơron ở vùng raphe của cầu não và phần trên thân não, chiếu rộng lên não trước. Noradrenaline là chất của locus coeruleus, chiếu lan tỏa đến nhiều đích ở não trước. Chất đen gửi dopamine đến thể vân; Brain Facts mô tả đường từ VTA đến nhân accumbens. Nhóm nhân cholinergic gần chỗ nối cầu não với não giữa chiếu đến các nơron đồi thị nối với vỏ não."
+    },
+    {
+      "title": "Locus coeruleus: hồ sơ ngắn",
+      "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
+      "sources": [
+        "S13"
+      ],
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Một nhân ở thân não; hình 6.12 của Purves vẽ ở vùng cầu não [S13]"
+        },
+        {
+          "label": "Chất",
+          "text": "Noradrenaline (norepinephrine); cũng là chất của nơron hậu hạch giao cảm [S13]"
+        },
+        {
+          "label": "Tỏa đi đâu",
+          "text": "Lan tỏa đến nhiều đích ở não trước; hình vẽ cả tiểu não, tủy sống [S13]"
+        },
+        {
+          "label": "Liên quan đến",
+          "text": "Ngủ và thức, chú ý, hành vi ăn [S13]; vai trò của chất: xem L03"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Liên quan đến chú ý không có nghĩa nó \"là\" sự chú ý; xem L05"
+        }
+      ],
+      "notes": "Locus coeruleus là một từ khóa của bài vì nó cho thấy rõ kiểu tổ chức phát sóng: một nhân ở thân não, sợi trục chiếu lan tỏa lên não trước. Hình 6.12 của Purves đặt nó ở vùng cầu não, với mũi tên tỏa lên vỏ não, xuống tiểu não và tủy sống. Purves và cộng sự viết rằng nó ảnh hưởng đến giấc ngủ và sự tỉnh táo, sự chú ý và hành vi ăn. Noradrenaline cũng được nơron hậu hạch giao cảm giải phóng ở cơ quan đích (còn trong hạch giao cảm là acetylcholine), nên tên chất này xuất hiện ở cả mục hệ tự chủ. Hồ sơ đầy đủ của noradrenaline, thụ thể và thuốc thuộc L03; sự chú ý thuộc L05.",
+      "bullets": []
+    },
+    {
+      "title": "Hệ lưới hoạt hóa và sự tỉnh táo",
+      "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
+      "sources": [
+        "S4",
+        "S15"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Năm 1949, Magoun và Moruzzi kích thích điện một nhóm nơron cholinergic gần chỗ nối cầu não và não giữa, và con mèo đang ngủ thức dậy (bằng chứng ở động vật); vùng này được gọi là **hệ lưới hoạt hóa** (reticular activating system) [S15]. Các nhân này phóng xung nhanh khi thức và khi ngủ REM, gần như im lặng khi ngủ không REM. Nhưng chúng không phải nền tảng duy nhất của sự thức: nơron của **locus coeruleus** và nhân raphe cũng tham gia [S15].",
+      "bullets": [
+        "Ở đâu: chỗ nối cầu não và não giữa",
+        "Làm gì: góp phần giữ ta thức",
+        "Đừng hiểu nhầm: không có một công tắc thức duy nhất"
+      ],
+      "notes": "Hệ lưới là mạng nơron trải dọc lõi thân não. Thí nghiệm năm 1949 gợi ý rằng sự thức cần một cơ chế riêng, không chỉ là có đủ kích thích từ giác quan. Brain Facts tóm lại: nhiều hệ thức tỉnh nằm ở phần trên thân não, dùng acetylcholine, noradrenaline, serotonin để nối với não trước, và hệ lưới hoạt hóa còn điều khiển hệ tự chủ như nhịp tim, nhịp thở. Cả mạng này bị một nhóm nơron ở vùng dưới đồi tên là VLPO ức chế theo chu kỳ; tổn thương VLPO gây mất ngủ, theo Purves. Vùng dưới đồi thuộc L07; ở đây chỉ cần biết thân não không tự quyết định giấc ngủ."
+    },
+    {
+      "title": "Ba trạng thái, hai hệ nhân",
+      "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
+      "sources": [
+        "S15"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Thức: hệ cholinergic và hệ noradrenaline, serotonin cùng hoạt động",
+        "Ngủ không REM: cả hai hệ giảm hoạt động",
+        "Ngủ REM: cholinergic tăng lại gần mức khi thức; noradrenaline, serotonin giảm rõ"
+      ],
+      "notes": "Bảng tóm tắt theo Purves và cộng sự, mục về mạch thần kinh điều khiển giấc ngủ. Hệ thứ hai ở đây là noradrenaline của locus coeruleus và serotonin của nhân raphe. Khi thức, cả hai hệ đều hoạt động. Khi hoạt động của cả hai giảm, giấc ngủ không REM bắt đầu. Trong REM, hệ cholinergic tăng trở lại gần mức khi thức, trong khi noradrenaline và serotonin giảm rõ. Suy luận của người viết: vì vài nhóm nhân chiếu lên rất nhiều vùng, một chất tác động lên một hệ có thể ảnh hưởng cùng lúc đến giấc ngủ, sự chú ý và hành vi ăn. Thuốc cụ thể thuộc L03."
+    },
+    {
+      "title": "Không phải mọi hệ giữ thức đều ở thân não",
+      "section": "Thân não: nơi xuất phát của các chất dẫn truyền",
+      "sources": [
+        "S1",
+        "S13",
+        "S15"
+      ],
+      "layout": "card-grid",
+      "tone": "light",
+      "bullets": [
+        "Thức cần nhiều hệ: cholinergic, noradrenaline, serotonin",
+        "Histamine cũng góp phần, nhưng nơron nằm ở vùng dưới đồi",
+        "Đồi thị góp phần chuyển giữa ngủ và thức",
+        "Bằng chứng ở động vật: kích thích đồi thị gây ngủ sóng chậm"
+      ],
+      "notes": "Bốn ý chống hiểu lầm cho mục này. Purves và cộng sự viết rõ: hoạt động của các nhân cholinergic không phải nền tảng tế bào duy nhất của sự thức. Purves cũng ghi các nơron histamine nằm ở vùng dưới đồi và góp phần vào sự tỉnh táo. Giáo trình nói đồi thị, vì là trạm trung chuyển tin giác quan, góp phần chuyển giữa ngủ và thức. Purves kể thí nghiệm của Hess: kích thích đồi thị bằng xung tần số thấp làm con vật đang thức chuyển sang ngủ sóng chậm; đây là bằng chứng ở động vật. Vùng dưới đồi và đồi thị có thẻ hồ sơ ở L07."
+    },
+    {
+      "title": "Tiểu não và cây sống",
+      "section": "Tiểu não (cerebellum)",
+      "sources": [
+        "S1",
+        "S14"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "**Tiểu não** (cerebellum, tiếng Latin là \"não nhỏ\") nằm ở phía sau não. Mặt ngoài gấp nếp rất dày; cắt dọc ở giữa sẽ thấy chất trắng phân nhánh như cành cây, gọi là **cây sống** (arbor vitae) [S1]. Nó nối với thân não qua ba cuống tiểu não [S14].",
+      "bullets": [
+        "Phần trắng phân nhánh: cây sống",
+        "Khối phía sau, dưới: tiểu não"
+      ],
+      "images": [
+        {
+          "file": "images/cay-song-tieu-nao.png",
+          "alt": "Mặt cắt giữa đầu: tiểu não với cây sống màu trắng",
+          "credit": "Wikipedia, CC BY-SA, khung tĩnh trích từ ảnh động; Hove & Martinez, Hình 23 (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình là một khung tĩnh trích từ ảnh động của giáo trình, mặt cắt đứng dọc giữa. Tiểu não là khối ở phía sau dưới; phần trắng phân nhánh bên trong là chất trắng, gọi là cây sống vì giống tán cây. Lớp ngoài là vỏ tiểu não, gấp nếp rất dày. Hãy để ý vị trí: tiểu não nằm sau thân não và dưới thùy chẩm, nối với thân não qua ba cuống tiểu não; slide Cầu não: đường từ vỏ não sang tiểu não đã cho thấy cuống giữa. Chỗ dễ nhầm: tên não nhỏ chỉ nói về kích thước nhìn bên ngoài; slide Hơn một nửa số nơron cho thấy tiểu não lại chứa phần lớn số nơron."
+    },
+    {
+      "title": "Tiểu não: thẻ hồ sơ",
+      "section": "Tiểu não (cerebellum)",
+      "sources": [
+        "S1",
+        "S4",
+        "S14"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Phía sau não, giữa đại não và thân não [S1]; nối qua ba cuống tiểu não [S14]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Hai bán cầu, vỏ tiểu não, các nhân sâu [S4] [S14]; ba phần: tiền đình, tủy, đại não [S14]"
+        },
+        {
+          "label": "Vai trò và bằng chứng",
+          "text": "Không khởi phát lệnh; làm cử động chính xác, đúng lúc, và học vận động [S1] [S14]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Nhận từ vỏ não, nhân tiền đình, tủy sống; gửi qua nhân sâu đến nơron vận động trên [S14]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Chưa có nguồn trong bài nêu tên; tế bào Purkinje ức chế, nhân sâu kích thích [S14]"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Cử động giật cục, thiếu chính xác (thất điều), ở cùng bên tổn thương [S14]"
+        }
+      ],
+      "notes": "Thẻ hồ sơ tiểu não, cùng sáu mục như ba thẻ thân não. Ba phần theo nơi gửi tin đến, theo Purves và cộng sự: tiểu não tiền đình nhận tin từ các nhân tiền đình, lo tư thế và thăng bằng; tiểu não tủy nhận tin trực tiếp từ tủy sống, gồm cả thùy giun ở giữa, lo cử động thân mình và chân tay; tiểu não đại não nhận tin từ vỏ đại não, phần lớn nhất ở người, lo chuỗi cử động khéo léo, kể cả lời nói. Nơron vận động trên là nơron ở vỏ não và thân não phát lệnh vận động xuống. Mục đừng hiểu nhầm: tiểu não không ra lệnh, nó sửa lệnh; vai trò ngoài vận động ở slide cuối mục.",
+      "bullets": []
+    },
+    {
+      "title": "Hơn một nửa số nơron nằm ở tiểu não",
+      "section": "Tiểu não (cerebellum)",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "layout": "one-big-number",
+      "tone": "dark",
+      "bullets": [
+        "Hơn một nửa (Brain Facts) đến khoảng 80% (giáo trình): các nguồn khác nhau",
+        "Vỏ đại não: 82% khối lượng nhưng chỉ khoảng 19% số nơron (Azevedo)"
+      ],
+      "notes": "Các nguồn cho con số khác nhau. Giáo trình Hove và Martinez ghi khoảng 80%, phần lớn là tế bào hạt nhỏ và xếp dày. Brain Facts nói thận trọng hơn: tiểu não chứa hơn một nửa số nơron. Nghiên cứu đếm nơron của Azevedo và cộng sự năm 2009 trên não nam giới trưởng thành cho thấy chỉ khoảng 19% nơron nằm ở vỏ đại não, dù vỏ đại não chiếm 82% khối lượng não. Ba nguồn nhất quán ở ý chính: phần lớn nơron không nằm ở vỏ đại não. Chỗ dễ nhầm: nhiều nơron không có nghĩa là quan trọng hơn hay thông minh hơn."
+    },
+    {
+      "title": "Vòng sửa lỗi của tiểu não",
+      "section": "Tiểu não (cerebellum)",
+      "sources": [
+        "S14"
+      ],
+      "layout": "flow",
+      "tone": "light",
+      "bullets": [
+        "Vỏ não gửi lệnh cử động dự định",
+        "Giác quan báo cử động thực tế",
+        "Tiểu não so hai bên, tìm lỗi vận động",
+        "Nhân sâu gửi tín hiệu sửa đến nơron vận động"
+      ],
+      "notes": "Theo Purves và cộng sự, chức năng chính của tiểu não là phát hiện lỗi vận động, tức độ chênh giữa cử động dự định và cử động thực tế, rồi giảm lỗi đó. Việc sửa diễn ra ngay trong lúc cử động, hoặc được lưu lại thành học vận động. Hai thí nghiệm minh họa: khỉ bị làm yếu một cơ mắt lúc đầu liếc hụt, sau vài ngày liếc chính xác trở lại, nhưng tổn thương thùy giun làm mất khả năng tự chỉnh đó; đây là bằng chứng ở động vật. Người và khỉ đeo kính phóng to hay thu nhỏ dần chỉnh lại phản xạ giữ mắt ổn định khi quay đầu. Ví dụ của người viết: tập ném bóng rổ, lần sau tự chỉnh."
+    },
+    {
+      "title": "Tổn thương ở đâu, vụng về kiểu gì",
+      "section": "Tiểu não (cerebellum)",
+      "sources": [
+        "S4",
+        "S14"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Tiền đình: khó đứng thẳng, khó giữ hướng nhìn, rung giật nhãn cầu",
+        "Tủy: dáng đi dạng rộng, với quá hoặc thiếu, run khi cử động",
+        "Đại não: khó làm chuỗi cử động khéo đã học, như chơi nhạc cụ",
+        "Chung: lỗi ở cùng bên với tổn thương"
+      ],
+      "notes": "Purves và cộng sự mô tả: bệnh nhân tổn thương tiểu não, dù nguyên nhân hay vị trí nào, đều mắc lỗi cử động kéo dài, và lỗi luôn ở cùng bên cơ thể với tổn thương. Tiểu não khác thường ở chỗ biểu diễn cơ thể cùng bên chứ không đối bên. Một ví dụ lâm sàng: nghiện rượu lâu năm có thể làm thoái hóa phần trước vỏ tiểu não, gây dáng đi loạng choạng, trong khi tay ít bị ảnh hưởng. Brain Facts thêm rằng bệnh nhân có thể không chạm chính xác ngón tay lên mũi và có thể khó nói. Điểm chung của mọi dấu hiệu là mất khả năng làm cử động trơn tru, có hướng."
+    },
+    {
+      "title": "Ngoài vận động: một ý đã được xem lại",
+      "section": "Tiểu não (cerebellum)",
+      "sources": [
+        "S1",
+        "S16",
+        "S17"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Giáo trình nêu như điều đã biết rằng **tiểu não** tham gia cả ngôn ngữ và chú ý [S1]. Buckner (2013) kể rằng khi những nghiên cứu hình ảnh đầu tiên thấy tiểu não phản ứng trong nhiệm vụ không cần vận động, đó là quan sát gây tranh cãi; các phát hiện lặp lại sau đó dẫn đến việc xem lại mô hình cũ [S16]. Schmahmann và Sherman (1998) khám 20 bệnh nhân và mô tả **hội chứng nhận thức cảm xúc tiểu não** [S17].",
+      "bullets": [
+        "Mức chắc chắn: nhiều bằng chứng, từng gây tranh cãi",
+        "Bằng chứng: ảnh chụp, giải phẫu, bệnh nhân",
+        "Suy luận của người viết: chưa phải trung tâm ngôn ngữ"
+      ],
+      "notes": "Theo Buckner, phần lớn tiểu não người ánh xạ có trật tự với các mạng liên hợp của đại não, tức các mạng vỏ não không thuần cảm giác hay vận động. Schmahmann và Sherman thấy người tổn thương thùy sau và thùy giun có thay đổi về chức năng điều hành như lập kế hoạch và trí nhớ làm việc, nhận thức không gian, tính cách và ngôn ngữ; tổn thương thùy trước chỉ gây thay đổi nhỏ. Suy luận của người viết: điều chưa thể nói là tiểu não là trung tâm của ngôn ngữ hay cảm xúc, và một nghiên cứu 20 bệnh nhân là mẫu nhỏ. Mục đừng hiểu nhầm của thẻ tiểu não nằm ở đây."
+    },
+    {
+      "title": "Các nhân nằm sâu: chỉ đường sang L07",
+      "section": "Tầng trên: các nhân nằm sâu và vỏ não",
+      "sources": [
+        "S1"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Hệ viền: hải mã, hạnh nhân, vỏ đai; trí nhớ, cảm xúc, động lực",
+        "Hạch nền: chọn và điều hòa cử động có chủ ý, cùng chất đen",
+        "Đồi thị: chuyển tin mọi giác quan trừ khứu giác lên vỏ",
+        "Vùng dưới đồi: điều hòa hormone cùng tuyến yên"
+      ],
+      "notes": "Mục này chỉ để biết vị trí trên bản đồ; mỗi cấu trúc có thẻ hồ sơ đầy đủ ở L07. Hệ viền nằm ở đỉnh thân não, tham gia trí nhớ, cảm xúc, động lực và khứu giác; giáo trình nhắc rằng danh sách thành phần của hệ viền đã được định nghĩa lại nhiều lần. Hạch nền làm việc cùng chất đen của não giữa, nên nối với mục thân não. Đồi thị là trạm trung chuyển: mọi giác quan trừ khứu giác có một nhân ở đồi thị chuyển tin lên vỏ. Vùng dưới đồi điều hòa hormone cùng tuyến yên. Chỗ dễ nhầm: danh sách hệ viền khác nhau giữa các sách."
+    },
+    {
+      "title": "Hệ viền nhìn từ giữa não",
+      "section": "Tầng trên: các nhân nằm sâu và vỏ não",
       "sources": [
         "S1"
       ],
       "layout": "figure",
       "tone": "light",
+      "bullets": [
+        "Amygdala: hạnh nhân",
+        "Hippocampus: hải mã",
+        "Cingulate gyrus: hồi đai (thuộc vỏ đai)"
+      ],
+      "images": [
+        {
+          "file": "images/he-vien.jpeg",
+          "alt": "Mặt cắt giữa não với các cấu trúc của hệ viền",
+          "credit": "Wikimedia, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 19 (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Đây là mặt cắt đứng dọc giữa, đúng loại đã học ở mục hướng và mặt cắt. Hình cho thấy hồi đai, phần nhìn thấy được của vỏ đai, cùng đồi thị, vùng dưới đồi với tuyến yên bên dưới, hạnh nhân và hải mã. Hãy để ý đồi thị và vùng dưới đồi nằm ngay trên thân não; đó là lý do giáo trình nói hệ viền nằm ở đỉnh thân não. Chức năng của từng cấu trúc nằm ở L07; ở đây chỉ cần biết vị trí. Chỗ dễ nhầm: hình phẳng làm nhiều cấu trúc trông như nằm ngay đường giữa; L07 sẽ chỉ rõ vị trí thật của từng cái."
+    },
+    {
+      "title": "Vỏ não: bốn thùy và thùy đảo",
+      "section": "Tầng trên: các nhân nằm sâu và vỏ não",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "**Vỏ não** là tấm nơron mỏng 2–4 mm, phần lớn có 6 lớp, rộng khoảng 1.800 cm², gấp nếp để vừa hộp sọ [S1]. Các rãnh lớn chia nó thành bốn thùy trán, đỉnh, thái dương, chẩm [S1] [S3]; thùy đảo nằm sâu trong rãnh bên [S1]. Vỏ đại não chiếm 82% khối lượng não [S2].",
+      "bullets": [
+        "Frontal: thùy trán (L04)",
+        "Parietal, temporal, occipital: L08",
+        "Insula (không thấy ở đây): L07"
+      ],
       "images": [
         {
           "file": "images/bon-thuy.jpeg",
           "alt": "Bốn thùy của vỏ não nhìn từ bên cạnh",
-          "credit": "OpenStax Anatomy & Physiology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 12",
+          "credit": "OpenStax Anatomy & Physiology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 12 (chương 2.6)",
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
         }
-      ]
-    },
-    {
-      "title": "Một việc nhỏ dùng nhiều vùng",
-      "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
-      "sources": [],
-      "bullets": [
-        "Nghe tiếng gọi: thùy thái dương",
-        "Cân nhắc có trả lời: thùy trán",
-        "Phát lệnh nói: vùng vận động"
       ],
-      "notes": "Ví dụ do người viết đặt ra, đã đơn giản hóa nhiều, không phải mô tả đầy đủ từng bước.",
-      "layout": "flow",
-      "tone": "light"
+      "notes": "Ranh giới giữa các thùy là các rãnh lớn; theo giáo trình, rãnh trung tâm ngăn thùy trán với thùy đỉnh. Thùy đảo nằm sâu trong rãnh bên nên không thấy trong hình nhìn ngoài; giáo trình nói nó đôi khi được coi là thùy thứ năm. Chỉ đường: thùy trán và hai bán cầu ở L04, các thùy thái dương, đỉnh, chẩm ở L08, thùy đảo ở L07. Nhắc lại con số của Azevedo: vỏ đại não lớn về khối lượng nhưng chỉ chứa khoảng 19% số nơron. Chỗ dễ nhầm: thùy là cách chia theo giải phẫu, không phải mỗi thùy một chức năng."
     },
     {
-      "title": "Một vùng quan trọng, không phải duy nhất",
+      "title": "Định vị chức năng có thật, nhưng có giới hạn",
       "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
       "sources": [
         "S1",
-        "S4"
+        "S4",
+        "S11"
       ],
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Các ca của Broca và Wernicke cho thấy tổn thương ở chỗ cụ thể gắn với khiếm khuyết cụ thể, gọi là **định vị chức năng** (localization of function) [S11]. Nhưng tổn thương ở người hiếm khi gọn trong một vùng [S11], và hai bán cầu thường có chức năng chồng lấn, dự phòng cho nhau [S1]. Đồi thị vừa chuyển tin lên vỏ vừa nhận tin từ vỏ xuống, nên luồng \"đầu vào, tính toán, đầu ra\" không đi một chiều [S1].",
       "bullets": [
-        "Chức năng là kết quả của cả mạng lưới",
-        "\"X làm Y\" nghĩa là X quan trọng cho Y"
+        "Giáo khoa: có vùng chuyên về một số việc",
+        "Nhưng: não làm việc theo vòng và mạng",
+        "Đừng hiểu nhầm: vùng X không làm Y một mình"
       ],
-      "notes": "Bản đồ là cách học, không mô tả hoàn toàn đúng thực tế.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "notes": "Lớp bằng chứng thứ nhất và thứ hai. Mức chắc chắn: giáo khoa. Định vị chức năng có thật: Broca và Wernicke cho thấy điều đó. Nhưng giáo trình cũng dùng ví dụ vòng đồi thị-vỏ não để nói rằng đầu ra của một vùng thường quay lại các vùng cấp đầu vào cho nó. Tiểu não, như đã thấy, nằm trong một vòng lớn nối với vỏ não, thân não và tủy sống. Khi người nằm yên trong máy fMRI, các vùng cách xa nhau vẫn dao động cùng nhịp, tạo thành các mạng lớn. Brain Facts viết rằng không có vùng não nào một mình chịu trách nhiệm cho cảm giác đau và ngứa."
+    },
+    {
+      "title": "Ví dụ của người viết: nghe ai gọi tên mình",
+      "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
+      "sources": [
+        "S1",
+        "S15"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Hệ lưới thân não giữ bạn đủ tỉnh",
+        "Đồi thị chuyển tin lên vỏ thính giác",
+        "Thùy trán cân nhắc có trả lời không",
+        "Vùng vận động phát lệnh, tiểu não chỉnh cú quay"
+      ],
+      "notes": "Đây là ví dụ của người viết, đã đơn giản hóa nhiều, không phải kết quả một nghiên cứu. Ví dụ ghép các chức năng mà nguồn đã nêu ở từng mục: hệ lưới hoạt hóa góp phần giữ ta thức; đồi thị chuyển tin của giác quan lên vỏ; thùy trán tham gia ra quyết định; tiểu não làm cử động chính xác. Trình tự trên là minh họa, và các bước thật sự chồng lên nhau chứ không đi lần lượt. Giáo trình Hove và Martinez dùng một ví dụ gần giống cho nhánh thân thể: nghe gọi tên, hiểu lời, rồi quay đầu. Ý chính: một việc rất bình thường cần cả bản đồ, từ thân não lên vỏ não."
+    },
+    {
+      "title": "Đọc \"vùng X làm Y\" thế nào",
+      "section": "Đừng hiểu \"mỗi vùng một việc\" quá đà",
+      "sources": [
+        "S3",
+        "S11",
+        "S18"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Dễ sai: vùng X sáng lên, vậy đang có Y",
+        "Đúng hơn: vùng X đóng vai trò trong mạng lưới làm Y",
+        "Poldrack (2006): suy ngược không chặt chẽ, càng yếu khi vùng sáng lên trong nhiều việc"
+      ],
+      "notes": "Lớp bằng chứng thứ ba là phương pháp. Russell Poldrack phân tích kiểu suy ngược, reverse inference: từ chuyện một vùng sáng lên mà kết luận một quá trình tâm lý đang diễn ra. Ông chỉ ra rằng kiểu suy luận này không chặt chẽ về logic, giá trị của nó bị giới hạn bởi độ chọn lọc của vùng đó, và khuyên thận trọng chứ không bác bỏ hoàn toàn. Giáo trình thêm rằng các vùng cách xa nhau vẫn dao động cùng nhịp, tạo thành các mạng lớn như mạng chú ý và mạng mặc định. NINDS ví não như một nhóm chuyên gia: cùng làm việc, mỗi phần có trách nhiệm riêng."
     },
     {
       "title": "Điều cần nhớ",
       "section": "Điều cần nhớ",
       "sources": [
         "S1",
-        "S3",
-        "S4"
+        "S5",
+        "S7",
+        "S9",
+        "S11",
+        "S13",
+        "S15",
+        "S16",
+        "S18"
       ],
-      "bullets": [
-        "Trung ương là não và tủy sống",
-        "Thân não giữ sự sống, tiểu não chỉnh cử động",
-        "Cấu trúc sâu: cảm xúc, trí nhớ, nhu cầu",
-        "Vỏ não có bốn thùy, cần phối hợp"
-      ],
-      "notes": "Bốn ý chốt của bài. Nối với L00: dopamine do vùng não giữa sản xuất. Bài sau (L02) về nơron.",
       "layout": "numbered-rows",
-      "tone": "light"
+      "tone": "dark",
+      "bullets": [
+        "Trung ương và ngoại biên (thân thể, tự chủ); ba mặt cắt và các cặp hướng để đọc hình",
+        "Mỗi cách chụp não cho biết một điều; fMRI là dữ liệu tương quan",
+        "Thân não: hành não, cầu não, não giữa; sống còn và đường dẫn truyền",
+        "Nhóm nhân ở thân não tỏa chất dẫn truyền lên khắp não, góp phần giữ ta thức",
+        "Tiểu não sửa lỗi và học vận động; vai trò nhận thức có bằng chứng",
+        "Định vị chức năng có thật, nhưng não làm việc theo mạng"
+      ],
+      "notes": "Bảy ý của bài, gộp hai ý đầu thành một dòng. Ý một là công cụ: biết phần nào thuộc trung ương hay ngoại biên, và đọc được hướng, mặt cắt. Ý hai nhắc rằng mỗi cách chụp não có giới hạn. Ý ba và bốn là phần chính của bài: thân não không chỉ là đường dây, nó còn là nơi phát sóng của serotonin, noradrenaline, dopamine và acetylcholine; hồ sơ từng chất ở L03. Ý năm nhắc nhãn mức chắc chắn: vai trò vận động của tiểu não là giáo khoa, vai trò nhận thức có nhiều bằng chứng nhưng chưa phải trung tâm của việc gì. Ý sáu là tinh thần của bộ bài. Bài sau, L02, đi vào chính các nơron."
+    },
+    {
+      "title": "Hình trong bài và giấy phép",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S5",
+        "S7",
+        "S9"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Hình 2 (2.3): Wikipedia, CC0",
+        "Hình 1 (2.2), 4 và 5 (2.4): Wikimedia, OpenStax; CC BY-NC-SA theo sách",
+        "Hình 9, 12, 19 (2.6): Martinez, OpenStax, Wikimedia; CC BY-NC-SA",
+        "Hình 23 (2.6): Wikipedia, CC BY-SA; khung tĩnh từ ảnh động",
+        "Hình 24 (2.6): Blausen qua Wikimedia; sách ghi CC BY-NC-SA"
+      ],
+      "notes": "Mọi hình lấy từ giáo trình Hove và Martinez, ghi giấy phép theo mục Media Attributions của từng chương, dùng cho mục đích phi thương mại. Riêng hình thân não, bản gốc trên Wikimedia ghi CC BY 3.0. Hình tiểu não là một khung tĩnh trích từ ảnh động của giáo trình."
     },
     {
       "title": "Nguồn tham khảo",
@@ -222,17 +944,45 @@
         "S1",
         "S2",
         "S3",
-        "S4"
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
       ],
+      "layout": "references",
+      "tone": "dark",
       "bullets": [
-        "Hove & Martinez, Biological Psychology, chương 2",
-        "Azevedo và cộng sự, J Comp Neurol, 2009",
-        "NINDS, Know Your Brain",
-        "Society for Neuroscience, Brain Facts, 2018"
+        "S1: Hove & Martinez, Biological Psychology, mục 2.6 The Brain",
+        "S2: Azevedo và cộng sự 2009, J Comp Neurol",
+        "S3: NINDS, Brain Basics: Know Your Brain",
+        "S4: Society for Neuroscience, Brain Facts 2018",
+        "S5: Hove & Martinez, mục 2.3 The Nervous System",
+        "S6: Hove & Martinez, mục 2.5 The Central Nervous System",
+        "S7: Hove & Martinez, mục 2.4 The Peripheral Nervous System",
+        "S8: Purves và cộng sự, Neuroscience 2e, Ch21: Visceral Motor System",
+        "S9: Hove & Martinez, mục 2.2 Visualizing and Navigating the Human Brain",
+        "S10: Purves và cộng sự, Neuroscience 2e, Ch1: Anatomical Terminology",
+        "S11: Hove & Martinez, mục 4.2, 4.4, 4.5: phương pháp nghiên cứu",
+        "S12: Logothetis 2008, Nature: What we can do and what we cannot do with fMRI",
+        "S13: Purves và cộng sự, Neuroscience 2e, Ch6: The Biogenic Amines",
+        "S14: Purves và cộng sự, Neuroscience 2e, Ch19: Cerebellum",
+        "S15: Purves và cộng sự, Neuroscience 2e, Ch28: Neural Circuits Governing Sleep",
+        "S16: Buckner 2013, Neuron: The cerebellum and cognitive function",
+        "S17: Schmahmann & Sherman 1998, Brain: cerebellar cognitive affective syndrome",
+        "S18: Poldrack 2006, Trends Cogn Sci: reverse inference"
       ],
-      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
-      "layout": "lookup-table",
-      "tone": "dark"
+      "notes": "Giáo trình nền là Biological Psychology của Hove và Martinez, giấy phép CC BY-NC-SA 4.0; mỗi mục có đường dẫn riêng trong lesson.md."
     }
   ]
 }

@@ -80,6 +80,7 @@ Exceptions in this repository, which replace the matching rule above:
 - The structure gate for a lesson is lesson_gates.py in the lesson worker image, not a test in this repository; lessons/<id>.expected.json is written by the tester and nobody else edits it.
 - The deck (lessons/<id>/<id>.pptx) is built after the merge by Claude with Moda in the main session, never by a subagent or a worker; record it with `python3 scripts/decks.py record`.
 - Lessons and decks are personal notes and are committed and pushed as CLAUDE.md "Lam viec tu chu" allows; the pull-request process above applies to changes to scripts/, tests/, docs/ and the agent files.
+- The Codex review is optional here: request it (`@codex review`) only when the owner asks for it. Codex being unreachable or out of quota does not make a pull request BLOCKED, and the 'Codex review' conditions of the merge step above do not apply. In its place a pull request needs the lead's audit (verdict.md with VERDICT: APPROVE for a lesson, an ordinary diff review for scripts/, tests/ or docs/), green CI, no merge conflict, and the branch-protection precondition of the merge step, which stays.
 
 Where this repository documents its own rule for one of these steps elsewhere (who merges, what gates a merge, how the review is requested, a cap on rounds), that rule governs that step; this process covers whatever the repository leaves unsaid.
 <!-- team-onboarding:end -->

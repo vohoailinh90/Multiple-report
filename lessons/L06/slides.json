@@ -1,303 +1,719 @@
 {
-  "title": "Mạng xã hội và truyền thông tác động lên não",
-  "subtitle": "Mạng xã hội · Bài L06",
-  "slides": [
+ "title": "Mạng xã hội và truyền thông tác động lên não",
+ "subtitle": "Mạng xã hội · Bài L06",
+ "slides": [
+  {
+   "title": "Mạng xã hội “thao túng” não, hay chỉ dùng cách não vận hành?",
+   "section": "Tóm tắt",
+   "sources": [
+    "S3"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Cơ chế có thật; tính năng “tận dụng” nó phần lớn là suy luận; bằng chứng về tác hại còn nhiều điều chưa rõ",
+    "Dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên: liên hệ âm, nhỏ [S3]",
+    "Bài tách ba tầng: cơ chế, thí nghiệm hoặc quan sát, và suy luận"
+   ],
+   "notes": "Câu hỏi mở bài được giữ từ bản cũ, nhưng câu trả lời không phải có hoặc không. Bài chia thành ba tầng với mức chắc chắn khác nhau. Tầng thứ nhất là cơ chế của não, như hệ thưởng và chú ý, được nghiên cứu lâu năm ngoài mạng xã hội. Tầng thứ hai là vài thí nghiệm và quan sát thật sự làm trên mạng xã hội. Tầng thứ ba là bằng chứng về tác hại, mà nghiên cứu lớn nhất bài dùng thấy mối liên hệ nhỏ. Chỗ dễ nhầm: nhiều người nghe cơ chế có thật rồi suy ra tính năng nào cũng gây hại. Bước nối đó là suy luận, và bài sẽ gắn nhãn mỗi lần dùng nó. Bài cũng không dùng chữ nghiện như một chẩn đoán."
+  },
+  {
+   "title": "Ba tầng, ba mức chắc chắn",
+   "section": "Tóm tắt",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Cơ chế nền: Thưởng, chú ý, “muốn” khác “thích”; từ linh trưởng, chuột và mô hình tổng quan [S5] [S6] [S7]",
+    "Thí nghiệm, quan sát: Lượt thích ở thiếu niên trong máy quét [S2]; ngôn từ trên Twitter [S4]",
+    "Tác hại: Dữ liệu quan sát lớn, liên hệ âm nhưng nhỏ, nhân quả chưa rõ [S3]"
+   ],
+   "notes": "Mỗi thẻ là một tầng. Thẻ đầu là cơ chế nền: tín hiệu sai số dự đoán ở linh trưởng, hai hệ chú ý, và việc dopamine cần cho muốn hơn thích ở chuột. Các cơ chế này đã có ở L05 và L00, bài này chỉ dùng lại. Thẻ giữa là hai nghiên cứu về chính mạng xã hội: thí nghiệm mô phỏng Instagram và phân tích tin nhắn Twitter. Thẻ cuối là nghiên cứu về tác hại. Cách đọc: càng sang phải, càng gần câu hỏi người ta thật sự quan tâm, nhưng bằng chứng càng ít hoặc càng gián tiếp. Hai nghiên cứu ở thẻ giữa không đo tác hại, và nghiên cứu ở thẻ cuối không đo một tính năng cụ thể. Ba tầng này được nối bằng suy luận của người viết."
+  },
+  {
+   "title": "Bài ứng dụng: nối cơ chế đã học vào mạng xã hội",
+   "section": "Mạng xã hội chạm vào những cơ chế nào",
+   "sources": [
+    "S1"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Ở đâu: sau L00 đến L05, L09 và L10",
+    "Làm gì: nối cơ chế với vài thí nghiệm và dữ liệu về mạng xã hội",
+    "Đừng hiểu nhầm: tổng quan [S1] mới chỉ đọc đến phần tóm tắt"
+   ],
+   "notes": "L06 là bài ứng dụng nên không giảng lại cơ chế. Khi cần, bài nhắc một câu rồi dẫn: hệ thưởng, sai số dự đoán, muốn và thích, chú ý, căng thẳng ở L05; dopamine ở L00; sợ, giận, gắn bó, cô đơn ở L09; hormone và cảm xúc ở L10; vỏ não trước trán và kiểm soát bản thân ở L04. Về lĩnh vực, Meshi, Tamir và Heekeren viết một tổng quan có tựa là khoa học thần kinh đang nổi lên về mạng xã hội. Phần tóm tắt cho biết họ phác các động cơ xã hội, đề xuất các hệ thần kinh nâng đỡ việc dùng, mô tả cách nghiên cứu, và nêu cân nhắc đạo đức. Người viết không đọc được toàn văn, nên bài không mượn chi tiết nào ngoài tóm tắt.",
+   "body": "L06 là bài **ứng dụng**: nó không dạy lại cơ chế mà nối cơ chế đã học vào mạng xã hội. **Hệ thưởng**, sai số dự đoán, “muốn” khác “thích”, chú ý và căng thẳng: xem L05 và L00. Mạch cảm xúc: xem L09 và L10. Kiểm soát bản thân ở vỏ não trước trán: xem L04. Về chính lĩnh vực, Meshi, Tamir và Heekeren viết một tổng quan về động cơ xã hội, các hệ thần kinh được đề xuất, cách nghiên cứu và cân nhắc đạo đức của khoa học thần kinh về mạng xã hội [S1]. Người viết chỉ đọc phần tóm tắt."
+  },
+  {
+   "title": "Bốn nhóm cơ chế",
+   "section": "Mạng xã hội chạm vào những cơ chế nào",
+   "sources": [
+    "S2",
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "layout": "connection-diagram",
+   "tone": "dark",
+   "bullets": [
+    "Phần thưởng xã hội: lượt thích và vùng thưởng [S2]",
+    "Ảnh hưởng của bạn bè: bấm theo số đông [S2]",
+    "Chú ý: hai hệ, và “muốn” khác “thích” [S6] [S7]",
+    "Nội dung đạo đức-cảm xúc: lan truyền nhiều hơn [S4]"
+   ],
+   "notes": "Sơ đồ là mục lục của phần còn lại. Phần thưởng xã hội và ảnh hưởng của bạn bè cùng dựa vào thí nghiệm của Sherman và cộng sự, nhưng hỏi hai câu khác nhau: não phản ứng thế nào, và hành vi đổi thế nào. Nhóm chú ý dựa vào mô hình hai hệ của Corbetta và Shulman và cuộc tranh luận muốn khác thích; phần nối vào ứng dụng ở nhóm này chủ yếu là suy luận của người viết. Nhóm cuối dựa vào phân tích Twitter của Brady và cộng sự. Chỗ dễ nhầm: các đường nối ở giữa không phải mũi tên nhân quả. Chúng chỉ nói bài sẽ đặt mạng xã hội cạnh cơ chế nào. Mỗi nhóm có mức bằng chứng riêng, được gắn nhãn khi đến mục tương ứng."
+  },
+  {
+   "title": "Ba cấp bằng chứng, ba mức kết luận",
+   "section": "Mạng xã hội chạm vào những cơ chế nào",
+   "sources": [
+    "S2",
+    "S3",
+    "S4"
+   ],
+   "layout": "lookup-table",
+   "tone": "light",
+   "bullets": [
+    "Thực nghiệm: đổi một điều kiện rồi đo; ví dụ đổi số lượt thích hiển thị [S2]",
+    "Dữ liệu quan sát: ghi lại cái đã xảy ra; từ ngữ và lượt đăng lại [S4], công nghệ và trạng thái khỏe mạnh [S3]",
+    "Suy luận của người viết: nối cơ chế với tính năng; bài luôn ghi rõ"
+   ],
+   "notes": "Ba cấp này không xếp hạng đúng hay sai, mà cho biết bạn được kết luận đến đâu. Thực nghiệm đổi một điều kiện có kiểm soát rồi đo kết quả, nên cho phép nói về nguyên nhân trong điều kiện đó, như đổi số lượt thích hiển thị. Dữ liệu quan sát chỉ ghi lại điều đã xảy ra: hai thứ đi cùng nhau chưa chứng minh thứ này gây ra thứ kia. Ví dụ của người viết: ngày bán nhiều kem cũng là ngày có nhiều người đuối nước, nhưng kem không gây đuối nước, cả hai cùng tăng khi trời nóng. Cấp thứ ba là phần người viết tự nối, không gắn nguồn như thể nguồn đã nói. Khi đọc tin về mạng xã hội, hãy hỏi tin đang ở cấp nào."
+  },
+  {
+   "title": "Mỗi nguồn được đọc đến đâu",
+   "section": "Mạng xã hội chạm vào những cơ chế nào",
+   "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Toàn văn: Sherman 2016 [S2], Brady 2017 [S4], giáo trình chương 4 [S8]",
+    "Chỉ tóm tắt: Meshi 2015 [S1]; Orben và Przybylski 2019 [S3], toàn văn nằm sau tường phí",
+    "Cơ chế nền: Schultz 1997 [S5], Corbetta 2002 [S6], Berridge 1998 [S7]; chỉ tóm tắt"
+   ],
+   "notes": "Slide này nói thẳng mức đã đọc của từng nguồn, để bạn biết bài có thể dựa vào đâu. Hai nghiên cứu thực địa về mạng xã hội, Sherman và Brady, được đọc toàn văn qua bản lưu miễn phí trên PubMed Central, nên bài nêu cả thiết kế, con số và giới hạn mà chính các tác giả viết. Giáo trình chương 4 cũng đọc toàn văn, dùng để giải thích fMRI đo gì. Nghiên cứu của Orben và Przybylski chỉ đọc được phần tóm tắt, vì toàn văn nằm sau tường phí; vì thế bài không nêu các phân tích chi tiết của nó. Ba nguồn về cơ chế chỉ đọc tóm tắt, và cơ chế được trình bày chi tiết ở L05. Mỗi khi bài viết rằng không nguồn nào ở đây làm một việc gì, ý là trong phần đã đọc."
+  },
+  {
+   "title": "Được tán thành có thể là một phần thưởng",
+   "section": "Phần thưởng xã hội: được chú ý như một phần thưởng",
+   "sources": [
+    "S2"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Ý tưởng: tín hiệu xã hội có thể kéo hệ thưởng vào cuộc",
+    "Cách thử: xem vùng thưởng có phản ứng với lượt thích không [S2]",
+    "Đừng hiểu nhầm: đây là giả thuyết được thử, chưa phải kết luận chắc"
+   ],
+   "notes": "Hệ thưởng phản ứng với đồ ăn và tiền; câu hỏi là nó có phản ứng với sự tán thành của người khác không. Trên mạng xã hội sự tán thành được đếm thành con số, nên dễ đưa vào thí nghiệm. Sherman và cộng sự đưa thiếu niên vào máy quét, cho xem ảnh kèm số lượt thích và quan sát. Trong phần thảo luận, họ cho rằng phản ứng ở nhân accumbens cho thấy nhận phản hồi tích cực với ảnh của chính mình có thể đáng thưởng và là một động cơ dùng mạng xã hội. Đó là diễn giải của họ, đi kèm các giới hạn ở phần sau. Chỗ dễ nhầm: giả thuyết về phần thưởng xã hội không do bài này đặt ra, nhưng thí nghiệm này chỉ cung cấp một mẩu bằng chứng, ở thiếu niên và trong máy quét.",
+   "body": "**Hệ thưởng** (xem L05) không chỉ phản ứng với đồ ăn hay tiền. Một giả thuyết hợp lý là tín hiệu xã hội, như được bạn bè tán thành, cũng kéo hệ này vào cuộc. Trên mạng xã hội, sự tán thành được đếm thành con số: **lượt thích**. Sherman và cộng sự mô phỏng Instagram trong máy chụp cộng hưởng từ chức năng (fMRI) và xem não phản ứng ra sao với số lượt thích bên dưới ảnh [S2]. Các tác giả diễn giải rằng phản hồi tích cực cho ảnh của chính mình có thể đáng thưởng và là một động cơ dùng mạng xã hội [S2]."
+  },
+  {
+   "title": "Từ “vùng sáng” đến “phần thưởng”: bốn mắt xích",
+   "section": "Phần thưởng xã hội: được chú ý như một phần thưởng",
+   "sources": [
+    "S2",
+    "S8"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Đo được: oxy trong máu ở nhân accumbens cao hơn với ảnh trung tính và ảnh của chính mình nhiều lượt thích [S2]",
+    "Diễn giải của tác giả: nhân accumbens là đầu mối của mạch thưởng [S2]",
+    "Suy luận của người viết: “vùng sáng” chưa chắc là “người ấy thấy được thưởng”",
+    "Không được suy ra: “dopamine tăng”; fMRI không đo chất dẫn truyền [S8]"
+   ],
+   "notes": "Đây là chuỗi suy diễn mà mọi tin về chụp não và mạng xã hội đều đi qua, và mỗi mắt xích chắc một mức khác. Mắt xích thứ nhất là kết quả đo: tín hiệu phụ thuộc mức oxy trong máu ở nhân accumbens cao hơn, với ảnh của chính em và ảnh trung tính của bạn bè nhiều lượt thích; với ảnh về hành vi nguy cơ thì không. Mắt xích hai là cách các tác giả giải thích. Mắt xích ba là giới hạn do người viết đặt ra: một vùng não thường tham gia nhiều việc, nên từ vùng sáng suy ra cảm nhận là suy diễn ngược; chính bài báo cũng nhắc rằng các vùng sáng giống bản đồ reward trong một cơ sở dữ liệu suy luận ngược. Mắt xích bốn bị chặn: bài này không viết dopamine tăng."
+  },
+  {
+   "title": "fMRI đo tín hiệu oxy trong máu, không đo dopamine",
+   "section": "Phần thưởng xã hội: được chú ý như một phần thưởng",
+   "sources": [
+    "S8"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Đo: oxy trong máu của từng khối ảnh vài milimét",
+    "Suy ra: hoạt động nơron, không đo trực tiếp",
+    "Đừng hiểu nhầm: không đo dopamine hay khoái cảm"
+   ],
+   "notes": "Giáo trình chương 4 giải thích khá rõ. Khi một vùng hoạt động, nó dùng thêm oxy và máu giàu oxy chảy tới trong vài giây. fMRI bắt sự thay đổi nồng độ hemoglobin mang oxy, gọi là tín hiệu BOLD, rồi từ đó suy ra hoạt động nơron; giáo trình nhấn mạnh fMRI không đo trực tiếp hoạt động nơron. Điểm mạnh là độ phân giải không gian cao, khối ảnh vài milimét. Điểm yếu là độ phân giải thời gian kém, mỗi ảnh gộp khoảng hai đến ba giây. Giáo trình cũng nhắc rằng ảnh chụp đẹp dễ thuyết phục, nhưng đó là dữ liệu tương quan, và cần bằng chứng khác như thí nghiệm trên động vật để nói về vai trò nhân quả. Người viết suy ra thêm: vì đo oxy trong máu, fMRI không thể cho biết mức dopamine.",
+   "body": "Khi một vùng não hoạt động mạnh hơn, nó dùng nhiều oxy và máu giàu oxy chảy tới trong vài giây sau đó. **fMRI** đo sự thay đổi nồng độ hemoglobin mang oxy, gọi là tín hiệu **BOLD**; từ đó nhà nghiên cứu suy ra hoạt động nơron, chứ không đo trực tiếp nó [S8]. Độ phân giải không gian cao, khối ảnh vài milimét, nhưng độ phân giải thời gian kém, mỗi ảnh trung bình hai đến ba giây [S8]. Giáo trình nhấn mạnh fMRI là dữ liệu **tương quan**, cần bổ sung bằng bằng chứng khác như thí nghiệm trên động vật [S8]."
+  },
+  {
+   "title": "Máy quét và ảnh fMRI trông thế nào",
+   "section": "Phần thưởng xã hội: được chú ý như một phần thưởng",
+   "sources": [
+    "S8"
+   ],
+   "layout": "figure",
+   "tone": "dark",
+   "bullets": [
+    "MRI scanner: máy chụp cộng hưởng từ; người nằm trong lòng máy",
+    "Activation map: bản đồ hoạt động; màu nóng nghĩa là cao hơn mức nền",
+    "Baseline: mức nền dùng để so sánh với lúc làm nhiệm vụ"
+   ],
+   "notes": "Hai hình lấy từ giáo trình chương 4 và chỉ để minh họa chung, không phải ảnh của nghiên cứu Sherman. Hình trái là máy chụp cộng hưởng từ với người nằm trong lòng máy; giáo trình ghi máy ồn, đắt, có thể gây ngột ngạt cho một số người, nhưng vô hại và không đau. Hình phải là một nhà nghiên cứu xem ảnh quét, trong đó vùng hoạt động được tô màu nóng như đỏ và cam, còn màu lạnh như xanh nghĩa là thấp hơn mức nền. Chỗ dễ nhầm: màu trên ảnh không phải màu có thật của não mà là cách vẽ sự khác biệt thống kê so với mức nền. Cần nhớ khi xem tin tức về não và mạng xã hội: vùng đỏ nghĩa là tín hiệu oxy cao hơn, không phải vùng đang khoái cảm.",
+   "images": [
     {
-      "title": "Mạng xã hội \"thao túng\" não, hay dùng cách não vận hành?",
-      "section": "Tóm tắt",
-      "sources": [
-        "S3"
-      ],
-      "bullets": [
-        "Cơ chế có thật; tận dụng là suy luận"
-      ],
-      "notes": "Bài trả lời trung thực gồm ba phần: cơ chế có thật, tính năng tận dụng là suy luận, bằng chứng tác hại còn nhiều điều chưa rõ.",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
+     "file": "images/may-mri.jpg",
+     "alt": "Máy chụp cộng hưởng từ với người nằm trong lòng máy",
+     "credit": "Mart Production (Pexels), CC0; qua Hove & Martinez, Hình 9 (chương 4)",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
     },
     {
-      "title": "Ba điều cần nhớ",
-      "section": "Tóm tắt",
-      "sources": [
-        "S3"
-      ],
-      "bullets": [
-        "Cơ chế não: có thật",
-        "Tính năng tận dụng cơ chế: suy luận",
-        "Tác hại ở thiếu niên: nhỏ, còn chưa rõ"
-      ],
-      "notes": "Bài không dùng chữ nghiện như chẩn đoán y khoa, và không lấy chất dẫn truyền hay hạnh nhân làm trọng tâm vì thiếu bằng chứng trực tiếp trong các nguồn đã chọn.",
-      "layout": "card-grid",
-      "tone": "dark"
-    },
-    {
-      "title": "Mạng xã hội chạm vào ba cơ chế",
-      "section": "Mạng xã hội chạm vào những cơ chế nào",
-      "sources": [
-        "S2",
-        "S5",
-        "S6",
-        "S7"
-      ],
-      "bullets": [
-        "Hệ thưởng",
-        "Chú ý",
-        "Ảnh hưởng xã hội"
-      ],
-      "notes": "Hệ thưởng và chú ý đã có ở L00 và L05; ảnh hưởng xã hội ở mục sau.",
-      "layout": "connection-diagram",
-      "tone": "light"
-    },
-    {
-      "title": "Lĩnh vực đang nổi lên",
-      "section": "Mạng xã hội chạm vào những cơ chế nào",
-      "sources": [
-        "S1"
-      ],
-      "bullets": [
-        "Các tác giả gọi đây là lĩnh vực đang nổi lên"
-      ],
-      "notes": "Meshi và cộng sự, 2015. Nhiều điều ta nói về não và mạng xã hội là suy ra từ nghiên cứu về thưởng, chú ý và quan hệ xã hội: nhận định của người viết.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
-    },
-    {
-      "title": "Thí nghiệm bấm thích",
-      "section": "Bấm thích và ảnh hưởng của bạn bè",
-      "sources": [
-        "S2"
-      ],
-      "bullets": [
-        "32 thiếu niên 13 đến 18 tuổi",
-        "Xem ảnh khi chụp fMRI",
-        "Số lượt thích hiển thị được thay đổi",
-        "Đo phản ứng của não và hành vi"
-      ],
-      "notes": "Sherman và cộng sự, 2016. Nhiệm vụ mô phỏng Instagram. Bấm thích là nút trên ứng dụng; thích theo nghĩa khoái cảm (liking) ở L00 là việc khác.",
-      "layout": "flow",
-      "tone": "light"
-    },
-    {
-      "title": "Kết quả và giới hạn",
-      "section": "Bấm thích và ảnh hưởng của bạn bè",
-      "sources": [
-        "S2"
-      ],
-      "bullets": [
-        "Dễ bấm thích ảnh nhiều lượt, kể cả ảnh nguy cơ",
-        "Vùng thưởng, xã hội, chú ý hoạt động mạnh hơn",
-        "Giới hạn: mẫu nhỏ, mô phỏng"
-      ],
-      "notes": "Con số hiển thị là tín hiệu xã hội ảnh hưởng đến phản ứng của não.",
-      "layout": "card-grid",
-      "tone": "dark"
-    },
-    {
-      "title": "Chụp não bằng fMRI trông thế nào",
-      "bullets": [
-        "Ảnh minh họa chung",
-        "Không phải ảnh của nghiên cứu",
-        "Màu nóng: hoạt động cao hơn mức nền"
-      ],
-      "notes": "Hai hình chỉ giúp hình dung thiết bị và cách hiển thị kết quả.",
-      "section": "Bấm thích và ảnh hưởng của bạn bè",
-      "sources": [
-        "S8"
-      ],
-      "layout": "figure",
-      "tone": "dark",
-      "images": [
-        {
-          "file": "images/may-mri.jpg",
-          "alt": "Máy chụp cộng hưởng từ với người nằm trong lòng máy",
-          "credit": "Mart Production (Pexels), CC0; qua Hove & Martinez, Hình 9 (chương 4)",
-          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
-        },
-        {
-          "file": "images/anh-fmri.jpg",
-          "alt": "Nhà nghiên cứu xem ảnh fMRI với vùng hoạt động tô màu",
-          "credit": "Wikimedia Commons, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 11 (chương 4)",
-          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
-        }
-      ]
-    },
-    {
-      "title": "563.312 thông điệp",
-      "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Twitter, ba chủ đề gây chia rẽ",
-        "Ngôn từ đạo đức-cảm xúc được chia sẻ nhiều hơn"
-      ],
-      "notes": "Brady và cộng sự, 2017. Mạnh hơn trong nội bộ nhóm cùng quan điểm.",
-      "layout": "one-big-number",
-      "tone": "light"
-    },
-    {
-      "title": "Đọc kết quả thận trọng",
-      "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
-      "sources": [
-        "S4"
-      ],
-      "bullets": [
-        "Một nền tảng, ba chủ đề",
-        "Dữ liệu quan sát, chưa chứng minh nhân quả",
-        "Đo ngôn từ và lượt chia sẻ, không đo tốc độ"
-      ],
-      "notes": "Ví dụ của người viết: ngày bán nhiều kem cũng là ngày nhiều người đuối nước, nhưng kem không gây đuối nước; cả hai cùng tăng vào ngày nóng.",
-      "layout": "numbered-rows",
-      "tone": "dark"
-    },
-    {
-      "title": "Từ cơ chế đến thiết kế",
-      "section": "Từ cơ chế đến thiết kế: bảng suy luận",
-      "sources": [
-        "S2",
-        "S4",
-        "S5",
-        "S6"
-      ],
-      "bullets": [
-        "Thông báo: chú ý bị kéo (suy luận)",
-        "Lượt thích: tín hiệu xã hội (thí nghiệm mô phỏng)",
-        "Kết quả lúc có lúc không: thưởng (suy luận)",
-        "Nội dung đạo đức-cảm xúc: chia sẻ nhiều (quan sát)"
-      ],
-      "notes": "Bảng suy luận của người viết: cơ chế có nguồn; việc tính năng tận dụng cơ chế chưa phải kết quả thí nghiệm trực tiếp.",
-      "layout": "lookup-table",
-      "tone": "light"
-    },
-    {
-      "title": "Đây là suy luận",
-      "section": "Từ cơ chế đến thiết kế: bảng suy luận",
-      "sources": [],
-      "bullets": [
-        "Cột cuối là suy luận, chưa phải thí nghiệm"
-      ],
-      "notes": "Cần gắn nhãn rõ để không biến suy luận thành sự thật.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
-    },
-    {
-      "title": "0,4%",
-      "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
-      "sources": [
-        "S3"
-      ],
-      "bullets": [
-        "Công nghệ số giải thích tối đa 0,4%",
-        "Hơn 300.000 thiếu niên ở Anh và Mỹ"
-      ],
-      "notes": "Orben và Przybylski, 2019. Nói bằng lời: trong 1.000 phần khác biệt giữa các em, công nghệ số giải thích tối đa khoảng 4 phần. Họ cho rằng mức này quá nhỏ để biện minh cho thay đổi chính sách.",
-      "layout": "one-big-number",
-      "tone": "light"
-    },
-    {
-      "title": "So sánh trong cùng dữ liệu",
-      "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
-      "sources": [
-        "S3"
-      ],
-      "bullets": [
-        "Ăn khoai tây: liên hệ tương tự",
-        "Bắt nạt, cần sa: tiêu cực mạnh hơn nhiều",
-        "Ngủ đủ, ăn sáng: tích cực mạnh hơn"
-      ],
-      "notes": "Theo công bố của các tác giả. Chỉ nói về thiếu niên và công nghệ số nói chung.",
-      "layout": "numbered-rows",
-      "tone": "dark"
-    },
-    {
-      "title": "Quan sát khác với nhân quả",
-      "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
-      "sources": [
-        "S3"
-      ],
-      "bullets": [
-        "Quan sát: hai thứ cùng thay đổi",
-        "Nhân quả: thứ này gây ra thứ kia"
-      ],
-      "notes": "Dữ liệu quan sát không chứng minh nhân quả theo chiều nào. Đây là một nghiên cứu lớn, không phải toàn bộ bằng chứng.",
-      "layout": "two-column-comparison",
-      "tone": "light"
-    },
-    {
-      "title": "Bốn việc nhỏ có thể thử",
-      "section": "Cách tự bảo vệ (gợi ý suy ra từ cơ chế)",
-      "sources": [
-        "S3",
-        "S4",
-        "S6",
-        "S7"
-      ],
-      "bullets": [
-        "Tắt thông báo không cần thiết",
-        "Đặt điểm dừng từ trước",
-        "Hỏi: mình muốn hay thích?",
-        "Chậm lại trước nội dung đạo đức-cảm xúc"
-      ],
-      "notes": "Gợi ý suy ra từ cơ chế, chưa kiểm chứng. Thêm: giữ nền tảng sức khỏe như ngủ đủ, ăn sáng (có liên hệ trong dữ liệu của Orben và Przybylski), vận động và hỗ trợ xã hội (L05).",
-      "layout": "card-grid",
-      "tone": "dark"
-    },
-    {
-      "title": "Điều cần nhớ",
-      "section": "Điều cần nhớ",
-      "sources": [
-        "S2",
-        "S3",
-        "S5",
-        "S6",
-        "S7"
-      ],
-      "bullets": [
-        "Cơ chế thưởng, chú ý, xã hội là có thật",
-        "Tính năng tận dụng chúng phần lớn là suy luận",
-        "Tác hại ở thiếu niên nhỏ, còn chưa rõ",
-        "Giảm tác động: gợi ý, chưa kiểm chứng"
-      ],
-      "notes": "Đây là bài ứng dụng của L00 đến L05; có thể đọc lại các bài này.",
-      "layout": "numbered-rows",
-      "tone": "light"
-    },
-    {
-      "title": "Lưu ý",
-      "section": "Lưu ý",
-      "sources": [],
-      "bullets": [
-        "Bài về cơ chế, không phải lời khuyên y tế",
-        "Mất ngủ, lo âu, khó kiểm soát: gặp chuyên gia"
-      ],
-      "notes": "Không dùng bài này để quy kết lỗi cho thiếu niên hay phụ huynh.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
-    },
-    {
-      "title": "Nguồn tham khảo",
-      "section": "Nguồn tham khảo",
-      "sources": [
-        "S1",
-        "S2",
-        "S3",
-        "S4",
-        "S5",
-        "S6",
-        "S7",
-        "S8"
-      ],
-      "bullets": [
-        "Meshi và cộng sự, Trends Cogn Sci, 2015",
-        "Sherman và cộng sự, Psychol Sci, 2016",
-        "Orben và Przybylski, Nat Hum Behav, 2019",
-        "Brady và cộng sự, PNAS, 2017",
-        "Schultz 1997, Corbetta 2002, Berridge 1998",
-        "Hove & Martinez, Biological Psychology, chương 4 (hình)"
-      ],
-      "notes": "Đường dẫn đầy đủ ở lesson.md.",
-      "layout": "lookup-table",
-      "tone": "dark"
+     "file": "images/anh-fmri.jpg",
+     "alt": "Nhà nghiên cứu xem ảnh fMRI với vùng hoạt động tô màu",
+     "credit": "Wikimedia Commons, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 11 (chương 4)",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/tools-of-cognitive-neuroscience-brain-imaging-pet-and-mri/"
     }
-  ]
+   ]
+  },
+  {
+   "title": "Đo được và không suy ra được",
+   "section": "Phần thưởng xã hội: được chú ý như một phần thưởng",
+   "sources": [
+    "S2",
+    "S8"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Đo được: Số lượt thích hiển thị, việc bấm Like hay Next, tín hiệu BOLD của từng vùng [S2] [S8]",
+    "Không suy ra được: Cảm giác sướng, mức dopamine, hay tác động của lượt thích ngoài đời thật",
+    "Mỗi bước đi xa khỏi dữ liệu là suy luận, và phải được gọi là suy luận"
+   ],
+   "notes": "Slide này tóm lại mục phần thưởng xã hội bằng hai cột. Cột trái liệt kê điều thí nghiệm đo thật: số lượt thích do người nghiên cứu ấn định, việc em đó bấm Like hay Next, và tín hiệu BOLD ở từng vùng não. Cột phải liệt kê điều không thể suy ra từ những đo đạc đó: cảm giác sướng chủ quan, mức dopamine, và tác động của lượt thích trong đời thật, vì thí nghiệm là mô phỏng trong máy quét. Dòng dưới là quy tắc của bài: đi xa khỏi dữ liệu không bị cấm, nhưng phải được gọi đúng tên là suy luận. Ví dụ của người viết: nếu bản tin viết rằng lượt thích làm dopamine tăng, hãy hỏi họ đo dopamine bằng gì; với fMRI thì không thể."
+  },
+  {
+   "title": "Thí nghiệm được dựng thế nào",
+   "section": "Bấm thích và ảnh hưởng của bạn bè",
+   "sources": [
+    "S2"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Tuyển 34 em 13 đến 18 tuổi; phân tích fMRI dùng 32 em",
+    "Các em nộp ảnh Instagram của mình, được báo có khoảng 50 bạn đã xem",
+    "Trong máy quét: 148 ảnh, mỗi ảnh 3 giây, nút Like hoặc Next",
+    "Số lượt thích do nhóm nghiên cứu ấn định: nhiều (23 đến 45) hoặc ít (0 đến 22)",
+    "Ảnh chung: hai phiên bản đảo ngược. Ảnh của em: chia ngẫu nhiên theo nhóm nội dung"
+   ],
+   "notes": "Đọc từ trái sang phải. Sherman và cộng sự tuyển 34 thiếu niên, hai em bị loại khỏi phân tích fMRI vì máy báo lỗi và vì cử động quá nhiều. Các em được báo là nghiên cứu xem não phản ứng thế nào khi dùng mạng xã hội, được nhờ nộp ảnh từ tài khoản Instagram thật, và được báo rằng khoảng 50 thiếu niên khác đã xem và bấm thích. Trên thực tế số lượt thích do nhóm nghiên cứu ấn định. Mỗi em xem 148 ảnh: 66 trung tính, 42 về hành vi nguy cơ và 40 ảnh của chính em. Với ảnh trung tính và ảnh nguy cơ dùng chung, có hai phiên bản đảo ngược nhau, nên cùng một ảnh được thấy với nhiều lượt thích ở nửa số em và ít ở nửa kia. Ảnh của chính em thì được xếp nhóm theo nội dung rồi chia ngẫu nhiên làm hai nửa, không đảo, nên không có đối chứng cùng một ảnh. Vì có đổi điều kiện có kiểm soát, đây là thực nghiệm."
+  },
+  {
+   "title": "Thẻ hồ sơ: thí nghiệm của Sherman và cộng sự (2016)",
+   "section": "Bấm thích và ảnh hưởng của bạn bè",
+   "sources": [
+    "S2"
+   ],
+   "layout": "profile-card",
+   "tone": "light",
+   "bullets": [],
+   "notes": "Thẻ hồ sơ theo khung của bài: ai, làm gì, thao tác, đo gì, kết quả, và đừng hiểu nhầm. Về người tham gia, các tác giả viết cỡ mẫu là số tối đa họ tuyển được theo kinh phí và thời gian. Về hành vi, các em bấm thích những ảnh có nhiều lượt thích nhiều hơn mức ngẫu nhiên, và hiệu ứng với ảnh của chính em lớn hơn cả ảnh trung tính lẫn ảnh nguy cơ. Về não, kết quả khác nhau theo loại ảnh, sẽ xem ở slide kế. Nhãn mức chắc chắn: thực nghiệm, nhưng quy mô nhỏ và điều kiện nhân tạo. Chỗ dễ nhầm: các em tin rằng lượt thích là của bạn bè thật, nên kết quả nói về phản ứng với tín hiệu mà các em tin là xã hội, không phải với mạng xã hội thật.",
+   "facts": [
+    {
+     "label": "Ai",
+     "text": "34 thiếu niên 13 đến 18 tuổi, 32 em trong phân tích fMRI; cỡ mẫu là mức tối đa tuyển được [S2]"
+    },
+    {
+     "label": "Làm gì",
+     "text": "Xem 148 ảnh trong mô phỏng Instagram: 66 trung tính, 42 nguy cơ, 40 của chính em [S2]"
+    },
+    {
+     "label": "Thao tác",
+     "text": "Lượt thích do nhóm nghiên cứu ấn định; ảnh chung đảo chéo hai phiên bản, ảnh của em chia ngẫu nhiên [S2]"
+    },
+    {
+     "label": "Hành vi",
+     "text": "Bấm thích theo số đông hơn mức ngẫu nhiên; mạnh nhất với ảnh của chính em [S2]"
+    },
+    {
+     "label": "Não",
+     "text": "Nhiều lượt thích: các vùng xã hội, thưởng, thị giác sáng hơn, tùy loại ảnh [S2]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Mẫu nhỏ, mô phỏng, lượt thích do người nghiên cứu ấn định; chưa chứng minh tác động ngoài đời [S2]"
+    }
+   ]
+  },
+  {
+   "title": "Não phản ứng thế nào, theo loại ảnh",
+   "section": "Bấm thích và ảnh hưởng của bạn bè",
+   "sources": [
+    "S2"
+   ],
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Ảnh của chính em: Nhiều vùng xã hội và thưởng sáng hơn; nhân accumbens hai bên mạnh hơn [S2]",
+    "Ảnh trung tính: Vỏ thị giác, tiền chêm, tiểu não; nhân accumbens trái mạnh hơn [S2]",
+    "Ảnh nguy cơ: Chỉ một cụm vỏ trán trái; nhân accumbens không đổi theo lượt thích [S2]",
+    "Ít so với nhiều lượt thích: Không vùng nào khác biệt có ý nghĩa ở cả ba loại ảnh [S2]"
+   ],
+   "notes": "Bảng này giữ độ chi tiết mà lời tóm tắt thường bỏ qua. Với ảnh của chính em, so sánh nhiều và ít lượt thích cho thấy hoạt động cao hơn ở nhiều vùng gắn với nhận thức xã hội như tiền chêm, vỏ trước trán giữa và hải mã, cùng các vùng gắn với học theo phần thưởng và động cơ như nhân accumbens, nhân đuôi, bèo sẫm và vùng bụng của não giữa. Với ảnh trung tính của bạn bè, vỏ thị giác và tiểu não sáng hơn, và các tác giả cho rằng các em có thể đã nhìn kỹ hơn ảnh được ưa chuộng. Với ảnh nguy cơ chỉ một cụm vỏ trán trái sáng hơn, và phân tích riêng nhân accumbens không thấy tác dụng của lượt thích. Chiều ngược lại không cho vùng nào khác biệt có ý nghĩa."
+  },
+  {
+   "title": "Giới hạn của thí nghiệm",
+   "section": "Bấm thích và ảnh hưởng của bạn bè",
+   "sources": [
+    "S2"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Mức bằng chứng: thực nghiệm, quy mô nhỏ, điều kiện nhân tạo",
+    "Cơ chế: tóm tắt gọi đây là “possible mechanisms” [S2]",
+    "Đừng hiểu nhầm: chưa phải bằng chứng về tác động ngoài đời"
+   ],
+   "notes": "Đây là các giới hạn do chính bài báo nêu hoặc suy ra trực tiếp từ phương pháp. Mẫu nhỏ, và các tác giả viết đó là số tối đa tuyển được. Thí nghiệm là mô phỏng trong máy quét, và bài viết nói nghiên cứu không cho so sánh trực tiếp ảnh hưởng của bạn bè ngoài đời với trên mạng. Lượt thích do người nghiên cứu ấn định trong khi các em tin đó là lượt thích thật. Chỉ đo phản ứng trong lúc xem, không đo điều xảy ra sau. Cuối cùng là chi tiết dễ bỏ sót: với ảnh nguy cơ, nhân accumbens không phân biệt nhiều với ít lượt thích. Suy luận của người viết: vì vậy kết quả không cho phép nói lượt thích kéo thiếu niên vào hành vi nguy cơ qua hệ thưởng.",
+   "body": "Mẫu nhỏ: 32 em trong phân tích fMRI, số tối đa các tác giả tuyển được [S2]. Đây là **mô phỏng** trong máy quét, không phải mạng xã hội thật; nghiên cứu không cho so sánh trực tiếp ảnh hưởng của bạn bè ngoài đời với trên mạng [S2]. Số **lượt thích** do nhóm nghiên cứu ấn định, còn các em tin đó là lượt thích thật. Chỉ đo phản ứng lúc xem. Với ảnh nguy cơ, nhân accumbens không phân biệt nhiều với ít lượt thích [S2]; suy luận của người viết: chưa thể nói lượt thích kéo thiếu niên vào hành vi nguy cơ qua hệ thưởng."
+  },
+  {
+   "title": "Hai kết quả dễ bị trộn lẫn",
+   "section": "Bấm thích và ảnh hưởng của bạn bè",
+   "sources": [
+    "S2"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Nhiều so với ít lượt thích: Cùng một ảnh, đổi số lượt thích: đo ảnh hưởng của con số lên việc bấm thích và hoạt động não [S2]",
+    "Ảnh nguy cơ so với trung tính: Mạng kiểm soát nhận thức ít hoạt động hơn khi xem ảnh nguy cơ: đo ảnh hưởng của nội dung ảnh [S2]",
+    "Không được gộp hai kết quả thành “lượt thích làm giảm kiểm soát”"
+   ],
+   "notes": "Bài báo có hai phép so sánh khác nhau và rất dễ bị kể thành một. Phép thứ nhất so nhiều lượt thích với ít lượt thích trên cùng một ảnh, nên đo tác dụng của con số. Phép thứ hai so ảnh nguy cơ với ảnh trung tính, nên đo tác dụng của nội dung ảnh. Ở phép thứ hai, khi xem ảnh nguy cơ, một mạng vùng gắn với kiểm soát nhận thức và ức chế phản ứng, gồm vỏ đai trước lưng, vỏ trước trán hai bên và vỏ đỉnh bên, ít hoạt động hơn. Các tác giả suy đoán rằng thấy bạn bè làm điều nguy cơ có thể nới kiểm soát, nhưng cũng nhấn mạnh rằng chỉ xem ảnh trên mạng không tự nó là một nguy cơ. Phép so sánh này không phụ thuộc số lượt thích, nên không thể nói lượt thích làm giảm kiểm soát."
+  },
+  {
+   "title": "Hai hệ chú ý ở mức mô hình",
+   "section": "Chú ý, thông báo và cuộn vô tận",
+   "sources": [
+    "S6"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Ở đâu: hai mạng vùng não, tách biệt một phần",
+    "Làm gì: một hệ chọn theo mục tiêu, một hệ phát hiện điều nổi bật",
+    "Đừng hiểu nhầm: mô hình về chú ý nói chung, không bàn về điện thoại [S6]"
+   ],
+   "notes": "Slide này chỉ giữ ý chính của mô hình, vì chi tiết đã có ở L05. Corbetta và Shulman tổng hợp bằng chứng về các mạng vùng não tách biệt một phần. Một hệ gồm phần của vỏ đỉnh trong rãnh và vỏ trán trên, chuẩn bị và áp dụng việc chọn kích thích theo mục tiêu. Hệ kia gồm vỏ thái dương đỉnh và vỏ trán dưới, nghiêng về bán cầu phải, không tham gia chọn theo mục tiêu mà chuyên phát hiện kích thích liên quan, nhất là khi nổi bật hoặc bất ngờ; các tác giả gọi nó là cầu dao của hệ thứ nhất. Chỗ dễ nhầm: đây là mô hình ở mức tổng quan, tóm tắt không bàn về điện thoại hay thông báo, nên mọi nối sang ứng dụng sau đây là suy luận của người viết.",
+   "body": "Corbetta và Shulman tổng hợp bằng chứng về các mạng vùng não tách biệt một phần cho các chức năng **chú ý** khác nhau [S6]. Một hệ, gồm phần của vỏ đỉnh trong rãnh và vỏ trán trên, chọn kích thích theo **mục tiêu** (từ trên xuống) [S6]. Hệ kia, gồm vỏ thái dương-đỉnh và vỏ trán dưới, nghiêng về bán cầu phải, chuyên phát hiện kích thích liên quan, nhất là khi **nổi bật** hoặc bất ngờ, và là một “cầu dao” cho hệ thứ nhất [S6]. Chi tiết ở L05; đây là mô hình tổng quan."
+  },
+  {
+   "title": "Ví dụ của người viết: một thông báo đi qua hai hệ",
+   "section": "Chú ý, thông báo và cuộn vô tận",
+   "sources": [
+    "S6"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Bạn đang viết báo cáo: chú ý theo mục tiêu giữ vào trang giấy",
+    "Điện thoại rung và sáng: một kích thích nổi bật, bất ngờ",
+    "Theo mô hình [S6], hệ phát hiện kích thích ngắt hướng chú ý hiện tại",
+    "Bạn nhìn sang màn hình dù không định; đây là suy luận, nguồn đã đọc chưa đo"
+   ],
+   "notes": "Đây là ví dụ của người viết để hình dung mô hình, không phải kết quả thí nghiệm. Ở bước đầu, hệ theo mục tiêu giữ chú ý vào việc đang làm. Bước hai, thông báo là đúng loại kích thích mà mô hình nói hệ thứ hai chuyên phát hiện: nổi bật và bất ngờ. Bước ba là điều mô hình dự đoán, hệ này ngắt hướng chú ý hiện tại như một cầu dao. Bước bốn là hành vi bạn quen thuộc. Nhãn: suy luận của người viết. Mô hình của Corbetta và Shulman là về chú ý nói chung; trong phần đã đọc, không nguồn nào đo xem thông báo của điện thoại có hoạt động qua hệ này hay không. Chỗ dễ nhầm: nhìn sang màn hình không có nghĩa bạn thiếu ý chí; ví dụ chỉ muốn nói chuyện đó là bình thường với não."
+  },
+  {
+   "title": "“Thích” và “muốn” là hai việc khác nhau",
+   "section": "Chú ý, thông báo và cuộn vô tận",
+   "sources": [
+    "S7"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Thích (liking): Phản ứng thích vị ngọt so với vị đắng vẫn bình thường sau khi giảm dopamine tới 99% ở chuột [S7]",
+    "Muốn (wanting): Các tác giả kết luận hệ dopamine cần cho sức hút động cơ, không cần cho thích [S7]",
+    "Quan điểm có bằng chứng từ chuột, không phải đồng thuận; xem L05 và L09"
+   ],
+   "notes": "Berridge và Robinson xem lại tài liệu và làm một thí nghiệm ở chuột: dùng chất độc thần kinh làm giảm dopamine ở nhân accumbens và thể vân tới 99 phần trăm. Chuột vẫn có phản ứng thích bình thường với đường so với quinine, vẫn học giá trị khoái cảm mới. Từ đó họ kết luận hệ dopamine cần cho muốn, hay sức hút động cơ, mà không cần cho thích. Nhãn: đây là quan điểm có bằng chứng từ động vật, không phải đồng thuận, và cuộc tranh luận được trình bày ở L05. Ý rút ra cho bài này chỉ là muốn tiếp tục và thích điều đang xem có thể tách nhau. Ví dụ của người viết: mở ứng dụng nửa tiếng rồi đóng mà không nhớ mình đã thích điều gì. Không nguồn nào ở đây đo điều đó trên người dùng thật."
+  },
+  {
+   "title": "Cuộn vô tận: suy luận của người viết",
+   "section": "Chú ý, thông báo và cuộn vô tận",
+   "sources": [],
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "Khi luồng nội dung không tự dừng, quyết định dừng chuyển từ một lần thành mỗi lần cuộn",
+    "Suy luận của người viết, nối từ L04 về kiểm soát bản thân",
+    "Trong những gì đã đọc, không nguồn nào kiểm tra cuộn vô tận"
+   ],
+   "notes": "Một tờ báo có trang cuối, một tập phim có hồi kết; luồng cuộn vô tận và video tự chạy kế tiếp thì không. Suy luận của người viết: khi giao diện không tự dừng, quyết định dừng lại không còn là một lần ở cuối trang mà lặp lại sau mỗi lần cuộn, và việc kiểm soát bản thân, mà L04 gắn với vỏ não trước trán, phải thắng lần này qua lần khác. Đây là cách nối khái niệm, không phải kết quả đo. Slide cố ý ghi nhãn ngay trên mặt: không nguồn nào trong phần người viết đã đọc thử xem cuộn vô tận có đổi hành vi hay não hay không. Vì vậy phần này ở tầng thấp nhất của thang bằng chứng và bài không dựa vào nó để kết luận gì về tác hại."
+  },
+  {
+   "title": "Điều có nguồn và điều là suy luận",
+   "section": "Chú ý, thông báo và cuộn vô tận",
+   "sources": [
+    "S6",
+    "S7"
+   ],
+   "layout": "lookup-table",
+   "tone": "light",
+   "bullets": [
+    "Có nguồn: Hai mạng chú ý tách biệt một phần [S6]; dopamine cần cho muốn hơn thích, ở chuột [S7]",
+    "Suy luận: Thông báo kích hoạt hệ phát hiện kích thích nổi bật",
+    "Suy luận: Cuộn vô tận kéo dài “muốn” và làm kiểm soát bản thân khó hơn",
+    "Chưa có: Thí nghiệm đo tác động của thông báo hay cuộn vô tận lên não hoặc hành vi"
+   ],
+   "notes": "Slide này tách ba loại phát biểu của mục chú ý để bạn không lẫn. Hàng đầu là phần có nguồn, và là cơ chế nền: mô hình hai hệ chú ý và kết quả ở chuột về muốn khác thích. Hai hàng giữa là suy luận của người viết: thông báo có thể kích hoạt hệ phát hiện kích thích nổi bật, và cuộn vô tận có thể kéo dài muốn đồng thời khiến việc dừng khó hơn. Hàng cuối nói về điều thiếu: trong phần đã đọc chưa có thí nghiệm nào đo tác động của thông báo hay cuộn vô tận lên não hoặc hành vi. Chỗ dễ nhầm: một suy luận hợp lý vẫn có thể sai, và cách duy nhất để biết là làm thí nghiệm. Bài giữ ranh giới này để bạn đọc tin tức về công nghệ với cùng câu hỏi."
+  },
+  {
+   "title": "563.312",
+   "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+   "sources": [
+    "S4"
+   ],
+   "layout": "one-big-number",
+   "tone": "dark",
+   "bullets": [
+    "563.312 thông điệp Twitter về ba chủ đề gây chia rẽ ở Mỹ [S4]",
+    "Kiểm soát súng 102.328; hôn nhân đồng giới 47.373; biến đổi khí hậu 413.611 [S4]",
+    "Đo bằng từ điển từ ngữ và số lần đăng lại, không đo người đọc [S4]"
+   ],
+   "notes": "Con số 563.312 là tổng số thông điệp Twitter trong nghiên cứu của Brady và cộng sự, gồm ba chủ đề chính trị gây chia rẽ ở Mỹ: kiểm soát súng, hôn nhân đồng giới và biến đổi khí hậu. Ba chủ đề lần lượt có 102.328, 47.373 và 413.611 thông điệp, cộng lại đúng bằng con số lớn. Mẫu lớn giúp ước tính ổn định, nhưng không tự làm kết quả tổng quát hơn: tất cả cùng một nền tảng, cùng bối cảnh chính trị Mỹ. Chỗ dễ nhầm: con số lớn không biến dữ liệu quan sát thành thực nghiệm. Nghiên cứu ghi lại việc người dùng đăng lại, không thay đổi điều gì để so sánh. Nó cũng không đo người đọc cảm thấy gì hay não của họ làm gì."
+  },
+  {
+   "title": "Đếm từ đạo đức, từ cảm xúc, từ đạo đức-cảm xúc",
+   "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+   "sources": [
+    "S4"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Đo gì: từ trong thông điệp và số lần đăng lại",
+    "Không đo: cảm xúc hay não của người đọc",
+    "Đừng hiểu nhầm: đăng lại không đồng nghĩa với bị thuyết phục"
+   ],
+   "notes": "Cách đo quyết định điều kết quả có thể nói. Brady và cộng sự dùng hai từ điển đã được kiểm định từ trước. Từ chỉ nằm trong từ điển đạo đức, ví dụ duty, được xếp là từ đạo đức, có 329 từ. Từ chỉ nằm trong từ điển cảm xúc, ví dụ fear, có 819 từ. Từ nằm trong cả hai, ví dụ hate, có 159 từ và được gọi là từ đạo đức-cảm xúc. Lan truyền được đo bằng số lần một thông điệp được đăng lại. Chỗ dễ nhầm: nghiên cứu đếm từ trong thông điệp chứ không đo cảm xúc của người đọc, và đăng lại cho biết ai chia sẻ, không cho biết ai thay đổi quan điểm. Vì vậy bài không dùng nghiên cứu này để nói về cơ chế não.",
+   "body": "Brady và cộng sự dùng hai từ điển đã kiểm định từ trước để đếm ba loại từ trong mỗi thông điệp: từ **đạo đức** (như “duty”, 329 từ), từ **cảm xúc** (như “fear”, 819 từ) và từ **đạo đức-cảm xúc** (như “hate”, 159 từ) nằm trong cả hai từ điển [S4]. Mức **lan truyền** được đo bằng số lần thông điệp được đăng lại [S4]. Nghiên cứu hỏi: thông điệp có nhiều từ đạo đức-cảm xúc có được đăng lại nhiều hơn không, sau khi đã tính đến từ thuần đạo đức, từ thuần cảm xúc và các yếu tố khác [S4]."
+  },
+  {
+   "title": "Mỗi từ đạo đức-cảm xúc thêm vào",
+   "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+   "sources": [
+    "S4"
+   ],
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Kiểm soát súng: Mức đăng lại dự kiến tăng 19% cho mỗi từ thêm vào [S4]",
+    "Hôn nhân đồng giới: Tăng 17% cho mỗi từ thêm vào [S4]",
+    "Biến đổi khí hậu: Tăng 24% cho mỗi từ thêm vào [S4]",
+    "Trung bình ba chủ đề: Khoảng 20% cho mỗi từ, sau khi điều chỉnh theo từ thuần đạo đức và thuần cảm xúc [S4]"
+   ],
+   "notes": "Các con số lấy trực tiếp từ bài báo. Trong từng chủ đề, thêm một từ đạo đức-cảm xúc vào một thông điệp đi cùng mức đăng lại dự kiến tăng 19, 17 và 24 phần trăm; trung bình khoảng 20 phần trăm cho mỗi từ, sau khi điều chỉnh theo từ thuần đạo đức, từ thuần cảm xúc và các yếu tố khác. Từ thuần đạo đức không tạo khác biệt ở hai chủ đề đầu và chỉ nhỏ ở chủ đề thứ ba; từ thuần cảm xúc có tác dụng ở hai trong ba chủ đề. Chỗ dễ nhầm: tăng 20 phần trăm cho mỗi từ là mức đăng lại dự kiến theo mô hình thống kê, không phải mỗi từ thêm vào làm một người nữa chia sẻ. Các tác giả ghi ước tính của chủ đề hôn nhân đồng giới là biến động nhất giữa các phân tích độ nhạy."
+  },
+  {
+   "title": "Trong nhóm và giữa các nhóm",
+   "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+   "sources": [
+    "S4"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Trong nhóm cùng khuynh hướng: Ngôn từ đạo đức-cảm xúc làm tăng lan truyền mạnh hơn [S4]",
+    "Giữa các nhóm khác khuynh hướng: Tác dụng yếu hơn [S4]",
+    "Các tác giả suy đoán đây có thể góp phần vào phân cực và buồng vang; chưa phải điều dữ liệu chứng minh [S4]"
+   ],
+   "notes": "Kết quả thứ hai của Brady và cộng sự là hiệu ứng bị giới hạn bởi nhóm. Ngôn từ đạo đức-cảm xúc làm tăng sự lan truyền mạnh hơn bên trong mạng lưới người cùng khuynh hướng, tự do hoặc bảo thủ, và yếu hơn khi vượt qua ranh giới giữa các nhóm. Các tác giả nhận xét rằng đây có thể là một quá trình góp phần vào phân cực chính trị, và các thông điệp như vậy dễ giống buồng vang hơn. Nhãn: đó là suy đoán của các tác giả trong phần thảo luận, không phải điều dữ liệu chứng minh. Chỗ dễ nhầm: dữ liệu cho thấy thông điệp lan nhanh hơn trong nhóm, không cho thấy ai đó bị phân cực hơn vì tiếp xúc với chúng. Chính các tác giả nói cần thí nghiệm để kiểm tra ảnh hưởng nhân quả lên thái độ và hành vi."
+  },
+  {
+   "title": "Đọc kết quả thận trọng",
+   "section": "Nội dung đạo đức-cảm xúc được chia sẻ nhiều hơn",
+   "sources": [
+    "S4"
+   ],
+   "layout": "numbered-rows",
+   "tone": "dark",
+   "bullets": [
+    "Dữ liệu quan sát: từ ngữ đi cùng lượt đăng lại, chưa chứng minh từ ngữ gây ra nó [S4]",
+    "Một nền tảng, ba chủ đề, bối cảnh chính trị Mỹ: không đại diện cho mọi mạng xã hội",
+    "Đo từ ngữ và lượt đăng lại, không đo cảm xúc của người đọc",
+    "Lan truyền không đồng nghĩa thuyết phục: số lần đăng lại không cho biết ai đổi quan điểm",
+    "Chính các tác giả kêu gọi thí nghiệm có kiểm soát để thử ảnh hưởng nhân quả [S4]"
+   ],
+   "notes": "Năm điều cần nhớ khi đọc nghiên cứu này. Một, đây là dữ liệu quan sát: các tác giả viết cần thí nghiệm có kiểm soát hơn, đặc biệt để thử ảnh hưởng nhân quả của việc tiếp xúc với ngôn từ đạo đức-cảm xúc lên thái độ và hành vi. Hai, phạm vi hẹp: một nền tảng, ba chủ đề, chính trị Mỹ. Ba, nghiên cứu đo từ ngữ và lượt đăng lại, không đo cảm xúc của người đọc; vì vậy nó không phải bằng chứng về cơ chế não. Bốn, lan truyền không phải thuyết phục. Năm, chính các tác giả nêu giới hạn của họ. Mức bằng chứng: dữ liệu quan sát với mẫu lớn, ghi hành vi thật. Nó cho phép nói ngôn từ đạo đức-cảm xúc đi cùng sự lan truyền nhiều hơn trong dữ liệu này; nó không cho phép nói ngôn từ ấy khiến người ta chia sẻ."
+  },
+  {
+   "title": "Bảng suy luận: tính năng, cơ chế, mức bằng chứng",
+   "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+   "sources": [
+    "S2",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "layout": "lookup-table",
+   "tone": "light",
+   "bullets": [
+    "Thông báo: kích thích nổi bật, bất ngờ [S6]; tác động của từng ứng dụng là suy luận",
+    "Số lượt thích: tín hiệu xã hội và vùng thưởng [S2]; thực nghiệm mô phỏng, mẫu nhỏ",
+    "Kéo làm mới: sai số dự đoán ở linh trưởng [S5]; tính năng cụ thể là suy luận",
+    "Luồng không điểm dừng: quyết định dừng lặp lại (L04); hoàn toàn là suy luận",
+    "Nội dung gây phẫn nộ: lan truyền nhiều hơn trong dữ liệu Twitter [S4]; dữ liệu quan sát"
+   ],
+   "notes": "Đây là bảng trung tâm của bài, và toàn bộ là suy luận của người viết về cách ghép. Mỗi hàng có tính năng ở cột trái, cơ chế có nguồn hoặc khái niệm từ bài trước ở giữa, và mức bằng chứng của việc ghép ở cuối. Hàng kéo làm mới dùng kết quả của Schultz, Dayan và Montague: ở linh trưởng, nơron dopamine dường như báo thay đổi hay sai số trong dự đoán về sự kiện đáng thưởng; việc kéo làm mới có tạo ra kiểu sai số ấy ở người hay không thì chưa ai đo ở đây. Hàng lượt thích là hàng duy nhất có thí nghiệm trực tiếp, nhưng nhỏ và mô phỏng. Hàng luồng không điểm dừng không có nguồn nào. Cách dùng bảng: đọc cột cuối trước, nó cho biết đừng tin chặt đến đâu."
+  },
+  {
+   "title": "Ví dụ của người viết: một lượt mở ứng dụng",
+   "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+   "sources": [
+    "S2",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "layout": "timeline",
+   "tone": "dark",
+   "bullets": [
+    "Thông báo rung: chú ý bị kéo đi [S6]",
+    "Thấy lượt thích: tín hiệu xã hội [S2]",
+    "Kéo làm mới: kết quả không báo trước [S5]",
+    "Luồng không dừng: quyết định dừng lặp lại",
+    "Bài gây phẫn nộ: dễ được chia sẻ [S4]"
+   ],
+   "notes": "Dòng thời gian này chỉ để hình dung, không phải kết quả đo. Mỗi mốc có một cơ chế có nguồn đứng sau: thông báo kéo chú ý theo mô hình hai hệ, lượt thích là tín hiệu xã hội trong thí nghiệm mô phỏng, kéo làm mới tạo kết quả không báo trước giống tình huống sai số dự đoán ở linh trưởng, luồng không dừng buộc ta quyết định dừng nhiều lần, và bài gây phẫn nộ có ngôn từ đạo đức-cảm xúc dễ được đăng lại. Nhưng cả chuỗi là sự nối của người viết. Không nguồn nào đo một người dùng đi qua cả năm mốc. Chỗ dễ nhầm: các mốc không bắt buộc xảy ra theo thứ tự này, và không phải mọi lượt dùng đều như vậy. Ví dụ này giúp ta đặt câu hỏi, không để trả lời câu hỏi."
+  },
+  {
+   "title": "Ba lưu ý khi đọc bảng",
+   "section": "Từ cơ chế đến thiết kế: bảng suy luận",
+   "sources": [],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Một: tận dụng không có nghĩa là cố ý",
+    "Hai: cơ chế có thật chưa chứng minh tác động",
+    "Ba: bảng phân biệt chỗ có nguồn và chỗ nối thêm"
+   ],
+   "notes": "Ba lưu ý để không đọc bảng quá tay. Thứ nhất, tận dụng là giả thuyết về cơ chế; không nguồn nào trong phần đã đọc nói về ý định của nhà thiết kế, nên bài không khẳng định ai cố ý làm gì. Thứ hai, một cơ chế có thật không bảo đảm tính năng kích hoạt nó đủ mạnh để đổi hành vi hay sức khỏe; đây là câu hỏi thực nghiệm, phần lớn chưa được trả lời trong các nguồn đã đọc. Thứ ba, bảng không nói mạng xã hội xấu hay tốt; nó chỉ phân biệt chỗ có nguồn và chỗ là phần nối thêm của người viết. Ví dụ của người viết: một con dao có thể thái rau hoặc làm đứt tay; nói dao có thể làm đứt tay là đúng, nhưng chưa nói được ai bị đứt, bao nhiêu lần, vì cái gì.",
+   "body": "Bảng trên là **suy luận** của người viết: nó ghép tính năng với cơ chế có nguồn. Thứ nhất, “tận dụng” là giả thuyết về cơ chế, **không** khẳng định nhà thiết kế cố ý như vậy; trong những gì đã đọc, không nguồn nào nói về ý định thiết kế. Thứ hai, cơ chế có thật không bảo đảm tính năng kích hoạt nó đủ mạnh để đổi hành vi hay sức khỏe; đó là câu hỏi thực nghiệm, phần lớn chưa có lời đáp. Thứ ba, bảng không nói mạng xã hội xấu hay tốt, chỉ chỉ ra chỗ nào có nguồn và chỗ nào là nối thêm."
+  },
+  {
+   "title": "0,4%",
+   "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+   "sources": [
+    "S3"
+   ],
+   "layout": "one-big-number",
+   "tone": "dark",
+   "bullets": [
+    "0,4% là mức biến thiên tối đa về trạng thái khỏe mạnh của thiếu niên mà công nghệ số giải thích [S3]",
+    "Nói bằng lời: trong 1.000 phần khác biệt giữa các em, tối đa khoảng 4 phần",
+    "Liên hệ âm nhưng nhỏ; các tác giả cho rằng quá nhỏ để biện minh cho thay đổi chính sách [S3]"
+   ],
+   "notes": "Con số này đến từ phần tóm tắt của Orben và Przybylski: liên hệ giữa dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên là âm nhưng nhỏ, giải thích tối đa 0,4 phần trăm biến thiên về trạng thái khỏe mạnh. Phép tính đơn giản: 0,4 phần trăm là 4 phần nghìn. Các tác giả kết luận rằng hiệu ứng quá nhỏ để biện minh cho thay đổi chính sách; đó là kết luận của họ, không phải của bài này. Chỗ dễ nhầm có ba. Một, đây là tương quan nên không cho biết cái nào gây ra cái nào. Hai, đây là công nghệ số nói chung, không riêng mạng xã hội. Ba, nhỏ ở mức trung bình không có nghĩa là không ai bị ảnh hưởng; ý đó là suy luận của người viết và chưa được kiểm chứng trong nguồn này."
+  },
+  {
+   "title": "Nghiên cứu của Orben và Przybylski",
+   "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+   "sources": [
+    "S3"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Dữ liệu: ba bộ dữ liệu lớn, tên YRBS, MTF, MCS",
+    "Phương pháp: nhiều cách phân tích thay vì chọn một (giải thích của người viết)",
+    "Đừng hiểu nhầm: nói về công nghệ số nói chung, không riêng mạng xã hội [S3]"
+   ],
+   "notes": "Orben và Przybylski mở đầu bằng một nhận xét về chính lĩnh vực: bằng chứng cho giả thuyết dùng công nghệ làm hại sức khỏe tinh thần phần lớn đến từ việc phân tích lại các bộ dữ liệu xã hội lớn, nơi sự linh hoạt trong cách phân tích có thể khiến hiệu ứng nhỏ trông có ý nghĩa thống kê, dẫn tới dương tính giả và kết quả mâu thuẫn. Để đối phó họ dùng phân tích đường cong đặc tả trên ba bộ dữ liệu có tổng cỡ mẫu 355.358. Giải thích của người viết về tên phương pháp: thay vì chọn một cách phân tích, người ta chạy nhiều cách hợp lý rồi xem kết quả trải ra thế nào. Người viết chỉ đọc phần tóm tắt và trang bài, không đọc toàn văn.",
+   "body": "Orben và Przybylski nhận xét rằng bằng chứng hiện có phần lớn đến từ việc phân tích lại các bộ dữ liệu xã hội lớn, nơi sự linh hoạt trong cách phân tích có thể khiến **hiệu ứng nhỏ** trông có ý nghĩa thống kê [S3]. Họ dùng phân tích đường cong đặc tả (specification curve analysis) trên ba bộ dữ liệu, tổng cỡ mẫu 355.358, để xem **bằng chứng tương quan** [S3]. Kết quả: liên hệ giữa dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên là **âm nhưng nhỏ**, giải thích tối đa 0,4% biến thiên [S3]. Người viết chỉ đọc phần tóm tắt."
+  },
+  {
+   "title": "Điều bài cho phép nói và không cho phép nói",
+   "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+   "sources": [
+    "S3"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Cho phép nói: Trong ba bộ dữ liệu này, liên hệ trung bình giữa dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên là âm và nhỏ [S3]",
+    "Không cho phép nói: Công nghệ làm giảm trạng thái khỏe mạnh; mạng xã hội vô hại; hay tác động của một tính năng cụ thể",
+    "Mức trung bình nhỏ chưa loại trừ nhóm nhỏ chịu ảnh hưởng lớn hơn: suy luận của người viết"
+   ],
+   "notes": "Slide này nói rõ ranh giới của kết luận. Bên trái là điều dữ liệu cho phép: trong ba bộ dữ liệu của nghiên cứu, liên hệ trung bình giữa dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên là âm và nhỏ. Bên phải là ba điều bị chặn: nhân quả theo chiều nào đó, vì dữ liệu là tương quan; kết luận ngược lại rằng mạng xã hội vô hại, vì một mức trung bình nhỏ không chứng minh được điều đó; và bất kỳ điều gì về một tính năng cụ thể, vì tóm tắt nói về công nghệ số nói chung. Dòng dưới là suy luận của người viết, chưa được kiểm chứng trong nguồn này: trung bình nhỏ có thể che nhóm nhỏ chịu ảnh hưởng lớn hơn. Bài nêu ý này để không kết luận quá tay theo cả hai phía."
+  },
+  {
+   "title": "Sáu điều còn chưa rõ",
+   "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+   "sources": [
+    "S2",
+    "S3",
+    "S4"
+   ],
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Hướng nhân quả: dữ liệu là tương quan, chưa biết cái nào gây ra cái nào [S3]",
+    "Mạng xã hội riêng, từng tính năng: tóm tắt chỉ nói về công nghệ số nói chung [S3]",
+    "Nhóm nhỏ: trung bình có thể che nhóm chịu ảnh hưởng lớn hơn (suy luận của người viết)",
+    "Tranh luận: trang bài ghi có bình luận phản biện công bố 17/4/2020; người viết chưa đọc",
+    "Cầu nối: hai nghiên cứu về mạng xã hội trong bài không đo tác hại [S2] [S4]",
+    "Người lớn và nhiều năm: các nguồn đã đọc không cho biết"
+   ],
+   "notes": "Đây là slide quan trọng nhất của mục. Một, hướng nhân quả: dữ liệu là tương quan nên chưa biết công nghệ làm đổi trạng thái khỏe mạnh, hay ngược lại, hay một yếu tố thứ ba tác động cả hai. Hai, đơn vị phân tích: công nghệ số nói chung, không riêng mạng xã hội hay một tính năng. Ba, nhóm nhỏ: suy luận của người viết rằng trung bình có thể che nhóm chịu ảnh hưởng lớn hơn. Bốn, tranh luận chưa dừng: trang bài ghi có một bình luận phản biện công bố ngày 17 tháng 4 năm 2020, người viết chưa đọc nên không dùng, và bài chỉ dẫn một nghiên cứu cho một phía. Năm, hai nghiên cứu về mạng xã hội trong bài đo phản ứng ngắn hạn và lan truyền ngôn từ, không đo sức khỏe tinh thần. Sáu, người lớn và nhiều năm: nguồn đã đọc không nói gì."
+  },
+  {
+   "title": "Đối chiếu các nguồn về mạng xã hội",
+   "section": "Bằng chứng về tác hại: còn nhiều điều chưa rõ",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Sherman 2016: Thực nghiệm nhỏ, mô phỏng; chưa nói gì về tác hại [S2]",
+    "Brady 2017: Dữ liệu quan sát trên Twitter; chưa nói gì về tác hại [S4]",
+    "Orben 2019: Dữ liệu quan sát lớn; liên hệ âm, tối đa 0,4%; chưa rõ nhân quả [S3]",
+    "Schultz, Corbetta, Berridge: Cơ chế nền (linh trưởng, mô hình, chuột); không đo mạng xã hội [S5] [S6] [S7]"
+   ],
+   "notes": "Bảng đối chiếu cho thấy mỗi nguồn nằm ở đâu trên thang bằng chứng và nói được gì về tác hại. Sherman là thực nghiệm nhỏ, mô phỏng, cho thấy một cơ chế có thể xảy ra, và chưa nói gì về sức khỏe tinh thần. Brady là dữ liệu quan sát về lan truyền ngôn từ, cũng chưa nói gì về tác hại. Orben và Przybylski là nghiên cứu duy nhất trong bài nhắm vào sức khỏe tinh thần, nhưng ở mức tương quan và công nghệ số nói chung. Ba nguồn cơ chế nền, từ linh trưởng, từ mô hình tổng quan và từ chuột, không đo mạng xã hội. Kết quả là còn thiếu mảnh nối từ lượt thích hay ngôn từ đến sức khỏe tinh thần. Bài không giả vờ lấp chỗ trống đó."
+  },
+  {
+   "title": "Bốn gợi ý, đều là suy luận",
+   "section": "Cách tự bảo vệ (gợi ý suy ra từ cơ chế)",
+   "sources": [
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "layout": "card-grid",
+   "tone": "light",
+   "bullets": [
+    "Tắt thông báo: Kích thích nổi bật kéo chú ý [S6]; tác dụng của việc tắt chưa được kiểm chứng",
+    "Đặt điểm dừng: Hẹn giờ hoặc đóng ứng dụng sau một việc; suy luận từ L04",
+    "Hỏi muốn hay thích: “Muốn” có thể tách khỏi “thích” [S7]; là câu hỏi để quan sát bản thân",
+    "Chậm lại trước khi chia sẻ: Nội dung đạo đức-cảm xúc được đăng lại nhiều hơn [S4]"
+   ],
+   "notes": "Bốn gợi ý, mỗi gợi ý đi từ một cơ chế, và cả bốn đều là suy luận của người viết. Tắt thông báo dựa trên ý rằng kích thích nổi bật kéo chú ý; việc tắt có giúp thật hay không thì phần đã đọc chưa kiểm chứng. Đặt điểm dừng dựa trên nhận xét về cuộn vô tận và kiểm soát bản thân ở L04. Hỏi muốn hay thích dựa trên kết quả ở chuột rằng muốn có thể tách khỏi thích; câu hỏi này giúp quan sát bản thân, không phải phép đo. Chậm lại trước khi chia sẻ dựa trên dữ liệu Twitter rằng ngôn từ đạo đức-cảm xúc đi cùng nhiều lượt đăng lại hơn. Chỗ dễ nhầm: có cơ chế đứng sau không có nghĩa gợi ý đã được thử nghiệm. Hãy coi đây là thí nghiệm nhỏ trên chính mình, và bỏ nếu không hợp."
+  },
+  {
+   "title": "Vì sao các gợi ý này chỉ là suy luận",
+   "section": "Cách tự bảo vệ (gợi ý suy ra từ cơ chế)",
+   "sources": [],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Mức bằng chứng: suy luận từ cơ chế",
+    "Hướng chung: sửa môi trường quanh mình",
+    "Đừng hiểu nhầm: không phải lỗi của ai"
+   ],
+   "notes": "Slide này giải thích vì sao phần tự bảo vệ phải khiêm tốn. Trong phần người viết đã đọc, không nguồn nào kiểm tra xem tắt thông báo hay đặt điểm dừng có cải thiện sức khỏe tinh thần hay không, nên cụm có thể giúp chỉ có nghĩa là giả thuyết hợp lý. Hướng chung là thiết kế môi trường, tức đổi điều kiện quanh mình thay vì trông vào ý chí mỗi lần; ý này nối với L05, nơi nói căng thẳng làm vỏ não trước trán khó điều khiển hơn. Căng thẳng và hỗ trợ xã hội đã được nói ở L05 và L10, và áp dụng vào mạng xã hội cũng là suy luận. Cuối cùng, không có nguồn nào ở đây cho thấy dùng mạng xã hội nhiều là lỗi của thiếu niên hay phụ huynh, nên bài không quy lỗi cho ai.",
+   "body": "Các gợi ý suy ra từ **cơ chế**, không phải từ thử nghiệm: trong những gì người viết đọc được, không nguồn nào kiểm tra xem tắt thông báo hay đặt điểm dừng có cải thiện sức khỏe tinh thần hay không. “Có thể giúp” nghĩa là giả thuyết hợp lý. Hướng chung là **thiết kế môi trường**: đổi điều kiện quanh mình thay vì trông vào ý chí mỗi lần. Căng thẳng và hỗ trợ xã hội đã được nói ở L05 và L10; áp dụng vào mạng xã hội cũng là suy luận. Bài không quy lỗi cho thiếu niên hay phụ huynh."
+  },
+  {
+   "title": "Một vòng tự kiểm trước khi bấm tiếp",
+   "section": "Cách tự bảo vệ (gợi ý suy ra từ cơ chế)",
+   "sources": [
+    "S4",
+    "S7"
+   ],
+   "layout": "flow",
+   "tone": "light",
+   "bullets": [
+    "Dừng một nhịp khi thấy thông báo hoặc bài gây phẫn nộ",
+    "Hỏi: mình đang muốn hay đang thích? [S7]",
+    "Hỏi: nội dung này có làm mình phẫn nộ, và vì sao mình muốn chia sẻ? [S4]",
+    "Đặt điểm dừng: xong một việc thì đóng ứng dụng"
+   ],
+   "notes": "Một cách dùng bốn gợi ý như một vòng tự kiểm ngắn, mỗi lần chỉ mất vài giây. Bước một, dừng một nhịp khi có thông báo hoặc gặp bài khiến bạn phẫn nộ, vì đó là lúc cơ chế chú ý và dữ liệu về ngôn từ đạo đức-cảm xúc nói nhiều nhất. Bước hai, tự hỏi muốn hay thích; câu hỏi này mượn từ kết quả ở chuột và chỉ để quan sát bản thân. Bước ba, tự hỏi vì sao muốn chia sẻ nội dung đó. Bước bốn, đặt điểm dừng bằng một việc cụ thể. Nhãn: suy luận của người viết, chưa kiểm chứng. Ví dụ của người viết: sau khi trả lời xong tin nhắn cần trả lời thì đóng ứng dụng, thay vì cuộn tiếp. Nếu cách này không hợp, bỏ nó; bài không đòi hỏi bạn làm đúng."
+  },
+  {
+   "title": "Điều cần nhớ",
+   "section": "Điều cần nhớ",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "layout": "numbered-rows",
+   "tone": "dark",
+   "bullets": [
+    "Cơ chế thưởng, chú ý, ảnh hưởng xã hội là có thật, phần lớn nghiên cứu ngoài mạng xã hội [S5] [S6] [S7]",
+    "Thí nghiệm mô phỏng: thiếu niên bấm theo số đông; fMRI đo oxy trong máu, không đo dopamine [S2] [S8]",
+    "Dữ liệu Twitter: ngôn từ đạo đức-cảm xúc đi cùng nhiều lượt đăng lại hơn; đó là dữ liệu quan sát [S4]",
+    "Dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên: liên hệ âm nhưng nhỏ, tối đa 0,4%; nhân quả chưa rõ [S3]",
+    "Phần nối từ cơ chế sang tính năng, và các gợi ý tự bảo vệ, phần lớn là suy luận"
+   ],
+   "notes": "Năm điều để mang đi. Một, cơ chế thưởng, chú ý và ảnh hưởng xã hội là có thật, nhưng phần lớn được nghiên cứu ngoài mạng xã hội. Hai, trong một thí nghiệm mô phỏng nhỏ, thiếu niên bấm thích theo số đông và não phản ứng khác theo số lượt thích, tùy loại ảnh; fMRI đo oxy trong máu, không đo dopamine. Ba, trong dữ liệu Twitter, ngôn từ đạo đức-cảm xúc đi cùng nhiều lượt đăng lại hơn, và đó là dữ liệu quan sát. Bốn, liên hệ trung bình giữa dùng công nghệ số và trạng thái khỏe mạnh của thiếu niên là âm và nhỏ, tối đa 0,4 phần trăm biến thiên, và nhân quả chưa rõ. Năm, phần nối sang tính năng và các gợi ý tự bảo vệ là suy luận. Hiểu cách não hoạt động không làm ta miễn nhiễm, nhưng giúp ta nhìn ra khi nào lời kết luận vượt quá bằng chứng."
+  },
+  {
+   "title": "Lưu ý",
+   "section": "Lưu ý",
+   "sources": [],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Bài nhằm hiểu cơ chế, không phải lời khuyên y tế và không chẩn đoán ai",
+    "Bài không coi dùng mạng xã hội nhiều là bệnh, và không dùng chữ “nghiện” để chẩn đoán",
+    "Nếu mất ngủ, lo âu hoặc buồn kéo dài, hãy hỏi bác sĩ hoặc chuyên gia tâm lý"
+   ],
+   "notes": "Phần lưu ý nhắc lại phạm vi của bài. Đây là bài giải thích cơ chế, không phải lời khuyên y tế, và không chẩn đoán ai. Bài cố ý không dùng chữ nghiện như một chẩn đoán, và không coi dùng mạng xã hội nhiều là một bệnh, vì các nguồn đã đọc không cung cấp căn cứ để làm vậy. Nếu việc dùng mạng xã hội làm bạn mất ngủ, lo âu, buồn bã kéo dài hoặc khó kiểm soát dù đã cố gắng, hãy trao đổi với bác sĩ hoặc chuyên gia tâm lý; họ đánh giá được tình huống của riêng bạn, điều không bài viết nào làm được. Cuối cùng, đừng dùng bài này để quy lỗi cho thiếu niên hay phụ huynh: bằng chứng ở đây về tác hại là nhỏ và còn nhiều điều chưa rõ."
+  },
+  {
+   "title": "Nguồn tham khảo",
+   "section": "Nguồn tham khảo",
+   "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "layout": "references",
+   "tone": "dark",
+   "bullets": [
+    "S1: Meshi, Tamir, Heekeren 2015, The emerging neuroscience of social media, Trends Cogn Sci",
+    "S2: Sherman và cộng sự 2016, The power of the Like in adolescence, Psychological Science",
+    "S3: Orben, Przybylski 2019, The association between adolescent well-being and digital technology use",
+    "S4: Brady và cộng sự 2017, Emotion shapes the diffusion of moralized content, PNAS",
+    "S5: Schultz, Dayan, Montague 1997, A neural substrate of prediction and reward, Science",
+    "S6: Corbetta, Shulman 2002, Control of goal-directed and stimulus-driven attention, Nat Rev Neurosci",
+    "S7: Berridge, Robinson 1998, What is the role of dopamine in reward, Brain Res Rev",
+    "S8: Hove & Martinez, Biological Psychology, chương 4, mục 4.5 (ROTEL Pressbooks)"
+   ],
+   "notes": "Tám nguồn, mỗi nguồn có địa chỉ đã kiểm: bảy bài báo qua DOI và giáo trình chương 4. Mức đọc: toàn văn cho Sherman 2016, Brady 2017 và giáo trình; phần tóm tắt cho Meshi 2015, Orben và Przybylski 2019, Schultz 1997, Corbetta 2002 và Berridge 1998. Hình minh họa trong bài lấy từ giáo trình, giấy phép ghi trên slide hình."
+  }
+ ]
 }

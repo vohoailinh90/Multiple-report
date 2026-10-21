@@ -5,7 +5,9 @@
   "sections": [
     "Tóm tắt",
     "Cấu tạo một nơron",
-    "Tín hiệu điện: xung thần kinh",
+    "Tế bào thần kinh đệm (glia)",
+    "Điện thế nghỉ",
+    "Điện thế hoạt động: xung thần kinh",
     "Synapse: nơi tín hiệu chuyển thành hóa học",
     "Thụ thể: ổ khóa và chìa",
     "Kích thích, ức chế và phép cộng",
@@ -13,17 +15,12 @@
     "Thuốc can thiệp ở đâu",
     "Synapse thay đổi theo kinh nghiệm",
     "Điều cần nhớ",
+    "Lưu ý",
     "Nguồn tham khảo"
   ],
-  "sources": {
-    "S1": "https://rotel.pressbooks.pub/biologicalpsychology/",
-    "S2": "https://doi.org/10.1113/jphysiol.1952.sp004764",
-    "S3": "https://nba.uth.tmc.edu/neuroscience/m/s1/index.htm",
-    "S4": "https://doi.org/10.1002/cne.21974"
-  },
-  "min_words": 700,
-  "max_words": 30000,
-  "min_citations": 6,
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/"
+  ],
   "key_terms": [
     "nơron",
     "synapse",
@@ -31,11 +28,30 @@
     "thụ thể",
     "chất dẫn truyền thần kinh",
     "sợi trục",
-    "tính dẻo"
+    "tính dẻo",
+    "điện thế hoạt động",
+    "tế bào thần kinh đệm"
   ],
-  "language": "vi",
+  "min_independent_sources": 5,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "min_images": 4,
   "slides": {
-    "min": 8,
-    "max": 40
-  }
+    "min": 34,
+    "max": 54
+  },
+  "min_words": 3500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "notes_words": [
+    80,
+    200
+  ],
+  "language": "vi"
 }

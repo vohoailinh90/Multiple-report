@@ -104,7 +104,7 @@ Giữa nút tận cùng của nơron trước và gai sợi nhánh của nơron 
 
 *Đặc điểm của một synapse. Nhãn tiếng Anh: vesicle (túi chứa), neurotransmitter (chất dẫn truyền), synaptic gap (khe synapse), receptor (thụ thể), presynaptic terminal button (nút tận cùng nơron trước), postsynaptic spine (gai của nơron sau). Nguồn hình: Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 3). https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/ [S1]*
 
-Synapse hóa học là loại phổ biến nhất. Ngoài ra còn có synapse điện (electrical synapse), trong đó các cấu trúc đặc biệt gọi là cầu nối (gap junction) tạo đường nối trực tiếp giữa tế bào trước và tế bào sau, nên thay đổi điện thế ở bên này truyền thẳng sang bên kia [S3]. Phần còn lại của bài chủ yếu nói về synapse hóa học, vì đó là nơi chất dẫn truyền và thuốc tác động.
+Synapse hóa học là loại phổ biến nhất. Ngoài ra còn có synapse điện (electrical synapse), trong đó các cấu trúc đặc biệt gọi là cầu nối (gap junction) tạo đường nối trực tiếp giữa tế bào trước và tế bào sau, nên thay đổi điện thế ở bên này truyền thẳng sang bên kia [S3].
 
 ## Thụ thể: ổ khóa và chìa
 
@@ -115,7 +115,7 @@ Giáo trình mô tả loại thụ thể ion hướng (ionotropic receptor): đ�
 - Chất dẫn truyền mở kênh Na+ hoặc canxi gây điện thế kích thích. Ví dụ giáo trình nêu: thụ thể NMDA, được glutamate kích hoạt; glutamate là chất dẫn truyền kích thích chính của não [S1].
 - Chất dẫn truyền mở kênh Cl− hoặc K+ gây điện thế ức chế. Ví dụ: thụ thể của axit gamma-aminobutyric (GABA), được GABA kích hoạt; GABA là chất dẫn truyền ức chế chính của não [S1].
 
-Không phải thụ thể nào cũng là kênh ion trực tiếp. Khi giải thích tác động của các chất giống opioid, giáo trình nêu rằng chúng tác động qua các chất truyền tin thứ hai (second messenger) để thay đổi khả năng mở của kênh ion [S1]. Bài này chỉ ghi nhận có hai kiểu như thế; hồ sơ từng chất dẫn truyền và từng loại thụ thể sẽ ở L03.
+Không phải thụ thể nào cũng là kênh ion trực tiếp. Khi giải thích tác động của các chất giống opioid, giáo trình nêu rằng chúng tác động qua các chất truyền tin thứ hai (second messenger) để thay đổi khả năng mở của kênh ion [S1]. Hồ sơ từng loại thụ thể thuộc L03.
 
 ## Kích thích, ức chế và phép cộng
 
@@ -154,7 +154,7 @@ Suy luận của người viết: sắp vòng đời của một chất dẫn tr
 - **Bắt chước chất dẫn truyền:** một chất từ bên ngoài gắn vào đúng thụ thể mà chất dẫn truyền tự nhiên của cơ thể vẫn dùng [S1].
 - **Ức chế enzyme phân hủy:** làm chậm việc cắt bỏ chất dẫn truyền, nên tác dụng kéo dài và mạnh hơn; Neuroscience Online mô tả một nhóm chất ức chế acetylcholinesterase làm điện thế bản vận động lớn hơn và dài hơn [S3].
 
-Ngoài ra, bảng ví dụ trong giáo trình còn nêu cơ chế tăng tổng hợp chất dẫn truyền [S1]. Ba điều dễ hiểu nhầm. Một: "chủ vận" và "đối kháng" mô tả tác động lên synapse, không nói thuốc tốt hay xấu. Hai: cùng một nhóm cơ chế có thể cho hiệu quả khác nhau tùy mạch thần kinh mà chất dẫn truyền ấy tham gia. Ba, suy luận của người viết: một thuốc làm thay đổi triệu chứng khi tác động vào một chất dẫn truyền chưa chứng minh rằng bệnh là do thiếu chất đó. Cách các chất cụ thể tác động và các tranh luận về nguyên nhân thuộc L03.
+Ba điều dễ hiểu nhầm. Một: "chủ vận" và "đối kháng" mô tả tác động lên synapse, không nói thuốc tốt hay xấu. Hai: cùng một nhóm cơ chế có thể cho hiệu quả khác nhau tùy mạch thần kinh mà chất dẫn truyền ấy tham gia. Ba, suy luận của người viết: một thuốc làm thay đổi triệu chứng khi tác động vào một chất dẫn truyền chưa chứng minh rằng bệnh là do thiếu chất đó. Cách các chất cụ thể tác động và các tranh luận về nguyên nhân thuộc L03.
 
 ## Synapse thay đổi theo kinh nghiệm
 
@@ -184,13 +184,13 @@ Mức chắc chắn: LTP và LTD là hiện tượng đã đo được; việc c
 5. Tín hiệu được chấm dứt bằng thu hồi, phân hủy hoặc khuếch tán; mỗi mắt xích là một điểm thuốc có thể can thiệp [S1] [S3].
 6. Synapse mạnh lên (LTP) hoặc yếu đi (LTD) theo hoạt động; đó là cơ sở được đề xuất của học và nhớ, với nhiều bằng chứng từ động vật [S1] [S5] [S6].
 
-Nối với bài trước: L01 vẽ các vùng của não; bài này cho thấy các vùng ấy nói chuyện bằng gì. Bài sau, L03, sẽ gặp từng chất dẫn truyền: glutamate, GABA, dopamine, serotonin và các chất khác.
+Nối với bài trước: L01 vẽ các vùng của não; bài này cho thấy các vùng ấy nói chuyện bằng gì. Bài sau, L03, sẽ gặp từng chất dẫn truyền.
 
 ## Lưu ý
 
 Đây là bài học giáo dục về sinh học thần kinh, không phải lời khuyên y tế. Mục "Thuốc can thiệp ở đâu" chỉ nêu các nhóm cơ chế ở mức khái niệm; bài không nêu tên thuốc, liều hay khuyến nghị dùng hoặc ngừng thuốc nào. Quyết định về thuốc phải do người có chuyên môn đưa ra.
 
-Về mức đọc nguồn: nội dung cơ chế lấy từ giáo trình [S1] và từ các chương 1, 3, 4, 5, 6, 7 của Neuroscience Online [S3] (chương 2 chưa đọc; chương 8 chỉ đọc các đoạn nêu số lượng tế bào đệm). Bài báo của Hodgkin và Huxley [S2] chỉ được xác minh thông tin thư mục (tên, tạp chí, năm, DOI), không đọc toàn văn; mọi chi tiết về công trình này lấy từ phần giáo trình kể lại [S1]. Với Azevedo và cộng sự [S4], Bliss và Lømo [S5], Bliss và Collingridge [S6], bài chỉ dùng điều nêu trong phần tóm tắt đã đọc. Các kết quả về mực và thỏ là kết quả từ động vật. Số liệu về acetylcholinesterase và điện thế bản vận động là của synapse thần kinh-cơ.
+Về mức đọc nguồn: nội dung cơ chế lấy từ giáo trình [S1] và từ Neuroscience Online [S3] (đọc chương 1, 3, 4, 5, 6, 7; chương 8 chỉ đọc các đoạn nêu số lượng tế bào đệm; chương 2 chưa đọc). Bài báo của Hodgkin và Huxley [S2] chỉ được xác minh thông tin thư mục, không đọc toàn văn; chi tiết về công trình này lấy từ phần giáo trình kể lại [S1]. Với [S4], [S5] và [S6], bài chỉ dùng điều nêu trong phần tóm tắt đã đọc. Kết quả về mực và thỏ là kết quả từ động vật; số liệu về acetylcholinesterase là của synapse thần kinh-cơ.
 
 ## Nguồn tham khảo
 

@@ -14,6 +14,6 @@
 | Thần kinh | 2026-10-19 | [L00](L00/lesson.md) | Dopamine và động lực | [L00.pptx](L00/L00.pptx) |
 | Thần kinh | 2026-10-20 | [L03](L03/lesson.md) | Chất dẫn truyền thần kinh và tâm lý | chưa có |
 | Thần kinh | 2026-10-20 | [L05](L05/lesson.md) | Hệ thưởng, chú ý và căng thẳng | chưa có |
-| Thần kinh | 2026-10-20 | [L09](L09/lesson.md) | Cảm xúc cơ bản và mạch thần kinh | chưa có |
+| Thần kinh | 2026-10-20 | [L09](L09/lesson.md) | Cảm xúc cơ bản và mạch thần kinh | [L09.pptx](L09/L09.pptx) |
 | Thần kinh | 2026-10-20 | [L10](L10/lesson.md) | Chất dẫn truyền, hormone và cảm xúc | [L10.pptx](L10/L10.pptx) |
 | Triết học | 2026-10-20 | [L15](L15/lesson.md) | Freud, Jung và Adler: ba con đường vào vô thức | [L15.pptx](L15/L15.pptx) |

@@ -3,7 +3,7 @@
 
 usage: gen.py <lesson-id> <page 0..N> [--opts file.json] [--slides file.json]
 page 0 is the cover, pages 1..N follow slides.json. Prints the <content>...</content> markup.
---slides reads another slides.json (the demo deck in tests/fixtures/deckgen/). Images are placed by file name from file_ids.json.
+--slides reads another slides.json (the demo deck in tests/fixtures/deckgen/). Images are placed by <lesson id>/<file> from file_ids.json.
 opts file: {"topic_label": "...", "question": "...", "motif": "...", "big": {"3": "86 tỷ"},
             "actors": {"6": ["A","B","C"]}, "mark": {"5": "có hoặc không"}, "concepts": ["hạnh nhân", ...]}
 "concepts" gives each concept its colour (concept k takes accent (n + k) mod 4); a **term** in a body that names
@@ -51,9 +51,22 @@ def lines(text, w, size, cw):
     return n
 
 
-def fit(text, w, h, size, lh=1.25, floor=FLOOR, cw=0.55):
-    """Largest font size from size down (step 2, not below floor) whose wrapped text fits w x h."""
-    while size > floor and lines(text, w, size, cw) * size * lh > h:
+def fit(text, w, h, size, lh=1.25, floor=FLOOR, cw=0.55, max_lines=None):
+    """Largest font size from size down (step 2, not below floor) whose wrapped text fits w x h in at most max_lines lines."""
+    while size > floor and (lines(text, w, size, cw) * size * lh > h or (max_lines and lines(text, w, size, cw) > max_lines)):
+        size -= 2
+    return max(size, floor)
+
+
+def rich_height(text, w, size, lh, spacing, cw=0.55):
+    """Height of a body drawn as one <p> per blank-line-separated paragraph, `spacing` px between paragraphs."""
+    paras = [q for q in re.split(r"\n\s*\n", plain(text).strip())]
+    return sum(lines(q, w, size, cw) for q in paras) * size * lh + spacing * (len(paras) - 1)
+
+
+def fit_rich(text, w, h, size, lh, floor, spacing=0, cw=0.55):
+    """Largest font size from size down (step 2, not below floor) whose paragraphs, with their spacing, fit w x h."""
+    while size > floor and rich_height(text, w, size, lh, spacing, cw) > h:
         size -= 2
     return max(size, floor)
 
@@ -123,7 +136,7 @@ def card_grid(p, n, s, o):
         out.append(f'<rectangle x="{xx:.0f}" y="320" width="{w:.0f}" height="16" corner-radius="8" fill="{a}"/>')
         out.append(f'<text x="{xx + 40:.0f}" y="372" width="{w - 80:.0f}" height="130" font-family="Bricolage Grotesque" font-weight="800" font-size="96" color="{a}" max-lines="1">{k + 1:02d}</text>')
         if kk:
-            hs = fit(kk, w - 80, 110, 36, 1.2, 26, 0.58)
+            hs = fit(kk, w - 80, 110, 36, 1.2, 26, 0.58, 2)
             out.append(f'<text x="{xx + 40:.0f}" y="510" width="{w - 80:.0f}" height="110" font-weight="700" font-size="{hs}" color="{p["ink"]}" max-lines="2">{x(kk)}</text>')
             vs = fit(vv, w - 80, 200, 34, 1.3)
             out.append(f'<text x="{xx + 40:.0f}" y="630" width="{w - 80:.0f}" height="200" font-size="{vs}" color="{p["sub"]}" line-height="1.3">{x(vv)}</text>')
@@ -162,7 +175,7 @@ def two_col(p, n, s, o):
         out.append(f'<rectangle x="{xx}" y="300" width="{w}" height="{440 if rest else 560}" corner-radius="28" fill="{t}"/>')
         out.append(f'<rectangle x="{xx}" y="300" width="14" height="{440 if rest else 560}" corner-radius="7" fill="{a}"/>')
         h = kk if kk else ("Một phía" if k == 0 else "Phía kia")
-        hs = fit(h, w - 96, 100, 56, 1.1, 36, 0.6)
+        hs = fit(h, w - 96, 100, 56, 1.1, 36, 0.6, 2)
         out.append(f'<text x="{xx + 48}" y="336" width="{w - 96}" height="100" font-family="Bricolage Grotesque" font-weight="800" font-size="{hs}" color="{a}" max-lines="2">{x(h)}</text>')
         vh = 240 if rest else 330
         vs = fit(vv, w - 96, vh, 42, 1.3)
@@ -230,7 +243,7 @@ def connection(p, n, s, o, idx):
 
 def layers(p, n, s, o):
     bl = s["bullets"]; out = []
-    rh = min(170, 600 // max(len(bl), 1))
+    rh = min(170, (630 - 16 * (len(bl) - 1)) // max(len(bl), 1))  # the last layer ends by y=930, above the source line at 944
     for k, b in enumerate(bl):
         a, t = acc(p, n, k)
         yy = 300 + k * (rh + 16)
@@ -263,7 +276,10 @@ def big(p, n, s, o, idx):
     size = 300
     while size > 120 and len(num) * size * 0.6 > 1728:
         size -= 20
-    out = [f'<text x="{M}" y="260" width="1728" height="360" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{a}" max-lines="1" vertical-align="middle">{x(num)}</text>']
+    one_line = len(num) * size * 0.6 <= 1728
+    if not one_line:  # a long value (the slide title when opts has no "big") wraps and shrinks instead of being clipped
+        size = fit(num, 1728, 360, 120, 1.0, 40, 0.6)
+    out = [f'<text x="{M}" y="260" width="1728" height="360" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{a}"{" max-lines=" + chr(34) + "1" + chr(34) if one_line else ""} line-height="1.0" vertical-align="middle">{x(num)}</text>']
     bl = list(s["bullets"][:3])
     if bl and bl[0].startswith(num):
         bl[0] = bl[0][len(num):].strip()
@@ -308,7 +324,7 @@ def sequence(p, n, s, o, idx):
         out.append(f'<rectangle x="{cxs[i] - 220:.0f}" y="290" width="440" height="84" corner-radius="20" fill="{a}"/>')
         out.append(f'<text x="{cxs[i] - 220:.0f}" y="290" width="440" height="84" font-weight="800" font-size="34" color="{"#FFFFFF" if p is LIGHT else "#14161C"}" text-align="center" vertical-align="middle" max-lines="1">{x(name)}</text>')
         out.append(f'<line x1="{cxs[i]:.0f}" y1="374" x2="{cxs[i]:.0f}" y2="940" stroke="{p["diagline"]}" stroke-width="4" dash="10,10"/>')
-    step = 540 / max(len(bl), 1)
+    step = min(540 / max(len(bl), 1), 405 / max(len(bl) - 1, 1))  # a self-loop (95px tall) on the last step still ends above the source line
     for k, b in enumerate(bl):
         a, t = acc(p, n, k)
         yy = 430 + k * step
@@ -335,6 +351,7 @@ def sequence(p, n, s, o, idx):
     return out
 
 
+PENDING_IDS = None  # a list while the gate renders: images without a Moda id are collected here instead of stopping the render
 FILE_IDS = json.loads((Path(__file__).resolve().parent / "file_ids.json").read_text())
 
 
@@ -345,10 +362,12 @@ def images(p, s, px, py, pw, ph):
     for k, im in enumerate(imgs):
         cx = px + k * (cw + gap)
         out.append(f'<rectangle x="{cx:.0f}" y="{py}" width="{cw:.0f}" height="{ph}" corner-radius="28" fill="#FFFFFF" stroke="{p["diagline"]}" stroke-width="3"/>')
-        name = Path(im["file"]).name
-        if name not in FILE_IDS:
-            raise SystemExit(f"{name} has no Moda id: upload it (upload url=...) and add it to scripts/deckgen/file_ids.json")
-        fid = FILE_IDS[name]
+        key = f'{s["_lid"]}/{im["file"]}'  # per lesson: two lessons may keep different files under one name
+        if key not in FILE_IDS and PENDING_IDS is None:
+            raise SystemExit(f"{key} has no Moda id: upload it (upload url=...) and add it to scripts/deckgen/file_ids.json")
+        if key not in FILE_IDS:  # the gate draws a figure whose file is not uploaded yet, to check its text, and reports the id as missing
+            PENDING_IDS.append(key)
+        fid = FILE_IDS.get(key, "file_PENDING")
         out.append(f'<image src="{fid}" x="{cx + 20:.0f}" y="{py + 20}" width="{cw - 40:.0f}" height="{ph - 40}" fit="contain"/>')
     credits = "; ".join(dict.fromkeys(im["credit"] for im in imgs))
     out.append(f'<text x="{M}" y="890" width="1728" height="52" font-size="22" color="{p["sub"]}" line-height="1.1" vertical-align="top">Hình: {x(credits)}</text>')
@@ -389,7 +408,7 @@ def annotated_figure(p, n, s, o, idx):
         out += gloss(p, acc(p, n, idx + k)[0], b, rx, py + k * (ch + gap), rw, ch)
     a, t = acc(p, n, idx)
     by = py + len(bl) * (ch + gap); bh = ph - (by - py)
-    size = fit(plain(s["body"]), rw - 64, bh - 56, 34, 1.3, 24)
+    size = fit_rich(s["body"], rw - 64, bh - 56, 34, 1.3, 24)
     out.append(f'<rectangle x="{rx}" y="{by}" width="{rw}" height="{bh}" corner-radius="20" fill="{t}"/>')
     out.append(f'<text x="{rx + 32}" y="{by + 28}" width="{rw - 64}" height="{bh - 56}" format="html" font-size="{size}" color="{p["ink"]}" line-height="1.3" vertical-align="top">{rich(s["body"], p, n, a, o)}</text>')
     return out
@@ -401,7 +420,7 @@ def explainer(p, n, s, o, idx):
     a, t = acc(p, n, 0)
     y0, h = 290, 590
     bw = 1110 if bl else 1688
-    size = fit(plain(s["body"]), bw, h, 38, 1.35, 30)
+    size = fit_rich(s["body"], bw, h, 38, 1.35, 30, 18)
     out.append(f'<rectangle x="{M}" y="{y0 + 6}" width="10" height="{h - 12}" corner-radius="5" fill="{a}"/>')
     out.append(f'<text x="{M + 40}" y="{y0}" width="{bw}" height="{h}" format="html" font-size="{size}" color="{p["ink"]}" line-height="1.35" paragraph-spacing="18" vertical-align="top">{rich(s["body"], p, n, a, o)}</text>')
     if bl:
@@ -512,7 +531,7 @@ def page(lid, i, o, slides=None):
     if i == 0:
         body = cover(lid, d, o, total)
     else:
-        s = d["slides"][i - 1]
+        s = {**d["slides"][i - 1], "_lid": lid}
         p = pal(s["tone"])
         body = [f'<background fill="{p["bg"]}"/>', title(p, s["title"])]
         lay = s["layout"]
@@ -535,10 +554,19 @@ def overflows(markup):
     bad = []
     for node in ET.fromstring(markup).iter("text"):
         text = html.unescape("".join(node.itertext()))
-        if len(text) < 20 or node.get("font-family") == "Bricolage Grotesque":
+        if len(text) < 20 and "\n" not in text and node.get("font-family") != "Bricolage Grotesque" and not node.get("max-lines"):
             continue
+        display = node.get("font-family") == "Bricolage Grotesque"  # wider glyphs, tighter leading
         w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
-        if lines(text, w, size, 0.55) * size * 1.15 > h * 1.05:
+        paras = node.findall("p")
+        if paras:  # an html body: one <p> per paragraph, drawn at the node's own leading and paragraph spacing
+            need = sum(lines(html.unescape("".join(q.itertext())), w, size, 0.55) for q in paras) * size * float(node.get("line-height", 1.15))
+            need += float(node.get("paragraph-spacing", 0)) * (len(paras) - 1)
+        else:
+            need = lines(text, w, size, 0.58 if display else 0.55) * size * float(node.get("line-height", 1.08 if display else 1.15))
+        cap = node.get("max-lines")  # Moda drops the lines past max-lines, so the text must wrap to no more
+        clipped = bool(cap) and not paras and lines(text, w, size, 0.58 if display else 0.55) > int(cap)
+        if need > h * 1.05 or clipped:
             bad.append(text)
     return bad
 

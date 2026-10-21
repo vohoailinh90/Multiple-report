@@ -121,6 +121,10 @@ Mỗi bài có một **chủ sở hữu** cho từng khái niệm; bài khác ch
 | ghép chất ↔ cảm xúc ↔ hormone | L10 |
 | hệ thưởng, chú ý, căng thẳng | L05 (dopamine gốc ở L00) |
 | vỏ não trước trán, bán cầu | L04 |
+| các loại trí nhớ, ba giai đoạn (mã hóa, củng cố, truy xuất), tái củng cố, ký ức chói | L11 |
+| trầm cảm, lưỡng cực, lo âu, PTSD ở mức cơ chế; nhóm thuốc điều trị | L12 |
+| rượu, caffeine, cần sa, opioid; dung nạp, lệ thuộc, cai | L13 |
+| phát triển thần kinh, cắt tỉa, giai đoạn nhạy cảm, tuổi vị thành niên | L14 |
 
 ## 5. Nguồn
 
@@ -329,3 +333,12 @@ Những điều khác (cách viết, cấu trúc, nguồn) điều phối tự q
   (https://moda.app/canvas/6b00067f-f69e-4200-b090-1e660bcb271a), không cảnh báo co chữ, ảnh chụp đạt. Nội dung lấy từ L01/L03/L05.
 - `docs/deck-style.md`: bảng 17 layout, cỡ chữ `body` 30–38, bỏ luật 5 giây, lệnh `gen.py` trong quy trình.
 - `expected.json` của các bài giai đoạn 1 do phiên điều phối viết thay vai "tester" (chưa có model VPS), theo `scripts/deckgen/mk.py` `deep_expected`.
+
+**2026-10-21, giai đoạn 3 bắt đầu** (chủ repo bảo tiếp tục viết L11–L14; không đổi danh sách hay thứ tự):
+- Đã viết `lessons/L11..L14.spec.md` ("Trạng thái: đang viết") và `lessons/L11..L14.expected.json` (do điều phối viết thay vai tester, không sửa để gate qua).
+- Chuẩn spec giữ như giai đoạn 1; thêm: L11 không lặp thẻ hồ sơ của L07 (chỉ nói quá trình); L12 và L13 `topic: suc-khoe` có `## Lưu ý`, **chỉ nêu nhóm thuốc/chất và cơ chế**, không liều, không tên
+  thương hiệu, không khuyến nghị; L14 chỉ dẫn L06 về mạng xã hội. Các tranh luận phải trình bày cả hai phía, không phân xử: tái củng cố ở người (Schiller 2010 và bài kiểm chứng Chalkia 2020),
+  giả thuyết serotonin (Moncrieff 2022), mô hình hệ kép ở tuổi vị thành niên (Casey, Steinberg ↔ Pfeifer & Allen, Crone & Dahl), sinh nơron hải mã ở người lớn (Sorrells 2018 ↔ Boldrini 2018).
+- DOI gợi ý trong spec đã được kiểm bằng Crossref (chỉ kiểm có thật và đúng tiêu đề/năm, **chưa** kiểm nội dung). Hai DOI nhớ sai đã bị bắt và thay (Alberini & LeDoux 2013; Phelps 2004 về dập tắt);
+  năm Eriksson là 1998 (giáo trình ghi 1997); bài "Nuss 2015" thực ra có hai tác giả Gauthier và Nuss.
+- Môi trường điều phối hiện mở được rotel.pressbooks.pub, NIMH, NIDA, NIAAA, WHO và Crossref; NCBI Bookshelf hiện reCAPTCHA; doi.org trả 403.

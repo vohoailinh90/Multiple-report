@@ -1,0 +1,62 @@
+{
+  "id": "L14",
+  "title": "Não thay đổi theo tuổi và kinh nghiệm: từ thai kỳ đến tuổi vị thành niên",
+  "topic": "nao-bo",
+  "sections": [
+    "Tóm tắt",
+    "Dựng não: từ ống thần kinh đến mạng lưới",
+    "Dư thừa rồi cắt tỉa: synapse và myelin",
+    "Tính dẻo: học làm đổi cấu trúc",
+    "Giai đoạn nhạy cảm và giai đoạn tới hạn",
+    "Tuổi vị thành niên: não đang tái cấu trúc",
+    "Hệ thưởng và kiểm soát ở tuổi vị thành niên: bức tranh còn tranh luận",
+    "Môi trường và nghịch cảnh sớm",
+    "Não sau tuổi trưởng thành: tế bào mới và sự lão hóa",
+    "Những hiểu lầm thường gặp",
+    "Điều cần nhớ",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/stages-of-neuronal-development/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/neuroplasticity/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/sensitive-and-critical-periods-of-development/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/trade-off-between-plasticity-and-efficiency/",
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/characterizing-brain-development-from-infancy-through-young-adulthood/"
+  ],
+  "key_terms": [
+    "tính dẻo",
+    "cắt tỉa",
+    "myelin",
+    "giai đoạn nhạy cảm",
+    "giai đoạn tới hạn",
+    "vị thành niên",
+    "neuroplasticity",
+    "synaptic pruning",
+    "sensitive period",
+    "critical period",
+    "adolescence",
+    "neurogenesis"
+  ],
+  "min_words": 4000,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

@@ -70,7 +70,7 @@ GABA (gamma-aminobutyric acid) là chất ức chế chính của não, làm tru
 
 - **Tên và loại hóa học:** amino acid tạo từ glutamate; khác các amino acid khác, GABA không dùng để tạo protein [S11].
 - **Được tạo ở nhân nào:** không có nhân riêng; enzyme GAD (glutamic acid decarboxylase) tạo GABA từ glutamate và chỉ có trong nơron [S11].
-- **Đường đi (nguồn → đích):** synapse ức chế thường nằm gần thân tế bào: nơron vỏ não có khoảng 10.000 synapse kích thích nhưng chỉ 10–50 synapse ức chế, mà vì gần nơi phát xung nên vẫn đủ hãm [S11].
+- **Đường đi (nguồn → đích):** synapse ức chế thường nằm gần thân tế bào: nơron vỏ não nhận khoảng 10.000 synapse kích thích trên nhánh (axodendritic) nhưng chỉ 10–50 synapse ức chế trên thân (axosomatic), mà vì gần nơi phát xung nên vẫn đủ hãm [S11].
 - **Các loại thụ thể và tác dụng:** GABA-A là kênh ion (Cl- vào), nhanh; GABA-B kết cặp protein G, chậm; cả hai ức chế [S11].
 - **Vai trò theo từng vùng:** ở hạnh nhân, ức chế GABA không đủ có thể làm hạnh nhân hoạt động quá mức trong lo âu (giả thuyết); ở động vật, tiêm chất chủ vận GABA vào hạnh nhân làm giảm các chỉ số sợ và lo [S7].
 - **Liên hệ với cảm xúc/hành vi và mức bằng chứng:** có bằng chứng từ động vật và tác dụng của thuốc, nhưng sách cũng nói serotonin, endocannabinoid và oxytocin cùng quan trọng [S7]; không phải "lo âu do thiếu GABA".

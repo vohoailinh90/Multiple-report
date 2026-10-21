@@ -44,7 +44,7 @@ Giáo trình cũng nêu rằng, khác với nơron, glia không dẫn tín hiệ
 
 Có bao nhiêu tế bào mỗi loại? Quan niệm phổ biến từng cho rằng não có 100 tỷ nơron và số tế bào đệm nhiều gấp mười lần. Azevedo và cộng sự dùng phương pháp phân đoạn đẳng hướng (isotropic fractionator) để đếm và báo cáo, ở não nam giới trưởng thành, trung bình khoảng 86,1 ± 8,1 tỷ tế bào mang dấu NeuN (được coi là nơron) và 84,6 ± 9,8 tỷ tế bào không mang dấu này (tế bào không phải nơron). Họ cũng ghi nhận chỉ khoảng 19% số nơron nằm ở vỏ não [S4]. Số đếm này không khớp với quan niệm "gấp mười lần" [S4].
 
-Tuy vậy, các nguồn chưa thống nhất. Neuroscience Online ước tính khoảng 360 tỷ tế bào đệm và 90 tỷ nơron, và nói tế bào đệm chiếm 80 đến 90% số tế bào của hệ thần kinh trung ương [S3]. Hai ước tính này khác nhau rõ rệt; đây là chỗ đang tranh luận về cách đếm, nên bài ghi cả hai và không khẳng định một tỷ lệ chắc chắn. Lưu ý: đây là trung bình của một nghiên cứu cụ thể, không phải con số cố định cho mọi người.
+Neuroscience Online nêu một ước tính khác, cho cả hệ thần kinh người chứ không chỉ não: khoảng 360 tỷ tế bào đệm và 90 tỷ nơron, và nói tế bào đệm chiếm 80 đến 90% số tế bào của hệ thần kinh trung ương [S3]. Hai con số khác phạm vi (não so với hệ thần kinh) và khác cách gọi (tế bào không phải nơron so với tế bào đệm), nên bài không xem chúng là hai ước tính của cùng một đại lượng và không khẳng định một tỷ lệ chắc chắn.
 
 ## Điện thế nghỉ
 

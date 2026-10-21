@@ -134,9 +134,9 @@
       "bullets": [
         "Trung bình ở não nam giới trưởng thành, từ một nghiên cứu đếm trực tiếp [S4]",
         "Cùng nghiên cứu: khoảng 84,6 tỷ tế bào không phải nơron, gần ngang nơron [S4]",
-        "Đang tranh luận: Neuroscience Online ước tính khoảng 360 tỷ tế bào đệm và 90 tỷ nơron [S3]"
+        "Neuroscience Online nêu số khác cho cả hệ thần kinh: khoảng 360 tỷ tế bào đệm, 90 tỷ nơron [S3]; khác phạm vi nên không so trực tiếp"
       ],
-      "notes": "Con số này đến từ một nghiên cứu dùng phương pháp phân đoạn đẳng hướng để đếm tế bào ở não người. Tóm tắt của nghiên cứu ghi trung bình 86,1 tỷ tế bào mang dấu NeuN, được coi là nơron, và 84,6 tỷ tế bào không mang dấu này. Quan niệm phổ biến là tế bào đệm nhiều gấp mười lần nơron, và số đếm này không khớp với quan niệm đó. Nhưng Neuroscience Online ước tính khác: khoảng 360 tỷ tế bào đệm và 90 tỷ nơron. Hai ước tính mâu thuẫn nhau, đang tranh luận, nên bài ghi cả hai. Chỗ dễ nhầm: đây là trung bình của nghiên cứu ở não nam giới trưởng thành, kèm độ lệch chuẩn vài tỷ; đừng đọc nó như một con số chính xác cho mọi người. Nghiên cứu còn ghi chỉ khoảng 19% số nơron nằm ở vỏ não.",
+      "notes": "Con số này đến từ một nghiên cứu dùng phương pháp phân đoạn đẳng hướng để đếm tế bào ở não người. Tóm tắt của nghiên cứu ghi trung bình 86,1 tỷ tế bào mang dấu NeuN, được coi là nơron, và 84,6 tỷ tế bào không mang dấu này. Quan niệm phổ biến là tế bào đệm nhiều gấp mười lần nơron, và số đếm này không khớp với quan niệm đó. Neuroscience Online nêu số khác, nhưng cho cả hệ thần kinh chứ không riêng não: khoảng 360 tỷ tế bào đệm và 90 tỷ nơron. Hai con số khác phạm vi và cách gọi nên không so trực tiếp được. Chỗ dễ nhầm: đây là trung bình của nghiên cứu ở não nam giới trưởng thành, kèm độ lệch chuẩn vài tỷ; đừng đọc nó như một con số chính xác cho mọi người. Nghiên cứu còn ghi chỉ khoảng 19% số nơron nằm ở vỏ não.",
       "layout": "one-big-number",
       "tone": "dark"
     },
@@ -149,7 +149,7 @@
         "S4"
       ],
       "bullets": [],
-      "notes": "Thẻ hồ sơ này gom lại các loại glia mà giáo trình nêu tên. Điểm đáng chú ý là sự khác nhau giữa hệ trung ương và ngoại biên: một tế bào ít nhánh quấn myelin quanh nhiều sợi trục, còn một tế bào Schwann chỉ quấn quanh một sợi trục. Vi bào đệm và tế bào hình sao được giáo trình nhắc chung như những tế bào dọn dẹp và nuôi dưỡng. Hai dòng cuối nối sang slide trước: số đếm năm 2009 cho thấy hai nhóm tế bào có số lượng gần ngang nhau, còn Neuroscience Online ước tính tế bào đệm nhiều hơn nơron. Chỗ dễ nhầm: tỷ lệ glia và nơron đang được tranh luận giữa các nguồn, nên đừng nhắc bất kỳ tỷ lệ nào như một sự thật đã chốt.",
+      "notes": "Thẻ hồ sơ này gom lại các loại glia mà giáo trình nêu tên. Điểm đáng chú ý là sự khác nhau giữa hệ trung ương và ngoại biên: một tế bào ít nhánh quấn myelin quanh nhiều sợi trục, còn một tế bào Schwann chỉ quấn quanh một sợi trục. Vi bào đệm và tế bào hình sao được giáo trình nhắc chung như những tế bào dọn dẹp và nuôi dưỡng. Hai dòng cuối nối sang slide trước: số đếm năm 2009 cho thấy hai nhóm tế bào có số lượng gần ngang nhau, còn Neuroscience Online nêu số cho cả hệ thần kinh với tế bào đệm nhiều hơn nơron. Chỗ dễ nhầm: hai con số khác phạm vi (não so với hệ thần kinh) và cách gọi, nên đừng nhắc bất kỳ tỷ lệ nào như một sự thật đã chốt.",
       "layout": "profile-card",
       "tone": "light",
       "facts": [
@@ -166,12 +166,12 @@
           "text": "Dọn mảnh vỡ của nơron chết, mang dinh dưỡng từ mạch máu, điều hòa ion dịch ngoại bào [S1]"
         },
         {
-          "label": "Số lượng (đang tranh luận)",
-          "text": "Khoảng 84,6 tỷ tế bào không phải nơron [S4] so với ước tính 360 tỷ tế bào đệm [S3]"
+          "label": "Số lượng (khác phạm vi)",
+          "text": "Não: khoảng 84,6 tỷ tế bào không phải nơron [S4]; cả hệ thần kinh: ước tính 360 tỷ tế bào đệm [S3]"
         },
         {
           "label": "Đừng hiểu nhầm",
-          "text": "Tỷ lệ glia và nơron chưa có con số chắc chắn giữa các nguồn; đừng nhắc như sự thật đã chốt [S3] [S4]"
+          "text": "Hai con số khác phạm vi và cách gọi, không so trực tiếp được; đừng nhắc một tỷ lệ như sự thật đã chốt [S3] [S4]"
         }
       ]
     },

@@ -30,6 +30,7 @@ HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of thes
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
+FIELDS = {"title": str, "section": str, "layout": str, "tone": str, "sources": list, "bullets": list, "notes": str}
 DATE = re.compile(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])")
 _gen = None
 
@@ -52,18 +53,20 @@ def overflow(root, lid, S, sl_path):
     """A slide whose text cannot fit its boxes even at the smallest font gen.py allows (the 160-character limit alone allows it)."""
     opts_file = Path(root) / "scripts" / "deckgen" / "opts" / f"{lid}.json"
     opts = json.loads(opts_file.read_text(encoding="utf-8")) if opts_file.is_file() else {}
-    g, errs = gen(), []
+    g, errs, warn = gen(), [], []
     for i, s in enumerate(S, 1):
         if s.get("layout") not in LAYOUTS or s.get("tone") not in TONES:
             continue  # reported above
         try:
             markup = g.page(lid, i, opts, sl_path)
-        except SystemExit:
-            continue  # a figure without a Moda file id yet: scripts/deckgen/file_ids.json
-        except (KeyError, IndexError, ZeroDivisionError, TypeError, ValueError):
-            continue  # a malformed slide: the bullet and field checks name it
+        except SystemExit as e:
+            (warn if "has no Moda id" in str(e) else errs).append(f"slide {i} ({s['title']}): {e}")  # a new figure gets its id when the deck is built
+            continue
+        except Exception as e:  # the documented generation command would fail the same way
+            errs.append(f"slide {i} ({s['title']}) does not render: {type(e).__name__}: {e}")
+            continue
         errs += [f"text does not fit its box on {s['layout']} ({s['title']}): {t[:50]}" for t in g.overflows(markup)]
-    return errs
+    return errs, warn
 
 
 def check(root, lid):
@@ -107,7 +110,17 @@ def check(root, lid):
         if not (base / img).is_file(): errs.append(f"image in lesson.md missing: {img}")
 
     S = sl["slides"]
+    bad = [f"slide {i} lacks {k!r} of the right type" for i, s in enumerate(S, 1) for k, kind in FIELDS.items()
+           if not isinstance(s.get(k), kind)]
+    bad += [f"slide {i} has a bullet that is not text" for i, s in enumerate(S, 1) if isinstance(s.get("bullets"), list)
+            and not all(isinstance(b, str) for b in s["bullets"])]
+    if bad:
+        return errs + bad, warn, f"{lid}: slides.json is incomplete"
     if {s["section"] for s in S} != set(secs): errs.append(f"slide sections differ: {set(secs) ^ {s['section'] for s in S}}")
+    order = [secs.index(s["section"]) for s in S if s["section"] in secs]
+    if order != sorted(order): errs.append("slides do not follow the order of the lesson's sections")
+    if S and S[-1]["section"] != "Nguồn tham khảo": errs.append("the last slide must be the sources slide (section Nguồn tham khảo)")
+    if any(s["layout"] == "references" for s in S[:-1]): errs.append("a references slide must be the last slide")
     if not (ex["slides"]["min"] <= len(S) <= ex["slides"]["max"]): errs.append(f"slide count {len(S)}")
     lay = [s["layout"] for s in S]; tone = [s["tone"] for s in S]
     errs += [f"tone {t!r} is not light or dark: {s['title']}" for s, t in zip(S, tone) if t not in TONES]
@@ -179,7 +192,8 @@ def check(root, lid):
             errs += [f"slide text cites {k} but its sources omit it: {name}" for k in sorted(set(CITE.findall(drawn)) - set(s.get("sources", [])))]
         if lo_hi and s["section"] != "Nguồn tham khảo" and not lo_hi[0] <= words(s.get("notes", "")) <= lo_hi[1]:
             warn.append(f"notes {words(s.get('notes', ''))} words: {name}")
-    errs += overflow(root, lid, S, sl_path)
+    over_errs, over_warn = overflow(root, lid, S, sl_path)
+    errs += over_errs; warn += over_warn
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")
     w = words(body); c = len(CITE.findall(text))
     if not ex["min_words"] <= w <= ex["max_words"]: errs.append(f"words {w}")

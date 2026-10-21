@@ -204,6 +204,37 @@ class GateTests(unittest.TestCase):
         self.assertIn("slide text cites S2 but its sources omit it: Hai phía", errs)
         self.assertEqual(self.run_gate(self.mutated(3, bullets=["A: một [S4]", "B: hai"]))[0], [])
 
+    def test_slides_follow_the_section_order_and_the_sources_slide_is_last(self):
+        swapped = copy.deepcopy(SLIDES)
+        swapped[0]["section"], swapped[-1]["section"] = swapped[-1]["section"], swapped[0]["section"]
+        errs, _ = self.run_gate(swapped)
+        self.assertIn("slides do not follow the order of the lesson's sections", errs)
+        self.assertIn("the last slide must be the sources slide (section Nguồn tham khảo)", errs)
+        early = self.mutated(4, layout="references", bullets=["S1: a"])
+        self.assertIn("a references slide must be the last slide", self.run_gate(early)[0])
+
+    def test_a_slide_missing_a_renderer_field_is_reported_not_crashed(self):
+        """A profile-card without bullets, or a slide without sources, used to pass the gate and fail in gen.py."""
+        errs, _ = self.run_gate(self.mutated(2, bullets=None))
+        self.assertIn("slide 3 lacks 'bullets' of the right type", errs)
+        errs, _ = self.run_gate(self.mutated(4, sources=None))
+        self.assertIn("slide 5 lacks 'sources' of the right type", errs)
+        errs, _ = self.run_gate(self.mutated(4, bullets=["một", 2, "ba"]))
+        self.assertIn("slide 5 has a bullet that is not text", errs)
+
+    def test_a_slide_the_renderer_cannot_draw_is_an_error_but_a_missing_moda_id_is_a_warning(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        errs, warn = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
+        self.assertEqual(errs, [])
+        self.assertTrue(any("has no Moda id" in w for w in warn), warn)
+        original = gate.gen().page
+        gate.gen().page = lambda *a, **k: (_ for _ in ()).throw(KeyError("boom"))
+        self.addCleanup(setattr, gate.gen(), "page", original)
+        errs, _ = self.run_gate()
+        self.assertTrue(any("does not render: KeyError" in e for e in errs), errs)
+
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})
         self.assertIn("cites 6", errs)

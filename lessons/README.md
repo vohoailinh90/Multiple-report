@@ -8,8 +8,8 @@
 | Kỹ thuật | 2026-10-21 | [L16](L16/lesson.md) | Grok Bot: đội agent AI chạy trên máy tính đám mây | [L16.pptx](L16/L16.pptx) |
 | Não bộ | 2026-10-20 | [L01](L01/lesson.md) | Bản đồ não: các bộ phận lớn làm gì | chưa có |
 | Não bộ | 2026-10-20 | [L07](L07/lesson.md) | Hệ viền và các nhân nằm sâu của não | chưa có |
-| Não bộ | 2026-10-21 | [L02](L02/lesson.md) | Nơron và synapse: não truyền tin thế nào | chưa có |
-| Não bộ | 2026-10-21 | [L04](L04/lesson.md) | Thùy trán, não trái và não phải | chưa có |
+| Não bộ | 2026-10-21 | [L02](L02/lesson.md) | Nơron và synapse: não truyền tin thế nào | [L02.pptx](L02/L02.pptx) |
+| Não bộ | 2026-10-21 | [L04](L04/lesson.md) | Thùy trán, não trái và não phải | [L04.pptx](L04/L04.pptx) |
 | Não bộ | 2026-10-21 | [L08](L08/lesson.md) | Vỏ não và các thùy: thái dương, đỉnh, chẩm | [L08.pptx](L08/L08.pptx) |
 | Thần kinh | 2026-10-19 | [L00](L00/lesson.md) | Dopamine và động lực | [L00.pptx](L00/L00.pptx) |
 | Thần kinh | 2026-10-20 | [L03](L03/lesson.md) | Chất dẫn truyền thần kinh và tâm lý | chưa có |

@@ -8,23 +8,26 @@
   "Thụ thể: ổ khóa và chìa",
   "Thuốc can thiệp ở synapse"
  ],
- "big": {},
+ "big": {
+  "8": "86 tỷ"
+ },
  "actors": {
-  "7": [
+  "19": [
    "Nơron trước",
    "Khe synapse",
    "Nơron sau"
   ]
  },
  "mark": {
-  "6": "không to nhỏ",
-  "15": "thuốc"
+  "29": "cộng mọi phiếu",
+  "37": "chưa chứng minh",
+  "43": "không phải lời khuyên y tế"
  },
  "center": {
-  "9": "Thụ thể"
+  "23": "Thụ thể"
  },
  "pairs": {
-  "7": [
+  "19": [
    [
     0,
     0
@@ -42,5 +45,17 @@
     2
    ]
   ]
- }
+ },
+ "concepts": [
+  "nơron",
+  "synapse",
+  "sợi trục",
+  "ion",
+  "xung",
+  "chất dẫn truyền",
+  "thụ thể",
+  "kích thích",
+  "ức chế",
+  "tăng cường dài hạn"
+ ]
 }

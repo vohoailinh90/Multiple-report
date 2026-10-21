@@ -9,16 +9,26 @@
   "Não trái, não phải"
  ],
  "big": {
-  "15": "1.011"
+  "37": "1.011"
  },
  "actors": {},
  "mark": {
-  "1": "theo từng chức năng",
-  "6": "quyết định ai làm gì",
-  "11": "vỏ não trước trán",
-  "17": "theo từng mạng"
+  "1": "đúng hay sai",
+  "17": "ai làm gì lúc nào",
+  "35": "bên đối diện"
  },
  "center": {
-  "5": "Vỏ não trước trán"
- }
+  "15": "Vỏ não trước trán",
+  "33": "Thể chai"
+ },
+ "concepts": [
+  "vỏ não trước trán",
+  "chức năng điều hành",
+  "kiểm soát nhận thức",
+  "ức chế",
+  "thể chai",
+  "bán cầu",
+  "fMRI",
+  "giả thuyết"
+ ]
 }

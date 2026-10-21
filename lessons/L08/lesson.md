@@ -52,7 +52,7 @@ Ba ý đáng mang theo. Thứ nhất, cách chia thùy là quy ước để gọ
 - vỏ thính giác (auditory cortex) ở phần trên của thùy, vùng Brodmann 41 và 42 theo OpenStax [S1] [S3];
 - vùng Wernicke (Wernicke's area) ở phần sau của hồi thái dương trên, liên quan đến hiểu ngôn ngữ [S1];
 - mặt dưới của thùy, nhận tín hiệu thị giác từ vỏ thị giác, chứa vùng nhận mặt ở hồi thoi (fusiform face area) và vùng nhận nơi chốn và khung cảnh (parahippocampal place area) [S1];
-- phần thái dương giữa (medial temporal lobes), quan trọng cho việc mã hóa trí nhớ dài hạn [S1]. Phần này gồm hải mã và hạnh nhân [S3], thuộc L07.
+- phần trong của thùy thái dương (medial temporal lobes; "medial" nghĩa là phía trong, gần đường giữa của não, không phải "ở giữa" thùy), quan trọng cho việc mã hóa trí nhớ dài hạn [S1]. Phần này gồm hải mã và hạnh nhân [S3], thuộc L07.
 
 **Vai trò chính và bằng chứng.**
 
@@ -74,7 +74,7 @@ Một mô hình nhìn khác (**giả thuyết**, do Hickok và Poeppel đề xu�
 
 **Chất dẫn truyền chính.** Giáo trình không nêu chất dẫn truyền đặc thù cho các vùng này; hồ sơ từng chất ở L03.
 
-**Khi tổn thương hoặc rối loạn.** Tổn thương mặt dưới thùy thái dương có thể gây mất nhận mặt [S1]. Tổn thương phần thái dương giữa ảnh hưởng đến mã hóa trí nhớ dài hạn (xem L07) [S1].
+**Khi tổn thương hoặc rối loạn.** Tổn thương mặt dưới thùy thái dương có thể gây mất nhận mặt [S1]. Tổn thương phần trong của thùy thái dương ảnh hưởng đến mã hóa trí nhớ dài hạn (xem L07) [S1].
 
 **Đừng hiểu nhầm.** Một: vùng Wernicke có lẽ không phải là "trung tâm hiểu lời nói" duy nhất; mô hình hai dòng của Hickok và Poeppel mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu [S8] (đây là giả thuyết, không phải sự thật đã đóng; kết luận về vùng Wernicke là suy luận của người viết từ mô hình, vì tóm tắt của bài báo không nhắc tên vùng này). Hai: vùng nhận mặt là vùng hoạt động mạnh hơn với mặt, không phải "nút nhận mặt" duy nhất; chính các tác giả tổng quan mô tả một cuộc tranh luận lâu dài giữa cách giải thích bằng cơ chế chuyên biệt cho mặt và cách giải thích bằng cơ chế đa dụng, dù họ nghiêng về phía chuyên biệt [S6]. Ba: ký ức không nằm gọn trong thùy thái dương [S3].
 

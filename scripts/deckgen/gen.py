@@ -260,12 +260,19 @@ def timeline(p, n, s, o):
 def big(p, n, s, o, idx):
     a, t = acc(p, n, 0)
     num = o.get("big", {}).get(str(idx), s["title"])
-    out = [f'<text x="{M}" y="260" width="1728" height="360" font-family="Bricolage Grotesque" font-weight="800" font-size="300" color="{a}" max-lines="1" vertical-align="middle">{x(num)}</text>']
+    size = 300
+    while size > 120 and len(num) * size * 0.6 > 1728:
+        size -= 20
+    out = [f'<text x="{M}" y="260" width="1728" height="360" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{a}" max-lines="1" vertical-align="middle">{x(num)}</text>']
     bl = list(s["bullets"][:3])
     if bl and bl[0].startswith(num):
         bl[0] = bl[0][len(num):].strip()
-    for k, b in enumerate([z for z in bl if z]):
-        out.append(f'<text x="{M}" y="{650 + k * 96}" width="1728" height="90" font-weight="600" font-size="{fit(b, 1728, 90, 44, 1.0, FLOOR, 0.57)}" color="{p["ink"]}" max-lines="2">{x(b)}</text>')
+    lines_ = [z for z in bl if z]
+    y, room = 640, 280  # under the number, above the sources line
+    for b in lines_:
+        h = room / len(lines_) - 10
+        out.append(f'<text x="{M}" y="{y:.0f}" width="1728" height="{h:.0f}" font-weight="600" font-size="{fit(b, 1728, h, 44, 1.15, FLOOR, 0.57)}" color="{p["ink"]}" line-height="1.15" vertical-align="top">{x(b)}</text>')
+        y += h + 10
     return out
 
 
@@ -281,8 +288,12 @@ def highlight(p, n, s, o, idx):
         out.append(f'<text x="{M + 60}" y="300" width="1660" height="440" format="html" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{p["ink"]}" line-height="1.12" vertical-align="middle"><p>{html}</p></text>')
     else:
         out.append(f'<text x="{M + 60}" y="300" width="1660" height="440" font-family="Bricolage Grotesque" font-weight="800" font-size="{size}" color="{p["ink"]}" line-height="1.12" vertical-align="middle">{x(sent)}</text>')
-    for k, b in enumerate(s["bullets"][1:3]):
-        out.append(f'<text x="{M + 60}" y="{780 + k * 70}" width="1660" height="64" font-size="{fit(b, 1660, 64, 36, 1.0, FLOOR)}" color="{p["sub"]}" max-lines="2">{x(b)}</text>')
+    subs = s["bullets"][1:4]
+    step = 70 if len(subs) <= 2 else 54  # three lines start higher and tighten so the last ends above the sources line
+    y0 = 780 if len(subs) <= 2 else 756
+    for k, b in enumerate(subs):
+        h = step - 6
+        out.append(f'<text x="{M + 60}" y="{y0 + k * step}" width="1660" height="{h}" font-size="{fit(b, 1660, h, 36, 1.0, FLOOR)}" color="{p["sub"]}" max-lines="2">{x(b)}</text>')
     return out
 
 
@@ -311,14 +322,16 @@ def sequence(p, n, s, o, idx):
         if i0 == i1:
             out.append(f'<line x1="{x1:.0f}" y1="{yy + 5:.0f}" x2="{x1:.0f}" y2="{yy + 95:.0f}" stroke="{a}" stroke-width="5" arrow-end="triangle"/>')
             wtxt = lane - 80
+            ss = fit(f"{k + 1}. {b}", wtxt, 90, 30, 1.1, FLOOR, 0.57)
             if x1 + 24 + wtxt > 1824:
-                out.append(f'<text x="{x1 - 24 - wtxt:.0f}" y="{yy + 5:.0f}" width="{wtxt:.0f}" height="90" font-weight="600" font-size="30" color="{p["ink"]}" text-align="right" vertical-align="middle" max-lines="2" line-height="1.1">{k + 1}. {x(b)}</text>')
+                out.append(f'<text x="{x1 - 24 - wtxt:.0f}" y="{yy + 5:.0f}" width="{wtxt:.0f}" height="90" font-weight="600" font-size="{ss}" color="{p["ink"]}" text-align="right" vertical-align="middle" line-height="1.1">{k + 1}. {x(b)}</text>')
             else:
-                out.append(f'<text x="{x1 + 24:.0f}" y="{yy + 5:.0f}" width="{wtxt:.0f}" height="90" font-weight="600" font-size="30" color="{p["ink"]}" vertical-align="middle" max-lines="2" line-height="1.1">{k + 1}. {x(b)}</text>')
+                out.append(f'<text x="{x1 + 24:.0f}" y="{yy + 5:.0f}" width="{wtxt:.0f}" height="90" font-weight="600" font-size="{ss}" color="{p["ink"]}" vertical-align="middle" line-height="1.1">{k + 1}. {x(b)}</text>')
             continue
         out.append(f'<line x1="{x1:.0f}" y1="{yy + 60:.0f}" x2="{x2:.0f}" y2="{yy + 60:.0f}" stroke="{a}" stroke-width="5" arrow-end="triangle"/>')
         lx = min(x1, x2)
-        out.append(f'<text x="{lx + 10:.0f}" y="{yy - 4:.0f}" width="{abs(x2 - x1) - 20:.0f}" height="60" font-weight="600" font-size="30" color="{p["ink"]}" text-align="center" vertical-align="bottom" max-lines="2" line-height="1.1">{k + 1}. {x(b)}</text>')
+        lw = abs(x2 - x1) - 20
+        out.append(f'<text x="{lx + 10:.0f}" y="{yy - 24:.0f}" width="{lw:.0f}" height="80" font-weight="600" font-size="{fit(f"{k + 1}. {b}", lw, 80, 30, 1.1, FLOOR, 0.57)}" color="{p["ink"]}" text-align="center" vertical-align="bottom" line-height="1.1">{k + 1}. {x(b)}</text>')
     return out
 
 
@@ -338,7 +351,7 @@ def images(p, s, px, py, pw, ph):
         fid = FILE_IDS[name]
         out.append(f'<image src="{fid}" x="{cx + 20:.0f}" y="{py + 20}" width="{cw - 40:.0f}" height="{ph - 40}" fit="contain"/>')
     credits = "; ".join(dict.fromkeys(im["credit"] for im in imgs))
-    out.append(f'<text x="{M}" y="892" width="1728" height="36" font-size="22" color="{p["sub"]}" max-lines="1">Hình: {x(credits)}</text>')
+    out.append(f'<text x="{M}" y="890" width="1728" height="52" font-size="22" color="{p["sub"]}" line-height="1.1" vertical-align="top">Hình: {x(credits)}</text>')
     return out
 
 
@@ -368,15 +381,15 @@ def figure(p, n, s, o, idx):
 
 def annotated_figure(p, n, s, o, idx):
     """Như figure, nhưng cột phải là tối đa 3 thẻ chú giải ngắn và một khối giải thích (body) 40-70 chữ."""
-    px, py, pw, ph = M, 236, 980, 640
+    px, py, pw, ph = M, 236, 940, 640
     out = images(p, s, px, py, pw, ph)
     bl = s.get("bullets", []); rx = px + pw + 40; rw = 1920 - M - rx
-    ch, gap = 104, 16
+    ch, gap = (88, 14) if len(bl) >= 3 else (104, 16)
     for k, b in enumerate(bl):
         out += gloss(p, acc(p, n, idx + k)[0], b, rx, py + k * (ch + gap), rw, ch)
     a, t = acc(p, n, idx)
     by = py + len(bl) * (ch + gap); bh = ph - (by - py)
-    size = fit(plain(s["body"]), rw - 64, bh - 56, 34, 1.3, 26)
+    size = fit(plain(s["body"]), rw - 64, bh - 56, 34, 1.3, 24)
     out.append(f'<rectangle x="{rx}" y="{by}" width="{rw}" height="{bh}" corner-radius="20" fill="{t}"/>')
     out.append(f'<text x="{rx + 32}" y="{by + 28}" width="{rw - 64}" height="{bh - 56}" format="html" font-size="{size}" color="{p["ink"]}" line-height="1.3" vertical-align="top">{rich(s["body"], p, n, a, o)}</text>')
     return out
@@ -513,6 +526,21 @@ def page(lid, i, o, slides=None):
             body.append(f'<text x="{M}" y="944" width="1728" height="36" font-size="24" color="{p["sub"]}" max-lines="1">Nguồn: {x(" ".join("[" + z + "]" for z in s["sources"]))}</text>')
         body.append(footer(p, lid, i, total))
     return '<content font-family="Be Vietnam Pro">\n' + "\n".join(body) + "\n</content>"
+
+
+def overflows(markup):
+    """Texts of a page that wrap to more height than their box has at the size fit() settled on (an estimate, cw 0.55)."""
+    import html
+    import xml.etree.ElementTree as ET
+    bad = []
+    for node in ET.fromstring(markup).iter("text"):
+        text = html.unescape("".join(node.itertext()))
+        if len(text) < 20 or node.get("font-family") == "Bricolage Grotesque":
+            continue
+        w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
+        if lines(text, w, size, 0.55) * size * 1.15 > h * 1.05:
+            bad.append(text)
+    return bad
 
 
 def arg(name):

@@ -43,7 +43,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `sequence-diagram` | các cột tác nhân, mũi tên tin nhắn đánh số từ trên xuống |
 | `flow` | 3–5 hộp nối mũi tên trái sang phải, hộp quyết định khác màu |
 | `two-column-comparison` | hai cột màu khác nhau, cùng hàng tiêu chí, một dòng kết luận dưới |
-| `2x2-matrix` | hai trục có nhãn, bốn ô, mỗi ô một ý |
+| `2x2-matrix` | *(chưa có renderer trong `gen.py`; gate từ chối cho tới khi có)* hai trục có nhãn, bốn ô, mỗi ô một ý |
 | `lookup-table` | `<table>` có hàng tiêu đề, tối đa 5 hàng, cột đầu đậm |
 | `card-grid` | 2–4 thẻ bằng nhau, mỗi thẻ số hoặc nhãn màu và một câu |
 | `numbered-rows` | các hàng đánh số lớn bên trái, câu bên phải |
@@ -52,7 +52,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `timeline` | một trục ngang, các mốc có nhãn trên và dưới |
 | `one-big-number` | một con số rất lớn (chỉ số bài học có nêu) và một câu giải thích |
 | `one-highlighted-sentence` | một câu lớn, từ khóa tô màu của khái niệm |
-| `figure` | khung trắng bo góc bên trái chứa hình (`fit="contain"`, tải bằng `upload url=`), bên phải 3 thẻ chú giải: nhãn tiếng Anh của hình màu nhấn, nghĩa tiếng Việt bên dưới; dòng `Hình: <tác giả, giấy phép, hình số, chương>` cỡ 22 ở y=892, dòng `Nguồn:` ở y=944 |
+| `figure` | khung trắng bo góc bên trái chứa hình (`fit="contain"`, tải bằng `upload url=`), bên phải 3 thẻ chú giải: nhãn tiếng Anh của hình màu nhấn, nghĩa tiếng Việt bên dưới; dòng `Hình: <tác giả, giấy phép, hình số, chương>` cỡ 22 ở y=890 (tối đa hai dòng), dòng `Nguồn:` ở y=944 |
 | `explainer` | cột trái ~65% là đoạn `body` (cỡ 30–38, giãn dòng 1,35, vạch màu bên trái, `**từ khoá**` tô màu khái niệm, `[Sn]` màu chữ phụ); cột phải 2–3 thẻ lấy từ `bullets` dạng `Nhãn: nội dung` (Ở đâu / Làm gì / Đừng hiểu nhầm) |
 | `profile-card` | thẻ hồ sơ: lưới 2×2 (4 mục) hoặc 3 cột (3, 5, 6 mục) lấy từ `facts`, nhãn màu khái niệm cỡ 28, chữ 28–34; không vẽ `bullets` |
 | `annotated-figure` | như `figure` (khung hình rộng 980) nhưng cột phải là tối đa 3 thẻ chú giải ngắn (≤ 70 ký tự) và một khối nền nhạt chứa `body` 40–70 chữ |

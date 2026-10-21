@@ -55,6 +55,16 @@ class GenTests(unittest.TestCase):
                     sizes = [size for _, _, size, _ in texts(markup)]
                     self.assertGreaterEqual(min(sizes), 22)
 
+    def test_no_text_is_estimated_to_overflow_its_box(self):
+        """gen.fit sizes every long text to its box; a layout with a box too small for its text fails here, not on Moda."""
+        pages = [("T00", i, json.loads((FIX / "opts.json").read_text(encoding="utf-8")), FIX / "slides.json") for i in range(1, 6)]
+        for lid in sorted(p.parent.name for p in (ROOT / "lessons").glob("*/slides.json") if not in_progress(p.parent.name)):
+            n = len(json.loads((ROOT / "lessons" / lid / "slides.json").read_text(encoding="utf-8"))["slides"])
+            pages += [(lid, i, opts(lid), None) for i in range(1, n + 1)]
+        for lid, i, o, path in pages:
+            with self.subTest(lesson=lid, page=i):
+                self.assertEqual(gen.overflows(gen.page(lid, i, o, path)), [])
+
     def demo(self, i):
         return gen.page("T00", i, json.loads((FIX / "opts.json").read_text(encoding="utf-8")), FIX / "slides.json")
 

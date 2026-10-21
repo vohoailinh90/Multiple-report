@@ -98,7 +98,7 @@ class GateTests(unittest.TestCase):
         seven = [{"label": "a", "text": "b"}] * 7
         self.assertIn("profile-card needs 3-6 facts: Hồ sơ hạnh nhân", self.run_gate(self.mutated(2, facts=seven))[0])
         self.assertIn("profile-card needs facts: Hồ sơ hạnh nhân", self.run_gate(self.mutated(2, facts=None))[0])
-        self.assertIn("profile-card draws facts, not bullets: Hồ sơ hạnh nhân",
+        self.assertIn("profile-card draws 0-0 bullets, found 1: Hồ sơ hạnh nhân",
                       self.run_gate(self.mutated(2, bullets=["x"]))[0])
 
     def test_each_content_section_needs_three_slides(self):
@@ -125,9 +125,73 @@ class GateTests(unittest.TestCase):
         self.assertIn("images are drawn only by figure and annotated-figure: Ba bước", errs)
         self.assertIn("figure needs images: Ba bước", self.run_gate(self.mutated(4, layout="figure"))[0])
 
+    def test_three_text_heavy_slides_in_a_row_are_refused(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": "c", "url": "u"}]
+        (self.root / "lessons" / "L99" / "images").mkdir()
+        (self.root / "lessons" / "L99" / "images" / "x.png").write_bytes(b"png")
+        heavy = self.mutated(3, layout="annotated-figure", body=" ".join(["chữ"] * 50), images=img, bullets=[])
+        self.assertIn("three text-heavy slides in a row from slide 2", self.run_gate(heavy)[0])
+
+    def test_a_layout_must_get_the_bullets_its_renderer_draws(self):
+        """gen.py draws at most 4 nodes of a connection-diagram and divides by the bullet count of a flow."""
+        errs, _ = self.run_gate(self.mutated(4, layout="connection-diagram", bullets=list("abcde")))
+        self.assertIn("connection-diagram draws 1-4 bullets, found 5: Ba bước", errs)
+        errs, _ = self.run_gate(self.mutated(4, bullets=[]))
+        self.assertIn("flow draws 1-5 bullets, found 0: Ba bước", errs)
+        errs, _ = self.run_gate(self.mutated(4, layout="one-highlighted-sentence", bullets=list("abcde")))
+        self.assertIn("one-highlighted-sentence draws 1-4 bullets, found 5: Ba bước", errs)
+
+    def test_an_expected_url_must_sit_on_its_own_reference_line(self):
+        (self.root / "lessons" / "L99").mkdir(exist_ok=True)
+        urls = {f"S{k}": f"https://example.org/{k}" for k in range(2, 6)}
+        expected = {k: v for k, v in EXPECTED.items() if k not in ("required_urls", "min_independent_sources")}
+        expected["sources"] = {"S1": BOOK, **urls}
+        self.assertEqual(self.run_gate(expected=expected)[0], [])
+        swapped = {**expected["sources"], "S2": urls["S3"], "S3": urls["S2"]}  # both URLs are in the lesson, on the wrong lines
+        errs, _ = self.run_gate(expected={**expected, "sources": swapped})
+        self.assertIn("url of S2 is not on its own reference line", errs)
+        self.assertIn("url of S3 is not on its own reference line", errs)
+
+    def test_every_accepted_layout_has_a_renderer_and_bullet_limits(self):
+        """A layout the gate accepts must not crash validation or gen.py (2x2-matrix was accepted with neither)."""
+        gen = importlib.util.module_from_spec(importlib.util.spec_from_file_location("gen", ROOT / "scripts" / "deckgen" / "gen.py"))
+        gen.__spec__.loader.exec_module(gen)
+        drawn = set(gen.LAYOUTS) | set(gen.INDEXED)
+        self.assertEqual(set(gate.LAYOUTS), drawn)
+        self.assertEqual(set(gate.BULLETS), drawn)
+        errs, _ = self.run_gate(self.mutated(4, layout="2x2-matrix"))
+        self.assertIn("unknown layout 2x2-matrix: Ba bước", errs)
+
     def test_a_slide_title_fits_two_lines(self):
         errs, _ = self.run_gate(self.mutated(4, title="Ba " + "bước " * 25))
         self.assertTrue(any(e.startswith("title>90: ") for e in errs))
+
+    def test_the_deck_title_must_be_the_lesson_title(self):
+        slides = {"title": "Tiêu đề cũ", "subtitle": "s", "slides": SLIDES}
+        (self.root / "lessons" / "L99" / "lesson.md").write_text(LESSON, encoding="utf-8")
+        (self.root / "lessons" / "L99" / "slides.json").write_text(json.dumps(slides, ensure_ascii=False), encoding="utf-8")
+        (self.root / "lessons" / "L99.expected.json").write_text(json.dumps(EXPECTED, ensure_ascii=False), encoding="utf-8")
+        errs, _, _ = gate.check(self.root, "L99")
+        self.assertIn("deck title 'Tiêu đề cũ' differs from the lesson title", errs)
+
+    def test_a_tone_must_be_light_or_dark(self):
+        errs, _ = self.run_gate(self.mutated(4, tone="ligt"))
+        self.assertIn("tone 'ligt' is not light or dark: Ba bước", errs)
+
+    def test_the_references_slide_lists_every_source_exactly_once(self):
+        subset = self.mutated(5, bullets=[f"S{k}: nguồn {k}" for k in range(1, 5)])
+        self.assertIn("references slide lists ['S1', 'S2', 'S3', 'S4'], the reference list has ['S1', 'S2', 'S3', 'S4', 'S5']",
+                      self.run_gate(subset)[0])
+        twice = self.mutated(5, bullets=["S1: a", "S1: b", "S3: c", "S4: d", "S5: e"])
+        self.assertTrue(any(e.startswith("references slide lists") for e in self.run_gate(twice)[0]))
+
+    def test_text_that_cannot_fit_its_box_at_the_smallest_font_is_refused(self):
+        """Six 160-character timeline bullets pass the length limit but need about 211px in a 190px box."""
+        long = " ".join(["chữ"] * 36)[:160]
+        errs, _ = self.run_gate(self.mutated(4, layout="timeline", bullets=[long] * 6))
+        self.assertTrue(any(e.startswith("text does not fit its box on timeline (Ba bước)") for e in errs), errs)
+        errs, _ = self.run_gate(self.mutated(4, layout="timeline", bullets=["ngắn"] * 6))
+        self.assertEqual(errs, [])
 
     def test_the_reference_list_does_not_count_as_citations(self):
         errs, _ = self.run_gate(expected={**EXPECTED, "min_citations": 7})

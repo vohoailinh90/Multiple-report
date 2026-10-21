@@ -57,19 +57,13 @@ class GenTests(unittest.TestCase):
 
     def test_no_text_is_estimated_to_overflow_its_box(self):
         """gen.fit sizes every long text to its box; a layout with a box too small for its text fails here, not on Moda."""
-        import html
         pages = [("T00", i, json.loads((FIX / "opts.json").read_text(encoding="utf-8")), FIX / "slides.json") for i in range(1, 6)]
         for lid in sorted(p.parent.name for p in (ROOT / "lessons").glob("*/slides.json") if not in_progress(p.parent.name)):
             n = len(json.loads((ROOT / "lessons" / lid / "slides.json").read_text(encoding="utf-8"))["slides"])
             pages += [(lid, i, opts(lid), None) for i in range(1, n + 1)]
         for lid, i, o, path in pages:
-            for node in ET.fromstring(gen.page(lid, i, o, path)).iter("text"):
-                text = html.unescape("".join(node.itertext()))
-                if len(text) < 20 or node.get("font-family") == "Bricolage Grotesque":
-                    continue
-                w, h, size = float(node.get("width")), float(node.get("height")), int(node.get("font-size"))
-                with self.subTest(lesson=lid, page=i, text=text[:40]):
-                    self.assertLessEqual(gen.lines(text, w, size, 0.55) * size * 1.15, h * 1.05)
+            with self.subTest(lesson=lid, page=i):
+                self.assertEqual(gen.overflows(gen.page(lid, i, o, path)), [])
 
     def demo(self, i):
         return gen.page("T00", i, json.loads((FIX / "opts.json").read_text(encoding="utf-8")), FIX / "slides.json")
@@ -122,6 +116,82 @@ class GenTests(unittest.TestCase):
             self.assertEqual(len(footer), 1)
             x, w = footer[0]
             self.assertLessEqual(x + w, 1650, "the bottom-right corner stays empty for the Moda logo")
+
+    def test_the_last_layer_ends_above_the_source_line(self):
+        """Six layers used to end at y=980 and cover the source line drawn at y=944."""
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        for count in range(1, 7):
+            slide = {"title": "Lớp", "section": "A", "sources": ["S1"], "bullets": ["lớp"] * count, "notes": "",
+                     "layout": "layers", "tone": "light"}
+            path = root / "slides.json"
+            path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+            tree = ET.fromstring(gen.page("L09", 1, {}, path))
+            with self.subTest(layers=count):
+                bottoms = [float(r.get("y")) + float(r.get("height")) for r in tree.iter("rectangle") if r.get("corner-radius") == "22"]
+                self.assertEqual(len(bottoms), count)
+                self.assertLessEqual(max(bottoms), 944)
+
+    def test_moda_ids_are_per_lesson_not_per_file_name(self):
+        """A file name uploaded for one lesson must not stand in for a different file of the same name in another."""
+        fig = {"title": "Hình", "section": "A", "sources": [], "bullets": ["một"], "notes": "", "layout": "figure", "tone": "light",
+               "images": [{"file": "images/a.png", "alt": "a", "credit": "c", "url": "u"}]}
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [fig]}), encoding="utf-8")
+        self.addCleanup(gen.FILE_IDS.pop, "L40/images/a.png", None)
+        gen.FILE_IDS["L40/images/a.png"] = "file_AAA"
+        self.assertIn('src="file_AAA"', gen.page("L40", 1, {}, path))
+        with self.assertRaises(SystemExit) as caught:
+            gen.page("L41", 1, {}, path)
+        self.assertIn("L41/images/a.png has no Moda id", str(caught.exception))
+
+    def test_mk_never_overwrites_an_existing_expected_file(self):
+        mk = load("mk")
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        (root / "lessons" / "L90").mkdir(parents=True)
+        (root / "lessons" / "L90" / "lesson.md").write_text("# t\n\n## A\n\n## Nguồn tham khảo\n", encoding="utf-8")
+        self.addCleanup(setattr, mk, "ROOT", mk.ROOT)
+        mk.ROOT = root
+        mk.deep_expected("L90", "t", "nao-bo", ["A"], [], ["x"])
+        written = (root / "lessons" / "L90.expected.json").read_text(encoding="utf-8")
+        with self.assertRaises(SystemExit):
+            mk.deep_expected("L90", "đổi", "nao-bo", ["B"], [], ["y"])
+        with self.assertRaises(SystemExit):
+            mk.build("L90", "đổi", "s", "nao-bo", {}, [], [])
+        self.assertEqual((root / "lessons" / "L90.expected.json").read_text(encoding="utf-8"), written)
+
+    def test_a_long_big_number_wraps_and_shrinks_instead_of_being_clipped(self):
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        title = "Một tiêu đề dài bảy mươi lăm ký tự dùng làm số lớn khi không có giá trị riêng " + "x" * 5
+        slide = {"title": title, "section": "A", "sources": [], "bullets": ["một"], "notes": "", "layout": "one-big-number", "tone": "dark"}
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+        markup = gen.page("L09", 1, {}, path)
+        self.assertEqual(gen.overflows(markup), [])
+        node = next(t for t in ET.fromstring(markup).iter("text") if t.get("font-family") == "Bricolage Grotesque" and t.get("height") == "360")
+        self.assertLess(int(node.get("font-size")), 120)
+        self.assertIsNone(node.get("max-lines"))
+        short = gen.page("L09", 1, {"big": {"1": "86 tỷ"}}, path)
+        node = next(t for t in ET.fromstring(short).iter("text") if t.get("height") == "360")
+        self.assertEqual((node.get("font-size"), node.get("max-lines")), ("300", "1"))
+
+    def test_a_sequence_self_loop_on_the_last_step_ends_above_the_source_line(self):
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        slide = {"title": "Chuỗi", "section": "A", "sources": ["S1"], "bullets": ["bước"] * 6, "notes": "",
+                 "layout": "sequence-diagram", "tone": "light"}
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+        markup = gen.page("L09", 1, {"actors": {"1": ["Một mình"]}}, path)  # one actor: every step is a self-loop
+        tree = ET.fromstring(markup)
+        loops = [n for n in tree.iter("text") if n.get("height") == "90" and n.get("font-weight") == "600"]
+        self.assertEqual(len(loops), 6)
+        self.assertLessEqual(max(float(n.get("y")) + float(n.get("height")) for n in loops), 944)
+        self.assertLessEqual(max(float(n.get("y2")) for n in tree.iter("line") if n.get("arrow-end")), 944)
 
     def test_fit_shrinks_long_text_but_not_below_the_floor(self):
         short, long = "một câu ngắn", " ".join(["chữ"] * 400)

@@ -12,8 +12,9 @@ Reads lessons/<id>/lesson.md, lessons/<id>/slides.json and lessons/<id>.expected
   min_images                warn when the slides show fewer figures
 Errors fail the gate; warnings are printed and must be explained, not ignored.
 """
-import json, re, sys
+import importlib.util, json, re, sys
 from pathlib import Path
+from urllib.parse import urlsplit
 
 TOPICS = {"than-kinh", "nao-bo", "triet-hoc", "suc-khoe", "quan-ly-du-an", "ky-thuat", "khac"}
 OLD = {"sequence-diagram", "flow", "two-column-comparison", "lookup-table", "card-grid", "numbered-rows",
@@ -29,10 +30,75 @@ BULLETS = {"card-grid": (1, 4), "flow": (1, 5), "two-column-comparison": (2, 6),
 HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
+TONES = {"light", "dark"}
+URL = re.compile(r"https?://[^\s/$.?#][^\s]*\.[^\s]+|https?://localhost\S*", re.I)
+VI_MARKS = re.compile("[ăâđêôơưàáạảãằắặẳẵầấậẩẫèéẹẻẽềếệểễìíịỉĩòóọỏõồốộổỗờớợởỡùúụủũừứựửữỳýỵỷỹ]", re.I)
+MAX_IMAGES = 3  # gen.images() splits one frame between them; more leave each too narrow to read
+IMG_KEYS = ("file", "alt", "credit", "url")
+FIELDS = {"title": str, "section": str, "layout": str, "tone": str, "sources": list, "bullets": list, "notes": str}
+DATE = re.compile(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])")
+_gen = None
+
+
+def gen():
+    """scripts/deckgen/gen.py, loaded once: the gate asks the renderer whether a slide's text fits its boxes."""
+    global _gen
+    if _gen is None:
+        spec = importlib.util.spec_from_file_location("deckgen_gen", Path(__file__).with_name("gen.py"))
+        _gen = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_gen)
+    return _gen
+
+
+def norm_url(url):
+    """Scheme and host are case-insensitive, the path is not; a trailing slash, a fragment and trailing punctuation do not matter."""
+    try:
+        u = urlsplit(url.strip().rstrip(".,;)"))
+    except ValueError:  # e.g. "https://[bad].org": reported as a malformed reference, never a crash
+        return ("malformed", url, "", "")
+    return (u.scheme.lower(), u.netloc.lower(), u.path.rstrip("/"), u.query)
 
 
 def words(t):
     return len(t.split())
+
+
+def overflow(root, lid, S, sl_path):
+    """A slide whose text cannot fit its boxes even at the smallest font gen.py allows (the 160-character limit alone allows it)."""
+    opts_file = Path(root) / "scripts" / "deckgen" / "opts" / f"{lid}.json"
+    g, errs, warn = gen(), [], []
+    try:
+        opts = json.loads(opts_file.read_text(encoding="utf-8")) if opts_file.is_file() else {}
+    except ValueError as e:
+        return [f"{opts_file.name} is not valid JSON: {e}"], warn
+    if not isinstance(opts, dict):
+        return [f"{opts_file.name} must be a JSON object"], warn
+    strings = []
+    stack = [opts]
+    while stack:
+        v = stack.pop()
+        stack += list(v.values()) if isinstance(v, dict) else v if isinstance(v, list) else []
+        if isinstance(v, str): strings.append(v)
+    errs += [f"{opts_file.name}: text drawn from the options cannot cite a source (the slide footer lists its own): {s[:40]}"
+             for s in strings if CITE.search(s)]
+    for i, s in enumerate([None, *S]):  # page 0 is the cover
+        if s is None:
+            s = {"title": "the cover", "layout": "cover"}
+        elif s.get("layout") not in LAYOUTS or s.get("tone") not in TONES:
+            continue  # reported above
+        g.PENDING_IDS = []
+        try:
+            markup = g.page(lid, i, opts, sl_path)
+            warn += [f"slide {i} ({s['title']}): {key} has no Moda id yet (scripts/deckgen/file_ids.json); upload it when the deck is built" for key in g.PENDING_IDS]
+        except SystemExit as e:
+            errs.append(f"slide {i} ({s['title']}): {e}")
+            continue
+        except Exception as e:  # the documented generation command would fail the same way
+            errs.append(f"slide {i} ({s['title']}) does not render: {type(e).__name__}: {e}")
+            continue
+        errs += [f"text does not fit its box on {s['layout']} ({s['title']}): {t[:50]}" for t in g.overflows(markup)]
+    g.PENDING_IDS = None
+    return errs, warn
 
 
 def check(root, lid):
@@ -40,42 +106,101 @@ def check(root, lid):
     root = Path(root)
     base = root / "lessons" / lid
     body = (base / "lesson.md").read_text(encoding="utf-8")
-    sl = json.loads((base / "slides.json").read_text(encoding="utf-8"))
+    sl_path = base / "slides.json"
+    try:
+        sl = json.loads(sl_path.read_text(encoding="utf-8"))
+    except ValueError as e:
+        return [f"slides.json is not valid JSON: {e}"], [], f"{lid}: slides.json is malformed"
+    if not (isinstance(sl, dict) and isinstance(sl.get("slides"), list) and sl["slides"]
+            and all(isinstance(s, dict) for s in sl["slides"])):
+        return ['slides.json must be an object with a non-empty list "slides" of objects'], [], f"{lid}: slides.json is malformed"
     ex = json.loads((root / "lessons" / f"{lid}.expected.json").read_text(encoding="utf-8"))
     errs, warn = [], []
     fm = re.match(r"---\n(.*?)\n---\n# ([^\n]+)\n", body, re.S)
     if not fm:
         errs.append("front matter")
     else:
-        meta = dict(l.split(": ", 1) for l in fm.group(1).splitlines())
+        meta = {}
+        for line in fm.group(1).splitlines():
+            key, sep, value = line.partition(": ")
+            if not sep or not key or key in meta: errs.append(f"front matter line is not 'key: value' or repeats a key: {line!r}")
+            else: meta[key] = value
         if meta.get("id") != lid: errs.append("id")
         if meta.get("title") != ex["title"] or fm.group(2) != ex["title"]: errs.append("title mismatch")
         if meta.get("topic") not in TOPICS: errs.append("topic")
         if meta.get("topic") != ex["topic"]: errs.append("topic vs expected")
+        if not DATE.fullmatch(meta.get("date", "")): errs.append(f"date must be YYYY-MM-DD, found {meta.get('date')!r}")
+    if sl.get("title") != ex["title"]: errs.append(f"deck title {sl.get('title')!r} differs from the lesson title")
     secs = re.findall(r"^## (.+)$", body, re.M)
     if secs != ex["sections"]: errs.append(f"sections differ: {secs}")
     if not secs or secs[-1] != "Nguồn tham khảo": errs.append("last section")
+    if fm and meta.get("topic") == "suc-khoe" and "Lưu ý" not in secs: errs.append("a health lesson needs a '## Lưu ý' section (not medical advice)")
     text, _, reflist = body.partition("\n## Nguồn tham khảo\n")
-    refs = dict(re.findall(r"^- \[(S\d+)\] (.+)$", reflist, re.M))
+    found = re.findall(r"^- \[(S\d+)\] (.+)$", reflist, re.M)
+    errs += [f"bibliography line is not '- [Sn] text': {l.strip()[:60]}" for l in reflist.splitlines()
+             if l.strip() and not re.fullmatch(r"- \[S\d+\] \S.*", l)]
+    refs = dict(found)
+    errs += [f"reference label {k} is used twice" for k in sorted({k for k, _ in found if [j for j, _ in found].count(k) > 1})]
     used = set(CITE.findall(text))
     if used - set(refs): errs.append(f"cited but not listed: {sorted(used - set(refs))}")
     if set(refs) - used: errs.append(f"listed but never cited: {sorted(set(refs) - used)}")
     if "sources" in ex:
         if set(ex["sources"]) != set(refs): errs.append("expected sources differ")
         for k, url in ex["sources"].items():
-            if url and url not in refs.get(k, ""): errs.append(f"url of {k} is not on its own reference line")
+            if url and norm_url(url) not in {norm_url(m.group(0)) for m in URL.finditer(refs.get(k, ""))}:
+                errs.append(f"url of {k} is not on its own reference line")
+    errs += [f"reference {k} has a malformed URL: {m.group(0)}" for k, r in refs.items() for m in URL.finditer(r)
+             if norm_url(m.group(0))[0] == "malformed"]
+    listed = {norm_url(m.group(0)) for r in refs.values() for m in URL.finditer(r)}
     for url in ex.get("required_urls", []):
-        if not any(url in r for r in refs.values()): errs.append(f"required source missing: {url}")
-    indep = [k for k, r in refs.items() if TEXTBOOK not in r]
+        if norm_url(url) not in listed: errs.append(f"required source missing: {url}")
+    if "section_min_slides" in ex:  # a deep lesson gives every source a URL; older lessons cite books and articles without one
+        errs += [f"reference {k} has no http(s) URL" for k, r in refs.items() if not URL.search(r)]
+    indep = {}  # one source per distinct address: the same URL under several labels counts once
+    for k, r in refs.items():
+        if (m := URL.search(r)) and norm_url(m.group(0))[1] != TEXTBOOK:
+            indep.setdefault(norm_url(m.group(0)), k)
+    indep = list(indep.values())
     if len(indep) < ex.get("min_independent_sources", 0):
         errs.append(f"independent sources {len(indep)} < {ex['min_independent_sources']}")
     for img in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", body):
         if not (base / img).is_file(): errs.append(f"image in lesson.md missing: {img}")
 
     S = sl["slides"]
+    bad = [f"slide {i} lacks {k!r} of the right type" for i, s in enumerate(S, 1) for k, kind in FIELDS.items()
+           if not isinstance(s.get(k), kind)]
+    bad += [f"slide {i} has a bullet that is not text or is blank" for i, s in enumerate(S, 1) if isinstance(s.get("bullets"), list)
+            and not all(isinstance(b, str) and b.strip() for b in s["bullets"])]
+    bad += [f"slide {i} has a source that is not text" for i, s in enumerate(S, 1) if isinstance(s.get("sources"), list)
+            and not all(isinstance(b, str) for b in s["sources"])]
+    bad += [f"slide {i}: body is not text" for i, s in enumerate(S, 1) if "body" in s and not isinstance(s["body"], str)]
+    bad += [f"slide {i}: facts must be a list of {{label, text}} with non-blank text values" for i, s in enumerate(S, 1) if "facts" in s
+            and not (isinstance(s["facts"], list) and all(isinstance(f, dict) and isinstance(f.get("label"), str)
+                                                          and isinstance(f.get("text"), str) and f["label"].strip()
+                                                          and f["text"].strip() for f in s["facts"]))]
+    bad += [f"slide {i}: images must be a list of entries with non-empty text values and an http(s) url" for i, s in enumerate(S, 1) if "images" in s
+            and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) and m[k].strip() for k in IMG_KEYS)
+                                                           and URL.fullmatch(m["url"].strip())
+                                                           for m in s["images"]))]
+    if not (isinstance(sl.get("title"), str) and sl["title"].strip()): bad.append("slides.json needs a non-blank text title (drawn on the cover)")
+    if isinstance(sl.get("title"), str) and isinstance(sl.get("subtitle"), str) and CITE.search(sl["title"] + sl["subtitle"]):
+        bad.append("the cover has no source line: no [Sn] in the deck title or subtitle")
+    if not (isinstance(sl.get("subtitle"), str) and sl["subtitle"].strip()): bad.append("slides.json needs a non-blank text subtitle (drawn on the cover)")
+    bad += [f"slide {i} has a blank {k}" for i, s in enumerate(S, 1) for k in ("title", "section", "layout", "tone")
+            if isinstance(s.get(k), str) and not s[k].strip()]
+    if bad:
+        return errs + bad, warn, f"{lid}: slides.json is incomplete"
     if {s["section"] for s in S} != set(secs): errs.append(f"slide sections differ: {set(secs) ^ {s['section'] for s in S}}")
+    order = [secs.index(s["section"]) for s in S if s["section"] in secs]
+    if order != sorted(order): errs.append("slides do not follow the order of the lesson's sections")
+    if S and S[-1]["section"] != "Nguồn tham khảo": errs.append("the last slide must be the sources slide (section Nguồn tham khảo)")
+    if S and "section_min_slides" in ex and S[-1]["layout"] != "references":  # lessons of the deep standard list their sources in full
+        errs.append("the last slide of a deep lesson must use the references layout")
+    if S and S[-1]["tone"] != "dark": errs.append("the last slide (sources) must have the dark tone (docs/deck-style.md)")
+    if any(s["layout"] == "references" for s in S[:-1]): errs.append("a references slide must be the last slide")
     if not (ex["slides"]["min"] <= len(S) <= ex["slides"]["max"]): errs.append(f"slide count {len(S)}")
     lay = [s["layout"] for s in S]; tone = [s["tone"] for s in S]
+    errs += [f"tone {t!r} is not light or dark: {s['title']}" for s, t in zip(S, tone) if t not in TONES]
     if len(set(lay)) < ex.get("min_layouts", 5): errs.append(f"layout kinds {len(set(lay))}")
     if any(a == b for a, b in zip(lay, lay[1:])): errs.append("adjacent layout")
     heavy = [i for i in range(len(lay) - 2) if set(lay[i:i + 3]) <= HEAVY]
@@ -103,6 +228,11 @@ def check(root, lid):
         if not lo <= len(bl) <= hi: errs.append(f"{L} draws {lo}-{hi} bullets, found {len(bl)}: {name}")
         if L == "references":
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]
+            labels = [b.split(": ", 1)[0] if ": " in b else b for b in bl]  # the card label is what gen.split_kv puts before ": "
+            errs += [f"reference card has no text after its label: {b}" for b in bl if ": " in b and not b.split(": ", 1)[1].strip()]
+            errs += [f"reference card has no ': ' after its label: {b}" for b in bl if ": " not in b]
+            if sorted(labels) != sorted(refs):
+                errs.append(f"references slide lists {sorted(labels)}, the reference list has {sorted(refs)}")
         else:
             errs += [f"bullet>160: {b}" for b in bl if len(b) > 160]
         if L == "annotated-figure": errs += [f"gloss>70: {b}" for b in bl if len(b) > 70]
@@ -130,21 +260,33 @@ def check(root, lid):
             if not s.get("images"): errs.append(f"{L} needs images: {name}")
         elif s.get("images"):
             errs.append(f"images are drawn only by figure and annotated-figure: {name}")
+        if len(s.get("images", [])) > MAX_IMAGES: errs.append(f"a slide draws at most {MAX_IMAGES} images, found {len(s['images'])}: {name}")
         for img in s.get("images", []):
             figures += 1
             if not {"file", "alt", "credit", "url"} <= set(img): errs.append(f"image entry incomplete: {name}")
             elif not (base / img["file"]).is_file(): errs.append(f"image missing: {img['file']}")
-        drawn = " ".join([s.get("body", ""), *bl, *(x["text"] for x in s.get("facts", []) if "text" in x)])
+        drawn = " ".join([name, s.get("body", ""), *bl, *(m["credit"] for m in s.get("images", [])), *(x[k] for x in s.get("facts", []) for k in ("label", "text") if k in x)])
         for k in set(s.get("sources", [])) | set(CITE.findall(drawn)):
             if k not in refs: errs.append(f"slide cites {k}, not in the reference list: {name}")
+        if s["section"] != "Nguồn tham khảo":  # the footer lists `sources` only, so a citation drawn in the text must be there too
+            errs += [f"slide text cites {k} but its sources omit it: {name}" for k in sorted(set(CITE.findall(drawn)) - set(s.get("sources", [])))]
         if lo_hi and s["section"] != "Nguồn tham khảo" and not lo_hi[0] <= words(s.get("notes", "")) <= lo_hi[1]:
             warn.append(f"notes {words(s.get('notes', ''))} words: {name}")
+    over_errs, over_warn = overflow(root, lid, S, sl_path)
+    errs += over_errs; warn += over_warn
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")
-    w = words(body); c = len(CITE.findall(text))
+    if ex.get("language") == "vi":
+        deck = " ".join([sl["title"], sl["subtitle"], *(" ".join([s["title"], s.get("body", ""), *s["bullets"],  # what the slide draws: notes are not rendered
+                                                                *(f["label"] + " " + f["text"] for f in s.get("facts", []))]) for s in S)])
+        for what, prose_text in (("lesson", text), ("deck", deck)):
+            prose = [w for w in re.sub(r"[^\w\s]", " ", prose_text).split() if w.isalpha()]
+            marked = sum(1 for w in prose if VI_MARKS.search(w))
+            if not prose or marked / len(prose) < 0.25: errs.append(f"the {what} is not Vietnamese with diacritics ({marked} of {len(prose)} words carry them)")
+    w = words(text); c = len(CITE.findall(text))  # the prose, not the bibliography
     if not ex["min_words"] <= w <= ex["max_words"]: errs.append(f"words {w}")
     if c < ex["min_citations"]: errs.append(f"cites {c}")
     for term in ex["key_terms"]:
-        if term not in body: errs.append(f"key term missing: {term}")
+        if " ".join(term.split()) not in " ".join(text.split()): errs.append(f"key term missing: {term}")
     explained = sum(1 for s in S if s.get("body") or s.get("facts"))
     summary = (f"{lid}: {len(S)} slides ({explained} with body/facts), {len(set(lay))} layouts, {w} words, "
                f"{c} cites, {len(refs)} sources ({len(indep)} independent), {figures} figures")

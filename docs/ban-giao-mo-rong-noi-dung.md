@@ -263,7 +263,7 @@ Mỗi bài 30–50 slide thành ~35–55 lệnh Moda, nên đừng dựng deck t
    (`p_a` = trang 0, `p_b` = trang 1...). Gọi nhiều `canvas_apply_markup` song song trong một lượt được.
 3. Chụp màn hình mọi slide ba trang một lệnh, sửa một lần, xuất `export` PPTX (`fresh=true`), tải về `lessons/<id>/<id>.pptx` bằng `curl`, rồi
    `python3 scripts/decks.py record <id> --canvas <URL>`.
-4. Ảnh: `upload` với `url=` (Moda tự tải về) trả về `file_...`; ghi vào `scripts/deckgen/file_ids.json` (khoá là tên file). Markup dùng `<image src="file_..." fit="contain">`.
+4. Ảnh: `upload` với `url=` (Moda tự tải về) trả về `file_...`; ghi vào `scripts/deckgen/file_ids.json` (khoá là `Lxx/images/tên-file`, vì hai bài có thể giữ hai file khác nhau cùng tên). Markup dùng `<image src="file_..." fit="contain">`.
 
 **Bẫy đã gặp, đừng lặp:**
 - `canvas_apply_markup` vào trang **đã có nội dung** thì **thêm chồng**, không thay thế. Muốn sửa trang: `canvas_delete(ids=[...])` bằng id các nút cũ rồi áp lại, hoặc dùng `canvas_edit`.

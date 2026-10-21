@@ -13,9 +13,9 @@
       "layout": "one-highlighted-sentence",
       "tone": "light",
       "bullets": [
-        "Mỗi cảm xúc dùng nhiều chất, mỗi chất tham gia nhiều cảm xúc, và câu hỏi đúng là: bằng chứng mạnh đến đâu?"
+        "Mỗi cảm xúc dùng nhiều chất, mỗi chất tham gia nhiều cảm xúc: câu hỏi đúng là bằng chứng mạnh đến đâu."
       ],
-      "notes": "Mở bài bằng câu hỏi ai cũng từng nghe: có thật có hormone hạnh phúc, hormone tình yêu, hormone căng thẳng không. Bài này không trả lời bằng một chữ có hay không, mà bằng một bảng: mỗi cảm xúc của L09 đặt cạnh mạch, chất dẫn truyền, hormone và mức bằng chứng. Đi kèm là năm thẻ hồ sơ: cortisol, oxytocin và vasopressin, testosterone, dopamine và opioid, serotonin và noradrenaline. Chỗ dễ nhầm ngay từ đầu: nhiều kết luận nổi tiếng yếu hơn tiếng tăm của chúng. Thí nghiệm oxytocin làm tăng tin tưởng không lặp lại được trong một nghiên cứu lặp lại lớn, và testosterone liên hệ với gây hấn ở người rất yếu. Cuối bài ta sẽ thấy vì sao nhãn hormone hạnh phúc sai ở cả tên lẫn nội dung."
+      "notes": "Mở bài bằng câu hỏi ai cũng từng nghe: có thật có hormone hạnh phúc, hormone tình yêu, hormone căng thẳng không. Bài không trả lời bằng một chữ có hay không mà bằng một bảng: mỗi cảm xúc của L09 đặt cạnh mạch, chất dẫn truyền, hormone và mức bằng chứng, kèm năm thẻ hồ sơ. Điểm cần mang theo ngay từ đầu: chất nào cũng liên quan đến nhiều hành vi, cảm xúc nào cũng dùng nhiều chất, và vài kết luận nổi tiếng yếu hơn tiếng tăm của chúng. Mục cuối giải thích vì sao nhãn hormone hạnh phúc sai ở cả tên gọi lẫn nội dung. Chỗ dễ nhầm: bài không phủ nhận các chất này liên quan đến cảm xúc, chỉ đòi hỏi nói rõ bằng chứng mạnh đến đâu."
     },
     {
       "title": "Hormone: chất truyền tin đi theo máu",
@@ -26,12 +26,12 @@
       "layout": "explainer",
       "tone": "dark",
       "bullets": [
-        "Từ đâu: tuyến yên, tuyến giáp, thượng thận, sinh dục",
-        "Đi đâu: theo máu tới mọi tế bào có thụ thể",
-        "Đừng hiểu nhầm: mọi tế bào đều \"nghe\" hormone"
+        "Từ đâu: tuyến yên, giáp, thượng thận, sinh dục",
+        "Đi đâu: theo máu tới tế bào đích có thụ thể",
+        "Đừng hiểu nhầm: không phải tế bào nào cũng nghe hormone"
       ],
-      "body": "**Hormone** là chất truyền tin hóa học do các tuyến nội tiết tiết vào máu, rồi đi đến tác động lên cấu trúc đích ở xa [S1]. Có hai nhóm lớn: hormone steroid tạo từ cholesterol, như **cortisol** và **testosterone**, và hormone peptide là chuỗi amino acid, như **oxytocin** và **vasopressin** [S1]. Hormone chỉ tác động lên tế bào có thụ thể dành cho nó; thiếu thụ thể thì thêm hormone cũng không có tác dụng [S1]. Vì vậy đo một hormone trong máu chưa cho biết nó đang làm gì trong não.",
-      "notes": "Định nghĩa trong giáo trình: hormone do tuyến nội tiết tiết vào máu và tác động lên cấu trúc đích ở xa. Hãy kể tên các tuyến: tuyến yên, tuyến tùng, tuyến giáp, tuyến thượng thận, vùng dưới đồi, tuyến sinh dục. Hai nhóm lớn: steroid, tạo từ cholesterol, gồm testosterone, estradiol, progesterone, cortisol; và peptide, là chuỗi amino acid, gồm oxytocin, vasopressin, prolactin, leptin. Ví dụ của người viết: hormone như loa phát thanh của cả khu phố, chất dẫn truyền như tin nhắn gửi riêng người ngồi cạnh. Chỗ dễ nhầm: hormone không tác động lên mọi tế bào; chỉ tế bào có thụ thể phù hợp mới nghe, và nếu thiếu thụ thể thì thêm hormone cũng không có tác dụng."
+      "body": "**Hormone** là chất truyền tin hóa học do các tuyến nội tiết sản xuất, đi vào máu và tác động lên cấu trúc đích ở xa [S1]. Có hai nhóm lớn: hormone steroid, thường tổng hợp từ cholesterol, như **cortisol** và **testosterone**, và hormone peptide, là chuỗi amino acid, như **oxytocin** và **vasopressin** [S1]. Hormone chỉ tác động trực tiếp lên tế bào đích có thụ thể dành cho nó [S1]. Vì vậy đo một hormone trong máu chưa cho biết nó đang làm gì trong não.",
+      "notes": "Định nghĩa trong giáo trình: hormone do tuyến nội tiết sản xuất, đi vào máu và tác động lên cấu trúc đích ở xa. Hãy kể tên các tuyến: tuyến yên, tuyến tùng, tuyến giáp, tuyến thượng thận, vùng dưới đồi và tuyến sinh dục. Hai nhóm lớn: steroid, thường tổng hợp từ cholesterol, như cortisol và testosterone; peptide, là chuỗi amino acid, như oxytocin và vasopressin. Hormone chỉ tác động lên tế bào có thụ thể phù hợp, gọi là tế bào đích. Ví dụ của giáo trình: người có testosterone bình thường hoặc cao mà ham muốn thấp có thể thiếu thụ thể, nên bổ sung hormone không hiệu quả. Chỗ dễ nhầm: đo nồng độ hormone trong máu chưa cho biết nó đang làm gì trong não."
     },
     {
       "title": "Synapse và máu: hai cách gửi tin",
@@ -42,12 +42,11 @@
       "layout": "two-column-comparison",
       "tone": "light",
       "bullets": [
-        "Chất dẫn truyền: vượt khe synapse khoảng 20 nanomét, bật tắt trong mili giây [S1]",
-        "Hormone: theo máu đi tới hàng mét, tác động trong vài giây đến vài giờ [S1]",
-        "Chất dẫn truyền: lo thay đổi nhanh như cử động, phần lớn điều khiển được [S1]",
-        "Hormone: lo lớn lên, sinh sản, chuyển hóa; gần như không đổi theo ý muốn [S1]"
+        "Chất dẫn truyền: vượt khe synapse khoảng 20 nanomét, bật tắt trong mili giây, lo thay đổi nhanh như cử động [S1]",
+        "Hormone: theo máu tới hàng mét, tác động vài giây đến vài giờ, lo lớn lên, sinh sản, chuyển hóa [S1]",
+        "Oxytocin và vasopressin làm cả hai vai: hormone và hormone thần kinh tạo trong não [S1]"
       ],
-      "notes": "Slide này đặt hai hệ cạnh nhau theo bốn tiêu chí mà giáo trình 6.1 dùng: đi được đến đâu, nhanh hay chậm, dùng vào việc gì, có điều khiển theo ý muốn được không. Khe synapse chỉ khoảng 20 nanomét, còn máu đưa hormone đi hàng mét. Điện thế hoạt động bật tắt trong mili giây, còn hormone tác động trong vài giây đến vài giờ. Ví dụ dễ nhớ của giáo trình: ta giơ tay theo ý muốn dễ dàng, nhưng không thể muốn để đổi hormone tuyến giáp. Chỗ dễ nhầm: giữa hai cực có điều biến thần kinh, khi một chất như dopamine hay serotonin tỏa ra tác động lên rất nhiều nơron cùng lúc, kéo dài đến vài phút. Synapse và thụ thể được giải thích ở L02."
+      "notes": "Slide đặt hai hệ cạnh nhau theo các tiêu chí của giáo trình 6.1. Chất dẫn truyền chỉ vượt khe synapse khoảng 20 nanomét và điện thế hoạt động bật tắt trong mili giây; hormone theo máu tới hàng mét, tác động trong vài giây đến vài giờ. Tín hiệu thần kinh lo thay đổi nhanh như cử động, hormone lo quá trình dài như lớn lên, sinh sản, chuyển hóa. Ví dụ của giáo trình: ta giơ tay theo ý muốn dễ dàng nhưng gần như không thể muốn để đổi lượng hormone tuyến giáp. Giữa hai cực là điều biến thần kinh: dopamine, serotonin, oxytocin, vasopressin có thể tác động lên nhiều nơron cùng lúc, kéo dài đến vài phút. Synapse và thụ thể ở L02, hồ sơ từng chất ở L03."
     },
     {
       "title": "Cortisol và testosterone là họ hàng",
@@ -58,11 +57,11 @@
       "layout": "annotated-figure",
       "tone": "dark",
       "bullets": [
-        "Cholesterol: chất gốc của mọi steroid",
-        "Aromatase enzyme: enzyme đổi testosterone thành estradiol",
-        "Cortisol: nhánh glucocorticoid"
+        "Cholesterol: chất gốc",
+        "Aromatase enzyme: đổi testosterone thành estradiol",
+        "Cortisol: một nhánh glucocorticoid"
       ],
-      "body": "Mọi hormone **steroid** đi ra từ cholesterol: từ đó cơ thể tạo progesterone, **cortisol** và **testosterone** [S1]. Testosterone lại có thể đổi thành estradiol nhờ enzyme aromatase, nên nhiều hành vi kiểu \"đực\" thật ra gắn với estrogen [S1]. Nhãn \"hormone nam\", \"hormone nữ\" vì thế là cách nói đơn giản hóa.",
+      "body": "Các hormone **steroid** thường đi ra từ cholesterol: từ đó cơ thể tạo progesterone, **cortisol** và **testosterone** [S1]. Testosterone lại có thể đổi thành estradiol nhờ enzyme aromatase, nên nhiều hành vi kiểu \"đực\" thật ra gắn với estrogen [S1].",
       "images": [
         {
           "file": "images/tong-hop-hormone-steroid.png",
@@ -71,76 +70,90 @@
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/introduction-5/"
         }
       ],
-      "notes": "Hình của Noba trong giáo trình 6.1 cho thấy con đường tổng hợp hormone steroid. Tất cả đi ra từ cholesterol, qua pregnenolone, rồi tách nhánh thành progesterone, cortisol, testosterone. Điểm giáo trình nhấn mạnh: testosterone có thể đổi thành estradiol nhờ enzyme aromatase, nên nhiều hành vi kiểu đực thật ra gắn với tác động của estrogen. Hình này dùng để làm gì: nó phá nhãn hormone nam và hormone nữ, và cho thấy cortisol, chất bị gọi là hormone căng thẳng, là họ hàng hóa học gần của testosterone. Chỗ dễ nhầm: trong hình ghi DHT, một androgen khác; ta không cần nhớ hết các mũi tên, chỉ cần nhớ ý chung là mọi hormone steroid có chung gốc."
+      "notes": "Hình của Noba trong giáo trình 6.1 cho thấy con đường tổng hợp hormone steroid. Tất cả đi ra từ cholesterol, qua pregnenolone, rồi tách nhánh thành progesterone, cortisol, testosterone. Testosterone có thể đổi tiếp thành DHT, một androgen khác, hoặc thành estradiol nhờ enzyme aromatase. Hình này dùng để làm gì: nó phá nhãn hormone nam và hormone nữ, vì nhiều hành vi kiểu đực thật ra gắn với estrogen, và cho thấy cortisol, chất bị gọi là hormone căng thẳng, là họ hàng hóa học của testosterone. Chỗ dễ nhầm: không cần nhớ hết các mũi tên, chỉ cần nhớ ý chung là các hormone steroid thường có chung gốc cholesterol."
     },
     {
-      "title": "Hai chiều: hormone đổi hành vi, hành vi đổi hormone",
+      "title": "Hai chiều: hormone và hành vi tác động qua lại",
       "section": "Hai hệ truyền tin: chất dẫn truyền và hormone",
       "sources": [
         "S1"
       ],
-      "layout": "flow",
+      "layout": "card-grid",
       "tone": "light",
       "bullets": [
-        "Hormone: testosterone hoặc estradiol làm chim sẻ vằn đực hót lại [S1]",
-        "Hành vi: thắng hoặc thua một trận, kể cả trận cờ vua [S1]",
-        "Hormone đổi theo: người thắng tăng, người thua giảm testosterone [S1]",
-        "Hệ quả: thấy đi cùng nhau chưa biết cái nào gây ra cái nào"
+        "Hormone đổi hành vi: chim sẻ vằn đực bị cắt tinh hoàn ít hót, có testosterone thì hót lại",
+        "Hành vi đổi hormone: thua trận, testosterone của chuột và khỉ giảm nhiều ngày",
+        "Ở người: testosterone tăng ở người thắng, giảm ở người thua cờ vua",
+        "Hệ quả: hormone đi cùng cảm xúc chưa nói cái nào là nguyên nhân"
       ],
-      "notes": "Giáo trình 6.1 nhấn mạnh quan hệ hai chiều. Chiều thứ nhất: chim sẻ vằn đực bị cắt tinh hoàn thì ít hót, và hót lại khi được cho testosterone hoặc estradiol. Chiều thứ hai: chuột và khỉ đực thua trận thì testosterone giảm nhiều ngày đến nhiều tuần; ở người, testosterone tăng ở người thắng và giảm ở người thua trong các giải cờ vua. Một nghiên cứu nhỏ trên cổ động viên World Cup 1994: 11 trên 12 cổ động viên Brazil tăng testosterone, 9 trên 9 cổ động viên Ý giảm. Ngay cả chờ đợi một hoạt động cũng đổi hormone. Hệ quả cho cả bài: thấy một hormone đi cùng một cảm xúc, ta chưa biết cái nào gây ra cái nào."
+      "notes": "Giáo trình 6.1 nhấn mạnh quan hệ hai chiều. Chiều thứ nhất: chim sẻ vằn đực bị cắt tinh hoàn thì ít hót, và hót lại khi được cho testosterone hoặc estradiol. Chiều thứ hai: chuột và khỉ đực thua trận thì testosterone giảm nhiều ngày đến nhiều tuần; ở người, testosterone tăng ở người thắng và giảm ở người thua trong các giải cờ vua khu vực. Một nghiên cứu nhỏ trên cổ động viên World Cup 1994: 11 trên 12 cổ động viên Brazil tăng testosterone, 9 trên 9 cổ động viên Ý giảm. Ngay việc chờ đợi một hoạt động cũng đổi hormone. Hệ quả cho cả bài: thấy một hormone đi cùng một cảm xúc, chưa biết cái nào gây ra cái nào."
     },
     {
-      "title": "Bảng ghép (1): muốn, thích, sợ",
-      "section": "Bảng ghép cảm xúc, mạch, chất và hormone",
-      "sources": [
-        "S3",
-        "S13",
-        "S15"
-      ],
-      "layout": "lookup-table",
-      "tone": "dark",
-      "bullets": [
-        "Ham muốn: vùng dưới đồi bên, accumbens, vỏ trán · dopamine [S3] · hormone chưa rõ · chủ yếu động vật",
-        "Thích: điểm nóng accumbens, pallidum bụng · opioid, endocannabinoid [S3] [S13] · chủ yếu động vật",
-        "Sợ: hạnh nhân đến chất xám quanh cống não · glutamate, CRF, ACTH [S3] · giáo khoa",
-        "Sợ và ký ức: cortisol cùng hạnh nhân đóng dấu ký ức cảm xúc [S15] · tổng quan"
-      ],
-      "notes": "Đây là phần trọng tâm của bài. Mỗi hàng là một cảm xúc của L09, ghi mạch chính, chất dẫn truyền, hormone và mức bằng chứng. Ham muốn dùng dopamine của mạch trung não–viền, bằng chứng chủ yếu từ kích thích điện ở động vật. Thích dùng opioid và endocannabinoid ở các điểm nóng nhỏ, bằng chứng chủ yếu từ chuột. Sợ dùng mạch từ hạnh nhân trung tâm tới chất xám quanh cống não, nhạy với glutamate, CRF và ACTH; vai trò hạnh nhân là giáo khoa. Chỗ dễ nhầm: ô hormone của muốn và thích ghi chưa rõ vì nguồn không nêu, không phải vì chắc chắn là không có. Mạch chi tiết của từng cảm xúc nằm ở L09."
-    },
-    {
-      "title": "Đọc bảng theo cặp hàng",
+      "title": "Hai loại nhãn: mức bằng chứng và người nói",
       "section": "Bảng ghép cảm xúc, mạch, chất và hormone",
       "sources": [
         "S3"
       ],
-      "layout": "explainer",
-      "tone": "light",
+      "layout": "numbered-rows",
+      "tone": "dark",
       "bullets": [
-        "Muốn và thích: hai thành phần của một phần thưởng",
-        "Gắn bó và đau buồn: một mạng lưới, hai mặt",
-        "Mức chắc chắn: gốc từ mạch đau là giả thuyết"
+        "Giáo khoa: nguồn đồng thuận",
+        "Có bằng chứng ở người: từ nghiên cứu trên người",
+        "Chủ yếu từ động vật: chưa chắc đúng ở người",
+        "Đang tranh luận: có nguồn, nói rõ ai tranh luận"
       ],
-      "body": "Hai hàng **muốn** và **thích** phải đọc cùng nhau: mức ham muốn với một phần thưởng không nhất thiết khớp với mức thích nó, và hai việc dùng cấu trúc khác nhau [S3]. Hai hàng **gắn bó** và **đau buồn** cũng vậy: mạch gắn bó của con non nhạy với chia ly, và opioid nội sinh, oxytocin, prolactin đều làm dịu nỗi đau khi bị tách mẹ [S3]. Giáo trình còn nêu giả thuyết hệ gắn bó bắt nguồn từ mạch đau thể chất [S3].",
-      "notes": "Slide này dạy cách đọc bảng: đọc hai hàng cạnh nhau. Hàng muốn và hàng thích cho thấy cùng một phần thưởng gồm hai thành phần dùng cấu trúc khác nhau; kích thích các vùng khác của hệ thưởng có thể tăng muốn mà không tăng thích. Hàng gắn bó và hàng đau buồn cho thấy cùng một mạng lưới: mạch gắn bó của con non cũng nhạy với chia ly, và các chất làm dịu nỗi đau chia ly là opioid nội sinh, oxytocin, prolactin. Chỗ dễ nhầm: giả thuyết hệ gắn bó bắt nguồn từ mạch đau là của trường phái Panksepp, giáo trình dùng chữ gợi ý, nên ta gắn nhãn giả thuyết chứ không phải giáo khoa."
+      "notes": "Trước khi đọc bảng cần biết hai loại nhãn. Loại thứ nhất là mức bằng chứng ở cột cuối, với bốn nhãn: giáo khoa, có bằng chứng ở người, chủ yếu từ động vật, đang tranh luận. Ô nào nguồn không nói thì ghi chưa rõ. Loại thứ hai không nói về độ mạnh mà nói về người nói: Ví dụ của người viết và Suy luận của người viết đánh dấu câu không phải của nguồn, nên không gắn nhãn nguồn. Chỗ dễ nhầm: hai hệ nhãn này không thay cho nhau; một ô có thể là chủ yếu từ động vật và vẫn được nguồn nói rõ, còn suy luận của người viết thì không phải bằng chứng. Bảng mỗi hàng một cảm xúc của L09; mạch chi tiết ở L09, cấu trúc vùng ở L07."
     },
     {
-      "title": "Bảng ghép (2): giận, gắn bó, đau buồn",
+      "title": "Cảm xúc: mạch · chất · hormone · mức bằng chứng (muốn, thích, sợ)",
+      "section": "Bảng ghép cảm xúc, mạch, chất và hormone",
+      "sources": [
+        "S3",
+        "S13"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Muốn: accumbens, vỏ trán · dopamine · hormone chưa rõ · chủ yếu động vật [S3] [S13]",
+        "Thích: điểm nhỏ trong accumbens, pallidum bụng · opioid, endocannabinoid · chưa rõ · chủ yếu động vật [S3] [S13]",
+        "Sợ: hạnh nhân trung tâm, chất xám quanh cống não · glutamate · CRF, ACTH · hạnh nhân giáo khoa [S3]"
+      ],
+      "notes": "Ba hàng đầu của bảng, mỗi hàng viết theo thứ tự mạch, chất dẫn truyền, hormone, mức bằng chứng. Ham muốn dùng dopamine của mạch trung não–viền và trung não–vỏ, hormone chưa rõ, bằng chứng chủ yếu từ kích thích điện ở động vật. Thích dùng các vùng nhỏ trong nhân accumbens và nửa sau pallidum bụng, với opioid nội sinh và endocannabinoid; hormone chưa rõ. Sợ dùng mạch từ hạnh nhân trung tâm tới chất xám quanh cống não, với glutamate và neuropeptide, cùng CRF và ACTH, hai mắt xích đầu của trục căng thẳng, trục đầy đủ ở L05. Chỗ dễ nhầm: vai trò hạnh nhân là giáo khoa, nhưng mạch tới chất xám quanh cống não chủ yếu dựa trên kích thích ở động vật."
+    },
+    {
+      "title": "Muốn và thích: hai hàng đọc cùng nhau",
+      "section": "Bảng ghép cảm xúc, mạch, chất và hormone",
+      "sources": [
+        "S3",
+        "S13"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Muốn: sẵn sàng làm việc vất vả",
+        "Thích: nét mặt vui, liếm nhanh",
+        "Đừng hiểu nhầm: muốn và thích là một"
+      ],
+      "body": "Mức **ham muốn** với một phần thưởng không nhất thiết khớp với mức **thích** nó, và hai việc dùng cấu trúc khác nhau [S3]. Kích thích các vùng khác của hệ thưởng làm tăng \"muốn\" mà không tăng \"thích\", có khi còn giảm \"thích\" [S3]. Người nghiện thường vẫn thèm chất ngay cả khi biết nó không còn đem lại khoái cảm [S3]. Theo Berridge và Kringelbach, \"thích\" do một tập nhỏ các điểm nóng trong hệ viền tạo ra [S13].",
+      "notes": "Slide dạy cách đọc hai hàng đầu cùng nhau. Giáo trình nói lượng ham muốn với một phần thưởng không nhất thiết khớp với mức thích nó, và hai việc dùng cấu trúc khác nhau. Kích thích các vùng khác của hệ thưởng làm tăng muốn mà không tăng thích, có khi còn giảm thích. Berridge và Kringelbach nói muốn do một hệ lớn và phân tán tạo ra, còn thích do một tập nhỏ các điểm nóng trong hệ viền; chi tiết các điểm nóng ở L09. Chỗ dễ nhầm: người nghiện thường vẫn thèm chất ngay cả khi biết nó không còn đem lại khoái cảm; đó là muốn tách khỏi thích. Mục 8 xem bằng chứng cho phần dopamine."
+    },
+    {
+      "title": "Cảm xúc: mạch · chất · hormone · mức bằng chứng (giận, chăm con, gắn đôi, đau buồn)",
       "section": "Bảng ghép cảm xúc, mạch, chất và hormone",
       "sources": [
         "S2",
         "S3",
-        "S11",
-        "S12"
+        "S11"
       ],
       "layout": "lookup-table",
-      "tone": "dark",
+      "tone": "light",
       "bullets": [
-        "Giận: hạnh nhân giữa, vùng dưới đồi · chất P có thể · testosterone, vasopressin có thể [S3] · tranh luận",
-        "Gắn bó: trước thị lưng, hệ thưởng · dopamine, opioid · oxytocin, vasopressin [S2] [S11] · động vật",
-        "Đau buồn: chất xám quanh cống não, đồi thị · opioid · oxytocin, prolactin [S3] · động vật",
-        "Giận ở người: testosterone liên hệ yếu với gây hấn [S12]"
+        "Giận: hạnh nhân giữa · chưa rõ, chất P có thể · testosterone, vasopressin có thể · chưa rõ [S3]",
+        "Chăm con: vùng trước thị · opioid · oxytocin, prolactin, estradiol · động vật; người tương quan [S2] [S3]",
+        "Gắn đôi: hệ viền, hệ thưởng · dopamine · oxytocin, vasopressin · động vật; người tương quan [S2] [S11]",
+        "Đau buồn: chất xám quanh cống não · opioid · oxytocin, prolactin · chủ yếu động vật [S3]"
       ],
-      "notes": "Ba hàng còn lại. Giận dùng mạch từ hạnh nhân giữa qua vùng dưới đồi đến chất xám quanh cống não; giáo trình nói chất dẫn truyền của giận chưa được hiểu rõ, chất P có thể quan trọng, testosterone và vasopressin có thể tham gia. Gắn bó dùng vùng trước thị lưng và nhân giường vân tận, cùng hệ thưởng; chất gồm dopamine và opioid, hormone gồm oxytocin, vasopressin, prolactin. Đau buồn dùng chất xám quanh cống não, đồi thị lưng giữa, vách bụng. Chỗ dễ nhầm: chữ có thể trong giáo trình phải được giữ nguyên; ta không được nâng nó thành chắc chắn. Mức bằng chứng ở người cho gắn bó chủ yếu là tương quan qua ảnh chụp não."
+      "notes": "Bốn hàng còn lại, cùng thứ tự cột. Giận: hạnh nhân giữa, vùng dưới đồi, chất xám quanh cống não; chất dẫn truyền chưa rõ, chất P có thể quan trọng; testosterone và vasopressin có thể tham gia; mức bằng chứng chưa rõ. Chăm con: vùng trước thị và nhân giường vân tận, opioid nội sinh, oxytocin, prolactin, estradiol; chủ yếu từ động vật, ở người chủ yếu tương quan. Gắn đôi: hệ viền và hệ thưởng, dopamine, oxytocin và vasopressin, chủ yếu từ chuột đồng. Đau buồn: chất xám quanh cống não, đồi thị, vách bụng, opioid nội sinh, oxytocin, prolactin. Chỗ dễ nhầm: giận ở đây là cảm xúc, còn gây hấn ở người là hành vi, xem mục 7."
     },
     {
       "title": "Một chất xuất hiện ở nhiều hàng",
@@ -150,83 +163,82 @@
         "S3"
       ],
       "layout": "connection-diagram",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
-        "Opioid nội sinh: thích, gắn bó, đau buồn; ức chế giận [S3]",
+        "Opioid nội sinh: thích, chăm con, đau buồn, ức chế giận [S3]",
         "Testosterone: giận; làm giảm đau buồn chia ly [S3]",
-        "Vasopressin: giận và gắn bó [S2] [S3]",
-        "Không có quan hệ một đối một giữa hormone và hành vi [S2]"
+        "Vasopressin: giận và gắn đôi [S2] [S3]"
       ],
-      "notes": "Đọc bảng theo cột thay vì theo hàng. Opioid nội sinh có mặt ở hàng thích, gắn bó, đau buồn, và giáo trình còn nói opioid ức chế mạch giận. Testosterone có ở hàng giận và hàng đau buồn, nơi nó làm giảm nỗi đau chia ly. Vasopressin có ở giận và gắn bó. Ngay trong mục về gây hấn, giáo trình viết rằng không có quan hệ một đối một giữa một hormone và một hành vi. Đây là lý do bài này dùng bảng chứ không dùng danh sách chất nào cảm xúc nấy. Chỗ dễ nhầm: một chất có mặt ở nhiều cảm xúc không có nghĩa nó vô dụng; nó có nghĩa tác động phụ thuộc vào thụ thể và vùng não nơi nó gắn vào, như L03 đã nói."
+      "notes": "Đọc bảng theo cột thay vì theo hàng. Opioid nội sinh có mặt ở hàng thích, chăm con, đau buồn, và giáo trình còn nói opioid ức chế mạch giận. Testosterone có ở hàng giận và đau buồn, nơi nó làm giảm nỗi đau chia ly. Vasopressin có ở giận và gắn đôi. Hàng gắn bó và đau buồn còn dùng chung một mạng lưới: mạng lưới gắn bó của con non nhạy với chia ly, và oxytocin, prolactin, opioid nội sinh ngăn được nỗi đau khi bị tách mẹ. Chữ panic trong tên hệ này là tên hệ chia ly theo Panksepp, không phải cơn hoảng sợ. Giáo trình kết luận không có quan hệ một đối một giữa hormone và hành vi. Chỗ dễ nhầm: chất ở nhiều hàng vẫn tác động khác nhau tùy thụ thể và vùng (L03)."
     },
     {
-      "title": "Bốn phân biệt khi đọc một ô",
+      "title": "Bốn câu hỏi trước khi tin một ô",
       "section": "Đọc bảng cho đúng: mức bằng chứng",
       "sources": [
+        "S1",
         "S2",
+        "S7",
         "S8",
         "S9",
         "S12"
       ],
       "layout": "card-grid",
-      "tone": "dark",
-      "bullets": [
-        "Tương quan khác nhân quả: testosterone nền liên hệ yếu, can thiệp không rõ [S12]",
-        "Động vật khác người: chuột đồng có can thiệp, người chủ yếu tương quan [S2]",
-        "Một nghiên cứu khác tổng quan: oxytocin và tin tưởng không lặp lại được [S8] [S9]",
-        "Máu khác não: đo oxytocin huyết tương có lỗi phương pháp [S8]"
-      ],
-      "notes": "Một ô trong bảng chỉ có giá trị bằng nguồn phía sau nó. Bốn phân biệt này là công cụ của cả bài, mỗi phân biệt có một ví dụ thật. Tương quan khác nhân quả: testosterone nền liên hệ yếu với gây hấn, còn khi cho testosterone thì không thấy tác động có ý nghĩa. Động vật khác người: chuột đồng có thí nghiệm can thiệp, người chỉ có ảnh chụp não. Một nghiên cứu khác tổng quan: thí nghiệm oxytocin và tin tưởng năm 2005 không lặp lại được. Máu khác não: cách đo oxytocin trong huyết tương có lỗi. Chỗ dễ nhầm: chủ yếu từ động vật không có nghĩa là sai ở người, chỉ có nghĩa là chưa biết đủ."
-    },
-    {
-      "title": "Tương quan khác nhân quả",
-      "section": "Đọc bảng cho đúng: mức bằng chứng",
-      "sources": [
-        "S1",
-        "S12"
-      ],
-      "layout": "explainer",
       "tone": "light",
       "bullets": [
-        "Tương quan: hai thứ đi cùng nhau",
-        "Can thiệp: đổi một thứ, xem thứ kia có đổi",
-        "Đừng hiểu nhầm: đi cùng nhau là gây ra nhau"
+        "Tương quan hay can thiệp: hành vi cũng đổi hormone [S1] [S12]",
+        "Người hay động vật: chuột đồng có can thiệp, người chủ yếu tương quan [S2]",
+        "Một nghiên cứu hay nhiều: oxytocin và lòng tin, 2005 so với 2015, 2020 [S7] [S8] [S9]",
+        "Đo ở đâu: oxytocin huyết tương có lỗi ở cách đo [S8]"
       ],
-      "body": "Phân tích gộp của Geniole và cộng sự (2020) cho thấy **testosterone** lúc nghỉ liên hệ với gây hấn ở người rất yếu, hệ số tương quan khoảng 0,05; thay đổi testosterone liên hệ mạnh hơn một chút, khoảng 0,11 [S12]. Khi chủ động cho người tham gia dùng testosterone để kiểm tra **nhân quả**, tác động yếu hơn và không có ý nghĩa thống kê [S12]. Thêm nữa, thắng thua cũng làm đổi testosterone [S1], nên tương quan có thể chạy theo chiều ngược lại.",
-      "notes": "Ví dụ chính là phân tích gộp năm 2020 của Geniole và cộng sự. Họ gộp ba loại nghiên cứu: đo testosterone lúc nghỉ, đo thay đổi testosterone, và chủ động cho testosterone. Hệ số tương quan khoảng 0,05 là rất yếu; để hình dung, nó có nghĩa là biết testosterone của một người hầu như không giúp đoán được người đó gây hấn đến đâu. Thay đổi testosterone liên hệ mạnh hơn một chút, khoảng 0,11, chủ yếu ở nam. Còn thí nghiệm can thiệp, cách duy nhất kiểm tra nhân quả, cho tác động không có ý nghĩa thống kê. Chỗ dễ nhầm: vì hành vi cũng đổi hormone, như mục trước đã thấy, nên một tương quan có thể chạy theo chiều ngược lại."
+      "notes": "Bốn phân biệt này là công cụ của cả bài, mỗi phân biệt có một ví dụ thật được kể đầy đủ ở mục của nó. Tương quan khác nhân quả: testosterone lúc nghỉ liên hệ rất yếu với gây hấn ở người, còn khi chủ động cho testosterone thì không có ý nghĩa thống kê (mục 7). Động vật khác người: chuột đồng có can thiệp, người chủ yếu tương quan (mục 6). Một nghiên cứu khác một tổng quan: oxytocin và lòng tin (mục 6). Máu khác não: đo oxytocin huyết tương có lỗi phương pháp. Suy luận của người viết: trước khi tin câu chất X gây cảm xúc Y, hãy hỏi cả bốn câu. Chỗ dễ nhầm: một ô chủ yếu từ động vật không có nghĩa là sai ở người, chỉ là chưa biết đủ."
     },
     {
       "title": "Động vật và người: hai loại bằng chứng",
       "section": "Đọc bảng cho đúng: mức bằng chứng",
       "sources": [
-        "S2"
+        "S2",
+        "S7",
+        "S10"
       ],
-      "layout": "two-column-comparison",
+      "layout": "explainer",
       "tone": "dark",
       "bullets": [
-        "Chuột đồng: cho oxytocin tăng gắn đôi, chặn thụ thể giảm gắn đôi [S2]",
-        "Người: vùng thưởng sáng hơn khi nhìn ảnh con, bạn đời [S2]",
-        "Chuột đồng: can thiệp, nên nói được về nhân quả",
-        "Người: tương quan, vì không thể tiêm hormone và kiểm soát môi trường [S2]"
+        "Động vật: can thiệp được",
+        "Người: chủ yếu quan sát",
+        "Đừng hiểu nhầm: chuột thế nào, người thế ấy"
       ],
-      "notes": "So sánh hai loại bằng chứng về cùng một câu hỏi: oxytocin và vasopressin có liên quan đến gắn bó không. Ở chuột đồng thảo nguyên, các nhà nghiên cứu cho hormone hoặc chặn thụ thể và thấy gắn đôi tăng hoặc giảm: đó là can thiệp, bằng chứng nhân quả. Ở người, các nghiên cứu fMRI thấy vùng thưởng hoạt động mạnh hơn khi nhìn ảnh con hoặc bạn đời so với bạn bè: đó là tương quan. Giáo trình nói rõ lý do của khoảng cách này: ở người không thể tiêm hormone và kiểm soát chặt môi trường. Chỗ dễ nhầm: kết quả ở chuột rất đẹp không tự động chuyển sang người; bộ não người và đời sống xã hội của người phức tạp hơn nhiều."
+      "body": "Ở chuột đồng, cho **oxytocin** hoặc chặn thụ thể của nó làm gắn đôi tăng hoặc giảm: đó là **can thiệp** [S2]. Ở người, bằng chứng về gắn bó chủ yếu là ảnh chụp não, tức là **tương quan** [S2]. Ở người vẫn có thí nghiệm cho hormone [S7], có cả thiết kế với giả dược [S10], nhưng chúng đo những hành vi đơn giản trong phòng thí nghiệm, không đo được gắn bó lâu dài.",
+      "notes": "Ví dụ chính là gắn bó. Ở chuột đồng, cho oxytocin hoặc chặn thụ thể làm gắn đôi tăng hoặc giảm: đó là can thiệp. Ở người, các nghiên cứu ảnh chụp não thấy vùng thưởng hoạt động mạnh hơn khi nhìn ảnh con hoặc bạn đời: đó là tương quan. Tuy vậy ở người vẫn có thí nghiệm cho hormone, như thí nghiệm của Kosfeld về lòng tin và thí nghiệm của Heinrichs có giả dược, nhưng chúng đo những hành vi đơn giản trong phòng thí nghiệm, không đo được gắn bó lâu dài. Chỗ dễ nhầm: không có thí nghiệm ở người không có nghĩa là không có bằng chứng ở người; nghĩa là bằng chứng thuộc loại khác."
     },
     {
-      "title": "Oxytocin và tin tưởng: từ một nghiên cứu đến nhiều nghiên cứu",
+      "title": "Oxytocin và lòng tin: một nghiên cứu, rồi nhiều nghiên cứu",
       "section": "Đọc bảng cho đúng: mức bằng chứng",
       "sources": [
         "S7",
         "S8",
         "S9"
       ],
-      "layout": "timeline",
+      "layout": "two-column-comparison",
       "tone": "light",
       "bullets": [
-        "2005: oxytocin xịt mũi làm tăng lòng tin, đăng trên Nature [S7]",
-        "2015: tổng quan phê phán: phát hiện này không lặp lại tốt [S8]",
-        "2020: lặp lại lớn, đăng ký trước: không thấy tác động [S9]"
+        "Năm 2005: oxytocin xịt mũi làm tăng lòng tin, đăng trên Nature [S7]",
+        "Năm 2015 và 2020: tổng quan phê phán rồi nghiên cứu lặp lại lớn không xác nhận [S8] [S9]",
+        "Bài học: một nghiên cứu nổi bật là điểm bắt đầu để kiểm tra, chưa phải kết luận"
       ],
-      "notes": "Đây là ví dụ rõ nhất cho phân biệt một nghiên cứu khác một tổng quan. Năm 2005, một thí nghiệm đăng trên Nature báo cáo oxytocin xịt mũi làm tăng đáng kể lòng tin. Năm 2015, một tổng quan phê phán xem lại cả lĩnh vực và kết luận phát hiện đơn giản nhất ấy không lặp lại tốt. Năm 2020, một nghiên cứu lặp lại lớn, kế hoạch được duyệt trước, có cả đồng tác giả của nghiên cứu gốc, không thấy tác động. Bài học: một nghiên cứu nổi bật là điểm bắt đầu để kiểm tra, chưa phải kết luận. Chỗ dễ nhầm: không lặp lại được không có nghĩa nhóm đầu gian lận; mẫu nhỏ và nhiễu thống kê thường đủ để tạo ra một kết quả không bền."
+      "notes": "Đây là ví dụ rõ nhất cho phân biệt một nghiên cứu khác một tổng quan. Một bên là thí nghiệm năm 2005 báo cáo oxytocin xịt mũi làm tăng lòng tin. Bên kia là tổng quan phê phán năm 2015 kết luận phát hiện ấy không lặp lại tốt, và nghiên cứu lặp lại lớn năm 2020 không thấy tác động. Chi tiết từng nghiên cứu ở mục 6. Bài học: một nghiên cứu nổi bật là điểm bắt đầu để kiểm tra, chưa phải kết luận. Chỗ dễ nhầm: không lặp lại được không tự nó chứng minh bản gốc sai; nó nói rằng bằng chứng chưa đủ vững, và khoảng cách giữa các nghiên cứu cũng có thể đến từ điều kiện thí nghiệm khác nhau."
+    },
+    {
+      "title": "Máu không phải là não",
+      "section": "Đọc bảng cho đúng: mức bằng chứng",
+      "sources": [
+        "S8"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "dark",
+      "bullets": [
+        "Một con số trong máu hay nước bọt không phải ảnh chụp những gì xảy ra ở synapse. [S8]"
+      ],
+      "notes": "Phân biệt thứ tư: đo trong máu khác đo trong não. Nave và cộng sự chỉ ra rằng bằng chứng dựa trên oxytocin trong huyết tương có lỗi ở chính cách đo oxytocin trong dịch cơ thể ngoại biên. Ý rộng hơn là một con số trong máu hay nước bọt không phải ảnh chụp những gì xảy ra ở synapse; hormone trong máu và chất trong não có thể không đi cùng nhau. Mục 9 sẽ gặp một tranh luận tương tự về tryptophan huyết tương và serotonin trong não. Chỗ dễ nhầm: điều này không có nghĩa xét nghiệm máu vô ích với mọi việc; nó nói rằng không nên dùng một con số máu để kết luận về trạng thái cảm xúc, như phần Lưu ý nhắc."
     },
     {
       "title": "Cortisol: thẻ hồ sơ",
@@ -238,12 +250,12 @@
         "S15"
       ],
       "layout": "profile-card",
-      "tone": "dark",
+      "tone": "light",
       "bullets": [],
       "facts": [
         {
           "label": "Loại",
-          "text": "Hormone steroid nhóm glucocorticoid, tạo từ cholesterol ở tuyến thượng thận [S1]"
+          "text": "Hormone steroid nhóm glucocorticoid, tạo ở tuyến thượng thận [S1]"
         },
         {
           "label": "Làm gì",
@@ -251,61 +263,47 @@
         },
         {
           "label": "Cảm xúc liên quan",
-          "text": "Sợ và ký ức cảm xúc [S15]; chăm sóc con ở người mẹ, gây hấn [S2]"
-        },
-        {
-          "label": "Đích trong não",
-          "text": "Hải mã, hạnh nhân, vỏ trước trán đổi cấu trúc dưới căng thẳng [S14]"
+          "text": "Ký ức trải nghiệm gây xúc động [S15]; chăm sóc con ở người mẹ [S2]"
         },
         {
           "label": "Mức bằng chứng",
-          "text": "Sinh lý: giáo khoa; ký ức cảm xúc: tổng quan; chăm sóc: tương quan"
+          "text": "Sinh lý: giáo khoa; ký ức: có tổng quan, người hay động vật chưa rõ [S15]"
+        },
+        {
+          "label": "Phần thuộc L05",
+          "text": "Trục HPA và tác động của căng thẳng lên cấu trúc não [S14]"
         },
         {
           "label": "Đừng hiểu nhầm",
-          "text": "Không phải \"chất xấu\": ngắn hạn nó bảo vệ và giúp thích nghi [S14]"
+          "text": "Không phải \"chất xấu\": ngắn hạn nó bảo vệ cơ thể, giúp thích nghi [S14]"
         }
       ],
-      "notes": "Thẻ hồ sơ theo khung cố định của bộ bài: loại, làm gì, cảm xúc liên quan, cơ chế, mức bằng chứng, đừng hiểu nhầm. Cortisol là hormone steroid nhóm glucocorticoid, tạo ở tuyến thượng thận. Vai trò sinh lý là giáo khoa: tăng chuyển hóa carbohydrate, làm trung gian cho phản ứng căng thẳng. Về cảm xúc, nó gặp nỗi sợ và ký ức cảm xúc qua hạnh nhân và hải mã; hải mã là vùng đầu tiên ngoài vùng dưới đồi được nhận ra là đích của glucocorticoid. Chỗ dễ nhầm lớn nhất: cortisol không phải chất xấu. Trục căng thẳng đầy đủ, từ vùng dưới đồi qua tuyến yên đến tuyến thượng thận, thuộc L05; ở đây chỉ xem phần gặp cảm xúc."
+      "notes": "Thẻ hồ sơ theo khung cố định của bộ bài. Cortisol là hormone steroid nhóm glucocorticoid, tạo ở tuyến thượng thận. Vai trò sinh lý là giáo khoa: tăng chuyển hóa carbohydrate, làm trung gian cho phản ứng căng thẳng. Về cảm xúc, glucocorticoid điều biến ký ức của trải nghiệm gây xúc động; ở người mẹ, cortisol tương quan với chăm con. Mức bằng chứng cho ký ức cảm xúc: có tổng quan, nhưng tóm tắt không tách bằng chứng ở người và ở động vật, nên bài ghi chưa rõ. Trục HPA, tác động của căng thẳng lên cấu trúc não và cân bằng thích nghi thuộc L05. Chỗ dễ nhầm lớn nhất: cortisol không phải chất xấu; ngắn hạn nó bảo vệ cơ thể."
     },
     {
       "title": "Cortisol và ký ức cảm xúc",
       "section": "Cortisol: khi căng thẳng gặp cảm xúc",
       "sources": [
+        "S1",
         "S15"
       ],
       "layout": "explainer",
-      "tone": "light",
-      "bullets": [
-        "Ở đâu: hạnh nhân, cùng hải mã và vỏ trước trán",
-        "Làm gì: đóng dấu điều đáng nhớ về cảm xúc",
-        "Khi quá mức: ký ức thành nguồn lo âu kéo dài"
-      ],
-      "body": "Những trải nghiệm có ý nghĩa cảm xúc thường được nhớ rất tốt, và **hạnh nhân** giữ vai trò then chốt trong việc đó [S15]. Nhưng cơ chế ghi nhớ hiệu quả này có thể trở nên có hại: căng thẳng nặng thường biến **ký ức cảm xúc** thành nguồn lo âu mạn tính [S15]. Roozendaal, McEwen và Chattarji tổng hợp những thay đổi về cấu trúc và chức năng hạnh nhân do căng thẳng gây ra, từ cơ chế tế bào đến hậu quả hành vi [S15].",
-      "notes": "Roozendaal, McEwen và Chattarji năm 2009 tổng quan một quan sát ai cũng biết: chuyện có ý nghĩa cảm xúc được nhớ rất tốt, và hạnh nhân giữ vai trò then chốt. Mặt trái: căng thẳng nặng có thể biến chính ký ức ấy thành nguồn lo âu mạn tính. Ví dụ của người viết: bạn quên bữa trưa thứ Ba tuần trước nhưng nhớ rõ lần suýt bị xe đâm; ký ức thứ hai được đóng dấu mạnh hơn. Ở người từng trải qua căng thẳng nặng, con dấu ấy có thể làm nỗi lo kéo dài. Chỗ dễ nhầm: tổng quan nói về hormone căng thẳng và hạnh nhân nói chung, từ cơ chế tế bào đến hành vi; trí nhớ cảm xúc chi tiết sẽ thuộc một bài sau trong bộ."
-    },
-    {
-      "title": "Ngắn hạn bảo vệ, kéo dài hao mòn",
-      "section": "Cortisol: khi căng thẳng gặp cảm xúc",
-      "sources": [
-        "S14"
-      ],
-      "layout": "two-column-comparison",
       "tone": "dark",
       "bullets": [
-        "Ngắn hạn (allostasis): hormone bảo vệ cơ thể, thúc đẩy thích nghi [S14]",
-        "Kéo dài (allostatic load): căng thẳng hằng ngày gây hao mòn dần [S14]",
-        "Não quyết định điều gì là đe dọa [S14]",
-        "Não cũng là đích của căng thẳng; hỗ trợ xã hội, vận động giảm gánh nặng [S14]"
+        "Ở đâu: tác động lên quá trình nhớ",
+        "Làm gì: tăng củng cố, giảm nhớ lại",
+        "Đừng hiểu nhầm: cortisol chỉ làm hại trí nhớ"
       ],
-      "notes": "McEwen năm 2007 đặt tên cho hai mặt của hormone căng thẳng. Allostasis là cân bằng qua thay đổi: trong ngắn hạn hormone bảo vệ cơ thể và giúp thích nghi, ví dụ khi phải chạy khỏi nguy hiểm. Gánh nặng allostatic là hao mòn tích lũy khi căng thẳng hằng ngày kéo dài. Điểm thú vị: bộ não vừa quyết định điều gì là đe dọa, vừa là đích chịu tác động của căng thẳng. Tổng quan cũng nêu hoạt động thể chất đều đặn và hỗ trợ xã hội làm giảm gánh nặng mạn tính. Chỗ dễ nhầm: đừng biến cortisol thành kẻ thù cần triệt tiêu; vấn đề nằm ở thời gian và hoàn cảnh, không ở bản thân phân tử."
+      "body": "**Cortisol** thuộc nhóm **glucocorticoid** [S1]. Hormone căng thẳng nhóm này tham gia then chốt vào việc điều biến trí nhớ về các trải nghiệm gây xúc động mạnh [S15]. Chúng tăng củng cố ký ức mới nhưng làm giảm khả năng nhớ lại thông tin đã lưu lâu [S15]. Vì ký ức sợ hãi mạnh nằm ở lõi của một số rối loạn liên quan đến sợ, tác động này được nghiên cứu nhiều [S15].",
+      "notes": "De Quervain, Schwabe và Roozendaal năm 2017 tổng quan vai trò của glucocorticoid, nhóm hormone mà cortisol thuộc về. Tóm tắt của tổng quan nói glucocorticoid tham gia then chốt vào việc điều biến trí nhớ về các trải nghiệm gây xúc động mạnh: chúng tăng củng cố ký ức mới nhưng làm giảm khả năng nhớ lại thông tin đã lưu lâu. Vì ký ức sợ hãi mạnh nằm ở lõi của một số rối loạn liên quan đến sợ, tác động này được nghiên cứu nhiều. Ví dụ của người viết: bạn có thể quên bữa trưa thứ Ba tuần trước nhưng nhớ rõ lần suýt bị xe đâm. Chỗ dễ nhầm: tóm tắt không tách người và động vật, nên đừng nói đây là bằng chứng ở người. Trí nhớ cảm xúc chi tiết thuộc một bài sau."
     },
     {
-      "title": "Cortisol không chỉ đi cùng lo âu",
+      "title": "Cortisol đi cùng cả lo âu lẫn quan tâm",
       "section": "Cortisol: khi căng thẳng gặp cảm xúc",
       "sources": [
         "S2",
-        "S10"
+        "S10",
+        "S14"
       ],
       "layout": "card-grid",
       "tone": "light",
@@ -313,9 +311,9 @@
         "Người mẹ: cortisol tương quan với âu yếm, trò chuyện với con [S2]",
         "Cơ chế có lẽ gián tiếp: mẹ tỉnh táo, nhạy với tín hiệu của con [S2]",
         "Hỗ trợ xã hội: có bạn thân bên cạnh, cortisol nước bọt thấp hơn [S10]",
-        "Bài học: cùng một chất đi cùng cả lo âu lẫn quan tâm"
+        "Ngắn hạn: hormone căng thẳng bảo vệ cơ thể, giúp thích nghi [S14]"
       ],
-      "notes": "Hai kết quả phá nhãn hormone căng thẳng. Thứ nhất, ở người mẹ, giáo trình nói cortisol tương quan thuận với hành vi âu yếm và trò chuyện với con, nhất là ở người mẹ có thái độ tích cực trước khi sinh; giáo trình giải thích cortisol có lẽ tác động gián tiếp, làm mẹ tỉnh táo và nhạy với tín hiệu của con hơn. Thứ hai, quan hệ xã hội làm giảm cortisol: trong thí nghiệm Heinrichs 2003, người có bạn thân hỗ trợ khi chuẩn bị bài kiểm tra căng thẳng có cortisol nước bọt thấp hơn. Chỗ dễ nhầm: kết quả ở người mẹ là tương quan, và thí nghiệm Heinrichs có mẫu nhỏ, chỉ nam giới."
+      "notes": "Ba kết quả phá nhãn hormone căng thẳng. Thứ nhất, ở người mẹ, cortisol tương quan thuận với hành vi âu yếm và trò chuyện với con, nhất là ở người mẹ có thái độ tích cực trước khi sinh. Thứ hai, giáo trình giải thích cortisol có lẽ tăng chăm sóc gián tiếp, bằng cách làm người mẹ tỉnh táo và nhạy hơn với tín hiệu của con. Thứ ba, quan hệ xã hội làm giảm cortisol: người có bạn thân hỗ trợ lúc chuẩn bị một bài kiểm tra gây căng thẳng có cortisol nước bọt thấp hơn; thí nghiệm này kể đầy đủ ở mục 6. Cùng một chất đi cùng cả lo âu lẫn sự quan tâm. Chỗ dễ nhầm: kết quả ở người mẹ là tương quan, không phải cortisol gây ra chăm sóc."
     },
     {
       "title": "Oxytocin và vasopressin: thẻ hồ sơ",
@@ -332,7 +330,7 @@
       "facts": [
         {
           "label": "Loại",
-          "text": "Hormone peptide; cũng là hormone thần kinh hoạt động như chất điều biến trong não [S1]"
+          "text": "Hormone peptide; cũng là hormone thần kinh, hoạt động như chất điều biến [S1]"
         },
         {
           "label": "Làm gì trong cơ thể",
@@ -340,25 +338,25 @@
         },
         {
           "label": "Cảm xúc liên quan",
-          "text": "Gắn đôi, chăm con [S2]; làm dịu đau chia ly [S3]; vasopressin có thể với giận [S3]"
-        },
-        {
-          "label": "Cơ chế ở chuột đồng",
-          "text": "Vùng dưới đồi giải phóng sau giao phối, tác động lên hệ viền và hệ thưởng [S2]"
+          "text": "Gắn đôi, chăm con [S2]; làm dịu đau chia ly; vasopressin có thể với giận [S3]"
         },
         {
           "label": "Mức bằng chứng",
-          "text": "Động vật: nhân quả [S2]; người: tương quan; tin tưởng: đang tranh luận [S8]"
+          "text": "Gắn bó: động vật, có can thiệp; người: tương quan [S2]; lòng tin: tranh luận [S8]"
+        },
+        {
+          "label": "Phần thuộc L03, L09",
+          "text": "Hồ sơ như một chất (L03); mạch của gắn bó (L09)"
         },
         {
           "label": "Đừng hiểu nhầm",
-          "text": "\"Hormone tình yêu\": oxytocin làm nhiều việc, kết quả ở người chưa vững [S8]"
+          "text": "Oxytocin không phải \"hormone tình yêu\" duy nhất [S2] [S11]"
         }
       ],
-      "notes": "Hai neuropeptide có cấu trúc gần nhau, và là ví dụ rõ nhất của chất làm cả hai vai: hormone đi theo máu, và hormone thần kinh tạo trong não hoạt động như chất điều biến. Trong cơ thể, oxytocin kích thích tiết sữa và co tử cung, vasopressin giúp thận giữ nước. Về cảm xúc: gắn đôi, chăm con, làm dịu nỗi đau chia ly; vasopressin có thể liên quan đến giận. Hồ sơ oxytocin như một chất, nơi tạo và thụ thể, thuộc L03. Chỗ dễ nhầm: nhãn hormone tình yêu bỏ qua việc oxytocin làm nhiều việc, và bỏ qua việc nhiều kết quả ở người chưa lặp lại được, như các slide sau sẽ cho thấy."
+      "notes": "Hai neuropeptide có cấu trúc gần nhau, và là ví dụ rõ nhất của chất làm cả hai vai: hormone đi theo máu, và hormone thần kinh tạo trong não hoạt động như chất điều biến. Trong cơ thể, oxytocin kích thích tiết sữa và co tử cung, vasopressin giúp thận giữ nước. Về cảm xúc: gắn đôi, chăm con, làm dịu nỗi đau chia ly; vasopressin có thể liên quan đến giận. Hồ sơ oxytocin như một chất thuộc L03, mạch của gắn bó thuộc L09; mục này giữ mức bằng chứng. Chỗ dễ nhầm: nhãn hormone tình yêu bỏ qua việc chăm con cần cả prolactin và estradiol, gắn đôi cần cả dopamine, và tác động lên lòng tin ở người chưa được lặp lại."
     },
     {
-      "title": "Chuột đồng thảo nguyên",
+      "title": "Chuột đồng thảo nguyên: bằng chứng can thiệp",
       "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
       "sources": [
         "S2"
@@ -366,9 +364,9 @@
       "layout": "figure",
       "tone": "light",
       "bullets": [
-        "Prairie vole: chuột đồng thảo nguyên, sống theo cặp, cùng chăm con",
-        "Montane vole: chuột đồng núi, không gắn đôi, chỉ con cái chăm",
-        "Pups: đàn con"
+        "Prairie vole: chuột đồng thảo nguyên, gắn đôi sau giao phối",
+        "Cho oxytocin, vasopressin: gắn đôi tăng; chặn thụ thể: giảm",
+        "Mức bằng chứng: động vật, có can thiệp nhân quả"
       ],
       "images": [
         {
@@ -378,42 +376,49 @@
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/parental-behaviors/"
         }
       ],
-      "notes": "Chuột đồng thảo nguyên là loài gặm nhấm Bắc Mỹ sống theo cặp sau khi giao phối và cùng chăm con. Họ hàng gần của nó, chuột đồng núi, không gắn đôi và chỉ con cái chăm con. So sánh hai loài gần nhau mà hành vi xã hội khác hẳn là cách các nhà nghiên cứu tìm ra tín hiệu hóa học của gắn bó. Hình trong giáo trình là của Todd Ahern, giấy phép CC BY. Chỗ dễ nhầm: nói chuột đồng một vợ một chồng là nói về gắn đôi xã hội và cùng chăm con; giáo trình không đi vào chi tiết hơn, nên ta cũng không thêm. Slide sau xếp bốn lớp bằng chứng từ nghiên cứu trên loài này."
+      "notes": "Chuột đồng thảo nguyên gắn đôi sau khi giao phối; họ hàng gần của nó, chuột đồng núi, không gắn đôi. Ở loài gắn đôi, cho oxytocin làm tăng gắn đôi và chặn thụ thể làm giảm; ở con đực, vasopressin cho kết quả tương tự. Khi con đực của một loài không chung thủy được biến đổi gen để có nhiều thụ thể vasopressin hơn, chúng gắn đôi và chăm con nhiều hơn. Ở chuột cống, quanh lúc sinh, progesterone giảm nhanh trong khi estradiol, prolactin và oxytocin cao; tổ hợp này lấn át phản ứng sợ để con mẹ chăm con ngay, và cho oxytocin làm tăng hành vi làm mẹ. Chỗ dễ nhầm: tất cả là bằng chứng can thiệp ở động vật; mạch chi tiết thuộc L09."
     },
     {
-      "title": "Bốn lớp bằng chứng ở chuột đồng",
-      "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
-      "sources": [
-        "S2"
-      ],
-      "layout": "numbered-rows",
-      "tone": "dark",
-      "bullets": [
-        "So sánh: con cái gắn đôi có nhiều thụ thể oxytocin trong mạch thưởng hơn [S2]",
-        "Can thiệp: cho oxytocin tăng gắn đôi, chặn thụ thể giảm gắn đôi [S2]",
-        "Con đực: vasopressin cho kết quả tương tự [S2]",
-        "Biến đổi gen: thêm thụ thể vasopressin, con đực gắn đôi và chăm con hơn [S2]"
-      ],
-      "notes": "Bốn lớp bằng chứng giáo trình 6.4 trình bày, từ yếu đến mạnh. Lớp một là so sánh: con cái loài gắn đôi có nhiều thụ thể oxytocin trong mạch thưởng hơn. Lớp hai là can thiệp: cho oxytocin tăng gắn đôi, chặn thụ thể giảm gắn đôi. Lớp ba: ở con đực, vasopressin cho kết quả tương tự. Lớp bốn mạnh nhất: con đực của một loài không chung thủy, được biến đổi gen để có nhiều thụ thể vasopressin hơn, thì gắn đôi và chăm con nhiều hơn. Giáo trình gọi đây là vai trò nhân quả. Chỗ dễ nhầm: điều quyết định không chỉ là lượng hormone mà là số thụ thể ở đúng chỗ, đúng như nguyên tắc tế bào đích ở mục 2."
-    },
-    {
-      "title": "Gắn đôi cần hai hệ cùng lúc",
+      "title": "Gắn đôi cần hai hệ làm việc cùng lúc",
       "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
       "sources": [
         "S11"
       ],
       "layout": "flow",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
-        "Oxytocin, vasopressin: xử lý tín hiệu xã hội, nhận ra cá thể [S11]",
-        "Dopamine: học phần thưởng trong mạch trung não–viền [S11]",
+        "Oxytocin, vasopressin: xử lý tín hiệu xã hội, nhận ra cá thể kia [S11]",
+        "Dopamine: học phần thưởng [S11]",
         "Cùng lúc khi giao phối: thụ thể hai hệ trong trung tâm thưởng [S11]",
-        "Kết quả: sở thích có điều kiện với bạn tình, tức là gắn đôi [S11]"
+        "Kết quả: sở thích với bạn tình, quan sát được như gắn đôi [S11]"
       ],
-      "notes": "Young và Wang năm 2004 tóm mô hình gắn đôi ở loài gặm nhấm một vợ một chồng. Oxytocin và vasopressin giúp xử lý tín hiệu xã hội để nhận ra cá thể kia. Dopamine của mạch trung não–viền lo phần học phần thưởng. Khi hai loại thụ thể, neuropeptide và dopamine, được kích hoạt cùng lúc trong trung tâm thưởng lúc giao phối, con vật hình thành sở thích có điều kiện với bạn tình, mà ta quan sát được như gắn đôi. Sự khác biệt giữa các loài có thể do cách điều hòa số thụ thể. Chỗ dễ nhầm: gắn bó không do một chất; ngay ở chuột, nó cần ít nhất hai hệ làm việc cùng lúc, và đó là giả thuyết về chuột, chưa phải về người."
+      "notes": "Young và Wang năm 2004 tóm mô hình gắn đôi ở loài gặm nhấm một vợ một chồng. Oxytocin và vasopressin giúp xử lý tín hiệu xã hội để nhận ra cá thể kia. Dopamine lo phần học phần thưởng. Khi thụ thể của cả hai hệ trong trung tâm thưởng được kích hoạt cùng lúc lúc giao phối, con vật hình thành sở thích với bạn tình, quan sát được như một sự gắn đôi. Sự khác biệt giữa các loài có thể do cách điều hòa số thụ thể. Chỗ dễ nhầm: đây là mô hình rút ra từ loài gặm nhấm; nó cho thấy gắn bó không do một chất, nhưng giáo trình không nói mô hình này đã được chứng minh ở người."
     },
     {
-      "title": "Oxytocin, hỗ trợ xã hội và cortisol",
+      "title": "Ở người: vùng thưởng sáng hơn khi nhìn ảnh con",
+      "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
+      "sources": [
+        "S2"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "bullets": [
+        "Mom and daughter: mẹ và con gái",
+        "Người: vùng thưởng sáng hơn khi nhìn ảnh con [S2]",
+        "Mức bằng chứng: chủ yếu tương quan"
+      ],
+      "images": [
+        {
+          "file": "images/me-om-con.jpeg",
+          "alt": "Người mẹ ôm con gái",
+          "credit": "Noba, giấy phép theo sách CC BY; Hove & Martinez, Hình 11 (chương 6, mục 6.4)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/parental-behaviors/"
+        }
+      ],
+      "notes": "Hình người mẹ ôm con gái trong giáo trình 6.4 có chú thích tinh tế: cortisol có thể không trực tiếp làm tăng hành vi làm mẹ, nhưng là một trong các hormone đi cùng cái ôm. Ở người, các vùng thưởng hoạt động mạnh hơn khi nhìn ảnh con hoặc bạn đời so với ảnh bạn bè; các vùng này có thụ thể oxytocin và vasopressin, và các hormone này được giải phóng khi cho con bú hay quan hệ tình dục. Đó là các quan sát đi cùng nhau, chưa phải can thiệp. Mức bằng chứng: ở người chủ yếu tương quan. Suy luận của người viết: từ ví dụ chuột cống, chăm con có vẻ là kết quả của một tổ hợp hormone, không phải của riêng oxytocin."
+    },
+    {
+      "title": "Oxytocin, bạn thân và cortisol",
       "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
       "sources": [
         "S10"
@@ -425,49 +430,25 @@
         "Kết quả: bạn thân cộng oxytocin, cortisol thấp nhất",
         "Giới hạn: mẫu nhỏ, chỉ nam giới"
       ],
-      "body": "Heinrichs và cộng sự (2003) cho 37 nam giới khỏe mạnh làm một bài kiểm tra gây căng thẳng xã hội, chia ngẫu nhiên nhận **oxytocin** xịt mũi hoặc giả dược, có hoặc không có bạn thân hỗ trợ [S10]. Hỗ trợ xã hội làm giảm **cortisol**; oxytocin làm giảm lo âu; nhóm có cả hai có cortisol thấp nhất và bình tĩnh nhất [S10]. Các tác giả kết luận oxytocin có vẻ làm tăng tác dụng đệm của hỗ trợ xã hội [S10].",
-      "notes": "Thí nghiệm Heinrichs và cộng sự năm 2003 kết hợp hai yếu tố. Một là có hay không có bạn thân hỗ trợ khi chuẩn bị một bài kiểm tra gây căng thẳng xã hội. Hai là nhận oxytocin xịt mũi hay giả dược, chia ngẫu nhiên, mù đôi. Kết quả: hỗ trợ xã hội làm giảm cortisol; oxytocin làm giảm lo âu; nhóm có cả hai có cortisol thấp nhất và bình tĩnh nhất. Các tác giả nói oxytocin có vẻ tăng tác dụng đệm của hỗ trợ xã hội. Chỗ dễ nhầm: đây là một thí nghiệm với 37 nam giới; bài không nêu liều và đây không phải lời khuyên dùng oxytocin. Mức chắc chắn: một thí nghiệm có đối chứng, chưa đủ để khái quát."
+      "body": "Heinrichs và cộng sự (2003) cho 37 nam giới khỏe mạnh làm một bài kiểm tra gây căng thẳng xã hội, chia ngẫu nhiên nhận **oxytocin** xịt mũi hoặc giả dược, có hoặc không có bạn thân hỗ trợ [S10]. Hỗ trợ xã hội làm giảm **cortisol**; oxytocin làm giảm lo âu; nhóm có cả hai bình tĩnh nhất [S10]. Các tác giả kết luận oxytocin có vẻ làm tăng tác dụng đệm của hỗ trợ xã hội [S10].",
+      "notes": "Heinrichs và cộng sự năm 2003 kết hợp hai yếu tố: có hay không có bạn thân hỗ trợ khi chuẩn bị một bài kiểm tra gây căng thẳng xã hội, và nhận oxytocin xịt mũi hay giả dược, chia ngẫu nhiên, mù đôi. Kết quả: hỗ trợ xã hội làm giảm cortisol nước bọt; oxytocin làm giảm lo âu; nhóm có cả hai có cortisol thấp nhất, bình tĩnh nhất, nên các tác giả kết luận oxytocin có vẻ làm tăng tác dụng đệm của hỗ trợ xã hội. Mức bằng chứng: có bằng chứng ở người, nhưng từ một thí nghiệm mẫu nhỏ, chỉ nam giới. Chỗ dễ nhầm: đây không phải lời khuyên dùng oxytocin; bài không nêu liều và thí nghiệm không chứng minh gắn bó lâu dài."
     },
     {
-      "title": "Người mẹ và cái ôm",
-      "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
-      "sources": [
-        "S2"
-      ],
-      "layout": "figure",
-      "tone": "light",
-      "bullets": [
-        "Hug: cái ôm, nơi nhiều hormone cùng có mặt",
-        "Chuột cống: progesterone giảm, estradiol, prolactin, oxytocin cao [S2]",
-        "Người: vùng thưởng có thụ thể oxytocin, vasopressin [S2]"
-      ],
-      "images": [
-        {
-          "file": "images/me-om-con.jpeg",
-          "alt": "Người mẹ ôm con gái",
-          "credit": "Noba, giấy phép theo sách CC BY; Hove & Martinez, Hình 11 (chương 6, mục 6.4)",
-          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/parental-behaviors/"
-        }
-      ],
-      "notes": "Hình người mẹ ôm con gái trong giáo trình 6.4 đi kèm một chú thích tinh tế: cortisol có thể không trực tiếp làm tăng hành vi làm mẹ, nhưng là một trong các hormone đi cùng cái ôm. Ở chuột cống, quanh lúc sinh, progesterone giảm nhanh trong khi estradiol, prolactin và oxytocin cao; tổ hợp này lấn át phản ứng sợ để con mẹ chăm con ngay. Ở người, vùng thưởng hoạt động khi nhìn ảnh con có thụ thể oxytocin và vasopressin, và các hormone này được giải phóng khi cho con bú. Chỗ dễ nhầm: chăm sóc con là kết quả của một tổ hợp hormone, không phải của riêng oxytocin; ở người, bằng chứng là tương quan."
-    },
-    {
-      "title": "Oxytocin và tin tưởng: một tranh cãi có thật",
+      "title": "Oxytocin và lòng tin: ba mốc của một tranh cãi",
       "section": "Oxytocin và vasopressin: gắn bó, tin tưởng và tranh cãi",
       "sources": [
         "S7",
         "S8",
         "S9"
       ],
-      "layout": "explainer",
-      "tone": "dark",
+      "layout": "timeline",
+      "tone": "light",
       "bullets": [
-        "Phía ủng hộ: thí nghiệm năm 2005",
-        "Phía phê phán: tổng quan 2015, lặp lại 2020",
-        "Mức chắc chắn: đang tranh luận"
+        "2005: oxytocin xịt mũi làm tăng lòng tin giữa người với người, đăng trên Nature [S7]",
+        "2015: tổng quan phê phán: phát hiện này không lặp lại tốt [S8]",
+        "2020: lặp lại lớn, mù đôi, đăng ký trước: không thấy tác động [S9]"
       ],
-      "body": "Năm 2005, Kosfeld và cộng sự báo cáo **oxytocin** xịt mũi làm tăng lòng tin, đo bằng số tiền chuyển cho người lạ trong trò chơi tin tưởng [S7] [S9]. Năm 2015, một tổng quan phê phán kết luận phát hiện này không lặp lại tốt và bằng chứng tích lũy không cho thấy vững chắc rằng lòng tin gắn với oxytocin [S8]. Năm 2020, một nghiên cứu lặp lại lớn, đăng ký trước, có đồng tác giả của nghiên cứu gốc, không thấy tác động trong điều kiện như nghiên cứu gốc [S9].",
-      "notes": "Đây là chỗ cần trình bày cả hai phía. Phía thứ nhất: Kosfeld và cộng sự năm 2005 báo cáo oxytocin xịt mũi làm tăng lòng tin, đo bằng số tiền nhà đầu tư chuyển cho người lạ trong trò chơi tin tưởng, và tác động không phải do sẵn sàng mạo hiểm nói chung. Phía thứ hai: Nave, Camerer và McCullough năm 2015 nêu ba vấn đề: phát hiện không lặp lại tốt, cách đo oxytocin huyết tương có lỗi, nghiên cứu gen mẫu lớn không thấy liên hệ nhất quán. Năm 2020, nhóm Declerck, có cả Fehr của nghiên cứu gốc, lặp lại với mẫu lớn và không thấy tác động. Mức chắc chắn hiện nay: đang tranh luận, nghiêng về chưa được ủng hộ."
+      "notes": "Ba mốc của tranh cãi. Năm 2005, Kosfeld và cộng sự báo cáo trên Nature rằng oxytocin xịt mũi làm tăng lòng tin giữa người với người, đo bằng số tiền nhà đầu tư chuyển cho người lạ trong trò chơi tin tưởng, và không phải do sẵn sàng chấp nhận rủi ro nói chung. Năm 2015, Nave, Camerer và McCullough xem lại cả lĩnh vực: phát hiện đơn giản nhất không lặp lại tốt, bằng chứng từ oxytocin huyết tương có lỗi ở cách đo. Năm 2020, Declerck và cộng sự, trong đó có Fehr của nghiên cứu gốc, làm một nghiên cứu lặp lại lớn, đăng ký trước, và không thấy tác động khi có tiếp xúc xã hội tối thiểu. Mức bằng chứng: đang tranh luận, và bằng chứng mới nhất không ủng hộ."
     },
     {
       "title": "Testosterone: thẻ hồ sơ",
@@ -479,7 +460,7 @@
         "S12"
       ],
       "layout": "profile-card",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [],
       "facts": [
         {
@@ -492,18 +473,18 @@
         },
         {
           "label": "Cảm xúc liên quan",
-          "text": "Gây hấn [S2]; có thể tham gia giận; làm giảm đau buồn chia ly [S3]"
+          "text": "Gây hấn [S2]; có thể tham gia giận; làm giảm đau chia ly [S3]"
         },
         {
           "label": "Mức bằng chứng",
-          "text": "Động vật: nhân quả [S2]; người: liên hệ yếu, nhân quả chưa rõ [S12]"
+          "text": "Động vật: can thiệp [S2]; người: liên hệ yếu, nhân quả chưa rõ [S12]"
         },
         {
           "label": "Đừng hiểu nhầm",
-          "text": "Không phải \"hormone hung hăng\": nó cũng đổi theo thắng thua [S1]"
+          "text": "Không quyết định một người hung hăng hay không; đổi theo thắng thua [S1]"
         }
       ],
-      "notes": "Testosterone là androgen phổ biến, hormone steroid tạo từ cholesterol, và như hình ở mục 2 cho thấy, có thể đổi thành estradiol. Vai trò sinh lý: sản xuất tinh trùng, đặc điểm sinh dục thứ phát ở nam, động cơ và hành vi tình dục. Về cảm xúc: gây hấn, có thể tham gia vào giận, và thú vị là làm giảm nỗi đau chia ly. Mức bằng chứng tách rất rõ: ở nhiều loài động vật có bằng chứng nhân quả từ thí nghiệm cắt tinh hoàn rồi bổ sung; ở người, liên hệ yếu và nhân quả chưa rõ. Chỗ dễ nhầm: testosterone không phải hormone hung hăng; nó cũng đổi theo thắng thua, nghĩa là theo chính hành vi."
+      "notes": "Testosterone là androgen phổ biến, hormone steroid, và như hình ở mục 2 cho thấy, có thể đổi thành estradiol. Vai trò sinh lý: sản xuất tinh trùng, đặc điểm sinh dục thứ phát ở nam, động cơ và hành vi tình dục. Về cảm xúc: gây hấn, có thể tham gia vào giận, và thú vị là làm giảm nỗi đau chia ly. Mức bằng chứng tách rất rõ: ở nhiều loài động vật có can thiệp từ thí nghiệm cắt tinh hoàn rồi bổ sung; ở người, liên hệ yếu và nhân quả chưa rõ. Chỗ dễ nhầm: testosterone không quyết định một người hung hăng hay không; nó cũng đổi theo thắng thua, nghĩa là theo chính hành vi."
     },
     {
       "title": "Bốn quan sát ở động vật",
@@ -512,56 +493,57 @@
         "S2"
       ],
       "layout": "card-grid",
-      "tone": "dark",
+      "tone": "light",
       "bullets": [
-        "Theo mùa: hươu đực hung hăng nhất khi testosterone cao vào mùa thu [S2]",
-        "Theo tuổi: gây hấn tăng ở tuổi dậy thì khi androgen tăng [S2]",
+        "Theo mùa: hươu đực hung hăng nhất khi testosterone cao, vào mùa thu [S2]",
+        "Theo tuổi: gây hấn tăng ở tuổi dậy thì [S2]",
         "Theo giới: con đực nhìn chung hung hăng hơn con cái [S2]",
         "Can thiệp: cắt tinh hoàn giảm gây hấn, bổ sung testosterone đưa trở lại [S2]"
       ],
-      "notes": "Giáo trình 6.4 nói bằng chứng rất mạnh cho thấy testosterone làm trung gian cho gây hấn ở con đực của nhiều loài, dựa trên bốn quan sát, lấy hươu làm ví dụ. Theo mùa: hươu đực hung hăng nhất vào mùa thu khi testosterone cao. Theo tuổi: gây hấn tăng ở tuổi dậy thì; hươu non không tham gia đánh nhau. Theo giới: con đực nhìn chung hung hăng hơn. Can thiệp: cắt tinh hoàn làm giảm, bổ sung testosterone đưa gây hấn trở lại. Ở chuột nhắt, androgen vừa tổ chức não quanh lúc sinh vừa kích hoạt hành vi khi trưởng thành. Chỗ dễ nhầm: ba quan sát đầu là tương quan; chỉ quan sát cuối là can thiệp."
+      "notes": "Giáo trình 6.4 nói bằng chứng rất mạnh cho thấy testosterone làm trung gian cho gây hấn ở con đực của nhiều loài, dựa trên bốn quan sát, lấy hươu làm ví dụ. Theo mùa: hươu đực hung hăng nhất vào mùa thu khi testosterone cao. Theo tuổi: gây hấn tăng ở tuổi dậy thì; hươu non không tham gia đánh nhau trong mùa giao phối. Theo giới: con đực nhìn chung hung hăng hơn con cái. Can thiệp: cắt tinh hoàn giảm gây hấn, bổ sung testosterone đưa trở lại. Ở chuột nhắt, androgen vừa tổ chức não quanh lúc sinh vừa kích hoạt gây hấn khi trưởng thành. Chỗ dễ nhầm: ba quan sát đầu là tương quan; chỉ quan sát cuối là can thiệp."
     },
     {
-      "title": "Ở người: liên hệ rất yếu",
+      "title": "r ≈ 0,05",
       "section": "Testosterone và gây hấn",
       "sources": [
         "S12"
       ],
       "layout": "one-big-number",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
-        "r ≈ 0,05",
-        "Testosterone nền và gây hấn ở người: liên hệ yếu; can thiệp không có ý nghĩa thống kê [S12]"
+        "Testosterone lúc nghỉ và gây hấn ở người: liên hệ yếu [S12]",
+        "Khi chủ động cho testosterone: không có ý nghĩa thống kê [S12]"
       ],
-      "notes": "Con số lớn trên slide là hệ số tương quan giữa testosterone nền và gây hấn ở người trong phân tích gộp của Geniole và cộng sự năm 2020. Hệ số tương quan chạy từ 0 đến 1; 0,05 là rất gần không. Liên hệ rõ hơn ở nam và không thấy ở nữ. Thay đổi testosterone, ví dụ khi bị thách thức, liên hệ mạnh hơn một chút, khoảng 0,11. Còn tác động nhân quả, khi chủ động cho testosterone, không có ý nghĩa thống kê. Các tác giả lưu ý testosterone dao động theo tín hiệu thách thức, và chính dao động có thể điều chỉnh gây hấn trong từng tình huống. Chỗ dễ nhầm: yếu không có nghĩa là không có; nó có nghĩa là testosterone không đoán được hành vi của một người cụ thể."
+      "notes": "Con số lớn là hệ số tương quan giữa testosterone lúc nghỉ và gây hấn ở người trong phân tích gộp của Geniole và cộng sự năm 2020. Hệ số tương quan chạy từ trừ một đến một, và không là không liên hệ; để hình dung, 0,05 rất gần không. Đây là giải thích của người viết. Liên hệ rõ hơn ở nam, không thấy ở nữ. Thay đổi testosterone liên hệ mạnh hơn một chút, khoảng 0,11, chủ yếu ở nam. Khi chủ động cho người tham gia dùng testosterone để kiểm tra nhân quả, tác động khoảng 0,05 và không có ý nghĩa thống kê. Các tác giả lưu ý testosterone dao động theo tín hiệu thách thức. Chỗ dễ nhầm: yếu không có nghĩa là không có."
     },
     {
-      "title": "Vì sao ở người khó tách nguyên nhân",
+      "title": "Ở người: vì sao khó tách nguyên nhân",
       "section": "Testosterone và gây hấn",
       "sources": [
-        "S1",
-        "S2"
+        "S2",
+        "S12"
       ],
       "layout": "explainer",
-      "tone": "dark",
+      "tone": "light",
       "bullets": [
         "Hormone: androgen thúc đẩy gây hấn",
         "Phát triển: tiếp xúc androgen trước sinh",
         "Xã hội: khuyến khích hay ngăn cản"
       ],
-      "body": "Ở người, nam giới nhìn chung **gây hấn** thể chất nhiều hơn nữ giới, nhưng nguyên nhân vẫn đang được tranh luận gay gắt [S2]. Giáo trình nêu ba giả thuyết không loại trừ nhau: androgen thúc đẩy gây hấn; não nam tiếp xúc androgen trước khi sinh nên được \"nối dây\" khác; xã hội khuyến khích con trai và ngăn con gái [S2]. Ngoài **testosterone**, cortisol và vasopressin cũng tham gia; việc dùng quá mức steroid đồng hóa đi cùng gây hấn [S1] [S2].",
-      "notes": "Ở người, nam giới nhìn chung gây hấn thể chất nhiều hơn nữ giới, nhưng nguyên nhân đang được tranh luận gay gắt. Giáo trình nêu ba giả thuyết không loại trừ nhau: androgen thúc đẩy gây hấn; não nam tiếp xúc androgen trước khi sinh nên được nối dây khác; xã hội khuyến khích con trai và ngăn con gái gây hấn. Ví dụ của giáo trình: trẻ trai chơi vật lộn nhiều hơn từ rất sớm, nhưng cha mẹ cũng thường chơi mạnh tay hơn với con trai. Nữ giới thể hiện nhiều hơn kiểu gây hấn quan hệ. Chỗ dễ nhầm: khác biệt giới không tự chứng minh nguyên nhân sinh học; ở người không thể làm thí nghiệm kiểm soát như ở chuột."
+      "body": "Ở người, nam giới nhìn chung **gây hấn** thể chất nhiều hơn nữ giới, nhưng nguyên nhân vẫn đang được tranh luận gay gắt [S2]. Giáo trình nêu ba giả thuyết không loại trừ nhau: androgen thúc đẩy gây hấn; não nam tiếp xúc androgen trước khi sinh nên được \"nối dây\" khác; xã hội khuyến khích con trai và ngăn con gái [S2]. Ngoài **testosterone**, cortisol, corticosterone và vasopressin cũng tham gia gây hấn [S2]. Mức bằng chứng: đang tranh luận, liên hệ có nhưng yếu [S12].",
+      "notes": "Ở người, nam giới nhìn chung gây hấn thể chất nhiều hơn nữ giới, nhưng nguyên nhân đang được tranh luận gay gắt. Giáo trình nêu ba giả thuyết không loại trừ nhau: androgen thúc đẩy gây hấn; não nam tiếp xúc androgen trước khi sinh nên được nối dây khác; và xã hội khuyến khích con trai, ngăn con gái gây hấn. Nữ giới thể hiện nhiều hơn gây hấn quan hệ, tức là làm hại người khác qua các mối quan hệ xã hội. Ngoài testosterone, cortisol, corticosterone và vasopressin cũng tham gia. Chỗ dễ nhầm: khác biệt giới không tự chứng minh nguyên nhân sinh học; ở người không thể làm thí nghiệm kiểm soát như ở chuột, nên giáo trình dựa nhiều vào mô hình động vật."
     },
     {
       "title": "Dopamine và opioid: thẻ hồ sơ",
       "section": "Dopamine và opioid: muốn và thích",
       "sources": [
         "S1",
+        "S3",
         "S6",
         "S13"
       ],
       "layout": "profile-card",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [],
       "facts": [
         {
@@ -578,18 +560,18 @@
         },
         {
           "label": "Cảm xúc liên quan",
-          "text": "Dopamine: \"muốn\"; opioid: \"thích\", gắn bó, đau buồn [S3] [S13]"
+          "text": "Dopamine: \"muốn\" [S3] [S13]; opioid: \"thích\", chăm con, đau buồn [S3]"
         },
         {
           "label": "Mức bằng chứng",
-          "text": "Phần lớn từ động vật, có quan sát ở người ủng hộ [S13]"
+          "text": "Chủ yếu từ động vật, có bằng chứng ở người ủng hộ [S13]"
         },
         {
           "label": "Đừng hiểu nhầm",
           "text": "Dopamine không phải \"chất khoái lạc\" [S13]"
         }
       ],
-      "notes": "Thẻ hồ sơ ghép hai nhóm chất vì chúng là hai nửa của phần thưởng. Dopamine là chất dẫn truyền thường xếp vào nhóm điều biến, đi từ vùng mái bụng ở não giữa lên nhân accumbens, hạnh nhân, vỏ trước trán. Opioid nội sinh gồm endorphin, enkephalin, dynorphin, gắn vào ba loại thụ thể mu, delta, kappa. Dopamine gắn với muốn, opioid gắn với thích. Bằng chứng phần lớn từ động vật, có các quan sát ở người ủng hộ. Hồ sơ gốc của dopamine ở L00, hệ thưởng ở L05. Chỗ dễ nhầm: theo Berridge và Kringelbach, ngày nay tương đối ít nhà nghiên cứu dopamine trong phần thưởng còn khẳng định dopamine gây ra khoái cảm."
+      "notes": "Thẻ hồ sơ ghép hai nhóm chất vì chúng là hai nửa của phần thưởng. Dopamine là chất dẫn truyền thường xếp vào nhóm điều biến, đi từ vùng mái bụng ở não giữa lên nhân accumbens, hạnh nhân và vỏ não trước trán. Opioid nội sinh gồm endorphin, enkephalin, dynorphin, gắn vào ba loại thụ thể mu, delta, kappa. Dopamine gắn với muốn, opioid với thích. Bằng chứng phần lớn từ động vật, có các quan sát ở người ủng hộ. Hồ sơ gốc của dopamine ở L00, hệ thưởng ở L05, điểm nóng khoái cảm ở L09. Chỗ dễ nhầm: theo Berridge và Kringelbach, ngày nay ít nhà nghiên cứu dopamine trong phần thưởng còn công khai cho rằng dopamine gây ra khoái cảm."
     },
     {
       "title": "Muốn và thích: hai thành phần của phần thưởng",
@@ -599,47 +581,59 @@
         "S13"
       ],
       "layout": "two-column-comparison",
-      "tone": "dark",
+      "tone": "light",
       "bullets": [
-        "Muốn: sẵn sàng làm việc vất vả để có phần thưởng [S3]",
-        "Thích: liếm nhanh, thè lưỡi, nét mặt vui khi nếm vị ngọt [S3]",
-        "Muốn: một hệ lớn, phân tán, gắn với dopamine [S13]",
-        "Thích: điểm nóng khoảng 1 milimét khối ở chuột, gắn với opioid [S13]"
+        "Muốn: sẵn sàng làm việc vất vả để có phần thưởng; một hệ lớn, phân tán, gắn với dopamine [S3] [S13]",
+        "Thích: liếm nhanh, thè lưỡi, nét mặt vui; một tập nhỏ điểm nóng, gắn với opioid [S3] [S13]",
+        "Người nghiện thường vẫn thèm chất ngay cả khi biết nó không còn đem lại khoái cảm [S3]"
       ],
-      "notes": "So sánh hai thành phần. Muốn là sẵn sàng làm việc vất vả để có phần thưởng; thích là phản ứng khoái cảm khi nhận nó, đo ở trẻ nhỏ và động vật qua tốc độ liếm, động tác thè lưỡi, nét mặt vui. Muốn do một hệ lớn và phân tán tạo ra; thích do một tập nhỏ các điểm nóng trong hệ viền. Ở chuột, mỗi điểm nóng chỉ khoảng 1 milimét khối, và điểm nóng opioid trong nhân accumbens chỉ chiếm khoảng 10% thể tích nhân. Kích thích thụ thể opioid mu ở đó làm tác động khoái cảm của vị ngọt tăng ít nhất gấp đôi. Chỗ dễ nhầm: người nghiện vẫn thèm chất ngay cả khi biết nó không còn đem lại khoái cảm."
+      "notes": "So sánh hai thành phần. Thích đo được ở trẻ nhỏ và động vật qua tốc độ liếm, động tác thè lưỡi và nét mặt vui khi nếm nước ngọt. Muốn thể hiện qua mức sẵn sàng làm việc vất vả để có phần thưởng. Theo Berridge và Kringelbach năm 2015, muốn do một hệ lớn và phân tán tạo ra, còn thích do một tập nhỏ các điểm nóng khoái cảm trong hệ viền, nơi opioid làm tăng khoái cảm; chi tiết các điểm nóng thuộc L09. Chỗ dễ nhầm: người nghiện thường vẫn thèm chất ngay cả khi biết nó không còn đem lại khoái cảm; đó là muốn tách khỏi thích. Đây là bằng chứng chủ yếu từ động vật, có quan sát ở người ủng hộ."
     },
     {
       "title": "Bằng chứng: dopamine lo \"muốn\", không lo \"thích\"",
       "section": "Dopamine và opioid: muốn và thích",
       "sources": [
+        "S3",
         "S13"
       ],
       "layout": "explainer",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
         "Giảm dopamine: \"thích\" vẫn còn",
         "Tăng dopamine: \"muốn\" tăng, \"thích\" không",
         "Đừng hiểu nhầm: dopamine là khoái cảm"
       ],
-      "body": "Berridge và Kringelbach (2015) tập hợp bằng chứng từ hai phía [S13]. Giảm **dopamine**: chuột chỉ còn khoảng 1% nơron dopamine vẫn có phản ứng **thích** vị ngọt nguyên vẹn; bệnh nhân Parkinson vẫn chấm điểm thích vị ngọt bình thường [S13]. Tăng dopamine: chuột làm việc hăng hơn để có đường, tức là **muốn** nhiều hơn, nhưng không thích đường hơn; ở người, tăng dopamine bằng thuốc không làm tăng điểm khoái cảm tự đánh giá [S13].",
-      "notes": "Bằng chứng đến từ hai phía, và đó là điểm mạnh của lập luận. Phía làm giảm dopamine: chuột bị hủy gần hết nơron dopamine, còn khoảng 1% mức bình thường, vẫn có phản ứng thích vị ngọt nguyên vẹn; bệnh nhân Parkinson thiếu dopamine nhiều vẫn chấm điểm thích vị ngọt bình thường. Phía làm tăng dopamine: chuột tăng dopamine làm việc hăng hơn để có đường nhưng không thích đường hơn; ở người, tăng dopamine bằng thuốc tiền chất không làm tăng điểm khoái cảm. Một số bệnh nhân Parkinson dùng liều cao thuốc kích thích thụ thể dopamine có thôi thúc cưỡng bức mà thường không thấy khoái cảm mạnh. Chỗ dễ nhầm: giáo trình nói dopamine tạo hào hứng và mong đợi, tức là nói về muốn."
+      "body": "Berridge và Kringelbach (2015) tập hợp bằng chứng từ hai phía [S13]. Giảm **dopamine** tới khoảng 1% bình thường ở chuột vẫn để nguyên phản ứng **thích** vị ngọt; bệnh nhân Parkinson vẫn chấm điểm thích vị ngọt bình thường [S13]. Tăng dopamine làm tăng **muốn** có đường nhưng không tăng thích; ở người, tăng dopamine bằng thuốc không làm tăng điểm khoái cảm tự đánh giá [S13]. Giáo trình nói dopamine tạo hào hứng và mong đợi, tức là nói về \"muốn\" [S3].",
+      "notes": "Bằng chứng đến từ hai phía, và đó là điểm mạnh của lập luận. Phía giảm dopamine: chuột bị hủy nơron dopamine tới mức dopamine chỉ còn khoảng 1% bình thường vẫn có phản ứng thích vị ngọt nguyên vẹn; bệnh nhân Parkinson thiếu dopamine nhiều vẫn chấm điểm thích vị ngọt bình thường. Phía tăng dopamine: dopamine tăng trong nhân accumbens làm tăng muốn có đường nhưng không làm tăng thích; ở người, tăng dopamine bằng thuốc tiền chất không làm tăng điểm khoái cảm. Một số bệnh nhân Parkinson dùng liều cao thuốc kích thích thụ thể dopamine có thôi thúc cưỡng bức mà thường không thấy khoái cảm mạnh. Chỗ dễ nhầm: giáo trình 10.2 nói dopamine tạo hào hứng và mong đợi, tức là nói về muốn."
     },
     {
       "title": "Opioid \"ức chế cái ức chế\"",
       "section": "Dopamine và opioid: muốn và thích",
       "sources": [
-        "S6",
-        "S13"
+        "S6"
       ],
-      "layout": "sequence-diagram",
-      "tone": "dark",
+      "layout": "flow",
+      "tone": "light",
       "bullets": [
         "Opioid gắn vào thụ thể mu của nơron GABA ở vùng mái bụng [S6]",
         "Nơron GABA tiết ít GABA hơn [S6]",
-        "Bớt bị hãm, dopamine ở nhân accumbens tăng [S6]",
-        "Dùng lặp lại: \"muốn\" có thể tăng trong khi \"thích\" nhờn đi [S13]"
+        "Bớt bị hãm, dopamine ở nhân accumbens tăng [S6]"
       ],
-      "notes": "Sơ đồ này theo giáo trình 5.5 mô tả một cách opioid chạm vào cả thích lẫn muốn. Ở vùng mái bụng, có các nơron GABA ức chế, bình thường hãm lượng dopamine giải phóng ở nhân accumbens. Opioid gắn vào thụ thể mu trên các nơron GABA này, làm chúng tiết ít GABA hơn. Bỏ cái hãm đi thì dopamine ở nhân accumbens tăng. Berridge và Kringelbach mô tả thêm một khả năng trong nghiện: dùng chất lặp lại có thể làm hệ dopamine nhạy hơn ở người dễ bị tổn thương, khuếch đại muốn, trong khi cơ chế khoái cảm opioid nhờn đi. Chỗ dễ nhầm: đây là cơ chế của chất từ ngoài vào; bài không nói gì về liều hay cách dùng thuốc."
+      "notes": "Sơ đồ này theo giáo trình 5.5 mô tả một cách opioid từ ngoài vào tác động. Ở vùng mái bụng, các nơron GABA ức chế bình thường hãm lượng dopamine giải phóng ở nhân accumbens. Opioid gắn vào thụ thể mu của các nơron GABA này, làm chúng tiết ít GABA hơn. Bỏ cái hãm đi thì dopamine ở nhân accumbens tăng, và giáo trình nói khoái cảm cảm nhận được cũng tăng. Suy luận của người viết: theo cách chia của Berridge và Kringelbach, phần tăng dopamine này gần với muốn hơn thích; giáo trình 5.5 không phân biệt hai thành phần. Chỗ dễ nhầm: đây là cơ chế của chất từ ngoài vào; bài không nói gì về liều hay cách dùng."
+    },
+    {
+      "title": "Khi muốn và thích tách xa nhau",
+      "section": "Dopamine và opioid: muốn và thích",
+      "sources": [
+        "S3",
+        "S13"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "dark",
+      "bullets": [
+        "Dùng chất lặp lại có thể khuếch đại \"muốn\" trong khi \"thích\" nhờn đi. [S13]"
+      ],
+      "notes": "Berridge và Kringelbach mô tả một khả năng trong nghiện: dùng chất lặp lại làm hệ dopamine nhạy cảm hơn ở người dễ bị tổn thương, khuếch đại muốn, trong khi cơ chế khoái cảm opioid nhờn đi, làm giảm thích. Giáo trình nói cùng ý: người ta vẫn theo đuổi chất gây nghiện, cờ bạc hay tình dục dù không còn thấy khoái cảm vì đã quen. Giáo trình 10.2 còn nối opioid với đời sống xã hội: opioid và nicotine tạo cảm giác dễ chịu giống cảm giác khi tương tác xã hội tích cực, điều có thể giải thích vì sao chúng gây nghiện; mức bằng chứng: giả thuyết của trường phái Panksepp. Ví dụ của người viết: lướt mạng xã hội đến nửa đêm dù không thấy vui hơn là trải nghiệm gần với muốn mà không thích; đó là phép so sánh, không phải chẩn đoán."
     },
     {
       "title": "Serotonin và noradrenaline: thẻ hồ sơ",
@@ -656,75 +650,61 @@
       "facts": [
         {
           "label": "Loại",
-          "text": "Chất dẫn truyền; serotonin thuộc nhóm chất điều biến [S1]"
+          "text": "Chất dẫn truyền; serotonin xếp vào nhóm điều biến [S1]"
         },
         {
           "label": "Làm gì",
           "text": "Điều hòa ăn uống, tình dục, giấc ngủ, mức tỉnh, tâm trạng [S4]"
         },
         {
-          "label": "Liên hệ cảm xúc",
-          "text": "Rối loạn khí sắc đi cùng mức bất thường của hai chất [S4]"
-        },
-        {
           "label": "Nhóm thuốc tác động",
-          "text": "Ức chế tái hấp thu chọn lọc (SSRI), ba vòng, ức chế MAO (MAOI) [S4]"
+          "text": "SSRI, ba vòng, MAOI [S4]; cơ chế ở L03"
         },
         {
           "label": "Mức bằng chứng",
-          "text": "Có liên quan, cơ chế chưa rõ [S4]; thuyết thiếu serotonin: tranh luận [S16] [S17]"
+          "text": "Có liên quan, cơ chế còn đang nghiên cứu [S4]; thuyết thiếu serotonin: tranh luận [S16] [S17]"
         },
         {
           "label": "Đừng hiểu nhầm",
           "text": "Thuốc tác động lên một chất không chứng minh bệnh do thiếu chất đó"
         }
       ],
-      "notes": "Thẻ hồ sơ này chỉ xem hai chất trong tâm trạng và lo âu; hồ sơ đầy đủ về nơi tạo, đường đi và thụ thể nằm ở L03. Giáo trình 12.3 viết rối loạn khí sắc đi cùng mức bất thường của serotonin và noradrenaline, hai chất điều hòa ăn uống, ham muốn tình dục, giấc ngủ, mức tỉnh và tâm trạng. Các nhóm thuốc tác động gồm nhóm ức chế tái hấp thu serotonin chọn lọc, nhóm ba vòng và nhóm ức chế enzyme monoamine oxidase. Ngay giáo trình cũng nói cơ chế chính xác vẫn đang được nghiên cứu. Chỗ dễ nhầm: thuốc tác động lên một chất không chứng minh bệnh do thiếu chất đó, giống như thuốc giảm đau đầu không chứng minh đau đầu do thiếu thuốc."
+      "notes": "Thẻ hồ sơ này chỉ xem hai chất trong tâm trạng và lo âu; hồ sơ đầy đủ, các nhóm thuốc, cơ chế tại synapse và tổng quan Moncrieff cùng giới hạn của nó thuộc L03. Giáo trình 12.3 viết rối loạn khí sắc đi cùng mức bất thường của serotonin và noradrenaline, hai chất điều hòa ăn uống, ham muốn tình dục, giấc ngủ, mức tỉnh và tâm trạng. Các nhóm thuốc tác động gồm ức chế tái hấp thu serotonin chọn lọc, ba vòng và ức chế enzyme monoamine oxidase; bài chỉ nêu tên nhóm. Chính giáo trình cũng nói cơ chế chính xác còn đang được nghiên cứu. Chỗ dễ nhầm: thuốc tác động lên một chất không chứng minh bệnh do thiếu chất đó."
     },
     {
-      "title": "Thuốc tác động tại synapse",
+      "title": "Thuốc có tác dụng chậm hơn serotonin tăng",
       "section": "Serotonin, noradrenaline và tâm trạng, lo âu",
       "sources": [
         "S4"
       ],
-      "layout": "annotated-figure",
+      "layout": "card-grid",
       "tone": "dark",
       "bullets": [
-        "Reuptake inhibitor: chất ức chế thu hồi",
-        "Reuptake receptor: thụ thể thu hồi",
-        "Neurotransmitter: chất dẫn truyền"
+        "Những năm 1950: thuốc dùng cho bệnh nhân lao tình cờ cải thiện tâm trạng [S4]",
+        "Serotonin tăng trong khoảng một giờ sau khi dùng SSRI [S4]",
+        "Triệu chứng thường vài tuần mới cải thiện, cơ chế chính xác chưa rõ [S4]",
+        "Suy luận của người viết: câu chuyện không chỉ là serotonin thấp"
       ],
-      "body": "Nhóm **SSRI** chặn bước thu hồi **serotonin** về nơron trước synapse, nên serotonin ở lại lâu hơn trong khe [S4]. Serotonin có thể tăng trong vòng một giờ, nhưng thường phải vài tuần triệu chứng mới cải thiện, và cơ chế chính xác vẫn chưa rõ [S4].",
-      "images": [
-        {
-          "file": "images/thu-hoi-serotonin.jpeg",
-          "alt": "Synapse với chất ức chế thu hồi chất dẫn truyền",
-          "credit": "OpenStax Psychology 2e, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 3 (chương 12, mục 12.3)",
-          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
-        }
-      ],
-      "notes": "Hình của OpenStax trong giáo trình 12.3 minh họa nhóm SSRI: bình thường nơron trước synapse thu ngược một phần serotonin về qua bơm thu hồi; SSRI chặn bước này nên serotonin ở lại lâu hơn trong khe synapse. Nhóm ba vòng chặn thu hồi cả serotonin và noradrenaline; nhóm MAOI chặn enzyme dọn bớt noradrenaline, serotonin và dopamine. Điểm đáng chú ý: serotonin có thể tăng trong vòng một giờ sau khi dùng SSRI, nhưng thường phải vài tuần triệu chứng mới cải thiện, và cơ chế tác dụng chính xác vẫn chưa rõ. Suy luận của người viết: khoảng trễ ấy gợi ý câu chuyện thêm serotonin là hết buồn chưa đầy đủ. Bài chỉ nêu nhóm thuốc, không phải hướng dẫn dùng thuốc."
+      "notes": "Giáo trình 12.3 nêu hai chi tiết cạnh nhau. Một là lịch sử: mối liên hệ giữa serotonin, noradrenaline và trầm cảm được phát hiện tình cờ vào những năm 1950, khi thuốc nhóm ức chế monoamine oxidase dùng cho bệnh nhân lao cũng cải thiện tâm trạng của họ. Hai là khoảng trễ: serotonin có thể tăng trong vòng một giờ sau khi dùng nhóm SSRI, nhưng thường phải vài tuần triệu chứng mới cải thiện, và cơ chế chính xác chưa rõ. Suy luận của người viết: khoảng trễ ấy gợi ý thêm serotonin là hết buồn không phải câu chuyện đầy đủ. Chỗ dễ nhầm: đây không phải lời khuyên về thuốc; bài chỉ nói về cơ chế."
     },
     {
-      "title": "Thuyết serotonin: hai phía tranh luận",
+      "title": "Thuyết serotonin: Moncrieff 2022 và phản bác của Jauhar 2023",
       "section": "Serotonin, noradrenaline và tâm trạng, lo âu",
       "sources": [
-        "S4",
         "S16",
         "S17"
       ],
       "layout": "two-column-comparison",
       "tone": "light",
       "bullets": [
-        "Moncrieff 2022: không bằng chứng nhất quán rằng trầm cảm do serotonin thấp [S16]",
-        "Jauhar 2023: phương pháp chọn lọc, bỏ sót dữ liệu tryptophan [S17]",
-        "Moncrieff 2022: gen vận chuyển serotonin không liên hệ với trầm cảm [S16]",
-        "Jauhar 2023: hệ serotonin có liên quan ở người dễ bị trầm cảm [S17]"
+        "Moncrieff 2022: không có bằng chứng nhất quán rằng trầm cảm do serotonin thấp [S16]",
+        "Jauhar 2023: phương pháp chọn lọc, bỏ sót dữ liệu tryptophan; serotonin có vai trò ở người dễ bị trầm cảm [S17]",
+        "Hai bên đều không nói trầm cảm đơn giản là thiếu serotonin"
       ],
-      "notes": "Đây là một tranh luận khoa học có thật, giữa hai nhóm có tên tuổi. Năm 2022, Moncrieff và cộng sự xem lại 17 nghiên cứu và kết luận không có bằng chứng nhất quán ủng hộ giả thuyết trầm cảm do serotonin thấp; hai nghiên cứu gen lớn nhất cũng không thấy liên hệ. Năm 2023, nhóm 35 nhà nghiên cứu do Jauhar đứng đầu phản bác: phương pháp không nhất quán với một tổng quan ô dù, bỏ sót dữ liệu về tryptophan, và kết luận đúng hơn là hệ serotonin có liên quan ở người dễ bị hoặc đang bị trầm cảm. Chỗ dễ nhầm: cả hai phía đều không nói trầm cảm đơn giản là thiếu serotonin. Tổng quan của Moncrieff không đánh giá thuốc có hiệu quả hay không; đó là câu hỏi khác."
+      "notes": "Tổng quan ô dù năm 2022 của Moncrieff và cộng sự kết luận không có bằng chứng nhất quán ủng hộ giả thuyết trầm cảm do serotonin thấp; bài L03 trình bày tổng quan này và giới hạn của nó. Năm 2023, một nhóm 35 nhà nghiên cứu do Jauhar đứng đầu phản bác trên cùng tạp chí: phương pháp không nhất quán với một tổng quan ô dù, chọn lọc dữ liệu, bỏ sót kết quả về làm cạn tryptophan, chất tiền thân của serotonin, và tryptophan huyết tương thấp ở người trầm cảm. Theo họ, tryptophan huyết tương liên quan đến chức năng serotonin trong não nhiều hơn hẳn serotonin đo trong dịch cơ thể. Hai bên đều không nói trầm cảm đơn giản là thiếu serotonin. Mức bằng chứng: đang tranh luận."
     },
     {
-      "title": "Lo âu: hạnh nhân, GABA và cả serotonin",
+      "title": "Lo âu: hạnh nhân, vỏ trước trán, GABA",
       "section": "Serotonin, noradrenaline và tâm trạng, lo âu",
       "sources": [
         "S5"
@@ -732,12 +712,12 @@
       "layout": "explainer",
       "tone": "dark",
       "bullets": [
-        "Ở đâu: hạnh nhân và vỏ trước trán",
+        "Ở đâu: hạnh nhân và vỏ não trước trán",
         "Nhóm thuốc: benzodiazepine, SSRI, SNRI",
         "Đừng hiểu nhầm: chỉ một chất quyết định lo âu"
       ],
-      "body": "Mạch lo âu gồm tín hiệu từ dưới lên của **hạnh nhân** báo có đe dọa và kiểm soát từ trên xuống của vỏ não trước trán [S5]. Người có rối loạn lo âu cho thấy hạnh nhân phản ứng quá mức và vỏ trước trán hoạt động giảm [S5]. Nghiên cứu tập trung vào **GABA**, nhưng **serotonin**, endocannabinoid và oxytocin cũng quan trọng [S5]. Dù bằng thuốc, liệu pháp hay cả giả dược, giảm hoạt động hạnh nhân hoặc tăng mạch điều hòa cảm xúc đều có thể giảm lo âu [S5].",
-      "notes": "Giáo trình 12.4 mô tả mạch lo âu bằng hai hướng. Từ dưới lên, hạnh nhân báo có mối đe dọa; từ trên xuống, vỏ não trước trán điều hòa. Người có rối loạn lo âu cho thấy hạnh nhân phản ứng quá mức và vỏ trước trán hoạt động giảm. Về chất, nghiên cứu tập trung vào GABA; nhóm benzodiazepine gắn vào thụ thể GABA-A làm nơron khó phát xung, nhưng vì nguy cơ gây nghiện nay chỉ được khuyến cáo dùng ngắn hạn. Hướng dẫn hiện nay khuyến cáo nhóm SSRI hoặc SNRI. Chỗ dễ nhầm: thuốc, liệu pháp nhận thức hành vi, thậm chí giả dược, đều có thể giảm lo âu qua mạch; đơn vị là mạch, không phải một chất."
+      "body": "Mạch **lo âu** gồm tín hiệu từ dưới lên của **hạnh nhân** báo có đe dọa và kiểm soát từ trên xuống của vỏ não trước trán [S5]. Người có rối loạn lo âu cho thấy hạnh nhân phản ứng quá mức và vỏ trước trán hoạt động giảm [S5]. Về chất, nghiên cứu tập trung vào **GABA**, nhưng serotonin, endocannabinoid và oxytocin cũng quan trọng [S5]. Thuốc, liệu pháp hay cả giả dược đều có thể giảm lo âu qua mạch; mạch mới là đơn vị [S5].",
+      "notes": "Giáo trình 12.4 mô tả mạch lo âu bằng hai hướng. Từ dưới lên, hạnh nhân báo có mối đe dọa; từ trên xuống, vỏ não trước trán điều hòa. Người có rối loạn lo âu cho thấy hạnh nhân phản ứng quá mức và vỏ trước trán hoạt động giảm. Nhân trung tâm của hạnh nhân nối với thân não, nơi điều khiển nhịp thở và nhịp tim; nghiên cứu ở động vật cho thấy kích thích nhân này gây ra các hành vi giống cơn hoảng sợ. Về chất, nghiên cứu tập trung vào GABA, chất ức chế chính, và serotonin, endocannabinoid, oxytocin cũng quan trọng. Thuốc, liệu pháp nhận thức hành vi hay giả dược đều có thể giảm lo âu qua mạch. Chỗ dễ nhầm: panic attack khác với hệ panic chia ly theo Panksepp."
     },
     {
       "title": "Lo âu có phần cơ thể",
@@ -761,7 +741,7 @@
           "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/anxiety/"
         }
       ],
-      "notes": "Hình của OpenStax trong giáo trình 12.4 cho thấy các biểu hiện cơ thể thường gặp của cơn hoảng sợ: chóng mặt, khó thở, đau ngực, hồi hộp hoặc tim đập nhanh, buồn nôn. Nhân trung tâm của hạnh nhân nối với thân não, nơi điều khiển nhịp thở và nhịp tim, nên tham gia gây cơn hoảng sợ. Giáo trình 5.5 mô tả adrenaline, do tuyến thượng thận tiết, là hormone đánh hay chạy, làm tăng chú ý và cho cơ thể thêm năng lượng. Noradrenaline trong bệnh khí sắc gắn với mức tỉnh, giấc ngủ, tâm trạng. Lời nhắc an toàn của người viết: các triệu chứng này có thể giống bệnh khác; nếu gặp lần đầu hay không rõ nguyên nhân, cần đi khám chứ không tự kết luận là lo âu."
+      "notes": "Hình của OpenStax trong giáo trình 12.4 cho thấy các biểu hiện cơ thể thường gặp của cơn hoảng sợ: chóng mặt, khó thở, đau ngực hoặc tim đập nhanh, buồn nôn. Lo âu được định nghĩa là trạng thái tâm trạng tiêu cực kèm các triệu chứng cơ thể. Nhân trung tâm của hạnh nhân nối với thân não, nơi điều khiển nhịp thở và nhịp tim. Giáo trình 5.5 mô tả adrenaline, do tuyến thượng thận tiết, là hormone đánh hay chạy, làm tăng chú ý và cho cơ thể thêm năng lượng; noradrenaline gắn với mức tỉnh, giấc ngủ và tâm trạng. Vai trò của noradrenaline trong chú ý thuộc L03 và L05. Lời nhắc an toàn của người viết: triệu chứng như đau ngực hay khó thở có thể có nhiều nguyên nhân; gặp lần đầu thì cần đi khám."
     },
     {
       "title": "Ba chỗ sai của nhãn \"hormone hạnh phúc\"",
@@ -774,28 +754,11 @@
       "layout": "layers",
       "tone": "dark",
       "bullets": [
-        "Sai tên: dopamine, serotonin là chất dẫn truyền, điều biến, không do tuyến nội tiết tiết [S1]",
-        "Sai số lượng: không có quan hệ một đối một giữa hormone và hành vi [S2]",
-        "Sai nội dung: dopamine gắn với \"muốn\" hơn là với khoái cảm [S13]"
+        "Sai tên: dopamine, serotonin chủ yếu là chất dẫn truyền, chất điều biến trong não [S1]",
+        "Sai quan hệ một đối một: mỗi chất ở nhiều hàng của bảng, theo giáo trình [S2]",
+        "Sai nội dung: dopamine gắn với \"muốn\" nhiều hơn khoái cảm [S13]"
       ],
-      "notes": "Các nhãn hormone hạnh phúc, hormone tình yêu, hormone căng thẳng rất phổ biến; bài này không có nguồn về việc chúng ra đời từ đâu, nên chỉ phân tích nội dung. Có ba lớp sai. Sai tên: dopamine và serotonin là chất dẫn truyền hoạt động như chất điều biến, không phải hormone do tuyến nội tiết tiết vào máu. Sai số lượng: không có quan hệ một đối một giữa một hormone và một hành vi; mỗi chất trong bảng xuất hiện ở nhiều hàng. Sai nội dung: dopamine gắn với muốn nhiều hơn với khoái cảm. Chỗ dễ nhầm: nói nhãn sai không có nghĩa các chất này không liên quan đến cảm xúc; chúng liên quan, chỉ là theo cách phức tạp hơn một cái nút bấm."
-    },
-    {
-      "title": "Không có \"một vùng, một cảm xúc\"",
-      "section": "Vì sao không có \"hormone hạnh phúc\"",
-      "sources": [
-        "S3",
-        "S18"
-      ],
-      "layout": "explainer",
-      "tone": "light",
-      "bullets": [
-        "Định vị: mỗi cảm xúc một vùng riêng",
-        "Kiến tạo: mạng lưới chung tạo nhiều cảm xúc",
-        "Mức chắc chắn: tranh luận giữa hai trường phái"
-      ],
-      "body": "Lindquist và cộng sự (2012) gộp các nghiên cứu hình ảnh não về **cảm xúc** ở người và thấy rất ít bằng chứng rằng mỗi loại cảm xúc gắn nhất quán và riêng biệt với một vùng não [S18]. Thay vào đó, một tập hợp vùng tương tác, vốn tham gia cả các thao tác không mang tính cảm xúc, hoạt động trong nhiều cảm xúc khác nhau [S18]. Đây là quan điểm **kiến tạo tâm lý**, trái với quan điểm **định vị** [S18]; giáo trình 10.2 gần hơn với hướng có các mạch cảm xúc cơ bản [S3].",
-      "notes": "Slide này mở rộng từ chất sang vùng não. Lindquist và cộng sự năm 2012 gộp các nghiên cứu hình ảnh não về cảm xúc ở người và thấy rất ít bằng chứng rằng mỗi loại cảm xúc gắn nhất quán và riêng biệt với một vùng. Thay vào đó, một tập hợp vùng tương tác với nhau, vốn tham gia cả việc không mang tính cảm xúc, hoạt động trong nhiều cảm xúc. Họ gọi đó là quan điểm kiến tạo tâm lý, đối lập với quan điểm định vị. Chỗ dễ nhầm: đây là tranh luận giữa hai trường phái; giáo trình 10.2 dựa vào Panksepp gần với hướng có các mạch cảm xúc cơ bản. Cả hai phía đều không ủng hộ câu một chất, một cảm xúc."
+      "notes": "Bài không có nguồn về việc các nhãn hormone hạnh phúc, hormone tình yêu, hormone căng thẳng ra đời từ đâu hay thường gán cho chất nào, nên chỉ đối chiếu nội dung của chúng với bằng chứng. Có ba lớp sai. Sai tên: dopamine và serotonin chủ yếu làm việc như chất dẫn truyền thần kinh trong não, thuộc nhóm điều biến; gọi chúng là hormone che mất cách chúng làm việc ở synapse. Sai quan hệ một đối một: mỗi chất trong bảng xuất hiện ở nhiều hàng, và giáo trình nói thẳng không có quan hệ một đối một giữa hormone và hành vi. Sai nội dung: ví dụ dopamine gắn với muốn hơn khoái cảm. Chỗ dễ nhầm: nói nhãn sai không có nghĩa các chất này không liên quan đến cảm xúc."
     },
     {
       "title": "Nhãn phổ biến và điều bằng chứng nói",
@@ -810,14 +773,30 @@
         "S17"
       ],
       "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Dopamine \"hạnh phúc\": gắn với \"muốn\" nhiều hơn khoái cảm [S13]",
+        "Oxytocin \"tình yêu\": cần nhiều chất; ở người tương quan; lòng tin chưa lặp lại [S2] [S8] [S9]",
+        "Cortisol \"căng thẳng\": bảo vệ ngắn hạn, đi cùng cả chăm sóc [S2] [S14]",
+        "Serotonin \"thiếu thì trầm cảm\": chưa chứng minh; hệ serotonin có thể liên quan [S16] [S17]"
+      ],
+      "notes": "Bảng đặt từng nhãn phổ biến cạnh điều bằng chứng thật sự nói, mỗi hàng viết theo thứ tự nhãn, rồi bằng chứng. Dopamine gọi là chất hạnh phúc, nhưng nó gắn với muốn hơn khoái cảm. Oxytocin gọi là hormone tình yêu, nhưng gắn bó cần nhiều chất, ở người chủ yếu là tương quan, và tác động lên lòng tin chưa được lặp lại. Cortisol gọi là hormone căng thẳng, nhưng nó bảo vệ cơ thể ngắn hạn và đi cùng chăm sóc. Serotonin chưa được chứng minh là thiếu thì trầm cảm, dù hệ serotonin có thể liên quan. Ví dụ của người viết: thay vì tôi thiếu hormone hạnh phúc, hãy hỏi điều gì trong giấc ngủ, quan hệ, công việc, sức khỏe đang thay đổi. Chỗ dễ nhầm: cả hai phía tranh luận về serotonin đều không nói thiếu serotonin là toàn bộ câu chuyện."
+    },
+    {
+      "title": "Cảm xúc không phải một nút bấm",
+      "section": "Vì sao không có \"hormone hạnh phúc\"",
+      "sources": [
+        "S18"
+      ],
+      "layout": "explainer",
       "tone": "dark",
       "bullets": [
-        "Dopamine \"hạnh phúc\": gắn với \"muốn\" hơn là với khoái cảm [S13]",
-        "Oxytocin \"tình yêu, tin tưởng\": lặp lại lớn không thấy tác động lên lòng tin [S8] [S9]",
-        "Cortisol \"căng thẳng\": bảo vệ ngắn hạn, đi cùng cả chăm sóc [S2] [S14]",
-        "Serotonin \"bình yên\": thuyết thiếu serotonin đang tranh luận [S16] [S17]"
+        "Ở đâu: nhiều vùng tương tác",
+        "Tranh luận: chi tiết ở L09",
+        "Đừng hiểu nhầm: một vùng, một cảm xúc"
       ],
-      "notes": "Bảng đặt từng nhãn phổ biến cạnh điều bằng chứng thật sự nói. Dopamine bị gọi là chất hạnh phúc, nhưng nó gắn với muốn hơn là với khoái cảm. Oxytocin bị gọi là hormone tình yêu, tin tưởng, nhưng nghiên cứu lặp lại không xác nhận tác động lên lòng tin ở người. Cortisol bị gọi là hormone căng thẳng, nhưng nó bảo vệ cơ thể ngắn hạn và đi cùng cả sự chăm sóc. Serotonin bị gọi là chất bình yên, nhưng thuyết trầm cảm do thiếu serotonin đang tranh luận. Ví dụ của người viết: thay vì nói tôi thiếu hormone hạnh phúc, hãy hỏi điều gì trong giấc ngủ, quan hệ, công việc, sức khỏe đang thay đổi. Câu thứ hai mở ra việc có thể làm."
+      "body": "Lindquist và cộng sự (2012) gộp các nghiên cứu hình ảnh não về **cảm xúc** ở người và thấy rất ít bằng chứng rằng mỗi loại cảm xúc gắn nhất quán và riêng với một vùng não [S18]. Tranh luận giữa quan điểm định vị và **kiến tạo tâm lý** thuộc L09. Suy luận của người viết: cảm xúc giống một bản hòa tấu hơn là một nút bấm.",
+      "notes": "Slide này đưa ra một câu hỏi tương tự ở mức vùng não: Lindquist và cộng sự năm 2012 gộp các nghiên cứu hình ảnh não về cảm xúc ở người và thấy rất ít bằng chứng rằng mỗi loại cảm xúc gắn nhất quán và riêng với một vùng. Tranh luận giữa quan điểm định vị và quan điểm kiến tạo tâm lý thuộc L09; ở đây chỉ nhắc một câu. Suy luận của người viết: các nhãn hormone hạnh phúc hấp dẫn vì biến một hệ thống phức tạp thành một nút bấm; cảm xúc giống một bản hòa tấu nhiều nhạc cụ hơn là một nút bấm. Chỗ dễ nhầm: đây không phải kết luận rằng não không có cấu trúc chuyên biệt; nó nói rằng sự tương ứng một vùng một cảm xúc không nhất quán trong dữ liệu."
     },
     {
       "title": "Điều cần nhớ",
@@ -836,13 +815,13 @@
       "tone": "light",
       "bullets": [
         "Synapse nhanh và tại chỗ, hormone chậm và rộng; oxytocin làm cả hai vai [S1]",
-        "Không có quan hệ một đối một giữa chất và cảm xúc [S2]",
-        "Luôn hỏi mức bằng chứng: tương quan, động vật, một nghiên cứu, đo ở máu?",
-        "Oxytocin và tin tưởng chưa lặp lại được [S8] [S9]; testosterone và gây hấn ở người yếu [S12]",
+        "Không có quan hệ một đối một giữa chất và cảm xúc; luôn hỏi mức bằng chứng [S2]",
+        "Gắn bó: can thiệp ở động vật, tương quan ở người [S2]; oxytocin và lòng tin chưa lặp lại [S8] [S9]",
+        "Testosterone và gây hấn: can thiệp ở động vật, liên hệ yếu ở người [S2] [S12]",
         "Dopamine gắn với \"muốn\", opioid với \"thích\" [S13]",
         "Thuyết \"trầm cảm do thiếu serotonin\" đang tranh luận [S16] [S17]"
       ],
-      "notes": "Sáu điều để mang theo sau bài. Một, hai hệ truyền tin khác nhau về khoảng cách và tốc độ, và một số chất làm cả hai vai. Hai, quan hệ không một đối một: mỗi cảm xúc dùng nhiều chất, mỗi chất tham gia nhiều cảm xúc. Ba, luôn hỏi mức bằng chứng bằng bốn câu hỏi: tương quan hay can thiệp, người hay động vật, một nghiên cứu hay tổng quan, máu hay não. Bốn, oxytocin và tin tưởng chưa lặp lại được; testosterone và gây hấn ở người yếu. Năm, dopamine gắn với muốn, opioid với thích. Sáu, thuyết thiếu serotonin đang tranh luận. Nối bài: L09 cho mạch từng cảm xúc, L03 cho hồ sơ từng chất, L05 cho hệ thưởng và trục căng thẳng."
+      "notes": "Sáu điều để mang theo sau bài. Một, hai hệ truyền tin khác nhau về khoảng cách và tốc độ, và oxytocin, vasopressin làm cả hai vai. Hai, không có quan hệ một đối một giữa chất và cảm xúc; luôn hỏi mức bằng chứng bằng bốn câu hỏi. Ba, gắn bó có can thiệp ở động vật nhưng chủ yếu tương quan ở người, và oxytocin tăng lòng tin chưa lặp lại được. Bốn, testosterone và gây hấn: can thiệp rõ ở nhiều loài động vật, liên hệ yếu ở người. Năm, dopamine gắn với muốn, opioid với thích. Sáu, thuyết trầm cảm do thiếu serotonin đang tranh luận. Nối bài: L09 cho mạch từng cảm xúc, L03 cho hồ sơ từng chất và nhóm thuốc, L05 cho hệ thưởng và trục HPA."
     },
     {
       "title": "Lưu ý",
@@ -853,7 +832,7 @@
       "bullets": [
         "Không phải lời khuyên y tế: không tự dùng, đổi liều hay ngừng thuốc, hormone; buồn hay lo kéo dài, hãy tìm bác sĩ, chuyên gia tâm lý"
       ],
-      "notes": "Bài này nhằm hiểu cơ chế, không phải lời khuyên y tế. Bài chỉ nêu nhóm thuốc và cơ chế để giải thích khoa học, không nêu tên hoạt chất, biệt dược hay liều. Không tự dùng, tự đổi liều hay tự ngừng bất kỳ thuốc nào, kể cả thuốc chống trầm cảm, thuốc giảm lo âu hay hormone; ngừng đột ngột có thể gây triệu chứng khó chịu và cần hướng dẫn của bác sĩ. Không tự dùng hormone hay các sản phẩm quảng cáo tăng hormone hạnh phúc để thay đổi cảm xúc. Xét nghiệm một hormone trong máu không chẩn đoán được một trạng thái cảm xúc. Nếu buồn bã kéo dài, lo âu ảnh hưởng sinh hoạt, có cơn hoảng sợ hay có ý nghĩ tự làm hại mình, hãy tìm trợ giúp ngay từ bác sĩ, chuyên gia tâm lý hoặc đường dây hỗ trợ khẩn cấp."
+      "notes": "Bài này nhằm hiểu cơ chế, không phải lời khuyên y tế. Bài chỉ nêu nhóm thuốc và cơ chế để giải thích khoa học, không nêu thuốc cụ thể, liều hay khuyến nghị điều trị. Không tự dùng, tự đổi liều hay tự ngừng bất kỳ thuốc nào, kể cả thuốc chống trầm cảm, thuốc giảm lo âu hay hormone; việc đó cần hướng dẫn của bác sĩ. Không tự dùng hormone hay các sản phẩm quảng cáo tăng hormone hạnh phúc để thay đổi cảm xúc. Xét nghiệm một hormone trong máu không chẩn đoán được một trạng thái cảm xúc. Triệu chứng cơ thể như đau ngực, khó thở có thể có nhiều nguyên nhân; gặp lần đầu thì cần đi khám. Nếu buồn bã kéo dài, lo âu ảnh hưởng sinh hoạt, có cơn hoảng sợ hay có ý nghĩ tự làm hại mình, hãy tìm trợ giúp từ bác sĩ, chuyên gia tâm lý hoặc đường dây khẩn cấp."
     },
     {
       "title": "Nguồn tham khảo",
@@ -895,12 +874,12 @@
         "S12: Geniole và cộng sự, Hormones and Behavior, 2020",
         "S13: Berridge & Kringelbach, Neuron, 2015",
         "S14: McEwen, Physiological Reviews, 2007",
-        "S15: Roozendaal, McEwen & Chattarji, Nature Reviews Neuroscience, 2009",
+        "S15: de Quervain, Schwabe & Roozendaal, Nature Reviews Neuroscience, 2017",
         "S16: Moncrieff và cộng sự, Molecular Psychiatry, 2022",
         "S17: Jauhar và cộng sự, Molecular Psychiatry, 2023",
         "S18: Lindquist và cộng sự, Behavioral and Brain Sciences, 2012"
       ],
-      "notes": "Mười tám nguồn: sáu mục của giáo trình Hove & Martinez và mười hai bài báo có DOI, đều đã đối chiếu siêu dữ liệu và đọc tóm tắt hoặc toàn văn."
+      "notes": "Mười tám nguồn: sáu mục của giáo trình Hove và Martinez và mười hai bài báo có DOI. Các DOI đã được đối chiếu với Crossref, các tóm tắt đã đọc trên PubMed, và riêng Berridge và Kringelbach 2015 cùng Jauhar 2023 đã đọc thêm toàn văn trên PubMed Central; toàn văn các bài còn lại không mở được nên bài chỉ dùng điều có trong tóm tắt. Giáo trình được đọc toàn văn từ trang của sách."
     }
   ]
 }

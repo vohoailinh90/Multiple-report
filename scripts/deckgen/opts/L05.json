@@ -9,23 +9,24 @@
   "Căng thẳng"
  ],
  "big": {},
- "actors": {
-  "8": [
-   "Kích thích",
-   "Phản ứng của động vật"
-  ],
-  "15": [
-   "Thông báo",
-   "Não"
-  ]
- },
+ "actors": {},
  "mark": {
-  "1": "bốn hệ thống",
-  "6": "thế giới quyết định thay ta",
-  "9": "động vật",
-  "14": "vận động"
+  "1": "thưởng, chú ý và căng thẳng",
+  "12": "sai số dương kéo dài",
+  "23": "quyết định điều gì là đe dọa"
  },
  "center": {
-  "5": "Chú ý"
- }
+  "16": "Dopamine làm gì?",
+  "38": "Ba hệ đan vào nhau"
+ },
+ "concepts": [
+  "hệ thưởng",
+  "sai số dự đoán",
+  "muốn",
+  "thích",
+  "chú ý",
+  "trục HPA",
+  "căng thẳng",
+  "hạnh nhân"
+ ]
 }

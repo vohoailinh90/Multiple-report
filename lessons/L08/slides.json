@@ -1,0 +1,779 @@
+{
+  "title": "Vỏ não và các thùy: thái dương, đỉnh, chẩm",
+  "subtitle": "Não bộ · Bài L08",
+  "slides": [
+    {
+      "title": "Câu hỏi của bài",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Nếu cắt đi một mảnh vỏ não nhỏ, người ta mất đi điều gì, và vì sao mất đúng điều đó?"
+      ],
+      "notes": "Mở bài bằng câu hỏi thay vì định nghĩa. Người nghe thường đã nghe những câu như \"thùy chẩm là chỗ để nhìn\" hay \"vùng Wernicke là chỗ hiểu lời nói\", nên câu hỏi giúp họ chờ một câu trả lời tinh hơn. Câu trả lời ngắn mà bài sẽ chứng minh dần: vỏ não là một tấm mỏng nơron gấp nếp, các vùng của nó được gọi tên theo vị trí, mỗi vùng nhận một loại tín hiệu đầu vào và nối với những vùng khác; vì thế tổn thương ở đâu thường làm mất phần việc dựa nhiều vào chỗ ấy. Chữ \"thường\" quan trọng, vì việc thật luôn chạy qua nhiều thùy. Bài nói ở mức cấu trúc, mỗi khẳng định có nhãn mức chắc chắn."
+    },
+    {
+      "title": "Bản đồ bài: vỏ não và ba thùy",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Vỏ não: tấm mỏng, sáu lớp, gấp nếp, chia thùy theo rãnh",
+        "Thùy thái dương: nghe, hiểu lời nói, nhận mặt, trí nhớ",
+        "Thùy đỉnh: cảm giác cơ thể, bản đồ không gian, chú ý",
+        "Thùy chẩm: thị giác, rồi hai dòng đi sang thái dương và đỉnh"
+      ],
+      "notes": "Đây là bản đồ của bài: bốn thẻ, một thẻ cho vỏ não nói chung và ba thẻ cho ba thùy. Thùy trán và hai bán cầu thuộc L04; thùy đảo, hải mã, hạnh nhân, đồi thị thuộc L07; bản đồ tổng của não thuộc L01. Mỗi thùy được trình bày theo cùng một khung bảy ý để dễ so sánh: ở đâu, gồm những phần nào, vai trò và bằng chứng, kết nối, chất dẫn truyền, khi tổn thương, đừng hiểu nhầm. Khung cố định giúp người học tìm cùng một thông tin ở mỗi thùy mà không phải đọc lại từ đầu. Chỗ dễ nhầm: bốn thẻ không có nghĩa là bốn cơ quan độc lập; mục \"Các thùy làm việc cùng nhau\" ở cuối bài sẽ ghép chúng lại."
+    },
+    {
+      "title": "Ba ý đáng mang theo",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S3",
+        "S6",
+        "S8"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Cách chia thùy là quy ước, lấy các rãnh làm mốc",
+        "Mỗi thùy có việc đặc trưng, nhưng việc thật chạy qua nhiều thùy",
+        "Nhiều chỗ còn tranh luận: đọc tên vùng như \"hoạt động mạnh khi...\""
+      ],
+      "notes": "Ba ý này là phần \"nếu chỉ nhớ ba điều\". Một: cách chia thùy là quy ước để gọi tên, lấy rãnh trung tâm, rãnh bên và rãnh đỉnh-chẩm làm mốc; giáo khoa. Hai: mỗi thùy có một vài việc đặc trưng, ví dụ thùy chẩm lo thị giác, nhưng một việc đời thường như nhận ra mặt bạn cần cả thùy chẩm, thùy thái dương, thùy đỉnh và thùy trán. Ba: nhiều chỗ còn tranh luận, nên tên kiểu \"vùng của chức năng X\" đọc như \"vùng hoạt động mạnh khi làm việc X\", không phải \"nút duy nhất của X\". Ý thứ ba là suy luận của người viết, dựa trên bài tổng quan về vùng nhận mặt và mô hình hai dòng của tiếng nói. Mức chắc chắn của hai ý đầu là giáo khoa."
+    },
+    {
+      "title": "Vỏ não: tấm nơron mỏng và gấp nếp",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Ở đâu: lớp ngoài cùng hai bán cầu",
+        "Làm gì: nơi xử lý phần lớn thông tin",
+        "Đừng hiểu nhầm: không phải một khối đặc"
+      ],
+      "body": "Vỏ não (**cerebral cortex**) là một tấm mỏng nơron ở lớp ngoài cùng của hai bán cầu; \"cortex\" nghĩa là vỏ cây [S1]. Đó là **chất xám**, gồm chủ yếu thân tế bào và các kết nối tầm ngắn, nằm trên **chất trắng** gồm các sợi trục bọc myelin [S1] [S2]. Vỏ chỉ dày khoảng 2 đến 4 mm [S1], cỡ chồng hai hoặc ba đồng xu [S4], nhưng phần lớn có sáu lớp nơron khác nhau.",
+      "notes": "Nhấn ba ý. Một, \"cortex\" là vỏ cây: một tấm mỏng, khác với \"nhân\" (nucleus) là một cụm nơron. Hai, chất xám là thân tế bào cộng kết nối ngắn; chất trắng là các sợi trục bọc myelin, lớp chất béo cách điện giúp truyền tín hiệu nhanh hơn, và các bó sợi ấy mang tín hiệu đi xa. Ba, độ dày 2 đến 4 mm nghe nhỏ, nên NINDS dùng hình ảnh chồng hai hoặc ba đồng xu mười xu. Chỗ dễ nhầm: vỏ não không phải toàn bộ bán cầu; phần lớn thể tích bán cầu bên dưới là chất trắng và các nhân sâu. Mức chắc chắn: giáo khoa, có ba nguồn khớp nhau."
+    },
+    {
+      "title": "Chất xám và chất trắng trên lát cắt",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "light",
+      "bullets": [
+        "Coronal: lát cắt đứng ngang",
+        "Vỏ não: lớp ngoài, màu tím sẫm",
+        "Chất trắng: bên dưới, màu nhạt hơn"
+      ],
+      "images": [
+        {
+          "file": "images/vo-nao-xam-trang.jpeg",
+          "alt": "Lát cắt đứng ngang của não khỉ macaque, vỏ não là lớp ngoài màu tím sẫm",
+          "credit": "Wikipedia, giấy phép theo sách CC0; Hove & Martinez, Hình 10 (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình giáo trình, lát cắt đứng ngang (coronal) của não khỉ macaque, để thấy vỏ não là lớp ngoài màu tím sẫm, còn chất trắng bên dưới nhạt hơn. Dùng não khỉ làm hình minh họa vì cấu trúc lớp tương tự, nhưng nhớ rằng đây là não khỉ, không phải não người; hình chỉ để nhìn \"vỏ là lớp mỏng ngoài cùng\". Chỉ cho người học đường viền sẫm uốn quanh các nếp gấp: đó là vỏ não, và nó dày gần như đều quanh các hồi và rãnh. Các nhãn viết tắt ở phần dưới hình (hải mã, đồi thị...) không thuộc bài này, thuộc L07. Mức chắc chắn: hình minh họa, nguồn có giấy phép CC0 theo mục Media Attributions của giáo trình."
+    },
+    {
+      "title": "Sáu lớp của vỏ não, từ ngoài vào trong",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "layout": "layers",
+      "tone": "dark",
+      "bullets": [
+        "Lớp 1: rất ít thân tế bào, chủ yếu đầu sợi nhánh và sợi trục",
+        "Lớp 2 và 3: gửi và nhận tín hiệu với các vùng vỏ gần đó",
+        "Lớp 4: nhận tín hiệu từ đồi thị",
+        "Lớp 5 và 6: gửi tín hiệu ra khỏi vỏ, xuống các vùng khác",
+        "Vỏ cảm giác: lớp 4 dày; vỏ vận động: lớp 5 và 6 dày"
+      ],
+      "notes": "Đọc từ trên xuống. Lớp 1 gần như không có thân tế bào, chủ yếu là đầu sợi nhánh và sợi trục. Lớp 2 và 3 nối với các vùng vỏ gần đó. Lớp 4 là cửa vào: nhận tín hiệu từ đồi thị. Lớp 5 và 6 là cửa ra: gửi tín hiệu ra khỏi vỏ. Chi tiết của Hall: độ dày mỗi lớp thay đổi theo chức năng của vùng, vùng cảm giác nhận nhiều tín hiệu vào nên lớp 4 dày, vùng vận động gửi nhiều tín hiệu ra nên lớp 5 và 6 dày. Các nơron cùng một cột thẳng đứng xuyên qua các lớp thường đáp ứng với cùng một loại kích thích. Chỗ dễ nhầm: \"phần lớn\" vỏ não có sáu lớp, không phải mọi chỗ. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Bốn thùy và các rãnh làm mốc",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "layout": "annotated-figure",
+      "tone": "light",
+      "bullets": [
+        "Central sulcus: rãnh trung tâm",
+        "Lateral sulcus: rãnh bên",
+        "Parieto-occipital: rãnh đỉnh-chẩm"
+      ],
+      "body": "Hình cho thấy cách chia thùy nhìn từ bên ngoài: **rãnh trung tâm** tách thùy trán khỏi thùy đỉnh, **rãnh bên** tách thùy thái dương khỏi hai thùy kia, còn thùy chẩm không có ranh giới rõ ở mặt ngoài nên mốc là **rãnh đỉnh-chẩm** nhìn từ mặt trong [S1] [S3].",
+      "images": [
+        {
+          "file": "images/vo-nao-cac-thuy.jpeg",
+          "alt": "Các thùy của vỏ não nhìn từ bên ngoài và các rãnh làm mốc",
+          "credit": "OpenStax, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 12 (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Chỉ cho người học ba mốc trên hình. Rãnh trung tâm chạy từ đỉnh đầu xuống, trước nó là hồi trước trung tâm (vỏ vận động, thuộc thùy trán), sau nó là hồi sau trung tâm (vỏ thể cảm, thuộc thùy đỉnh). Rãnh bên, còn gọi khe Sylvius, là đường ngang phía dưới, thùy thái dương nằm bên dưới nó. Thùy chẩm ở phía sau, và giáo trình lẫn OpenStax đều nói ở mặt ngoài nó không có ranh giới giải phẫu rõ; mốc là rãnh đỉnh-chẩm ở mặt trong. Chỗ dễ nhầm: màu trên hình chỉ để phân biệt thùy, không phải màu thật của não. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Brodmann 1909 và các vùng chính",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Brodmann (1909): chia vỏ não thành 52 vùng theo cấu trúc vi thể",
+        "Vùng 4: vỏ vận động chính",
+        "Vùng 17: vỏ thị giác chính (V1); vùng 17 và 18 ở thùy chẩm",
+        "Vùng 41 và 42: vỏ thính giác, hồi thái dương trên",
+        "Vùng 1, 2, 3: vỏ thể cảm chính, hồi sau trung tâm"
+      ],
+      "notes": "Bảng tra nhanh các vùng Brodmann mà bài sẽ gặp lại. Brodmann năm 1909 xem cấu trúc vi thể của vỏ não rồi chia thành 52 vùng; cách đánh số ấy vẫn dùng đến nay. Nhiều vùng khớp với một chức năng riêng: vùng 4 là vỏ vận động chính (thùy trán, L04), vùng 17 là vỏ thị giác chính, vùng 41 và 42 là vỏ thính giác theo OpenStax, vùng 1, 2, 3 là vỏ thể cảm chính ở hồi sau trung tâm. Đây gọi là định vị chức năng. Chỗ dễ nhầm: khớp tốt không có nghĩa là mỗi vùng chỉ làm một việc; hai slide sau và mục hiểu lầm sẽ quay lại điều này. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Mạng nối của vỏ não: phần lớn là gần",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S2"
+      ],
+      "layout": "one-big-number",
+      "tone": "light",
+      "bullets": [
+        "80%",
+        "kết nối trong vỏ não tới nơron cùng vùng",
+        "Chỉ khoảng 5% là đường dài tới vùng xa hoặc sang bán cầu bên kia"
+      ],
+      "notes": "Số liệu của Hall: khoảng 80% kết nối trong vỏ não tới những nơron ở cùng một vùng, phần lớn kết nối giữa các vùng cũng tới vùng kề; chỉ khoảng 5% là kết nối đường dài, tới vùng xa hoặc qua thể chai sang bán cầu bên kia. Những kết nối dài ấy góp phần tạo nên các mạng lưới lớn của não. Ý nghĩa cho bài: cách chia thùy theo mốc vị trí hợp với việc phần lớn kết nối là cục bộ, nhưng ít kết nối đường dài lại là cầu nối giữa các thùy, vì thế việc thật luôn chạy qua nhiều vùng. Chỗ dễ nhầm: con số là của một giáo trình tổng quan (Hall, 2023), dùng để hình dung quy mô, không phải số đo chính xác cho từng người. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Vỏ chính, vỏ thứ cấp và vỏ liên hợp",
+      "section": "Vỏ não và cách người ta chia thùy",
+      "sources": [
+        "S2"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "dark",
+      "bullets": [
+        "Vỏ cảm giác chính: nhận thông tin giác quan trước, tổ chức theo bản đồ (cơ thể, võng mạc)",
+        "Vỏ thứ cấp: xử lý tiếp thông tin từ vỏ chính",
+        "Vỏ liên hợp: xử lý cùng lúc nhiều loại thông tin, như nghe và nhìn"
+      ],
+      "notes": "Slide này cho thấy ba tầng xử lý mà Hall mô tả. Thông tin giác quan vào vùng cảm giác chính trước; vùng này tổ chức theo bản đồ, nên da kề nhau ứng với vỏ kề nhau, võng mạc kề nhau ứng với vỏ thị giác kề nhau. Sau đó thông tin đi qua vùng thứ cấp. Vùng nào xử lý cùng lúc nhiều loại thông tin, ví dụ cả nghe lẫn nhìn, gọi là vỏ liên hợp, và Hall liệt kê chúng cho nhiều việc từ hiểu và tạo ngôn ngữ đến xử lý không gian, tư duy trừu tượng, lập kế hoạch và trí nhớ. Chỗ dễ nhầm: \"vỏ chính\" không có nghĩa là \"quan trọng nhất\", chỉ là nơi tín hiệu của giác quan đó vào vỏ đầu tiên. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Thùy thái dương: nghe, hiểu, nhận mặt, nhớ",
+      "section": "Thùy thái dương (temporal lobe)",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Ở đâu: dưới thái dương, dưới rãnh bên",
+        "Làm gì: nghe, ngôn ngữ, nhận vật, trí nhớ",
+        "Đừng hiểu nhầm: không phải kho chứa ký ức"
+      ],
+      "body": "**Thùy thái dương** (temporal lobe) nằm ở phần bên mỗi bán cầu, ngay dưới thái dương, dưới rãnh bên [S1]. Nó nhận thông tin từ tai ở **vỏ thính giác** phía trên [S4], có **vùng Wernicke** liên quan đến hiểu ngôn ngữ ở phần sau hồi thái dương trên [S1], có mặt dưới nhận tín hiệu thị giác để nhận mặt và nơi chốn, và phần trong của thùy thái dương quan trọng cho mã hóa trí nhớ dài hạn [S1]. Chi tiết hải mã ở L07.",
+      "notes": "Tóm tắt một thùy bằng bốn việc. Nghe: vỏ thính giác ở phần trên của thùy nhận thông tin từ tai. Ngôn ngữ: vùng Wernicke ở phần sau hồi thái dương trên liên quan đến hiểu ngôn ngữ. Nhận vật: mặt dưới thùy nhận tín hiệu thị giác và chứa vùng nhận mặt ở hồi thoi cùng vùng nhận nơi chốn cạnh hải mã. Trí nhớ: phần trong của thùy thái dương quan trọng cho mã hóa trí nhớ dài hạn, phần hải mã để dành cho L07. Chỗ dễ nhầm: NINDS nói mặt dưới mỗi thùy quan trọng cho tạo và gợi lại ký ức, nhưng OpenStax nhắc nơi lưu cuối cùng của ký ức thường là vùng xử lý giác quan tương ứng. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Cách mô tả cổ điển: từ tai đến lời nói",
+      "section": "Thùy thái dương (temporal lobe)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Tai: tín hiệu âm thanh đi vào",
+        "Vỏ thính giác: hồi thái dương trên",
+        "Vùng Wernicke: hiểu ngôn ngữ",
+        "Bó cung: bó chất trắng nối sang thùy trán",
+        "Vùng Broca: tạo ra lời nói"
+      ],
+      "notes": "Đây là cách mô tả mà giáo trình dùng. Tín hiệu từ tai tới vỏ thính giác ở phần trên của thùy thái dương. Vùng Wernicke ở phần sau hồi thái dương trên liên quan đến hiểu ngôn ngữ, và nối với vùng Broca ở thùy trán, vùng lo việc tạo ra lời nói, qua một bó chất trắng là bó cung (arcuate fasciculus). Vùng Broca thuộc L04, nên ở đây chỉ nhắc như điểm đến. Chỗ dễ nhầm: mũi tên một chiều trên sơ đồ là cách vẽ cho dễ nhìn; vùng Wernicke và vùng Broca nói chuyện qua lại, và slide kế tiếp cho thấy một mô hình nhìn khác. Mức chắc chắn: giáo khoa cho các vị trí và đường nối; phần chức năng của từng vùng là mô tả cổ điển."
+    },
+    {
+      "title": "Thùy thái dương: thẻ hồ sơ",
+      "section": "Thùy thái dương (temporal lobe)",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Phần bên mỗi bán cầu, dưới thái dương, dưới rãnh bên [S1] [S4]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Vỏ thính giác; vùng Wernicke; mặt dưới (nhận mặt, nơi chốn); phần trong của thùy thái dương [S1]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Bó cung tới vùng Broca; mặt dưới nhận tín hiệu từ vỏ thị giác [S1]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Giáo trình không nêu chất đặc thù cho các vùng này; xem L03"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Mặt dưới: có thể mất nhận mặt (prosopagnosia), ví dụ sau đột quỵ [S1]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Ký ức không nằm gọn ở đây: nơi lưu cuối cùng thường là vùng giác quan tương ứng [S3]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. \"Ở đâu\": phần bên, dưới rãnh bên. \"Gồm\": bốn khu vực chính, vỏ thính giác, vùng Wernicke, mặt dưới và phần trong của thùy thái dương. \"Kết nối\": bó cung tới vùng Broca, và mặt dưới nhận tín hiệu từ vỏ thị giác. \"Chất dẫn truyền\": giáo trình không nêu chất đặc thù cho các vùng này, nên thẻ chỉ dẫn sang L03 thay vì đoán. \"Khi tổn thương\": mất nhận mặt do tổn thương mặt dưới thùy, ví dụ sau đột quỵ. \"Đừng hiểu nhầm\": ký ức không nằm gọn trong thùy này. Chỗ dễ nhầm: ô chất dẫn truyền để trống nội dung là có chủ ý, vì viết ra một chất khi không có nguồn là bịa. Mức chắc chắn: giáo khoa, trừ ô cuối là điều nguồn nói."
+    },
+    {
+      "title": "Vùng Broca, vùng Wernicke và bó cung",
+      "section": "Thùy thái dương (temporal lobe)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "bullets": [
+        "Broca's area: vùng Broca, thùy trán",
+        "Wernicke's area: vùng Wernicke",
+        "Arcuate fasciculus: bó cung"
+      ],
+      "body": "Hình giáo trình đặt vùng **Broca** (xanh) ở thùy trán, vùng **Wernicke** (đỏ) ở hồi thái dương trên, **hồi góc** và **bó cung** là bó chất trắng nối hai vùng [S1]. Đây là bản đồ vị trí để học tên; hiểu và nói còn dựa vào nhiều vùng khác ngoài hai vùng này.",
+      "images": [
+        {
+          "file": "images/vung-wernicke.png",
+          "alt": "Vùng Broca, vùng Wernicke và bó cung trên não nhìn từ bên",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 16 (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình để học vị trí và tên. Vùng Wernicke, màu đỏ, ở phần sau hồi thái dương trên; vùng Broca, màu xanh, ở thùy trán; các mũi tên vòng là bó cung nối hai vùng. Trên hình còn có hồi góc (angular gyrus) nằm cạnh vùng Wernicke. Slide chỉ ghi ba nhãn chính, phần còn lại để người giảng chỉ trên hình. Chỗ dễ nhầm: các mũi tên cho cảm giác đây là một \"đường dây\" duy nhất; thực tế mô hình hai dòng ở slide sau mô tả bức tranh phức tạp hơn. Mức chắc chắn: vị trí và bó cung là giáo khoa; việc gán toàn bộ hiểu ngôn ngữ cho một vùng là mô tả cổ điển."
+    },
+    {
+      "title": "Vùng Wernicke và mô hình hai dòng (giả thuyết)",
+      "section": "Thùy thái dương (temporal lobe)",
+      "sources": [
+        "S1",
+        "S8"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Mô tả cổ điển: vùng Wernicke hiểu, bó cung nối sang vùng Broca nói",
+        "Hickok và Poeppel (2007): dòng bụng biến âm thanh thành hiểu, chủ yếu ở cả hai bán cầu",
+        "Dòng lưng nối âm thanh với phát âm ở thùy trán, nghiêng mạnh về bán cầu trái"
+      ],
+      "notes": "Đặt hai cách nhìn cạnh nhau. Cách cổ điển trong giáo trình: vùng Wernicke liên quan đến hiểu, nối với vùng Broca qua bó cung. Cách của Hickok và Poeppel, đề xuất năm 2007, là mô hình hai dòng: dòng bụng biến tín hiệu âm thanh thành sự hiểu và phần lớn được tổ chức ở cả hai bán cầu; dòng lưng nối âm thanh tiếng nói với mạng vận động phát âm ở thùy trán và nghiêng mạnh về trái. Các tác giả cho rằng khó khăn lâu nay một phần do không tính đến loại nhiệm vụ trong thí nghiệm. Chỗ dễ nhầm: mô hình hai dòng là giả thuyết đang được đề xuất, không phải kết luận đóng, và nó không \"xóa\" vùng Wernicke. Mức chắc chắn: giả thuyết, nguồn là bài tổng quan."
+    },
+    {
+      "title": "Bằng chứng về vùng nhận mặt",
+      "section": "Thùy thái dương (temporal lobe)",
+      "sources": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "layout": "timeline",
+      "tone": "dark",
+      "bullets": [
+        "1997: fMRI, hồi thoi của 12 trong 15 người hoạt động mạnh hơn với mặt so với đồ vật",
+        "1997: thêm phép thử (mặt so với nhà, mặt ba phần tư so với bàn tay) cho thấy vùng chọn lọc với mặt",
+        "Tổn thương mặt dưới thùy thái dương: có thể mất nhận mặt (prosopagnosia)",
+        "2006: bài tổng quan mô tả tranh luận giữa cơ chế chuyên biệt và đa dụng, nghiêng về chuyên biệt"
+      ],
+      "notes": "Ba loại bằng chứng cho một vùng. Một: ảnh chụp não ở người. Kanwisher, McDermott và Chun năm 1997 dùng fMRI và thấy ở 12 trong 15 người một vùng ở hồi thoi hoạt động mạnh hơn khi xem mặt so với đồ vật; rồi thêm nhiều phép thử trên cùng vùng ấy, kết luận vùng này chọn lọc với việc nhìn mặt. Hai: bệnh nhân tổn thương; giáo trình nêu mất nhận mặt khi tổn thương mặt dưới thùy thái dương, ví dụ do đột quỵ. Ba: bài tổng quan năm 2006 của Kanwisher và Yovel ủng hộ giả thuyết chuyên biệt cho mặt nhưng nói rõ đây từng là tranh luận lâu dài với cách giải thích đa dụng. Chỗ dễ nhầm: \"hoạt động mạnh hơn\" không đồng nghĩa \"chỉ có vùng này nhận mặt\". Mức chắc chắn: bằng chứng người, còn giả thuyết về tính chuyên biệt."
+    },
+    {
+      "title": "Thùy đỉnh: cảm giác cơ thể và bản đồ không gian",
+      "section": "Thùy đỉnh (parietal lobe)",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Ở đâu: trên thùy thái dương, sau rãnh trung tâm",
+        "Làm gì: xúc giác, vị trí cơ thể, không gian, chú ý",
+        "Đừng hiểu nhầm: không chỉ là cảm giác"
+      ],
+      "body": "**Thùy đỉnh** (parietal lobe) nằm trên thùy thái dương và sau thùy trán, ngay sau rãnh trung tâm [S1]. Phần trước là **hồi sau trung tâm**, nơi có vỏ thể cảm chính xử lý chạm, áp lực, đau, ngứa, rung, cảm nhận tư thế và chuyển động [S1] [S3]. Phần sau là vùng liên hợp: kết hợp xúc giác, thị giác, thính giác và tín hiệu vận động để dựng bản đồ không gian dẫn chú ý và cử động [S1]. NINDS thêm rằng thùy đỉnh hỗ trợ đọc và làm tính [S4].",
+      "notes": "Hai nửa của thùy đỉnh làm hai việc khác nhau. Nửa trước, ngay sau rãnh trung tâm, là hồi sau trung tâm với vỏ thể cảm chính (vùng Brodmann 1, 2, 3): nhận xúc giác, áp lực, đau, ngứa, rung, cảm nhận tư thế (proprioception) và cảm nhận chuyển động (kinesthesia). Nửa sau là vùng liên hợp: không thuần cảm giác, không thuần vận động, mà kết hợp tín hiệu từ nhiều giác quan và từ vùng vận động, vùng trước trán. NINDS nhắc thêm đọc và làm tính. Chỗ dễ nhầm: người học thường nghĩ thùy đỉnh chỉ là \"cảm giác da\"; nửa sau làm nhiều việc hơn thế. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Bản đồ cơ thể trên vỏ thể cảm",
+      "section": "Thùy đỉnh (parietal lobe)",
+      "sources": [
+        "S1",
+        "S2",
+        "S10"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "bullets": [
+        "Ngón tay, môi, lưỡi: vùng vỏ lớn",
+        "Chân và thân: vùng vỏ nhỏ hơn",
+        "Vẽ theo độ nhạy, không theo kích thước"
+      ],
+      "images": [
+        {
+          "file": "images/nguoi-lun-cam-giac.png",
+          "alt": "Bản đồ cơ thể trên vỏ thể cảm (sensory homunculus)",
+          "credit": "Wikipedia, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 17 (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình giáo trình, thường gọi là \"người lùn cảm giác\" (sensory homunculus). Vỏ thể cảm được tổ chức như bản đồ: các vùng da kề nhau ứng với các vùng vỏ kề nhau. Những bộ phận nhạy cảm vì có nhiều thụ thể trên da, như ngón tay, môi và lưỡi, chiếm vùng vỏ lớn hơn chân và thân. Lịch sử lập bản đồ này gắn với Penfield và Boldrey, năm 1937, nghiên cứu sự biểu diễn vận động và cảm giác cơ thể trên vỏ não người bằng cách kích thích điện; bài này dựa vào tiêu đề của họ, chưa kiểm nội dung chi tiết. Chỗ dễ nhầm: hình méo vì vẽ theo độ nhạy, không phải vì bàn tay \"to\". Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Thùy đỉnh: thẻ hồ sơ",
+      "section": "Thùy đỉnh (parietal lobe)",
+      "sources": [
+        "S1",
+        "S3",
+        "S9"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Trên thùy thái dương, sau thùy trán, ngay sau rãnh trung tâm [S1] [S3]"
+        },
+        {
+          "label": "Gồm",
+          "text": "Trước: hồi sau trung tâm, vỏ thể cảm chính. Sau: vỏ liên hợp [S1] [S3]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Gửi tín hiệu tới vùng vận động và vùng điều khiển mắt ở thùy trán; nhận dòng lưng thị giác [S1]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Giáo trình không nêu chất đặc thù cho các vùng này; xem L03"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Hỏng động tác dẫn bằng mắt, nhận thức không gian; có thể bỏ rơi nửa không gian [S1] [S9]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Bỏ rơi nửa không gian: nguồn gắn với chú ý và nhận biết, không với tổn thương vỏ thị giác [S1] [S9]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. \"Ở đâu\": trên thùy thái dương, sau thùy trán, sau rãnh trung tâm. \"Gồm\": phần trước là hồi sau trung tâm với vỏ thể cảm chính, phần sau là vỏ liên hợp. \"Kết nối\": vùng đỉnh sau gửi tín hiệu tới vùng vận động và vùng điều khiển mắt ở thùy trán, và dòng lưng của thị giác đi tới đây. \"Chất dẫn truyền\": giáo trình không nêu chất đặc thù; xem L03. \"Khi tổn thương\": tổn thương vùng đỉnh sau làm hỏng động tác với tay dẫn bằng mắt và nhận thức không gian, và có thể gây bỏ rơi nửa không gian. \"Đừng hiểu nhầm\": nguồn gắn nó với chú ý và nhận biết, không phải với tổn thương vỏ thị giác (cách nói \"không phải mù\" là suy luận của người viết). Mức chắc chắn: giáo khoa, cộng một bài tổng quan về chú ý."
+    },
+    {
+      "title": "Từ giác quan đến cử động: bản đồ không gian",
+      "section": "Thùy đỉnh (parietal lobe)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "flow",
+      "tone": "dark",
+      "bullets": [
+        "Vào: xúc giác, tư thế, thị giác, thính giác, tín hiệu vận động",
+        "Vùng đỉnh sau: kết hợp, dựng bản đồ không gian",
+        "Dịch vị trí từ tọa độ võng mạc sang tọa độ trong không gian",
+        "Ra: vùng vận động ở thùy trán lập kế hoạch cử động",
+        "Ra: vùng điều khiển mắt, hướng mắt và chú ý"
+      ],
+      "notes": "Sơ đồ ở mức cấu trúc, theo giáo trình. Vùng đỉnh sau nhận tín hiệu từ xúc giác, cảm nhận tư thế, thị giác, thính giác, và từ vùng vận động và trước trán. Ví dụ giáo trình nêu: muốn nắm một vật, vị trí của nó phải được dịch từ tọa độ trên võng mạc sang tọa độ trong không gian, và phép dịch này phụ thuộc vào hướng của mắt và đầu. Kết quả là các bản đồ vị trí cơ thể và vật trong không gian, gửi sang vùng vận động ở thùy trán để lập kế hoạch và sang vùng điều khiển mắt để hướng mắt và chú ý. Chỗ dễ nhầm: \"bản đồ\" ở đây là cách nói về cách các nơron biểu diễn vị trí, không phải một bức tranh trong não. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Hai hệ chú ý theo Corbetta và Shulman (giả thuyết)",
+      "section": "Thùy đỉnh (parietal lobe)",
+      "sources": [
+        "S9"
+      ],
+      "layout": "connection-diagram",
+      "tone": "light",
+      "bullets": [
+        "Hệ lưng: rãnh đỉnh và vỏ trán trên, chọn lọc có chủ đích",
+        "Hệ bụng: thái dương–đỉnh và trán dưới, lệch bán cầu phải",
+        "Hệ bụng phát hiện kích thích nổi bật, bất ngờ",
+        "Hệ bụng đóng vai \"cầu dao\" cho hệ lưng"
+      ],
+      "notes": "Một bài tổng quan của Corbetta và Shulman năm 2002 mô tả hai hệ chú ý tách một phần. Hệ thứ nhất gồm một phần vỏ trong rãnh đỉnh (intraparietal) và vỏ trán trên, lo việc chọn lọc có chủ đích kích thích và phản ứng. Hệ thứ hai gồm vỏ thái dương–đỉnh và vỏ trán dưới, lệch nhiều về bán cầu phải, chuyên phát hiện kích thích quan trọng với hành vi, nhất là kích thích nổi bật hoặc bất ngờ, và đóng vai cầu dao cho hệ kia. Cả hai hệ tương tác khi nhìn bình thường và cả hai bị rối loạn trong bỏ rơi nửa không gian. Chỗ dễ nhầm: đây là mô hình tổng hợp từ nhiều nghiên cứu, mức giả thuyết, và dùng chữ \"hệ\" cho một mạng vùng, không phải một cấu trúc. Mức chắc chắn: giả thuyết có bằng chứng."
+    },
+    {
+      "title": "Bỏ rơi nửa không gian: lỗi chú ý và nhận biết",
+      "section": "Thùy đỉnh (parietal lobe)",
+      "sources": [
+        "S1",
+        "S9"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "dark",
+      "bullets": [
+        "Đột quỵ vùng đỉnh sau bên phải: người bệnh hành xử như thể nửa không gian bên trái không tồn tại"
+      ],
+      "notes": "Ví dụ của giáo trình: một đột quỵ ở vùng đỉnh sau bên phải có thể khiến người bệnh bỏ qua thức ăn ở phía trái đĩa, hoặc khi chép một bức tranh thì chỉ vẽ nửa bên phải. Đây là bỏ rơi nửa không gian (hemispatial neglect): mất nhận biết một bên của không gian, liên quan đến chú ý và nhận biết. Bài tổng quan của Corbetta và Shulman cho biết cả hai hệ chú ý bị rối loạn trong chứng này. Điểm cần nhấn, theo suy luận của người viết: nên đọc đây là rối loạn chú ý và nhận biết chứ không phải tổn thương mắt hay vỏ thị giác; NINDS nêu mù ở thùy chẩm, và giáo trình vẫn mô tả người bệnh như không nhận thấy nửa thị trường bên trái. Chỗ dễ nhầm: nửa trái hay nửa phải phụ thuộc bên tổn thương; ví dụ trên là bên phải. Mức chắc chắn: ví dụ là giáo khoa; vai trò của hai hệ chú ý là giả thuyết có bằng chứng."
+    },
+    {
+      "title": "Thùy chẩm: nơi tín hiệu thị giác vào vỏ não",
+      "section": "Thùy chẩm (occipital lobe)",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "layout": "explainer",
+      "tone": "light",
+      "bullets": [
+        "Ở đâu: phía sau não",
+        "Làm gì: xử lý thị giác, V1 tổ chức theo võng mạc",
+        "Đừng hiểu nhầm: nhìn không chỉ diễn ra ở đây"
+      ],
+      "body": "**Thùy chẩm** (occipital lobe) nằm ở phía sau não và chứa **vỏ thị giác** [S1] [S4]. Tín hiệu từ mắt đi theo dây thần kinh thị giác tới **nhân gối ngoài** ở đồi thị, rồi vào vỏ thị giác chính **V1** ở phần sau cùng của thùy [S1] [S2]. V1 tổ chức theo võng mạc, rồi gửi tín hiệu tới các vùng xử lý màu, cạnh, hướng, kết cấu và chuyển động [S1]. Thông tin thị giác phức tạp nên còn được xử lý ở thùy thái dương và thùy đỉnh [S3].",
+      "notes": "Thùy chẩm là điểm vào vỏ não của tín hiệu thị giác. Đường đi: mắt, dây thần kinh thị giác, nhân gối ngoài ở đồi thị, rồi vỏ thị giác chính ở phần sau cùng của thùy. V1 tổ chức theo võng mạc (retinotopic): vùng võng mạc kề nhau ứng với vùng vỏ kề nhau. Từ V1, tín hiệu đi tới các vùng chuyên xử lý màu, cạnh, hướng, kết cấu và chuyển động. NINDS mô tả thùy chẩm xử lý hình ảnh từ mắt và liên kết với hình ảnh đã lưu trong trí nhớ. Chỗ dễ nhầm: OpenStax nhấn mạnh thông tin thị giác còn được xử lý ở thùy thái dương và thùy đỉnh, nên \"nhìn\" không chỉ ở thùy chẩm. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Đường thị giác từ mắt đến V1",
+      "section": "Thùy chẩm (occipital lobe)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "tone": "dark",
+      "bullets": [
+        "Eyeball, optic nerve: mắt, dây thần kinh thị giác",
+        "LGN (thalamus): nhân gối ngoài ở đồi thị",
+        "V1: vỏ thị giác chính ở cực chẩm"
+      ],
+      "images": [
+        {
+          "file": "images/he-thi-giac.jpeg",
+          "alt": "Đường thị giác từ mắt qua đồi thị tới vỏ thị giác chính",
+          "credit": "Wikipedia, giấy phép theo sách CC BY-SA; Hove & Martinez, Hình 22B (chương 2.6)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+        }
+      ],
+      "notes": "Hình giáo trình cho thấy đường thị giác: mắt, dây thần kinh thị giác, giao thoa thị giác, nhân gối ngoài ở đồi thị, bó tia thị, rồi vỏ thị giác chính ở cực chẩm. Hai màu đỏ và xanh trên hình phân biệt hai nửa của thị trường; chỉ cho người học rằng tín hiệu từ hai mắt gặp nhau ở giao thoa thị giác rồi tách đường, nên mỗi nửa não nhận một nửa thị trường. Chi tiết giao thoa nằm ngoài những gì giáo trình nói ở mục này, nên bài chỉ nêu tên các nhãn trên hình và không giải thích thêm. Chỗ dễ nhầm: nhân gối ngoài thuộc đồi thị, không thuộc thùy chẩm; đồi thị thuộc L07. Mức chắc chắn: giáo khoa cho các vị trí trên hình."
+    },
+    {
+      "title": "Thùy chẩm: thẻ hồ sơ",
+      "section": "Thùy chẩm (occipital lobe)",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S7"
+      ],
+      "layout": "profile-card",
+      "tone": "light",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Ở đâu",
+          "text": "Phía sau não; không có ranh giới rõ ở mặt ngoài, mốc là rãnh đỉnh-chẩm [S1] [S3]"
+        },
+        {
+          "label": "Gồm",
+          "text": "V1 ở phần sau cùng và các vùng thị giác khác; vùng Brodmann 17, 18 [S1] [S3]"
+        },
+        {
+          "label": "Kết nối",
+          "text": "Nhận từ nhân gối ngoài; gửi theo dòng bụng tới thái dương, dòng lưng tới đỉnh [S1] [S7]"
+        },
+        {
+          "label": "Chất dẫn truyền",
+          "text": "Giáo trình không nêu chất đặc thù cho các vùng này; xem L03"
+        },
+        {
+          "label": "Khi tổn thương",
+          "text": "Theo NINDS: tổn thương thùy chẩm có thể gây mù [S4]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Nhìn còn xử lý ở thùy thái dương và đỉnh, không chỉ ở thùy chẩm [S3]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. \"Ở đâu\": phía sau não; ở mặt ngoài không có ranh giới rõ, mốc là rãnh đỉnh-chẩm ở mặt trong. \"Gồm\": V1 ở phần sau cùng cộng các vùng thị giác khác; vùng Brodmann 17 và 18. \"Kết nối\": nhận tín hiệu từ nhân gối ngoài, gửi theo dòng bụng tới thùy thái dương và theo dòng lưng tới thùy đỉnh. \"Chất dẫn truyền\": giáo trình không nêu chất đặc thù; xem L03. \"Khi tổn thương\": theo NINDS, có thể gây mù. \"Đừng hiểu nhầm\": nhìn không diễn ra chỉ ở thùy chẩm. Chỗ dễ nhầm: \"mù\" ở đây là chuyện của thị giác, khác với bỏ rơi nửa không gian của thùy đỉnh. Mức chắc chắn: giáo khoa."
+    },
+    {
+      "title": "Từ V1, tín hiệu đi tới các vùng chuyên xử lý",
+      "section": "Thùy chẩm (occipital lobe)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "numbered-rows",
+      "tone": "dark",
+      "bullets": [
+        "Màu",
+        "Cạnh",
+        "Hướng",
+        "Kết cấu",
+        "Chuyển động"
+      ],
+      "notes": "Từ V1, tín hiệu thị giác được gửi tới nhiều vùng, trong vỏ thị giác và ngoài nó, chuyên xử lý những đặc điểm khác nhau của ảnh: màu, cạnh, hướng, kết cấu và chuyển động. Giáo trình thêm rằng các vùng thị giác nối với nhau dày đặc và hai chiều: có tín hiệu đi lên theo thang xử lý, và cũng có tín hiệu phản hồi đi ngược xuống. Nghĩa là thị giác không phải một dây chuyền một chiều từ mắt đến \"nhận ra vật\". Chỗ dễ nhầm: năm mục trên là năm loại đặc điểm, không phải năm bước nối tiếp nhau. Mức chắc chắn: giáo khoa. Phần tiếp theo cho thấy hai dòng lớn mà các vùng này đi tới."
+    },
+    {
+      "title": "Hai dòng thị giác: hai cách gọi tên",
+      "section": "Thùy chẩm (occipital lobe)",
+      "sources": [
+        "S1",
+        "S7"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "Giáo trình: dòng bụng, \"cái gì\", đi xuống thùy thái dương để nhận ra vật",
+        "Giáo trình: dòng lưng, \"ở đâu\", đi lên thùy đỉnh để lập bản đồ vị trí",
+        "Goodale và Milner (1992): dòng bụng đảm nhiệm nhận diện vật",
+        "Goodale và Milner: dòng lưng làm phép biến đổi cảm giác–vận động cho hành động"
+      ],
+      "notes": "Hai cách nhìn cùng một cấu trúc. Giáo trình mô tả dòng bụng, gọi là \"cái gì\", đi xuống thùy thái dương dưới để nhận ra vật, và dòng lưng, gọi là \"ở đâu\", đi lên thùy đỉnh để lập bản đồ vị trí vật, nhất là cho cử động của mắt và tay. Goodale và Milner năm 1992 đề xuất cách diễn giải khác: dòng bụng, từ vỏ thị giác tới vỏ thái dương dưới, giữ vai trò chính trong nhận diện vật; dòng lưng, tới vùng đỉnh sau, làm các phép biến đổi cảm giác–vận động cho hành động dẫn bằng mắt nhằm vào vật. Đề xuất dựa trên bằng chứng thần kinh–tâm lý, điện sinh lý và hành vi. Chỗ dễ nhầm: hai cách gọi không loại trừ nhau. Mức chắc chắn: giáo khoa cho hai đường; cách diễn giải là đề xuất."
+    },
+    {
+      "title": "Ghép lại: việc thật chạy qua nhiều thùy",
+      "section": "Các thùy làm việc cùng nhau",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Thùy chẩm: không có ranh giới rõ với đỉnh và thái dương",
+        "Thị giác: còn xử lý ở thái dương và đỉnh",
+        "Kết nối: phần lớn cục bộ, vài đường dài"
+      ],
+      "body": "OpenStax nhận xét rằng thùy chẩm không có ranh giới giải phẫu rõ với thùy đỉnh và thùy thái dương, khớp với việc các vùng này có chức năng liên quan [S3]. Thông tin thị giác phức tạp nên còn được xử lý ở thùy thái dương và thùy đỉnh [S3]. Thông tin giác quan đi từ **vỏ chính** qua vùng thứ cấp tới **vỏ liên hợp** [S2], và chỉ khoảng 5% kết nối là đường dài giữa các vùng xa [S2]. Suy luận của người viết: mỗi thùy là một nút trong mạng, không phải một cơ quan riêng.",
+      "notes": "Slide này gom lại điều ba mục thùy đã gợi ra. Theo OpenStax, thùy chẩm không có ranh giới giải phẫu rõ với thùy đỉnh và thùy thái dương, và điều đó khớp với việc các vùng liên quan với nhau; thông tin thị giác phức tạp nên còn được xử lý ở thái dương và đỉnh. Theo Hall, thông tin giác quan đi từ vỏ chính qua vùng thứ cấp tới vỏ liên hợp, và chỉ khoảng 5% kết nối là đường dài. Câu cuối trong phần nội dung là suy luận của người viết: coi mỗi thùy là một nút trong mạng. Chỗ dễ nhầm: \"nút trong mạng\" là cách hình dung, không phải một khẳng định của nguồn. Mức chắc chắn: phần trích là giáo khoa; câu cuối là suy luận. Các slide sau minh họa bằng một tình huống đời thường."
+    },
+    {
+      "title": "Nghe gọi tên, quay lại, chào bạn: sáu bước",
+      "section": "Các thùy làm việc cùng nhau",
+      "sources": [
+        "S1",
+        "S4",
+        "S5",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "layout": "sequence-diagram",
+      "tone": "light",
+      "bullets": [
+        "Thái dương trên: tiếng gọi vào vỏ thính giác",
+        "Thái dương: hiểu đó là tên mình",
+        "Thái dương–đỉnh (phải): chú ý quay về hướng tiếng gọi",
+        "Chẩm: hình ảnh vào V1",
+        "Thái dương dưới: nhận ra mặt bạn",
+        "Đỉnh sau rồi trán: giơ tay chào, bắt tay"
+      ],
+      "notes": "Ví dụ của người viết: đứng ở sân ga, nghe có tiếng gọi tên mình, quay lại, nhận ra mặt một người bạn và giơ tay chào. Cách chia sáu bước là suy luận của người viết; vai trò gán cho mỗi thùy ở mỗi bước đều có nguồn. Bước 1: tín hiệu từ tai tới vỏ thính giác ở phần trên của thùy thái dương. Bước 2: hiểu lời nói, theo giáo trình là vùng Wernicke, theo mô hình hai dòng là dòng bụng ở cả hai bán cầu. Bước 3: chú ý bị kéo về kích thích quan trọng, bất ngờ; theo bài tổng quan đó là việc của hệ thái dương–đỉnh lệch bên phải, còn áp vào một tiếng gọi là suy luận của người viết. Bước 4: hình ảnh vào V1. Bước 5: nhận ra mặt ở mặt dưới thùy thái dương. Bước 6: dòng lưng và vùng đỉnh sau dựng bản đồ vị trí tay, gửi sang vùng vận động ở thùy trán (L04). Chỗ dễ nhầm: các bước chồng lên nhau, không chạy lần lượt."
+    },
+    {
+      "title": "Việc đời thường mượn nhiều thùy cùng lúc",
+      "section": "Các thùy làm việc cùng nhau",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "layout": "card-grid",
+      "tone": "dark",
+      "bullets": [
+        "Nhìn và nhận mặt: thùy chẩm, thùy thái dương",
+        "Cầm một vật: thị giác, vùng đỉnh sau, vùng vận động ở thùy trán",
+        "Nghe và đáp lời: thùy thái dương, thùy trán",
+        "Đọc một dòng chữ: nhiều thùy cùng lúc"
+      ],
+      "notes": "Mỗi thẻ là một việc đời thường mượn nhiều thùy. Nhìn và nhận mặt: thùy chẩm đưa hình vào vỏ não, mặt dưới thùy thái dương nhận ra mặt. Cầm một vật: thị giác cho biết vật ở đâu, vùng đỉnh sau dịch vị trí đó sang tọa độ trong không gian, vùng vận động ở thùy trán ra lệnh cho cơ. Nghe và đáp lời: vỏ thính giác ở thùy thái dương nhận âm thanh, rồi nối sang vùng lo việc nói ở thùy trán. Đọc một dòng chữ: NINDS nhắc thùy đỉnh hỗ trợ đọc, thùy chẩm lo hình ảnh chữ. Ghi chú: thẻ thứ tư là suy luận của người viết từ các nguồn trên, không phải một khẳng định riêng của nguồn nào. Mức chắc chắn: vai trò từng thùy là giáo khoa; cách ghép là suy luận."
+    },
+    {
+      "title": "Vì sao ranh giới thùy không rõ lại hợp lý",
+      "section": "Các thùy làm việc cùng nhau",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "layout": "two-column-comparison",
+      "tone": "light",
+      "bullets": [
+        "OpenStax: thùy chẩm không có ranh giới rõ với thùy đỉnh và thái dương, khớp với việc các vùng này có chức năng liên quan",
+        "Hall: phần lớn kết nối là cục bộ; chỉ khoảng 5% là kết nối đường dài",
+        "OpenStax: nơi lưu cuối cùng của ký ức thường là vùng xử lý giác quan tương ứng"
+      ],
+      "notes": "Slide này gom ba nhận xét từ hai sách giáo khoa miễn phí. OpenStax cho rằng thùy chẩm không có ranh giới giải phẫu rõ với thùy đỉnh và thùy thái dương, và nhận xét điều đó khớp với việc các vùng này có chức năng liên quan với nhau. Hall cho biết phần lớn kết nối trong vỏ não là cục bộ, chỉ khoảng 5% là kết nối đường dài. OpenStax cũng viết rằng nơi lưu cuối cùng của ký ức thường là vùng xử lý giác quan tương ứng, dù các cấu trúc ở thùy thái dương tạo trí nhớ dài hạn. Điểm chung: chức năng không gói gọn trong ranh giới thùy. Chỗ dễ nhầm: nhận xét của OpenStax là cách lý giải của sách, không phải kết luận của một thí nghiệm riêng. Mức chắc chắn: giáo khoa theo hai sách, phần lý giải là nhận xét của tác giả sách."
+    },
+    {
+      "title": "Chia thùy giống chia quận của một thành phố",
+      "section": "Các thùy làm việc cùng nhau",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "dark",
+      "bullets": [
+        "Có ích để chỉ đường, chứ không phải bốn thành phố riêng"
+      ],
+      "notes": "Đây là suy luận của người viết, không phải khẳng định của nguồn. Giống như chia một thành phố thành các quận để chỉ đường, cách chia thùy dùng các rãnh làm mốc để gọi tên vị trí. Nhưng một chuyến đi thật đi qua nhiều quận, và việc thật của não đi qua nhiều thùy. Điều này khớp với hai điều nguồn nói: ranh giới giữa vài thùy không rõ ở mặt ngoài, và thông tin thị giác được xử lý ở cả ba thùy. Dùng hình ảnh này để người học khỏi hiểu \"thùy chẩm lo nhìn\" thành \"chỉ thùy chẩm lo nhìn\". Chỗ dễ nhầm: phép so sánh không hoàn hảo, vì các quận có ranh giới hành chính cố định còn các vùng não thì mờ hơn. Mức chắc chắn: suy luận của người viết, dựa trên giáo trình và OpenStax."
+    },
+    {
+      "title": "Bốn hiểu lầm về thùy và vùng",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S1",
+        "S3",
+        "S5",
+        "S6",
+        "S8"
+      ],
+      "layout": "lookup-table",
+      "tone": "light",
+      "bullets": [
+        "Mỗi thùy làm đúng một việc: thị giác còn xử lý ở thái dương và đỉnh [S3]",
+        "Wernicke là trung tâm hiểu lời nói duy nhất (suy luận từ mô hình hai dòng, chủ yếu hai bên) [S8]",
+        "Có vùng nhận mặt thì hết tranh cãi: bài tổng quan mô tả tranh luận, dù nghiêng về chuyên biệt [S6]",
+        "Ký ức nằm trong thùy thái dương: nơi lưu thường là vùng giác quan tương ứng [S3]"
+      ],
+      "notes": "Bốn hiểu lầm đầu, mỗi cái kèm điều nguồn nói. Một: mỗi thùy làm đúng một việc; OpenStax nhắc thông tin thị giác còn được xử lý ở thùy thái dương và thùy đỉnh. Hai: vùng Wernicke là trung tâm hiểu lời nói; mô hình hai dòng của Hickok và Poeppel, giả thuyết, mô tả phần hiểu dựa vào một dòng tổ chức chủ yếu ở cả hai bán cầu. Ba: có vùng nhận mặt nghĩa là hết tranh cãi; chính bài tổng quan của Kanwisher và Yovel mô tả tranh luận giữa cơ chế chuyên biệt và đa dụng, còn nghiên cứu 1997 cho thấy vùng hoạt động mạnh hơn với mặt. Bốn: ký ức nằm trong thùy thái dương; OpenStax viết nơi lưu cuối cùng thường là vùng giác quan tương ứng. Mức chắc chắn: nêu từng cái."
+    },
+    {
+      "title": "Vì sao hiểu lầm về thùy và vùng dễ nảy sinh",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S1",
+        "S3",
+        "S6",
+        "S8"
+      ],
+      "layout": "explainer",
+      "tone": "dark",
+      "bullets": [
+        "Tên thùy, tên vùng: nhãn chỉ vị trí",
+        "Nguồn: thị giác ở nhiều thùy",
+        "Giả thuyết: tiếng nói, nhận mặt còn tranh luận"
+      ],
+      "body": "Tên thùy và tên vùng là **nhãn gọi vị trí**, nên dễ bị đọc thành \"chỗ làm đúng một việc\" [S1] [S3]. Bài chỉ đưa vào những hiểu lầm có nguồn phản bác: thông tin thị giác còn được xử lý ở thùy thái dương và thùy đỉnh [S3]; mô hình hai dòng mô tả tiếng nói dựa vào một dòng chủ yếu ở hai bán cầu [S8]; và vùng nhận mặt đi cùng một cuộc tranh luận giữa cơ chế chuyên biệt và đa dụng [S6]. Phần còn lại là con số và bản đồ cần đọc đúng.",
+      "notes": "Slide chuyển giữa hai bảng hiểu lầm. Điểm chung của chúng: tên thùy và tên vùng là nhãn chỉ vị trí, nên người học dễ đọc thành \"chỗ làm đúng một việc\". Bài chỉ đưa vào hiểu lầm nào có nguồn phản bác. Ba ví dụ ở bảng trước: OpenStax nói thông tin thị giác còn được xử lý ở thùy thái dương và thùy đỉnh; Hickok và Poeppel mô tả tiếng nói bằng hai dòng, dòng hiểu chủ yếu ở cả hai bán cầu; bài tổng quan về vùng nhận mặt nói rõ có tranh luận giữa cơ chế chuyên biệt và đa dụng. Bảng sau là ba hiểu lầm về số liệu và bản đồ. Chỗ dễ nhầm: \"có tranh luận\" không có nghĩa là \"không có bằng chứng\"; ở cả hai chỗ vẫn có bằng chứng. Mức chắc chắn: điều từng nguồn nói; cách gom là của người viết."
+    },
+    {
+      "title": "Tên vùng chỉ là nhãn cho nơi hoạt động mạnh",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S6",
+        "S8"
+      ],
+      "layout": "one-highlighted-sentence",
+      "tone": "light",
+      "bullets": [
+        "Đọc \"vùng của X\" như \"vùng hoạt động mạnh khi làm X\""
+      ],
+      "notes": "Đây là suy luận của người viết, rút từ hai ví dụ trong bài: vùng nhận mặt, được xác định bằng việc nó hoạt động mạnh hơn khi xem mặt, và vùng Wernicke, mà mô hình hai dòng mô tả theo nhiệm vụ thay vì theo một \"trung tâm\". Cách đọc này giúp người học khỏi coi tên vùng là bằng chứng rằng vùng ấy là nút duy nhất của một chức năng. Chính các tác giả bài tổng quan về vùng nhận mặt nói rõ có tranh luận giữa cơ chế chuyên biệt và đa dụng, và Hickok và Poeppel nói khó khăn trong lập bản đồ tiếng nói một phần do không tính đến loại nhiệm vụ. Chỗ dễ nhầm: đừng đọc câu này thành \"các vùng không có chức năng riêng\"; nguồn chỉ nói nhiều chỗ chưa kết luận. Mức chắc chắn: suy luận của người viết."
+    },
+    {
+      "title": "Ba hiểu lầm nữa: số liệu, bản đồ, bỏ rơi nửa không gian",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S9"
+      ],
+      "layout": "lookup-table",
+      "tone": "dark",
+      "bullets": [
+        "Trải phẳng vỏ não bằng 1 mét vuông: giáo trình ghi 1.800 cm², sách khác ghi 1 m² [S1] [S3]",
+        "Bản đồ vỏ thể cảm theo kích thước cơ thể: vẽ theo độ nhạy, nhiều thụ thể thì nhiều vỏ [S1] [S2]",
+        "Bỏ rơi nửa không gian là mù một nửa (suy luận): nguồn gắn với chú ý, nhận biết; mù nêu ở thùy chẩm [S1] [S4] [S9]"
+      ],
+      "notes": "Ba hiểu lầm còn lại. Năm: vỏ não trải phẳng bằng một mét vuông; giáo trình ghi khoảng 1.800 cm² và một sách miễn phí khác ghi xấp xỉ một mét vuông, hai nguồn không khớp, nên bài không khẳng định con số sau. Sáu: bản đồ cơ thể trên vỏ thể cảm vẽ theo kích thước cơ thể; thực ra vùng vỏ rộng hay hẹp theo độ nhạy, vì nơi nhiều thụ thể chiếm nhiều vỏ hơn. Bảy, suy luận của người viết đặt cạnh nguồn: bỏ rơi nửa không gian là mù một nửa; giáo trình gắn nó với thùy đỉnh, chú ý và nhận biết, bài tổng quan nói cả hai hệ chú ý rối loạn, NINDS nêu mù ở thùy chẩm; không nguồn nào nói thẳng \"đây không phải mù\". Chỗ dễ nhầm: đừng dùng \"1.800 cm²\" như số chính xác tuyệt đối; nó là con số giáo trình dẫn. Mức chắc chắn: nêu từng cái."
+    },
+    {
+      "title": "Năm điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S3",
+        "S4",
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "layout": "numbered-rows",
+      "tone": "light",
+      "bullets": [
+        "Vỏ não: tấm mỏng 2-4 mm, thường sáu lớp, gấp nếp; bốn thùy là cách gọi tên theo rãnh",
+        "Thái dương: nghe, hiểu ngôn ngữ, nhận mặt và nơi chốn, trí nhớ; hải mã ở L07",
+        "Đỉnh: cảm giác cơ thể theo độ nhạy, bản đồ không gian, chú ý; tổn thương gây bỏ rơi nửa không gian",
+        "Chẩm: thị giác, V1 theo võng mạc; hai dòng đi tới thái dương và đỉnh",
+        "Việc thật chạy qua nhiều thùy; vùng nhận mặt, mô hình hai dòng tiếng nói còn tranh luận; hai dòng thị giác có hai cách gọi"
+      ],
+      "notes": "Năm điều để mang đi. Một: vỏ não là tấm nơron mỏng, khoảng 2 đến 4 mm, thường sáu lớp, gấp nếp, chia thùy theo rãnh làm mốc. Hai: thùy thái dương lo nghe, hiểu ngôn ngữ, nhận mặt và nơi chốn, trí nhớ; hải mã để dành cho L07. Ba: thùy đỉnh lo cảm giác cơ thể, vẽ bản đồ theo độ nhạy, dựng bản đồ không gian và tham gia chú ý; tổn thương có thể gây bỏ rơi nửa không gian. Bốn: thùy chẩm là điểm vào của thị giác, V1 tổ chức theo võng mạc, từ đó hai dòng đi sang thùy thái dương và thùy đỉnh. Năm: việc thật chạy qua nhiều thùy cùng lúc, và vài chỗ còn tranh luận. Chỗ dễ nhầm: ý năm gồm cả giáo khoa lẫn giả thuyết; xem lại nhãn mức chắc chắn trên các slide trước. Câu hỏi tự kiểm: nêu một việc đời thường và kể thùy nào tham gia ở bước nào."
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "layout": "references",
+      "tone": "dark",
+      "bullets": [
+        "S1: Hove & Martinez, Biological Psychology, mục 2.6 The Brain, 2024",
+        "S2: Hall, Introduction to Biological Psychology, chương 2, Sussex, 2023",
+        "S3: Betts và cộng sự, Anatomy and Physiology 2e, mục 13.2, OpenStax, 2022",
+        "S4: NINDS, Brain Basics: Know Your Brain",
+        "S5: Kanwisher, McDermott, Chun, J Neurosci, 1997",
+        "S6: Kanwisher & Yovel, Phil Trans R Soc B, 2006",
+        "S7: Goodale & Milner, Trends Neurosci, 1992",
+        "S8: Hickok & Poeppel, Nat Rev Neurosci, 2007",
+        "S9: Corbetta & Shulman, Nat Rev Neurosci, 2002",
+        "S10: Penfield & Boldrey, Brain, 1937"
+      ],
+      "notes": "Danh sách nguồn đầy đủ, có địa chỉ và DOI, ở mục Nguồn tham khảo của lesson.md. Một lưu ý về cách dùng nguồn: các bài báo năm 1992, 1997, 2002, 2006 và 2007 được kiểm bằng tóm tắt đăng ở PubMed và dữ liệu tên bài, tác giả, năm ở Crossref; ba sách giáo khoa miễn phí và trang của NINDS được đọc trực tiếp. Bài báo của Penfield và Boldrey chỉ được kiểm tên bài, tác giả, năm; bài chỉ dựa vào tên bài, chưa kiểm nội dung chi tiết. Hình trong bài lấy từ giáo trình Hove & Martinez, giấy phép ghi theo mục Media Attributions của chương; chưa đối chiếu giấy phép gốc ở nơi đăng đầu tiên của từng hình. Điều chưa kiểm được ghi ở phần báo cáo bàn giao."
+    }
+  ]
+}

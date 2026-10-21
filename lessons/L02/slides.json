@@ -11,43 +11,45 @@
         "S4"
       ],
       "bullets": [
-        "Dọc sợi trục: xung điện",
-        "Giữa hai nơron: chất hóa học",
-        "Chỗ nối giữa hai nơron: synapse"
+        "Ở đâu: sợi trục và synapse",
+        "Làm gì: điện đi xa, hóa chất bắc cầu",
+        "Đừng hiểu nhầm: xung điện không nhảy thẳng qua khe synapse"
       ],
-      "notes": "Ví dụ của người viết: điện như đường dây chạy nhanh trong một nhà, hóa chất như người đưa thư sang nhà kế bên. Đây là chìa khóa để sang L03.",
-      "layout": "card-grid",
-      "tone": "light"
+      "notes": "Hãy nhớ một phân công đơn giản: điện lo việc đi xa trong lòng một tế bào, hóa chất lo việc bắc cầu giữa hai tế bào. Ví dụ của người viết: điện giống đường dây chạy nhanh trong một ngôi nhà, hóa chất giống người đưa thư đi sang nhà kế bên. Con số 86 tỷ là trung bình của một nghiên cứu đếm ở não nam giới trưởng thành, không phải số cố định cho mọi người. Chỗ dễ nhầm: ở synapse hóa học, xung điện không nhảy thẳng sang tế bào sau; nó phải được đổi thành tín hiệu hóa học rồi đổi ngược lại. Bài này chỉ nói cơ chế chung; từng chất dẫn truyền cụ thể để dành cho L03.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Não người trưởng thành có khoảng 86 tỷ **nơron**, theo một nghiên cứu đếm trực tiếp [S4]. Chúng liên lạc bằng hai kiểu tín hiệu nối tiếp nhau. Dọc **sợi trục**, tín hiệu là **xung thần kinh** (điện thế hoạt động), một thay đổi điện chạy rất nhanh. Giữa hai nơron, tại **synapse**, tín hiệu thường được chuyển bằng một chất hóa học gọi là **chất dẫn truyền thần kinh** [S1] [S3]. Điện lo việc đi xa trong một tế bào; hóa chất lo việc bắc cầu giữa hai tế bào, và đó cũng là nơi nhiều loại thuốc tác động [S1]."
     },
     {
-      "title": "Bốn phần của một nơron",
-      "section": "Cấu tạo một nơron",
+      "title": "Hành trình của một tín hiệu",
+      "section": "Tóm tắt",
       "sources": [
         "S1"
       ],
       "bullets": [
-        "Sợi nhánh: nhận tín hiệu",
-        "Thân tế bào: gom tín hiệu",
-        "Sợi trục: dẫn tín hiệu đi",
-        "Đầu tận cùng: trao cho tế bào kế"
+        "Sợi nhánh nhận tín hiệu",
+        "Thân tế bào cộng gộp",
+        "Sợi trục dẫn xung",
+        "Synapse: hóa chất bắc cầu",
+        "Nơron sau nhận và cộng lại"
       ],
-      "notes": "Một nơron nhận từ nhiều nơron và gửi cho nhiều nơron, nên cả não là mạng lưới chứ không phải dây chuyền thẳng.",
+      "notes": "Đây là bản đồ của cả bài, đọc từ trái sang phải. Sợi nhánh nhận tín hiệu từ nhiều nơron khác; thân tế bào cộng gộp chúng; nếu đủ mạnh, một xung được phát và chạy dọc sợi trục; tới đầu sợi trục, tín hiệu được đổi thành hóa chất ở synapse; nơron sau nhận hóa chất đó và lặp lại vòng này. Mỗi hộp là một mục của bài. Một nơron có thể đứng ở cả hai đầu của chuỗi: là bên nhận của nơron này và bên gửi của nơron khác, nên cả não là mạng lưới chứ không phải dây chuyền thẳng. Khi lạc, hãy quay lại slide này.",
       "layout": "flow",
       "tone": "dark"
     },
     {
-      "title": "Nơron trên một hình",
+      "title": "Cấu tạo nơron trên một hình",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
       "bullets": [
         "Dendrites: sợi nhánh",
         "Soma: thân tế bào",
         "Axon: sợi trục",
         "Myelin sheath: bao myelin"
       ],
-      "notes": "Nhãn trong hình bằng tiếng Anh.",
-      "section": "Cấu tạo một nơron",
-      "sources": [
-        "S1"
-      ],
+      "notes": "Nhìn hình trước khi đọc chữ. Bên trái là các sợi nhánh xòe ra như rễ cây, ở giữa là thân tế bào chứa nhân, rồi một sợi trục dài có các đoạn bao myelin xen với những chỗ hở gọi là eo Ranvier, và cuối cùng là các nhánh tận cùng. Nhãn trong hình bằng tiếng Anh, bên phải ghi nghĩa tiếng Việt. Chỗ dễ nhầm: hình vẽ chỉ để hiểu cấu trúc, nơron thật có hình dạng đa dạng hơn nhiều, như slide về ba kiểu nơron sẽ cho thấy.",
       "layout": "figure",
       "tone": "light",
       "images": [
@@ -60,80 +62,332 @@
       ]
     },
     {
-      "title": "Bên gửi và bên nhận",
+      "title": "Sợi nhánh, thân tế bào, sợi trục",
       "section": "Cấu tạo một nơron",
       "sources": [
         "S1"
       ],
       "bullets": [
-        "Nơron trước: bên gửi tín hiệu",
-        "Nơron sau: bên nhận tín hiệu"
+        "Ở đâu: sợi nhánh nhận, sợi trục gửi",
+        "Làm gì: nhận, gom, gửi tín hiệu",
+        "Đừng hiểu nhầm: nơron không phải dây chuyền thẳng"
       ],
-      "notes": "Một nơron có thể là nơron sau của nơron này và nơron trước của nơron khác.",
+      "notes": "Hai cách nhớ: sợi nhánh là hộp thư đến, sợi trục là hộp thư đi (ví dụ của người viết). Giáo trình mô tả sợi nhánh nhận thông tin từ hàng nghìn nơron khác, còn thân tế bào chứa nhân nên lo phần tổng hợp protein và năng lượng. Sợi trục là đầu ra, và bao myelin quanh nó là chất cách điện giúp xung chạy nhanh. Ở cuối sợi trục là nút tận cùng, nơi hình thành synapse. Chỗ dễ nhầm: nơron không phải một dây chuyền thẳng, vì sợi trục chia nhánh để nói chuyện với nhiều nơron cùng lúc.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Một nơron có ba phần chính [S1]. **Sợi nhánh** (dendrite) chia nhánh nhiều lần và nhận thông tin từ hàng nghìn nơron khác, là nguồn đầu vào chính. **Thân tế bào** (soma) chứa nhân, điều khiển việc tổng hợp protein và cung cấp năng lượng cho nơron. **Sợi trục** (axon) là nguồn đầu ra chính, mang xung thần kinh đi, thường được bọc bao myelin cách điện để tín hiệu chạy nhanh hơn. Ở đầu sợi trục là nút tận cùng, nơi tạo synapse với nơron kế tiếp [S1]."
+    },
+    {
+      "title": "Ba kiểu nơron theo hình dạng",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Đơn cực: một sợi trục, không có sợi nhánh",
+        "Lưỡng cực: một sợi trục, một sợi nhánh; có ở võng mạc",
+        "Đa cực: một sợi trục, nhiều sợi nhánh; phổ biến nhất",
+        "Nơron hình tháp: kiểu nổi bật của nhóm đa cực"
+      ],
+      "notes": "Giáo trình chia nơron theo số sợi trục và sợi nhánh. Kiểu đa cực phổ biến nhất và là kiểu ta hay hình dung: một sợi trục, nhiều sợi nhánh. Nơron hình tháp (pyramidal) là một ví dụ nổi bật của nhóm này, có thân tế bào hình tam giác. Kiểu lưỡng cực gặp trong xử lý cảm giác như ở võng mạc. Ngoài hình dạng, còn có cách chia theo chức năng: nơron cảm giác, nơron vận động và nơron trung gian. Chỗ dễ nhầm: hình dạng và chức năng là hai cách phân loại khác nhau, không phải hai tên của cùng một cách chia.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
+      "title": "Nơron trước và nơron sau",
+      "section": "Cấu tạo một nơron",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Nơron trước: bên gửi, giải phóng chất dẫn truyền ở nút tận cùng",
+        "Nơron sau: bên nhận, có thụ thể trên gai sợi nhánh",
+        "Một nơron có thể đóng cả hai vai ở hai synapse khác nhau"
+      ],
+      "notes": "Đây là hai cách gọi sẽ dùng suốt bài. Nơron trước là bên gửi: ở nút tận cùng của nó có các túi chứa chất dẫn truyền. Nơron sau là bên nhận: trên gai sợi nhánh của nó có thụ thể. Hai vai này thuộc về từng synapse, không thuộc về một nơron cố định. Ví dụ của người viết: trong một chuỗi người chuyền thư, mỗi người vừa nhận thư từ người đứng trước, vừa đưa thư cho người đứng sau. Chỗ dễ nhầm: gọi nơron nào là trước hay sau chỉ có nghĩa khi nói về một synapse cụ thể.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Glia: tế bào hỗ trợ, không phát xung",
+      "section": "Tế bào thần kinh đệm (glia)",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Ở đâu: cả hệ thần kinh trung ương và ngoại biên",
+        "Làm gì: cách điện, dọn dẹp, nuôi dưỡng",
+        "Mức chắc chắn: mô tả nhập môn của giáo trình"
+      ],
+      "notes": "Giáo trình giới thiệu glia ở mức nhập môn và chia việc của chúng thành vài nhóm: tạo bao myelin, dọn mảnh vỡ, nuôi dưỡng và điều hòa ion. Việc tạo myelin liên quan trực tiếp đến slide về dẫn truyền nhảy cóc ở phần sau. Mô tả rằng glia không dẫn điện và không giao tiếp từ tế bào sang tế bào là cách nói của giáo trình; bài này không khẳng định gì hơn mức đó. Chỗ dễ nhầm: 'đệm' nghe như vai phụ, nhưng hỗ trợ ở đây là điều kiện để nơron làm việc được.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Não còn có **tế bào thần kinh đệm** (glia), những tế bào không phải nơron nhưng hỗ trợ thiết yếu cho nơron [S1]. Giáo trình nêu ba nhóm việc: tạo bao myelin cho sợi trục, dọn mảnh vỡ của nơron chết, và mang dinh dưỡng từ mạch máu tới nơron cùng với việc giúp điều hòa thành phần ion của dịch ngoại bào [S1]. Cũng theo mô tả nhập môn đó, glia không dẫn tín hiệu điện và không giao tiếp từ tế bào sang tế bào như nơron [S1]."
+    },
+    {
+      "title": "86 tỷ nơron",
+      "section": "Tế bào thần kinh đệm (glia)",
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "bullets": [
+        "Trung bình ở não nam giới trưởng thành, từ một nghiên cứu đếm trực tiếp [S4]",
+        "Cùng nghiên cứu: khoảng 84,6 tỷ tế bào không phải nơron, gần ngang nơron [S4]",
+        "Neuroscience Online nêu số khác cho cả hệ thần kinh: khoảng 360 tỷ tế bào đệm, 90 tỷ nơron [S3]; khác phạm vi nên không so trực tiếp"
+      ],
+      "notes": "Con số này đến từ một nghiên cứu dùng phương pháp phân đoạn đẳng hướng để đếm tế bào ở não người. Tóm tắt của nghiên cứu ghi trung bình 86,1 tỷ tế bào mang dấu NeuN, được coi là nơron, và 84,6 tỷ tế bào không mang dấu này. Quan niệm phổ biến là tế bào đệm nhiều gấp mười lần nơron, và số đếm này không khớp với quan niệm đó. Neuroscience Online nêu số khác, nhưng cho cả hệ thần kinh chứ không riêng não: khoảng 360 tỷ tế bào đệm và 90 tỷ nơron. Hai con số khác phạm vi và cách gọi nên không so trực tiếp được. Chỗ dễ nhầm: đây là trung bình của nghiên cứu ở não nam giới trưởng thành, kèm độ lệch chuẩn vài tỷ; đừng đọc nó như một con số chính xác cho mọi người. Nghiên cứu còn ghi chỉ khoảng 19% số nơron nằm ở vỏ não.",
+      "layout": "one-big-number",
+      "tone": "dark"
+    },
+    {
+      "title": "Bốn loại glia theo giáo trình",
+      "section": "Tế bào thần kinh đệm (glia)",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "bullets": [],
+      "notes": "Thẻ hồ sơ này gom lại các loại glia mà giáo trình nêu tên. Điểm đáng chú ý là sự khác nhau giữa hệ trung ương và ngoại biên: một tế bào ít nhánh quấn myelin quanh nhiều sợi trục, còn một tế bào Schwann chỉ quấn quanh một sợi trục. Vi bào đệm và tế bào hình sao được giáo trình nhắc chung như những tế bào dọn dẹp và nuôi dưỡng. Hai dòng cuối nối sang slide trước: số đếm năm 2009 cho thấy hai nhóm tế bào có số lượng gần ngang nhau, còn Neuroscience Online nêu số cho cả hệ thần kinh với tế bào đệm nhiều hơn nơron. Chỗ dễ nhầm: hai con số khác phạm vi (não so với hệ thần kinh) và cách gọi, nên đừng nhắc bất kỳ tỷ lệ nào như một sự thật đã chốt.",
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Tế bào ít nhánh (oligodendroglia)",
+          "text": "Tạo bao myelin ở hệ thần kinh trung ương; một tế bào quấn quanh nhiều sợi trục [S1]"
+        },
+        {
+          "label": "Tế bào Schwann",
+          "text": "Tạo bao myelin ở hệ thần kinh ngoại biên; một tế bào quấn quanh một sợi trục [S1]"
+        },
+        {
+          "label": "Vi bào đệm và tế bào hình sao",
+          "text": "Dọn mảnh vỡ của nơron chết, mang dinh dưỡng từ mạch máu, điều hòa ion dịch ngoại bào [S1]"
+        },
+        {
+          "label": "Số lượng (khác phạm vi)",
+          "text": "Não: khoảng 84,6 tỷ tế bào không phải nơron [S4]; cả hệ thần kinh: ước tính 360 tỷ tế bào đệm [S3]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Hai con số khác phạm vi và cách gọi, không so trực tiếp được; đừng nhắc một tỷ lệ như sự thật đã chốt [S3] [S4]"
+        }
+      ]
+    },
+    {
+      "title": "Ion trong và ngoài màng",
+      "section": "Điện thế nghỉ",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Extracellular: dịch ngoại bào",
+        "Intracellular: dịch nội bào",
+        "Na+, K+, Cl−, A−: bốn nhóm ion"
+      ],
+      "notes": "Hình cho thấy mặt cắt qua màng sợi trục: phía trên là dịch ngoại bào, phía dưới là dịch nội bào, giữa là lớp màng lipid có các kênh ion xuyên qua. Các vòng tròn là ion: kali nhiều bên trong, natri và clorua nhiều bên ngoài, anion lớn ở bên trong. Dấu cộng và trừ dọc hai mặt màng cho thấy bên trong âm hơn bên ngoài. Hãy tìm mũi tên của kali đi qua kênh. Chỗ dễ nhầm: hình chỉ minh họa, không vẽ đúng tỷ lệ số lượng ion.",
+      "layout": "figure",
+      "tone": "dark",
+      "images": [
+        {
+          "file": "images/dien-the-nghi-ion.png",
+          "alt": "Nồng độ ion trong và ngoài màng một nơron",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 7 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/communication-within-and-between-neurons/"
+        }
+      ]
+    },
+    {
+      "title": "Điện thế nghỉ khoảng −70 mV",
+      "section": "Điện thế nghỉ",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Ở đâu: ngang qua màng của nơron",
+        "Làm gì: là mức xuất phát để tính ngưỡng",
+        "Đừng hiểu nhầm: mỗi loại nơron có giá trị riêng"
+      ],
+      "notes": "Điểm cần hiểu là điện thế nghỉ không phải do một lực duy nhất. Hai lực, khuếch tán và áp lực tĩnh điện, cùng tác động lên từng ion, và điện thế nghỉ là kết quả chung. Giáo trình nêu giá trị khoảng −70 mV; Neuroscience Online lưu ý giá trị này thay đổi giữa các loại nơron, trong khoảng từ −80 đến −40 mV. Hãy so sánh: pin hay ổ điện tính bằng volt, còn nơron chỉ vài chục mili volt. Chỗ dễ nhầm: số −70 là con số điển hình trong giáo trình, không phải hằng số của mọi nơron.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Dịch trong và ngoài tế bào giống nước muối, chứa **ion** natri, kali, clorua và các anion [S1]. Màng tế bào có kênh ion cho từng loại ion đi qua. Hai lực tác động lên ion lúc nghỉ: khuếch tán và áp lực tĩnh điện [S1]. Kết quả là một hiệu điện thế màng gọi là **điện thế nghỉ**, khoảng −70 mV so với bên ngoài [S1]; tùy loại nơron, giá trị có thể từ khoảng −80 đến −40 mV [S3]. Con số này nhỏ hơn rất nhiều so với pin hay ổ điện, vốn tính bằng volt [S1]."
+    },
+    {
+      "title": "Bốn nhóm ion lúc nghỉ",
+      "section": "Điện thế nghỉ",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Anion (A−): nhiều bên trong, không có kênh qua màng",
+        "Kali (K+): nhiều bên trong; khuếch tán đẩy ra, lực tĩnh điện kéo vào",
+        "Clorua (Cl−): nhiều bên ngoài; hai lực tác động ngược nhau",
+        "Natri (Na+): nhiều bên ngoài; màng gần như không cho qua lúc nghỉ"
+      ],
+      "notes": "Đi từng ion để thấy vì sao natri là ion đặc biệt. Kali và clorua đều đi qua màng được lúc nghỉ, nhưng hai lực tác động lên chúng ngược nhau nên chúng không chảy ròng. Natri bị cả hai lực đẩy vào trong, nhưng màng gần như không cho qua, nên natri vẫn nằm ngoài. Đó là lý do khi kênh natri mở ở bước sau, natri ào vào rất mạnh. Chỗ dễ nhầm: 'lực' ở đây là xu hướng chuyển động của ion, không phải lực cơ học. Anion bên trong không có kênh nên đứng yên, chỉ góp phần làm bên trong âm điện.",
+      "layout": "lookup-table",
+      "tone": "dark"
+    },
+    {
+      "title": "3 ra · 2 vào",
+      "section": "Điện thế nghỉ",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Bơm natri-kali dùng ATP: đưa 3 Na+ ra ngoài, đổi lấy 2 K+ vào trong [S1]",
+        "Suy luận của người viết: trạng thái nghỉ là cân bằng được duy trì bằng năng lượng, không phải 'tắt'"
+      ],
+      "notes": "Natri lọt vào tế bào lúc nghỉ sẽ được đẩy ra nhờ bơm natri-kali. Mỗi nhịp bơm đưa 3 ion natri ra ngoài và đổi lấy 2 ion kali vào trong, bằng năng lượng ATP của tế bào. Slide này nói lên một ý nền: trạng thái nghỉ không phải trạng thái tắt, mà là một cân bằng phải giữ bằng năng lượng. Ví dụ của người viết: giống người liên tục múc nước ra khỏi chiếc thuyền có lỗ nhỏ để thuyền không đầy. Chỗ dễ nhầm: slide không nói bơm là nguồn tiêu hao năng lượng chính của não; chỉ nói bơm cần ATP.",
+      "layout": "one-big-number",
+      "tone": "light"
+    },
+    {
+      "title": "Một điện thế hoạt động trên đồ thị",
+      "section": "Điện thế hoạt động: xung thần kinh",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Threshold: ngưỡng kích thích (≈ −50 mV)",
+        "Action potential: điện thế hoạt động",
+        "EPSP / IPSP: tín hiệu kích thích / ức chế"
+      ],
+      "notes": "Đọc đồ thị từ trái sang phải. Đường nằm ngang ở −70 mV là điện thế nghỉ. Đường đứt nét là ngưỡng. Hai đường nhỏ màu đỏ và xanh là các tín hiệu từ synapse, cộng lại sẽ quyết định có chạm ngưỡng hay không. Đường đen cao vọt là điện thế hoạt động: lên tới khoảng +40 mV rồi xuống, thậm chí xuống dưới mức nghỉ một chút trước khi về mức ban đầu. Chỗ dễ nhầm: EPSP và IPSP nhỏ hơn rất nhiều so với xung, và chúng không có tính có-hoặc-không.",
+      "layout": "annotated-figure",
+      "tone": "dark",
+      "body": "Trục dọc là điện thế màng. Từ mức nghỉ khoảng −70 mV, **điện thế hoạt động** chỉ bùng lên khi điện thế đạt **ngưỡng** khoảng −50 mV, lên tới khoảng +40 mV rồi trở về mức nghỉ [S1]. Các đường nhỏ màu đỏ và xanh là tín hiệu kích thích và ức chế từ synapse: chúng chỉ dịch chuyển điện thế nhẹ, chưa phải xung [S1].",
+      "images": [
+        {
+          "file": "images/dien-the-hoat-dong.png",
+          "alt": "Đồ thị thay đổi điện thế màng: điện thế hoạt động, EPSP, IPSP",
+          "credit": "Noba, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 8 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/communication-within-and-between-neurons/"
+        }
+      ]
+    },
+    {
+      "title": "Các pha của một xung",
+      "section": "Điện thế hoạt động: xung thần kinh",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Khử cực tới ngưỡng ≈ −50 mV",
+        "Kênh Na+ mở: natri ào vào, đỉnh ≈ +40 mV",
+        "Kênh Na+ trơ, kênh K+ mở: kali ra",
+        "Tăng phân cực ngắn",
+        "Về điện thế nghỉ, xong trong dưới 1 ms"
+      ],
+      "notes": "Năm mốc theo thứ tự thời gian. Một: khử cực tới ngưỡng. Hai: kênh natri phụ thuộc điện thế mở, natri ào vào, điện thế vọt lên khoảng +40 mV. Ba: kênh natri đóng và trơ, kênh kali mở, kali đi ra. Bốn: điện thế rơi về và hơi thấp hơn mức nghỉ trong chốc lát. Năm: trở về nghỉ, toàn bộ trong chưa đầy một mili giây. Pha trơ có hai tác dụng: không có xung mới ngay lúc đó và xung chỉ đi một chiều, rời xa thân tế bào. Chỗ dễ nhầm: natri vào trước, kali ra sau; hai ion này không đổi chỗ cho nhau cùng lúc.",
+      "layout": "timeline",
+      "tone": "light"
+    },
+    {
+      "title": "Có hoặc không, và mã hóa bằng tần số",
+      "section": "Điện thế hoạt động: xung thần kinh",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Ở đâu: dọc sợi trục",
+        "Làm gì: mã hóa cường độ bằng tần số",
+        "Đừng hiểu nhầm: xung không 'to hơn' khi kích thích mạnh hơn"
+      ],
+      "notes": "Giáo trình ví với mã nhị phân chỉ có 0 hoặc 1; Neuroscience Online ví với châm ngòi nổ: dưới ngưỡng thì không có gì, đạt ngưỡng thì xung có biên độ như nhau. Vậy làm sao não biết kích thích mạnh hay nhẹ? Neuroscience Online nêu: cường độ được mã hóa bằng tần số xung. Ví dụ của người viết: chuông cửa, bấm nhẹ hay mạnh tiếng chuông vẫn như nhau, bấm dồn dập thì vang dày hơn. Chỗ dễ nhầm: đây là cách nói đơn giản; bài không khẳng định tần số là cách mã hóa duy nhất.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Điện thế hoạt động theo nguyên tắc **có hoặc không** (all-or-none): xảy ra trọn vẹn hoặc không xảy ra, không có xung nhỏ hơn hay lớn hơn [S1]. Neuroscience Online ví nó với việc châm ngòi nổ: phải đạt một ngưỡng tối thiểu [S3]. Khi kích thích mạnh hơn, kích thước xung không đổi mà **tần số** xung tăng [S3]. Ví dụ của người viết: chuông cửa, bấm mạnh hay nhẹ tiếng vẫn như nhau, bấm dồn dập thì vang dày hơn."
+    },
+    {
+      "title": "Sợi trục có và không có myelin",
+      "section": "Điện thế hoạt động: xung thần kinh",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Có myelin: xung nhảy từ eo Ranvier này sang eo khác (dẫn truyền nhảy cóc), nhanh hơn và đỡ tốn năng lượng [S1]",
+        "Không có myelin: xung lan liên tục dọc sợi trục, chậm hơn [S1]",
+        "Tốc độ trong dây thần kinh: từ khoảng 100 m/s đến dưới 0,1 m/s tùy sợi trục [S3]"
+      ],
+      "notes": "Myelin làm hai việc cùng lúc: tăng tốc và tiết kiệm năng lượng. Dưới lớp myelin không có ion chảy qua màng, nên tế bào không phải tốn ATP để khôi phục điện thế nghỉ ở đoạn đó; xung suy yếu một chút nhưng vẫn đủ kích hoạt xung mới ở eo Ranvier kế tiếp. Neuroscience Online thêm rằng myelin chỉ bọc từng đoạn vì cần chừa chỗ cho các kênh natri tạo xung. Ví dụ của người viết: như chạy bậc thang, bước cách quãng nhanh hơn bước từng bậc một. Chỗ dễ nhầm: xung không 'biến mất' dưới myelin, nó chỉ yếu đi và được tái tạo ở eo kế tiếp.",
       "layout": "two-column-comparison",
       "tone": "light"
     },
     {
-      "title": "Một xung thần kinh",
-      "section": "Tín hiệu điện: xung thần kinh",
-      "sources": [
-        "S2"
-      ],
-      "bullets": [
-        "Nơron đủ bị kích thích",
-        "Natri chảy vào tế bào",
-        "Kali chảy ra khỏi tế bào",
-        "Trở về trạng thái nghỉ"
-      ],
-      "notes": "Hodgkin và Huxley mô tả và xây mô hình toán học cho cơ chế này từ thí nghiệm trên sợi trục khổng lồ của mực. Bài báo gốc rất kỹ thuật.",
-      "layout": "timeline",
-      "tone": "dark"
-    },
-    {
-      "title": "Có hoặc không",
-      "section": "Tín hiệu điện: xung thần kinh",
+      "title": "Hodgkin và Huxley: nguồn lịch sử",
+      "section": "Điện thế hoạt động: xung thần kinh",
       "sources": [
         "S1",
-        "S3"
+        "S2"
       ],
-      "bullets": [
-        "Xung điện không to nhỏ khác nhau"
-      ],
-      "notes": "Ví dụ của người viết: chuông cửa. Bấm nhẹ hay mạnh, tiếng chuông vẫn như nhau; bấm dồn thì vang dày hơn. Kích thích mạnh hơn thường được mã hóa chủ yếu bằng xung dày hơn; thời điểm xung và số nơron tham gia cũng góp phần.",
-      "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "bullets": [],
+      "notes": "Slide này nói thật về mức đọc nguồn. Bài báo năm 1952 rất kỹ thuật; bài này chỉ xác minh thông tin thư mục (tên, tạp chí, năm) và không đọc toàn văn. Những gì ghi ở đây về công trình lấy từ phần giáo trình kể lại: thí nghiệm trên sợi trục khổng lồ của mực, giải Nobel năm 1963, mô hình chung về truyền tín hiệu điện hóa. Kết quả từ động vật: mực không phải người, nhưng cơ chế ion được giáo trình dùng làm mô hình chung cho nơron. Chỗ dễ nhầm: đừng gán cho bài báo gốc những chi tiết mà bài này chưa đọc.",
+      "layout": "profile-card",
+      "tone": "dark",
+      "facts": [
+        {
+          "label": "Họ là ai",
+          "text": "Alan Hodgkin và Andrew Huxley; giáo trình nêu họ nhận giải Nobel Y học năm 1963 [S1]"
+        },
+        {
+          "label": "Làm trên gì",
+          "text": "Sợi trục khổng lồ của mực, to hơn khoảng 100 lần sợi trục não động vật có vú [S1] (kết quả từ động vật)"
+        },
+        {
+          "label": "Điều họ quan sát",
+          "text": "Kích thích điện gây một dòng điện lớn, thoáng qua chạy dọc sợi trục: điện thế hoạt động [S1]"
+        },
+        {
+          "label": "Bài báo gốc",
+          "text": "Công bố năm 1952 trên Journal of Physiology [S2]"
+        },
+        {
+          "label": "Mức đã đọc",
+          "text": "Chỉ xác minh thông tin thư mục; chưa đọc toàn văn bài báo [S2]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Giáo trình dùng công trình này làm mô hình chung; chi tiết cơ chế ở đây lấy từ giáo trình, không từ bài gốc [S1]"
+        }
+      ]
     },
     {
-      "title": "Synapse: bốn bước",
+      "title": "Synapse hóa học: bốn bước",
       "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
       "sources": [
         "S1",
         "S3"
       ],
       "bullets": [
-        "Xung điện tới đầu tận cùng",
+        "Xung điện tới nút tận cùng",
         "Canxi vào, túi giải phóng chất dẫn truyền",
-        "Chất dẫn truyền gắn vào thụ thể",
-        "Nơron sau thay đổi hoạt động"
+        "Chất dẫn truyền qua khe, gắn vào thụ thể",
+        "Nơron sau đổi điện thế: kích thích hoặc ức chế"
       ],
-      "notes": "Phần lớn synapse truyền bằng hóa chất; xung điện không nhảy qua khe synapse.",
+      "notes": "Bốn bước xảy ra trong chưa đầy một khoảnh khắc nhưng nên tách ra để nhớ. Một: xung tới nút tận cùng của nơron trước. Hai: canxi vào, các túi chứa chất dẫn truyền hòa vào màng và giải phóng chất ra khe. Ba: chất dẫn truyền qua khe hẹp, gắn vào thụ thể trên nơron sau. Bốn: điện thế của nơron sau đổi theo hướng kích thích hoặc ức chế, và vòng này lặp lại ở tế bào kế tiếp. Chỗ dễ nhầm: tín hiệu điện được đổi sang hóa học ở nút tận cùng và đổi ngược sang điện ở nơron sau; xung điện không băng qua khe.",
       "layout": "sequence-diagram",
-      "tone": "dark"
+      "tone": "light"
     },
     {
       "title": "Synapse trên một hình",
-      "bullets": [
-        "Vesicle: túi chứa chất dẫn truyền",
-        "Synaptic gap: khe synapse",
-        "Receptor: thụ thể"
-      ],
-      "notes": "Nhãn trong hình bằng tiếng Anh.",
       "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
       "sources": [
         "S1"
       ],
+      "bullets": [
+        "Vesicle: túi chứa chất dẫn truyền",
+        "Synaptic gap: khe synapse (khoảng 5 nm)",
+        "Receptor: thụ thể"
+      ],
+      "notes": "Trong hình, nửa trên là nút tận cùng của nơron trước với những túi tròn chứa chất dẫn truyền; nửa dưới là gai của nơron sau với các thụ thể trên màng; giữa hai nửa là khe synapse. Khe này chỉ rộng khoảng 5 nanomet, mỏng hơn độ dày một sợi tóc rất nhiều (ví dụ của người viết). Hãy tìm các chấm nhỏ trong khe: đó là chất dẫn truyền đang đi từ túi tới thụ thể. Nhãn trong hình bằng tiếng Anh. Chỗ dễ nhầm: hình phóng to nhiều lần; trong thực tế, khe này nhỏ hơn bất kỳ thứ gì ta nhìn bằng mắt thường.",
       "layout": "figure",
-      "tone": "light",
+      "tone": "dark",
       "images": [
         {
           "file": "images/synapse.png",
@@ -144,64 +398,97 @@
       ]
     },
     {
-      "title": "Thụ thể: ổ khóa và chìa",
-      "section": "Thụ thể: ổ khóa và chìa",
+      "title": "Canxi: chìa khóa của việc giải phóng",
+      "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
       "sources": [
         "S1",
         "S3"
       ],
       "bullets": [
-        "Chất dẫn truyền: chiếc chìa",
-        "Thụ thể: ổ khóa trên màng",
-        "Mở kênh ion hoặc báo hiệu trong tế bào"
+        "Ở đâu: nút tận cùng của nơron trước",
+        "Làm gì: canxi vào, túi giải phóng chất",
+        "Đừng hiểu nhầm: nghiên cứu của Katz làm ở synapse thần kinh-cơ"
       ],
-      "notes": "Ví dụ của người viết: chìa đúng thì mở được, chìa sai thì không. Kênh ion là lỗ nhỏ cho ion đi qua màng.",
+      "notes": "Điểm mấu chốt: xung điện chưa phải là thứ thả chất dẫn truyền ra; canxi mới là tín hiệu trực tiếp để các túi hòa vào màng. Neuroscience Online mô tả thí nghiệm của Bernard Katz và đồng nghiệp ở synapse giữa dây thần kinh và cơ vân; đó không phải synapse trong não, nên khi áp dụng sang não cần nhớ đây là nguyên lý chung được mô tả ở một mô hình. Chỗ dễ nhầm: kết luận chung về vai trò của canxi không biến thí nghiệm ấy thành một thí nghiệm trên não người.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Khe **synapse** chỉ rộng khoảng 5 nanomet [S1]. Trong nút tận cùng, các túi synapse đóng gói **chất dẫn truyền** [S1]. Khi xung tới, canxi vào nút tận cùng; Neuroscience Online mô tả canxi là ion then chốt, tương tác với protein gắn với túi để giải phóng chất truyền tin [S3]. Bernard Katz và đồng nghiệp khảo sát điều này ở synapse giữa dây thần kinh và cơ vân, không phải trong não [S3]. Chất dẫn truyền sau đó qua khe và gắn vào **thụ thể** [S1]."
+    },
+    {
+      "title": "Hai kiểu synapse",
+      "section": "Synapse: nơi tín hiệu chuyển thành hóa học",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Synapse hóa học: kiểu phổ biến nhất; chất dẫn truyền bắc cầu qua khe [S3]",
+        "Synapse điện: cầu nối (gap junction) nối thẳng hai tế bào, điện thế truyền thẳng [S3]",
+        "Trọng tâm của bài: synapse hóa học, nơi chất dẫn truyền và thuốc tác động"
+      ],
+      "notes": "Phần lớn bài này nói về synapse hóa học vì đó là kiểu phổ biến nhất theo Neuroscience Online và cũng là nơi chất dẫn truyền và thuốc tác động. Synapse điện hoạt động khác: cầu nối nối thẳng bào tương của hai tế bào nên thay đổi điện thế ở bên này truyền sang bên kia. Bài không đi sâu synapse điện vì chỉ đọc mô tả ngắn của nguồn. Chỗ dễ nhầm: nói 'synapse' không tự động có nghĩa là hóa học; hai kiểu cùng tồn tại, chỉ là kiểu hóa học phổ biến hơn.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "Thụ thể",
+      "section": "Thụ thể: ổ khóa và chìa",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Chất dẫn truyền: chiếc chìa",
+        "Thụ thể: ổ khóa trên màng nơron sau",
+        "Kênh ion: mở ra khi chìa đúng",
+        "Chất truyền tin thứ hai: đường gián tiếp"
+      ],
+      "notes": "Hình ảnh quen thuộc: chất dẫn truyền là chiếc chìa, thụ thể là ổ khóa nằm trên màng nơron sau (ví dụ của người viết, bám theo cách nói 'chìa và ổ khóa' của giáo trình). Khi chìa đúng, kênh ion mở ra. Một số thụ thể không nằm trên kênh mà phát tín hiệu gián tiếp qua chất truyền tin thứ hai bên trong tế bào, như giáo trình nêu khi giải thích tác động của các chất giống opioid. Chỗ dễ nhầm: hình chìa khóa chỉ nói về độ khớp; việc mở ra kích thích hay ức chế tùy kênh mà thụ thể gắn vào, như slide sau giải thích.",
       "layout": "connection-diagram",
       "tone": "light"
     },
     {
-      "title": "Kích thích và ức chế",
-      "section": "Kích thích, ức chế và phép cộng",
+      "title": "Thụ thể ion hướng và loại kênh",
+      "section": "Thụ thể: ổ khóa và chìa",
       "sources": [
-        "S1",
-        "S3"
+        "S1"
       ],
       "bullets": [
-        "Kích thích: nơron sau dễ phát xung hơn",
-        "Ức chế: nơron sau khó phát xung hơn"
+        "Ở đâu: gai sợi nhánh của nơron sau",
+        "Làm gì: mở kênh ion hoặc phát tín hiệu trong tế bào",
+        "Đừng hiểu nhầm: kích thích hay ức chế còn tùy kênh mà thụ thể mở"
       ],
-      "notes": "Tác động tùy chất dẫn truyền và loại thụ thể. L03 sẽ nói chất nào kích thích, chất nào ức chế.",
-      "layout": "two-column-comparison",
-      "tone": "dark"
+      "notes": "Thụ thể ion hướng là loại đơn giản nhất: thụ thể và kênh là một khối, chất dẫn truyền gắn vào thì kênh mở. Điều mà kênh cho đi qua quyết định kết quả: natri hoặc canxi vào thì khử cực, tức kích thích; clorua vào hoặc kali ra thì tăng phân cực, tức ức chế. Vì vậy cùng một cơ chế chìa-ổ khóa có thể đẩy nơron sau theo hai hướng ngược nhau. Từng loại thụ thể và từng chất dẫn truyền sẽ được trình bày ở L03. Chỗ dễ nhầm: không có chất dẫn truyền 'luôn kích thích' theo mọi thụ thể; kết quả phụ thuộc vào cả chất lẫn kênh.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Giáo trình mô tả **thụ thể ion hướng** (ionotropic receptor) nằm ngay trên một kênh ion: khi chất dẫn truyền gắn vào theo kiểu chìa và ổ khóa, kênh mở và một số ion vào hoặc ra khỏi tế bào [S1]. Tác động là **kích thích** hay **ức chế** tùy loại chất dẫn truyền và độ thấm của kênh mà nó kích hoạt [S1]. Ngoài ra có thụ thể tác động gián tiếp qua chất truyền tin thứ hai để đổi khả năng mở của kênh ion [S1]. Hồ sơ từng loại thụ thể thuộc L03."
     },
     {
-      "title": "Nơron sau cộng gộp",
-      "section": "Kích thích, ức chế và phép cộng",
+      "title": "Hai ví dụ trong giáo trình",
+      "section": "Thụ thể: ổ khóa và chìa",
       "sources": [
-        "S1",
-        "S3"
+        "S1"
       ],
       "bullets": [
-        "Nhiều synapse cùng gửi tín hiệu",
-        "Kích thích và ức chế được cộng gộp",
-        "Đủ mạnh thì phát xung, chưa đủ thì không"
+        "Glutamate, thụ thể NMDA: mở kênh Na+ hoặc canxi, gây điện thế kích thích",
+        "GABA, thụ thể GABA: mở kênh Cl− hoặc K+, gây điện thế ức chế",
+        "Hai chất chính: glutamate là kích thích chính, GABA là ức chế chính của não"
       ],
-      "notes": "Ví dụ của người viết: hội đồng bỏ phiếu, có người ủng hộ, có người phản đối.",
-      "layout": "numbered-rows",
+      "notes": "Hai ví dụ này là cặp đối xứng. Glutamate gắn vào thụ thể NMDA, mở kênh natri hoặc canxi và gây điện thế kích thích. GABA gắn vào thụ thể GABA, mở kênh clorua hoặc kali và gây điện thế ức chế. Giáo trình gọi glutamate là chất dẫn truyền kích thích chính của não và GABA là chất ức chế chính. Ví dụ của người viết: ga và phanh của một chiếc xe. Chỗ dễ nhầm: 'chính' không có nghĩa là duy nhất; còn nhiều chất khác, và hồ sơ đầy đủ của từng chất ở L03.",
+      "layout": "lookup-table",
       "tone": "light"
     },
     {
       "title": "Vòng tín hiệu điện hóa",
-      "bullets": [
-        "Action potential: xung có hoặc không",
-        "EPSP, IPSP: kích thích, ức chế",
-        "Release of neurotransmitter: giải phóng chất dẫn truyền"
-      ],
-      "notes": "EPSP và IPSP là điện thế kích thích và ức chế ở nơron sau.",
       "section": "Kích thích, ức chế và phép cộng",
       "sources": [
         "S1"
       ],
+      "bullets": [
+        "Action potential: xung điện có hoặc không",
+        "Release of neurotransmitter: giải phóng chất dẫn truyền",
+        "EPSP / IPSP: điện thế kích thích / ức chế"
+      ],
+      "notes": "Hình tóm gọn cả vòng: xung điện chạy dọc sợi trục, tới nút tận cùng thì chất dẫn truyền được giải phóng, chất ấy gắn thụ thể và tạo EPSP hoặc IPSP ở nơron sau, các điện thế này cộng lại, và nếu đạt ngưỡng thì một xung mới bắt đầu. Hãy dùng hình này để kể lại cả chuỗi bằng lời của mình. Nhãn trong hình bằng tiếng Anh; bên phải ghi nghĩa. Chỗ dễ nhầm: vòng tín hiệu là mô hình giản lược; thực tế một nơron liên tục nhận tín hiệu từ rất nhiều synapse cùng lúc.",
       "layout": "figure",
       "tone": "dark",
       "images": [
@@ -214,22 +501,119 @@
       ]
     },
     {
-      "title": "Ba cách chấm dứt tín hiệu",
+      "title": "EPSP và IPSP: tín hiệu phân bậc",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Ở đâu: gai sợi nhánh của nơron sau",
+        "Làm gì: đẩy điện thế lại gần hoặc ra xa ngưỡng",
+        "Đừng hiểu nhầm: chưa phải điện thế hoạt động"
+      ],
+      "notes": "EPSP và IPSP là hai chữ viết tắt dễ làm nản, nhưng ý nghĩa đơn giản: E là kích thích (excitatory), I là ức chế (inhibitory), PSP là điện thế sau synapse. Điểm khác với xung là chúng phân bậc: mạnh hay yếu tùy lượng chất dẫn truyền và số thụ thể được kích hoạt, chỉ đổi điện thế từ 0,1 đến 40 mV so với khoảng 100 mV của một điện thế hoạt động. Giáo trình nói một nơron có thể nhận hàng trăm tín hiệu cùng lúc. Chỗ dễ nhầm: EPSP không phải là xung nhỏ; nó là loại tín hiệu khác, không có tính có-hoặc-không.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Chất dẫn truyền tạo ra hai loại điện thế ở nơron sau [S1]. **EPSP** (kích thích) là dòng khử cực đẩy điện thế về phía ngưỡng; **IPSP** (ức chế) là dòng tăng phân cực đẩy điện thế ra xa ngưỡng [S1]. Khác với xung có hoặc không, chúng là điện thế **phân bậc**: một xung đổi điện thế khoảng 100 mV, còn EPSP và IPSP chỉ đổi từ 0,1 đến 40 mV [S1]. Mỗi lúc một nơron có thể nhận hàng trăm tín hiệu như vậy [S1]."
+    },
+    {
+      "title": "Phép cộng ở nơron sau",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Một EPSP đơn lẻ nhỏ (khoảng 1 mV trong ví dụ ở nơron vận động tủy sống), chưa đủ đạt ngưỡng [S3]",
+        "Hai xung liên tiếp nhanh cộng lại: cộng theo thời gian [S3]",
+        "Hai nơron kích thích cùng lúc cộng lại: cộng theo không gian [S3]",
+        "Một EPSP và một IPSP cùng lúc có thể triệt tiêu nhau [S1]"
+      ],
+      "notes": "Neuroscience Online dùng ví dụ ở một nơron vận động tủy sống để cho thấy vì sao phép cộng cần thiết: một EPSP đơn lẻ chỉ khoảng 1 mV, không đủ để đạt ngưỡng. Hai xung đến liên tiếp nhanh thì cộng lại thành khoảng 2 mV: cộng theo thời gian. Hai nơron khác nhau kích thích cùng lúc cũng cộng lại: cộng theo không gian. Còn EPSP và IPSP cùng lúc thì triệt tiêu nhau. Chỗ dễ nhầm: số 1 mV và 2 mV là số của ví dụ minh họa, không phải con số chung cho mọi synapse.",
+      "layout": "numbered-rows",
+      "tone": "dark"
+    },
+    {
+      "title": "Nơron sau như một hội đồng bỏ phiếu",
+      "section": "Kích thích, ức chế và phép cộng",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Nơron sau cộng mọi phiếu ủng hộ và phản đối, rồi mới phát xung hoặc không",
+        "Ví dụ của người viết: một hội đồng bỏ phiếu",
+        "Đạt ngưỡng thì có xung; không đạt thì không có gì [S1]"
+      ],
+      "notes": "Ví dụ của người viết: mỗi synapse là một lá phiếu, kích thích là phiếu ủng hộ và ức chế là phiếu phản đối. Nơron sau đếm tất cả; chỉ khi số ủng hộ thắng đủ nhiều để đạt ngưỡng thì mới có xung. Nếu không đạt thì không có gì được gửi đi, và đó chính là tính có-hoặc-không ở đầu ra. Cách nói này giúp hiểu vì sao việc thêm một synapse ức chế có thể làm xung biến mất. Chỗ dễ nhầm: phép ví von chỉ là cách nhớ; nơron không 'quyết định' theo nghĩa có ý thức, mà là hệ quả của phép cộng điện thế.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
+    },
+    {
+      "title": "Từ giải phóng đến chấm dứt",
       "section": "Chấm dứt tín hiệu",
       "sources": [
         "S1"
       ],
       "bullets": [
-        "Thu hồi (tái hấp thu): đưa ngược vào nơron trước",
-        "Phân hủy: enzym cắt bỏ",
-        "Khuếch tán: trôi ra khỏi khe synapse"
+        "Chất dẫn truyền được giải phóng",
+        "Gắn thụ thể: truyền tin",
+        "Không gắn: bị phân hủy hoặc thu hồi",
+        "Khe synapse sẵn sàng cho tín hiệu mới"
       ],
-      "notes": "Ví dụ của người viết: bật công tắc thì cũng phải có cách tắt.",
-      "layout": "lookup-table",
+      "notes": "Nhìn chuỗi này để thấy tín hiệu hóa học cần được dọn sạch. Chất dẫn truyền được giải phóng, gắn thụ thể và truyền tin; phần không gắn thì bị phân hủy hoặc thu hồi; khe synapse nhờ đó sẵn sàng cho tín hiệu mới. Ví dụ của người viết: bật công tắc thì cũng phải có cách tắt, nếu không đèn cứ sáng mãi. Chỗ dễ nhầm: các hộp là bản tóm tắt thứ tự chung; thời gian từng bước khác nhau giữa các loại synapse.",
+      "layout": "flow",
+      "tone": "dark"
+    },
+    {
+      "title": "Vì sao phải tắt tín hiệu",
+      "section": "Chấm dứt tín hiệu",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Ở đâu: khe synapse và nút tận cùng",
+        "Làm gì: kết thúc tín hiệu để nhận tín hiệu mới",
+        "Đừng hiểu nhầm: có ít nhất ba cách tắt, không chỉ một"
+      ],
+      "notes": "Phần đầu của đoạn chữ là suy luận của người viết để thấy lý do; phần sau là điều các nguồn nói. Giáo trình nêu hai cách: enzyme hoặc tế bào đệm phân hủy, hoặc thu hồi về nút tận cùng. Neuroscience Online thêm khuếch tán ở synapse thần kinh-cơ. Ba cách này chạy song song, không loại trừ nhau. Tế bào đệm xuất hiện lại ở đây, nối với mục glia: không chỉ nơron tham gia việc dọn. Chỗ dễ nhầm: thu hồi là đưa chất về nơron trước, khác với phân hủy là cắt chất thành mảnh bất hoạt.",
+      "layout": "explainer",
+      "tone": "light",
+      "body": "Suy luận của người viết: nếu chất dẫn truyền ở lại mãi trong khe **synapse**, thụ thể sẽ bị kích hoạt liên tục và nơron sau khó nhận ra tín hiệu mới. Giáo trình nêu: chất dẫn truyền không gắn vào thụ thể sẽ bị enzyme hoặc tế bào đệm phân hủy và bất hoạt, hoặc được **thu hồi** về nút tận cùng của nơron trước [S1]. Neuroscience Online thêm rằng ở synapse thần kinh-cơ, acetylcholine còn được loại bỏ bằng khuếch tán [S3]."
+    },
+    {
+      "title": "Ba cách chấm dứt tín hiệu",
+      "section": "Chấm dứt tín hiệu",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [
+        "Thu hồi (reuptake): đưa ngược vào nút tận cùng của nơron trước [S1]",
+        "Phân hủy: enzyme hoặc tế bào đệm cắt bỏ chất dẫn truyền [S1]",
+        "Khuếch tán: chất dẫn truyền trôi ra khỏi khe synapse [S3]"
+      ],
+      "notes": "Ba thẻ, ba cách. Thu hồi (reuptake) đưa chất dẫn truyền ngược vào nút tận cùng của nơron trước. Phân hủy do enzyme hoặc tế bào đệm cắt bỏ. Khuếch tán là chất trôi ra khỏi khe; mô tả này nằm trong ví dụ ở synapse thần kinh-cơ của Neuroscience Online. Thu hồi sẽ quay lại ở mục thuốc, vì đó là điểm một nhóm thuốc nhắm tới. Chỗ dễ nhầm: ba cách này không phải ba bước nối tiếp; tùy chất và tùy synapse, cách nào chiếm ưu thế sẽ khác nhau.",
+      "layout": "card-grid",
+      "tone": "dark"
+    },
+    {
+      "title": "600.000",
+      "section": "Chấm dứt tín hiệu",
+      "sources": [
+        "S3"
+      ],
+      "bullets": [
+        "Một phân tử acetylcholinesterase phân hủy được 600.000 phân tử acetylcholine mỗi phút [S3]",
+        "Số liệu ở synapse thần kinh-cơ vân, dùng để minh họa nguyên lý",
+        "Điện thế bản vận động ở đó kéo dài khoảng 10 mili giây [S3]"
+      ],
+      "notes": "Con số gây ấn tượng này nói lên tốc độ cần có để tắt tín hiệu kịp lúc. Neuroscience Online ghi rằng một phân tử acetylcholinesterase phân hủy được 600.000 phân tử acetylcholine mỗi phút và coi đây là một trong những enzyme hiệu quả nhất được biết. Điện thế bản vận động ở synapse thần kinh-cơ kéo dài khoảng 10 mili giây. Chỗ dễ nhầm: số liệu này đo ở synapse giữa dây thần kinh và cơ vân, dùng để minh họa nguyên lý; bài không khẳng định mọi synapse trong não có cùng tốc độ.",
+      "layout": "one-big-number",
       "tone": "light"
     },
     {
-      "title": "Các bước đời một chất dẫn truyền",
+      "title": "Các mắt xích có thể bị can thiệp",
       "section": "Thuốc can thiệp ở đâu",
       "sources": [
         "S1"
@@ -241,56 +625,190 @@
         "Thu hồi",
         "Phân hủy"
       ],
-      "notes": "Mỗi bước là một điểm mà thuốc hoặc chất kích thích có thể can thiệp.",
+      "notes": "Suy luận của người viết: sắp vòng đời chất dẫn truyền thành năm mắt xích để thấy mỗi mắt xích là một điểm có thể bị can thiệp: tổng hợp, giải phóng, gắn thụ thể, thu hồi, phân hủy. Bảng ví dụ trong giáo trình có cơ chế tăng tổng hợp, chặn việc loại bỏ chất khỏi synapse và chặn thụ thể. Chỗ dễ nhầm: không phải thuốc nào cũng nhắm vào đúng một mắt xích; nhiều chất tác động lên nhiều điểm, và bài này cố ý không nêu tên thuốc, hoạt chất hay liều.",
       "layout": "flow",
       "tone": "dark"
     },
     {
-      "title": "Hiểu synapse là hiểu thuốc",
+      "title": "Bốn nhóm can thiệp ở synapse",
+      "section": "Thuốc can thiệp ở đâu",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "bullets": [],
+      "notes": "Bốn nhóm cơ chế, mỗi nhóm một dòng, không nêu tên thuốc. Chặn thu hồi làm chất ở lại khe lâu hơn. Chặn thụ thể làm chất dẫn truyền thật yếu tác dụng. Bắt chước là chất từ bên ngoài gắn vào đúng thụ thể mà chất tự nhiên vẫn dùng. Ức chế enzyme làm chất dẫn truyền bị cắt chậm hơn. Chỗ dễ nhầm: các nhóm là cách phân loại để học; một thuốc thực tế có thể có tác động phức tạp hơn nhiều, và đây không phải lời khuyên y tế.",
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Chặn thu hồi",
+          "text": "Chất dẫn truyền ở lại khe synapse lâu hơn [S1]"
+        },
+        {
+          "label": "Chặn thụ thể",
+          "text": "Chiếm hoặc chặn thụ thể nên chất dẫn truyền thật yếu tác dụng [S1]"
+        },
+        {
+          "label": "Bắt chước",
+          "text": "Chất từ ngoài cơ thể gắn vào thụ thể mà chất tự nhiên vẫn dùng [S1]"
+        },
+        {
+          "label": "Ức chế enzyme phân hủy",
+          "text": "Chất dẫn truyền bị cắt chậm hơn nên tác dụng kéo dài hơn [S3]"
+        }
+      ]
+    },
+    {
+      "title": "Chủ vận, đối kháng và điều cần cẩn trọng",
       "section": "Thuốc can thiệp ở đâu",
       "sources": [
         "S1"
       ],
       "bullets": [
-        "Mỗi bước là một điểm thuốc có thể can thiệp"
+        "Ở đâu: mọi mắt xích của vòng đời chất dẫn truyền",
+        "Làm gì: tăng hoặc giảm hoạt động ở synapse",
+        "Đừng hiểu nhầm: chủ vận không có nghĩa là tốt, đối kháng không có nghĩa là xấu"
       ],
-      "notes": "Điều này sẽ rõ hơn ở L03.",
-      "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "notes": "Hai từ cần biết: chủ vận làm tăng hoạt động ở synapse, đối kháng làm giảm. Chúng mô tả hướng tác động lên synapse, không phải đánh giá tốt xấu. Giáo trình mở đầu chương dược lý rằng hầu như mọi thuốc làm đổi cảm giác đều làm vậy bằng cách đổi cách nơron giao tiếp. Hai điều dễ nhầm: một, từ ngữ không mang giá trị đạo đức; hai, cùng một cơ chế có thể cho hiệu quả khác nhau tùy mạch thần kinh mà chất dẫn truyền ấy tham gia. Bài này không nêu tên thuốc, liều hay khuyến nghị.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "Giáo trình gọi thuốc làm tăng hoạt động ở **synapse** là chất chủ vận (agonist), thuốc làm giảm là chất đối kháng (antagonist) [S1]. Hầu như mọi loại thuốc làm đổi cảm giác đều tác động bằng cách đổi cách nơron giao tiếp [S1]. Hai điều dễ nhầm: các từ này mô tả tác động lên synapse chứ không nói thuốc tốt hay xấu, và cùng một cơ chế có thể cho hiệu quả khác nhau tùy mạch thần kinh. Bài này không nêu tên thuốc, liều hay khuyến nghị."
     },
     {
-      "title": "Synapse thay đổi theo kinh nghiệm",
-      "section": "Synapse thay đổi theo kinh nghiệm",
-      "sources": [
-        "S3"
-      ],
+      "title": "Thuốc có tác dụng chưa chứng minh nguyên nhân",
+      "section": "Thuốc can thiệp ở đâu",
+      "sources": [],
       "bullets": [
-        "Có thể mạnh lên theo hoạt động",
-        "Có thể yếu đi theo hoạt động",
-        "Cơ sở của học và nhớ"
+        "Thuốc đổi triệu chứng khi tác động một chất dẫn truyền chưa chứng minh bệnh do thiếu chất đó",
+        "Suy luận của người viết; tranh luận cụ thể ở L03",
+        "Đây là bài giáo dục, không phải lời khuyên y tế"
       ],
-      "notes": "Tính dẻo synapse. Ví dụ của người viết: lối đi qua bãi cỏ càng nhiều người đi thì càng thành đường mòn.",
-      "layout": "card-grid",
+      "notes": "Đây là suy luận của người viết, không gắn nguồn như thể nguồn nói điều đó. Nếu một thuốc làm giảm triệu chứng khi tác động vào một chất dẫn truyền, điều đó chưa chứng minh bệnh do thiếu hoặc thừa chất ấy. Ví dụ của người viết: uống thuốc hạ sốt làm hết sốt không có nghĩa là bệnh gây ra bởi thiếu thuốc hạ sốt. Các tranh luận cụ thể về từng chất sẽ nằm ở L03. Chỗ dễ nhầm: ý này không nói thuốc vô tác dụng, chỉ nói tác dụng chưa phải bằng chứng về nguyên nhân. Đây là bài giáo dục, không phải lời khuyên y tế.",
+      "layout": "one-highlighted-sentence",
       "tone": "light"
     },
     {
-      "title": "Điều cần nhớ",
-      "section": "Điều cần nhớ",
+      "title": "Quy tắc Hebb và tăng cường dài hạn",
+      "section": "Synapse thay đổi theo kinh nghiệm",
       "sources": [
         "S1",
-        "S2",
         "S3"
       ],
       "bullets": [
-        "Nhận ở sợi nhánh, gửi bằng sợi trục",
-        "Dọc sợi trục là điện, giữa nơron là hóa chất",
-        "Thụ thể quyết định tác động lên nơron sau",
-        "Mỗi bước là một điểm thuốc can thiệp",
-        "Synapse thay đổi theo kinh nghiệm"
+        "Ở đâu: synapse, nhất là ở hồi hải mã trong các nghiên cứu",
+        "Làm gì: tăng hoặc giảm độ mạnh của synapse",
+        "Đừng hiểu nhầm: LTP là mô hình thí nghiệm của trí nhớ, chưa phải bản mô tả hoàn chỉnh"
       ],
-      "notes": "Bài sau (L03) về từng chất dẫn truyền.",
+      "notes": "Câu 'cùng phát xung thì cùng nối dây' là cách tóm tắt quy tắc của Hebb, không phải câu trích nguyên văn của ông. LTP là bằng chứng thí nghiệm đầu tiên cho kiểu thay đổi này, được phát hiện từ đầu thập niên 1970. Neuroscience Online gọi LTP là loại cơ chế cần thiết để lưu trí nhớ; đó là cách nói về một mô hình được ủng hộ rộng rãi. Ví dụ của người viết: đường mòn trên bãi cỏ càng nhiều người đi càng rõ. Chỗ dễ nhầm: LTP là mô hình thí nghiệm, chưa phải bản mô tả hoàn chỉnh về cách người nhớ một việc cụ thể.",
+      "layout": "explainer",
+      "tone": "dark",
+      "body": "**Tính dẻo** synapse nghĩa là độ mạnh của synapse thay đổi theo hoạt động. Giáo trình nêu quy tắc của Donald Hebb: nếu hai nơron cùng hoạt động thì synapse giữa chúng được tăng cường, thường tóm bằng câu 'cùng phát xung thì cùng nối dây' [S1]. Hiện tượng tăng cường bền vững này gọi là **tăng cường dài hạn** (LTP), được phát hiện từ đầu thập niên 1970 [S1]. Neuroscience Online coi LTP là loại cơ chế cần thiết để lưu trí nhớ [S3]."
+    },
+    {
+      "title": "LTP: các bước theo giáo trình",
+      "section": "Synapse thay đổi theo kinh nghiệm",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Tín hiệu đến dồn dập, nơron sau bị khử cực",
+        "NMDA hết bị magiê chặn, canxi vào",
+        "Canxi khởi động chuỗi tín hiệu trong tế bào",
+        "Thụ thể AMPA di chuyển lên màng",
+        "Lần sau: EPSP lớn hơn, dễ phát xung hơn"
+      ],
+      "notes": "Năm mốc để kể lại LTP ở synapse glutamate. Tín hiệu đến dồn dập làm nơron sau bị khử cực. Thụ thể NMDA, vốn bị ion magiê chặn, hết bị chặn và canxi đi vào. Canxi khởi động một chuỗi tín hiệu trong tế bào. Thụ thể AMPA di chuyển từ bên trong lên màng. Lần sau khi glutamate được giải phóng, nhiều thụ thể AMPA hơn nên EPSP lớn hơn. Giáo trình ghi rõ cơ chế này chưa được hiểu đầy đủ. Chỗ dễ nhầm: đây là một khâu chính, không phải toàn bộ cơ chế; Neuroscience Online còn nêu bằng chứng cho thấy lượng chất giải phóng cũng tăng.",
+      "layout": "timeline",
+      "tone": "light"
+    },
+    {
+      "title": "LTP và LTD: mạnh lên và yếu đi",
+      "section": "Synapse thay đổi theo kinh nghiệm",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "LTP: tăng cường bền vững; thêm thụ thể AMPA vào màng sau synapse",
+        "LTD: suy giảm bền vững; rút bớt thụ thể AMPA khỏi màng",
+        "Giáo trình: LTD có thể quan trọng không kém LTP với học và nhớ, vì làm các synapse đã tăng cường nổi bật hơn"
+      ],
+      "notes": "Học không chỉ là thêm kết nối mà còn là bớt kết nối. LTD gần như ngược với LTP: canxi vào qua thụ thể NMDA khởi động một chuỗi khác và các thụ thể AMPA bị rút bớt khỏi màng. Giáo trình cho rằng LTD có thể quan trọng không kém LTP, vì loại bỏ kết nối không quan trọng làm những synapse đã tăng cường nổi bật hơn. Chữ 'có thể' là của giáo trình và được giữ nguyên. Ví dụ của người viết: đường mòn rõ hơn khi lối ít người đi mọc lại cỏ. Chỗ dễ nhầm: LTD không phải là 'quên' theo nghĩa thông thường.",
+      "layout": "two-column-comparison",
+      "tone": "dark"
+    },
+    {
+      "title": "Bằng chứng về LTP: ba mức nguồn",
+      "section": "Synapse thay đổi theo kinh nghiệm",
+      "sources": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "bullets": [],
+      "notes": "Slide này tách các mức bằng chứng. Mức một là thí nghiệm gốc năm 1973 trên thỏ được gây mê: kết quả từ động vật, 15 trên 18 con có đáp ứng được tăng cường từ 30 phút đến 10 giờ. Mức hai là bài tổng quan năm 1993 gọi LTP ở hồi hải mã là mô hình thí nghiệm chính. Mức ba là giáo trình ghi cơ chế phân tử chưa hiểu đầy đủ. Dòng cuối là suy luận của người viết. Chỗ dễ nhầm: 'đo được' và 'giải thích hoàn toàn' là hai điều khác nhau; LTP đo được, còn mối liên hệ với trí nhớ ở người vẫn là mô hình.",
+      "layout": "profile-card",
+      "tone": "light",
+      "facts": [
+        {
+          "label": "Bliss và Lømo 1973 (thỏ)",
+          "text": "Thỏ gây mê: 15 trên 18 con có đáp ứng tăng cường từ 30 phút đến 10 giờ sau kích thích dồn [S5]"
+        },
+        {
+          "label": "Hai cơ chế đề xuất",
+          "text": "Tăng hiệu quả truyền synapse và tăng tính dễ hưng phấn của quần thể tế bào hạt [S5]"
+        },
+        {
+          "label": "Bliss và Collingridge 1993",
+          "text": "Tổng quan: LTP ở hồi hải mã là mô hình thí nghiệm chính cho cơ sở synapse của học và nhớ [S6]"
+        },
+        {
+          "label": "Giáo trình",
+          "text": "Cơ chế phân tử chưa hiểu đầy đủ; một số chất gây nghiện lợi dụng đường LTP [S1]"
+        },
+        {
+          "label": "Mức chắc chắn",
+          "text": "LTP đo được; vai trò làm cơ sở của trí nhớ là mô hình được ủng hộ rộng rãi [S6]"
+        },
+        {
+          "label": "Đừng hiểu nhầm",
+          "text": "Phần lớn bằng chứng từ động vật; không đọc LTP như mô tả cách người nhớ một việc cụ thể (suy luận của người viết)"
+        }
+      ]
+    },
+    {
+      "title": "Sáu điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S3",
+        "S5",
+        "S6"
+      ],
+      "bullets": [
+        "Nơron nhận ở sợi nhánh, gửi bằng sợi trục; glia hỗ trợ chứ không phát xung [S1]",
+        "Nghỉ khoảng −70 mV nhờ chênh lệch ion và bơm natri-kali tốn năng lượng [S1]",
+        "Xung có hoặc không: natri vào, kali ra; cường độ mã hóa bằng tần số [S1] [S3]",
+        "Synapse hóa học: canxi vào, chất dẫn truyền gắn thụ thể, tạo EPSP hoặc IPSP rồi cộng gộp [S1] [S3]",
+        "Tín hiệu tắt bằng thu hồi, phân hủy, khuếch tán; mỗi mắt xích là điểm thuốc can thiệp [S1] [S3]",
+        "Synapse mạnh lên (LTP) hoặc yếu đi (LTD) theo hoạt động; bằng chứng nhiều từ động vật [S1] [S5] [S6]"
+      ],
+      "notes": "Sáu câu để mang về. Hãy thử kể lại bằng lời mình, theo thứ tự: nơron nhận và gửi thế nào; trạng thái nghỉ; xung có-hoặc-không; synapse hóa học; chấm dứt tín hiệu; tính dẻo. Nếu kể được liền mạch từ sợi nhánh đến LTP thì bạn đã nắm trục chính của bài. Nối với bài trước: L01 vẽ các vùng của não, bài này cho thấy các vùng ấy nói chuyện bằng gì. Bài sau, L03, sẽ gặp từng chất dẫn truyền: glutamate, GABA, dopamine, serotonin và các chất khác. Chỗ dễ nhầm: sáu câu này là bản tóm tắt, phần giới hạn của từng ý nằm ở các slide trước.",
       "layout": "numbered-rows",
       "tone": "dark"
+    },
+    {
+      "title": "Lưu ý",
+      "section": "Lưu ý",
+      "sources": [],
+      "bullets": [
+        "Đây là bài giáo dục, không phải lời khuyên y tế",
+        "Bài chỉ nêu nhóm cơ chế của thuốc, không nêu tên thuốc, liều hay khuyến nghị",
+        "Hodgkin và Huxley chỉ xác minh thư mục; mực và thỏ là kết quả từ động vật"
+      ],
+      "notes": "Ba điều cần nhắc trước khi dùng bài. Một: đây là bài giáo dục, không phải lời khuyên y tế; mục thuốc chỉ nêu nhóm cơ chế, không nêu tên thuốc, liều hay khuyến nghị. Hai: bài của Hodgkin và Huxley chỉ được xác minh thông tin thư mục; chi tiết về công trình ấy lấy từ giáo trình. Ba: các kết quả trên mực và thỏ là kết quả từ động vật, còn số liệu về acetylcholinesterase là của synapse thần kinh-cơ. Nếu bạn có câu hỏi về thuốc hay sức khỏe của chính mình, hãy hỏi người có chuyên môn. Chỗ dễ nhầm: bài này giải thích cơ chế chung, không chẩn đoán hay điều trị.",
+      "layout": "one-highlighted-sentence",
+      "tone": "light"
     },
     {
       "title": "Nguồn tham khảo",
@@ -299,16 +817,20 @@
         "S1",
         "S2",
         "S3",
-        "S4"
+        "S4",
+        "S5",
+        "S6"
       ],
       "bullets": [
-        "Hove & Martinez, Biological Psychology, chương 3 và 5",
-        "Hodgkin và Huxley, J Physiol, 1952",
-        "Neuroscience Online, UTHealth Houston",
-        "Azevedo và cộng sự, J Comp Neurol, 2009"
+        "S1: Hove & Martinez, Biological Psychology (Revised Edition), chương 3, 5, 7, 2024",
+        "S2: Hodgkin & Huxley, Journal of Physiology, 1952 (chỉ thông tin thư mục)",
+        "S3: Byrne (chủ biên), Neuroscience Online, chương 1, 3 đến 8, UTHealth Houston",
+        "S4: Azevedo và cộng sự, Journal of Comparative Neurology, 2009",
+        "S5: Bliss & Lømo, Journal of Physiology, 1973",
+        "S6: Bliss & Collingridge, Nature, 1993"
       ],
-      "notes": "Đường dẫn đầy đủ ở mục Nguồn tham khảo của lesson.md.",
-      "layout": "lookup-table",
+      "notes": "Sáu nguồn, mỗi nguồn một thẻ. S1 là giáo trình nền, đọc các chương 3, 5 và 7. S2 là bài gốc của Hodgkin và Huxley, chỉ xác minh thư mục. S3 là Neuroscience Online, đọc các chương 1, 3, 4, 5, 6, 7 và các đoạn về số tế bào ở chương 8. S4 là nghiên cứu đếm tế bào của Azevedo và cộng sự, đọc phần tóm tắt. S5 và S6 là hai bài của Bliss về tăng cường dài hạn, đọc phần tóm tắt. Đường dẫn đầy đủ nằm trong lesson.md. Khi muốn kiểm lại một ý, hãy mở nguồn tương ứng thay vì tin vào bài này.",
+      "layout": "references",
       "tone": "dark"
     }
   ]

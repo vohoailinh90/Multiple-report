@@ -1,6 +1,6 @@
 {
   "title": "Cảm xúc cơ bản và mạch thần kinh",
-  "subtitle": "Ham muốn, thích, sợ, giận, yêu thương, đau buồn: mạch nào, chất nào, và tranh luận nào",
+  "subtitle": "Ham muốn, thích, sợ, giận, yêu thương, đau buồn",
   "slides": [
     {
       "title": "Khi bạn sợ, giận hay nhớ một người, não đang chạy một mạng lưới",
@@ -113,6 +113,7 @@
       "title": "Panksepp: bảy hệ cảm xúc nguyên thủy",
       "section": "Hai cách nhìn: cảm xúc cơ bản hay cảm xúc được kiến tạo",
       "sources": [
+        "S12",
         "S7"
       ],
       "layout": "explainer",
@@ -793,6 +794,7 @@
       "section": "Một cấu trúc, nhiều chức năng",
       "sources": [
         "S4",
+        "S7",
         "S8",
         "S9",
         "S10"
@@ -951,7 +953,7 @@
         "S16"
       ],
       "layout": "references",
-      "tone": "light",
+      "tone": "dark",
       "bullets": [
         "S1: Hove & Martinez, Biological Psychology, mục 10.1 Affective Neuroscience",
         "S2: Hove & Martinez, mục 10.2 Basic Emotions",

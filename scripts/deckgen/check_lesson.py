@@ -93,7 +93,11 @@ def check(root, lid):
     if not fm:
         errs.append("front matter")
     else:
-        meta = dict(l.split(": ", 1) for l in fm.group(1).splitlines())
+        meta = {}
+        for line in fm.group(1).splitlines():
+            key, sep, value = line.partition(": ")
+            if not sep or not key or key in meta: errs.append(f"front matter line is not 'key: value' or repeats a key: {line!r}")
+            else: meta[key] = value
         if meta.get("id") != lid: errs.append("id")
         if meta.get("title") != ex["title"] or fm.group(2) != ex["title"]: errs.append("title mismatch")
         if meta.get("topic") not in TOPICS: errs.append("topic")
@@ -104,7 +108,9 @@ def check(root, lid):
     if secs != ex["sections"]: errs.append(f"sections differ: {secs}")
     if not secs or secs[-1] != "Nguồn tham khảo": errs.append("last section")
     text, _, reflist = body.partition("\n## Nguồn tham khảo\n")
-    refs = dict(re.findall(r"^- \[(S\d+)\] (.+)$", reflist, re.M))
+    found = re.findall(r"^- \[(S\d+)\] (.+)$", reflist, re.M)
+    refs = dict(found)
+    errs += [f"reference label {k} is used twice" for k in sorted({k for k, _ in found if [j for j, _ in found].count(k) > 1})]
     used = set(CITE.findall(text))
     if used - set(refs): errs.append(f"cited but not listed: {sorted(used - set(refs))}")
     if set(refs) - used: errs.append(f"listed but never cited: {sorted(set(refs) - used)}")
@@ -217,7 +223,7 @@ def check(root, lid):
             figures += 1
             if not {"file", "alt", "credit", "url"} <= set(img): errs.append(f"image entry incomplete: {name}")
             elif not (base / img["file"]).is_file(): errs.append(f"image missing: {img['file']}")
-        drawn = " ".join([s.get("body", ""), *bl, *(x["text"] for x in s.get("facts", []) if "text" in x)])
+        drawn = " ".join([name, s.get("body", ""), *bl, *(x[k] for x in s.get("facts", []) for k in ("label", "text") if k in x)])
         for k in set(s.get("sources", [])) | set(CITE.findall(drawn)):
             if k not in refs: errs.append(f"slide cites {k}, not in the reference list: {name}")
         if s["section"] != "Nguồn tham khảo":  # the footer lists `sources` only, so a citation drawn in the text must be there too

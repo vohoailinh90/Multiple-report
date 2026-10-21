@@ -267,6 +267,25 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(1, body=body))
         self.assertTrue(any(e.startswith("text does not fit its box on explainer (Hạnh nhân là gì)") for e in errs), errs)
 
+    def test_a_citation_in_a_title_or_fact_label_must_be_in_the_sources_too(self):
+        errs, _ = self.run_gate(self.mutated(4, title="Ba bước [S2]"))
+        self.assertIn("slide text cites S2 but its sources omit it: Ba bước [S2]", errs)
+        facts = [{"label": "Nhãn [S2]", "text": f"ý {k} [S3]"} for k in range(3)]
+        errs, _ = self.run_gate(self.mutated(2, facts=facts))
+        self.assertIn("slide text cites S2 but its sources omit it: Hồ sơ hạnh nhân", errs)
+
+    def test_a_bibliography_label_may_not_repeat(self):
+        lesson = LESSON.replace("- [S3] Tác giả 3", "- [S2] Tác giả 3")
+        errs, _ = self.run_gate(lesson=lesson)
+        self.assertIn("reference label S2 is used twice", errs)
+
+    def test_malformed_front_matter_is_reported_not_crashed(self):
+        for bad in ("topic:nao-bo", "date: 2026-10-20\ndate: 2026-10-21"):
+            lesson = LESSON.replace("topic: nao-bo", bad)
+            errs, _ = self.run_gate(lesson=lesson)
+            with self.subTest(bad=bad):
+                self.assertTrue(any(e.startswith("front matter line is not") for e in errs), errs)
+
     def test_a_reference_card_needs_text_after_its_label(self):
         errs, _ = self.run_gate(self.mutated(5, bullets=[f"S{k}: " for k in range(1, 6)]))
         self.assertIn("reference card has no text after its label: S1: ", errs)

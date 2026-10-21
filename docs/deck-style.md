@@ -43,7 +43,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `sequence-diagram` | các cột tác nhân, mũi tên tin nhắn đánh số từ trên xuống |
 | `flow` | 3–5 hộp nối mũi tên trái sang phải, hộp quyết định khác màu |
 | `two-column-comparison` | hai cột màu khác nhau, cùng hàng tiêu chí, một dòng kết luận dưới |
-| `2x2-matrix` | hai trục có nhãn, bốn ô, mỗi ô một ý |
+| `2x2-matrix` | *(chưa có renderer trong `gen.py`; gate từ chối cho tới khi có)* hai trục có nhãn, bốn ô, mỗi ô một ý |
 | `lookup-table` | `<table>` có hàng tiêu đề, tối đa 5 hàng, cột đầu đậm |
 | `card-grid` | 2–4 thẻ bằng nhau, mỗi thẻ số hoặc nhãn màu và một câu |
 | `numbered-rows` | các hàng đánh số lớn bên trái, câu bên phải |

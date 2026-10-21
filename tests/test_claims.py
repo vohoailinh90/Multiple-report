@@ -237,7 +237,9 @@ class StaleTests(Sessions):
         self.assertEqual((code, "--take-stale" in out), (1, True))
         self.assertEqual(self.cli(b, "claim", "L02", "--take-stale", "--publish")[0], 0)
         self.assertIn('"taken_from"', (b / "lessons" / "L02.claim.json").read_text(encoding="utf-8"))
-        self.cli(a, "touch", "--publish")  # the dead session wakes up
+        record = claims.json.loads((a / "lessons" / "L02.claim.json").read_text(encoding="utf-8"))
+        record["heartbeat_at"] = claims.stamp(self.clock)  # the dead session wakes up and pushes a fresh heartbeat anyway
+        self.push_file(a, "lessons/L02.claim.json", claims.render(record))
         code, out = self.cli(a, "verify")
         self.assertEqual(code, 1)
         self.assertIn("held by claude/b", out)
@@ -258,13 +260,37 @@ class StaleTests(Sessions):
         self.clock += dt.timedelta(hours=20)
         self.assertIn("held by claude/a", self.cli(b, "claim", "L02", "--take-stale")[1])
 
+    def test_an_expired_claim_cannot_be_renewed_into_a_place_that_was_filled(self):
+        a, b, c = self.session("a"), self.session("b"), self.session("c")
+        self.cli(a, "claim", "L02", "--publish")
+        self.clock += dt.timedelta(hours=25)
+        self.cli(b, "claim", "L03", "--publish")
+        self.cli(c, "claim", "L04", "--publish")
+        before = run(self.origin, "show", "claude/a:lessons/L02.claim.json")
+        code, out = self.cli(a, "touch", "--publish")
+        self.assertEqual(code, 1)
+        self.assertIn("claim it again", out)
+        self.assertEqual(run(self.origin, "show", "claude/a:lessons/L02.claim.json"), before, "nothing was pushed")
+        self.assertEqual(self.cli(c, "verify")[0], 0, "the session that took the place keeps it")
+        code, out = self.cli(a, "claim", "L02", "--publish")
+        self.assertEqual(code, 1)
+        self.assertIn("limit is 2", out)
+
+    def test_an_expired_claim_is_claimed_again_when_a_place_is_free(self):
+        a = self.session("a")
+        self.cli(a, "claim", "L02", "--publish")
+        self.clock += dt.timedelta(hours=25)
+        self.assertEqual(self.cli(a, "touch", "--publish")[0], 1)
+        self.assertEqual(self.cli(a, "claim", "L02", "--publish")[0], 0)
+        self.assertIn(claims.stamp(self.clock), (a / "lessons" / "L02.claim.json").read_text(encoding="utf-8"))
+
     def test_a_published_claim_that_expired_is_reported(self):
         a = self.session("a")
         self.cli(a, "claim", "L02", "--publish")
         self.clock += dt.timedelta(hours=25)
         code, out = self.cli(a, "verify")
         self.assertEqual(code, 1)
-        self.assertIn("has expired; run touch --publish", out)
+        self.assertIn("has expired; claim it again", out)
 
     def test_a_heartbeat_from_the_future_is_not_proof_of_life(self):
         moment = claims.stamp(START + dt.timedelta(hours=3))
@@ -287,6 +313,24 @@ class FinishTests(Sessions):
         self.assertIn('"status": "done"', (a / "lessons" / "L02.claim.json").read_text(encoding="utf-8"))
         self.assertEqual(self.cli(a, "check", "--merge-ready")[0], 0)
         self.assertIn("L02\tdone", self.cli(self.session("b"), "status")[1])
+
+    def test_the_winner_of_a_race_keeps_the_lesson_after_it_finishes(self):
+        a, b, c, d = self.session("a"), self.session("b"), self.session("c"), self.session("d")
+        self.cli(a, "claim", "L02", "--publish")
+        self.rival_claim(b, "L02", minutes=1)
+        self.assertEqual(self.cli(b, "verify")[0], 1)
+        (a / "lessons" / "L02").mkdir()
+        (a / "lessons" / "L02" / "lesson.md").write_text("# L02\n", encoding="utf-8")
+        self.clock += dt.timedelta(minutes=10)
+        self.assertEqual(self.cli(a, "finish", "L02", "--publish")[0], 0)
+        code, out = self.cli(b, "verify")
+        self.assertEqual(code, 1, "the loser must not win just because the winner finished")
+        self.assertIn("held by claude/a", out)
+        self.assertEqual(self.cli(a, "verify")[0], 0)
+        self.clock += dt.timedelta(minutes=1)  # a rewrite claimed after the lesson was finished is a new claim
+        self.assertEqual(self.cli(c, "claim", "L02", "--rewrite", "--publish")[0], 0)
+        self.assertEqual(self.cli(c, "verify")[0], 0)
+        self.assertIn("held by claude/c", self.cli(d, "claim", "L02", "--rewrite")[1])
 
     def test_finish_refuses_a_lost_claim(self):
         a, b = self.session("a"), self.session("b")

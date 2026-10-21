@@ -8,7 +8,7 @@ owner of a claim is the branch name. At most MAX_ACTIVE sessions write at once (
     python3 scripts/claims.py status                       # who holds what, who is writing, the next free id
     python3 scripts/claims.py claim L17 --publish          # or: claim --new --publish (takes the next free id)
     python3 scripts/claims.py verify                       # exit 0 = every claim of mine is still mine and pushed
-    python3 scripts/claims.py touch --publish              # renew the heartbeat; a claim silent for LEASE_HOURS is stale
+    python3 scripts/claims.py touch --publish              # renew the heartbeat; one silent for LEASE_HOURS is stale: claim it again
     python3 scripts/claims.py finish L17 --publish         # the lesson is written (lessons/<id>/lesson.md must exist)
     python3 scripts/claims.py release L17 --publish        # give back a lesson you will not write
     python3 scripts/claims.py scope L17                    # exit 1 if this branch changes files outside the lesson
@@ -88,6 +88,7 @@ class Holding:
     taken_from: tuple[str, ...]
     where: str  # "origin/<branch>" or "local"
     problems: tuple[str, ...] = ()
+    done_at: str | None = None
 
 
 def record_problems(record: object, lesson: str) -> list[str]:
@@ -123,7 +124,8 @@ def holding(lesson: str, text: str | None, where: str) -> Holding:
                    record["owner"] if isinstance(record.get("owner"), str) else "",
                    record.get("claimed_at") if isinstance(record.get("claimed_at"), str) else None,
                    record.get("heartbeat_at") if isinstance(record.get("heartbeat_at"), str) else None,
-                   tuple(item for item in taken if isinstance(item, str)), where, problems)
+                   tuple(item for item in taken if isinstance(item, str)), where, problems,
+                   record.get("done_at") if isinstance(record.get("done_at"), str) else None)
 
 
 def claim_name(lesson: str) -> str:
@@ -162,16 +164,19 @@ def best(found: list[Holding]) -> Holding:
 
 def standing(found: list[Holding], moment: _dt.datetime) -> tuple[str, Holding | None]:
     """invalid (a record nobody can use) | doing (the live winner) | done (the latest finished record) | stale (only
-    expired claims) | free. A claim in progress comes before a finished record: a lesson is rewritten the same way."""
+    expired claims) | free. A claim in progress beats a finished record only when it was made after the lesson was
+    finished (a rewrite); one made before it lost the race for the lesson, and finishing does not hand it the win."""
     broken = [item for item in found if item.status == "invalid"]
     if broken:
         return "invalid", broken[0]
-    live = [item for item in found if item.status == "doing" and not is_stale(item, moment)]
+    done = [item for item in found if item.status == "done"]
+    finished = max(done, key=lambda item: (item.done_at or "", item.owner)) if done else None
+    live = [item for item in found if item.status == "doing" and not is_stale(item, moment)
+            and (finished is None or (item.claimed_at or "") > (finished.done_at or ""))]
     if live:
         return "doing", best(live)
-    done = [item for item in found if item.status == "done"]
-    if done:
-        return "done", max(done, key=lambda item: (item.claimed_at or "", item.owner))
+    if finished is not None:
+        return "done", finished
     stale = [item for item in found if item.status == "doing"]
     if stale:
         return "stale", min(stale, key=lambda item: (item.claimed_at or "", item.owner))
@@ -372,7 +377,7 @@ def lost_reason(lesson: str, board: Board, ctx: Context, moment: _dt.datetime) -
     if published[0].claimed_at != local[0].claimed_at or published[0].taken_from != local[0].taken_from:
         return f"{lesson}: the claim on {published[0].where} differs from your working tree (claimed_at or taken_from)"
     if is_stale(published[0], moment):
-        return f"{lesson}: the claim on {published[0].where} has expired; run touch --publish"
+        return f"{lesson}: the claim on {published[0].where} has expired; claim it again (touch cannot renew it)"
     return None
 
 
@@ -485,6 +490,10 @@ def cmd_touch(ctx: Context, args) -> int:
         found = [item for item in board.holdings.get(lesson, []) if item.where == "local" and item.owner == ctx.me]
         if not found or found[0].status != "doing":
             raise ClaimsError(f"{lesson}: you hold no claim in progress on it")
+        copies = [item for item in board.holdings.get(lesson, []) if item.owner == ctx.me and item.status == "doing"]
+        if any(is_stale(item, moment) for item in copies):
+            raise ClaimsError(f"{lesson}: your claim expired (silent over {LEASE_HOURS} h) and its place may have been taken; "
+                              f"claim it again: claims.py claim {lesson} --publish")
         path = ctx.root / "lessons" / f"{lesson}.claim.json"
         record = json.loads(path.read_text(encoding="utf-8"))
         record["heartbeat_at"] = stamp(moment)

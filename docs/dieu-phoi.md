@@ -18,7 +18,7 @@ Tài liệu này là luật và bảng giữ bài; công cụ là `scripts/claim
 4. **Phiên viết chỉ ghi trong `lessons/<id>/`** (và file khoá `lessons/<id>.claim.json`). Không sửa `expected.json`, `lessons/README.md`, `docs/`, `scripts/`,
    `CLAUDE.md`. Trước khi báo xong: `claims.py scope <id>` phải thoát 0.
 5. **Giữ nhịp tim.** Mỗi vài giờ và trước mỗi lần push: `claims.py touch --publish`. Khoá im quá **24 giờ** là "stale": ai cũng nhận lại được bằng
-   `claim <id> --take-stale`, và phiên cũ nếu tỉnh dậy thì thua (`verify` báo). Hạn 24 giờ do chủ repo chốt (2026-10-21); đổi `LEASE_HOURS` trong script nếu cần.
+   `claim <id> --take-stale`, và phiên cũ nếu tỉnh dậy thì thua (`verify` báo). Khoá của chính mình đã quá hạn thì `touch` không gia hạn được: `claim <id> --publish` lại, và chỉ được khi còn chỗ trong 2 phiên. Hạn 24 giờ do chủ repo chốt (2026-10-21); đổi `LEASE_HOURS` trong script nếu cần.
 6. **Xong thì `finish`.** `claims.py finish <id> --publish` (cần `lessons/<id>/lesson.md`), commit file khoá cùng bài. PR mang khoá `doing` sẽ bị
    `claims.py check --merge-ready` chặn (CI chạy lệnh này).
 7. **Bài đã viết xong muốn viết lại hoặc sửa** cần cờ `--rewrite` (điều phối bảo thì mới dùng). Bài đang có việc dở trên nhánh khác bị từ chối trừ khi

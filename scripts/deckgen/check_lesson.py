@@ -30,6 +30,7 @@ HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of thes
 TEXTBOOK = "rotel.pressbooks.pub"
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
+VI_MARKS = re.compile("[ăâđêôơưàáạảãằắặẳẵầấậẩẫèéẹẻẽềếệểễìíịỉĩòóọỏõồốộổỗờớợởỡùúụủũừứựửữỳýỵỷỹ]", re.I)
 IMG_KEYS = ("file", "alt", "credit", "url")
 FIELDS = {"title": str, "section": str, "layout": str, "tone": str, "sources": list, "bullets": list, "notes": str}
 DATE = re.compile(r"\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])")
@@ -123,8 +124,8 @@ def check(root, lid):
     bad += [f"slide {i}: facts must be a list of {{label, text}} with text values" for i, s in enumerate(S, 1) if "facts" in s
             and not (isinstance(s["facts"], list) and all(isinstance(f, dict) and isinstance(f.get("label"), str)
                                                           and isinstance(f.get("text"), str) for f in s["facts"]))]
-    bad += [f"slide {i}: images must be a list of entries with text values" for i, s in enumerate(S, 1) if "images" in s
-            and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) for k in IMG_KEYS)
+    bad += [f"slide {i}: images must be a list of entries with non-empty text values" for i, s in enumerate(S, 1) if "images" in s
+            and not (isinstance(s["images"], list) and all(isinstance(m, dict) and all(isinstance(m.get(k), str) and m[k].strip() for k in IMG_KEYS)
                                                            for m in s["images"]))]
     if not isinstance(sl.get("subtitle"), str): bad.append("slides.json needs a text subtitle (drawn on the cover)")
     if bad:
@@ -166,7 +167,7 @@ def check(root, lid):
         if not lo <= len(bl) <= hi: errs.append(f"{L} draws {lo}-{hi} bullets, found {len(bl)}: {name}")
         if L == "references":
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]
-            labels = [m.group(1) if (m := re.match(r"(S\d+)\b", b)) else b for b in bl]
+            labels = [b.split(": ", 1)[0] if ": " in b else b for b in bl]  # the card label is what gen.split_kv puts before ": "
             if sorted(labels) != sorted(refs):
                 errs.append(f"references slide lists {sorted(labels)}, the reference list has {sorted(refs)}")
         else:
@@ -210,6 +211,10 @@ def check(root, lid):
     over_errs, over_warn = overflow(root, lid, S, sl_path)
     errs += over_errs; warn += over_warn
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")
+    if ex.get("language") == "vi":
+        prose = [w for w in re.sub(r"[^\w\s]", " ", text).split() if w.isalpha()]
+        marked = sum(1 for w in prose if VI_MARKS.search(w))
+        if not prose or marked / len(prose) < 0.25: errs.append(f"the lesson is not Vietnamese with diacritics ({marked} of {len(prose)} words carry them)")
     w = words(body); c = len(CITE.findall(text))
     if not ex["min_words"] <= w <= ex["max_words"]: errs.append(f"words {w}")
     if c < ex["min_citations"]: errs.append(f"cites {c}")

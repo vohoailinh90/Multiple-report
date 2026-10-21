@@ -247,7 +247,24 @@ class GateTests(unittest.TestCase):
         errs, _ = self.run_gate(self.mutated(4, sources=["S5", 5]))
         self.assertIn("slide 5 has a source that is not text", errs)
         errs, _ = self.run_gate(self.mutated(4, layout="figure", images=["x.png"], bullets=["một"]))
-        self.assertIn("slide 5: images must be a list of entries with text values", errs)
+        self.assertIn("slide 5: images must be a list of entries with non-empty text values", errs)
+
+    def test_a_reference_label_must_be_the_one_the_renderer_draws(self):
+        """gen.references labels a card with the text before ': ', else with its position."""
+        errs, _ = self.run_gate(self.mutated(5, bullets=["S1: a", "S2 nguồn hai", "S3: c", "S4: d", "S5: e"]))
+        self.assertTrue(any(e.startswith("references slide lists") for e in errs), errs)
+
+    def test_image_credit_url_and_alt_must_not_be_blank(self):
+        img = [{"file": "images/x.png", "alt": "a", "credit": " ", "url": ""}]
+        errs, _ = self.run_gate(self.mutated(4, layout="figure", images=img, bullets=["một"]))
+        self.assertIn("slide 5: images must be a list of entries with non-empty text values", errs)
+
+    def test_a_lesson_marked_vietnamese_must_be_written_in_vietnamese(self):
+        english = LESSON.replace(FILLER, " ".join(["plain english words without marks"] * 12))
+        errs, _ = self.run_gate(lesson=english)
+        self.assertTrue(any(e.startswith("the lesson is not Vietnamese with diacritics") for e in errs), errs)
+        errs, _ = self.run_gate(lesson=english, expected={**EXPECTED, "language": "en"})
+        self.assertFalse(any("Vietnamese" in e for e in errs))
 
     def test_the_cover_must_be_drawable(self):
         d = {"title": "Bài thử", "slides": SLIDES}  # no subtitle

@@ -1,20 +1,10 @@
 {
  "topic_label": "Não bộ · Bài L01",
+ "motif": "grid",
  "question": "Phần nào của não quyết định bạn làm gì ngay lúc này?",
- "cards": [
-  "Thân não: giữ sự sống",
-  "Tiểu não: chỉnh cử động",
-  "Hệ viền: cảm xúc, trí nhớ",
-  "Vỏ não: bốn thùy"
- ],
- "big": {
-  "3": "86 tỷ"
- },
- "actors": {},
- "mark": {
-  "11": "mạng lưới"
- },
- "center": {
-  "2": "Hệ thần kinh"
- }
+ "cards": ["Thân não: giữ sự sống", "Tiểu não: chỉnh cử động", "Hệ viền: cảm xúc, trí nhớ", "Vỏ não: bốn thùy"],
+ "concepts": ["thân não", "tiểu não", "hệ viền", "vỏ não"],
+ "big": {"32": "> 50%"},
+ "mark": {"1": "cả một mạng lưới nơron", "16": "không đo trực tiếp xung thần kinh"},
+ "center": {"22": "Não giữa"}
 }

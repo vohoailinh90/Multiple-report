@@ -1,0 +1,14 @@
+{
+ "topic_label": "Não bộ · Bài L07",
+ "motif": "rings",
+ "question": "Vì sao những khối nhỏ nằm sâu trong não lại dính đến sợ, nhớ và thói quen?",
+ "cards": ["Trí nhớ và cảm xúc", "Trạm và hormone", "Hành động và thói quen", "Cơ thể và chú ý"],
+ "concepts": ["hệ viền", "hạnh nhân", "hải mã", "đồi thị", "vùng dưới đồi", "hạch nền", "thùy đảo", "vỏ vòng đai trước"],
+ "mark": {
+  "1": "nỗi sợ, trí nhớ, cơn đói và thói quen",
+  "31": "không riêng một cảm xúc nào"
+ },
+ "center": {"26": "Vòng hạch nền"},
+ "actors": {"37": ["Đồi thị", "Hạnh nhân", "Các vùng còn lại"]},
+ "pairs": {"37": [[0,0],[0,1],[1,2],[2,2],[2,2],[2,2]]}
+}

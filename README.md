@@ -8,18 +8,23 @@ Mục lục: [`lessons/README.md`](lessons/README.md).
 
 ## Một bài được làm ra thế nào
 
+Hiện tại (chủ repo đặt, tạm thời): Claude thiết kế và tự viết bài trong phiên chính, Codex phản biện mỗi pull request,
+rồi Claude + Moda dựng deck. Team model miễn phí trên VPS (`team-lesson`) tạm dừng, xem mục cuối.
+
 ```text
-mình hỏi Claude  →  dán câu hỏi + câu trả lời vào request.md
-                 →  Claude (kiến trúc sư) viết dàn ý, nguồn, slide plan
-                 →  model miễn phí trên VPS viết lesson.md + slides.json, script kiểm cấu trúc
-                 →  Claude audit → PR → merge
+mình hỏi Claude  →  Claude (kiến trúc sư) viết dàn ý, nguồn, slide plan
+                 →  Claude viết lesson.md + slides.json, tự chạy gate cấu trúc (lesson_gates.py)
+                 →  PR → Codex review → sửa đến khi sạch → merge
                  →  Claude + Moda dựng lessons/<id>/<id>.pptx
 ```
 
-Chi tiết cài đặt và lệnh: [`docs/vps-team-lesson.md`](https://github.com/vohoailinh90/claude-agent-routing-template/blob/main/docs/vps-team-lesson.md)
-trong repo template (lệnh `team-lesson`).
+Quy trình và quy tắc PR: [`docs/TEAM.md`](docs/TEAM.md).
 
-### Các lệnh hay dùng (trên VPS)
+### Quy trình VPS `team-lesson` (tạm dừng, không dùng khi quy trình hiện tại còn hiệu lực)
+
+Luồng cũ: Claude viết spec, model miễn phí trên VPS viết `lesson.md` + `slides.json` và phản biện, script kiểm cấu trúc,
+Claude audit. Chi tiết cài đặt và lệnh: [`docs/vps-team-lesson.md`](https://github.com/vohoailinh90/claude-agent-routing-template/blob/main/docs/vps-team-lesson.md)
+trong repo template. Chỉ chạy lại khi chủ repo bật lại:
 
 ```bash
 team-lesson new L02 --repo git@github.com:vohoailinh90/Multiple-report.git

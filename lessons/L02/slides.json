@@ -214,6 +214,21 @@
       ]
     },
     {
+      "title": "Ba cách chấm dứt tín hiệu",
+      "section": "Chấm dứt tín hiệu",
+      "sources": [
+        "S1"
+      ],
+      "bullets": [
+        "Thu hồi (tái hấp thu): đưa ngược vào nơron trước",
+        "Phân hủy: enzym cắt bỏ",
+        "Khuếch tán: trôi ra khỏi khe synapse"
+      ],
+      "notes": "Ví dụ của người viết: bật công tắc thì cũng phải có cách tắt.",
+      "layout": "lookup-table",
+      "tone": "light"
+    },
+    {
       "title": "Các bước đời một chất dẫn truyền",
       "section": "Thuốc can thiệp ở đâu",
       "sources": [
@@ -229,21 +244,6 @@
       "notes": "Mỗi bước là một điểm mà thuốc hoặc chất kích thích có thể can thiệp.",
       "layout": "flow",
       "tone": "dark"
-    },
-    {
-      "title": "Ba cách chấm dứt tín hiệu",
-      "section": "Chấm dứt tín hiệu",
-      "sources": [
-        "S1"
-      ],
-      "bullets": [
-        "Thu hồi (tái hấp thu): đưa ngược vào nơron trước",
-        "Phân hủy: enzym cắt bỏ",
-        "Khuếch tán: trôi ra khỏi khe synapse"
-      ],
-      "notes": "Ví dụ của người viết: bật công tắc thì cũng phải có cách tắt.",
-      "layout": "lookup-table",
-      "tone": "light"
     },
     {
       "title": "Hiểu synapse là hiểu thuốc",

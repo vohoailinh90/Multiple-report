@@ -1,0 +1,51 @@
+{
+  "id": "L08",
+  "title": "Vỏ não và các thùy: thái dương, đỉnh, chẩm",
+  "topic": "nao-bo",
+  "sections": [
+    "Tóm tắt",
+    "Vỏ não và cách người ta chia thùy",
+    "Thùy thái dương (temporal lobe)",
+    "Thùy đỉnh (parietal lobe)",
+    "Thùy chẩm (occipital lobe)",
+    "Các thùy làm việc cùng nhau",
+    "Những hiểu lầm thường gặp",
+    "Điều cần nhớ",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
+  ],
+  "key_terms": [
+    "vỏ não",
+    "thùy thái dương",
+    "thùy đỉnh",
+    "thùy chẩm",
+    "cerebral cortex",
+    "temporal lobe",
+    "parietal lobe",
+    "occipital lobe"
+  ],
+  "min_words": 3500,
+  "max_words": 30000,
+  "min_citations": 12,
+  "min_independent_sources": 4,
+  "min_layouts": 8,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Tóm tắt",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 4,
+  "language": "vi",
+  "slides": {
+    "min": 30,
+    "max": 60
+  }
+}

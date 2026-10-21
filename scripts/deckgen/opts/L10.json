@@ -1,0 +1,20 @@
+{
+ "topic_label": "Thần kinh học · Bài L10",
+ "motif": "split",
+ "question": "Có thật có \"hormone hạnh phúc\"?",
+ "cards": [
+  "Chất dẫn truyền",
+  "Hormone",
+  "Cảm xúc",
+  "Bằng chứng"
+ ],
+ "concepts": ["chất dẫn truyền", "hormone", "cảm xúc", "bằng chứng"],
+ "big": {"26": "r ≈ 0,05"},
+ "mark": {
+  "1": "bằng chứng mạnh đến đâu",
+  "14": "không phải ảnh chụp",
+  "32": "khuếch đại \"muốn\"",
+  "42": "Không phải lời khuyên y tế"
+ },
+ "center": {"10": "Một chất, nhiều hàng"}
+}

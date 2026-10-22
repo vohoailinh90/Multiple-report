@@ -19,10 +19,20 @@ thật sự thuộc về chủ repo (bài nói về điều gì), hoặc khi m�
 - Gộp lệnh: dựng mỗi deck bằng ít lệnh nhất có thể; không chụp màn hình sau mỗi lần sửa (tối đa một lần cuối).
 - Quyền tool đã có trong `.claude/settings.json`. Nếu vẫn bị hỏi duyệt, báo một lần tên tool cần thêm, rồi làm tiếp.
 
+## Nhiều phiên cùng làm
+
+Tối đa **2 phiên viết** chạy cùng lúc (chủ repo, 2026-10-21). Luật đầy đủ và bảng giữ bài: **`docs/dieu-phoi.md`**; đọc nó trước khi nhận hay giao bài.
+
+- Chỉ phiên điều phối cấp số hiệu (`python3 scripts/claims.py next`) và tạo `lessons/<id>.spec.md` + `expected.json` trước khi giao bài.
+- Phiên viết: nhánh `claude/lesson-<id>`, `python3 scripts/claims.py claim <id> --publish` trước khi viết (bị từ chối thì dừng và báo, không lách),
+  `touch --publish` mỗi vài giờ, `scope <id>` rồi `finish <id> --publish` khi xong. Chỉ ghi trong `lessons/<id>/`.
+- Phiên phản biện chỉ đọc (nhánh `claude/review-<id>-a|b`), không cần khoá. Moda chỉ phiên điều phối dùng, tuần tự.
+
 ## Cấu trúc một bài
 
 ```text
 lessons/<id>.expected.json   các kiểm tra của gate (Claude viết khi thiết kế bài, trước khi viết lesson.md; không sửa để gate qua)
+lessons/<id>.claim.json      khoá của phiên đang viết bài (scripts/claims.py; chỉ trên nhánh của phiên đó, vào main khi đã `finish`)
 lessons/<id>/lesson.md       bài học
 lessons/<id>/slides.json     dàn ý slide đã duyệt
 lessons/<id>/<id>.pptx       deck Moda (chỉ PPTX; không PNG, không PDF)

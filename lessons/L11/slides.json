@@ -1,0 +1,922 @@
+{
+ "title": "Trí nhớ cảm xúc: hải mã, hạnh nhân và vỏ trước trán",
+ "subtitle": "Não bộ · Bài L11",
+ "slides": [
+  {
+   "title": "Câu hỏi của bài",
+   "section": "Tóm tắt",
+   "sources": [
+    "S3"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Vì sao bạn nhớ rõ một lần suýt tai nạn mà quên bữa trưa hôm qua, và vì sao nhớ rõ chưa chắc là nhớ đúng?"
+   ],
+   "notes": "Mở bài bằng hai câu hỏi đời thường. Gần như ai cũng có một khoảnh khắc nhớ chi tiết đến từng màu áo, và một bữa ăn vừa qua mà không nhớ nổi. Câu trả lời của bài không phải một vùng não nào đó, mà là đường đi của một ký ức: được tạo, được giữ, được lấy ra. Ở mỗi bước, cảm xúc có thể chen vào. Nói trước điều bài sẽ làm: ghi nhãn mức chắc chắn cho từng ý, vì một số ý là giáo khoa, một số còn tranh luận, và kết quả ở chuột khác kết quả ở người. Nhắc người nghe rằng hải mã và hạnh nhân đã có thẻ hồ sơ ở bài L07, nên bài này chỉ nói quá trình."
+  },
+  {
+   "title": "Đường đi của một ký ức",
+   "section": "Tóm tắt",
+   "sources": [
+    "S3"
+   ],
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Mã hóa: ưu tiên điều nổi bật",
+    "Củng cố: hải mã, vỏ não, giấc ngủ",
+    "Truy xuất: lấy lại, có thể sửa lại",
+    "Cảm xúc: chen vào từng bước"
+   ],
+   "notes": "Đây là bản đồ của bài, theo bốn thẻ. Ba thẻ đầu là ba giai đoạn mà giáo trình 8.5 nêu: mã hóa, củng cố, truy xuất. Thẻ thứ tư không phải một giai đoạn mà là sợi chỉ chạy xuyên qua cả ba: cảm xúc tác động ở mã hóa, điều chỉnh củng cố, và liên quan đến chuyện ký ức có thể bị sửa khi được nhớ lại. Chỗ dễ nhầm: người nghe hay hình dung trí nhớ như một ngăn kéo, bỏ vào rồi lấy ra y nguyên. Bài này lần lượt cho thấy vì sao hình ảnh đó chưa đủ. Mục lục chi tiết nằm ở các slide sau: loại trí nhớ, củng cố, hạnh nhân, vỏ trước trán, ký ức sợ, tái củng cố, ký ức chói, căng thẳng."
+  },
+  {
+   "title": "Sơ đồ các loại trí nhớ",
+   "section": "Các loại trí nhớ và ba giai đoạn của một ký ức",
+   "sources": [
+    "S1"
+   ],
+   "layout": "annotated-figure",
+   "tone": "light",
+   "bullets": [
+    "Declarative: tường thuật, nói ra được",
+    "Nondeclarative: không tường thuật, ngầm",
+    "Working memory: giữ và thao tác tạm thời"
+   ],
+   "body": "Giáo trình chia trí nhớ dài hạn thành hai nhánh. **Trí nhớ tường thuật** gồm ngữ nghĩa (sự kiện, khái niệm) và theo tình tiết (việc đã xảy ra với bản thân). **Trí nhớ không tường thuật** gồm thủ tục, mồi, học không liên kết và học liên kết [S1]. Trí nhớ cảm giác và trí nhớ làm việc đứng riêng, ngắn hạn [S1].",
+   "images": [
+    {
+     "file": "images/cac-loai-tri-nho.png",
+     "alt": "Sơ đồ các loại trí nhớ: cảm giác, làm việc, dài hạn tường thuật và không tường thuật",
+     "credit": "Hove & Martinez, Hình 2 (chương 8.2), CC BY-NC-SA 4.0 theo mục Media Attributions của chương",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-2-types-of-memory/"
+    }
+   ],
+   "notes": "Chỉ vào sơ đồ từ trên xuống. Trí nhớ cảm giác là bộ đệm rất ngắn; trí nhớ làm việc giữ và thao tác một ít thông tin; trí nhớ dài hạn tách thành tường thuật và không tường thuật. Cách nhớ nhanh: tường thuật là thứ bạn có thể kể ra, không tường thuật là thứ bạn làm được mà khó giải thích, như đi xe đạp. Ca bệnh nhân H.M. ở L07 chính là lý do người ta tách các loại này: ông mất khả năng tạo ký ức tường thuật mới nhưng vẫn học được kỹ năng. Chữ trong hình là tiếng Anh; nghĩa tiếng Việt đã có ở phần chú giải bên phải. Giấy phép hình: theo mục Media Attributions của chương giáo trình."
+  },
+  {
+   "title": "Tường thuật và không tường thuật",
+   "section": "Các loại trí nhớ và ba giai đoạn của một ký ức",
+   "sources": [
+    "S1"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Tường thuật: nói ra được; ngữ nghĩa và theo tình tiết",
+    "Không tường thuật: không cần ý thức; thủ tục, mồi, điều kiện hóa",
+    "Đừng hiểu nhầm: \"trí nhớ cơ bắp\" chỉ là cách nói, cơ không lưu ký ức"
+   ],
+   "body": "**Trí nhớ tường thuật** là thông tin ta ý thức được và nói ra được: kiến thức chung (**ngữ nghĩa**) hoặc việc đã xảy ra với bản thân (**theo tình tiết**) [S1]. **Trí nhớ không tường thuật** vận hành không cần ý thức: kỹ năng, mồi, quen dần, nhạy dần và điều kiện hóa [S1]. Ký ức cảm xúc là một lớp quan trọng của trí nhớ theo tình tiết, vì thường được nhớ mạnh hơn ký ức trung tính, cả chuyện vui lẫn chuyện xấu hổ [S1].",
+   "notes": "Nhấn hai ý. Một, ngữ nghĩa là kiến thức chung, còn theo tình tiết là chuyện của riêng bạn: giáo trình ví nó như du hành thời gian tinh thần. Hai, ký ức cảm xúc là một lớp của trí nhớ theo tình tiết, và là lớp mà cả bài này xoay quanh. Giáo trình ghi nhận rằng người ta nhớ chuyện xúc động mạnh hơn chuyện trung tính, cả chuyện vui lẫn chuyện xấu hổ. Chỗ dễ nhầm là ba cách học không tường thuật: quen dần là phản ứng giảm khi lặp lại, nhạy dần là phản ứng tăng; chúng khác với điều kiện hóa, vốn cần liên kết hai kích thích. Ví dụ trong giáo trình: người mới chuyển đến thành phố có thể lúc đầu ít để ý tiếng còi xe, rồi về sau giật mình mạnh hơn."
+  },
+  {
+   "title": "Ba giai đoạn của một ký ức",
+   "section": "Các loại trí nhớ và ba giai đoạn của một ký ức",
+   "sources": [
+    "S3"
+   ],
+   "layout": "flow",
+   "tone": "light",
+   "bullets": [
+    "Mã hóa: biến thông tin đến thành biểu diễn; ưu tiên điều nổi bật",
+    "Củng cố: ký ức ngắn hạn thành dài hạn; hải mã và vỏ não",
+    "Truy xuất: lấy lại, được gợi ý bởi bối cảnh và liên kết",
+    "Cảm xúc chen vào: ưu tiên khi mã hóa, điều biến củng cố"
+   ],
+   "notes": "Đọc từ trái sang phải rồi chỉ vào hộp cuối. Mã hóa: não không thể ghi hết mọi thứ vì lưu trữ tốn năng lượng, nên ưu tiên cái nổi bật như dấu hiệu đe dọa hoặc phần thưởng. Củng cố: giáo trình gọi là quá trình ký ức ngắn hạn thành dài hạn. Truy xuất: lấy lại điều đã lưu; được gợi ý theo nhóm thì nhớ lại tốt hơn nhiều, vì gợi ý bật lên bối cảnh và liên kết đã tạo lúc mã hóa. Ví dụ của người viết: tên một diễn viên chợt nhớ ra khi ai đó nhắc phim đã đóng. Hộp cuối không phải giai đoạn thứ tư mà là chỗ cảm xúc chen vào; các slide sau mở từng chỗ."
+  },
+  {
+   "title": "Trí nhớ làm việc",
+   "section": "Các loại trí nhớ và ba giai đoạn của một ký ức",
+   "sources": [
+    "S1"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Giữ và thao tác: dung lượng và thời gian hạn chế",
+    "Đo bằng nhắc dãy số: xuôi là ngắn hạn, ngược là làm việc",
+    "Vỏ trước trán quan trọng cho nó: xem mục sau"
+   ],
+   "body": "**Trí nhớ làm việc** có thời gian và dung lượng hạn chế. Giáo trình mô tả nó là hệ thống tạm giữ và thao tác thông tin, cần cho học tập, suy luận, trò chuyện và tính nhẩm [S1]. Nhắc xuôi một dãy số chủ yếu đo trí nhớ ngắn hạn; nhắc ngược đòi hỏi thao tác nên đo trí nhớ làm việc [S1]. Hiệu suất nhắc ngược liên quan đến trí tuệ linh hoạt [S1].",
+   "notes": "Trí nhớ làm việc hay bị nhầm với trí nhớ ngắn hạn. Giáo trình nối chúng với nhau nhưng nhấn mạnh phần thao tác: bạn không chỉ giữ số điện thoại mà còn tính nhẩm với nó, theo dõi cuộc trò chuyện, suy luận. Cách đo tiêu biểu là dãy số: nhắc xuôi chủ yếu là ngắn hạn, nhắc ngược buộc phải thao tác nên đo trí nhớ làm việc. Giáo trình ghi nhận hiệu suất nhắc ngược liên quan đến trí tuệ linh hoạt. Dẫn nối sang mục vỏ trước trán: vùng này là nơi bằng chứng về trí nhớ làm việc tập trung. Đừng lẫn với trí nhớ dài hạn: đây là phần tạm giữ, không phải kho."
+  },
+  {
+   "title": "Nhớ lại phụ thuộc trạng thái và bối cảnh",
+   "section": "Các loại trí nhớ và ba giai đoạn của một ký ức",
+   "sources": [
+    "S3"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Trạng thái: nhớ lại tốt nhất khi ở cùng trạng thái bên trong như lúc học, kể cả tâm trạng",
+    "Bối cảnh: nhớ lại tốt nhất ở cùng môi trường bên ngoài như lúc học, ví dụ cùng căn phòng",
+    "Giáo trình giải thích: cùng trạng thái hay bối cảnh kích hoạt một phần mẫu hoạt động, kéo theo cả ký ức. Chỉ nêu hiện tượng, không phải mẹo học."
+   ],
+   "notes": "Hai hiện tượng này liên quan đến bước truy xuất. Giáo trình định nghĩa trạng thái là điều kiện bên trong, gồm cả tâm trạng hoặc trạng thái ý thức; bối cảnh là môi trường bên ngoài. Cách giải thích sinh học: ký ức được mã hóa bằng thay đổi độ mạnh synapse và lưu như một mẫu hoạt động trên mạng nơron; gặp lại một phần của hoàn cảnh cũ thì một phần mẫu được kích hoạt, kéo theo phần còn lại. Cảnh báo: bài này không đưa lời khuyên học tập từ hiện tượng. Suy luận của người viết: vì cảm xúc là một trạng thái bên trong, nó có thể là một phần của bối cảnh khi ký ức hình thành; điều này nguồn chưa đo."
+  },
+  {
+   "title": "Hải mã gắn các mảnh của một trải nghiệm",
+   "section": "Củng cố: hải mã, vỏ não và giấc ngủ",
+   "sources": [
+    "S2"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Ở đâu: thùy thái dương trong; vị trí và ca H.M. xem L07",
+    "Làm gì: gắn mục với bối cảnh không gian hoặc thời gian",
+    "Đừng hiểu nhầm: không phải kho giữ ký ức mãi mãi"
+   ],
+   "body": "Hệ **thùy thái dương trong** gồm **hải mã**, vỏ nội khứu, vỏ cạnh khứu và vỏ cạnh hải mã, cùng quan trọng cho củng cố và lưu ký ức tường thuật [S2]. Hải mã gắn thông tin với bối cảnh không gian hoặc thời gian: vào tòa nhà mới, nó gắn dãy tủ khóa với \"tầng một\", và gợi lại bối cảnh sau này giúp gợi ký ức [S2]. Một khung hiểu mới hơn xem nó gắn một mục với nhiều dạng bối cảnh liên quan [S2].",
+   "notes": "Ví dụ của giáo trình dễ nhớ: bạn vào một tòa nhà mới tìm phòng học. Hải mã giúp gắn các vật, như dãy tủ khóa, với bối cảnh tầng một; về sau gợi lại bối cảnh thì gợi được ký ức. Gọi đó là gắn quan hệ. Giáo trình còn nêu khung mới hơn: hải mã có thể đảm nhiệm vai trò chung hơn, là gắn một mục với nhiều dạng bối cảnh liên quan. Hải mã không làm việc một mình: cùng các vỏ nội khứu, cạnh khứu và cạnh hải mã tạo thành hệ thùy thái dương trong. Chỗ dễ nhầm: gắn kết là một vai trò, nên đừng nói hải mã là chỗ ký ức nằm vĩnh viễn; slide sau giải thích."
+  },
+  {
+   "title": "Hải mã: vai trò trong trí nhớ",
+   "section": "Củng cố: hải mã, vỏ não và giấc ngủ",
+   "sources": [
+    "S2",
+    "S3",
+    "S8"
+   ],
+   "layout": "profile-card",
+   "tone": "light",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Làm gì trong trí nhớ",
+     "text": "Gắn mục với bối cảnh, củng cố ký ức tường thuật [S2]"
+    },
+    {
+     "label": "Bằng chứng",
+     "text": "Người: tổn thương như H.M.; động vật: mê cung nước; ảnh chụp não ở người (xem L07) [S2]"
+    },
+    {
+     "label": "Chất dẫn truyền chính",
+     "text": "Giáo trình mục này không nêu riêng; noradrenaline từ đường hạnh nhân giúp củng cố (xem L03) [S2]"
+    },
+    {
+     "label": "Khi tổn thương",
+     "text": "Khó tạo ký ức tường thuật mới (quên thuận chiều), ví dụ ca H.M. [S2]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Không phải kho giữ ký ức mãi mãi; ký ức dần ít phụ thuộc vào nó [S3] [S8]"
+    }
+   ],
+   "notes": "Đọc thẻ theo hàng, đừng đọc hết. Hàng bằng chứng có ba loại: người, động vật, ảnh chụp não; slide này chỉ nêu mà không lặp chi tiết ca H.M. hay mê cung nước Morris, vốn đã ở L07. Hàng chất dẫn truyền cố ý ngắn: giáo trình mục này không nêu riêng chất cho hải mã, nên bài chỉ dẫn noradrenaline từ đường hạnh nhân, xem L03. Hàng đừng hiểu nhầm là hàng quan trọng nhất: người nghe thường mang theo hình ảnh hải mã như ổ cứng. Mô hình chuẩn, ở slide sau, cho thấy lúc đầu nó cần cho việc buộc các mảnh lại, rồi ký ức dần dựa nhiều hơn vào vỏ não."
+  },
+  {
+   "title": "Mô hình củng cố chuẩn",
+   "section": "Củng cố: hải mã, vỏ não và giấc ngủ",
+   "sources": [
+    "S3",
+    "S8"
+   ],
+   "layout": "figure",
+   "tone": "dark",
+   "bullets": [
+    "Cortical modules: các mô-đun vỏ não (hình ảnh, âm thanh, liên kết)",
+    "Hippocampus: hải mã, tích hợp và buộc các mảnh lại",
+    "Time: thời gian; nối hải mã–vỏ não yếu đi, nối trong vỏ não mạnh lên"
+   ],
+   "images": [
+    {
+     "file": "images/mo-hinh-cung-co-chuan.png",
+     "alt": "Mô hình củng cố chuẩn: liên kết hải mã–vỏ não yếu đi, liên kết trong vỏ não mạnh lên theo thời gian",
+     "credit": "Hove & Martinez, Hình 13 (chương 8.5), CC BY-NC-SA 4.0 theo mục Media Attributions; điều chỉnh từ Frankland & Bontempi 2005",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-5-stages-of-memory/"
+    }
+   ],
+   "notes": "Hình 13 của giáo trình. Bên trái là ký ức mới: nhiều mô-đun vỏ não, mỗi mô-đun biểu diễn một đặc điểm như hình ảnh hay âm thanh, đều nối chặt với hải mã; hải mã tích hợp chúng. Bên phải là sau một thời gian: nét đỏ giữa các mô-đun vỏ não dày lên, nét nối với hải mã nhạt đi. Ghi nhãn mức chắc chắn: đây là một mô hình, chính xác hơn là mô hình chuẩn, và giáo trình gọi thuyết củng cố hệ thống là quan điểm chiếm ưu thế. Có phiên bản khác, như mô hình đa dấu vết, nhưng bài này không đi vào vì chưa tự kiểm nguồn cho chúng. Chữ trong hình là tiếng Anh; nghĩa tiếng Việt ở bên phải."
+  },
+  {
+   "title": "Bằng chứng cho mô hình và giới hạn của nó",
+   "section": "Củng cố: hải mã, vỏ não và giấc ngủ",
+   "sources": [
+    "S2",
+    "S3",
+    "S8"
+   ],
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Ca H.M.: mất ký ức hai năm trước mổ, giữ ký ức xa (phân bậc thời gian)",
+    "Tổng quan 2005: ký ức \"chín\" dần phụ thuộc vỏ não; cách chuyển còn hiểu ít",
+    "Lashley (chuột): độ lớn tổn thương vỏ não quyết định mức hỏng; dấu vết trải rộng",
+    "Giới hạn: đây là một mô hình; có mô hình khác (ví dụ đa dấu vết), bài chỉ nêu giáo trình"
+   ],
+   "notes": "Ba bằng chứng và một giới hạn. H.M.: mất trí nhớ ngược chiều có phân bậc thời gian, nghĩa là mất ký ức gần trước mổ nhưng giữ ký ức thơ ấu; mô hình chuẩn giải thích là ký ức gần còn phụ thuộc hải mã. Tổng quan Frankland và Bontempi mô tả ký ức đời thường lúc đầu phụ thuộc hệ thùy thái dương trong và dần phụ thuộc các vùng như vỏ não; chính các tác giả nói còn hiểu ít về cách chuyển. Lashley làm ở chuột thập niên 1950: lấy bỏ vỏ não ở đâu cũng hỏng mê cung tương ứng độ lớn, nên dấu vết ký ức trải rộng. Giới hạn cuối là điều cần nói to: một mô hình, không phải sự thật cuối cùng."
+  },
+  {
+   "title": "Thí nghiệm tái hoạt hóa có đích (TMR)",
+   "section": "Củng cố: hải mã, vỏ não và giấc ngủ",
+   "sources": [
+    "S4"
+   ],
+   "layout": "sequence-diagram",
+   "tone": "dark",
+   "bullets": [
+    "Học: gợi ý (âm thanh, mùi) được ghép với từng mục",
+    "Ngủ: gợi ý được phát lại để kích hoạt ký ức tương ứng",
+    "Thức: nhớ lại các mục, không còn gợi ý",
+    "So sánh: mục được nhắc khi ngủ so với mục không được nhắc"
+   ],
+   "notes": "Đọc theo bốn tác nhân, từ trên xuống. Lúc học, mỗi mục ghép với một gợi ý riêng. Lúc ngủ, gợi ý được phát lại, người ngủ thường không biết, và việc này nhằm kích hoạt lại ký ức tương ứng. Sáng ra, thử nhớ mà không còn gợi ý. Giáo trình dẫn một phân tích gộp 90 nghiên cứu: nhìn chung ủng hộ lợi ích, mạnh nhất ở giấc ngủ không REM, nhất là sóng chậm. Chỗ dễ nhầm: lợi ích được nói cho mục được nhắc so với mục không nhắc, không phải ngủ là học thay. Với ký ức cảm xúc, kết quả còn lẫn lộn: một nghiên cứu chỉ thấy lợi ích với ký ức trung tính, một nghiên cứu khác thấy làm dịu ký ức cảm xúc."
+  },
+  {
+   "title": "Tái hoạt hóa khi ngủ trên hình",
+   "section": "Củng cố: hải mã, vỏ não và giấc ngủ",
+   "sources": [
+    "S4"
+   ],
+   "layout": "figure",
+   "tone": "light",
+   "bullets": [
+    "Encoding: mã hóa, học kèm gợi ý",
+    "Consolidation: củng cố, gợi ý phát lại khi ngủ",
+    "Retrieval: truy xuất, nhớ lại không cần gợi ý"
+   ],
+   "images": [
+    {
+     "file": "images/tai-hoat-hoa-co-dich-tmr.png",
+     "alt": "Tái hoạt hóa có đích: gợi ý khi học, phát lại khi ngủ, nhớ lại khi tỉnh không gợi ý",
+     "credit": "Hove & Martinez, Hình 14 (chương 8.6); hình thuộc Wikipedia, CC BY theo mục Media Attributions",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-6-memory-reconsolidation-new-views-and-applications/"
+    }
+   ],
+   "notes": "Hình 14 của giáo trình, ba khung từ trái sang phải. Khung đầu là học kèm âm thanh; khung giữa là ngủ trong lúc âm thanh được phát lại; khung cuối là nhớ lại mà không còn âm thanh. Dùng hình này để nối với ba giai đoạn ở đầu bài: củng cố diễn ra ở giữa, trong giấc ngủ. Nêu thêm điều giáo trình nói về tái hoạt hóa: mẫu phát xung lúc mã hóa được phát lại khi nghỉ; ở chuột, các tế bào vị trí hoạt động khi khám phá thì được kích hoạt lại ưu tiên trong giấc ngủ sau; ở người, một nghiên cứu fMRI thấy hoạt động lúc học và lúc nghỉ giống nhau với cặp được nhớ. Hình thuộc Wikipedia, CC BY theo sách."
+  },
+  {
+   "title": "Hạnh nhân điều biến củng cố",
+   "section": "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+   "sources": [
+    "S5",
+    "S7"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Ở đâu và các nhân: xem L07; mạch sợ: xem L09",
+    "Làm gì: chủ yếu điều chỉnh độ mạnh củng cố của ký ức ở nơi khác",
+    "Đừng hiểu nhầm: không phải kho chứa mọi ký ức cảm xúc"
+   ],
+   "body": "Theo tổng quan của McGaugh, **hạnh nhân** điều biến sự củng cố ký ức về trải nghiệm xúc động; tác động của hormone căng thẳng thượng thận và chất dẫn truyền được phức hợp **đáy bên** làm trung gian [S5]. Phelps tóm tắt: hạnh nhân có thể điều biến cả mã hóa và lưu trữ của ký ức phụ thuộc **hải mã**; hai hệ độc lập nhưng phối hợp khi cảm xúc gặp trí nhớ [S7].",
+   "notes": "Ý then chốt của cả bài. McGaugh tổng hợp bằng chứng và tập trung vào việc hạnh nhân điều biến củng cố: khi trải nghiệm gây kích thích cảm xúc, các hormone căng thẳng và chất dẫn truyền tác động qua phức hợp đáy bên của hạnh nhân, và phức hợp này điều chỉnh độ mạnh củng cố ở những vùng khác. Phelps tóm tắt tương tự và thêm chiều ngược lại: hải mã tạo biểu diễn ý nghĩa cảm xúc và có thể ảnh hưởng đáp ứng hạnh nhân. Hai hệ độc lập nhưng phối hợp. Chỗ dễ nhầm lớn nhất: câu \"hạnh nhân lưu mọi ký ức cảm xúc\". Các nguồn này không nói như vậy, nên bài cũng không viết."
+  },
+  {
+   "title": "Cảm xúc tác động vào củng cố như thế nào",
+   "section": "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+   "sources": [
+    "S2",
+    "S5",
+    "S6"
+   ],
+   "layout": "flow",
+   "tone": "light",
+   "bullets": [
+    "Trải nghiệm xúc động: hormone căng thẳng và noradrenaline tăng",
+    "Hạnh nhân, phức hợp đáy bên: nhận và điều biến các tác động đó",
+    "Đường ra: nhân đuôi, nhân accumbens, vỏ não, cả hải mã",
+    "Ký ức ở đó được củng cố mạnh hơn (cơ chế chi tiết chủ yếu từ động vật)"
+   ],
+   "notes": "Đi theo bốn hộp. Đây là chuỗi mô tả trong các tổng quan, chủ yếu dựng từ nghiên cứu ở động vật: tiêm hormone và thuốc sau huấn luyện, hoặc tổn thương chọn lọc từng nhân. Chỗ cần đọc kỹ ở hộp thứ hai: McGaugh nêu nhiều hệ điều biến hội tụ ở hoạt hóa noradrenaline và acetylcholine kiểu muscarin ở phức hợp đáy bên. Hộp thứ ba: đường ra tới nhân đuôi, nhân accumbens và vỏ não theo McGaugh; giáo trình thêm hải mã. Cố ý dùng chữ \"điều biến\" thay cho \"lưu\": hạnh nhân chỉnh độ mạnh, không giữ nội dung. Ví dụ của người viết: lúc suýt va chạm, cơ thể tiết hormone; cơ chế này có thể làm khoảnh khắc ấy được củng cố mạnh hơn, nhưng chưa ai đo trong chính tình huống đó."
+  },
+  {
+   "title": "Hạnh nhân: vai trò trong trí nhớ",
+   "section": "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+   "sources": [
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S9"
+   ],
+   "layout": "profile-card",
+   "tone": "dark",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Làm gì trong trí nhớ",
+     "text": "Điều biến độ mạnh củng cố ký ức cảm xúc ở nơi khác; ưu tiên mã hóa [S3] [S5]"
+    },
+    {
+     "label": "Bằng chứng",
+     "text": "Động vật: tiêm noradrenaline vào BLA, tổn thương nhân. Người: ảnh chụp não, propranolol [S2] [S5] [S9]"
+    },
+    {
+     "label": "Chất dẫn truyền chính",
+     "text": "Noradrenaline và hormone căng thẳng thượng thận; hồ sơ ở L03 [S2] [S5]"
+    },
+    {
+     "label": "Khi tổn thương hoặc rối loạn",
+     "text": "Chuột: tổn thương bên làm mờ ký ức sợ; stress nặng có thể thành lo âu mạn [S2] [S6]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Không phải kho chứa mọi ký ức cảm xúc; vị trí và mạch sợ: xem L07, L09 [S5]"
+    }
+   ],
+   "notes": "Thẻ này cố ý khác thẻ ở L07: không nói vị trí và các nhân, chỉ nói vai trò trong quá trình ký ức. Hàng bằng chứng gom hai nguồn: động vật là tiêm noradrenaline vào phức hợp đáy bên và tổn thương nhân; người là hình ảnh não và thí nghiệm propranolol của Cahill. Hàng khi tổn thương có hai ý khác tính chất: ở chuột, làm chết tế bào ở hạnh nhân bên khiến ký ức sợ mờ; còn dưới căng thẳng nặng, ký ức cảm xúc có thể thành nguồn lo âu mạn. Đừng hiểu nhầm: nó là bộ điều chỉnh. Đọc cả thẻ chậm vì đây là thẻ trung tâm của bài."
+  },
+  {
+   "title": "Hạnh nhân trên lát cắt đứng ngang",
+   "section": "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+   "sources": [
+    "S2"
+   ],
+   "layout": "annotated-figure",
+   "tone": "light",
+   "bullets": [
+    "Coronal: lát cắt đứng ngang",
+    "Amygdala: hạnh nhân, màu tím"
+   ],
+   "body": "Lát cắt đứng ngang (coronal) từ sách giải phẫu Gray (1918); mũi tên chỉ **hạnh nhân** tô tím, nằm sâu trong thùy thái dương [S2]. Giáo trình đặt hình này ở mục ký ức cảm xúc: noradrenaline ở phức hợp đáy bên giúp củng cố ký ức về sự kiện gây xúc động [S2].",
+   "images": [
+    {
+     "file": "images/hanh-nhan-gray.png",
+     "alt": "Lát cắt đứng ngang của não, hạnh nhân tô tím",
+     "credit": "Henry Gray, Anatomy of the Human Body (1918), Public Domain; Hove & Martinez, Hình 10 (chương 8.3)",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-3-brain-structures-in-memory/"
+    }
+   ],
+   "notes": "Hình dùng lại từ L07 để người học nhìn thấy cấu trúc đang nói tới. Lát cắt đứng ngang từ sách giải phẫu Gray năm 1918, mũi tên chỉ hạnh nhân tô tím, nằm sâu trong thùy thái dương. Giáo trình đặt hình này ngay mục ký ức cảm xúc. Nhắc người nghe nhìn kích cỡ: một khối nhỏ so với toàn bộ não, nhưng nhỏ không có nghĩa là làm một việc. Ý chính của slide là đặt tên cho cấu trúc trong đầu trước khi bàn đến cơ chế; mạch và các nhân chi tiết đã ở L07. Hình thuộc phạm vi công cộng."
+  },
+  {
+   "title": "Bằng chứng ở động vật và ở người",
+   "section": "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+   "sources": [
+    "S2",
+    "S5",
+    "S9"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Động vật: tiêm noradrenaline vào BLA, không vào vùng kế cận, làm tăng củng cố; tổn thương nhân làm đổi trí nhớ",
+    "Người: propranolol làm kém nhớ truyện xúc động, không đổi truyện trung tính; mức hạnh nhân kích hoạt tương quan với nhớ lại",
+    "Kết luận: hướng tác động nhất quán; ở người chủ yếu là thuốc và tương quan, cơ chế chi tiết chủ yếu từ chuột."
+   ],
+   "notes": "Hai cột để người học không trộn lẫn mức bằng chứng. Cột trái là động vật: tiêm noradrenaline vào phức hợp đáy bên, không vào các phần kế cận, tăng củng cố ký ức cảm xúc ở chuột. Cột phải là người: Cahill và cộng sự năm 1994 cho dùng propranolol, thuốc chẹn thụ thể beta, và thấy trí nhớ truyện xúc động giảm nhưng truyện trung tính thì không; các tác giả cho rằng điều đó không do phản ứng cảm xúc giảm hay an thần. Hình ảnh não ở người cho tương quan giữa mức kích hoạt hạnh nhân lúc mã hóa và nhớ lại về sau. Tương quan không phải nhân quả: nhắc người nghe."
+  },
+  {
+   "title": "Điều cần nhớ về hạnh nhân",
+   "section": "Hạnh nhân: vì sao điều xúc động được nhớ lâu",
+   "sources": [
+    "S2",
+    "S5",
+    "S7",
+    "S12"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Hạnh nhân chủ yếu điều chỉnh độ mạnh củng cố của ký ức ở nơi khác; nó không phải kho chứa mọi ký ức cảm xúc."
+   ],
+   "notes": "Một câu để mang về. Nhãn mức chắc chắn: ý hạnh nhân điều biến củng cố có nhiều bằng chứng ở động vật và bằng chứng nhất quán ở người trong các tổng quan; phần cơ chế chi tiết chủ yếu từ động vật. Giáo trình còn nêu thí nghiệm ở chuột: làm chết tế bào hạnh nhân bên sau khi tập sợ âm thanh thì ký ức sợ mờ đi, dùng để nói hạnh nhân tham gia lưu ký ức sợ. Với ký ức sợ ở chuột, Nader và cộng sự nêu hạnh nhân bên và đáy được cho là nơi lưu ký ức sợ. Suy luận của người viết để dung hòa: hạnh nhân có thể cũng giữ một phần dấu vết ký ức sợ ở chuột; với ký ức tình tiết cảm xúc, các tổng quan nhấn mạnh vai trò điều biến. Hai nguồn chưa đối chiếu trực tiếp nên đừng xem là kết luận."
+  },
+  {
+   "title": "Vỏ trước trán giữ thông tin tạm thời",
+   "section": "Vỏ trước trán: giữ, điều khiển và kiềm chế ký ức",
+   "sources": [
+    "S2"
+   ],
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Ở đâu: phần trước của thùy trán; chức năng điều hành: xem L04",
+    "Làm gì: giữ và thao tác thông tin trong trí nhớ làm việc",
+    "Đừng hiểu nhầm: không phải kho ký ức dài hạn"
+   ],
+   "body": "Về trí nhớ, giáo trình viết rằng mạch của **vỏ trước trán** quan trọng cho trí nhớ ngắn hạn và **trí nhớ làm việc** [S2]. Bằng chứng gồm cả động vật và người: tổn thương vùng này làm kém các nhiệm vụ cần giữ thông tin tạm thời [S2]. Vỏ trước trán không phải nơi duy nhất; một ký ức có thể được lưu ở nhiều vùng, như một bức tranh khảm, và vỏ trước ổ mắt liên quan đến ký ức cảm xúc tích cực [S2].",
+   "notes": "Giáo trình nói mạch của vỏ trước trán quan trọng cho trí nhớ ngắn hạn và trí nhớ làm việc. Dùng ví dụ nhắc ngược dãy số: để đọc ngược 7-2-9, bạn giữ cả dãy trong đầu rồi thao tác nó, và đó là việc vỏ trước trán tham gia. Nhắc người nghe rằng bằng chứng gồm cả động vật và người, nên mức chắc chắn khá cao cho vai trò này. Giáo trình cũng nhắc vỏ trước trán chỉ là một mắt xích: một ký ức có thể được lưu ở nhiều vùng, như một bức tranh khảm. Vỏ trước ổ mắt có vai trò trong ký ức cảm xúc tích cực. Chức năng điều hành nói chung đã nằm ở bài L04, đừng lặp ở đây."
+  },
+  {
+   "title": "Vỏ trước trán: vai trò trong trí nhớ",
+   "section": "Vỏ trước trán: giữ, điều khiển và kiềm chế ký ức",
+   "sources": [
+    "S2",
+    "S10",
+    "S11"
+   ],
+   "layout": "profile-card",
+   "tone": "light",
+   "bullets": [],
+   "facts": [
+    {
+     "label": "Làm gì trong trí nhớ",
+     "text": "Giữ và thao tác thông tin tạm thời; phần giữa-bụng liên quan đến nhớ sự dập tắt [S2] [S10]"
+    },
+    {
+     "label": "Bằng chứng",
+     "text": "Khỉ, bệnh nhân tổn thương (người), ghi nơron ở chuột, ảnh chụp não ở người [S2] [S10] [S11]"
+    },
+    {
+     "label": "Chất dẫn truyền chính",
+     "text": "Giáo trình mục này không nêu riêng; xem L03 và L04 [S2]"
+    },
+    {
+     "label": "Khi tổn thương",
+     "text": "Làm kém nhiệm vụ trí nhớ làm việc như nhắc ngược dãy số [S2]"
+    },
+    {
+     "label": "Đừng hiểu nhầm",
+     "text": "Không phải kho dài hạn; \"kiềm chế\" ở đây chỉ nghĩa hẹp: ức chế nỗi sợ đã học [S10]"
+    }
+   ],
+   "notes": "Thẻ có hai nửa nội dung. Nửa đầu là trí nhớ làm việc, với bằng chứng của giáo trình ở khỉ và bệnh nhân. Nửa sau là vỏ trước trán giữa-bụng trong dập tắt nỗi sợ, với bằng chứng ở chuột và ở người; slide ký ức sợ sẽ kể chi tiết. Hàng chất dẫn truyền cố ý trống nội dung: giáo trình mục này không nêu chất dẫn truyền cho vỏ trước trán, nên thẻ chỉ dẫn qua L03 và L04. Hàng đừng hiểu nhầm có hai vế: vỏ trước trán không phải kho dài hạn, và cũng không nên khái quát thành \"kiềm chế mọi ký ức không muốn\", vì các nguồn đã đọc không nói vậy."
+  },
+  {
+   "title": "Bằng chứng về vỏ trước trán",
+   "section": "Vỏ trước trán: giữ, điều khiển và kiềm chế ký ức",
+   "sources": [
+    "S2",
+    "S10",
+    "S11"
+   ],
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Khỉ: trì hoãn đáp ứng; tổn thương trước trán làm kém hơn",
+    "Người: tổn thương sau đột quỵ, u, phình mạch làm kém nhắc ngược dãy số",
+    "Sa sút trí tuệ trán–thái dương: thường khó về trí nhớ làm việc",
+    "Chuột (dập tắt): nơron infralimbic phát xung khi nhớ sự dập tắt",
+    "Người (dập tắt): vmPFC gắn với biểu hiện dập tắt ở kiểm tra trễ"
+   ],
+   "notes": "Bảng gom năm loại bằng chứng, hai nguồn khác nhau. Ba dòng đầu từ giáo trình mục 8.3 và nói về trí nhớ làm việc: nhiệm vụ trì hoãn đáp ứng ở khỉ, bệnh nhân người sau đột quỵ, u hay phình mạch, và bệnh nhân sa sút trí tuệ trán–thái dương. Hai dòng sau từ hai nghiên cứu độc lập nói về dập tắt: Milad và Quirk ở chuột, Phelps và cộng sự ở người. Nhắc rằng hai nhóm bằng chứng nói về hai việc khác nhau, nên không nên gộp thành một câu \"vỏ trước trán làm tất cả\". Cột trái nêu loài hoặc đối tượng; hỏi người nghe: bằng chứng nào là từ động vật?"
+  },
+  {
+   "title": "Vỏ trước trán trên hình",
+   "section": "Vỏ trước trán: giữ, điều khiển và kiềm chế ký ức",
+   "sources": [
+    "S2"
+   ],
+   "layout": "figure",
+   "tone": "light",
+   "bullets": [
+    "Prefrontal cortex: vỏ trước trán, màu xanh",
+    "Frontal lobe: thùy trán, nơi vỏ trước trán nằm ở phần trước"
+   ],
+   "images": [
+    {
+     "file": "images/vo-truoc-tran.png",
+     "alt": "Vỏ trước trán tô màu xanh ở phần trước thùy trán",
+     "credit": "Casey Henley, CC BY-NC-SA theo mục Media Attributions; Hove & Martinez, Hình 7 (chương 8.3)",
+     "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/8-3-brain-structures-in-memory/"
+    }
+   ],
+   "notes": "Hình 7 của giáo trình: nhìn từ ngoài, vỏ trước trán tô xanh ở phần trước thùy trán. Dùng hình để người nghe định vị trước khi đọc bằng chứng. Nhắc rằng vùng này rộng và không đồng nhất: slide này nói về vai trò trong trí nhớ làm việc và trong dập tắt nỗi sợ, nên đừng hình dung nó như một công tắc. Chi tiết về vỏ trước trán nói chung, chức năng điều hành và bán cầu đã ở bài L04. Hình do Casey Henley, giấy phép CC BY-NC-SA theo mục Media Attributions của chương giáo trình."
+  },
+  {
+   "title": "Thí nghiệm dập tắt ở chuột",
+   "section": "Ký ức sợ: học và dập tắt",
+   "sources": [
+    "S10"
+   ],
+   "layout": "sequence-diagram",
+   "tone": "dark",
+   "bullets": [
+    "Tập sợ: âm thanh ghép sốc; chuột đứng sững khi nghe âm thanh",
+    "Dập tắt: âm thanh lặp lại không sốc; đáp ứng sợ giảm dần",
+    "Hôm sau: ghi nơron infralimbic lúc chuột nhớ lại sự dập tắt",
+    "Kết quả: nơron phát xung với âm thanh chỉ khi chuột nhớ sự dập tắt",
+    "Kích thích: kích thích infralimbic kèm âm thanh làm chuột chưa dập tắt đứng sững ít"
+   ],
+   "notes": "Kể thí nghiệm của Milad và Quirk bằng năm bước. Chuột học sợ một âm thanh nhờ ghép với sốc. Sau đó âm thanh được lặp lại không sốc và đáp ứng sợ giảm; đó là dập tắt. Hôm sau các nhà nghiên cứu ghi nơron vùng infralimbic của vỏ trước trán giữa-bụng. Kết quả: nơron phát xung với âm thanh chỉ khi chuột nhớ lại sự dập tắt, và chuột đứng sững ít nhất là chuột tăng đáp ứng nhiều nhất. Cuối cùng, kích thích nhân tạo vùng này kèm âm thanh làm chuột chưa từng dập tắt cũng đứng sững ít, như thể mô phỏng ký ức dập tắt. Nhắc: đây là kết quả ở chuột, bài chỉ đọc phần tóm tắt."
+  },
+  {
+   "title": "Dập tắt là học thêm",
+   "section": "Ký ức sợ: học và dập tắt",
+   "sources": [
+    "S10"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Cách làm: lặp lại tín hiệu sợ không kèm điều đáng sợ",
+    "Giả thuyết: có từ thời Pavlov, dập tắt tạo ký ức mới",
+    "Đừng hiểu nhầm: nỗi sợ nhạt đi chưa chắc là ký ức gốc đã bị xóa"
+   ],
+   "body": "**Dập tắt** (extinction): khi âm thanh được lặp lại mà không kèm sốc, đáp ứng sợ giảm dần [S10]. Từ thời Pavlov, người ta đã giả thuyết dập tắt không xóa điều kiện hóa ban đầu mà tạo ra một **ký ức mới** [S10]. Nghiên cứu ở chuột năm 2002 cung cấp bằng chứng thần kinh phù hợp: nơron infralimbic của **vỏ trước trán** phát xung với âm thanh khi chuột nhớ sự dập tắt [S10].",
+   "notes": "Hình dung một người từng bị chó cắn rồi sợ chó. Gặp nhiều con chó hiền, nỗi sợ nhạt dần. Theo cách nhìn dập tắt là học mới, ký ức \"chó nguy hiểm\" không biến mất mà bị ký ức \"con chó này an toàn\" lấn át trong nhiều hoàn cảnh. Đây là Suy luận của người viết dựa trên giả thuyết của Pavlov mà Milad và Quirk nhắc lại; chưa ai đo trên một người cụ thể. Nhãn mức chắc chắn: giả thuyết có bằng chứng thần kinh ở chuột. Kết nối sang mục tái củng cố: nếu ký ức gốc còn, câu hỏi tiếp theo là liệu có cách sửa nó trực tiếp hay không, và đó là chỗ còn tranh luận ở người."
+  },
+  {
+   "title": "Dập tắt ở người: hạnh nhân và vmPFC",
+   "section": "Ký ức sợ: học và dập tắt",
+   "sources": [
+    "S11"
+   ],
+   "layout": "connection-diagram",
+   "tone": "dark",
+   "bullets": [
+    "Hạnh nhân: tương quan với đáp ứng sợ lúc tập sợ và đầu dập tắt",
+    "vmPFC: gắn với biểu hiện dập tắt ở kiểm tra trễ",
+    "Hai vùng nối với nhau theo mô hình động vật",
+    "Gợi ý: cơ chế có thể được bảo tồn giữa các loài"
+   ],
+   "notes": "Slide này tóm một nghiên cứu hình ảnh não ở người của Phelps và cộng sự năm 2004. Nút trung tâm là dập tắt ở người; bốn nút quanh nó. Hạnh nhân: hoạt động tương quan giữa các đối tượng với đáp ứng sợ ở lúc tập sợ và đầu giai đoạn dập tắt. Vỏ trước trán giữa-bụng, cụ thể là hồi đai trước dưới gối: chủ yếu gắn với việc biểu hiện việc học này trong bài kiểm tra trễ về dập tắt, phù hợp với vai trò giữ lại sự dập tắt. Các tác giả viết rằng cơ chế có thể được bảo tồn giữa các loài; chữ \"có thể\" quan trọng. Nhắc: tương quan trong chụp não, không phải thao tác nhân quả."
+  },
+  {
+   "title": "Dập tắt và xóa: hai việc khác nhau",
+   "section": "Ký ức sợ: học và dập tắt",
+   "sources": [
+    "S10"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Dập tắt: một ký ức mới \"tín hiệu này giờ an toàn\"; vmPFC có thể lưu nó (gợi ý từ chuột); ký ức gốc có thể còn (giả thuyết)",
+    "Xóa: ký ức gốc không còn nữa; nguồn đã đọc không chứng minh điều này cho dập tắt",
+    "Vì vậy khi nỗi sợ nhạt đi sau trị liệu, chưa chắc ký ức ban đầu đã bị xóa; việc điều trị xem L12."
+   ],
+   "notes": "Cặp đối lập cần nhớ. Dập tắt là thêm một lần học: tín hiệu cũ giờ báo an toàn. Xóa là ký ức gốc biến mất. Nguồn đã đọc, tức Milad và Quirk, ủng hộ cách nhìn thứ nhất như một giả thuyết có bằng chứng ở chuột; bài không có nguồn nào đọc được cho thấy dập tắt xóa ký ức gốc. Chỗ dễ nhầm trong đời thường: nói \"tôi hết sợ rồi\" nghe như đã xóa, trong khi theo giả thuyết thì chỉ là ký ức mới đang chiếm ưu thế. Câu cuối ở cột dưới là một hệ quả theo cách đọc này, dẫn sang L12 cho phần điều trị, nơi bài không đi vào."
+  },
+  {
+   "title": "Đừng hiểu nhầm về dập tắt",
+   "section": "Ký ức sợ: học và dập tắt",
+   "sources": [
+    "S10"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "Dập tắt không phải xóa: nó thêm một ký ức mới lên trên ký ức sợ cũ."
+   ],
+   "notes": "Một câu để mang về, kèm nhãn mức chắc chắn: đây là giả thuyết có từ thời Pavlov và có bằng chứng thần kinh ở chuột, không phải định luật. Cân nhắc cách nói với người nghe: không nói \"đã chứng minh\", mà nói \"nguồn đã đọc ủng hộ\". Câu này còn là cầu nối cho mục sau: nếu dập tắt chỉ thêm ký ức mới, thì có cách nào can thiệp thẳng vào ký ức gốc khi nó đang được nhớ lại không? Đó là câu hỏi của tái củng cố. Nhắc người học đừng lẫn hai khái niệm: dập tắt thêm, tái củng cố sửa; mỗi cái có thí nghiệm riêng và mức bằng chứng riêng."
+  },
+  {
+   "title": "Tái củng cố: ký ức tạm thời dễ sửa",
+   "section": "Tái củng cố: ký ức được nhớ lại có thể dễ sửa",
+   "sources": [
+    "S4"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Quan niệm cũ: lưu trữ đơn và tuyến tính, nhớ là lấy ra nguyên vẹn",
+    "Quan niệm mới: ký ức là sự dựng lại năng động, có thể đổi chút mỗi lần nhớ",
+    "Đừng hiểu nhầm: \"có thể\" khác \"luôn luôn\"; mức bằng chứng ở người còn tranh luận"
+   ],
+   "body": "Quan niệm cũ coi lưu trữ ký ức là một quá trình đơn và tuyến tính: mỗi lần nhớ, dấu vết gốc được lấy ra [S4]. Công trình gần đây gợi ý ký ức dễ bị đổi, nên có thể mỗi lần nhớ lại, nó thay đổi một chút: ký ức là sự **dựng lại** năng động, không phải bản ghi cố định [S4]. Quá trình đó gọi là **tái củng cố**: ký ức được kích hoạt lại tạm thời trở nên nhạy với sửa đổi [S4].",
+   "notes": "Giáo trình 8.6 nói quan niệm cũ coi mỗi lần nhớ là lấy ra dấu vết gốc, và quan niệm mới coi ký ức dễ đổi, nên mỗi lần nhớ lại, ký ức có thể thay đổi một chút. Định nghĩa của giáo trình: tái củng cố là quá trình ký ức được kích hoạt lại trở nên nhạy với sửa đổi trong một thời gian ngắn. Chỗ dễ nhầm cần nói rõ: giáo trình dùng chữ \"có thể\", không viết rằng mỗi lần nhớ là sửa. Thí nghiệm gốc ở chuột đến từ Nader, Schafe và LeDoux; ở người bằng chứng còn tranh luận, và các slide sau đi từng bài một. Ví dụ của người viết: kể một kỷ niệm nhiều lần cho nhiều người, chi tiết có thể trôi dần; cách giải thích này là suy luận, chưa phải điều nguồn đã đo."
+  },
+  {
+   "title": "Thí nghiệm gốc ở chuột",
+   "section": "Tái củng cố: ký ức được nhớ lại có thể dễ sửa",
+   "sources": [
+    "S12"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Học: âm thanh ghép sốc; ký ức sợ được củng cố",
+    "Nhắc lại: kích hoạt ký ức (sau 1 hoặc 14 ngày)",
+    "Can thiệp: tiêm anisomycin vào hạnh nhân ngay sau đó",
+    "Thử lại: chuột mất ký ức sợ; không nhắc lại thì ký ức còn nguyên"
+   ],
+   "notes": "Thí nghiệm của Nader, Schafe và LeDoux năm 2000, ở chuột, theo bốn bước. Anisomycin là chất ức chế tổng hợp protein, tiêm vào các nhân bên và nhân đáy của hạnh nhân. Tiêm ngay sau huấn luyện thì ngăn củng cố. Phát hiện mới: ký ức đã củng cố, khi được kích hoạt lại, tiêm anisomycin ngay sau đó thì chuột mất trí nhớ ở lần thử sau, bất kể nhắc lại sau 1 hay 14 ngày. Hai đối chứng quan trọng: không nhắc lại thì thuốc không làm mất ký ức, và nếu hoãn tiêm đến 6 giờ sau khi nhắc lại thì không mất. Nhắc rõ: đây là chuột, tiêm thuốc trực tiếp vào não, không thể dùng cho người."
+  },
+  {
+   "title": "Mốc bằng chứng về tái củng cố",
+   "section": "Tái củng cố: ký ức được nhớ lại có thể dễ sửa",
+   "sources": [
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S18"
+   ],
+   "layout": "timeline",
+   "tone": "light",
+   "bullets": [
+    "2000: Nader, Schafe, LeDoux, ở chuột: thuốc sau nhắc lại gây mất ký ức sợ",
+    "2009: Kindt và cộng sự: propranolol trước nhắc lại, ở người",
+    "12/2009: Schiller và cộng sự: dập tắt trong cửa sổ tái củng cố, ở người",
+    "2018: Schiller và cộng sự đăng addendum về tiêu chí loại người",
+    "2020: Chalkia và cộng sự: kiểm chứng bài Schiller, kết quả không còn khi loại người có nguyên tắc",
+    "2010 và 2022: Muravieva và Alberini (chuột); Pigeon và cộng sự (phân tích gộp ở người)"
+   ],
+   "notes": "Năm mốc xếp theo thời gian. Mốc 2000 là thí nghiệm gốc ở chuột. Năm 2009 có hai bài ở người: bài của Kindt dùng thuốc propranolol, ra trước vào tháng 2; bài của Schiller dùng kỹ thuật không xâm lấn, đăng trực tuyến tháng 12 và thường được dẫn là bài 2010. Năm 2018, chính nhóm Schiller đăng addendum mô tả đầy đủ hơn tiêu chí loại người tham gia. Năm 2020, Chalkia và cộng sự công bố báo cáo kiểm chứng. Nhấn mạnh rằng dòng thời gian cho thấy tranh luận, không cho thấy ai đúng: nhãn của cả phần này là đang tranh luận, chưa kết luận chắc."
+  },
+  {
+   "title": "Schiller (2009 trực tuyến) và Chalkia (2020)",
+   "section": "Tái củng cố: ký ức được nhớ lại có thể dễ sửa",
+   "sources": [
+    "S13",
+    "S14"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Schiller (2009 trực tuyến): dập tắt trong cửa sổ tái củng cố, sợ không còn biểu hiện ít nhất một năm, chọn lọc với ký ức được nhắc",
+    "Chalkia: khác biệt phụ thuộc vào loại người định tính; loại có nguyên tắc thì sợ trở lại gần như giống nhau ở hai nhóm",
+    "Addendum 2018: tác giả gốc mô tả đầy đủ hơn việc loại người, dựa trên đánh giá định tính từng lần thử đáp ứng điện da."
+   ],
+   "notes": "Đây là phần cần đọc chậm nhất. Cột trái: kết quả Schiller báo cáo, theo phần tóm tắt, là đáp ứng sợ không còn biểu hiện, kéo dài ít nhất một năm và chỉ với ký ức được nhắc. Cột phải: Chalkia và cộng sự cho biết họ phát hiện tiêu chí loại người bị khai sai, quyết định định tính của người làm thí nghiệm thực tế quyết định ai được giữ, và phân tích thống kê không nhất quán; sau khi nhận dữ liệu gốc và phân tích lại, mọi khác biệt phụ thuộc vào các loại trừ đó. Ở Thí nghiệm 2, kiểm chứng không xác nhận. Dòng dưới là addendum của chính nhóm Schiller. Công bằng: Chalkia kiểm chứng một nghiên cứu, không tuyên bố tái củng cố không tồn tại."
+  },
+  {
+   "title": "Propranolol và tái củng cố ở người",
+   "section": "Tái củng cố: ký ức được nhớ lại có thể dễ sửa",
+   "sources": [
+    "S15",
+    "S18"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Thiết kế (Kindt): uống propranolol trước khi kích hoạt lại ký ức sợ",
+    "Pigeon (2022): phân tích gộp thấy giảm nhớ lại; tác giả cuối là Brunet",
+    "Muravieva & Alberini (2010): ở chuột, hiệu quả bị hạn chế"
+   ],
+   "body": "Kindt, Soeter và Vervliet (2009) dùng thuốc: theo các tác giả, uống **propranolol** trước khi kích hoạt lại ký ức ở người đã xóa biểu hiện hành vi của ký ức sợ sau 24 giờ và ngăn sợ trở lại [S15]. Thử lặp lại cho kết quả **không đồng nhất**: phân tích gộp 14 nghiên cứu ở người khỏe mạnh thấy hiệu ứng (g = −0,51), tác giả cuối là Brunet; nghiên cứu ở chuột thấy hiệu quả bị hạn chế [S18].",
+   "notes": "Hướng của Kindt, Soeter và Vervliet khác Schiller ở chỗ dùng thuốc: propranolol, chất chẹn thụ thể beta-adrenergic, uống trước khi nhắc lại ký ức. Theo các tác giả, biểu hiện hành vi của ký ức sợ biến mất sau 24 giờ và sợ không trở lại. Sau đó có thử lặp lại với kết quả không đồng nhất. Pigeon và cộng sự gộp 14 nghiên cứu ở người khỏe mạnh và gọi hiện tượng là vững; nhưng tác giả cuối là Brunet, và tôi chưa tự kiểm họ có độc lập với hướng nghiên cứu hay không, nên đó là quan điểm của chính họ. Muravieva và Alberini, ở chuột, thấy propranolol phá tái củng cố điều kiện hóa Pavlov nhưng không phá ký ức né tránh. Liên hệ mục hạnh nhân: Cahill cũng dùng propranolol, trong thí nghiệm khác về trí nhớ truyện xúc động."
+  },
+  {
+   "title": "Ở người: còn tranh luận",
+   "section": "Tái củng cố: ký ức được nhớ lại có thể dễ sửa",
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S18"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "Tái củng cố ở người: bằng chứng còn tranh luận, chưa kết luận chắc."
+   ],
+   "notes": "Một câu tóm cả mục, kèm nhãn mức chắc chắn là đang tranh luận. Ghi chú của người viết, cũng là Suy luận của người viết dựa trên ba phần tóm tắt và một addendum: kết quả của Schiller năm 2010 bị đặt dấu hỏi nghiêm trọng, hướng propranolol có thêm bằng chứng nhưng không đồng nhất, và câu hỏi tổng quát liệu tái củng cố có dùng được để sửa ký ức sợ ở người hay chưa vẫn chưa có đáp án chắc. Không dùng slide này để kết luận về điều trị; bài nhằm hiểu cơ chế."
+  },
+  {
+   "title": "Ký ức chói là gì",
+   "section": "Ký ức chói: sống động không có nghĩa là chính xác",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Thuật ngữ: thường dẫn là của Brown và Kulik, 1977 (chưa đọc bài)",
+    "Khung của người viết: sống động, tự tin, nhất quán",
+    "Đừng hiểu nhầm: ký ức chói không phải ghi hình chính xác"
+   ],
+   "body": "Thuật ngữ **ký ức chói** (flashbulb memory) thường được dẫn là của Brown và Kulik (1977); tôi chỉ kiểm tiêu đề, chưa đọc bài. Nó chỉ ký ức rất sống động về hoàn cảnh nghe một tin sốc. Khung ba thứ là của người viết: độ **sống động**, mức **tự tin**, và độ **nhất quán** với điều chính người đó đã ghi sớm sau sự kiện. Hai nghiên cứu theo dõi vụ 11/9 cho thấy sống động và tự tin không đi cùng nhất quán [S16] [S17].",
+   "notes": "Hình dung một tin lớn mà ai cũng nhớ mình đang ở đâu khi nghe: đó là ký ức về hoàn cảnh nghe tin, không phải ký ức về chính sự kiện. Thuật ngữ thường được dẫn là của Brown và Kulik (1977); tôi chưa đọc bài đó nên không trích kết luận của họ. Phần chính của mục dựa vào hai nghiên cứu theo dõi 11/9. Bài tách ba thứ vốn hay bị gộp: cảm giác sống động, mức tự tin, và mức chính xác, tức độ nhất quán với báo cáo ban đầu. Chỗ dễ nhầm: người ta thường lấy hai thứ đầu làm bằng chứng của thứ ba, và các nghiên cứu cho thấy chúng không đi cùng nhau."
+  },
+  {
+   "title": "Hai nghiên cứu theo dõi sự kiện 11/9",
+   "section": "Ký ức chói: sống động không có nghĩa là chính xác",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "layout": "timeline",
+   "tone": "dark",
+   "bullets": [
+    "12/9/2001: Talarico và Rubin: 54 sinh viên Duke ghi lại ký ức nghe tin",
+    "1, 6, 32 tuần sau: kiểm tra lại các sinh viên đó",
+    "Trong tuần đầu: bảng hỏi đầu tiên của Hirst và cộng sự",
+    "11, 25, 119 tháng sau: khảo sát lại (Hirst và cộng sự)",
+    "Sau mười năm: sự tự tin vẫn cao; không yếu tố nào dự báo độ nhất quán"
+   ],
+   "notes": "Hai nghiên cứu cùng đo ký ức về vụ 11/9 nhưng khác quy mô và khoảng thời gian. Talarico và Rubin: ngày 12/9/2001, 54 sinh viên Duke ghi lại ký ức lúc nghe tin và ký ức về một sự kiện đời thường gần đây; kiểm tra lại sau 1, 6 hoặc 32 tuần. Hirst và cộng sự: một liên nhóm nghiên cứu gửi bảng hỏi trong vòng một tuần, rồi khảo sát lại sau 11, 25 và 119 tháng, nghĩa là gần mười năm. Điểm mạnh chung là có báo cáo sớm để so sánh. Giới hạn là chúng chỉ đo ký ức về hoàn cảnh nghe tin, nên không thể mở rộng ra mọi ký ức cảm xúc."
+  },
+  {
+   "title": "Ba thứ, hai nghiên cứu",
+   "section": "Ký ức chói: sống động không có nghĩa là chính xác",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "layout": "lookup-table",
+   "tone": "light",
+   "bullets": [
+    "Sống động (Talarico): giảm ở ký ức đời thường, không giảm ở ký ức chói",
+    "Tự tin (Hirst): vẫn cao suốt mười năm dù quên nhanh năm đầu",
+    "Nhất quán (Talarico): không khác ký ức đời thường; cả hai giảm",
+    "Nhất quán (Hirst): ký ức sự kiện sai dễ được sửa hơn ký ức chói sai"
+   ],
+   "notes": "Mỗi hàng cho một trục và một nghiên cứu. Sống động: trong Talarico và Rubin, điểm tự đánh giá về độ sống động, mức nhớ lại và niềm tin ký ức chính xác chỉ giảm với ký ức đời thường, không giảm với ký ức chói. Tự tin: Hirst thấy sự tự tin vẫn cao suốt mười năm dù quên rất nhanh trong năm đầu. Chính xác, đo bằng nhất quán: Talarico thấy nhất quán của ký ức chói và ký ức đời thường không khác nhau, cả hai giảm. Hirst thấy ký ức chói không nhất quán có xu hướng được lặp lại hơn là được sửa, còn ký ức sự kiện sai thì dễ được sửa hơn. Kết luận của Talarico: đặc biệt về độ chính xác cảm nhận, không phải độ chính xác."
+  },
+  {
+   "title": "Sống động và nhất quán là hai việc khác nhau",
+   "section": "Ký ức chói: sống động không có nghĩa là chính xác",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "dark",
+   "bullets": [
+    "Sống động và tự tin: là cảm giác của người nhớ; Talarico: không giảm theo thời gian ở ký ức chói; Hirst: cao suốt mười năm",
+    "Nhất quán: so với báo cáo đầu của chính người đó; Talarico: giảm như ký ức thường; Hirst: cường độ cảm xúc không dự báo độ nhất quán",
+    "Hai nghiên cứu theo dõi dọc, đo ký ức về hoàn cảnh nghe tin; từ đó không suy ra ký ức cảm xúc luôn kém chính xác."
+   ],
+   "notes": "Slide cặp đối lập chính của mục. Cột trái là thứ ta cảm nhận được từ bên trong: sống động và tự tin. Cột phải là thứ phải kiểm bằng cách so với báo cáo đầu hoặc sự thật: độ chính xác, thường đo qua độ nhất quán. Ghi chú phương pháp của người viết: vì cả hai là nghiên cứu theo dõi có báo cáo sớm, nên chính xác thực chất là nhất quán với báo cáo ban đầu; riêng Hirst còn đo độ chính xác của dữ kiện sự kiện. Dòng cuối là giới hạn cần nhớ: từ hai nghiên cứu này không suy ra ký ức cảm xúc luôn kém chính xác, vì chúng đo ký ức về hoàn cảnh nghe tin, không đo mọi loại ký ức cảm xúc."
+  },
+  {
+   "title": "Đừng hiểu nhầm về ký ức chói",
+   "section": "Ký ức chói: sống động không có nghĩa là chính xác",
+   "sources": [
+    "S3",
+    "S5",
+    "S16",
+    "S17"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Sống động và tự tin không bảo đảm nhất quán: ký ức chói không phải ghi hình chính xác."
+   ],
+   "notes": "Câu để mang về. Nối lại với cơ chế ở các mục trước, và đánh dấu đây là Suy luận của người viết: cảm xúc làm tăng ưu tiên khi mã hóa và củng cố, nên có thể giải thích vì sao ký ức đáng nhớ hơn và có vẻ rõ hơn; nhưng các nguồn về 11/9 cho thấy nhớ rõ và tự tin không bảo đảm nhớ đúng. Cũng nhớ quy tắc của bài: không nguồn nào ở đây nói hạnh nhân hay ký ức chói ghi hình chính xác, nên bài không viết như vậy. Ví dụ của người viết: hai người cùng nhớ sống động về cùng một khoảnh khắc, nhưng kể khác nhau về chi tiết; cả hai đều tự tin, và cả hai điều đó có thể đồng thời đúng."
+  },
+  {
+   "title": "Từ cảm xúc mạnh đến ký ức dai dẳng",
+   "section": "Căng thẳng và sang chấn trong trí nhớ",
+   "sources": [
+    "S2",
+    "S5",
+    "S6"
+   ],
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Sự kiện xúc động: hormone căng thẳng và noradrenaline tăng",
+    "Hạnh nhân (BLA): điều biến củng cố ký ức ở nơi khác",
+    "Ký ức cảm xúc được nhớ mạnh, thường có lợi",
+    "Căng thẳng nặng hoặc mãn tính: có thể giữ ký ức sang chấn, lo âu mạn"
+   ],
+   "notes": "Chuỗi bốn bước nối cơ chế trí nhớ với căng thẳng. Hai hộp đầu lặp lại điều đã học ở mục hạnh nhân. Hộp thứ ba là mặt thích nghi: nhớ kỹ điều đe dọa giúp tránh nó về sau. Hộp cuối là mặt có thể thành bất lợi, theo Roozendaal, McEwen và Chattarji: mã hóa hiệu quả ký ức cảm xúc có thể thành bất lợi, vì căng thẳng nặng thường biến chúng thành nguồn lo âu mạn tính. Giáo trình nói tương tự về noradrenaline và PTSD. Nhắc người nghe: trục HPA, cortisol và căng thẳng mãn tính là nội dung của L05; PTSD và các rối loạn lo âu ở L12. Ở đây chỉ nối vào cơ chế trí nhớ."
+  },
+  {
+   "title": "Căng thẳng và ký ức cảm xúc",
+   "section": "Căng thẳng và sang chấn trong trí nhớ",
+   "sources": [
+    "S2",
+    "S5",
+    "S6",
+    "S16"
+   ],
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Cơ chế: hormone căng thẳng và noradrenaline làm việc ở hạnh nhân",
+    "Mức bằng chứng: tổng quan; phần lớn cơ chế từ động vật",
+    "Đừng hiểu nhầm: bài giải thích cơ chế, không phải lời khuyên y tế; xem L12"
+   ],
+   "body": "Theo Roozendaal, McEwen và Chattarji, trải nghiệm xúc động thường được nhớ tốt và **hạnh nhân** đóng vai trò then chốt, nhưng việc mã hóa hiệu quả đó có thể thành bất lợi: căng thẳng nặng thường biến chúng thành nguồn **lo âu mạn tính** [S6]. Giáo trình nói tương tự về noradrenaline và việc giữ ký ức sang chấn như trong PTSD [S2]. Bài này nhằm hiểu cơ chế, không phải lời khuyên y tế; chi tiết ở L12.",
+   "notes": "Mục này cần cẩn thận về giọng. Roozendaal và cộng sự viết về tính mềm dẻo do căng thẳng ở hạnh nhân, từ cơ chế tế bào đến hậu quả hành vi; giáo trình nói noradrenaline thường giúp tạo ký ức cảm xúc mạnh, nhưng dưới căng thẳng sang chấn hoặc mãn tính có thể góp phần vào lo âu và việc giữ ký ức sang chấn như trong PTSD. McGaugh nêu hormone căng thẳng thượng thận là một yếu tố mà hạnh nhân làm trung gian, ở động vật. Ở người, nghiên cứu sinh viên Duke thấy cảm xúc nội tạng ban đầu dự báo triệu chứng PTSD về sau: một tương quan trong một nhóm sinh viên, không phải chẩn đoán hay nhân quả. Nhấn một câu: bài này nhằm hiểu cơ chế, không phải lời khuyên y tế."
+  },
+  {
+   "title": "Ba điều rút ra từ cơ chế",
+   "section": "Căng thẳng và sang chấn trong trí nhớ",
+   "sources": [
+    "S2",
+    "S4",
+    "S6",
+    "S14",
+    "S15",
+    "S16"
+   ],
+   "layout": "numbered-rows",
+   "tone": "dark",
+   "bullets": [
+    "Cơ chế cùng giúp nhớ điều quan trọng và có thể giữ ký ức sang chấn",
+    "Ở người, cảm xúc ban đầu mạnh dự báo triệu chứng PTSD về sau trong nhóm sinh viên Duke",
+    "Hướng sửa ký ức bằng tái củng cố hay tái hoạt hóa khi ngủ: kết quả còn tranh luận hoặc lẫn lộn"
+   ],
+   "notes": "Ba hàng, mỗi hàng gắn một nguồn, và hàng nào cũng có giới hạn. Hàng một: giáo trình nói cơ chế noradrenaline thường giúp tạo ký ức mạnh nhưng dưới căng thẳng sang chấn có thể giữ ký ức sang chấn; đây là mức giáo khoa kèm tổng quan. Hàng hai: kết quả từ Talarico và Rubin là một tương quan trong một nhóm sinh viên, nên không dùng làm cơ sở cho nhận định về cá nhân. Hàng ba: tái củng cố ở người còn tranh luận, tái hoạt hóa có đích cho ký ức cảm xúc lẫn lộn theo giáo trình. Nhắc lại câu bài đã nêu: nhằm hiểu cơ chế, không phải lời khuyên y tế; mọi chuyện về rối loạn để L12."
+  },
+  {
+   "title": "Sáu hiểu lầm và điều nguồn nói",
+   "section": "Những hiểu lầm thường gặp",
+   "sources": [
+    "S3",
+    "S4",
+    "S5",
+    "S8",
+    "S10",
+    "S14",
+    "S16",
+    "S17"
+   ],
+   "layout": "lookup-table",
+   "tone": "light",
+   "bullets": [
+    "Hạnh nhân là kho: chủ yếu điều biến củng cố; với ký ức sợ ở chuột có thể cũng giữ một phần",
+    "Hải mã giữ mãi: mô hình chuẩn nói ký ức dần dựa vào vỏ não",
+    "Nhớ là phát băng: giáo trình mô tả dựng lại; ở người còn tranh luận",
+    "Dập tắt là xóa: giả thuyết nói nó thêm ký ức mới",
+    "Ký ức chói chính xác: sống động và tự tin tách khỏi nhất quán",
+    "Tái củng cố đã chữa được: bài gốc bị đặt dấu hỏi"
+   ],
+   "notes": "Sáu hiểu lầm, mỗi cái đã nói ở mục tương ứng, gom lại thành bảng để ôn. Hạnh nhân là bộ điều chỉnh, không phải kho. Hải mã là bước đầu theo một mô hình chiếm ưu thế, không phải kho vĩnh viễn, và là một mô hình chứ không phải sự thật cuối cùng. Nhớ lại có thể làm ký ức thay đổi, theo cách nhìn trong giáo trình, nhưng chữ là có thể. Dập tắt là giả thuyết thêm ký ức mới. Ký ức chói tách ba thứ. Tái củng cố ở người đang tranh luận. Yêu cầu người học chọn một hiểu lầm mà họ từng tin trước bài, rồi nói điều nguồn thật sự nói."
+  },
+  {
+   "title": "Hiểu lầm chung: ba cấu trúc, ba vai trò",
+   "section": "Những hiểu lầm thường gặp",
+   "sources": [
+    "S2",
+    "S3",
+    "S5",
+    "S10"
+   ],
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Hạnh nhân: chủ yếu là bộ điều chỉnh",
+    "Hải mã: buộc các mảnh lại lúc đầu",
+    "Vỏ trước trán: giữ tạm và nhớ sự dập tắt"
+   ],
+   "notes": "Gom ba cấu trúc của tiêu đề bài vào ba thẻ ngắn. Hạnh nhân điều biến độ mạnh củng cố của ký ức cảm xúc ở nơi khác. Hải mã buộc các mảnh của một trải nghiệm lại lúc đầu, và theo mô hình chuẩn ký ức dần ít phụ thuộc vào nó. Vỏ trước trán giữ thông tin tạm thời trong trí nhớ làm việc, và phần giữa-bụng liên quan đến nhớ điều đã dập tắt. Cách nói gọn này là của người viết; mỗi ý đã có nguồn ở mục tương ứng. Hiểu lầm chung cần phá: một cấu trúc, một việc, hoặc cấu trúc nào đó là nơi ký ức nằm. Giáo trình nói một ký ức có thể được lưu ở nhiều vùng, như một bức tranh khảm."
+  },
+  {
+   "title": "Nhớ rõ chưa chắc nhớ đúng",
+   "section": "Những hiểu lầm thường gặp",
+   "sources": [
+    "S16",
+    "S17"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "light",
+   "bullets": [
+    "Nhớ rõ chưa chắc là nhớ đúng: sống động, tự tin và chính xác là ba thứ khác nhau."
+   ],
+   "notes": "Trở về câu hỏi đầu bài. Lần suýt tai nạn được nhớ rõ vì cảm xúc ưu tiên mã hóa và củng cố; nhưng độ rõ, độ tự tin và độ đúng là ba thứ riêng. Talarico và Rubin thấy ký ức chói không nhất quán hơn ký ức đời thường, dù điểm sống động và niềm tin vào ký ức chỉ giảm ở ký ức đời thường; Hirst thấy sự tự tin vẫn cao suốt mười năm trong khi ký ức bị quên nhanh ở năm đầu. Một thói quen đáng giữ: khi nhớ rất rõ điều gì quan trọng, nếu cần dùng nó làm bằng chứng, hãy tìm bản ghi đối chiếu. Đây là gợi ý chung của người viết, không phải lời khuyên y tế hay pháp lý, và không phải kết luận của các nghiên cứu."
+  },
+  {
+   "title": "Tám điều cần nhớ",
+   "section": "Điều cần nhớ",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S10",
+    "S16"
+   ],
+   "layout": "numbered-rows",
+   "tone": "dark",
+   "bullets": [
+    "Trí nhớ có nhiều loại; một ký ức đi qua mã hóa, củng cố, truy xuất",
+    "Hạnh nhân chủ yếu điều biến củng cố; thuốc chẹn beta làm giảm nhớ truyện xúc động",
+    "Mô hình chuẩn: hải mã buộc lại lúc đầu, về sau ký ức dựa vào vỏ não",
+    "Dập tắt là học thêm, không phải xóa; vỏ trước trán giữa-bụng liên quan",
+    "Tái củng cố: chuột có thí nghiệm gốc; ở người còn tranh luận",
+    "Ký ức chói: sống động và tự tin, nhưng không chắc chính xác"
+   ],
+   "notes": "Sáu hàng cho tám ý, vì hai ý còn lại nằm trong lesson.md: tái hoạt hóa khi ngủ là cơ chế được cho là then chốt của củng cố, và bài nhằm hiểu cơ chế, không phải lời khuyên y tế (rối loạn ở L12). Đi theo thứ tự đường đi của một ký ức: các loại và ba giai đoạn; hạnh nhân điều biến củng cố; mô hình chuẩn của hải mã; dập tắt; tái củng cố; ký ức chói. Với mỗi hàng, hỏi người học nhãn mức chắc chắn của nó: giáo khoa, đang tranh luận hay suy luận. Đây cũng là cách ôn tốt nhất cho bài, vì nó buộc phân biệt cái đã chắc với cái còn mở."
+  },
+  {
+   "title": "Nguồn tham khảo",
+   "section": "Nguồn tham khảo",
+   "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "layout": "references",
+   "tone": "dark",
+   "bullets": [
+    "S1: Hove & Martinez, Biological Psychology, mục 8.2 Types of Memory",
+    "S2: Hove & Martinez, mục 8.3 Brain Structures in Memory",
+    "S3: Hove & Martinez, mục 8.5 Stages of Memory",
+    "S4: Hove & Martinez, mục 8.6 Memory Reconsolidation",
+    "S5: McGaugh, The amygdala modulates the consolidation of memories, Annu Rev Neurosci, 2004",
+    "S6: Roozendaal, McEwen, Chattarji, Stress, memory and the amygdala, Nat Rev Neurosci, 2009",
+    "S7: Phelps, Human emotion and memory: amygdala and hippocampal complex, Curr Opin Neurobiol, 2004",
+    "S8: Frankland & Bontempi, The organization of recent and remote memories, 2005",
+    "S9: Cahill và cộng sự, β-adrenergic activation and memory for emotional events, Nature, 1994",
+    "S10: Milad & Quirk, Neurons in medial prefrontal cortex signal memory for fear extinction, 2002",
+    "S11: Phelps và cộng sự, Extinction learning in humans, Neuron, 2004",
+    "S12: Nader, Schafe, LeDoux, Fear memories require protein synthesis, Nature, 2000",
+    "S13: Schiller và cộng sự, Preventing the return of fear in humans, Nature, 2009; addendum 2018",
+    "S14: Chalkia và cộng sự, verification report of Schiller et al., Cortex, 2020",
+    "S15: Kindt, Soeter, Vervliet, Beyond extinction, Nat Neurosci, 2009",
+    "S16: Talarico & Rubin, Confidence, not consistency, characterizes flashbulb memories, 2003",
+    "S17: Hirst và cộng sự, ten-year follow-up of memory for September 11, JEP: General, 2015",
+    "S18: Pigeon và cộng sự, phân tích gộp propranolol, 2022; Muravieva & Alberini, 2010"
+   ],
+   "notes": "Đường dẫn đầy đủ của 18 nguồn nằm ở mục Nguồn tham khảo của lesson.md. Bốn nguồn đầu là bốn chương giáo trình Biological Psychology, đã đọc toàn văn. Từ S5 trở đi là nguồn gốc độc lập, kiểm bằng Crossref và đọc phần tóm tắt qua Europe PMC; addendum trong S13 được đọc trên trang của Nature, và S18 gồm hai bài (phân tích gộp 2022, nghiên cứu ở chuột 2010). Không nguồn nào được trích kèm số liệu hay kết luận ngoài những gì đã đọc ở phần tóm tắt hoặc toàn văn."
+  }
+ ]
+}

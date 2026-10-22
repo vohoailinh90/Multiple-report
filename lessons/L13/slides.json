@@ -1,0 +1,911 @@
+{
+  "title": "Thuốc và chất tác động lên chất dẫn truyền",
+  "subtitle": "Sức khỏe · Bài L13",
+  "slides": [
+    {
+      "title": "Câu hỏi của bài",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1"
+      ],
+      "layout": "one-highlighted-sentence",
+      "bullets": [
+        "Cùng một synapse, vì sao rượu làm buồn ngủ, cà phê làm tỉnh, còn cần sa và thuốc phiện đổi tín hiệu theo những đường khác hẳn?"
+      ],
+      "notes": "Mở bài bằng câu hỏi thay vì danh sách chất. Người nghe thường nghĩ mỗi chất tác động lên não theo một kiểu chung chung là làm chậm hoặc làm nhanh. Câu trả lời của bài là cơ chế: mỗi chất khớp vào một chỗ khác nhau trên hệ chất dẫn truyền, nên kết quả khác nhau dù cùng một synapse. Nhắc rõ quy ước của bài: chỉ nói nhóm chất và cơ chế, không nói liều, cách dùng hay tình trạng pháp lý, và không xếp chất nào nguy hiểm hơn. Từ vựng như chất chủ vận, chất đối kháng đã có ở L03, nơron và synapse ở L02; bài này chỉ nhắc một câu rồi dẫn.",
+      "tone": "dark"
+    },
+    {
+      "title": "Bốn chất, bốn ổ khóa",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S12"
+      ],
+      "layout": "card-grid",
+      "bullets": [
+        "Rượu: gắn vào thụ thể GABA và NMDA",
+        "Caffeine: chiếm chỗ thụ thể adenosine",
+        "Cần sa: THC gắn vào thụ thể CB1",
+        "Opioid: gắn vào thụ thể mu, delta, kappa"
+      ],
+      "notes": "Bản đồ của bài trong một slide: bốn chất là bốn chất của giáo trình 5.5. Hình dung mỗi thụ thể là một ổ khóa, mỗi chất là một chìa khác nhau. Giáo trình nêu rượu tác động lên nhiều đích; bài chỉ theo hai đích rõ nhất là GABA và NMDA. Caffeine không mở ổ khóa mà đứng chắn trước nó. THC gắn vào ổ khóa vốn dành cho anandamide, một phân tử cơ thể tự tạo. Opioid gắn vào ổ khóa dành cho opioid nội sinh. Nicotine, cocaine, amphetamine, MDMA và benzodiazepine không có hồ sơ riêng ở đây; giáo trình chỉ nói trang gốc có hoạt hình cho chúng. Mỗi chất sẽ được viết theo cùng một thẻ bảy ý.",
+      "tone": "light"
+    },
+    {
+      "title": "Ba ý đi suốt bài",
+      "section": "Tóm tắt",
+      "sources": [
+        "S1",
+        "S5",
+        "S6",
+        "S12",
+        "S13",
+        "S15"
+      ],
+      "layout": "numbered-rows",
+      "bullets": [
+        "Bốn chất, bốn đích khác nhau trên synapse",
+        "Mạch thưởng là chung nhưng không giống hệt nhau",
+        "Dùng lâu thì não thích nghi; dung nạp, lệ thuộc thể chất, hội chứng cai và rối loạn sử dụng chất là bốn khái niệm khác nhau"
+      ],
+      "notes": "Ba ý này quay lại ở cuối bài. Ý thứ hai là chỗ dễ nói quá: nhiều người nhớ câu mọi chất gây nghiện đều làm tăng dopamine. Bằng chứng kinh điển là ở chuột và cho nhiều chất, nhưng cơ chế đi đến dopamine khác nhau từng chất, và với caffeine bằng chứng ở chuột và người còn lệch nhau. Ý thứ ba có bốn khái niệm và là chỗ dễ nhầm trong đời thường: một người có thể lệ thuộc thể chất mà không có rối loạn sử dụng chất. Hãy nói trước rằng mỗi khẳng định trong bài được gắn nhãn giáo khoa, đang tranh luận hay suy luận của người viết, để người học biết mình đang đứng trên nền nào.",
+      "tone": "dark"
+    },
+    {
+      "title": "Từ đường vào đến chuyển hóa",
+      "section": "Chất đến được synapse thế nào và tác động ra sao",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "layout": "flow",
+      "bullets": [
+        "Đường vào: uống, hít hoặc tiêm; nhanh hay chậm",
+        "Máu: chở chất đến mọi nơi, kể cả não",
+        "Não: chất tìm đến đích (thụ thể, enzyme, kênh)",
+        "Synapse: tín hiệu đổi, hoạt động nơron đổi",
+        "Gan: enzyme phân giải; một số chất làm gan tạo thêm enzyme"
+      ],
+      "notes": "Đi theo năm hộp từ trái sang phải. Chất vào cơ thể bằng một đường nào đó, vào máu, tới não, gắn vào đích và đổi tín hiệu synapse, rồi gan phân giải. Ví dụ của người viết: coi cơ thể như hệ thống đường ống, đường vào quyết định chất đến não nhanh hay chậm. Giáo trình nói phần lớn chất tác động lên tâm thần đến não theo đường máu. Chỗ dễ nhầm: gan không chỉ dọn dẹp, vì một số chất, trong đó có rượu, làm gan tạo thêm enzyme, khiến lần sau chất bị phân giải nhanh hơn. Đó là một dạng dung nạp, nhưng xảy ra ở gan chứ chưa phải ở nơron.",
+      "tone": "light"
+    },
+    {
+      "title": "Đường vào quyết định tốc độ",
+      "section": "Chất đến được synapse thế nào và tác động ra sao",
+      "sources": [
+        "S1",
+        "S2",
+        "S13"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Rượu: từ đường tiêu hóa vào máu, lên não trong vài phút",
+        "Mức bằng chứng: giáo khoa"
+      ],
+      "body": "**Dược động học** (pharmacokinetics) gồm bốn việc: hấp thu, phân bố, chuyển hóa, đào thải [S2]. Phần lớn chất tác động lên tâm thần đến não theo đường máu; đường uống chậm và hay thay đổi, còn hít hoặc tiêm vào tĩnh mạch đưa chất lên não trong chưa đến 10 giây [S2]. Tốc độ quan trọng: chất vừa kích hoạt mạch thưởng vừa lên não rất nhanh thì **nguy cơ lạm dụng** cao hơn, và cả những tín hiệu đi kèm cũng thành thứ gây thèm [S2] [S13].",
+      "notes": "Từ chỗ này trở đi chỉ cần nhớ một nguyên tắc: tốc độ lên não quan trọng, không chỉ bản thân phân tử. Giáo trình nêu đường uống là phổ biến nhưng chậm và hay thay đổi vì thức ăn ảnh hưởng hấp thu; hít và tiêm vào tĩnh mạch đưa chất lên não trong chưa đến 10 giây. Một chất vừa kích hoạt mạch thưởng vừa lên não rất nhanh thì nguy cơ lạm dụng cao hơn. Chi tiết thú vị là những tín hiệu đi kèm cũng thành thứ gây thèm, ví dụ một thói quen đi kèm việc dùng chất. Slide này không mô tả cách dùng; nó chỉ cho thấy vì sao hai chất cùng đích có thể có nguy cơ khác nhau.",
+      "tone": "dark"
+    },
+    {
+      "title": "ADME: bốn việc cơ thể làm với một chất",
+      "section": "Chất đến được synapse thế nào và tác động ra sao",
+      "sources": [
+        "S2"
+      ],
+      "layout": "lookup-table",
+      "bullets": [
+        "Absorption, hấp thu: chất vào máu bằng cách nào",
+        "Distribution, phân bố: chất đến cơ quan đích, ở đây là não",
+        "Metabolism, chuyển hóa: gan phân giải, nhiều chất dùng chung họ enzyme P450",
+        "Excretion, đào thải: chất rời khỏi cơ thể"
+      ],
+      "notes": "Bốn chữ ADME là khung để nhớ. Hấp thu là chất vào máu; phân bố là chất đến cơ quan đích; chuyển hóa là phân giải để chất hết tác dụng; đào thải là rời khỏi cơ thể. Điểm đáng nhớ nhất là chuyển hóa: không có một enzyme riêng cho mỗi chất, nhiều chất tác động lên tâm thần cùng được phân giải bởi họ enzyme cytochrome P450. Giáo trình còn nhắc rằng một số chất gây cảm ứng enzyme, tức gan tạo thêm enzyme nên chất bị phân giải nhanh hơn; rượu là ví dụ. Đó là dung nạp chuyển hóa. Bài không đi sâu hơn: chỉ cần hiểu dung nạp có thể xảy ra ở gan, rồi chuyển sang dung nạp ở nơron.",
+      "tone": "light"
+    },
+    {
+      "title": "Năm cách một chất chen vào synapse",
+      "section": "Chất đến được synapse thế nào và tác động ra sao",
+      "sources": [
+        "S1"
+      ],
+      "layout": "layers",
+      "bullets": [
+        "Chủ vận: gắn thụ thể và hoạt hóa nó (opioid)",
+        "Đối kháng: gắn thụ thể, không hoạt hóa, chiếm chỗ (caffeine)",
+        "Điều biến: làm chất tự nhiên mạnh hơn (rượu với GABA)",
+        "Chặn thu hồi hoặc enzyme: giữ chất lâu hơn (thuốc điều trị, L12)",
+        "Gián tiếp: gỡ cái hãm của nơron lân cận (cần sa, opioid ở mạch thưởng)"
+      ],
+      "notes": "Năm dải xếp chồng là năm cách can thiệp, nối với từ vựng ở L03. Hai cách đầu là chủ vận và đối kháng. Cách thứ ba là điều biến: rượu không thay GABA mà làm GABA hoạt động hiệu quả hơn, theo mô tả của giáo trình. Cách thứ tư là chặn thu hồi hoặc chặn enzyme, thuộc nhóm thuốc điều trị ở L12, không phải bốn chất của bài. Cách thứ năm là cách xếp của người viết: cần sa và opioid ở mạch thưởng không đổi trực tiếp nơron dopamine mà gỡ cái hãm của nơron GABA bên cạnh. Chỗ dễ nhầm: THC chưa được giáo trình gọi là chủ vận, bài chỉ nói THC gắn vào CB1.",
+      "tone": "dark"
+    },
+    {
+      "title": "Các chỗ trên synapse mà một chất có thể chen vào",
+      "section": "Chất đến được synapse thế nào và tác động ra sao",
+      "sources": [
+        "S1"
+      ],
+      "layout": "annotated-figure",
+      "bullets": [
+        "Presynaptic cell: nơron trước",
+        "Reuptake inhibitor: chất ức chế thu hồi",
+        "Receptor: thụ thể trên nơron sau"
+      ],
+      "body": "Hình vẽ một synapse: nơron trước (**presynaptic cell**), túi chứa chất dẫn truyền, khe synapse, thụ thể trên nơron sau, thụ thể thu hồi và một chất ức chế thu hồi. Chất ức chế thu hồi thuộc nhóm thuốc điều trị ở L12, không phải bốn chất của bài; hình chỉ dùng để chỉ các chỗ có thể bị can thiệp.",
+      "images": [
+        {
+          "file": "images/thuoc-doi-hoat-dong-synapse.jpeg",
+          "alt": "Synapse với nơron trước, nơron sau, thụ thể và một chất ức chế thu hồi",
+          "credit": "OpenStax Psychology 2e, giấy phép CC BY-NC-SA theo mục Media Attributions của sách; Hove & Martinez, Hình 3 (chương 12)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/mood-disorders-depression-and-bipolar-disorder/"
+        }
+      ],
+      "notes": "Hình vẽ một synapse với các chỗ có thể bị can thiệp: túi chứa chất dẫn truyền ở nơron trước, khe synapse, thụ thể trên nơron sau, thụ thể thu hồi và một chất ức chế thu hồi. Chất ức chế thu hồi trên hình là một nhóm thuốc điều trị, thuộc L12, không phải bốn chất của bài này. Dùng hình để chỉ vào từng chỗ khi nói rượu, caffeine, cần sa và opioid tác động vào đâu. Chỉ cho người học thấy thụ thể ở phía nơron sau là ổ khóa, còn chất dẫn truyền là chìa. Hình chỉ cho thấy vị trí, không nói mức độ tác động của chất nào.",
+      "tone": "light"
+    },
+    {
+      "title": "Rượu: thẻ hồ sơ",
+      "section": "Rượu (alcohol)",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "layout": "profile-card",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Là gì (nhóm)",
+          "text": "Chất an thần theo giáo trình; một tổng quan nêu thêm giai đoạn đầu kích thích rồi ức chế [S1] [S3]"
+        },
+        {
+          "label": "Đích phân tử",
+          "text": "Gắn thụ thể acetylcholine, serotonin, GABA và NMDA; đổi cả màng, kênh ion, enzyme [S1]"
+        },
+        {
+          "label": "Mạch/vùng liên quan",
+          "text": "Không nêu vùng cho tác dụng an thần; dopamine tăng ở mạch thưởng, có vẻ qua enzyme phân giải dopamine [S1]"
+        },
+        {
+          "label": "Tác dụng cấp",
+          "text": "Kênh Cl⁻ của GABA có lẽ mở lâu hơn, NMDA kém kích thích hơn: nơron khó phát xung hơn [S1]"
+        },
+        {
+          "label": "Dùng lâu: dung nạp, lệ thuộc, cai",
+          "text": "NMDA nhạy quá mức, GABA kém nhạy: nền của hội chứng cai; gan phân giải nhanh hơn [S1] [S2]"
+        },
+        {
+          "label": "Bằng chứng · Đừng hiểu nhầm",
+          "text": "Giáo khoa ở khung chung, giả thuyết ở chi tiết; rượu không chỉ là chất kích thích [S1] [S3]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. Giáo trình nêu rượu tác động lên nhiều đích, nhưng bài theo đường rõ nhất là GABA và NMDA. Ô tác dụng cấp tóm lại cơ chế an thần: kênh clorua của thụ thể GABA mở lâu hơn, và tác dụng kích thích của glutamate ở NMDA giảm. Ô dùng lâu là chỗ nối sang hội chứng cai: thích nghi làm NMDA nhạy quá mức và GABA kém nhạy. Ô cuối gộp hai ý: mức bằng chứng và đừng hiểu nhầm. Chỗ dễ nhầm: chi tiết kênh mở lâu hơn là điều giáo trình viết kèm chữ có lẽ, nên mang nhãn giả thuyết; cơ chế tăng dopamine còn chưa rõ, giáo trình nói có vẻ liên quan đến enzyme phân giải dopamine. Hồ sơ GABA và glutamate đầy đủ ở L03.",
+      "tone": "dark"
+    },
+    {
+      "title": "GABA khi có và khi không có rượu",
+      "section": "Rượu (alcohol)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "sequence-diagram",
+      "bullets": [
+        "Không rượu: GABA gắn vào thụ thể, kênh mở",
+        "Ion Cl⁻ mang điện âm đi vào nơron sau",
+        "Nơron sau khó bị kích thích hơn: tín hiệu bị ức chế",
+        "Có rượu: rượu cũng gắn vào thụ thể GABA",
+        "Giáo trình: kênh có lẽ mở lâu hơn, nhiều Cl⁻ vào hơn",
+        "Thêm: rượu giảm tác dụng kích thích của glutamate ở NMDA"
+      ],
+      "notes": "Đây là cách giáo trình mô tả hoạt hình về synapse GABA khi có và khi không có rượu trên trang The Brain from Top to Bottom. Ba bước đầu là synapse không có rượu: GABA gắn vào thụ thể, kênh mở, ion clorua mang điện âm vào nơron sau, nơron khó phát xung hơn. Ba bước sau là có rượu. Ví dụ của người viết: GABA là nút giảm âm lượng, rượu làm nút nhạy hơn, còn NMDA là nút tăng âm lượng bị bớt nhạy đi. Chỗ dễ nhầm: giáo trình viết kênh có lẽ mở lâu hơn, đây là giả thuyết về chi tiết, còn việc rượu gắn vào thụ thể GABA và NMDA là mô tả đã chấp nhận.",
+      "tone": "light"
+    },
+    {
+      "title": "Synapse nhìn trên sơ đồ chung",
+      "section": "Rượu (alcohol)",
+      "sources": [
+        "S1"
+      ],
+      "layout": "figure",
+      "bullets": [
+        "Vesicle: túi chứa chất dẫn truyền",
+        "Synaptic cleft: khe synapse",
+        "Receptor: thụ thể trên nơron sau",
+        "Ở synapse GABA, thụ thể là kênh Cl⁻"
+      ],
+      "images": [
+        {
+          "file": "images/synapse.png",
+          "alt": "Synapse: túi chứa chất dẫn truyền, khe synapse và thụ thể",
+          "credit": "Noba, giấy phép CC BY-NC-SA theo sách; Hove & Martinez, Hình 3 (chương 3)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-structure-of-the-neuron/"
+        }
+      ],
+      "notes": "Hình là sơ đồ synapse chung của giáo trình, không riêng cho GABA hay rượu. Dùng nó để cho người học thấy chỗ rượu tác động: thụ thể trên nơron sau, nơi chất dẫn truyền gắn vào. Với synapse GABA, thụ thể đó chính là kênh cho ion clorua đi qua, nên khi kênh mở lâu hơn thì nhiều ion vào hơn. Chỉ lần lượt túi chứa chất dẫn truyền, khe synapse, rồi thụ thể. Chỗ dễ nhầm: hình vẽ chất dẫn truyền chung, nhãn tiếng Anh giữ nguyên để người học nhận ra khi đọc tài liệu gốc. Hình chỉ cho thấy cấu trúc, không cho thấy hiệu ứng của rượu.",
+      "tone": "dark"
+    },
+    {
+      "title": "Ba việc rượu làm cùng lúc",
+      "section": "Rượu (alcohol)",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Giáo khoa: rượu gắn vào GABA và NMDA",
+        "Giả thuyết: kênh mở lâu hơn (giáo trình viết \"probably\")"
+      ],
+      "body": "Giáo trình mô tả **tác dụng an thần** của rượu bằng hai việc cộng lại: rượu có lẽ làm kênh clorua của thụ thể GABA mở lâu hơn, nên nơron sau khó bị kích thích hơn, và rượu giảm tác dụng kích thích của glutamate ở thụ thể **NMDA** [S1]. Việc thứ ba là làm tăng giải phóng dopamine, theo cơ chế còn chưa rõ, có vẻ qua enzyme phân giải dopamine [S1]. Một tổng quan nêu thêm rằng tác dụng cấp của rượu là kích thích trước rồi ức chế sau [S3].",
+      "notes": "Ba việc là hai việc ở synapse cộng một việc ở mạch thưởng. Việc thứ nhất và thứ hai cộng lại giải thích tác dụng an thần theo giáo trình. Việc thứ ba là rượu làm tăng giải phóng dopamine; giáo trình nói cơ chế còn chưa rõ và có vẻ liên quan đến làm giảm hoạt động của enzyme phân giải dopamine. Câu này mang nhãn giả thuyết vì nguồn gốc độc lập chưa được kiểm trong bài. Một tổng quan trên tạp chí Neuron nêu thêm một ý hay bị bỏ sót: tác dụng cấp của rượu là kích thích trước rồi ức chế sau, nên cụm rượu là chất kích thích chỉ đúng ở giai đoạn đầu.",
+      "tone": "light"
+    },
+    {
+      "title": "Ba tầng bằng chứng về rượu",
+      "section": "Rượu (alcohol)",
+      "sources": [
+        "S3",
+        "S4",
+        "S14"
+      ],
+      "layout": "numbered-rows",
+      "bullets": [
+        "Tổng quan Neuron: tác động của rượu trong não giải thích cả tác dụng cấp lẫn dung nạp và lệ thuộc",
+        "Cai rượu: glutamate ở vỏ trước trán tăng ở 47 người phụ thuộc rượu và ở chuột, về bình thường sau vài tuần kiêng",
+        "NIAAA: rối loạn sử dụng rượu là rối loạn não; hội chứng cai có thể đe dọa tính mạng"
+      ],
+      "notes": "Ba tầng bằng chứng, từ rộng đến hẹp. Tầng một là tổng quan trên tạp chí Neuron: các tác giả nói chính tác động của rượu trong não giải thích cả tác dụng cấp lẫn những thay đổi về lâu dài, và hướng nghiên cứu hiện nay là chỉ ra tác động phân tử nào ở nơron nào góp phần vào hành vi nào. Tầng hai là một nghiên cứu đo glutamate bằng cộng hưởng từ phổ ở 47 bệnh nhân giải độc và 57 người đối chứng, cùng một mô hình ở chuột; các tác giả gọi đó là bằng chứng đầu tiên từ người cho giả thuyết glutamate. Tầng ba là NIAAA, nói về rối loạn sử dụng rượu và nguy cơ của hội chứng cai.",
+      "tone": "dark"
+    },
+    {
+      "title": "Rượu: tác dụng cấp và thích nghi khi dùng lâu",
+      "section": "Rượu (alcohol)",
+      "sources": [
+        "S1",
+        "S2",
+        "S14"
+      ],
+      "layout": "two-column-comparison",
+      "bullets": [
+        "Tác dụng cấp: GABA mạnh hơn, NMDA yếu hơn nên nơron bị ức chế",
+        "Dùng lâu: NMDA quá nhạy với glutamate, GABA kém nhạy",
+        "Gan: cảm ứng enzyme làm rượu bị phân giải nhanh hơn",
+        "Khi ngừng, sự thích nghi lộ ra thành trạng thái kích thích"
+      ],
+      "notes": "Hai cột đối chiếu hai pha. Pha cấp là rượu làm GABA mạnh hơn và NMDA yếu hơn. Pha dùng lâu, não tự chỉnh để giữ cân bằng: NMDA nhạy hơn với glutamate, thụ thể GABA kém nhạy đi. Khi rượu vắng mặt, phần chỉnh ấy không còn đối trọng nên lộ ra thành trạng thái kích thích, đặc trưng của hội chứng cai theo giáo trình. Ví dụ của người viết: như người đã quen nâng một vật nặng, bỏ vật đi thì tay bật lên. Dòng dưới ghi thêm gan cảm ứng enzyme. Chỗ dễ nhầm: đây là mô tả cơ chế, không phải lời khuyên; hội chứng cai cần theo dõi y tế.",
+      "tone": "light"
+    },
+    {
+      "title": "Caffeine: thẻ hồ sơ",
+      "section": "Caffeine",
+      "sources": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "layout": "profile-card",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Là gì (nhóm)",
+          "text": "Chất kích thích hệ thần kinh trung ương, đối kháng thụ thể adenosine [S1]"
+        },
+        {
+          "label": "Đích phân tử",
+          "text": "Thụ thể adenosine; adenosine là chất điều biến làm hoạt động thần kinh chậm lại [S1]"
+        },
+        {
+          "label": "Mạch/vùng liên quan",
+          "text": "Nhiều mạch được kích hoạt; tuyến yên tiết hormone, thượng thận tạo thêm adrenaline [S1]"
+        },
+        {
+          "label": "Tác dụng cấp",
+          "text": "Chiếm chỗ adenosine, phanh tự nhiên yếu đi, nơron nhanh lên; adrenaline tăng chú ý, năng lượng [S1]"
+        },
+        {
+          "label": "Dùng lâu: dung nạp, lệ thuộc, cai",
+          "text": "Dung nạp tối thiểu; có lệ thuộc thể chất, cai (đau đầu, buồn nôn, buồn ngủ) sau một đến hai ngày [S1]"
+        },
+        {
+          "label": "Bằng chứng · Đừng hiểu nhầm",
+          "text": "Giáo khoa cho đối kháng adenosine; tăng dopamine đang tranh luận [S5] [S6]. Caffeine vẫn là thuốc [S1]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. Caffeine là ví dụ dễ nhất về chất đối kháng: nó chiếm chỗ adenosine chứ không tự tạo tín hiệu. Ô dùng lâu nêu dung nạp tối thiểu nhưng có lệ thuộc thể chất, với hội chứng cai gồm đau đầu, buồn nôn và buồn ngủ ở khoảng một trong hai người, theo giáo trình. Ô cuối gộp mức bằng chứng và hiểu lầm: cơ chế đối kháng adenosine là giáo khoa, còn việc caffeine tăng dopamine đang tranh luận. Con số 90 phần trăm người lớn Mỹ dùng mỗi ngày của giáo trình là số cũ và chỉ của Hoa Kỳ, nên bài bỏ. Hormone ở L10.",
+      "tone": "dark"
+    },
+    {
+      "title": "Phân tử caffeine",
+      "section": "Caffeine",
+      "sources": [
+        "S1"
+      ],
+      "layout": "annotated-figure",
+      "bullets": [
+        "C, N, O: carbon, nitơ, oxy",
+        "Hình chỉ phân tử, không nói về cơ chế"
+      ],
+      "body": "Caffeine là một phân tử nhỏ; giáo trình nói nó gắn vào chính các **thụ thể adenosine** nhưng không làm chậm hoạt động nơron, nên ít thụ thể trống cho adenosine hơn và \"phanh\" tự nhiên yếu đi [S1]. Hình chỉ cho thấy cấu trúc phân tử, không nói về cơ chế.",
+      "images": [
+        {
+          "file": "images/cau-truc-caffeine.png",
+          "alt": "Công thức cấu tạo của phân tử caffeine",
+          "credit": "Vaccinationist, Public domain (trang tệp Wikimedia Commons, đối chiếu 2026-10-21)",
+          "url": "https://commons.wikimedia.org/wiki/File:Caffeine_structure.svg"
+        }
+      ],
+      "notes": "Hình công thức cấu tạo của caffeine, lấy từ Wikimedia Commons với giấy phép Public domain và đã đối chiếu tại trang tệp. Hình chỉ để người học nhìn thấy đây là một phân tử nhỏ cụ thể, không phải thứ trừu tượng. Các chữ C, N, O là carbon, nitơ và oxy; các nét là liên kết hóa học. Chỗ dễ nhầm: hình không nói gì về cách caffeine tác động. Bài cũng không khẳng định hình dạng này giống adenosine, vì các nguồn đã đọc không nêu điều đó. Cơ chế là caffeine gắn vào thụ thể adenosine nhưng không làm chậm hoạt động nơron, theo giáo trình.",
+      "tone": "light"
+    },
+    {
+      "title": "Chiếc phanh bị chiếm chỗ",
+      "section": "Caffeine",
+      "sources": [
+        "S1"
+      ],
+      "layout": "flow",
+      "bullets": [
+        "Adenosine gắn vào thụ thể của nó",
+        "Hoạt động thần kinh chậm lại, ta thấy buồn ngủ",
+        "Caffeine gắn vào chính thụ thể ấy, không làm chậm nơron",
+        "Ít thụ thể trống cho adenosine, phanh yếu đi",
+        "Hoạt động nơron nhanh lên; adrenaline tăng thêm chú ý và năng lượng"
+      ],
+      "notes": "Năm hộp kể lại câu chuyện đối kháng. Adenosine là chất điều biến làm chậm hoạt động thần kinh và gây buồn ngủ; nó cũng làm giãn mạch máu, giáo trình cho là có lẽ để bảo đảm đủ oxy khi ngủ. Caffeine gắn vào chính các thụ thể đó nhưng không làm chậm hoạt động nơron. Ví dụ của người viết: caffeine không đuổi người gác cổng adenosine đi, chỉ đứng chắn trước ổ khóa nên lời nhắc đến giờ ngủ không tới nơi. Giáo trình nêu tác dụng gồm hai phần: bớt phanh ở thụ thể adenosine, và thêm ga qua adrenaline do tuyến thượng thận tạo thêm. Chỗ dễ nhầm: caffeine không thay thế giấc ngủ, nó chỉ chặn tín hiệu buồn ngủ.",
+      "tone": "dark"
+    },
+    {
+      "title": "Caffeine và dopamine: giáo trình nêu, nguồn khác chưa thống nhất",
+      "section": "Caffeine",
+      "sources": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Câu cần kiểm: \"như hầu hết thuốc, caffeine tăng dopamine\"",
+        "Nhãn: giả thuyết, đang tranh luận"
+      ],
+      "body": "Giáo trình viết caffeine, \"như hầu hết thuốc\", làm tăng dopamine ở mạch khoái cảm [S1]. Ở chuột, caffeine làm dopamine và glutamate ngoại bào tăng ở vỏ nhân accumbens [S5]. Ở người, nhóm tác giả PET diễn giải rằng caffeine ở mức thường dùng không làm dopamine tăng ở thể vân mà làm tăng khả năng gắn của thụ thể D2/D3 [S6]. Vì thế đây là **giả thuyết** đang được tranh luận, không phải điều đã xác nhận.",
+      "notes": "Giáo trình viết caffeine như hầu hết thuốc làm tăng dopamine ở mạch khoái cảm. Bài kiểm bằng hai nghiên cứu độc lập, chỉ đọc phần tóm tắt. Ở chuột, đo vi thấu phân, caffeine làm dopamine và glutamate ngoại bào tăng ở vỏ nhân accumbens. Ở người, chụp PET, nhóm tác giả diễn giải rằng caffeine ở mức thường dùng không làm dopamine tăng ở thể vân, mà làm tăng khả năng gắn của thụ thể D2 và D3. Hai kết quả khác loài, khác phương pháp, và bất đồng cả về loại thụ thể adenosine; nhóm PET kết luận mạnh hơn là caffeine không làm dopamine tăng ở thể vân. Chỗ dễ nhầm: tranh luận này không phủ nhận cơ chế đối kháng adenosine, vốn là giáo khoa. Dopamine cũng không đồng nghĩa với thưởng; xem L05.",
+      "tone": "light"
+    },
+    {
+      "title": "Chuột và người: hai kết quả",
+      "section": "Caffeine",
+      "sources": [
+        "S5",
+        "S6"
+      ],
+      "layout": "two-column-comparison",
+      "bullets": [
+        "Chuột (vi thấu phân): dopamine và glutamate ngoại bào tăng ở vỏ nhân accumbens",
+        "Người (PET): khả năng gắn D2/D3 tăng ở bèo sẫm và thể vân bụng, không phải dopamine tăng",
+        "Cả hai nghiên cứu chỉ được đọc ở mức tóm tắt",
+        "Không thống nhất cả về loại thụ thể adenosine liên quan"
+      ],
+      "notes": "Đặt hai nghiên cứu cạnh nhau để thấy chúng không mâu thuẫn trực tiếp mà đo những thứ khác nhau. Ở chuột là nồng độ dopamine ngoại bào; tác dụng được tái hiện bằng chất chặn thụ thể adenosine A1 chứ không bằng chất chặn A2A. Ở người là khả năng gắn của thụ thể D2 và D3, một phép đo gián tiếp; nhóm tác giả cho rằng nếu dopamine tăng thì khả năng gắn phải giảm, nhưng họ thấy tăng, nên diễn giải là không tăng dopamine ở thể vân. Họ nêu cơ chế chủ yếu qua A2A. Dòng dưới nhắc rằng bài chỉ đọc tóm tắt, nên không kết luận hơn mức đó.",
+      "tone": "dark"
+    },
+    {
+      "title": "Từ THC đến hệ endocannabinoid",
+      "section": "Cần sa (cannabis) và hệ endocannabinoid",
+      "sources": [
+        "S7",
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "layout": "timeline",
+      "bullets": [
+        "Giữa thập niên 1960: THC được tách ra",
+        "1992: tách anandamide từ não lợn, chất gắn thụ thể cannabinoid",
+        "Khoảng 20 đến 25 năm sau THC: xác định CB1, CB2 và 2-AG",
+        "2002: CB1 làm trung gian tín hiệu ngược ở tiểu não chuột nhắt",
+        "2020: tổng quan hệ thống về THC và lưu lượng máu não"
+      ],
+      "notes": "Timeline cho thấy thứ tự khám phá khá ngược: hoạt chất trước, hệ của cơ thể sau. THC được tách vào giữa thập niên 1960, nhưng các thụ thể CB1, CB2 và hai cannabinoid nội sinh chính, anandamide và 2-arachidonoyl glycerol, chỉ được xác định sau đó khoảng 20 đến 25 năm. Năm 1992 Devane và cộng sự tách anandamide từ não lợn. Năm 2002 một nghiên cứu ở lát cắt tiểu não chuột nhắt cho thấy CB1 làm trung gian tín hiệu ngược. Năm 2020 có tổng quan hệ thống về THC và lưu lượng máu não. Chỗ dễ nhầm: các mốc là mốc công bố trong các nguồn đã đọc, không phải lịch sử đầy đủ của lĩnh vực.",
+      "tone": "light"
+    },
+    {
+      "title": "Cần sa: thẻ hồ sơ",
+      "section": "Cần sa (cannabis) và hệ endocannabinoid",
+      "sources": [
+        "S1",
+        "S7",
+        "S8",
+        "S11"
+      ],
+      "layout": "profile-card",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Là gì (nhóm)",
+          "text": "Cannabinoid; hoạt chất chính là delta-9-tetrahydrocannabinol (THC) [S1]"
+        },
+        {
+          "label": "Đích phân tử",
+          "text": "Thụ thể CB1 của anandamide: giảm cAMP, giảm protein kinase A, giảm giải phóng chất dẫn truyền [S1]"
+        },
+        {
+          "label": "Mạch/vùng liên quan",
+          "text": "Theo giáo trình, CB1 có gần như khắp não; ở mạch thưởng, nơron GABA có CB1 kìm hãm nơron dopamine [S1]"
+        },
+        {
+          "label": "Tác dụng cấp",
+          "text": "Giảm tính dễ kích thích chung của mạng; ở mạch thưởng gỡ cái hãm nên dopamine tăng [S1]"
+        },
+        {
+          "label": "Dùng lâu: dung nạp, lệ thuộc, cai",
+          "text": "NIDA: dung nạp và hội chứng cai là hai tiêu chí của rối loạn sử dụng cần sa [S11]"
+        },
+        {
+          "label": "Bằng chứng · Đừng hiểu nhầm",
+          "text": "Giáo khoa cho CB1 và anandamide [S7] [S8]; THC gắn CB1 và chuỗi GABA/dopamine do giáo trình nêu. Có lệ thuộc [S11]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. Ô đích phân tử nối ba ý: THC gắn vào CB1, CB1 làm giảm cAMP và protein kinase A, kết quả là giảm giải phóng chất dẫn truyền. Ô mạch thưởng là chỗ giáo trình đưa ra chuỗi hãm cái hãm: nơron dopamine không có CB1 nhưng bị nơron GABA có CB1 kìm hãm. Ô dùng lâu theo NIDA: dung nạp và hội chứng cai là hai trong các tiêu chí của rối loạn sử dụng cần sa, và hội chứng cai có thể xảy ra ngay cả ở người không có rối loạn. Chỗ dễ nhầm: việc THC gắn CB1 và chuỗi hãm cái hãm ở cần sa là điều giáo trình nêu; các tóm tắt đã đọc chỉ xác nhận CB1 và anandamide, nguồn gốc độc lập cho phần còn lại chưa được kiểm.",
+      "tone": "dark"
+    },
+    {
+      "title": "Tín hiệu ngược của endocannabinoid",
+      "section": "Cần sa (cannabis) và hệ endocannabinoid",
+      "sources": [
+        "S8",
+        "S9"
+      ],
+      "layout": "connection-diagram",
+      "bullets": [
+        "Ở một số synapse, nơron sau tạo endocannabinoid",
+        "Endocannabinoid đi ngược về nơron trước",
+        "CB1 ở nơron trước nhận tín hiệu",
+        "Nơron trước giải phóng ít chất dẫn truyền hơn"
+      ],
+      "notes": "Sơ đồ có nút trung tâm là CB1. Bốn nút xung quanh kể chuyện: nơron sau tạo endocannabinoid, chất đi ngược về nơron trước, gắn vào CB1, và nơron trước giải phóng ít chất dẫn truyền hơn. Ví dụ của người viết: chất dẫn truyền thông thường là thư gửi từ trước ra sau; endocannabinoid là cú gọi lại, bảo nơron trước nhỏ tiếng lại. Nguồn là nghiên cứu ở lát cắt tiểu não chuột nhắt, nhắc rằng ở hải mã cannabinoid nội sinh đã được biết là sứ giả ngược. Chỗ dễ nhầm: đây là một cơ chế ở vài synapse đã nghiên cứu, bài không khẳng định nó là cách duy nhất cannabinoid tác động.",
+      "tone": "light"
+    },
+    {
+      "title": "THC mượn hệ có sẵn của cơ thể",
+      "section": "Cần sa (cannabis) và hệ endocannabinoid",
+      "sources": [
+        "S1",
+        "S7",
+        "S8"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Giáo khoa: có CB1 và anandamide",
+        "Giáo trình nêu: THC gắn CB1, chuỗi GABA"
+      ],
+      "body": "Thụ thể cannabinoid có gần như khắp não, và một phân tử cơ thể tự tạo gắn được vào chúng đã được xác định: anandamide [S1] [S7]. **THC** gắn vào CB1, làm giảm cAMP nên giảm protein kinase A, ảnh hưởng kênh kali và canxi, kết quả là giảm giải phóng chất dẫn truyền [S1]. Hệ **endocannabinoid** liên quan đến lo âu, trầm cảm, thưởng, nhận thức, học tập và trí nhớ [S8].",
+      "notes": "Ý chính: cần sa tác động được vì cơ thể có sẵn hệ endocannabinoid. Giáo trình nói THC gắn vào CB1, làm giảm cAMP, nên giảm protein kinase A, ảnh hưởng kênh kali và canxi, kết quả là giảm giải phóng chất dẫn truyền và giảm tính dễ kích thích của mạng. Cơ chế này song song với opioid: cả hai gắn vào thụ thể của chất nội sinh. Tổng quan của Mechoulam và Parker nêu hệ này liên quan đến lo âu, trầm cảm, thưởng, nhận thức, học tập và trí nhớ, và tác dụng đôi khi hai pha, nên một chất một tác dụng không đúng với cần sa. Chuỗi hãm cái hãm ở mạch thưởng sẽ được nhắc lại ở mục 7.",
+      "tone": "dark"
+    },
+    {
+      "title": "Câu giáo trình về mạch máu não: ba mắt xích",
+      "section": "Cần sa (cannabis) và hệ endocannabinoid",
+      "sources": [
+        "S1",
+        "S10",
+        "S11"
+      ],
+      "layout": "numbered-rows",
+      "bullets": [
+        "Lưu lượng máu não giảm khi dùng mạn tính: có tổng quan hệ thống ủng hộ, ở vài vùng, có thể đảo ngược khi kiêng lâu",
+        "Nguyên nhân là mất CB1 ở động mạch: giáo trình nêu, chưa kiểm được nguồn gốc",
+        "Giảm lưu lượng máu gây kém chú ý, trí nhớ, học tập: chỉ có liên quan, chưa chứng minh nguyên nhân"
+      ],
+      "notes": "Đây là slide quan trọng về cách kiểm nguồn. Giáo trình viết một chuỗi nhân quả khá mạnh: mất CB1 ở động mạch não, lưu lượng máu giảm, kém chú ý, mất trí nhớ, học kém. Bài tách thành ba mắt xích. Mắt xích một có tổng quan hệ thống 34 nghiên cứu: dùng cần sa mạn tính nhìn chung đi kèm lưu lượng máu não giảm, nhất là ở vỏ trước trán, và có thể đảo ngược khi kiêng lâu. Mắt xích hai không tìm được nguồn đọc được. Mắt xích ba chỉ có liên quan: NIDA nêu dùng nặng ở tuổi vị thành niên đi kèm trí nhớ làm việc và thành tích học tập kém hơn. Vì thế bài chỉ giữ phần đã kiểm.",
+      "tone": "light"
+    },
+    {
+      "title": "Opioid: thẻ hồ sơ",
+      "section": "Opioid (nhóm thuốc phiện)",
+      "sources": [
+        "S1",
+        "S12",
+        "S16"
+      ],
+      "layout": "profile-card",
+      "bullets": [],
+      "facts": [
+        {
+          "label": "Là gì (nhóm)",
+          "text": "Opioid: chất tự nhiên, bán tổng hợp và tổng hợp; gồm thuốc giảm đau và chất bị lạm dụng [S12]"
+        },
+        {
+          "label": "Đích phân tử",
+          "text": "Thụ thể opioid mu, delta, kappa, có khắp não, tủy sống và cơ thể [S1] [S12]"
+        },
+        {
+          "label": "Mạch/vùng liên quan",
+          "text": "Nơron truyền đau, trung tâm hô hấp, hệ thưởng; nơron GABA ở VTA có thụ thể mu [S1] [S12]"
+        },
+        {
+          "label": "Tác dụng cấp",
+          "text": "Có trường hợp giảm tính dễ kích thích nơron; bớt tín hiệu đau; ở VTA giảm GABA nên dopamine tăng [S1] [S12] [S16]"
+        },
+        {
+          "label": "Dùng lâu: dung nạp, lệ thuộc, cai",
+          "text": "cAMP được bù lại; thiếu opioid thì tăng hoạt động và cơn thèm [S1]; NIDA: dung nạp, lệ thuộc, hội chứng cai [S12]"
+        },
+        {
+          "label": "Bằng chứng · Đừng hiểu nhầm",
+          "text": "Giáo khoa ở thụ thể; VTA có bằng chứng ở chuột [S16]. Không chỉ gây khoái cảm: còn đau, thở [S12]"
+        }
+      ],
+      "notes": "Đọc thẻ theo hàng. Opioid mạnh vì gắn vào chính thụ thể của opioid nội sinh, ba loại là mu, delta và kappa. Ô tác dụng cấp có hai phần: trong một số trường hợp giảm tính dễ kích thích của nơron, và ở vùng mái bụng làm GABA giảm nên nơron dopamine bớt bị hãm. Ô dùng lâu theo giáo trình: sản xuất cAMP bị ức chế nhưng được bù lại về lâu dài, nên khi thiếu opioid khả năng bù ấy lộ ra thành tăng hoạt động và cơn thèm. Ô cuối nhắc rằng cùng các thụ thể ấy điều hòa đau, hô hấp và đáp ứng với căng thẳng, nên bài không mô tả opioid chỉ như chất gây khoái cảm. Nhóm thuốc điều trị liên quan thuộc L12 hoặc nguồn y khoa.",
+      "tone": "dark"
+    },
+    {
+      "title": "Ức chế cái hãm ở vùng mái bụng",
+      "section": "Opioid (nhóm thuốc phiện)",
+      "sources": [
+        "S1",
+        "S16"
+      ],
+      "layout": "flow",
+      "bullets": [
+        "Opioid gắn vào thụ thể mu của nơron GABA ở VTA",
+        "Nơron GABA giải phóng ít GABA hơn",
+        "Nơron dopamine bớt bị hãm",
+        "Nhân accumbens nhận nhiều dopamine hơn",
+        "Tín hiệu thưởng của mạch tăng"
+      ],
+      "notes": "Năm hộp là chuỗi hai bước của giáo trình. Bước một: opioid gắn vào thụ thể mu trên các nơron GABA ức chế ở vùng mái bụng, làm chúng giải phóng ít GABA hơn. Bước hai: bình thường GABA làm giảm dopamine được giải phóng ở nhân accumbens, nên khi cái hãm bị hãm thì dopamine tăng. Nguồn gốc của mô hình là nghiên cứu năm 1992 trên lát cắt não chuột, ngoài cơ thể: opioid không tác động lên chính nơron dopamine mà làm các nơron GABA trung gian khó phát xung hơn. Chỗ dễ nhầm: bước ở cơ thể sống là dự đoán của các tác giả. Hệ thưởng đầy đủ ở L05.",
+      "tone": "light"
+    },
+    {
+      "title": "Opioid nội sinh và opioid từ ngoài",
+      "section": "Opioid (nhóm thuốc phiện)",
+      "sources": [
+        "S1",
+        "S12"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Nội sinh: endorphin, enkephalin, dynorphin",
+        "Từ ngoài: gắn đúng các thụ thể ấy (opiate)"
+      ],
+      "body": "Cơ thể tự tạo các chất giống thuốc phiện, gọi chung là **opioid nội sinh** (endorphin, enkephalin, dynorphin), điều hòa phản ứng với đau, đói, khát, khí sắc và miễn dịch [S1]. Opioid từ ngoài, như heroin và morphine (giáo trình gọi là opiate), tác động mạnh vì gắn vào đúng các **thụ thể** mu, delta và kappa đó [S1]. Qua chất truyền tin thứ hai, thụ thể ảnh hưởng khả năng mở của kênh ion, và có trường hợp giảm tính dễ kích thích của nơron [S1].",
+      "notes": "Điểm nối với L03: cơ thể tự tạo opioid nội sinh và dùng chúng làm chất dẫn truyền. Chúng điều hòa phản ứng với đau, hỗ trợ các chức năng sống như đói và khát, và liên quan khí sắc và miễn dịch. Opioid từ ngoài tác động mạnh không phải vì chúng lạ mà vì chúng gắn vào đúng các thụ thể đó. Giáo trình nói qua chất truyền tin thứ hai, thụ thể ảnh hưởng khả năng mở của kênh ion, nên có trường hợp giảm tính dễ kích thích; giáo trình không nêu chiều tác động cho mọi trường hợp. Bài không mô tả cảm giác; nó chỉ nói thụ thể nào làm gì ở mức tế bào. Mức bằng chứng: giáo khoa.",
+      "tone": "dark"
+    },
+    {
+      "title": "Opioid nội sinh và opioid từ ngoài",
+      "section": "Opioid (nhóm thuốc phiện)",
+      "sources": [
+        "S1",
+        "S12"
+      ],
+      "layout": "two-column-comparison",
+      "bullets": [
+        "Nội sinh: cơ thể tự tạo, điều hòa đau, đói, khát, khí sắc",
+        "Từ ngoài: heroin, morphine; gắn vào cùng thụ thể mu, delta, kappa",
+        "Cơ thể cũng dùng thụ thể này trong phản ứng với căng thẳng và thưởng tự nhiên",
+        "Khác nhau ở nguồn gốc, không khác nhau ở đích"
+      ],
+      "notes": "Hai cột nhấn rằng đích là một. Cột trái là opioid nội sinh: endorphin và họ hàng, điều hòa đau, đói, khát và khí sắc. Cột phải là opioid từ ngoài, như heroin và morphine, gắn vào cùng các thụ thể mu, delta, kappa. Dòng dưới nhắc rằng cơ thể cũng dùng các thụ thể này cho phản ứng với căng thẳng và thưởng tự nhiên, ví dụ thức ăn và tương tác xã hội theo NIDA. Ví dụ của người viết: cùng một ổ khóa, một chìa do cơ thể đúc sẵn, một chìa đúc bên ngoài. Chỗ dễ nhầm: nói cùng đích không có nghĩa tác động giống nhau về mức độ hay thời gian.",
+      "tone": "light"
+    },
+    {
+      "title": "Một thụ thể, nhiều việc",
+      "section": "Opioid (nhóm thuốc phiện)",
+      "sources": [
+        "S12"
+      ],
+      "layout": "lookup-table",
+      "bullets": [
+        "Đau: ngăn truyền tín hiệu đau ở tủy sống, làm dịu cảm nhận đau ở não",
+        "Hô hấp: thụ thể ở các trung tâm điều khiển thở",
+        "Căng thẳng: tham gia đáp ứng với căng thẳng",
+        "Thưởng: thụ thể ở hệ thưởng, liên quan phần thưởng tự nhiên"
+      ],
+      "notes": "Bảng này chống hiểu lầm opioid chỉ gây khoái cảm. Theo NIDA, thụ thể opioid có trên nơron truyền tín hiệu đau từ cơ thể lên não, nên khi gắn thì có thể ngăn truyền tín hiệu đau ở tủy sống và làm dịu cảm nhận đau trong não. Thụ thể cũng có ở các trung tâm điều khiển hô hấp, vì thế opioid ở mức tác động quá lớn có thể làm thở chậm đến mức đe dọa tính mạng. Chúng còn tham gia đáp ứng với căng thẳng và nằm ở các vùng của hệ thưởng. Đây là mô tả cơ chế, không phải nhận định về chất nào nguy hiểm hơn chất nào.",
+      "tone": "dark"
+    },
+    {
+      "title": "Mạch thưởng và cái hãm GABA",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S1",
+        "S16"
+      ],
+      "layout": "connection-diagram",
+      "bullets": [
+        "VTA: nơron dopamine, gửi tín hiệu lên",
+        "Nhân accumbens: nhận dopamine",
+        "Nơron GABA: hãm nơron dopamine",
+        "Opioid và cần sa gỡ cái hãm này (theo giáo trình)"
+      ],
+      "notes": "Sơ đồ có nút trung tâm là mạch thưởng. Nơron dopamine ở vùng mái bụng gửi tín hiệu đến nhân accumbens; bên cạnh là nơron GABA kìm hãm các nơron dopamine. Opioid gắn vào thụ thể mu trên nơron GABA, cần sa gắn vào CB1 trên nơron GABA, nên cái hãm bị gỡ và dopamine tăng. Với opioid có bằng chứng ở lát cắt não chuột, ngoài cơ thể; với cần sa chuỗi này là điều giáo trình nêu. Rượu tăng dopamine theo cơ chế chưa rõ, caffeine đang tranh luận. Chỗ dễ nhầm: sơ đồ này là một phiên bản đơn giản của hệ thưởng; mô hình đầy đủ nằm ở L05 và nhân accumbens ở L07.",
+      "tone": "light"
+    },
+    {
+      "title": "Nhân accumbens trên mặt cắt giữa não",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [],
+      "layout": "annotated-figure",
+      "bullets": [
+        "Nucleus accumbens: nhân accumbens",
+        "Amygdala: hạnh nhân",
+        "Orbital frontal cortex: vỏ trán ổ mắt"
+      ],
+      "body": "Hình là mặt cắt giữa não của giáo trình, chỉ ra **nhân accumbens** cùng hạnh nhân và vỏ trán ổ mắt. Mạch thưởng của bài là dopamine từ vùng mái bụng (VTA) đến nhân accumbens; VTA nằm ở não giữa và không có trên hình này. Hình chỉ cho thấy vị trí tương đối.",
+      "images": [
+        {
+          "file": "images/cau-truc-cam-xuc.png",
+          "alt": "Mặt cắt giữa não với nhân accumbens, hạnh nhân và vỏ trán ổ mắt",
+          "credit": "Noba, giấy phép CC BY-NC-SA theo sách; Hove & Martinez, Hình 2 (chương 10)",
+          "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/affective-neuroscience-what-is-it/"
+        }
+      ],
+      "notes": "Hình là mặt cắt giữa của não với các cấu trúc liên quan đến cảm xúc. Chỉ cho người học nhân accumbens ở phần dưới trước, nơi dopamine từ VTA đến theo mô hình ở slide trước. Hạnh nhân và vỏ trán ổ mắt cũng nằm trên hình vì chúng tham gia cảm xúc, nhưng bài này không đi vào chức năng của chúng. Chỗ dễ nhầm: VTA nằm ở não giữa và không được vẽ trên hình này. Hình chỉ cho thấy vị trí tương đối, không cho thấy dòng dopamine. Nhân accumbens và hệ thưởng được trình bày đầy đủ ở L05 và L07.",
+      "tone": "dark"
+    },
+    {
+      "title": "Mạch chung, kết quả chuột",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S15"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Chuột tự do di chuyển",
+        "Mức bằng chứng: giáo khoa ở mức nhiều chất, nhưng là động vật"
+      ],
+      "body": "Năm 1988, ở chuột tự do di chuyển, các chất người hay lạm dụng (opioid, rượu, nicotine, amphetamine, cocaine) làm dopamine ngoại bào **tăng** ở nhân accumbens và nhân đuôi, nhưng ưu tiên ở nhân accumbens; chất có tác dụng khó chịu làm dopamine giảm, và các thuốc người không lạm dụng không làm đổi [S15]. Các tác giả coi đây là bằng chứng sinh hóa cho giả thuyết rằng kích thích dopamine ở hệ viền là tính chất cơ bản của chất bị lạm dụng [S15].",
+      "notes": "Đây là nghiên cứu kinh điển. Năm 1988 Di Chiara và Imperato đo dopamine ngoại bào ở chuột tự do di chuyển bằng vi thấu phân. Các chất người hay lạm dụng, gồm opiate, rượu, nicotine, amphetamine và cocaine, làm dopamine tăng ở nhân accumbens và nhân đuôi, nhưng ưu tiên ở nhân accumbens. Chất có tác dụng khó chịu, kích hoạt thụ thể kappa, làm dopamine giảm; thuốc người không lạm dụng không làm đổi. Các tác giả viết đây là bằng chứng sinh hóa ủng hộ giả thuyết rằng kích thích truyền dopamine ở hệ viền có thể là tính chất cơ bản của các chất bị lạm dụng. Chỗ dễ nhầm: đây là chuột, không phải người.",
+      "tone": "light"
+    },
+    {
+      "title": "Mạch chung, đường đi khác nhau",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S1",
+        "S5",
+        "S6",
+        "S16"
+      ],
+      "layout": "lookup-table",
+      "bullets": [
+        "Rượu: dopamine tăng, cơ chế còn chưa rõ, có vẻ qua enzyme phân giải dopamine (giáo trình)",
+        "Caffeine: chuột tăng, người chưa thấy tăng; đang tranh luận",
+        "Cần sa: gỡ cái hãm GABA có CB1 (giáo trình nêu)",
+        "Opioid: giảm GABA ở VTA, có bằng chứng ở chuột"
+      ],
+      "notes": "Bảng bốn dòng nói rằng mạch thưởng là chung nhưng không giống hệt nhau. Rượu tăng dopamine theo cơ chế giáo trình nói còn chưa rõ. Caffeine đang tranh luận vì chuột và người cho kết quả khác nhau. Cần sa theo giáo trình gỡ cái hãm của nơron GABA có CB1. Opioid có bằng chứng ở lát cắt não chuột, ngoài cơ thể, về giảm GABA ở vùng mái bụng. Ví dụ của người viết: bốn con đường khác nhau cùng dẫn đến một ngã ba. Chỗ dễ nhầm: cùng đến ngã ba không có nghĩa là bốn chất giống nhau về mọi mặt. Dopamine cũng không đồng nghĩa với thích; xem L05 về muốn và thích.",
+      "tone": "dark"
+    },
+    {
+      "title": "Dung nạp và lệ thuộc thể chất",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S1",
+        "S11",
+        "S12"
+      ],
+      "layout": "two-column-comparison",
+      "bullets": [
+        "Dung nạp: cơ thể thích nghi, đáp ứng giảm dần, cần tác động lớn hơn để có cùng hiệu quả",
+        "Lệ thuộc: cơ thể chỉ hoạt động bình thường khi có chất; ngừng thì có hội chứng cai",
+        "Cả hai là hệ quả của thích nghi, không phải bản thân rối loạn sử dụng chất",
+        "Một người có thể lệ thuộc thể chất mà không có rối loạn sử dụng chất"
+      ],
+      "notes": "Hai khái niệm đứng cạnh nhau vì hay bị lẫn. Dung nạp là cơ thể thích nghi nên đáp ứng giảm dần. Lệ thuộc thể chất là thích nghi đến mức chỉ hoạt động bình thường khi có chất, nên ngừng thì có hội chứng cai. Cả hai là hệ quả của thích nghi và không đồng nghĩa với rối loạn sử dụng chất. Ví dụ của người viết: người uống cà phê mỗi sáng rồi thử bỏ có thể đau đầu hay buồn ngủ, triệu chứng cai mà giáo trình nêu gặp ở khoảng một trong hai người; đó là một dạng lệ thuộc thể chất, khác hẳn hành vi tìm chất bất chấp hậu quả. NIDA nêu hội chứng cai cần sa có thể xảy ra ngay cả khi không có rối loạn. Đây là mô tả, không phải lời khuyên.",
+      "tone": "light"
+    },
+    {
+      "title": "Dùng, thích nghi, cai",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S1",
+        "S4",
+        "S12",
+        "S13",
+        "S17",
+        "S18"
+      ],
+      "layout": "timeline",
+      "bullets": [
+        "Tác dụng cấp: chất gắn vào đích và đổi tín hiệu",
+        "Thích nghi: nơron tự chỉnh, ví dụ NMDA nhạy hơn, cAMP được bù lại",
+        "Dung nạp: cùng một tác động cho ít hiệu quả hơn",
+        "Cai: thích nghi lộ ra, ví dụ glutamate tăng, khả năng sản xuất cAMP",
+        "Lâu dài: thay đổi ở mạch thưởng, căng thẳng, kiểm soát có thể bền"
+      ],
+      "notes": "Đường thời gian này là suy luận của người viết, ghép từ nhiều nguồn, không phải kết quả của một nghiên cứu đơn lẻ. Năm mốc: tác dụng cấp, thích nghi, dung nạp, cai, và thay đổi lâu dài. Ví dụ từ giáo trình: rượu làm NMDA nhạy quá mức và GABA kém nhạy, opioid làm khả năng sản xuất cAMP tăng; khi chất vắng mặt thì sự thích nghi lộ ra thành kích thích hoặc tăng hoạt động. Nghiên cứu ở cả người và chuột thấy glutamate tăng lúc cai rượu rồi về bình thường sau vài tuần. NIDA nhấn mạnh những thay đổi ở mạch thưởng, căng thẳng và tự kiểm soát có thể kéo dài sau khi ngừng chất.",
+      "tone": "dark"
+    },
+    {
+      "title": "Rối loạn sử dụng chất không chỉ là lệ thuộc",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S11",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Mức nhẹ, vừa, nặng theo số tiêu chí",
+        "Nghiện = dạng nặng theo NIDA"
+      ],
+      "body": "**Rối loạn sử dụng chất** (substance use disorder) là kiểu dùng chất được đo bằng hai hay nhiều triệu chứng và hành vi theo DSM-5; dung nạp và hội chứng cai chỉ là hai tiêu chí trong số đó [S11] [S12] [S14]. NIDA gọi **nghiện** là dạng nặng: rối loạn mạn tính, hay tái phát, đặc trưng bởi tìm và dùng chất cưỡng bức dù có hậu quả xấu, liên quan đến thay đổi chức năng ở mạch thưởng, căng thẳng và tự kiểm soát [S13].",
+      "notes": "Rối loạn sử dụng chất là một chẩn đoán dựa trên kiểu hình hành vi, không chỉ dựa vào lệ thuộc thể chất. Theo NIDA và NIAAA, cần ít nhất hai triệu chứng theo tiêu chuẩn DSM-5 trong 12 tháng; dung nạp và hội chứng cai chỉ là hai trong nhiều tiêu chí. NIDA dùng chữ nghiện cho dạng nặng. Điểm đáng nhớ là NIDA nói quyết định dùng lần đầu thường là tự nguyện, nhưng dùng tiếp thì khả năng tự kiểm soát có thể suy giảm; và nghiện liên quan đến thay đổi chức năng ở mạch thưởng, căng thẳng và tự kiểm soát, không phải chỉ là ý chí yếu. Chỗ dễ nhầm: bài này không chẩn đoán ai.",
+      "tone": "light"
+    },
+    {
+      "title": "Nghiện: vòng lặp ba giai đoạn",
+      "section": "Điểm chung: mạch thưởng, dung nạp, lệ thuộc và cai",
+      "sources": [
+        "S17",
+        "S18"
+      ],
+      "layout": "layers",
+      "bullets": [
+        "Say/hưng phấn: vùng mái bụng và thể vân bụng",
+        "Cai/cảm xúc âm tính: hạnh nhân mở rộng",
+        "Bận tâm/mong đợi (thèm): một mạng nhiều vùng não, trong đó có vỏ trước trán và hải mã",
+        "Giai đoạn muộn: thích nghi ở đường glutamate từ vỏ não trước trán tới nhân accumbens"
+      ],
+      "notes": "Bốn dải xếp chồng. Ba dải trên là mô hình ba giai đoạn của Koob và Volkow, dựa trên ảnh chụp não người và nghiên cứu động vật: say hoặc hưng phấn, cai kèm cảm xúc âm tính, rồi bận tâm hoặc thèm; mỗi giai đoạn gắn với một nhóm vùng, danh sách đầy đủ có trong bài gốc. Dải dưới là bổ sung của Kalivas và Volkow: dopamine quan trọng cho phần thưởng cấp và cho khởi đầu nghiện, nhưng nghiện giai đoạn muộn chủ yếu do thích nghi tế bào ở các đường glutamate từ vỏ trước trán tới nhân accumbens. Đây là mô hình tổng hợp từ người và động vật, không phải lời giải cuối cùng. Nhiều vùng gắn với từng giai đoạn được nói ở L07 và L05.",
+      "tone": "dark"
+    },
+    {
+      "title": "Sáu hiểu lầm về từng chất và điều nguồn nói",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S1",
+        "S3",
+        "S5",
+        "S6",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "layout": "lookup-table",
+      "bullets": [
+        "Rượu là chất kích thích: tổng quan nêu kích thích rồi ức chế; giáo trình mô tả cơ chế an thần",
+        "Caffeine không phải thuốc: có đích phân tử, lệ thuộc thể chất và hội chứng cai",
+        "Caffeine tăng dopamine như mọi chất: chuột tăng, người không tăng, còn tranh luận",
+        "Cần sa không gây lệ thuộc: NIDA nêu rối loạn sử dụng cần sa và hội chứng cai",
+        "Cần sa hỏng mạch máu nên mất trí nhớ: chuỗi nhân quả chưa kiểm",
+        "Opioid chỉ gây khoái cảm: cùng thụ thể điều hòa đau, thở, căng thẳng"
+      ],
+      "notes": "Sáu hiểu lầm về từng chất, mỗi cái đã nói ở thẻ của chất tương ứng, gom lại kèm điều nguồn đã đọc nói; hiểu lầm thứ bảy, lệ thuộc là nghiện, có slide riêng ngay sau. Rượu: tổng quan nêu kích thích rồi ức chế, giáo trình mô tả cơ chế an thần. Caffeine: có đích phân tử rõ, có lệ thuộc thể chất và hội chứng cai; việc tăng dopamine đang tranh luận. Cần sa: NIDA nêu rối loạn sử dụng cần sa và hội chứng cai; chuỗi nhân quả qua mạch máu chưa kiểm được. Opioid: cùng thụ thể điều hòa đau, hô hấp và căng thẳng. Chỉ sửa những hiểu lầm có nguồn; hiểu lầm khác, như chất nào an toàn hơn, nằm ngoài phạm vi bài và không được bàn.",
+      "tone": "light"
+    },
+    {
+      "title": "Lệ thuộc thể chất không phải là nghiện",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S1",
+        "S11",
+        "S12",
+        "S13"
+      ],
+      "layout": "one-highlighted-sentence",
+      "bullets": [
+        "Dung nạp, lệ thuộc thể chất, hội chứng cai và rối loạn sử dụng chất là các khái niệm khác nhau"
+      ],
+      "notes": "Đây là hiểu lầm quan trọng nhất của bài nên có một slide riêng. Dung nạp và lệ thuộc thể chất là kết quả của sự thích nghi của cơ thể; rối loạn sử dụng chất là một kiểu hình hành vi theo tiêu chuẩn DSM-5; nghiện là dạng nặng. Ví dụ ngoài đời: người uống cà phê mỗi sáng có thể có lệ thuộc thể chất, nhưng không ai gọi đó là nghiện. NIDA cũng nêu hội chứng cai cần sa có thể xảy ra ngay cả ở người không có rối loạn sử dụng cần sa. Mục đích slide này là giúp người học dùng đúng từ, không phải để phân loại hay chẩn đoán ai.",
+      "tone": "dark"
+    },
+    {
+      "title": "Hai câu của giáo trình cần thận trọng",
+      "section": "Những hiểu lầm thường gặp",
+      "sources": [
+        "S1",
+        "S5",
+        "S6",
+        "S10",
+        "S11"
+      ],
+      "layout": "explainer",
+      "bullets": [
+        "Caffeine tăng dopamine: đang tranh luận",
+        "Mất CB1 ở động mạch: chưa kiểm nguồn gốc"
+      ],
+      "body": "Giáo trình viết caffeine tăng dopamine, nhưng một nghiên cứu ở chuột và một ở người cho kết quả khác nhau [S5] [S6], nên đây là **giả thuyết**. Giáo trình cũng viết mất CB1 ở động mạch làm giảm lưu lượng máu não; chỉ phần lưu lượng máu giảm khi dùng mạn tính có tổng quan ủng hộ [S10], còn cơ chế qua CB1 ở động mạch là điều **chưa kiểm nguồn gốc** [S1]; liên hệ với nhận thức chỉ ở mức liên quan [S11].",
+      "notes": "Tổng kết cách bài xử lý hai câu mạnh của giáo trình. Câu thứ nhất, caffeine như hầu hết thuốc làm tăng dopamine, được đối chiếu với hai nghiên cứu độc lập: đúng ở chuột trong một nghiên cứu, còn nghiên cứu ở người lại kết luận ngược lại, nên mang nhãn đang tranh luận. Câu thứ hai, mất CB1 ở động mạch não làm giảm lưu lượng máu và gây kém chú ý, mất trí nhớ, học kém, được tách thành ba mắt xích: lưu lượng máu giảm có tổng quan hệ thống ủng hộ ở vài vùng, cơ chế qua CB1 ở động mạch chưa kiểm được, và nhận thức kém hơn chỉ là mối liên quan. Con số 90 phần trăm của giáo trình bị bỏ vì là số cũ của riêng Hoa Kỳ.",
+      "tone": "light"
+    },
+    {
+      "title": "Điều cần nhớ",
+      "section": "Điều cần nhớ",
+      "sources": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
+      ],
+      "layout": "numbered-rows",
+      "bullets": [
+        "Bốn chất, bốn đích: GABA và NMDA, adenosine, CB1, thụ thể opioid",
+        "Đường vào quyết định tốc độ lên não; gan gây dung nạp chuyển hóa",
+        "Hệ endocannabinoid ở một số synapse truyền ngược chiều; theo giáo trình THC gắn CB1",
+        "Mạch thưởng là chung nhưng không giống hệt nhau; caffeine còn tranh luận",
+        "Dung nạp, lệ thuộc thể chất, cai và rối loạn sử dụng chất là các khái niệm khác nhau",
+        "Nghiện là vòng lặp ba giai đoạn với thay đổi ở nhiều mạch, không chỉ dopamine"
+      ],
+      "notes": "Sáu điều cần nhớ, gộp từ bảy điều trong bài. Điều một là bản đồ: bốn chất, bốn đích. Điều hai là dược động học và dung nạp chuyển hóa. Điều ba là hệ endocannabinoid, ở một số synapse đã nghiên cứu, truyền ngược chiều. Điều bốn là mạch thưởng chung nhưng không giống hệt nhau, và caffeine vẫn còn tranh luận. Điều năm là bốn khái niệm hay lẫn. Điều sáu là mô hình ba giai đoạn của nghiện, với thay đổi ở nhiều mạch. Điều thứ bảy của bài, hai câu giáo trình cần thận trọng, đã có slide riêng ở mục hiểu lầm. Nối bài: L02 cho synapse, L03 cho chất dẫn truyền và từ vựng thuốc, L05 cho hệ thưởng, L07 cho nhân accumbens, L12 cho nhóm thuốc điều trị.",
+      "tone": "dark"
+    },
+    {
+      "title": "Lưu ý: bài này là cơ chế, không phải lời khuyên y tế",
+      "section": "Lưu ý",
+      "sources": [
+        "S14"
+      ],
+      "layout": "card-grid",
+      "bullets": [
+        "Không nêu liều, cách dùng, pha trộn, mua, giảm hại hay pháp lý",
+        "Chất nêu chỉ để giải thích cơ chế, không khuyến khích dùng",
+        "Cần giúp đỡ: tìm bác sĩ, chuyên gia hoặc đường dây hỗ trợ tại nơi bạn sống",
+        "Cai một số chất có thể nguy hiểm: cần chuyên gia theo dõi"
+      ],
+      "notes": "Đọc chậm slide này. Bài nhằm hiểu cơ chế, không phải lời khuyên y tế. Bài không nêu liều, cách dùng, pha trộn, mua hay giảm hại, không nêu tên thương hiệu, không xếp chất nào nguy hiểm hơn chất nào, và không nói về tình trạng pháp lý. Các chất được nêu chỉ vì giáo trình dùng chúng để giải thích cơ chế. Nếu bản thân hay người thân dùng một chất gây hại, hoặc có ý nghĩ tự làm hại mình, hãy tìm trợ giúp từ bác sĩ, chuyên gia hoặc đường dây hỗ trợ tại nơi mình sống. NIAAA nêu hội chứng cai rượu có thể đe dọa tính mạng, nên ngừng sau khi dùng nhiều và lâu cần chuyên gia theo dõi; đây là mô tả, không phải hướng dẫn. Không tự ý đổi hay ngừng thuốc đang được bác sĩ kê đơn.",
+      "tone": "light"
+    },
+    {
+      "title": "Nguồn tham khảo",
+      "section": "Nguồn tham khảo",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18"
+      ],
+      "layout": "references",
+      "bullets": [
+        "S1: Hove & Martinez, Biological Psychology, mục 5.5, 2024",
+        "S2: Hove & Martinez, mục 5.2 Pharmacokinetics, 2024",
+        "S3: Abrahao, Salinas, Lovinger, Alcohol and the Brain, Neuron, 2017",
+        "S4: Hermann và cộng sự, glutamate khi cai rượu, Biol Psychiatry, 2012",
+        "S5: Solinas và cộng sự, caffeine và dopamine ở chuột, J Neurosci, 2002",
+        "S6: Volkow và cộng sự, caffeine và thụ thể D2/D3 ở người, Transl Psychiatry, 2015",
+        "S7: Devane và cộng sự, anandamide, Science, 1992",
+        "S8: Mechoulam & Parker, hệ endocannabinoid, Annu Rev Psychol, 2013",
+        "S9: Yoshida và cộng sự, CB1 và tín hiệu ngược, J Neurosci, 2002",
+        "S10: Ogunbiyi và cộng sự, THC và lưu lượng máu não, 2020",
+        "S11: NIDA, Cannabis (Marijuana), truy cập 2026-10-21",
+        "S12: NIDA, Opioids, truy cập 2026-10-21",
+        "S13: NIDA, Drug Misuse and Addiction, 2020",
+        "S14: NIAAA, Understanding Alcohol Use Disorder, 2025",
+        "S15: Di Chiara & Imperato, PNAS, 1988",
+        "S16: Johnson & North, J Neurosci, 1992",
+        "S17: Koob & Volkow, Neurocircuitry of addiction, 2010",
+        "S18: Kalivas & Volkow, Neural basis of addiction, Am J Psychiatry, 2005"
+      ],
+      "notes": "Đường dẫn đầy đủ của 18 nguồn ở mục Nguồn tham khảo của lesson.md. Hai nguồn đầu là giáo trình Hove và Martinez; mười sáu nguồn còn lại là nguồn độc lập: các bài báo tạp chí và các trang của NIDA và NIAAA. Phần lớn bài báo chỉ được đọc ở mức tóm tắt, nên bài chỉ trích điều tóm tắt nói; các trang NIDA và NIAAA và hai chương giáo trình được đọc toàn văn. Hai nguồn không được trích vì không đọc được nội dung là Fredholm 1999 về caffeine và Volkow, Koob, McLellan 2016. Khi dùng slide này để giảng, nhắc người học rằng nhãn giáo khoa, giả thuyết hay suy luận của người viết trong bài là cách bài báo hiệu mức chắc chắn.",
+      "tone": "dark"
+    }
+  ]
+}

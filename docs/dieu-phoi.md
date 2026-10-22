@@ -36,14 +36,13 @@ Việc: `viết`, `phản biện a`, `phản biện b`, `sửa`, `deck`. Trạng
 
 | Bài | Việc | Nhánh | Phiên | Trạng thái | Cập nhật |
 |---|---|---|---|---|---|
-| L11 | viết | `claude/lesson-L11` | chưa rõ | chờ phản biện | 2026-10-21 |
-| L12 | viết | `claude/lesson-L12` | chưa rõ | chờ phản biện | 2026-10-21 |
-| L13 | viết | `claude/lesson-L13` | chưa rõ | chờ phản biện | 2026-10-21 |
-| L14 | viết | `claude/lesson-L14` | chưa rõ | chờ phản biện | 2026-10-21 |
+| L11 | sửa | `claude/lesson-L11` | session_01G8FY… | xong | 2026-10-22 |
+| L12 | sửa | `claude/lesson-L12` | session_01APRS… | xong | 2026-10-22 |
+| L13 | sửa | `claude/lesson-L13` | session_013hwz… | chờ PR | 2026-10-22 |
+| L14 | sửa | `claude/lesson-L14` | session_012AtG… | chờ PR | 2026-10-22 |
 
-Ghi chú về bốn dòng trên: nhánh đã đẩy một commit `lesson: <id> thêm bài` mỗi nhánh, chưa có PR, chưa có nhánh phản biện. Phiên nào viết chúng chưa
-được xác nhận, nên cột Phiên ghi "chưa rõ". Chúng viết trước khi có công cụ này nên không có file khoá; `claims.py claim` vẫn từ chối các id này vì thấy
-việc dở trên nhánh (`unmerged work`).
+Ghi chú: L11–L14 do phiên điều phối giao viết và phản biện (hai phiên phản biện chỉ đọc mỗi bài, không cần khoá); chưa có file khoá vì chúng viết trước khi có công cụ này.
+Mỗi bài đi qua một PR riêng, lần lượt L11 → L14; sau khi gộp mới dựng deck.
 
 ### Nhánh tồn đọng (chủ repo để xoá sau, 2026-10-21: chưa xoá nhánh nào)
 

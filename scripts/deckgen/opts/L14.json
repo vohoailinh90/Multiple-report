@@ -1,0 +1,17 @@
+{
+ "topic_label": "Não bộ · Bài L14",
+ "motif": "grid",
+ "question": "\"Não chưa chín đến 25 tuổi\" có đúng không?",
+ "cards": ["Giai đoạn nhạy cảm", "Tuổi dậy thì", "Myelin", "Đường cong chuẩn"],
+ "concepts": ["nhạy cảm", "dậy thì", "myelin", "đường cong"],
+ "big": {"11": "28,7 tuổi"},
+ "mark": {
+  "1": "có đúng không",
+  "14": "kém ổn định",
+  "23": "đỉnh riêng",
+  "29": "bản sắc",
+  "33": "chắc chắn"
+ },
+ "actors": {"31": ["Nhóm nghiên cứu", "Hai nhóm mẹ", "Đo điện não"]},
+ "pairs": {"31": [[0, 1], [0, 1], [1, 2], [2, 2], [2, 2]]}
+}

@@ -1,0 +1,14 @@
+{
+ "topic_label": "Sức khỏe · Bài L13",
+ "motif": "dots",
+ "question": "Cùng một synapse, vì sao rượu làm buồn ngủ còn cà phê làm tỉnh?",
+ "cards": ["Rượu: GABA", "Caffeine", "Cần sa", "Opioid"],
+ "concepts": ["rượu", "caffeine", "cần sa", "opioid"],
+ "mark": {
+  "1": "những đường khác hẳn",
+  "39": "các khái niệm khác nhau"
+ },
+ "center": {"22": "CB1", "30": "Mạch thưởng"},
+ "actors": {"10": ["Rượu", "GABA", "Nơron sau"]},
+ "pairs": {"10": [[1, 2], [1, 2], [2, 2], [0, 1], [1, 2], [0, 2]]}
+}

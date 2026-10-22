@@ -39,7 +39,7 @@ Việc: `viết`, `phản biện a`, `phản biện b`, `sửa`, `deck`. Trạng
 | L11 | sửa | `claude/lesson-L11` | session_01G8FY… | xong | 2026-10-22 |
 | L12 | sửa | `claude/lesson-L12` | session_01APRS… | xong | 2026-10-22 |
 | L13 | sửa | `claude/lesson-L13` | session_013hwz… | xong | 2026-10-22 |
-| L14 | sửa | `claude/lesson-L14` | session_012AtG… | chờ PR | 2026-10-22 |
+| L14 | sửa | `claude/lesson-L14` | session_012AtG… | xong | 2026-10-22 |
 
 Ghi chú: L11–L14 do phiên điều phối giao viết và phản biện (hai phiên phản biện chỉ đọc mỗi bài, không cần khoá); chưa có file khoá vì chúng viết trước khi có công cụ này.
 Mỗi bài đi qua một PR riêng, lần lượt L11 → L14; sau khi gộp mới dựng deck.

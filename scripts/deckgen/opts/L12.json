@@ -1,0 +1,39 @@
+{
+ "topic_label": "Sức khỏe · Bài L12",
+ "motif": "split",
+ "question": "Đo được gì ở não, và chưa đo được gì?",
+ "cards": [
+  "Trầm cảm",
+  "Lưỡng cực",
+  "Lo âu",
+  "PTSD"
+ ],
+ "big": {},
+ "actors": {},
+ "mark": {
+  "1": "đo được gì, và chưa đo được gì",
+  "17": "đang có tranh luận công khai",
+  "21": "nhạy cảm quá mức với phần thưởng",
+  "38": "chưa đủ để kết luận cơ chế",
+  "41": "nguyên nhân, hậu quả hay chỉ đi kèm",
+  "43": "không phải lời khuyên y tế hay tâm lý"
+ },
+ "center": {
+  "10": "Vỏ trước trán giữa",
+  "30": "Mạch PTSD"
+ },
+ "concepts": [
+  "hạnh nhân",
+  "hải mã",
+  "vỏ trước trán",
+  "rối loạn tâm lý",
+  "ssri",
+  "hệ thần kinh tự chủ",
+  "thùy đảo",
+  "ptsd",
+  "từ dưới lên",
+  "từ trên xuống",
+  "tính dẻo thần kinh",
+  "tương quan"
+ ]
+}

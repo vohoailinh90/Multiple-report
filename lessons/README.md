@@ -12,6 +12,8 @@
 | Não bộ | 2026-10-21 | [L04](L04/lesson.md) | Thùy trán, não trái và não phải | [L04.pptx](L04/L04.pptx) |
 | Não bộ | 2026-10-21 | [L08](L08/lesson.md) | Vỏ não và các thùy: thái dương, đỉnh, chẩm | [L08.pptx](L08/L08.pptx) |
 | Não bộ | 2026-10-21 | [L11](L11/lesson.md) | Trí nhớ cảm xúc: hải mã, hạnh nhân và vỏ trước trán | [L11.pptx](L11/L11.pptx) |
+| Sức khỏe | 2026-10-21 | [L12](L12/lesson.md) | Rối loạn tâm trạng, lo âu và PTSD ở mức cơ chế | chưa có |
+| Sức khỏe | 2026-10-21 | [L13](L13/lesson.md) | Thuốc và chất tác động lên chất dẫn truyền | chưa có |
 | Thần kinh | 2026-10-19 | [L00](L00/lesson.md) | Dopamine và động lực | [L00.pptx](L00/L00.pptx) |
 | Thần kinh | 2026-10-20 | [L03](L03/lesson.md) | Chất dẫn truyền thần kinh và tâm lý | [L03.pptx](L03/L03.pptx) |
 | Thần kinh | 2026-10-20 | [L05](L05/lesson.md) | Hệ thưởng, chú ý và căng thẳng | [L05.pptx](L05/L05.pptx) |

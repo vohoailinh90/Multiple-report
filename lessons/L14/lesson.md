@@ -1,10 +1,10 @@
 ---
 id: L14
-title: Não thay đổi theo tuổi và kinh nghiệm: từ thai kỳ đến tuổi vị thành niên
+title: Não thay đổi theo tuổi và kinh nghiệm
 topic: nao-bo
 date: 2026-10-21
 ---
-# Não thay đổi theo tuổi và kinh nghiệm: từ thai kỳ đến tuổi vị thành niên
+# Não thay đổi theo tuổi và kinh nghiệm
 
 ## Tóm tắt
 

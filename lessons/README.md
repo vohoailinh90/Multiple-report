@@ -11,7 +11,7 @@
 | Não bộ | 2026-10-21 | [L02](L02/lesson.md) | Nơron và synapse: não truyền tin thế nào | [L02.pptx](L02/L02.pptx) |
 | Não bộ | 2026-10-21 | [L04](L04/lesson.md) | Thùy trán, não trái và não phải | [L04.pptx](L04/L04.pptx) |
 | Não bộ | 2026-10-21 | [L08](L08/lesson.md) | Vỏ não và các thùy: thái dương, đỉnh, chẩm | [L08.pptx](L08/L08.pptx) |
-| Não bộ | 2026-10-21 | [L11](L11/lesson.md) | Trí nhớ cảm xúc: hải mã, hạnh nhân và vỏ trước trán | chưa có |
+| Não bộ | 2026-10-21 | [L11](L11/lesson.md) | Trí nhớ cảm xúc: hải mã, hạnh nhân và vỏ trước trán | [L11.pptx](L11/L11.pptx) |
 | Não bộ | 2026-10-21 | [L14](L14/lesson.md) | Não thay đổi theo tuổi và kinh nghiệm | chưa có |
 | Sức khỏe | 2026-10-21 | [L12](L12/lesson.md) | Rối loạn tâm trạng, lo âu và PTSD ở mức cơ chế | [L12.pptx](L12/L12.pptx) |
 | Sức khỏe | 2026-10-21 | [L13](L13/lesson.md) | Thuốc và chất tác động lên chất dẫn truyền | chưa có |

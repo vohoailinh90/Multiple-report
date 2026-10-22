@@ -1,0 +1,43 @@
+{
+ "topic_label": "Não bộ · Bài L11",
+ "motif": "pulse",
+ "question": "Vì sao nhớ rõ chưa chắc là nhớ đúng?",
+ "cards": [
+  "Hải mã",
+  "Hạnh nhân",
+  "Vỏ trước trán",
+  "Ký ức chói"
+ ],
+ "big": {},
+ "actors": {
+  "12": ["Người học", "Gợi ý", "Ký ức"],
+  "24": ["Thí nghiệm", "Chuột", "Vỏ infralimbic"]
+ },
+ "pairs": {
+  "12": [[1, 2], [1, 2], [0, 2], [0, 2]],
+  "24": [[0, 1], [0, 1], [0, 2], [2, 1], [0, 2]]
+ },
+ "mark": {
+  "1": "nhớ rõ chưa chắc là nhớ đúng",
+  "19": "chủ yếu điều chỉnh độ mạnh củng cố",
+  "28": "Dập tắt không phải xóa",
+  "34": "bằng chứng còn tranh luận",
+  "39": "không bảo đảm nhất quán",
+  "45": "ba thứ khác nhau"
+ },
+ "center": {
+  "26": "Hạnh nhân và vmPFC"
+ },
+ "concepts": [
+  "hạnh nhân",
+  "hải mã",
+  "vỏ trước trán",
+  "trí nhớ tường thuật",
+  "trí nhớ không tường thuật",
+  "trí nhớ làm việc",
+  "dập tắt",
+  "tái củng cố",
+  "ký ức chói",
+  "propranolol"
+ ]
+}

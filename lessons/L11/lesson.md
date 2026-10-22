@@ -8,7 +8,7 @@ date: 2026-10-21
 
 ## Tóm tắt
 
-Vì sao bạn nhớ rõ một lần suýt tai nạn nhưng quên bữa trưa hôm qua? Và vì sao nhớ rõ chưa chắc là nhớ đúng? Bài này đi theo **đường đi của một ký ức**: được tạo, được giữ, được lấy ra, và (theo một số nghiên cứu) được viết lại một phần mỗi khi lấy ra, rồi xem cảm xúc chen vào bước nào.
+Vì sao bạn nhớ rõ một lần suýt tai nạn nhưng quên bữa trưa hôm qua? Và vì sao nhớ rõ chưa chắc là nhớ đúng? Bài này đi theo **đường đi của một ký ức**: được tạo, được giữ, được lấy ra, và (theo giáo trình) có thể trở nên dễ sửa đổi sau khi được kích hoạt lại [S4], rồi xem cảm xúc chen vào bước nào.
 
 Mỗi ý mang nhãn: **giáo khoa**, **giả thuyết hoặc đang tranh luận**, hoặc **Suy luận của người viết**; kết quả chỉ có ở động vật được ghi rõ.
 
@@ -17,7 +17,7 @@ Mỗi ý mang nhãn: **giáo khoa**, **giả thuyết hoặc đang tranh luận*
 - Hạnh nhân (amygdala) chủ yếu điều biến độ mạnh củng cố ở nơi khác [S5] [S7]; với ký ức sợ ở chuột, nó có thể cũng giữ một phần [S2] [S12].
 - Vỏ trước trán (prefrontal cortex) giữ thông tin tạm thời và liên quan đến nhớ điều đã dập tắt (extinction) [S2] [S10] [S11].
 - Tái củng cố (reconsolidation): thí nghiệm gốc ở chuột [S12]; ở người còn tranh luận, chưa kết luận chắc [S13] [S14] [S15] [S18].
-- Ký ức chói (flashbulb memory) sống động và khiến người ta tự tin, nhưng hai nghiên cứu 11/9 không thấy nó nhất quán hơn ký ức thường [S16] [S17].
+- Ký ức chói (flashbulb memory) sống động và khiến người ta tự tin; Talarico và Rubin: không nhất quán hơn ký ức đời thường [S16]; Hirst: tự tin vẫn cao dù quên nhanh [S17].
 
 Bài nói về cơ chế, không phải lời khuyên y tế; PTSD nằm ở L12.
 
@@ -175,15 +175,15 @@ Dập tắt (extinction) là khi âm thanh được lặp lại không kèm số
 
 Dập tắt là một lần học bổ sung (vmPFC có thể lưu ký ức dập tắt, gợi ý từ chuột); xóa là ký ức gốc không còn. Nguồn đã đọc ủng hộ cách nhìn thứ nhất như một giả thuyết có bằng chứng ở chuột [S10]. Vì thế khi nỗi sợ nhạt đi, chưa chắc ký ức ban đầu đã bị xóa; điều trị xem L12.
 
-## Tái củng cố: nhớ lại là viết lại một phần
+## Tái củng cố: ký ức được nhớ lại có thể dễ sửa
 
 ### Quan niệm cũ và thí nghiệm gốc ở chuột
 
-Giáo trình 8.6 viết rằng quan niệm cũ coi lưu trữ ký ức là một quá trình đơn và tuyến tính, mỗi lần nhớ thì dấu vết gốc được lấy ra nguyên vẹn. Công trình gần đây gợi ý ký ức dễ bị đổi, nên có thể mỗi lần nhớ lại, ký ức thay đổi một chút; ký ức không phải bản ghi cố định mà là sự dựng lại năng động. Quá trình đó gọi là **tái củng cố** (reconsolidation): ký ức được kích hoạt lại tạm thời trở nên nhạy với sửa đổi [S4].
+Giáo trình 8.6 viết rằng quan niệm cũ coi lưu trữ ký ức là một quá trình đơn và tuyến tính, mỗi lần nhớ thì dấu vết gốc được lấy ra nguyên vẹn. Công trình gần đây gợi ý ký ức dễ bị đổi, nên có thể mỗi lần nhớ lại, ký ức thay đổi một chút; ký ức không phải bản ghi cố định mà là sự dựng lại năng động. Quá trình đó gọi là **tái củng cố** (reconsolidation): ký ức được kích hoạt lại tạm thời trở nên nhạy với sửa đổi [S4]. Chữ "có thể" quan trọng: dễ sửa không có nghĩa là mỗi lần nhớ đều viết lại [S4].
 
 Thí nghiệm gốc là của Nader, Schafe và LeDoux (2000) ở **chuột**. Nhóm này dùng anisomycin, chất ức chế tổng hợp protein, tiêm vào nhân bên và nhân đáy của hạnh nhân. Tiêm ngay sau huấn luyện ngăn củng cố ký ức sợ. Khi ký ức đã củng cố được kích hoạt lại rồi tiêm anisomycin ngay sau đó, chuột mất trí nhớ khi thử lại, dù kích hoạt lại sau 1 hay 14 ngày kể từ điều kiện hóa. Không kích hoạt lại thì thuốc không làm mất ký ức; hoãn tiêm đến 6 giờ sau kích hoạt cũng không gây mất. Các tác giả kết luận ký ức sợ đã củng cố, khi được kích hoạt lại, trở lại trạng thái dễ sửa và cần tổng hợp protein mới để tái củng cố; điều này không do các lý thuyết củng cố truyền thống dự đoán [S12].
 
-Sơ đồ: học → nhắc lại → can thiệp (tiêm thuốc trong cửa sổ ngắn) → kiểm tra sau. Đây là kết quả ở động vật, với thuốc tiêm thẳng vào não.
+Đây là kết quả ở động vật, với thuốc tiêm thẳng vào não.
 
 ### Ở người: bằng chứng còn tranh luận
 
@@ -271,7 +271,7 @@ Hiểu lầm chung: coi mỗi cấu trúc là một việc, hoặc là nơi ký 
 - Tái hoạt hóa khi ngủ ngày càng được xem là cơ chế then chốt của củng cố ở người [S4] (theo giáo trình).
 - Dập tắt là học thêm, không phải xóa [S10] (giả thuyết, bằng chứng ở chuột); vmPFC liên quan đến nhớ sự dập tắt ở chuột và người [S10] [S11].
 - Tái củng cố: thí nghiệm gốc ở chuột [S12]; ở người đang tranh luận [S13] [S14] [S15] [S18].
-- Ký ức chói: sống động (Talarico) và tự tin (Hirst) không đi kèm nhất quán hơn [S16] [S17] (hai nghiên cứu về 11/9).
+- Ký ức chói (hai nghiên cứu 11/9): nhất quán không hơn ký ức đời thường [S16]; tự tin vẫn cao dù quên nhanh [S17].
 - Bài nhằm hiểu cơ chế, không phải lời khuyên y tế; rối loạn ở L12.
 
 ## Nguồn tham khảo

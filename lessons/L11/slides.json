@@ -207,7 +207,7 @@
     "Ca H.M.: mất ký ức hai năm trước mổ, giữ ký ức xa (phân bậc thời gian)",
     "Tổng quan 2005: ký ức \"chín\" dần phụ thuộc vỏ não; cách chuyển còn hiểu ít",
     "Lashley (chuột): độ lớn tổn thương vỏ não quyết định mức hỏng; dấu vết trải rộng",
-    "Giới hạn: đây là một mô hình; có phiên bản khác, bài chưa kiểm nguồn nên không bàn"
+    "Giới hạn: đây là một mô hình; có mô hình khác (ví dụ đa dấu vết), bài chỉ nêu giáo trình"
    ],
    "notes": "Ba bằng chứng và một giới hạn. H.M.: mất trí nhớ ngược chiều có phân bậc thời gian, nghĩa là mất ký ức gần trước mổ nhưng giữ ký ức thơ ấu; mô hình chuẩn giải thích là ký ức gần còn phụ thuộc hải mã. Tổng quan Frankland và Bontempi mô tả ký ức đời thường lúc đầu phụ thuộc hệ thùy thái dương trong và dần phụ thuộc các vùng như vỏ não; chính các tác giả nói còn hiểu ít về cách chuyển. Lashley làm ở chuột thập niên 1950: lấy bỏ vỏ não ở đâu cũng hỏng mê cung tương ứng độ lớn, nên dấu vết ký ức trải rộng. Giới hạn cuối là điều cần nói to: một mô hình, không phải sự thật cuối cùng."
   },
@@ -261,7 +261,7 @@
    "tone": "dark",
    "bullets": [
     "Ở đâu và các nhân: xem L07; mạch sợ: xem L09",
-    "Làm gì: điều chỉnh độ mạnh củng cố của ký ức ở nơi khác",
+    "Làm gì: chủ yếu điều chỉnh độ mạnh củng cố của ký ức ở nơi khác",
     "Đừng hiểu nhầm: không phải kho chứa mọi ký ức cảm xúc"
    ],
    "body": "Theo tổng quan của McGaugh, **hạnh nhân** điều biến sự củng cố ký ức về trải nghiệm xúc động; tác động của hormone căng thẳng thượng thận và chất dẫn truyền được phức hợp **đáy bên** làm trung gian [S5]. Phelps tóm tắt: hạnh nhân có thể điều biến cả mã hóa và lưu trữ của ký ức phụ thuộc **hải mã**; hai hệ độc lập nhưng phối hợp khi cảm xúc gặp trí nhớ [S7].",
@@ -368,14 +368,15 @@
    "sources": [
     "S2",
     "S5",
-    "S7"
+    "S7",
+    "S12"
    ],
    "layout": "one-highlighted-sentence",
    "tone": "light",
    "bullets": [
-    "Hạnh nhân điều chỉnh độ mạnh củng cố của ký ức ở nơi khác; nó không phải kho chứa mọi ký ức cảm xúc."
+    "Hạnh nhân chủ yếu điều chỉnh độ mạnh củng cố của ký ức ở nơi khác; nó không phải kho chứa mọi ký ức cảm xúc."
    ],
-   "notes": "Một câu để mang về. Nhãn mức chắc chắn: ý hạnh nhân điều biến củng cố có nhiều bằng chứng ở động vật và bằng chứng nhất quán ở người trong các tổng quan; phần cơ chế chi tiết chủ yếu từ động vật. Giáo trình còn nêu thí nghiệm ở chuột: làm chết tế bào hạnh nhân bên sau khi tập sợ âm thanh thì ký ức sợ mờ đi, dùng để nói hạnh nhân tham gia lưu ký ức sợ. Suy luận của người viết để dung hòa: với ký ức sợ kiểu điều kiện hóa ở chuột, hạnh nhân có thể giữ một phần dấu vết; với ký ức tình tiết cảm xúc, các tổng quan nhấn mạnh vai trò điều biến. Hai nguồn chưa đối chiếu trực tiếp nên đừng xem là kết luận."
+   "notes": "Một câu để mang về. Nhãn mức chắc chắn: ý hạnh nhân điều biến củng cố có nhiều bằng chứng ở động vật và bằng chứng nhất quán ở người trong các tổng quan; phần cơ chế chi tiết chủ yếu từ động vật. Giáo trình còn nêu thí nghiệm ở chuột: làm chết tế bào hạnh nhân bên sau khi tập sợ âm thanh thì ký ức sợ mờ đi, dùng để nói hạnh nhân tham gia lưu ký ức sợ. Với ký ức sợ ở chuột, Nader và cộng sự nêu hạnh nhân bên và đáy được cho là nơi lưu ký ức sợ. Suy luận của người viết để dung hòa: hạnh nhân có thể cũng giữ một phần dấu vết ký ức sợ ở chuột; với ký ức tình tiết cảm xúc, các tổng quan nhấn mạnh vai trò điều biến. Hai nguồn chưa đối chiếu trực tiếp nên đừng xem là kết luận."
   },
   {
    "title": "Vỏ trước trán giữ thông tin tạm thời",
@@ -527,7 +528,7 @@
    "layout": "two-column-comparison",
    "tone": "light",
    "bullets": [
-    "Dập tắt: một ký ức mới \"tín hiệu này giờ an toàn\", có mạch riêng ở vmPFC; ký ức gốc có thể còn (giả thuyết)",
+    "Dập tắt: một ký ức mới \"tín hiệu này giờ an toàn\"; vmPFC có thể lưu nó (gợi ý từ chuột); ký ức gốc có thể còn (giả thuyết)",
     "Xóa: ký ức gốc không còn nữa; nguồn đã đọc không chứng minh điều này cho dập tắt",
     "Vì vậy khi nỗi sợ nhạt đi sau trị liệu, chưa chắc ký ức ban đầu đã bị xóa; việc điều trị xem L12."
    ],
@@ -585,7 +586,8 @@
     "S12",
     "S13",
     "S14",
-    "S15"
+    "S15",
+    "S18"
    ],
    "layout": "timeline",
    "tone": "light",
@@ -594,12 +596,13 @@
     "2009: Kindt và cộng sự: propranolol trước nhắc lại, ở người",
     "12/2009: Schiller và cộng sự: dập tắt trong cửa sổ tái củng cố, ở người",
     "2018: Schiller và cộng sự đăng addendum về tiêu chí loại người",
-    "2020: Chalkia và cộng sự: kiểm chứng bài Schiller, kết quả không còn khi loại người có nguyên tắc"
+    "2020: Chalkia và cộng sự: kiểm chứng bài Schiller, kết quả không còn khi loại người có nguyên tắc",
+    "2010 và 2022: Muravieva và Alberini (chuột); Pigeon và cộng sự (phân tích gộp ở người)"
    ],
    "notes": "Năm mốc xếp theo thời gian. Mốc 2000 là thí nghiệm gốc ở chuột. Năm 2009 có hai bài ở người: bài của Kindt dùng thuốc propranolol, ra trước vào tháng 2; bài của Schiller dùng kỹ thuật không xâm lấn, đăng trực tuyến tháng 12 và thường được dẫn là bài 2010. Năm 2018, chính nhóm Schiller đăng addendum mô tả đầy đủ hơn tiêu chí loại người tham gia. Năm 2020, Chalkia và cộng sự công bố báo cáo kiểm chứng. Nhấn mạnh rằng dòng thời gian cho thấy tranh luận, không cho thấy ai đúng: nhãn của cả phần này là đang tranh luận, chưa kết luận chắc."
   },
   {
-   "title": "Schiller (2010) và Chalkia (2020)",
+   "title": "Schiller (2009 trực tuyến) và Chalkia (2020)",
    "section": "Tái củng cố: nhớ lại là viết lại một phần",
    "sources": [
     "S13",
@@ -608,7 +611,7 @@
    "layout": "two-column-comparison",
    "tone": "dark",
    "bullets": [
-    "Schiller: dập tắt trong cửa sổ tái củng cố làm đáp ứng sợ không còn biểu hiện, kéo dài ít nhất một năm, chọn lọc với ký ức được nhắc",
+    "Schiller (2009 trực tuyến): dập tắt trong cửa sổ tái củng cố, sợ không còn biểu hiện ít nhất một năm, chọn lọc với ký ức được nhắc",
     "Chalkia: khác biệt phụ thuộc vào loại người định tính; loại có nguyên tắc thì sợ trở lại gần như giống nhau ở hai nhóm",
     "Addendum 2018: tác giả gốc mô tả đầy đủ hơn việc loại người, dựa trên đánh giá định tính từng lần thử đáp ứng điện da."
    ],
@@ -619,51 +622,50 @@
    "section": "Tái củng cố: nhớ lại là viết lại một phần",
    "sources": [
     "S15",
-    "S9"
+    "S18"
    ],
    "layout": "explainer",
    "tone": "light",
    "bullets": [
-    "Thiết kế: uống propranolol trước khi kích hoạt lại ký ức sợ",
-    "Kết quả báo cáo: biểu hiện sợ giảm sau 24 giờ, sợ không trở lại",
-    "Đừng hiểu nhầm: chưa có kiểm chứng trong nguồn đã đọc; chưa rõ"
+    "Thiết kế (Kindt): uống propranolol trước khi kích hoạt lại ký ức sợ",
+    "Pigeon (2022): phân tích gộp thấy giảm nhớ lại; tác giả cuối là Brunet",
+    "Muravieva & Alberini (2010): ở chuột, hiệu quả bị hạn chế"
    ],
-   "body": "Kindt, Soeter và Vervliet (2009) theo một hướng khác: dùng thuốc. Theo các tác giả, uống **propranolol**, chất chẹn thụ thể beta-adrenergic, trước khi kích hoạt lại ký ức ở người đã xóa biểu hiện hành vi của ký ức sợ sau 24 giờ và ngăn sợ trở lại [S15]. Trong các nguồn bài này đã đọc, chưa có bài nào kiểm chứng lại kết quả đó, nên **chưa rõ** nó đã được lặp lại hay chưa.",
-   "notes": "Hướng của Kindt, Soeter và Vervliet khác Schiller ở chỗ dùng thuốc: propranolol, chất chẹn thụ thể beta-adrenergic, uống trước khi nhắc lại ký ức. Theo các tác giả, biểu hiện hành vi của ký ức sợ biến mất sau 24 giờ và sợ không trở lại. Hãy liên hệ với mục hạnh nhân: Cahill và cộng sự cũng dùng propranolol trong nghiên cứu về trí nhớ truyện xúc động, vì noradrenaline là chất trung gian của củng cố cảm xúc. Nhưng đây là hai thí nghiệm khác nhau, hai câu hỏi khác nhau. Điều cần nói thẳng: trong các nguồn bài này đọc được, chưa có bài nào kiểm chứng lại kết quả này, nên chưa rõ nó đã được lặp lại hay chưa; tránh phát biểu kiểu \"đã chứng minh\"."
+   "body": "Kindt, Soeter và Vervliet (2009) dùng thuốc: theo các tác giả, uống **propranolol** trước khi kích hoạt lại ký ức ở người đã xóa biểu hiện hành vi của ký ức sợ sau 24 giờ và ngăn sợ trở lại [S15]. Thử lặp lại cho kết quả **không đồng nhất**: phân tích gộp 14 nghiên cứu ở người khỏe mạnh thấy hiệu ứng (g = −0,51), tác giả cuối là Brunet; nghiên cứu ở chuột thấy hiệu quả bị hạn chế [S18].",
+   "notes": "Hướng của Kindt, Soeter và Vervliet khác Schiller ở chỗ dùng thuốc: propranolol, chất chẹn thụ thể beta-adrenergic, uống trước khi nhắc lại ký ức. Theo các tác giả, biểu hiện hành vi của ký ức sợ biến mất sau 24 giờ và sợ không trở lại. Sau đó có thử lặp lại với kết quả không đồng nhất. Pigeon và cộng sự gộp 14 nghiên cứu ở người khỏe mạnh và gọi hiện tượng là vững; nhưng tác giả cuối là Brunet, và tôi chưa tự kiểm họ có độc lập với hướng nghiên cứu hay không, nên đó là quan điểm của chính họ. Muravieva và Alberini, ở chuột, thấy propranolol phá tái củng cố điều kiện hóa Pavlov nhưng không phá ký ức né tránh. Liên hệ mục hạnh nhân: Cahill cũng dùng propranolol, trong thí nghiệm khác về trí nhớ truyện xúc động."
   },
   {
    "title": "Ở người: còn tranh luận",
    "section": "Tái củng cố: nhớ lại là viết lại một phần",
    "sources": [
-    "S4",
     "S13",
     "S14",
-    "S15"
+    "S15",
+    "S18"
    ],
    "layout": "one-highlighted-sentence",
    "tone": "dark",
    "bullets": [
     "Tái củng cố ở người: bằng chứng còn tranh luận, chưa kết luận chắc."
    ],
-   "notes": "Một câu tóm cả mục, kèm nhãn mức chắc chắn là đang tranh luận. Ghi chú của người viết, cũng là Suy luận của người viết dựa trên ba phần tóm tắt và một addendum: kết quả của Schiller năm 2010 bị đặt dấu hỏi nghiêm trọng, hướng dùng propranolol còn cần kiểm chứng riêng, và câu hỏi tổng quát liệu tái củng cố có dùng được để sửa ký ức sợ ở người hay chưa vẫn chưa có đáp án chắc. Giáo trình 8.6 cũng nêu tái hoạt hóa có đích như công cụ được đề xuất cho ký ức liên quan đến sang chấn, nhưng kết quả với ký ức cảm xúc còn lẫn lộn. Không dùng slide này để kết luận về điều trị; bài nhằm hiểu cơ chế."
+   "notes": "Một câu tóm cả mục, kèm nhãn mức chắc chắn là đang tranh luận. Ghi chú của người viết, cũng là Suy luận của người viết dựa trên ba phần tóm tắt và một addendum: kết quả của Schiller năm 2010 bị đặt dấu hỏi nghiêm trọng, hướng propranolol có thêm bằng chứng nhưng không đồng nhất, và câu hỏi tổng quát liệu tái củng cố có dùng được để sửa ký ức sợ ở người hay chưa vẫn chưa có đáp án chắc. Không dùng slide này để kết luận về điều trị; bài nhằm hiểu cơ chế."
   },
   {
    "title": "Ký ức chói là gì",
    "section": "Ký ức chói: sống động không có nghĩa là chính xác",
    "sources": [
     "S16",
-    "S17",
-    "S18"
+    "S17"
    ],
    "layout": "explainer",
    "tone": "light",
    "bullets": [
-    "Thuật ngữ: từ bài \"Flashbulb memories\" của Brown và Kulik, 1977",
-    "Ba thứ cần tách: sống động, tự tin, chính xác",
+    "Thuật ngữ: thường dẫn là của Brown và Kulik, 1977 (chưa đọc bài)",
+    "Khung của người viết: sống động, tự tin, nhất quán",
     "Đừng hiểu nhầm: ký ức chói không phải ghi hình chính xác"
    ],
-   "body": "Thuật ngữ **ký ức chói** (flashbulb memory) xuất hiện trong bài \"Flashbulb memories\" của Brown và Kulik (1977) [S18]. Nó thường chỉ ký ức rất sống động về hoàn cảnh nghe một tin sốc. Cần tách ba thứ: độ **sống động**, mức **tự tin** vào ký ức, và độ **chính xác**, tức khớp với điều đã ghi lúc đầu hoặc với sự thật. Hai nghiên cứu theo dõi vụ 11/9 cho thấy ba thứ này không đi cùng nhau [S16] [S17].",
-   "notes": "Hình dung một tin lớn mà ai cũng nhớ mình đang ở đâu khi nghe: đó là ký ức về hoàn cảnh nghe tin, không phải ký ức về chính sự kiện. Brown và Kulik đặt tên cho hiện tượng này năm 1977; bài của họ tôi chỉ kiểm được tiêu đề và năm qua Crossref, nên không trích kết luận của họ. Phần chính của mục dựa vào hai nghiên cứu theo dõi 11/9. Bài tách ba thứ vốn hay bị gộp: cảm giác sống động, mức tự tin, và mức chính xác, tức độ nhất quán với báo cáo ban đầu. Chỗ dễ nhầm: người ta thường lấy hai thứ đầu làm bằng chứng của thứ ba, và các nghiên cứu cho thấy chúng không đi cùng nhau."
+   "body": "Thuật ngữ **ký ức chói** (flashbulb memory) thường được dẫn là của Brown và Kulik (1977); tôi chỉ kiểm tiêu đề, chưa đọc bài. Nó chỉ ký ức rất sống động về hoàn cảnh nghe một tin sốc. Khung ba thứ là của người viết: độ **sống động**, mức **tự tin**, và độ **nhất quán** với điều chính người đó đã ghi sớm sau sự kiện. Hai nghiên cứu theo dõi vụ 11/9 cho thấy sống động và tự tin không đi cùng nhất quán [S16] [S17].",
+   "notes": "Hình dung một tin lớn mà ai cũng nhớ mình đang ở đâu khi nghe: đó là ký ức về hoàn cảnh nghe tin, không phải ký ức về chính sự kiện. Thuật ngữ thường được dẫn là của Brown và Kulik (1977); tôi chưa đọc bài đó nên không trích kết luận của họ. Phần chính của mục dựa vào hai nghiên cứu theo dõi 11/9. Bài tách ba thứ vốn hay bị gộp: cảm giác sống động, mức tự tin, và mức chính xác, tức độ nhất quán với báo cáo ban đầu. Chỗ dễ nhầm: người ta thường lấy hai thứ đầu làm bằng chứng của thứ ba, và các nghiên cứu cho thấy chúng không đi cùng nhau."
   },
   {
    "title": "Hai nghiên cứu theo dõi sự kiện 11/9",
@@ -695,13 +697,13 @@
    "bullets": [
     "Sống động (Talarico): giảm ở ký ức đời thường, không giảm ở ký ức chói",
     "Tự tin (Hirst): vẫn cao suốt mười năm dù quên nhanh năm đầu",
-    "Chính xác (Talarico): nhất quán không khác ký ức đời thường; cả hai giảm",
-    "Chính xác (Hirst): ký ức sự kiện sai dễ được sửa hơn ký ức chói sai"
+    "Nhất quán (Talarico): không khác ký ức đời thường; cả hai giảm",
+    "Nhất quán (Hirst): ký ức sự kiện sai dễ được sửa hơn ký ức chói sai"
    ],
    "notes": "Mỗi hàng cho một trục và một nghiên cứu. Sống động: trong Talarico và Rubin, điểm tự đánh giá về độ sống động, mức nhớ lại và niềm tin ký ức chính xác chỉ giảm với ký ức đời thường, không giảm với ký ức chói. Tự tin: Hirst thấy sự tự tin vẫn cao suốt mười năm dù quên rất nhanh trong năm đầu. Chính xác, đo bằng nhất quán: Talarico thấy nhất quán của ký ức chói và ký ức đời thường không khác nhau, cả hai giảm. Hirst thấy ký ức chói không nhất quán có xu hướng được lặp lại hơn là được sửa, còn ký ức sự kiện sai thì dễ được sửa hơn. Kết luận của Talarico: đặc biệt về độ chính xác cảm nhận, không phải độ chính xác."
   },
   {
-   "title": "Sống động và chính xác là hai việc khác nhau",
+   "title": "Sống động và nhất quán là hai việc khác nhau",
    "section": "Ký ức chói: sống động không có nghĩa là chính xác",
    "sources": [
     "S16",
@@ -711,7 +713,7 @@
    "tone": "dark",
    "bullets": [
     "Sống động và tự tin: là cảm giác của người nhớ; Talarico: không giảm theo thời gian ở ký ức chói; Hirst: cao suốt mười năm",
-    "Chính xác: so với báo cáo đầu hoặc với sự thật; Talarico: giảm như ký ức thường; Hirst: cường độ cảm xúc không dự báo độ nhất quán",
+    "Nhất quán: so với báo cáo đầu của chính người đó; Talarico: giảm như ký ức thường; Hirst: cường độ cảm xúc không dự báo độ nhất quán",
     "Hai nghiên cứu theo dõi dọc, đo ký ức về hoàn cảnh nghe tin; từ đó không suy ra ký ức cảm xúc luôn kém chính xác."
    ],
    "notes": "Slide cặp đối lập chính của mục. Cột trái là thứ ta cảm nhận được từ bên trong: sống động và tự tin. Cột phải là thứ phải kiểm bằng cách so với báo cáo đầu hoặc sự thật: độ chính xác, thường đo qua độ nhất quán. Ghi chú phương pháp của người viết: vì cả hai là nghiên cứu theo dõi có báo cáo sớm, nên chính xác thực chất là nhất quán với báo cáo ban đầu; riêng Hirst còn đo độ chính xác của dữ kiện sự kiện. Dòng cuối là giới hạn cần nhớ: từ hai nghiên cứu này không suy ra ký ức cảm xúc luôn kém chính xác, vì chúng đo ký ức về hoàn cảnh nghe tin, không đo mọi loại ký ức cảm xúc."
@@ -728,7 +730,7 @@
    "layout": "one-highlighted-sentence",
    "tone": "light",
    "bullets": [
-    "Sống động và tự tin không bảo đảm chính xác: ký ức chói không phải ghi hình chính xác."
+    "Sống động và tự tin không bảo đảm nhất quán: ký ức chói không phải ghi hình chính xác."
    ],
    "notes": "Câu để mang về. Nối lại với cơ chế ở các mục trước, và đánh dấu đây là Suy luận của người viết: cảm xúc làm tăng ưu tiên khi mã hóa và củng cố, nên có thể giải thích vì sao ký ức đáng nhớ hơn và có vẻ rõ hơn; nhưng các nguồn về 11/9 cho thấy nhớ rõ và tự tin không bảo đảm nhớ đúng. Cũng nhớ quy tắc của bài: không nguồn nào ở đây nói hạnh nhân hay ký ức chói ghi hình chính xác, nên bài không viết như vậy. Ví dụ của người viết: hai người cùng nhớ sống động về cùng một khoảnh khắc, nhưng kể khác nhau về chi tiết; cả hai đều tự tin, và cả hai điều đó có thể đồng thời đúng."
   },
@@ -805,7 +807,7 @@
    "layout": "lookup-table",
    "tone": "light",
    "bullets": [
-    "Hạnh nhân là kho: điều biến độ mạnh củng cố ở nơi khác",
+    "Hạnh nhân là kho: chủ yếu điều biến củng cố; với ký ức sợ ở chuột có thể cũng giữ một phần",
     "Hải mã giữ mãi: mô hình chuẩn nói ký ức dần dựa vào vỏ não",
     "Nhớ là phát băng: giáo trình mô tả dựng lại; ở người còn tranh luận",
     "Dập tắt là xóa: giả thuyết nói nó thêm ký ức mới",
@@ -815,7 +817,7 @@
    "notes": "Sáu hiểu lầm, mỗi cái đã nói ở mục tương ứng, gom lại thành bảng để ôn. Hạnh nhân là bộ điều chỉnh, không phải kho. Hải mã là bước đầu theo một mô hình chiếm ưu thế, không phải kho vĩnh viễn, và là một mô hình chứ không phải sự thật cuối cùng. Nhớ lại có thể làm ký ức thay đổi, theo cách nhìn trong giáo trình, nhưng chữ là có thể. Dập tắt là giả thuyết thêm ký ức mới. Ký ức chói tách ba thứ. Tái củng cố ở người đang tranh luận. Yêu cầu người học chọn một hiểu lầm mà họ từng tin trước bài, rồi nói điều nguồn thật sự nói."
   },
   {
-   "title": "Ba cấu trúc, ba vai trò",
+   "title": "Hiểu lầm chung: ba cấu trúc, ba vai trò",
    "section": "Những hiểu lầm thường gặp",
    "sources": [
     "S2",
@@ -826,7 +828,7 @@
    "layout": "card-grid",
    "tone": "dark",
    "bullets": [
-    "Hạnh nhân: bộ điều chỉnh, không phải kho",
+    "Hạnh nhân: chủ yếu là bộ điều chỉnh",
     "Hải mã: buộc các mảnh lại lúc đầu",
     "Vỏ trước trán: giữ tạm và nhớ sự dập tắt"
    ],
@@ -861,7 +863,7 @@
    "tone": "dark",
    "bullets": [
     "Trí nhớ có nhiều loại; một ký ức đi qua mã hóa, củng cố, truy xuất",
-    "Hạnh nhân điều biến độ mạnh củng cố; noradrenaline là chất trung gian",
+    "Hạnh nhân chủ yếu điều biến củng cố; thuốc chẹn beta làm giảm nhớ truyện xúc động",
     "Mô hình chuẩn: hải mã buộc lại lúc đầu, về sau ký ức dựa vào vỏ não",
     "Dập tắt là học thêm, không phải xóa; vỏ trước trán giữa-bụng liên quan",
     "Tái củng cố: chuột có thí nghiệm gốc; ở người còn tranh luận",
@@ -912,9 +914,9 @@
     "S15: Kindt, Soeter, Vervliet, Beyond extinction, Nat Neurosci, 2009",
     "S16: Talarico & Rubin, Confidence, not consistency, characterizes flashbulb memories, 2003",
     "S17: Hirst và cộng sự, ten-year follow-up of memory for September 11, JEP: General, 2015",
-    "S18: Brown & Kulik, Flashbulb memories, Cognition, 1977"
+    "S18: Pigeon và cộng sự, phân tích gộp propranolol, 2022; Muravieva & Alberini, 2010"
    ],
-   "notes": "Đường dẫn đầy đủ của 18 nguồn nằm ở mục Nguồn tham khảo của lesson.md. Bốn nguồn đầu là bốn chương giáo trình Biological Psychology, đã đọc toàn văn. Từ S5 trở đi là nguồn gốc độc lập, kiểm bằng Crossref và đọc phần tóm tắt qua Europe PMC; riêng S18 chỉ kiểm tiêu đề và năm qua Crossref, và addendum trong S13 được đọc trên trang của Nature. Không nguồn nào được trích kèm số liệu hay kết luận ngoài những gì đã đọc ở phần tóm tắt hoặc toàn văn."
+   "notes": "Đường dẫn đầy đủ của 18 nguồn nằm ở mục Nguồn tham khảo của lesson.md. Bốn nguồn đầu là bốn chương giáo trình Biological Psychology, đã đọc toàn văn. Từ S5 trở đi là nguồn gốc độc lập, kiểm bằng Crossref và đọc phần tóm tắt qua Europe PMC; addendum trong S13 được đọc trên trang của Nature, và S18 gồm hai bài (phân tích gộp 2022, nghiên cứu ở chuột 2010). Không nguồn nào được trích kèm số liệu hay kết luận ngoài những gì đã đọc ở phần tóm tắt hoặc toàn văn."
   }
  ]
 }

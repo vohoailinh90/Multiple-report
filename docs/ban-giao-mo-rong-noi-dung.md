@@ -202,7 +202,7 @@ Một bài 40 slide cần đủ ≥ 8 kiểu để đỡ đơn điệu.
 | Vai | Số phiên | Làm gì | Không làm |
 |---|---|---|---|
 | **Điều phối** (bạn) | 1 | Giai đoạn 0; viết `lessons/Lxx.spec.md` cho từng bài (mục 7.2); giao việc; gộp nhánh; chạy gate; dựng deck; báo cáo | Không tự viết bài hàng loạt |
-| **Phiên viết** | 1 phiên mỗi bài, chạy song song theo giai đoạn | Đọc chương giáo trình thật, tìm nguồn gốc, viết `lesson.md` rồi `slides.json`, tải hình (nếu có), chạy `check_lesson.py` | Không đụng bài khác, không sửa `expected.json`, không dùng Moda, không sửa `lessons/README.md` |
+| **Phiên viết** | 1 phiên mỗi bài, **tối đa 2 phiên cùng lúc** (chủ repo, 2026-10-21; luật và bảng giữ bài: `docs/dieu-phoi.md`) | Đọc chương giáo trình thật, tìm nguồn gốc, viết `lesson.md` rồi `slides.json`, tải hình (nếu có), chạy `check_lesson.py` | Không đụng bài khác, không sửa `expected.json`, không dùng Moda, không sửa `lessons/README.md` |
 | **Phiên phản biện** | 2 mỗi bài (chỉ đọc) | (a) Kiểm chứng: đối chiếu từng khẳng định và số liệu với chương/nguồn thật, đánh dấu bịa, thổi phồng, hiểu sai, thiếu `[Sn]`, nhầm nhãn "giáo khoa/giả thuyết/suy luận". (b) Sư phạm và định dạng: dễ hiểu, thuật ngữ nhất quán, không lặp bài khác (bảng 4.4), `slides.json` khớp `lesson.md` | Không sửa file; chỉ trả danh sách lỗi có vị trí |
 | **Phiên sửa** | có thể là chính phiên viết | Xử lý từng lỗi: sửa, hoặc ghi lý do không sửa | |
 | **Dựng deck** | chính phiên điều phối, tuần tự | Mục 9 | **Không giao Moda cho subagent** (CLAUDE.md: mỗi lệnh Moda của subagent phải chờ chủ repo duyệt) |
@@ -220,9 +220,12 @@ khái niệm bài khác sở hữu (chỉ được dẫn); `key_terms`; có cầ
 
 ```text
 Bạn viết bài <Lxx> "<tiêu đề>" cho repo vohoailinh90/Multiple-report (nhánh cơ sở: <nhánh>).
-Đọc theo thứ tự: CLAUDE.md, docs/ban-giao-mo-rong-noi-dung.md (mục 3, 4, 5, 6), lessons/<Lxx>.spec.md,
+Đọc theo thứ tự: CLAUDE.md, docs/dieu-phoi.md, docs/ban-giao-mo-rong-noi-dung.md (mục 3, 4, 5, 6), lessons/<Lxx>.spec.md,
 lessons/L03/lesson.md (mẫu văn phong và cách gắn [Sn]).
 Việc:
+0. Nhận bài: git checkout -b claude/lesson-<Lxx> origin/<nhánh cơ sở>, rồi python3 scripts/claims.py claim <Lxx> --publish.
+   Phải thoát 0 mới được viết. Bị từ chối (thoát 1) thì DỪNG và báo lý do, đừng đổi số hay lách. Mỗi vài giờ và trước mỗi push:
+   python3 scripts/claims.py touch --publish.
 1. Đọc ĐÚNG các chương giáo trình trong spec (tải bằng curl với User-Agent trình duyệt; xem mục 10). Ghi lại điều mỗi chương nói.
 2. Tìm nguồn gốc độc lập; kiểm DOI/URL có thật và nội dung đúng. Không kiểm được thì không dùng số liệu đó.
 3. Viết lessons/<Lxx>/lesson.md: ≥ <N> chữ, mỗi bộ phận/chất/cảm xúc theo thẻ hồ sơ (mục 4.1), gắn nhãn mức chắc chắn (4.2),
@@ -231,7 +234,9 @@ Việc:
    đa dạng layout, không trùng hai slide liền, không quá 3 slide liền cùng tone.
 5. Hình: chỉ dùng hình mà mục Media Attributions của chương ghi giấy phép cho phép; đặt vào lessons/<Lxx>/images/, khai trong slides.json khóa "images".
 6. Chạy: python3 scripts/deckgen/check_lesson.py . <Lxx>   (phải OK)  và  python3 -m unittest discover -s tests.
-7. Commit (thông điệp "lesson: <Lxx> viết lại/thêm") và push lên nhánh của phiên này. KHÔNG tạo PR. KHÔNG sửa file ngoài lessons/<Lxx>/.
+7. python3 scripts/claims.py scope <Lxx> (phải thoát 0: chỉ được đụng lessons/<Lxx>/), rồi python3 scripts/claims.py finish <Lxx> --publish.
+   Commit (thông điệp "lesson: <Lxx> viết lại/thêm") cùng file lessons/<Lxx>.claim.json và push lên nhánh của phiên này. KHÔNG tạo PR.
+   KHÔNG sửa file ngoài lessons/<Lxx>/. Bài đã có sẵn trên main mà bạn được giao viết lại thì claim bằng --rewrite.
 Không dùng Moda. Không bịa nguồn, số liệu, năm, câu trích. Điều chưa chắc: viết "chưa rõ" thay vì đoán.
 Báo lại: số chữ, số slide, danh sách nguồn đã kiểm, điều bạn không kiểm được.
 ```
@@ -311,7 +316,8 @@ Những điều khác (cách viết, cấu trúc, nguồn) điều phối tự q
 
 1. Giai đoạn 0 (mục 6): sửa luật và công cụ, dựng thử **một** slide mỗi layout mới, chụp ảnh. Commit.
 2. Viết spec cho giai đoạn 1; hỏi chủ repo các quyết định 11.2–11.4 nếu cần.
-3. Tạo 6 phiên viết song song (L01, L03, L05 viết lại; L07, L09, L10 mới). Mỗi phiên theo prompt 7.3.
+3. Tạo các phiên viết (L01, L03, L05 viết lại; L07, L09, L10 mới), **tối đa 2 phiên cùng lúc** (`docs/dieu-phoi.md`): hết một phiên thì mới giao bài kế.
+   Mỗi phiên theo prompt 7.3.
 4. Khi phiên viết báo xong: tạo 2 phiên phản biện mỗi bài (12 phiên, chỉ đọc), rồi giao lỗi lại cho phiên viết sửa.
 5. Gộp nhánh vào nhánh của điều phối, chạy gate và test, tự kiểm mẫu nguồn.
 6. Dựng deck từng bài (mục 9); `decks.py todo` rỗng; `decks.py index`; cập nhật `docs/ke-hoach-nao-bo-tam-ly.md` (bảng bài, thứ tự đọc).

@@ -77,7 +77,7 @@ Các chất dẫn truyền xem ở L03; hạnh nhân, hải mã ở L07; hệ th
 
 ## Rối loạn lưỡng cực: nhạy cảm với phần thưởng và mạch cảm xúc
 
-**Định nghĩa làm việc.** Rối loạn lưỡng cực (bipolar disorder) là nhóm rối loạn lấy hưng cảm (mania) làm đặc trưng; hưng cảm là trạng thái phấn khích và kích động quá mức [S2]. Theo giáo trình, lưỡng cực I đòi hỏi ít nhất một giai đoạn hưng cảm kéo dài, với khí sắc tăng cao hoặc dễ cáu; lưỡng cực II có giai đoạn hưng cảm nhẹ (hypomanic) thay vì hưng cảm đầy đủ; ở cả hai thể, giai đoạn hưng cảm (hoặc hưng cảm nhẹ) đi cùng giai đoạn trầm cảm nặng, đi trước hoặc sau nó, nên trầm cảm nặng là một phần của bệnh cảnh chứ không phải phần phụ [S2]. Việc áp dụng tiêu chí thuộc về người có chuyên môn. Ở Hoa Kỳ, giáo trình ghi lưỡng cực I ảnh hưởng 1,5% và lưỡng cực II 0,8% dân số [S2].
+**Định nghĩa làm việc.** Rối loạn lưỡng cực (bipolar disorder) là nhóm rối loạn lấy hưng cảm (mania) làm đặc trưng; hưng cảm là trạng thái phấn khích và kích động quá mức [S2]. Theo giáo trình, lưỡng cực I đòi hỏi ít nhất một giai đoạn hưng cảm kéo dài, với khí sắc tăng cao hoặc dễ cáu; lưỡng cực II có giai đoạn hưng cảm nhẹ (hypomanic) thay vì hưng cảm đầy đủ; giai đoạn hưng cảm có thể đi trước hoặc sau một giai đoạn trầm cảm nặng; lưỡng cực II đòi hỏi cả hưng cảm nhẹ lẫn trầm cảm nặng, còn lưỡng cực I đòi hỏi hưng cảm và không bắt buộc có trầm cảm nặng [S2]. Việc áp dụng tiêu chí thuộc về người có chuyên môn. Ở Hoa Kỳ, giáo trình ghi lưỡng cực I ảnh hưởng 1,5% và lưỡng cực II 0,8% dân số [S2].
 
 **Di truyền cao, diễn biến thay đổi.** Giáo trình nói lưỡng cực có tính di truyền cao, nhưng diễn biến thay đổi nhiều, và với người có nhạy cảm di truyền thì yếu tố tâm lý xã hội có thể khởi phát giai đoạn [S2].
 

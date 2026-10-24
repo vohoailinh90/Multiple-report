@@ -3,7 +3,7 @@
   "subtitle": "Đối lập, bù trừ và biểu tượng: đọc mô hình, giữ giới hạn",
   "status": "drafted",
   "review_status": "pending",
-  "visual_status": "not-started",
+  "visual_status": "exported",
   "design_system": {
     "reference": "F01 v4/J01",
     "palette": {
@@ -69,7 +69,7 @@
     {
       "section": "B · HISTORICAL BACKGROUND",
       "title": "1916 là ngày lời tựa, 1920 là bản đã đọc",
-      "body": "Lời tựa đầu ký tháng 1-1916 dùng tên analytical psychology và nói đến những thay đổi trong quan điểm của Jung. Bản thực sự đọc là Collected Papers, ấn bản thứ hai in lại năm1920, Constance E. Long biên tập bản dịch. Không gọi năm1916 là lần đầu tuyệt đối thuật ngữ xuất hiện chỉ vì tìm được một lời tựa có ngày.",
+      "body": "Lời tựa đầu ký tháng 1-1916 dùng tên analytical psychology và nói đến những thay đổi trong quan điểm của Jung. Bản thực sự đọc là Collected Papers, ấn bản thứ hai in lại năm 1920, Constance E. Long biên tập bản dịch. Không gọi năm 1916 là lần đầu tuyệt đối thuật ngữ xuất hiện chỉ vì tìm được một lời tựa có ngày.",
       "nodes": [
         [
           "1916",
@@ -92,7 +92,7 @@
     {
       "section": "B · NGUỒN VÀ ẤN BẢN",
       "title": "Nguồn gốc, bản dịch và diễn giải là ba lớp",
-      "body": "Một định nghĩa tiếng Đức năm1921 không tự trở thành câu trích từ Bollingen tiếng Anh1971. Bài đọc trực tiếp các mục liên quan trong bản Đức, còn CW6 chỉ kiểm metadata. Nguồn thứ cấp như Jung Lexicon hữu ích để định vị thuật ngữ nhưng các paragraph CW được nó dẫn chưa được đối chiếu toàn bộ trong phiên này.",
+      "body": "Một định nghĩa tiếng Đức năm 1921 không tự trở thành câu trích từ Bollingen tiếng Anh 1971. Bài đọc trực tiếp các mục liên quan trong bản Đức, còn CW6 chỉ kiểm metadata. Nguồn thứ cấp như Jung Lexicon hữu ích để định vị thuật ngữ nhưng các paragraph CW được nó dẫn chưa được đối chiếu toàn bộ trong phiên này.",
       "nodes": [
         [
           "Văn bản đã đọc",
@@ -341,7 +341,7 @@
         ]
       ],
       "layout": "parallel-flow",
-      "source": "[S1] Lời tựa1916/Constructive method",
+      "source": "[S1] Lời tựa 1916/Constructive method",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
     },
@@ -463,7 +463,7 @@
     {
       "section": "F · CASE STUDY 1/3",
       "title": "Linh: đừng ghi suy luận vào cột dữ kiện",
-      "body": "Linh32tuổi, trưởng nhóm mới, lịch trực dày, khó ngủ và nói không được làm người khác thất vọng. Cô kể mơ về căn phòng khóa. Đây là ca giáo dục hư cấu. Ta có lời kể và hoàn cảnh; chưa có bằng chứng rằng căn phòng là vô thức, Shadow hay một chấn thương bị quên. Hãy phân biệt ngay hai loại ghi chép.",
+      "body": "Linh, 32 tuổi, trưởng nhóm mới, lịch trực dày, khó ngủ và nói không được làm người khác thất vọng. Cô kể mơ về căn phòng khóa. Đây là ca giáo dục hư cấu. Ta có lời kể và hoàn cảnh; chưa có bằng chứng rằng căn phòng là vô thức, Shadow hay một chấn thương bị quên. Hãy phân biệt ngay hai loại ghi chép.",
       "nodes": [
         [
           "Quan sát",
@@ -555,7 +555,7 @@
     {
       "section": "G · REVIEW 2013",
       "title": "Đọc được tới đâu thì kết luận tới đó",
-      "body": "Review2013 của Roesler bàn về các nghiên cứu kết quả Jungian psychotherapy. Phiên này chỉ kiểm metadata và trích đoạn abstract qua tìm kiếm: PMC bị CAPTCHA, MDPI trả429. Vì chưa đọc toàn review, bài không đưa hiệu ứng hoặc đánh giá chi phí từ nguồn này. Một nguồn có uy tín vẫn cần được đọc đúng phần trước khi dùng cho claim chi tiết.",
+      "body": "Review 2013 của Roesler bàn về các nghiên cứu kết quả Jungian psychotherapy. Phiên này chỉ kiểm metadata và trích đoạn abstract qua tìm kiếm: PMC bị CAPTCHA, MDPI trả 429. Vì chưa đọc toàn review, bài không đưa hiệu ứng hoặc đánh giá chi phí từ nguồn này. Một nguồn có uy tín vẫn cần được đọc đúng phần trước khi dùng cho claim chi tiết.",
       "nodes": [
         [
           "Đã kiểm",
@@ -563,7 +563,7 @@
         ],
         [
           "Bị chặn",
-          "PMC CAPTCHA; MDPI429."
+          "PMC CAPTCHA; MDPI 429."
         ],
         [
           "Không nhận",
@@ -578,7 +578,7 @@
     {
       "section": "G · NGHIÊN CỨU 2025",
       "title": "104 người trước–sau: thay đổi có, nhân quả còn mở",
-      "body": "Roesler và cộng sự2025 báo cáo cải thiện ở các chỉ số trong104người trị liệu có giám sát. Bài đã đọc phần liên quan trên PDF nhà xuất bản. Thiết kế không có nhóm đối chứng, dựa tự báo cáo và không ghi dropout có hệ thống. Vì thế, thay đổi quan sát được chưa đủ quy riêng cho phương pháp, càng không xác nhận các nguyên mẫu.",
+      "body": "Roesler và cộng sự (2025) báo cáo cải thiện ở các chỉ số trong 104 người trị liệu có giám sát. Bài đã đọc phần liên quan trên PDF nhà xuất bản. Thiết kế không có nhóm đối chứng, dựa tự báo cáo và không ghi dropout có hệ thống. Vì thế, thay đổi quan sát được chưa đủ quy riêng cho phương pháp, càng không xác nhận các nguyên mẫu.",
       "nodes": [
         [
           "104 người",
@@ -601,7 +601,7 @@
     {
       "section": "G · PHÊ BÌNH CƠ CHẾ",
       "title": "Hình ảnh giống nhau không xác định nguồn gốc",
-      "body": "Roesler2012 đặt vấn đề cơ sở khoa học của việc truyền những mô thức biểu tượng phức tạp có tính phổ quát. Bản đọc có dấu proof, chỉ dùng abstract và mở đầu để nhận diện tranh luận. Học tập và truyền văn hóa là những giải thích cần xét. Đây không phải thí nghiệm đã bác bỏ mọi cách dùng từ archetype.",
+      "body": "Roesler (2012) đặt vấn đề cơ sở khoa học của việc truyền những mô thức biểu tượng phức tạp có tính phổ quát. Bản đọc có dấu proof, chỉ dùng abstract và mở đầu để nhận diện tranh luận. Học tập và truyền văn hóa là những giải thích cần xét. Đây không phải thí nghiệm đã bác bỏ mọi cách dùng từ archetype.",
       "nodes": [
         [
           "Hiện tượng",
@@ -617,7 +617,7 @@
         ]
       ],
       "layout": "hypothesis",
-      "source": "[S7] Abstract/introduction · PDFproof",
+      "source": "[S7] Abstract/introduction · PDF proof",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
     },
@@ -716,14 +716,14 @@
     {
       "section": "K · KNOWLEDGE CHECK 1–2",
       "title": "Bù trừ và chiếc cầu: tránh hai suy luận vội",
-      "body": "Câu1: Bù trừ có luôn làm ngược ý thức không? Không; Jung còn nói tới bổ sung. Câu2: Hai người mơ cùng một chiếc cầu có cùng xung đột không? Chưa thể biết; cần liên tưởng và hoàn cảnh riêng. Hai đáp án cùng nhắc một lỗi: lấy nhãn của mô hình để lấp thông tin chưa có.",
+      "body": "Câu 1: Bù trừ có luôn làm ngược ý thức không? Không; Jung còn nói tới bổ sung. Câu 2: Hai người mơ cùng một chiếc cầu có cùng xung đột không? Chưa thể biết; cần liên tưởng và hoàn cảnh riêng. Hai đáp án cùng nhắc một lỗi: lấy nhãn của mô hình để lấp thông tin chưa có.",
       "nodes": [
         [
-          "Câu1",
+          "Câu 1",
           "Bổ sung không luôn đảo ngược."
         ],
         [
-          "Câu2",
+          "Câu 2",
           "Hình giống chưa chắc nghĩa giống."
         ]
       ],
@@ -735,14 +735,14 @@
     {
       "section": "K · KNOWLEDGE CHECK 3–4",
       "title": "Prospective và ca Linh: giữ đúng mức kết luận",
-      "body": "Câu3: Prospective có dự đoán sự kiện không? Không; nó hỏi khả năng điều chỉnh và phát triển. Câu4: Linh bớt khó ngủ sau giảm ca có xác nhận bù trừ không? Chưa; lịch làm có thể tác động trực tiếp. Một thay đổi có ích không tự chọn ra cơ chế đúng trong nhiều cách giải thích.",
+      "body": "Câu 3: Prospective có dự đoán sự kiện không? Không; nó hỏi khả năng điều chỉnh và phát triển. Câu 4: Linh bớt khó ngủ sau giảm ca có xác nhận bù trừ không? Chưa; lịch làm có thể tác động trực tiếp. Một thay đổi có ích không tự chọn ra cơ chế đúng trong nhiều cách giải thích.",
       "nodes": [
         [
-          "Câu3",
+          "Câu 3",
           "Khả năng phát triển, không dự báo."
         ],
         [
-          "Câu4",
+          "Câu 4",
           "Kết quả không tự chọn cơ chế."
         ]
       ],
@@ -777,7 +777,7 @@
     {
       "section": "L · REFERENCES",
       "title": "Nguồn gốc và nguồn diễn giải",
-      "body": "S1 là Collected Papers bản tiếng Anh1920 có lời tựa1916. S2 là Psychologische Typen tiếng Đức1921, mục XI.10 và XI.51. S3 là bài Symbol của Verena Kast tại IAAP; S4 là Jung Lexicon, nguồn thứ cấp có dẫn CW. Metadata CW6 tiếng Anh1971 nằm ở S8; chưa được dùng làm nguồn paragraph chưa đối chiếu.",
+      "body": "S1 là Collected Papers bản tiếng Anh 1920 có lời tựa 1916. S2 là Psychologische Typen tiếng Đức 1921, mục XI.10 và XI.51. S3 là bài Symbol của Verena Kast tại IAAP; S4 là Jung Lexicon, nguồn thứ cấp có dẫn CW. Metadata CW6 tiếng Anh 1971 nằm ở S8; chưa được dùng làm nguồn paragraph chưa đối chiếu.",
       "nodes": [
         [
           "S1–S2",
@@ -800,7 +800,7 @@
     {
       "section": "L · REFERENCES VÀ HỌC TIẾP",
       "title": "Giữ nguồn, giới hạn và câu hỏi cùng nhau",
-      "body": "S5 chỉ được kiểm metadata và trích đoạn abstract; S6 đọc các phần liên quan của nghiên cứu2025; S7 là PDFproof dùng để nhận diện tranh luận khái niệm. Khảo sát này không phải systematic review và chưa kiểm toàn bộ nguồn hay ấn bản. Tiếp theo đọc J03 về Conscious Ego, rồi trở lại bản đồ để thấy mỗi khái niệm đang trả lời câu hỏi nào.",
+      "body": "S5 chỉ được kiểm metadata và trích đoạn abstract; S6 đọc các phần liên quan của nghiên cứu 2025; S7 là PDF proof dùng để nhận diện tranh luận khái niệm. Khảo sát này không phải systematic review và chưa kiểm toàn bộ nguồn hay ấn bản. Tiếp theo đọc J03 về Conscious Ego, rồi trở lại bản đồ để thấy mỗi khái niệm đang trả lời câu hỏi nào.",
       "nodes": [
         [
           "Nguồn hiện đại",
@@ -821,12 +821,46 @@
       "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
     }
   ],
-  "canvas_ref": null,
-  "canvas_url": null,
-  "exports": [],
-  "presentation_status": "script-ready",
+  "canvas_ref": "cvs_43BFG38K5597WVYQB4Y4N46HWD",
+  "canvas_url": "https://moda.app/canvas/835be034-4ca5-49f9-bf5d-64f12a43478d?source=agent",
+  "exports": [
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "b65a6276-885e-4874-ac71-41f3b3da4011",
+      "url": "https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-656e654ec1921d5eeb4f0a41e00f462b/pptx-r2-f0-w1-all.pptx?Expires=1824391992&KeyName=mpwa&Signature=LkKvylKC8AfK0EM9Z0CcEGgP25k",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "744de70b-1dab-4432-b89b-420a01fa3fad",
+      "url": "https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-d52ac8a6b752e6067de44ae6f7146193/pdf-r3-f0-w1-all.pdf?Expires=1824392015&KeyName=mpwa&Signature=B-tWfYYR0cPXGpp93atCoL5aD4s",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  ],
+  "presentation_status": "exported",
   "production_notes": [
     "Viết trong phiên có Moda từ nguồn đọc thật; không khôi phục commit Cloud chưa xuất bản.",
-    "Giữ body đầy đủ; sơ đồ chỉ là mô hình đề xuất."
+    "Giữ body đầy đủ; sơ đồ chỉ là mô hình đề xuất.",
+    "36/36 pages rendered and reviewed; repaired sign/symbol comparison, image context and diagram labels. Parent handles Git and independent academic review.",
+    "One PDF page rasterized; local binary not downloaded."
   ]
 }

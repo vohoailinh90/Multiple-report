@@ -1,0 +1,1047 @@
+{
+  "lesson_id": "J02",
+  "title": "J02 — Analytical Psychology",
+  "version": 1,
+  "canvas_ref": "cvs_43BFG38K5597WVYQB4Y4N46HWD",
+  "canvas_url": "https://moda.app/canvas/835be034-4ca5-49f9-bf5d-64f12a43478d?source=agent",
+  "page_ids": [
+    "p_a",
+    "p_b",
+    "p_c",
+    "p_d",
+    "p_e",
+    "p_f",
+    "p_g",
+    "p_h",
+    "p_i",
+    "p_j",
+    "p_k",
+    "p_l",
+    "p_m",
+    "p_n",
+    "p_o",
+    "p_p",
+    "p_q",
+    "p_r",
+    "p_s",
+    "p_t",
+    "p_u",
+    "p_v",
+    "p_w",
+    "p_x",
+    "p_y",
+    "p_z",
+    "p_aa",
+    "p_ab",
+    "p_ac",
+    "p_ad",
+    "p_ae",
+    "p_af",
+    "p_ag",
+    "p_ah",
+    "p_ai",
+    "p_aj"
+  ],
+  "status": "exported",
+  "slides": [
+    {
+      "section": "J02 · BÌA",
+      "title": "Jung: đọc một hệ thống\nmà không biến nó thành định luật",
+      "body": "Analytical Psychology đặt quan hệ giữa ý thức, vô thức và biểu tượng để hỏi về những khả năng bị bỏ qua. Bài này giúp bạn đọc bản đồ ấy, phân biệt điều Jung đề xuất với bằng chứng thực nghiệm, rồi thử cách đặt câu hỏi trong ba ví dụ và một ca giả định. Đây là tổng quan; từng khái niệm sẽ có bài chuyên sâu.",
+      "nodes": [
+        [
+          "Đối lập",
+          "Những yêu cầu cùng hiện diện."
+        ],
+        [
+          "Bù trừ",
+          "Bổ sung điều bị bỏ qua."
+        ],
+        [
+          "Biểu tượng",
+          "Giữ nghĩa còn mở."
+        ]
+      ],
+      "layout": "cover",
+      "source": "J02 · Theo mẫu F01 v4 đã duyệt",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "A · LEARNING OBJECTIVES",
+      "title": "Học cách phân biệt trước khi diễn giải",
+      "body": "Sau bài, bạn có thể giải thích ba nguyên lý nền của mô hình, phân biệt sign và symbol, đặt một giả thuyết cạnh tranh và đọc nghiên cứu kết quả đúng giới hạn. Mục tiêu không phải thuộc một bảng nhãn để gán người khác. Điều cần kiểm là bạn có nói được dữ kiện nào khiến cách đọc của mình phải thay đổi hay không.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Văn bản nói điều gì?"
+        ],
+        [
+          "Cách đọc",
+          "Giả thuyết cần gì?"
+        ],
+        [
+          "Kiểm chứng",
+          "Dữ liệu cho phép tới đâu?"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "Mục A",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "B · HISTORICAL BACKGROUND",
+      "title": "1916 là ngày lời tựa, 1920 là bản đã đọc",
+      "body": "Lời tựa đầu ký tháng 1-1916 dùng tên analytical psychology và nói đến những thay đổi trong quan điểm của Jung. Bản thực sự đọc là Collected Papers, ấn bản thứ hai in lại năm 1920, Constance E. Long biên tập bản dịch. Không gọi năm 1916 là lần đầu tuyệt đối thuật ngữ xuất hiện chỉ vì tìm được một lời tựa có ngày.",
+      "nodes": [
+        [
+          "1916",
+          "Lời tựa được ký."
+        ],
+        [
+          "1920",
+          "Bản tiếng Anh đã đọc."
+        ],
+        [
+          "1921",
+          "Psychologische Typen."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Trang tên/lời tựa · [S2] Trang tên",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "B · NGUỒN VÀ ẤN BẢN",
+      "title": "Nguồn gốc, bản dịch và diễn giải là ba lớp",
+      "body": "Một định nghĩa tiếng Đức năm 1921 không tự trở thành câu trích từ Bollingen tiếng Anh 1971. Bài đọc trực tiếp các mục liên quan trong bản Đức, còn CW6 chỉ kiểm metadata. Nguồn thứ cấp như Jung Lexicon hữu ích để định vị thuật ngữ nhưng các paragraph CW được nó dẫn chưa được đối chiếu toàn bộ trong phiên này.",
+      "nodes": [
+        [
+          "Văn bản đã đọc",
+          "Gutenberg1920/1921."
+        ],
+        [
+          "Nguồn thứ cấp",
+          "IAAP/Jung Lexicon."
+        ],
+        [
+          "Chỉ metadata",
+          "CW6 Princeton1971."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1–S4, S8]",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · CORE THEORY",
+      "title": "Analytical Psychology không đồng nghĩa MBTI",
+      "body": "Ở đây tên gọi chỉ hệ thống và truyền thống hình thành từ Jung. Một bảng loại hình nhân cách hay cách dùng Jungian trên mạng không đại diện toàn bộ truyền thống ấy. Psychological types chỉ là một tuyến của bản đồ, sẽ học ở J12–J14; không dùng nó như chẩn đoán hoặc gói toàn bộ tâm trí vào một mã loại.",
+      "nodes": [
+        [
+          "Analytical Psychology",
+          "Hệ thống và truyền thống."
+        ],
+        [
+          "Types",
+          "Một nhóm khái niệm."
+        ],
+        [
+          "MBTI",
+          "Không đồng nhất cả hệ thống."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1–S2, S4] · J12–J14",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · ĐỐI LẬP",
+      "title": "Hai nhu cầu có thể cùng đáng được nghe",
+      "body": "Muốn tự chủ và muốn được chấp nhận có thể kéo một người theo hai hướng. Mô tả đối lập giúp nhìn căng thẳng mà không vội chọn một bên là thật, bên kia là giả. Nhưng chia thành hai cực có thể bỏ sót lựa chọn thứ ba và các điều kiện vật chất. Đối lập là khung đặt câu hỏi, chưa phải lời giải nguyên nhân.",
+      "nodes": [
+        [
+          "Tự chủ",
+          "Không muốn bị chi phối."
+        ],
+        [
+          "Được chấp nhận",
+          "Không muốn mất quan hệ."
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S4] Conflict/Opposites",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BÙ TRỪ",
+      "title": "Bổ sung không nhất thiết là đảo ngược",
+      "body": "Trong mục Compensation, Jung mô tả chất liệu vô thức có thể điều chỉnh sự phiến diện của định hướng ý thức. Ông phân biệt tương phản cực đoan với sự bổ sung. Vì thế, “tôi muốn làm tốt” không bắt buộc có một mong muốn làm hỏng việc ở bên dưới. Cần liên tưởng và hoàn cảnh, không suy cơ chế từ một hành vi.",
+      "nodes": [
+        [
+          "Định hướng",
+          "Chọn một điều để ưu tiên."
+        ],
+        [
+          "Điều ít được nhìn",
+          "Khả năng hoặc nhu cầu khác."
+        ],
+        [
+          "Giả thuyết bù trừ",
+          "Có thể bổ sung định hướng."
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S2] XI.10 Compensation",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · TỰ ĐIỀU HÒA",
+      "title": "Một mô hình cân bằng, không lời hứa tự chữa lành",
+      "body": "Self-regulation nói về quan hệ bù trừ giữa ý thức và vô thức trong mô hình Jung. Nó không bảo đảm tâm trí luôn tự tìm ra điều tốt, hoặc mọi đau khổ đều cần thiết để trưởng thành. Bài không có một đơn vị đo cho cân bằng tâm lý. Thấy trải nghiệm thay đổi chưa đủ xác nhận một cơ chế điều hòa đặc thù.",
+      "nodes": [
+        [
+          "Mô hình",
+          "Quan hệ được đề xuất."
+        ],
+        [
+          "Quan sát",
+          "Trải nghiệm thay đổi."
+        ],
+        [
+          "Chưa được suy",
+          "Cơ chế đã được chứng minh."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S2] XI.10 · [S4] Self-regulation",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 1",
+      "title": "Ego không phải toàn bộ psyche",
+      "body": "Trong hệ thống, ego là điểm quy chiếu của ý thức; chất liệu ít được nhận biết thuộc những nhóm khái niệm khác. Bản đồ không phải các ngăn não và không cho một tỷ lệ phần trăm vô thức. J03 sẽ học ego, J04 và J19 đi vào chất liệu cá nhân cùng complexes; ở đây chỉ định vị câu hỏi của từng bài.",
+      "nodes": [
+        [
+          "Ý thức/Ego",
+          "J03: điểm quy chiếu."
+        ],
+        [
+          "Chất liệu cá nhân",
+          "J04/J19: quan hệ cảm xúc."
+        ]
+      ],
+      "layout": "layers",
+      "source": "[S4] Psyche · J03/J04/J19",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 2",
+      "title": "Collective unconscious là nhãn giả thuyết",
+      "body": "Collective unconscious và archetypes được Jung dùng để suy nghĩ về những khuôn tổ chức vượt cá nhân. Điều này không đồng nghĩa đã có một kho ký ức di truyền được xác nhận. Những hình ảnh giống nhau có thể còn liên quan học tập và giao lưu văn hóa. J05–J06 sẽ đánh giá giả thuyết và giải thích cạnh tranh kỹ hơn.",
+      "nodes": [
+        [
+          "Giả thuyết Jung",
+          "Khuôn tổ chức vượt cá nhân."
+        ],
+        [
+          "Giải thích cạnh tranh",
+          "Học tập và truyền văn hóa."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "[S4, S7] · J05–J06",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 3",
+      "title": "Vai xã hội và phần bị loại khỏi tự ảnh",
+      "body": "Persona đặt câu hỏi về vai thích nghi; Shadow đặt câu hỏi về những điều bị loại khỏi cách ta nhìn bản thân. Một vai nghề nghiệp không tự là giả tạo, một cảm xúc khó chịu không tự là Shadow. Anima/Animus mang giả định giới lịch sử và sẽ được đọc phê phán. Các bài J07–J09 xử lý riêng các khái niệm này.",
+      "nodes": [
+        [
+          "Persona",
+          "J07: vai trong bối cảnh."
+        ],
+        [
+          "Shadow",
+          "J08: điều bị loại khỏi tự ảnh."
+        ],
+        [
+          "Anima/Animus",
+          "J09: đọc phê phán về giới."
+        ]
+      ],
+      "layout": "cards",
+      "source": "[S4] · J07–J09",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 4",
+      "title": "Self và individuation không phải hoàn hảo",
+      "body": "Self là khái niệm về toàn thể giả định; individuation là quá trình tích hợp theo Jung. Không đồng nhất Self với tự trọng, hoặc individuation với trở nên vượt trội và không cần người khác. J10–J11 sẽ làm rõ hai khái niệm; J20 và J21 đi vào chức năng tích hợp và mô hình năng lượng, không đại lượng vật lý trong bài này.",
+      "nodes": [
+        [
+          "Self",
+          "J10: toàn thể giả định."
+        ],
+        [
+          "Individuation",
+          "J11: quá trình tích hợp."
+        ],
+        [
+          "Học tiếp",
+          "J20/J21: cơ chế khái niệm."
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "[S4] Self/Individuation",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · SIGN VÀ SYMBOL",
+      "title": "Một nhãn đã biết và một nghĩa còn mở",
+      "body": "Trong định nghĩa Jung, sign có thể quy chiếu tới điều đã biết theo quy ước. Symbol biểu đạt điều còn tương đối chưa biết, chưa diễn đạt đầy đủ bằng một nhãn khác. Bởi vậy, gọi một hình là biểu tượng không có nghĩa đã giải được nó. Phải giữ câu hỏi về liên tưởng và hoàn cảnh, thay vì áp một nghĩa có sẵn.",
+      "nodes": [
+        [
+          "Sign",
+          "Quy chiếu tới điều đã biết."
+        ],
+        [
+          "Symbol",
+          "Nghĩa chưa được diễn đạt hết."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S2] XI.51 Symbol",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · LIÊN TƯỞNG",
+      "title": "Cùng một chiếc cầu, nhiều bối cảnh",
+      "body": "Chiếc cầu có thể là tuyến đường đi làm, một nơi chia tay hoặc hình ảnh vừa thấy trong phim. Trong cách đọc biểu tượng, câu hỏi đầu tiên là nó gợi điều gì cho người kể. Bài IAAP của Verena Kast cho thấy cách truyền thống nối biểu tượng với cảm xúc và ý nghĩa; đó không phải phép xác nhận độc lập rằng mọi hình có nghĩa phổ quát.",
+      "nodes": [
+        [
+          "Hình ảnh",
+          "Một cây cầu."
+        ],
+        [
+          "Liên tưởng",
+          "Người kể liên hệ điều gì?"
+        ],
+        [
+          "Bối cảnh",
+          "Điều gì vừa xảy ra?"
+        ]
+      ],
+      "layout": "context-map",
+      "source": "[S2–S3] · J15",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · HAI CÁCH HỎI",
+      "title": "Nguồn gốc và khả năng phát triển",
+      "body": "Cách hỏi nhân quả tìm điều kiện đã dẫn tới hiện tượng. Cách đọc prospective của Jung hỏi khả năng điều chỉnh hoặc phát triển mà hiện tượng có thể gợi. Hỏi về tương lai không phải tiên tri hay tác động từ tương lai. Hai lối đọc có thể hữu ích cho đối thoại, nhưng một câu chuyện có ý nghĩa chưa phải nguyên nhân thật.",
+      "nodes": [
+        [
+          "Retrospective",
+          "Điều gì đã dẫn tới đây?"
+        ],
+        [
+          "Prospective",
+          "Khả năng nào còn chưa được nhìn?"
+        ]
+      ],
+      "layout": "parallel-flow",
+      "source": "[S1] Lời tựa 1916/Constructive method",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "title": "Từ quan sát tới giả thuyết, không nhảy thẳng",
+      "body": "Chuỗi sau là mô hình đọc do bài xây dựng theo Jung: một định hướng nổi trội, một trải nghiệm gây chú ý, rồi một giả thuyết về điều bị bỏ qua. Cơ chế không được xác nhận chỉ vì các bước nối nhau hợp lý. Mỗi mũi tên phải được đọc như câu hỏi cần dữ kiện, không như định luật tâm trí.",
+      "nodes": [
+        [
+          "Định hướng",
+          "Điều đang được ưu tiên."
+        ],
+        [
+          "Trải nghiệm",
+          "Điều cần mô tả."
+        ],
+        [
+          "Giả thuyết",
+          "Có phần nào bị bỏ qua?"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S2–S4] · Mô hình đề xuất",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "D · KIỂM TRA CÁCH ĐỌC",
+      "title": "Giữ ít nhất một giải thích khác",
+      "body": "Thiếu ngủ, lịch làm, sức khỏe và văn hóa tổ chức có thể giải thích cùng một biểu hiện. Nếu chỉ giữ cách đọc bù trừ, mọi chi tiết dễ bị kéo vào một câu chuyện đã chọn. Cần xác định trước dữ kiện nào làm giả thuyết yếu đi, hỏi sự đồng ý của người kể và sẵn sàng bỏ diễn giải không phù hợp.",
+      "nodes": [
+        [
+          "Giả thuyết Jungian",
+          "Có điều ít được thừa nhận?"
+        ],
+        [
+          "Giải thích khác",
+          "Thiếu ngủ/lịch làm/bối cảnh?"
+        ],
+        [
+          "Dữ kiện phân biệt",
+          "Điều gì sẽ làm cách đọc yếu đi?"
+        ]
+      ],
+      "layout": "decision",
+      "source": "Mục D · Nguyên tắc biên tập",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "E · REAL-LIFE EXAMPLES",
+      "title": "Ví dụ 1: Hương luôn vui vẻ ở công ty",
+      "body": "Hương hay nhận thêm việc và cười khi được hỏi có mệt không; về nhà cô kiệt sức. Có thể vai luôn dễ chịu khiến nhu cầu giới hạn ít được nói tới. Nhưng cũng có thể công ty thiếu người hoặc Hương ngủ quá ít. Phải hỏi Hương trước khi đặt nhãn persona, và không dùng nụ cười như bằng chứng về vô thức.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Nhận việc, cười, mệt."
+        ],
+        [
+          "Giả thuyết",
+          "Nhu cầu giới hạn chưa được nói."
+        ],
+        [
+          "Khả năng khác",
+          "Giờ làm/thiếu ngủ."
+        ]
+      ],
+      "layout": "example",
+      "source": "Tình huống giả định · Mục E1",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "E · REAL-LIFE EXAMPLES",
+      "title": "Ví dụ 2: Nam mơ về chiếc cầu",
+      "body": "Nam kể đứng trước một cây cầu trong mơ. Một từ điển có thể gán nghĩa chuyển hóa, nhưng Nam lại nhớ lần chia tay ở đúng nơi ấy. Câu chuyện cá nhân mở một hướng hỏi; nó không xác nhận ý nghĩa chung cho mọi chiếc cầu. Bộ phim tối qua cũng có thể cung cấp hình ảnh. Không dự báo Nam sẽ đổi nghề.",
+      "nodes": [
+        [
+          "Nghĩa áp sẵn",
+          "Cầu luôn là chuyển hóa?"
+        ],
+        [
+          "Liên tưởng Nam",
+          "Một lần chia tay."
+        ],
+        [
+          "Khả năng khác",
+          "Hình ảnh trong phim."
+        ]
+      ],
+      "layout": "example",
+      "source": "Tình huống giả định · Mục E2",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "E · REAL-LIFE EXAMPLES",
+      "title": "Ví dụ 3: Mai muốn ổn định và đổi nghề",
+      "body": "Mai muốn giữ thu nhập nhưng muốn công việc có ý nghĩa hơn. Khung đối lập giúp nghe cả hai yêu cầu. Một lựa chọn thứ ba là học thêm trong khi vẫn làm việc; đó là quyết định thực tế, chưa tự thành transcendent function. Tài chính, chăm sóc gia đình và thị trường lao động phải được nhìn như dữ kiện thật.",
+      "nodes": [
+        [
+          "Ổn định",
+          "Thu nhập và trách nhiệm."
+        ],
+        [
+          "Thay đổi",
+          "Ý nghĩa và học hỏi."
+        ],
+        [
+          "Phương án khác",
+          "Học thêm trong khi làm."
+        ]
+      ],
+      "layout": "balance",
+      "source": "Tình huống giả định · Mục E3",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "F · CASE STUDY 1/3",
+      "title": "Linh: đừng ghi suy luận vào cột dữ kiện",
+      "body": "Linh, 32 tuổi, trưởng nhóm mới, lịch trực dày, khó ngủ và nói không được làm người khác thất vọng. Cô kể mơ về căn phòng khóa. Đây là ca giáo dục hư cấu. Ta có lời kể và hoàn cảnh; chưa có bằng chứng rằng căn phòng là vô thức, Shadow hay một chấn thương bị quên. Hãy phân biệt ngay hai loại ghi chép.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Lịch trực, ngủ, lời kể."
+        ],
+        [
+          "Chưa biết",
+          "Sức khỏe, áp lực, hỗ trợ."
+        ],
+        [
+          "Chưa kết luận",
+          "Nhãn lý thuyết/diagnosis."
+        ]
+      ],
+      "layout": "case",
+      "source": "Ca giả định · Mục F1–F2",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "F · CASE STUDY 2/3",
+      "title": "Liên tưởng riêng mở câu hỏi, chưa chốt cơ chế",
+      "body": "Linh nhớ căn phòng làm việc cũ từng giúp cô yên tĩnh. Có thể nhu cầu nghỉ ít được thừa nhận, nhưng liên tưởng này không chứng minh ý nghĩa phổ quát của căn phòng. Ta vẫn cần hỏi thay đổi lịch, giấc ngủ, sức khỏe và các sự kiện gần đây. Không lấp chỗ thiếu thông tin bằng một thuật ngữ Jungian.",
+      "nodes": [
+        [
+          "Liên tưởng Linh",
+          "Một nơi yên tĩnh trước đây."
+        ],
+        [
+          "Hướng hỏi",
+          "Nhu cầu nghỉ/giới hạn?"
+        ],
+        [
+          "Đối chiếu",
+          "Giờ làm/sức khỏe/sự kiện."
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "Ca giả định · Mục F3–F6",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "F · CASE STUDY 3/3",
+      "title": "Điều chỉnh thực tế và kết luận đúng mức",
+      "body": "Linh đồng ý thử đề nghị chia ca và khoảng nghỉ rõ hơn. Nếu giấc ngủ cải thiện, ta ghi nhận thay đổi nhưng chưa biết thành tố nào gây tác động. Cách đọc Jungian có thể đã giúp tạo câu hỏi về giới hạn; cơ chế vô thức bù trừ vẫn chưa được xác lập. Khó chịu kéo dài hoặc ảnh hưởng đáng kể cần hỗ trợ chuyên môn phù hợp.",
+      "nodes": [
+        [
+          "Hành động đồng thuận",
+          "Đề nghị chia ca/khoảng nghỉ."
+        ],
+        [
+          "Quan sát",
+          "Giấc ngủ thay đổi ra sao?"
+        ],
+        [
+          "Kết luận giới hạn",
+          "Hữu ích để hỏi chưa là cơ chế đúng."
+        ]
+      ],
+      "layout": "flow",
+      "source": "Ca giả định · Mục F7–F9",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "title": "Ba câu hỏi cần ba loại bằng chứng",
+      "body": "Một văn bản có thể xác nhận Jung đã định nghĩa từ như thế nào, nhưng không tự chứng minh tâm trí vận hành đúng như vậy. Một diễn giải có ý nghĩa với người kể cũng khác một can thiệp tạo hiệu quả riêng. Nghiên cứu kết quả và nghiên cứu cơ chế phải giữ đối tượng đo riêng, thay vì để tên trường phái nối mọi kết luận với nhau.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Văn bản/ấn bản."
+        ],
+        [
+          "Ý nghĩa",
+          "Trải nghiệm/bối cảnh."
+        ],
+        [
+          "Hiệu quả/cơ chế",
+          "Thiết kế và phép đo phù hợp."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "Mục G · Khung đọc bằng chứng",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · REVIEW 2013",
+      "title": "Đọc được tới đâu thì kết luận tới đó",
+      "body": "Review 2013 của Roesler bàn về các nghiên cứu kết quả Jungian psychotherapy. Phiên này chỉ kiểm metadata và trích đoạn abstract qua tìm kiếm: PMC bị CAPTCHA, MDPI trả 429. Vì chưa đọc toàn review, bài không đưa hiệu ứng hoặc đánh giá chi phí từ nguồn này. Một nguồn có uy tín vẫn cần được đọc đúng phần trước khi dùng cho claim chi tiết.",
+      "nodes": [
+        [
+          "Đã kiểm",
+          "Metadata/abstract trích đoạn."
+        ],
+        [
+          "Bị chặn",
+          "PMC CAPTCHA; MDPI 429."
+        ],
+        [
+          "Không nhận",
+          "Đã đọc toàn review/định lượng."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S5] DOI10.3390/bs3040562",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · NGHIÊN CỨU 2025",
+      "title": "104 người trước–sau: thay đổi có, nhân quả còn mở",
+      "body": "Roesler và cộng sự (2025) báo cáo cải thiện ở các chỉ số trong 104 người trị liệu có giám sát. Bài đã đọc phần liên quan trên PDF nhà xuất bản. Thiết kế không có nhóm đối chứng, dựa tự báo cáo và không ghi dropout có hệ thống. Vì thế, thay đổi quan sát được chưa đủ quy riêng cho phương pháp, càng không xác nhận các nguyên mẫu.",
+      "nodes": [
+        [
+          "104 người",
+          "Đánh giá trước–sau."
+        ],
+        [
+          "Cải thiện được báo cáo",
+          "Triệu chứng/chất lượng sống."
+        ],
+        [
+          "Giới hạn",
+          "Không control; self-report; dropout."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S6] Abstract/Methods/limitations",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · PHÊ BÌNH CƠ CHẾ",
+      "title": "Hình ảnh giống nhau không xác định nguồn gốc",
+      "body": "Roesler (2012) đặt vấn đề cơ sở khoa học của việc truyền những mô thức biểu tượng phức tạp có tính phổ quát. Bản đọc có dấu proof, chỉ dùng abstract và mở đầu để nhận diện tranh luận. Học tập và truyền văn hóa là những giải thích cần xét. Đây không phải thí nghiệm đã bác bỏ mọi cách dùng từ archetype.",
+      "nodes": [
+        [
+          "Hiện tượng",
+          "Mô típ có thể giống nhau."
+        ],
+        [
+          "Giả thuyết",
+          "Khuôn phổ quát được truyền?"
+        ],
+        [
+          "Khả năng khác",
+          "Học tập/giao lưu văn hóa."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "[S7] Abstract/introduction · PDF proof",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "H · PRACTICAL APPLICATIONS",
+      "title": "Dùng như câu hỏi, không như quyền giải nghĩa",
+      "body": "Trong đối thoại, có thể hỏi điều gì đã bị bỏ qua để giữ một lựa chọn. Trong quyết định, liệt kê hai nhu cầu cùng các điều kiện thực tế. Với hình ảnh, hỏi liên tưởng của người kể. Những gợi ý này nhằm hỗ trợ suy luận và giao tiếp; chúng chưa phải gói can thiệp đã được kiểm nghiệm và không cho quyền diễn giải người khác bất chấp sự đồng ý.",
+      "nodes": [
+        [
+          "Hỏi",
+          "Điều gì còn chưa được nhìn?"
+        ],
+        [
+          "Đối chiếu",
+          "Hoàn cảnh thực tế nào quan trọng?"
+        ],
+        [
+          "Tôn trọng",
+          "Có thể không nhận cách diễn giải."
+        ]
+      ],
+      "layout": "checklist",
+      "source": "Mục H · Gợi ý có điều kiện",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "I · VISUAL EXPLANATION",
+      "title": "Đọc mũi tên như một giả thuyết",
+      "body": "Hình đặt định hướng ý thức bên cạnh chất liệu ít được nhận biết; đường quan hệ ghi bù trừ theo mô hình Jung đề xuất. Bên ngoài là sức khỏe, học tập, công việc và văn hóa. Các nút không đại diện vùng não. Khi xem sơ đồ, luôn hỏi nó đang tổ chức khái niệm hay báo cáo một kết quả thực nghiệm.",
+      "nodes": [
+        [
+          "Định hướng ý thức",
+          "Điều được ưu tiên."
+        ],
+        [
+          "Chất liệu ít được nhìn",
+          "Giả thuyết, chưa đo trực tiếp."
+        ],
+        [
+          "Bối cảnh",
+          "Sức khỏe/học tập/văn hóa."
+        ]
+      ],
+      "layout": "concept-map",
+      "source": "[S1–S4] · Bản đồ khái niệm",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "J · KEY TAKEAWAYS",
+      "title": "Bốn điều về cách đọc mô hình",
+      "body": "Analytical Psychology không là một công thức bất biến. Đối lập giúp nghe nhiều yêu cầu, không tự xác định nguyên nhân. Bù trừ có thể bổ sung thay vì đảo ngược. Tự điều hòa là mô hình khái niệm, không bảo đảm mọi khó khăn đều tự chữa được. Bốn điểm này giữ ta khỏi biến một bản đồ hữu ích thành lời giải duy nhất.",
+      "nodes": [
+        [
+          "Hệ thống phát triển",
+          "Không bất biến."
+        ],
+        [
+          "Đối lập",
+          "Không chỉ hai lựa chọn."
+        ],
+        [
+          "Bù trừ/điều hòa",
+          "Mô hình cần kiểm chứng."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "Mục J1–J4",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "J · KEY TAKEAWAYS",
+      "title": "Bốn điều về ý nghĩa và bằng chứng",
+      "body": "Symbol khác sign trong định nghĩa Jung; ý nghĩa phải giữ bối cảnh. Prospective hỏi khả năng phát triển, không tiên tri. Ego, Self và persona không phải các vùng não hay nhãn cùng loại. Cuối cùng, một trải nghiệm có ý nghĩa, một kết quả trị liệu và một cơ chế được xác nhận cần những bằng chứng khác nhau.",
+      "nodes": [
+        [
+          "Biểu tượng",
+          "Không từ điển cố định."
+        ],
+        [
+          "Prospective",
+          "Không tiên tri."
+        ],
+        [
+          "Bằng chứng",
+          "Ý nghĩa/outcome/cơ chế tách biệt."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "Mục J5–J8",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "K · KNOWLEDGE CHECK 1–2",
+      "title": "Bù trừ và chiếc cầu: tránh hai suy luận vội",
+      "body": "Câu 1: Bù trừ có luôn làm ngược ý thức không? Không; Jung còn nói tới bổ sung. Câu 2: Hai người mơ cùng một chiếc cầu có cùng xung đột không? Chưa thể biết; cần liên tưởng và hoàn cảnh riêng. Hai đáp án cùng nhắc một lỗi: lấy nhãn của mô hình để lấp thông tin chưa có.",
+      "nodes": [
+        [
+          "Câu 1",
+          "Bổ sung không luôn đảo ngược."
+        ],
+        [
+          "Câu 2",
+          "Hình giống chưa chắc nghĩa giống."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S2–S3, S7] · Mục K1–K2",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "K · KNOWLEDGE CHECK 3–4",
+      "title": "Prospective và ca Linh: giữ đúng mức kết luận",
+      "body": "Câu 3: Prospective có dự đoán sự kiện không? Không; nó hỏi khả năng điều chỉnh và phát triển. Câu 4: Linh bớt khó ngủ sau giảm ca có xác nhận bù trừ không? Chưa; lịch làm có thể tác động trực tiếp. Một thay đổi có ích không tự chọn ra cơ chế đúng trong nhiều cách giải thích.",
+      "nodes": [
+        [
+          "Câu 3",
+          "Khả năng phát triển, không dự báo."
+        ],
+        [
+          "Câu 4",
+          "Kết quả không tự chọn cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1] · Mục K3–K4",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "K · KNOWLEDGE CHECK 5",
+      "title": "104 người cải thiện còn thiếu gì để nói nguyên mẫu?",
+      "body": "Cần nhóm so sánh và kiểm thiên lệch để nói rõ hơn về hiệu quả; muốn nói nguyên mẫu còn cần định nghĩa, phép đo và phép kiểm cơ chế độc lập. Không có cầu nối tự động từ trị liệu mang tên Jungian tới xác nhận collective unconscious hoặc synchronicity. Việc nghiên cứu có giới hạn không đồng nghĩa mọi người đều không được lợi.",
+      "nodes": [
+        [
+          "Outcome",
+          "Thay đổi trước–sau."
+        ],
+        [
+          "Cơ chế",
+          "Đo độc lập, so giải thích khác."
+        ],
+        [
+          "Không suy ngang",
+          "Tên trị liệu không xác nhận toàn hệ."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S6–S7] · Mục K5",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "L · REFERENCES",
+      "title": "Nguồn gốc và nguồn diễn giải",
+      "body": "S1 là Collected Papers bản tiếng Anh 1920 có lời tựa 1916. S2 là Psychologische Typen tiếng Đức 1921, mục XI.10 và XI.51. S3 là bài Symbol của Verena Kast tại IAAP; S4 là Jung Lexicon, nguồn thứ cấp có dẫn CW. Metadata CW6 tiếng Anh 1971 nằm ở S8; chưa được dùng làm nguồn paragraph chưa đối chiếu.",
+      "nodes": [
+        [
+          "S1–S2",
+          "Văn bản gốc đã đọc phần liên quan."
+        ],
+        [
+          "S3–S4",
+          "Diễn giải của truyền thống."
+        ],
+        [
+          "S8",
+          "Metadata ấn bản, không fulltext."
+        ]
+      ],
+      "layout": "references",
+      "source": "Nguồn đầy đủ và locator: bài J02 mục L",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "L · REFERENCES VÀ HỌC TIẾP",
+      "title": "Giữ nguồn, giới hạn và câu hỏi cùng nhau",
+      "body": "S5 chỉ được kiểm metadata và trích đoạn abstract; S6 đọc các phần liên quan của nghiên cứu 2025; S7 là PDF proof dùng để nhận diện tranh luận khái niệm. Khảo sát này không phải systematic review và chưa kiểm toàn bộ nguồn hay ấn bản. Tiếp theo đọc J03 về Conscious Ego, rồi trở lại bản đồ để thấy mỗi khái niệm đang trả lời câu hỏi nào.",
+      "nodes": [
+        [
+          "Nguồn hiện đại",
+          "S5/S6/S7, mức đọc khác nhau."
+        ],
+        [
+          "Giới hạn",
+          "Chưa tổng quan hệ thống."
+        ],
+        [
+          "Bài tiếp",
+          "J03: Conscious Ego."
+        ]
+      ],
+      "layout": "closing",
+      "source": "J02 · References trong bài/research log",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    }
+  ],
+  "markup": [
+    "<content><background fill=\"#241F39\"/><rectangle name=\"cover-panel\" x=\"1270\" y=\"0\" width=\"650\" height=\"1080\" fill=\"#493C89\" corner-radius=\"0\"/><text x=\"80\" y=\"60\" width=\"1110\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">📚 J02 / PSYCHOLOGY KNOWLEDGE</text><text x=\"80\" y=\"200\" width=\"1110\" height=\"310\" font-family=\"Bricolage Grotesque\" font-size=\"94\" font-weight=\"700\" color=\"#FAF8F4\">Jung: đối lập, bù trừ&#10;và nghĩa còn mở</text><text x=\"80\" y=\"600\" width=\"1100\" height=\"300\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#FAF8F4\">Analytical Psychology đặt quan hệ giữa ý thức, vô thức và biểu tượng để hỏi về những khả năng bị bỏ qua. Bài này giúp bạn đọc bản đồ ấy, phân biệt điều Jung đề xuất với bằng chứng thực nghiệm, rồi thử cách đặt câu hỏi trong ba ví dụ và một ca giả định. Đây là tổng quan; từng khái niệm sẽ có bài chuyên sâu.</text><image x=\"1320\" y=\"130\" width=\"500\" height=\"430\" src=\"stock_unsplash_DLR_RF9APPc\" fit=\"contain\"/><text x=\"1320\" y=\"595\" width=\"500\" height=\"170\" font-family=\"Bricolage Grotesque\" font-size=\"54\" font-weight=\"700\" color=\"#FAF8F4\">Một hình ảnh,&#10;nhiều liên tưởng.</text><text x=\"1320\" y=\"820\" width=\"500\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"27\" font-weight=\"400\" color=\"#FAF8F4\">Ảnh minh họa hiện đại,&#10;không phải ảnh ca nghiên cứu.</text><text x=\"1320\" y=\"965\" width=\"500\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#FAF8F4\">Yuval Zukerman / Unsplash</text><text x=\"80\" y=\"1015\" width=\"1100\" height=\"35\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Analytical Psychology · mô hình và bằng chứng</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🎯 A · LEARNING OBJECTIVES</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Học cách phân biệt trước khi diễn giải</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Lịch sử</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Văn bản nói điều gì?</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Cách đọc</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Giả thuyết cần gì?</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Kiểm chứng</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Dữ liệu cho phép tới đâu?</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Sau bài, bạn có thể giải thích ba nguyên lý nền của mô hình, phân biệt sign và symbol, đặt một giả thuyết cạnh tranh và đọc nghiên cứu kết quả đúng giới hạn. Mục tiêu không phải thuộc một bảng nhãn để gán người khác. Điều cần kiểm là bạn có nói được dữ kiện nào khiến cách đọc của mình phải thay đổi hay không.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Mục A</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 02/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🕰️ B · HISTORICAL BACKGROUND</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1TVBZCK3T69D1TFS0K248B2A2K\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">1916 là ngày lời tựa, 1920 là bản đã đọc</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">1916</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Lời tựa được ký.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">1920</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Bản tiếng Anh đã đọc.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">1921</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Psychologische Typen.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Lời tựa đầu ký tháng 1-1916 dùng tên analytical psychology và nói đến những thay đổi trong quan điểm của Jung. Bản thực sự đọc là Collected Papers, ấn bản thứ hai in lại năm 1920, Constance E. Long biên tập bản dịch. Không gọi năm 1916 là lần đầu tuyệt đối thuật ngữ xuất hiện chỉ vì tìm được một lời tựa có ngày.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S1] Trang tên/lời tựa · [S2] Trang tên</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 03/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🕰️ B · NGUỒN VÀ ẤN BẢN</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1TVBZCK3T69D1TFS0K248B2A2K\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Nguồn gốc, bản dịch và diễn giải là ba lớp</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">Một định nghĩa tiếng Đức năm 1921 không tự trở thành câu trích từ Bollingen tiếng Anh 1971. Bài đọc trực tiếp các mục liên quan trong bản Đức, còn CW6 chỉ kiểm metadata. Nguồn thứ cấp như Jung Lexicon hữu ích để định vị thuật ngữ nhưng các paragraph CW được nó dẫn chưa được đối chiếu toàn bộ trong phiên này.</text><image x=\"1040\" y=\"315\" width=\"350\" height=\"480\" src=\"stock_unsplash_HH4WBGNyltc\" fit=\"contain\"/><text x=\"1440\" y=\"375\" width=\"350\" height=\"180\" font-family=\"Bricolage Grotesque\" font-size=\"42\" font-weight=\"700\" color=\"#493C89\">Đọc văn bản&#10;trước khi gán nhãn.</text><text x=\"1040\" y=\"840\" width=\"760\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#493C89\">Ảnh sáng tạo ghép sách: Jaredd Craig / Unsplash&#10;Không phải ảnh sách Jung.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S1–S4, S8]</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 04/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · CORE THEORY</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Analytical Psychology không đồng nghĩa MBTI</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Analytical Psychology</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Hệ thống và truyền thống.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Types</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Một nhóm khái niệm.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">MBTI</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Không đồng nhất cả hệ thống.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Ở đây tên gọi chỉ hệ thống và truyền thống hình thành từ Jung. Một bảng loại hình nhân cách hay cách dùng Jungian trên mạng không đại diện toàn bộ truyền thống ấy. Psychological types chỉ là một tuyến của bản đồ, sẽ học ở J12–J14; không dùng nó như chẩn đoán hoặc gói toàn bộ tâm trí vào một mã loại.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S1–S2, S4] · J12–J14</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 05/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">🧠 C · ĐỐI LẬP</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Hai nhu cầu có thể cùng đáng được nghe</text><rectangle name=\"n0\" x=\"80\" y=\"350\" width=\"820\" height=\"275\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"112\" y=\"380\" width=\"755\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#C8BDEE\">Tự chủ</text><text x=\"112\" y=\"480\" width=\"750\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Không muốn bị chi phối.</text><rectangle name=\"n1\" x=\"1020\" y=\"350\" width=\"820\" height=\"275\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1052\" y=\"380\" width=\"755\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#C8BDEE\">Được chấp nhận</text><text x=\"1052\" y=\"480\" width=\"750\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Không muốn mất quan hệ.</text><text x=\"875\" y=\"440\" width=\"130\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"65\" font-weight=\"700\" color=\"#B77C56\">↔</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Muốn tự chủ và muốn được chấp nhận có thể kéo một người theo hai hướng. Mô tả đối lập giúp nhìn căng thẳng mà không vội chọn một bên là thật, bên kia là giả. Nhưng chia thành hai cực có thể bỏ sót lựa chọn thứ ba và các điều kiện vật chất. Đối lập là khung đặt câu hỏi, chưa phải lời giải nguyên nhân.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">[S4] Conflict/Opposites</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 06/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · BÙ TRỪ</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Bổ sung không nhất thiết là đảo ngược</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Định hướng</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Chọn một điều để ưu tiên.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Điều ít được nhìn</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Khả năng hoặc nhu cầu khác.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Giả thuyết bù trừ</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Có thể bổ sung định hướng.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Mô hình đề xuất / giả thuyết · chưa xác nhận cơ chế</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Trong mục Compensation, Jung mô tả chất liệu vô thức có thể điều chỉnh sự phiến diện của định hướng ý thức. Ông phân biệt tương phản cực đoan với sự bổ sung. Vì thế, “tôi muốn làm tốt” không bắt buộc có một mong muốn làm hỏng việc ở bên dưới. Cần liên tưởng và hoàn cảnh, không suy cơ chế từ một hành vi.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S2] XI.10 Compensation</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 07/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">🧠 C · TỰ ĐIỀU HÒA</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Một mô hình cân bằng, không lời hứa tự chữa lành</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Mô hình</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Quan hệ được đề xuất.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Quan sát</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Trải nghiệm thay đổi.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Chưa được suy</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Cơ chế đã được chứng minh.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Self-regulation nói về quan hệ bù trừ giữa ý thức và vô thức trong mô hình Jung. Nó không bảo đảm tâm trí luôn tự tìm ra điều tốt, hoặc mọi đau khổ đều cần thiết để trưởng thành. Bài không có một đơn vị đo cho cân bằng tâm lý. Thấy trải nghiệm thay đổi chưa đủ xác nhận một cơ chế điều hòa đặc thù.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">[S2] XI.10 · [S4] Self-regulation</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 08/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · BẢN ĐỒ 1</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Ego không phải toàn bộ psyche</text><rectangle name=\"n0\" x=\"80\" y=\"350\" width=\"820\" height=\"275\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"112\" y=\"380\" width=\"755\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#493C89\">Ý thức/Ego</text><text x=\"112\" y=\"480\" width=\"750\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">J03: điểm quy chiếu.</text><rectangle name=\"n1\" x=\"1020\" y=\"350\" width=\"820\" height=\"275\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1052\" y=\"380\" width=\"755\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#493C89\">Chất liệu cá nhân</text><text x=\"1052\" y=\"480\" width=\"750\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">J04/J19: quan hệ cảm xúc.</text><text x=\"875\" y=\"440\" width=\"130\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"65\" font-weight=\"700\" color=\"#B77C56\">↔</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Trong hệ thống, ego là điểm quy chiếu của ý thức; chất liệu ít được nhận biết thuộc những nhóm khái niệm khác. Bản đồ không phải các ngăn não và không cho một tỷ lệ phần trăm vô thức. J03 sẽ học ego, J04 và J19 đi vào chất liệu cá nhân cùng complexes; ở đây chỉ định vị câu hỏi của từng bài.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S4] Psyche · J03/J04/J19</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 09/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · BẢN ĐỒ 2</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Collective unconscious là nhãn giả thuyết</text><rectangle name=\"root\" x=\"80\" y=\"400\" width=\"500\" height=\"190\" fill=\"#493C89\" corner-radius=\"12\"/><text x=\"110\" y=\"430\" width=\"440\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"700\" color=\"#FAF8F4\">Giả thuyết Jung</text><text x=\"110\" y=\"500\" width=\"440\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Khuôn tổ chức vượt cá nhân.</text><rectangle name=\"branch1\" x=\"900\" y=\"400\" width=\"910\" height=\"140\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"930\" y=\"420\" width=\"850\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Giải thích cạnh tranh</text><text x=\"930\" y=\"480\" width=\"850\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Học tập và truyền văn hóa.</text><connector from=\"@root:right\" to=\"@branch1:left\" routing=\"elbowed\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Mô hình đề xuất / giả thuyết · chưa xác nhận cơ chế</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Collective unconscious và archetypes được Jung dùng để suy nghĩ về những khuôn tổ chức vượt cá nhân. Điều này không đồng nghĩa đã có một kho ký ức di truyền được xác nhận. Những hình ảnh giống nhau có thể còn liên quan học tập và giao lưu văn hóa. J05–J06 sẽ đánh giá giả thuyết và giải thích cạnh tranh kỹ hơn.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S4, S7] · J05–J06</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 10/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · BẢN ĐỒ 3</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Vai xã hội và phần bị loại khỏi tự ảnh</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Persona</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">J07: vai trong bối cảnh.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Shadow</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">J08: điều bị loại khỏi tự ảnh.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Anima/Animus</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">J09: đọc phê phán về giới.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Persona đặt câu hỏi về vai thích nghi; Shadow đặt câu hỏi về những điều bị loại khỏi cách ta nhìn bản thân. Một vai nghề nghiệp không tự là giả tạo, một cảm xúc khó chịu không tự là Shadow. Anima/Animus mang giả định giới lịch sử và sẽ được đọc phê phán. Các bài J07–J09 xử lý riêng các khái niệm này.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S4] · J07–J09</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 11/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">🧠 C · BẢN ĐỒ 4</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Self và individuation không phải hoàn hảo</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Self</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">J10: toàn thể giả định.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Individuation</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">J11: quá trình tích hợp.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Học tiếp</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">J20/J21: cơ chế khái niệm.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Self là khái niệm về toàn thể giả định; individuation là quá trình tích hợp theo Jung. Không đồng nhất Self với tự trọng, hoặc individuation với trở nên vượt trội và không cần người khác. J10–J11 sẽ làm rõ hai khái niệm; J20 và J21 đi vào chức năng tích hợp và mô hình năng lượng, không đại lượng vật lý trong bài này.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">[S4] Self/Individuation</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 12/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · SIGN VÀ SYMBOL</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Một nhãn đã biết và một nghĩa còn mở</text><rectangle name=\"n0\" x=\"80\" y=\"350\" width=\"820\" height=\"275\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"112\" y=\"380\" width=\"755\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#493C89\">Sign</text><text x=\"112\" y=\"480\" width=\"750\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Quy chiếu tới điều đã biết.</text><rectangle name=\"n1\" x=\"1020\" y=\"350\" width=\"820\" height=\"275\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1052\" y=\"380\" width=\"755\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#493C89\">Symbol</text><text x=\"1052\" y=\"480\" width=\"750\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Nghĩa chưa được diễn đạt hết.</text><text x=\"875\" y=\"440\" width=\"130\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"65\" font-weight=\"700\" color=\"#B77C56\">≠</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Trong định nghĩa Jung, sign có thể quy chiếu tới điều đã biết theo quy ước. Symbol biểu đạt điều còn tương đối chưa biết, chưa diễn đạt đầy đủ bằng một nhãn khác. Bởi vậy, gọi một hình là biểu tượng không có nghĩa đã giải được nó. Phải giữ câu hỏi về liên tưởng và hoàn cảnh, thay vì áp một nghĩa có sẵn.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S2] XI.51 Symbol</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 13/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · LIÊN TƯỞNG</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Cùng một chiếc cầu, nhiều bối cảnh</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">Chiếc cầu có thể là tuyến đường đi làm, một nơi chia tay hoặc hình ảnh vừa thấy trong phim. Trong cách đọc biểu tượng, câu hỏi đầu tiên là nó gợi điều gì cho người kể. Bài IAAP của Verena Kast cho thấy cách truyền thống nối biểu tượng với cảm xúc và ý nghĩa; đó không phải phép xác nhận độc lập rằng mọi hình có nghĩa phổ quát.</text><image x=\"1020\" y=\"320\" width=\"770\" height=\"310\" src=\"stock_unsplash_DLR_RF9APPc\" fit=\"contain\"/><text x=\"1020\" y=\"650\" width=\"770\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#493C89\">Ảnh minh họa hiện đại: Yuval Zukerman / Unsplash</text><text x=\"1020\" y=\"760\" width=\"760\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"700\" color=\"#2B2540\">Hình ảnh: Một cây cầu.</text><text x=\"1020\" y=\"855\" width=\"760\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#2B2540\">Liên tưởng: Người kể liên hệ điều gì?</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S2–S3] · J15</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 14/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧠 C · HAI CÁCH HỎI</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Nguồn gốc và khả năng phát triển</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"832.5\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"778.5\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Retrospective</text><text x=\"107\" y=\"490\" width=\"778.5\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Điều gì đã dẫn tới đây?</text><rectangle name=\"card1\" x=\"977.5\" y=\"355\" width=\"832.5\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1004.5\" y=\"380\" width=\"778.5\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Prospective</text><text x=\"1004.5\" y=\"490\" width=\"778.5\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Khả năng nào còn chưa được nhìn?</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Cách hỏi nhân quả tìm điều kiện đã dẫn tới hiện tượng. Cách đọc prospective của Jung hỏi khả năng điều chỉnh hoặc phát triển mà hiện tượng có thể gợi. Hỏi về tương lai không phải tiên tri hay tác động từ tương lai. Hai lối đọc có thể hữu ích cho đối thoại, nhưng một câu chuyện có ý nghĩa chưa phải nguyên nhân thật.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S1] Lời tựa 1916/Constructive method</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 15/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">⚙️ D · PSYCHOLOGICAL MECHANISM</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Từ quan sát tới giả thuyết, không nhảy thẳng</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Định hướng</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Điều đang được ưu tiên.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Trải nghiệm</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Điều cần mô tả.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Giả thuyết</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Có phần nào bị bỏ qua?</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Mô hình đề xuất / giả thuyết · chưa xác nhận cơ chế</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Chuỗi sau là mô hình đọc do bài xây dựng theo Jung: một định hướng nổi trội, một trải nghiệm gây chú ý, rồi một giả thuyết về điều bị bỏ qua. Cơ chế không được xác nhận chỉ vì các bước nối nhau hợp lý. Mỗi mũi tên phải được đọc như câu hỏi cần dữ kiện, không như định luật tâm trí.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">[S2–S4] · Mô hình đề xuất</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 16/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">⚙️ D · KIỂM TRA CÁCH ĐỌC</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Giữ ít nhất một giải thích khác</text><rectangle name=\"root\" x=\"80\" y=\"400\" width=\"500\" height=\"190\" fill=\"#493C89\" corner-radius=\"12\"/><text x=\"110\" y=\"430\" width=\"440\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"700\" color=\"#FAF8F4\">Giả thuyết Jungian</text><text x=\"110\" y=\"500\" width=\"440\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Có điều ít được thừa nhận?</text><rectangle name=\"branch1\" x=\"900\" y=\"330\" width=\"910\" height=\"140\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"930\" y=\"350\" width=\"850\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Giải thích khác</text><text x=\"930\" y=\"410\" width=\"850\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Thiếu ngủ/lịch làm/bối cảnh?</text><connector from=\"@root:right\" to=\"@branch1:left\" routing=\"elbowed\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><rectangle name=\"branch2\" x=\"900\" y=\"510\" width=\"910\" height=\"140\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"930\" y=\"530\" width=\"850\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Dữ kiện phân biệt</text><text x=\"930\" y=\"590\" width=\"850\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Điều gì sẽ làm cách đọc yếu đi?</text><connector from=\"@root:right\" to=\"@branch2:left\" routing=\"elbowed\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Thiếu ngủ, lịch làm, sức khỏe và văn hóa tổ chức có thể giải thích cùng một biểu hiện. Nếu chỉ giữ cách đọc bù trừ, mọi chi tiết dễ bị kéo vào một câu chuyện đã chọn. Cần xác định trước dữ kiện nào làm giả thuyết yếu đi, hỏi sự đồng ý của người kể và sẵn sàng bỏ diễn giải không phù hợp.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Mục D · Nguyên tắc biên tập</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 17/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">💬 E · REAL-LIFE EXAMPLES</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Ví dụ 1: Hương luôn vui vẻ ở công ty</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">Hương hay nhận thêm việc và cười khi được hỏi có mệt không; về nhà cô kiệt sức. Có thể vai luôn dễ chịu khiến nhu cầu giới hạn ít được nói tới. Nhưng cũng có thể công ty thiếu người hoặc Hương ngủ quá ít. Phải hỏi Hương trước khi đặt nhãn persona, và không dùng nụ cười như bằng chứng về vô thức.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Tình huống giả định · Mục E1</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 18/36</text><rectangle name=\"side0\" x=\"1030\" y=\"330\" width=\"770\" height=\"150\" corner-radius=\"12\" fill=\"#EAE5F2\"/><text x=\"1060\" y=\"350\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Dữ kiện</text><text x=\"1060\" y=\"410\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Nhận việc, cười, mệt.</text><rectangle name=\"side1\" x=\"1030\" y=\"510\" width=\"770\" height=\"150\" corner-radius=\"12\" fill=\"#EAE5F2\"/><text x=\"1060\" y=\"530\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Giả thuyết</text><text x=\"1060\" y=\"590\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Nhu cầu giới hạn chưa được nói.</text><rectangle name=\"side2\" x=\"1030\" y=\"690\" width=\"770\" height=\"150\" corner-radius=\"12\" fill=\"#EAE5F2\"/><text x=\"1060\" y=\"710\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Khả năng khác</text><text x=\"1060\" y=\"770\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Giờ làm/thiếu ngủ.</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">💬 E · REAL-LIFE EXAMPLES</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Ví dụ 2: Nam mơ về chiếc cầu</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">Nam kể đứng trước một cây cầu trong mơ. Một từ điển có thể gán nghĩa chuyển hóa, nhưng Nam lại nhớ lần chia tay ở đúng nơi ấy. Câu chuyện cá nhân mở một hướng hỏi; nó không xác nhận ý nghĩa chung cho mọi chiếc cầu. Bộ phim tối qua cũng có thể cung cấp hình ảnh. Không dự báo Nam sẽ đổi nghề.</text><image x=\"1020\" y=\"320\" width=\"770\" height=\"310\" src=\"stock_unsplash_DLR_RF9APPc\" fit=\"contain\"/><text x=\"1020\" y=\"650\" width=\"770\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#493C89\">Ảnh minh họa hiện đại: Yuval Zukerman / Unsplash</text><text x=\"1020\" y=\"735\" width=\"770\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"700\" color=\"#2B2540\">Nghĩa áp sẵn: Cầu luôn là chuyển hóa?</text><text x=\"1020\" y=\"810\" width=\"770\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#2B2540\">Liên tưởng Nam: Một lần chia tay.</text><text x=\"1020\" y=\"885\" width=\"770\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#2B2540\">Khả năng khác: Hình ảnh trong phim.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Tình huống giả định · Mục E2</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 19/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">💬 E · REAL-LIFE EXAMPLES</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Ví dụ 3: Mai muốn ổn định và đổi nghề</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Ổn định</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Thu nhập và trách nhiệm.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Thay đổi</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Ý nghĩa và học hỏi.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Phương án khác</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Học thêm trong khi làm.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Mai muốn giữ thu nhập nhưng muốn công việc có ý nghĩa hơn. Khung đối lập giúp nghe cả hai yêu cầu. Một lựa chọn thứ ba là học thêm trong khi vẫn làm việc; đó là quyết định thực tế, chưa tự thành transcendent function. Tài chính, chăm sóc gia đình và thị trường lao động phải được nhìn như dữ kiện thật.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Tình huống giả định · Mục E3</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 20/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">📋 F · CASE STUDY 1/3</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Linh: đừng ghi suy luận vào cột dữ kiện</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#FAF8F4\">Linh, 32 tuổi, trưởng nhóm mới, lịch trực dày, khó ngủ và nói không được làm người khác thất vọng. Cô kể mơ về căn phòng khóa. Đây là ca giáo dục hư cấu. Ta có lời kể và hoàn cảnh; chưa có bằng chứng rằng căn phòng là vô thức, Shadow hay một chấn thương bị quên. Hãy phân biệt ngay hai loại ghi chép.</text><rectangle name=\"side0\" x=\"1030\" y=\"330\" width=\"770\" height=\"150\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1060\" y=\"350\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Quan sát</text><text x=\"1060\" y=\"410\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Lịch trực, ngủ, lời kể.</text><rectangle name=\"side1\" x=\"1030\" y=\"510\" width=\"770\" height=\"150\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1060\" y=\"530\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Chưa biết</text><text x=\"1060\" y=\"590\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Sức khỏe, áp lực, hỗ trợ.</text><rectangle name=\"side2\" x=\"1030\" y=\"690\" width=\"770\" height=\"150\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1060\" y=\"710\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Chưa kết luận</text><text x=\"1060\" y=\"770\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Nhãn lý thuyết/diagnosis.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Ca giả định · Mục F1–F2</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 21/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">📋 F · CASE STUDY 2/3</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Liên tưởng riêng mở câu hỏi, chưa chốt cơ chế</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Liên tưởng Linh</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Một nơi yên tĩnh trước đây.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Hướng hỏi</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Nhu cầu nghỉ/giới hạn?</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Đối chiếu</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Giờ làm/sức khỏe/sự kiện.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Linh nhớ căn phòng làm việc cũ từng giúp cô yên tĩnh. Có thể nhu cầu nghỉ ít được thừa nhận, nhưng liên tưởng này không chứng minh ý nghĩa phổ quát của căn phòng. Ta vẫn cần hỏi thay đổi lịch, giấc ngủ, sức khỏe và các sự kiện gần đây. Không lấp chỗ thiếu thông tin bằng một thuật ngữ Jungian.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Ca giả định · Mục F3–F6</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 22/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">📋 F · CASE STUDY 3/3</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Điều chỉnh thực tế và kết luận đúng mức</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Hành động đồng thuận</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Đề nghị chia ca/khoảng nghỉ.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Quan sát</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Giấc ngủ thay đổi ra sao?</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Kết luận giới hạn</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Hữu ích để hỏi chưa là cơ chế đúng.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Linh đồng ý thử đề nghị chia ca và khoảng nghỉ rõ hơn. Nếu giấc ngủ cải thiện, ta ghi nhận thay đổi nhưng chưa biết thành tố nào gây tác động. Cách đọc Jungian có thể đã giúp tạo câu hỏi về giới hạn; cơ chế vô thức bù trừ vẫn chưa được xác lập. Khó chịu kéo dài hoặc ảnh hưởng đáng kể cần hỗ trợ chuyên môn phù hợp.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Ca giả định · Mục F7–F9</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 23/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">🔬 G · MODERN SCIENTIFIC PERSPECTIVE</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Ba câu hỏi cần ba loại bằng chứng</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Lịch sử</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Văn bản/ấn bản.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Ý nghĩa</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Trải nghiệm/bối cảnh.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#C8BDEE\">Hiệu quả/cơ chế</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Thiết kế và phép đo phù hợp.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Một văn bản có thể xác nhận Jung đã định nghĩa từ như thế nào, nhưng không tự chứng minh tâm trí vận hành đúng như vậy. Một diễn giải có ý nghĩa với người kể cũng khác một can thiệp tạo hiệu quả riêng. Nghiên cứu kết quả và nghiên cứu cơ chế phải giữ đối tượng đo riêng, thay vì để tên trường phái nối mọi kết luận với nhau.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Mục G · Khung đọc bằng chứng</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 24/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🔬 G · REVIEW 2013</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Đọc được tới đâu thì kết luận tới đó</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">Review 2013 của Roesler bàn về các nghiên cứu kết quả Jungian psychotherapy. Phiên này chỉ kiểm metadata và trích đoạn abstract qua tìm kiếm: PMC bị CAPTCHA, MDPI trả 429. Vì chưa đọc toàn review, bài không đưa hiệu ứng hoặc đánh giá chi phí từ nguồn này. Một nguồn có uy tín vẫn cần được đọc đúng phần trước khi dùng cho claim chi tiết.</text><rectangle name=\"side0\" x=\"1030\" y=\"330\" width=\"770\" height=\"150\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1060\" y=\"350\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Đã kiểm</text><text x=\"1060\" y=\"410\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Metadata/abstract trích đoạn.</text><rectangle name=\"side1\" x=\"1030\" y=\"510\" width=\"770\" height=\"150\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1060\" y=\"530\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Bị chặn</text><text x=\"1060\" y=\"590\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">PMC CAPTCHA; MDPI 429.</text><rectangle name=\"side2\" x=\"1030\" y=\"690\" width=\"770\" height=\"150\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1060\" y=\"710\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Không nhận</text><text x=\"1060\" y=\"770\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Đã đọc toàn review/định lượng.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S5] DOI10.3390/bs3040562</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 25/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🔬 G · NGHIÊN CỨU 2025</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">104 người trước–sau: thay đổi có, nhân quả còn mở</text><rectangle name=\"card0\" x=\"80\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"107\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">104 người</text><text x=\"107\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Đánh giá trước–sau.</text><rectangle name=\"card1\" x=\"678.3333333333334\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"705.3333333333334\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Cải thiện được báo cáo</text><text x=\"705.3333333333334\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Triệu chứng/chất lượng sống.</text><connector from=\"@card0:right\" to=\"@card1:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"card2\" x=\"1276.6666666666667\" y=\"355\" width=\"533.3333333333334\" height=\"265\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1303.6666666666667\" y=\"380\" width=\"479.33333333333337\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"37\" font-weight=\"700\" color=\"#493C89\">Giới hạn</text><text x=\"1303.6666666666667\" y=\"490\" width=\"479.33333333333337\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Không control; self-report; dropout.</text><connector from=\"@card1:right\" to=\"@card2:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Roesler và cộng sự (2025) báo cáo cải thiện ở các chỉ số trong 104 người trị liệu có giám sát. Bài đã đọc phần liên quan trên PDF nhà xuất bản. Thiết kế không có nhóm đối chứng, dựa tự báo cáo và không ghi dropout có hệ thống. Vì thế, thay đổi quan sát được chưa đủ quy riêng cho phương pháp, càng không xác nhận các nguyên mẫu.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S6] Abstract/Methods/limitations</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 26/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">🔬 G · PHÊ BÌNH CƠ CHẾ</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Hình ảnh giống nhau không xác định nguồn gốc</text><rectangle name=\"root\" x=\"80\" y=\"400\" width=\"500\" height=\"190\" fill=\"#493C89\" corner-radius=\"12\"/><text x=\"110\" y=\"430\" width=\"440\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"700\" color=\"#FAF8F4\">Hiện tượng</text><text x=\"110\" y=\"500\" width=\"440\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Mô típ có thể giống nhau.</text><rectangle name=\"branch1\" x=\"900\" y=\"330\" width=\"910\" height=\"140\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"930\" y=\"350\" width=\"850\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Giả thuyết</text><text x=\"930\" y=\"410\" width=\"850\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Khuôn phổ quát được truyền?</text><connector from=\"@root:right\" to=\"@branch1:left\" routing=\"elbowed\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><rectangle name=\"branch2\" x=\"900\" y=\"510\" width=\"910\" height=\"140\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"930\" y=\"530\" width=\"850\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Khả năng khác</text><text x=\"930\" y=\"590\" width=\"850\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Học tập/giao lưu văn hóa.</text><connector from=\"@root:right\" to=\"@branch2:left\" routing=\"elbowed\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Mô hình đề xuất / giả thuyết · chưa xác nhận cơ chế</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Roesler (2012) đặt vấn đề cơ sở khoa học của việc truyền những mô thức biểu tượng phức tạp có tính phổ quát. Bản đọc có dấu proof, chỉ dùng abstract và mở đầu để nhận diện tranh luận. Học tập và truyền văn hóa là những giải thích cần xét. Đây không phải thí nghiệm đã bác bỏ mọi cách dùng từ archetype.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">[S7] Abstract/introduction · PDF proof</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 27/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🧭 H · PRACTICAL APPLICATIONS</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Dùng như câu hỏi, không như quyền giải nghĩa</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">Trong đối thoại, có thể hỏi điều gì đã bị bỏ qua để giữ một lựa chọn. Trong quyết định, liệt kê hai nhu cầu cùng các điều kiện thực tế. Với hình ảnh, hỏi liên tưởng của người kể. Những gợi ý này nhằm hỗ trợ suy luận và giao tiếp; chúng chưa phải gói can thiệp đã được kiểm nghiệm và không cho quyền diễn giải người khác bất chấp sự đồng ý.</text><rectangle name=\"side0\" x=\"1030\" y=\"330\" width=\"770\" height=\"150\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1060\" y=\"350\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Hỏi</text><text x=\"1060\" y=\"410\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Điều gì còn chưa được nhìn?</text><rectangle name=\"side1\" x=\"1030\" y=\"510\" width=\"770\" height=\"150\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1060\" y=\"530\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Đối chiếu</text><text x=\"1060\" y=\"590\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Hoàn cảnh thực tế nào quan trọng?</text><rectangle name=\"side2\" x=\"1030\" y=\"690\" width=\"770\" height=\"150\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"1060\" y=\"710\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Tôn trọng</text><text x=\"1060\" y=\"770\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#2B2540\">Có thể không nhận cách diễn giải.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Mục H · Gợi ý có điều kiện</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 28/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">🗺️ I · VISUAL EXPLANATION</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Đọc mũi tên như một giả thuyết</text><rectangle x=\"60\" y=\"315\" width=\"1770\" height=\"380\" corner-radius=\"20\" fill=\"none\" stroke=\"#B77C56\" stroke-width=\"2\"/><rectangle name=\"awareness\" x=\"100\" y=\"370\" width=\"610\" height=\"215\" corner-radius=\"12\" fill=\"#EAE5F2\"/><text x=\"130\" y=\"400\" width=\"550\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"39\" font-weight=\"700\" color=\"#493C89\">Định hướng ý thức</text><text x=\"130\" y=\"495\" width=\"550\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#2B2540\">Điều đang được ưu tiên.</text><rectangle name=\"unseen\" x=\"1140\" y=\"370\" width=\"610\" height=\"215\" corner-radius=\"12\" fill=\"#EAE5F2\"/><text x=\"1170\" y=\"400\" width=\"550\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"39\" font-weight=\"700\" color=\"#493C89\">Chất liệu ít được nhìn</text><text x=\"1170\" y=\"495\" width=\"550\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Giả thuyết, chưa đo trực tiếp.</text><connector from=\"@awareness:right\" to=\"@unseen:left\" routing=\"straight\" stroke=\"#B77C56\" stroke-width=\"2\" dash=\"8,6\"/><text x=\"735\" y=\"375\" width=\"370\" height=\"85\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"700\" color=\"#493C89\">Bù trừ theo mô hình&#10;Jung đề xuất</text><text x=\"100\" y=\"625\" width=\"1650\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#7B533E\">Bối cảnh: sức khỏe · học tập · công việc · văn hóa</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Hình đặt định hướng ý thức bên cạnh chất liệu ít được nhận biết; đường quan hệ ghi bù trừ theo mô hình Jung đề xuất. Bên ngoài là sức khỏe, học tập, công việc và văn hóa. Các nút không đại diện vùng não. Khi xem sơ đồ, luôn hỏi nó đang tổ chức khái niệm hay báo cáo một kết quả thực nghiệm.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S1–S4] · Bản đồ khái niệm</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 29/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">💡 J · KEY TAKEAWAYS</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Bốn điều về cách đọc mô hình</text><rectangle name=\"row0\" x=\"80\" y=\"330\" width=\"1730\" height=\"90\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"110\" y=\"350\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Hệ thống phát triển</text><text x=\"675\" y=\"350\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Không bất biến.</text><rectangle name=\"row1\" x=\"80\" y=\"440\" width=\"1730\" height=\"90\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"110\" y=\"460\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Đối lập</text><text x=\"675\" y=\"460\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Không chỉ hai lựa chọn.</text><rectangle name=\"row2\" x=\"80\" y=\"550\" width=\"1730\" height=\"90\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"110\" y=\"570\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Bù trừ/điều hòa</text><text x=\"675\" y=\"570\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Mô hình cần kiểm chứng.</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Analytical Psychology không là một công thức bất biến. Đối lập giúp nghe nhiều yêu cầu, không tự xác định nguyên nhân. Bù trừ có thể bổ sung thay vì đảo ngược. Tự điều hòa là mô hình khái niệm, không bảo đảm mọi khó khăn đều tự chữa được. Bốn điểm này giữ ta khỏi biến một bản đồ hữu ích thành lời giải duy nhất.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Mục J1–J4</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 30/36</text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">💡 J · KEY TAKEAWAYS</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Bốn điều về ý nghĩa và bằng chứng</text><rectangle name=\"row0\" x=\"80\" y=\"330\" width=\"1730\" height=\"90\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"110\" y=\"350\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Biểu tượng</text><text x=\"675\" y=\"350\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Không từ điển cố định.</text><rectangle name=\"row1\" x=\"80\" y=\"440\" width=\"1730\" height=\"90\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"110\" y=\"460\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Prospective</text><text x=\"675\" y=\"460\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Không tiên tri.</text><rectangle name=\"row2\" x=\"80\" y=\"550\" width=\"1730\" height=\"90\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"110\" y=\"570\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Bằng chứng</text><text x=\"675\" y=\"570\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\">Ý nghĩa/outcome/cơ chế tách biệt.</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FAF8F4\">Symbol khác sign trong định nghĩa Jung; ý nghĩa phải giữ bối cảnh. Prospective hỏi khả năng phát triển, không tiên tri. Ego, Self và persona không phải các vùng não hay nhãn cùng loại. Cuối cùng, một trải nghiệm có ý nghĩa, một kết quả trị liệu và một cơ chế được xác nhận cần những bằng chứng khác nhau.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">Mục J5–J8</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 31/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">❓ K · KNOWLEDGE CHECK 1–2</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Bù trừ và chiếc cầu: tránh hai suy luận vội</text><rectangle name=\"row0\" x=\"80\" y=\"330\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"350\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Câu 1</text><text x=\"675\" y=\"350\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Bổ sung không luôn đảo ngược.</text><rectangle name=\"row1\" x=\"80\" y=\"440\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"460\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Câu 2</text><text x=\"675\" y=\"460\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Hình giống chưa chắc nghĩa giống.</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Câu 1: Bù trừ có luôn làm ngược ý thức không? Không; Jung còn nói tới bổ sung. Câu 2: Hai người mơ cùng một chiếc cầu có cùng xung đột không? Chưa thể biết; cần liên tưởng và hoàn cảnh riêng. Hai đáp án cùng nhắc một lỗi: lấy nhãn của mô hình để lấp thông tin chưa có.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S2–S3, S7] · Mục K1–K2</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 32/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">❓ K · KNOWLEDGE CHECK 3–4</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Prospective và ca Linh: giữ đúng mức kết luận</text><rectangle name=\"row0\" x=\"80\" y=\"330\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"350\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Câu 3</text><text x=\"675\" y=\"350\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Khả năng phát triển, không dự báo.</text><rectangle name=\"row1\" x=\"80\" y=\"440\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"460\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Câu 4</text><text x=\"675\" y=\"460\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Kết quả không tự chọn cơ chế.</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Câu 3: Prospective có dự đoán sự kiện không? Không; nó hỏi khả năng điều chỉnh và phát triển. Câu 4: Linh bớt khó ngủ sau giảm ca có xác nhận bù trừ không? Chưa; lịch làm có thể tác động trực tiếp. Một thay đổi có ích không tự chọn ra cơ chế đúng trong nhiều cách giải thích.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S1] · Mục K3–K4</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 33/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">❓ K · KNOWLEDGE CHECK 5</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">104 người cải thiện còn thiếu gì để nói nguyên mẫu?</text><rectangle name=\"row0\" x=\"80\" y=\"330\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"350\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Outcome</text><text x=\"675\" y=\"350\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Thay đổi trước–sau.</text><rectangle name=\"row1\" x=\"80\" y=\"440\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"460\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Cơ chế</text><text x=\"675\" y=\"460\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Đo độc lập, so giải thích khác.</text><rectangle name=\"row2\" x=\"80\" y=\"550\" width=\"1730\" height=\"90\" fill=\"#EAE5F2\" corner-radius=\"12\"/><text x=\"110\" y=\"570\" width=\"530\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#493C89\">Không suy ngang</text><text x=\"675\" y=\"570\" width=\"1090\" height=\"52\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#2B2540\">Tên trị liệu không xác nhận toàn hệ.</text><text x=\"80\" y=\"675\" width=\"1710\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#493C89\">Sơ đồ khái niệm để đặt câu hỏi · không phải bản đồ não</text><text x=\"80\" y=\"745\" width=\"1730\" height=\"220\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#2B2540\">Cần nhóm so sánh và kiểm thiên lệch để nói rõ hơn về hiệu quả; muốn nói nguyên mẫu còn cần định nghĩa, phép đo và phép kiểm cơ chế độc lập. Không có cầu nối tự động từ trị liệu mang tên Jungian tới xác nhận collective unconscious hoặc synchronicity. Việc nghiên cứu có giới hạn không đồng nghĩa mọi người đều không được lợi.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">[S6–S7] · Mục K5</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 34/36</text></content>",
+    "<content><background fill=\"#FAF8F4\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#493C89\">📚 L · REFERENCES</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1TVBZCK3T69D1TFS0K248B2A2K\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#2B2540\">Nguồn gốc và nguồn diễn giải</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#2B2540\">S1 là Collected Papers bản tiếng Anh 1920 có lời tựa 1916. S2 là Psychologische Typen tiếng Đức 1921, mục XI.10 và XI.51. S3 là bài Symbol của Verena Kast tại IAAP; S4 là Jung Lexicon, nguồn thứ cấp có dẫn CW. Metadata CW6 tiếng Anh 1971 nằm ở S8; chưa được dùng làm nguồn paragraph chưa đối chiếu.</text><image x=\"1040\" y=\"315\" width=\"350\" height=\"480\" src=\"stock_unsplash_HH4WBGNyltc\" fit=\"contain\"/><text x=\"1440\" y=\"375\" width=\"350\" height=\"180\" font-family=\"Bricolage Grotesque\" font-size=\"42\" font-weight=\"700\" color=\"#493C89\">Đọc văn bản&#10;trước khi gán nhãn.</text><text x=\"1040\" y=\"840\" width=\"760\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#493C89\">Ảnh sáng tạo ghép sách: Jaredd Craig / Unsplash&#10;Không phải ảnh sách Jung.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#625A6C\">Nguồn đầy đủ và locator: bài J02 mục L</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#625A6C\">J02 · Editorial learning · 35/36</text><text x=\"80\" y=\"940\" width=\"1740\" height=\"38\" font-family=\"Be Vietnam Pro\" font-size=\"23\" color=\"#6B59B5\" format=\"html\"><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j02/psychology-knowledge/03-Carl-Gustav-Jung/lessons/02-analytical-psychology.md\">Đọc bài J02, toàn bộ nguồn và locator trên GitHub</a></text></content>",
+    "<content><background fill=\"#241F39\"/><text x=\"80\" y=\"50\" width=\"1550\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#C8BDEE\">📚 L · REFERENCES VÀ HỌC TIẾP</text><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1TVBZCK3T69D1TFS0K248B2A2K\" fit=\"contain\" tint=\"#8874BF\"/><text x=\"80\" y=\"135\" width=\"1740\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"61\" font-weight=\"700\" color=\"#FAF8F4\">Giữ nguồn, giới hạn và câu hỏi cùng nhau</text><text x=\"80\" y=\"335\" width=\"840\" height=\"580\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#FAF8F4\">S5 chỉ được kiểm metadata và trích đoạn abstract; S6 đọc các phần liên quan của nghiên cứu 2025; S7 là PDF proof dùng để nhận diện tranh luận khái niệm. Khảo sát này không phải systematic review và chưa kiểm toàn bộ nguồn hay ấn bản. Tiếp theo đọc J03 về Conscious Ego, rồi trở lại bản đồ để thấy mỗi khái niệm đang trả lời câu hỏi nào.</text><rectangle name=\"side0\" x=\"1030\" y=\"330\" width=\"770\" height=\"150\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1060\" y=\"350\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Nguồn hiện đại</text><text x=\"1060\" y=\"410\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">S5/S6/S7, mức đọc khác nhau.</text><rectangle name=\"side1\" x=\"1030\" y=\"510\" width=\"770\" height=\"150\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1060\" y=\"530\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Giới hạn</text><text x=\"1060\" y=\"590\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">Chưa tổng quan hệ thống.</text><rectangle name=\"side2\" x=\"1030\" y=\"690\" width=\"770\" height=\"150\" fill=\"#362E4C\" corner-radius=\"12\"/><text x=\"1060\" y=\"710\" width=\"710\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"700\" color=\"#C8BDEE\">Bài tiếp</text><text x=\"1060\" y=\"770\" width=\"710\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#FAF8F4\">J03: Conscious Ego.</text><text x=\"80\" y=\"1000\" width=\"1740\" height=\"33\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#C8BDEE\">J02 · References trong bài/research log</text><text x=\"80\" y=\"1047\" width=\"1730\" height=\"26\" font-family=\"Be Vietnam Pro\" font-size=\"21\" font-weight=\"400\" color=\"#C8BDEE\">J02 · Editorial learning · 36/36</text><text x=\"80\" y=\"940\" width=\"1740\" height=\"38\" font-family=\"Be Vietnam Pro\" font-size=\"23\" color=\"#6B59B5\" format=\"html\"><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j02/psychology-knowledge/03-Carl-Gustav-Jung/lessons/02-analytical-psychology.md\">Đọc bài J02, toàn bộ nguồn và locator trên GitHub</a></text></content>"
+  ],
+  "assets": {
+    "bridge": {
+      "id": "stock_unsplash_DLR_RF9APPc",
+      "name": "a bridge over a body of water with buildings in the background",
+      "mime_type": "image/jpeg",
+      "url": "https://images.unsplash.com/photo-1635793806110-51e6dced1aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjM3NDV8MHwxfHNlYXJjaHwxfHxwZWRlc3RyaWFuJTIwYnJpZGdlJTIwcml2ZXJ8ZW58MHx8fHwxNzkyODU1NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb_url": "https://images.unsplash.com/photo-1635793806110-51e6dced1aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjM3NDV8MHwxfHNlYXJjaHwxfHxwZWRlc3RyaWFuJTIwYnJpZGdlJTIwcml2ZXJ8ZW58MHx8fHwxNzkyODU1NDU3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "width": 5944,
+      "height": 3962,
+      "match_type": "stock",
+      "attribution": {
+        "photographer": "Yuval Zukerman",
+        "photographer_url": "https://unsplash.com/@yuvalz?utm_source=moda&utm_medium=referral",
+        "source": "Unsplash"
+      }
+    },
+    "books": {
+      "id": "stock_unsplash_HH4WBGNyltc",
+      "name": "Spent a week in Los Angeles with my friends and decided to visit the Last Bookstore as one of our stops. I came up with the idea of floating the book with help of my friend. I took two shots one without the book and one with the book being held up from my friend. Photoshopped his arm out of the shot later in post and this was the outcome.",
+      "mime_type": "image/jpeg",
+      "url": "https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjM3NDV8MHwxfHNlYXJjaHwxfHxvcGVuJTIwYm9vayUyMGxpYnJhcnl8ZW58MHx8fHwxNzkyODU1NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb_url": "https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjM3NDV8MHwxfHNlYXJjaHwxfHxvcGVuJTIwYm9vayUyMGxpYnJhcnl8ZW58MHx8fHwxNzkyODU1NDU3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "width": 4000,
+      "height": 6000,
+      "match_type": "stock",
+      "attribution": {
+        "photographer": "Jaredd Craig",
+        "photographer_url": "https://unsplash.com/@jaredd?utm_source=moda&utm_medium=referral",
+        "source": "Unsplash"
+      }
+    },
+    "brain": {
+      "id": "file_1881SV0MYX8JESXSGWTS5WK868",
+      "name": "brain.svg",
+      "mime_type": "image/svg+xml",
+      "url": "https://moda.app/files?file=284073b0-53dd-449d-9ee6-1cd64bc9a0c8",
+      "score": 2.26032697470945,
+      "match_type": "hybrid"
+    },
+    "search": {
+      "id": "file_0JWW76B1Z09EJVST4KKNV3GPZH",
+      "name": "search.svg",
+      "mime_type": "image/svg+xml",
+      "url": "https://moda.app/files?file=12e70e65-87e0-4ba5-bce8-939d76385bf1",
+      "score": 2.2338537372648717,
+      "match_type": "hybrid"
+    },
+    "book": {
+      "id": "file_1TVBZCK3T69D1TFS0K248B2A2K",
+      "name": "book-open.svg",
+      "mime_type": "image/svg+xml",
+      "url": "https://moda.app/files?file=3adafec9-8f46-4b43-a7e4-131110b12853",
+      "score": 2.2386472378268016,
+      "match_type": "hybrid"
+    },
+    "message": {
+      "id": "file_3CBM9EFFMM9S3RTFXGKGF8R551",
+      "name": "message-circle.svg",
+      "mime_type": "image/svg+xml",
+      "url": "https://moda.app/files?file=6c5d12e7-be94-4e47-8d3f-b09c1e8c14a1",
+      "score": 2.291073556191346,
+      "match_type": "hybrid"
+    }
+  },
+  "exports": [
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "b65a6276-885e-4874-ac71-41f3b3da4011",
+      "url": "https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-656e654ec1921d5eeb4f0a41e00f462b/pptx-r2-f0-w1-all.pptx?Expires=1824391992&KeyName=mpwa&Signature=LkKvylKC8AfK0EM9Z0CcEGgP25k",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "744de70b-1dab-4432-b89b-420a01fa3fad",
+      "url": "https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-d52ac8a6b752e6067de44ae6f7146193/pdf-r3-f0-w1-all.pdf?Expires=1824392015&KeyName=mpwa&Signature=B-tWfYYR0cPXGpp93atCoL5aD4s",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  ],
+  "reviews": [],
+  "verification": {
+    "all_pages_render_reviewed": true,
+    "pages_reviewed": 36,
+    "body_preserved": true,
+    "text_nodes_checked": 395,
+    "text_outside_page": 0,
+    "font_below_18px": 0,
+    "requires_repair_unresolved": 0,
+    "repair_pages": [
+      13,
+      18,
+      19,
+      29
+    ],
+    "repair_notes": [
+      "Sign/symbol comparison uses≠.",
+      "Bridge photo moved from Hương to Nam example.",
+      "Core diagram includes context border and compensation hypothesis label.",
+      "Whitespace copy edits around years/questions; no conceptual claims changed."
+    ],
+    "accepted_fit_notes": [
+      "Cover title94→88.03px, visually checked, no truncation."
+    ],
+    "warning_resolution": "Opaque tint warning only applied to transparent outline SVGs; intended recolor."
+  },
+  "palette": {
+    "accent": "#493C89",
+    "dark": "#241F39",
+    "paper": "#FAF8F4",
+    "light": "#C8BDEE"
+  },
+  "brand_kit": null,
+  "visual_status": "exported",
+  "academic_review_status": "pending",
+  "produced_at": "2026-10-24 15:35:06 UTC",
+  "producer": "j02_ppt_production",
+  "local_download": {
+    "status": "not-attempted-known-environment-restriction",
+    "reason": "Parent instructed not to wait for network permission; earlier downloads blocked. ExportURLs are real files, no local binary claimed."
+  },
+  "limitations": [
+    "Academic independent review handled separately by root; do not treat layout check as academic verification.",
+    "Not all sources/Collected Works editions read in full; source access levels in research log.",
+    "PDF exporter rasterized one page; that page text not selectable/searchable.",
+    "No local PPTX/PDF binary downloaded or inspected in workspace."
+  ],
+  "source_sha256": {
+    "lessons/02-analytical-psychology.md": "ef8197ec556ebf80a5c3146a14e1aef0b8151dbed8c481813bcc3eaf227a7a39",
+    "moda/j02-slides.json": "48790497050060a1a4882ed0f1b759f6abf54805917a6e677b278fe0342cc430"
+  },
+  "independent_review": {
+    "reviewer": "ppt_batch3_review",
+    "status": "reviewed-with-limitations",
+    "serious_findings": 0,
+    "record": "../references/j02-review.md",
+    "scope": "Lesson, research log and script; selected primary and modern sources spot-checked. Producer reviewed all rendered pages.",
+    "limitations": [
+      "Not every source/edition or image licence independently rechecked.",
+      "Reviewer did not inspect rendered pages or exported binaries."
+    ]
+  },
+  "integration_note": "Lesson review-status metadata updated after production; original production source hashes, if present, identify the production snapshot.",
+  "integration_lesson_sha256": "3ad7d5733345ef26ce573bb99ab3cc4f646d47c105c97a8b0dd671c40efd77a4"
+}

@@ -1,10 +1,10 @@
 ---
 task_id: PSY-LESSON-J02-V1
 lesson: J02
-status: đang làm
+status: chờ phản biện
 claimed_by: j02_ppt_production
 claimed_at: 2026-10-24T15:15:45Z
-heartbeat_at: 2026-10-24T15:29:21Z
+heartbeat_at: 2026-10-24T15:35:59Z
 requested_from: Codex (yêu cầu comment trên PR của bài; task PSY-LESSON-J02-V1 vòng 1)
 requested_at: 2026-10-24T07:26:01Z
 canvas_url: https://moda.app/canvas/835be034-4ca5-49f9-bf5d-64f12a43478d?source=agent
@@ -123,3 +123,5 @@ Câu hỏi cho chủ repo (tối đa một): <hoặc không>
 - 2026-10-24T07:26:01Z — Claude trả quyền chủ bài về Codex theo lời chủ repo (Claude không tự viết); sub-agent của Claude đã dừng trước khi ghi file nào. Yêu cầu giao Codex gửi bằng một comment trên PR.
 
 - 2026-10-24T15:15:45Z — Phiên có Moda tiếp nhận sau khi task Cloud đã kết thúc nhưng output chưa xuất bản (nhánh không có lesson/script). Không có canvas riêng của bài; kết quả search chỉ trúng bài trước do nhắc mã bài tiếp. Tiếp tục đúng PR/branch theo yêu cầu người dùng tạo PPT còn thiếu; nghiên cứu và ghi bản nội dung thực sự truy cập được, không nhận đã khôi phục commit Cloud thất lạc.
+
+- 2026-10-24 15:35:06 UTC — Bàn giao36slide, canvas/PPTX/PDF thật, đã xem36/36render và sửa một vòng. Metadata/credits/lessonI/script cập nhật; local binary chưa tải theo chỉ dẫn điều phối, không xin quyền mạng. Review học thuật chờ điều phối.

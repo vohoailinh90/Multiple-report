@@ -4,8 +4,8 @@ title: Analytical Psychology — Bản đồ Tâm lý học phân tích
 topic: khac
 date: 2026-10-24
 status: drafted
-review_status: pending
-visual_status: not-started
+review_status: reviewed-with-limitations
+visual_status: exported
 ---
 # J02 — Analytical Psychology: đối lập, bù trừ và biểu tượng
 
@@ -145,7 +145,14 @@ Một nguồn mới hơn của Roesler và cộng sự (2025) có **104 người
 
 ## I. Visual Explanation — Bản đồ hệ thống có nhãn lý thuyết
 
-**Trạng thái: not-started.** Phiên này đang chuẩn bị kịch bản và sẽ ghi canvas/bản xuất thật sau khi dựng, không chèn link giả.
+**Trạng thái: exported.** Đã dựng và xem render đủ36slide trên canvas riêng. Đây là kiểm tra trình bày, không thay review học thuật độc lập.
+
+- [Canvas Moda](https://moda.app/canvas/835be034-4ca5-49f9-bf5d-64f12a43478d?source=agent)
+- [PowerPoint](https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-656e654ec1921d5eeb4f0a41e00f462b/pptx-r2-f0-w1-all.pptx?Expires=1824391992&KeyName=mpwa&Signature=LkKvylKC8AfK0EM9Z0CcEGgP25k)
+- [PDF](https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-d52ac8a6b752e6067de44ae6f7146193/pdf-r3-f0-w1-all.pdf?Expires=1824392015&KeyName=mpwa&Signature=B-tWfYYR0cPXGpp93atCoL5aD4s)
+- [Metadata](../moda/j02-report-v1.json) · [Nguồn ảnh và credit](../references/j02-visual-sources.md)
+
+PDF có một trang rasterized nên chữ trang đó không chọn/tìm kiếm được. Chưa lưu binary cục bộ; dùng đúng canvas ghi trên để xuất lại khi link hết hạn, không tạo canvas trùng.
 
 Hình chính đặt “định hướng ý thức” bên cạnh “chất liệu ít được nhận biết”; nối bằng quan hệ đứt nét mang nhãn **bù trừ theo mô hình Jung đề xuất**. Vòng ngoài ghi “bối cảnh, sức khỏe, học tập, văn hóa” để giữ giải thích cạnh tranh. Một hình riêng phân biệt dấu hiệu quy ước với biểu tượng còn mở về nghĩa; không vẽ chúng thành hai vùng não.
 

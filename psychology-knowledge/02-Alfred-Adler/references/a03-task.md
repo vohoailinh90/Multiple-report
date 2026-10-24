@@ -1,10 +1,10 @@
 ---
 task_id: PSY-LESSON-A03-V1
 lesson: A03
-status: đang làm
+status: chờ phản biện
 claimed_by: codex_batch4_a03
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T16:13:16Z
+heartbeat_at: 2026-10-24T16:22:19Z
 canvas_url: https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent
 branch: psychology/lesson-a03
 base: psychology/batch-02-three-decks
@@ -38,3 +38,5 @@ ID — status drafted · review pending · visual; nhánh/sha đã publish; file
 - 2026-10-24T15:31:00Z — Nhận theo yêu cầu làm các bài kế tiếp. Git fetch bị chặn proxy; dùng GitHub connector công bố claim và nội dung, không đổi chính sách mạng.
 
 - 2026-10-24T16:12:09Z — lesson: A03 — bài A–L, nghiên cứu và 36 slide; chuyển sản xuất Moda
+
+- 2026-10-24T16:22:19Z — decks: A03 — 36 trang đã kiểm, PPTX/PDF đã xuất; tải PPTX bị Operation not permitted, giữ URL thật

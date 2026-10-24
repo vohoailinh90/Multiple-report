@@ -3,7 +3,7 @@
   "subtitle": "Cảm giác thiếu hụt, ý nghĩa và giá trị bản thân",
   "status": "drafted",
   "review_status": "pending",
-  "visual_status": "not-started",
+  "visual_status": "exported",
   "design_system": {
     "reference": "F01 v4",
     "page_size": [
@@ -724,7 +724,7 @@
     {
       "title": "Đọc mũi tên như một giả thuyết",
       "section": "🗺️ I · VISUAL EXPLANATION",
-      "body": "Sơ đồ đặt tình huống, ý nghĩa, trải nghiệm, đáp ứng và phản hồi trong một dải bối cảnh nguồn lực–quan hệ–rào cản. Đường đứt ghi giả thuyết; nhánh thay thế nhắc khó khăn có thể do điều kiện thực tế. Hình là khung giảng dạy của A03, không sơ đồ gốc của Adler.",
+      "body": "Sơ đồ đặt tình huống, ý nghĩa, trải nghiệm, đáp ứng và phản hồi trong một dải bối cảnh nguồn lực–quan hệ–rào cản. Đường đứt ghi giả thuyết; dải bối cảnh nhắc khó khăn có thể do điều kiện thực tế. Hình là khung giảng dạy của A03, không sơ đồ gốc của Adler.",
       "nodes": [
         [
           "1 · Tình huống",
@@ -758,16 +758,16 @@
       "body": "Thiếu kỹ năng, cảm giác chưa đủ và giá trị con người cần được tách. Hỏi chuẩn so sánh và giữ nhiều giải thích. Một lần thiếu tự tin chưa là complex. Các điểm nhớ này hướng người đọc về dữ kiện và lời người trong cuộc, thay vì dùng một câu chuyện hợp lý để gán nhãn.",
       "nodes": [
         [
-          "01 · Phân biệt",
-          "Việc cụ thể và toàn thể"
+          "01–02 · Phân biệt",
+          "Việc cụ thể, toàn thể và chuẩn"
         ],
         [
-          "02 · Hỏi rõ",
-          "Chuẩn và bối cảnh"
+          "03–04 · Hỏi rõ",
+          "Cảm giác không định sẵn đáp ứng"
         ],
         [
-          "03 · Giữ mở",
-          "Nhiều giải thích cùng tồn tại"
+          "05 · Giữ mở",
+          "Một lần tự ti chưa là complex"
         ]
       ],
       "layout": "takeaways",
@@ -868,16 +868,31 @@
       "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục references; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
     }
   ],
-  "canvas_ref": null,
-  "canvas_url": null,
+  "canvas_ref": "cvs_53A07SCFKN8EVRF7RZE23PRZ1G",
+  "canvas_url": "https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent",
   "exports": {
-    "pptx": null,
-    "pdf": null
+    "pptx": {
+      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI",
+      "status": "exported",
+      "warnings": []
+    },
+    "pdf": {
+      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4",
+      "status": "exported",
+      "flatten": false,
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
   },
-  "presentation_status": "script-drafted",
+  "presentation_status": "exported",
   "production_notes": [
     "Không dùng ảnh tư liệu khi chưa kiểm được quyền. Các sơ đồ do tác giả bài dựng, không giả làm hình gốc của Adler.",
     "Nguồn gốc chỉ tuyển đoạn, không full-text sách; hai review chỉ abstract, không số liệu định lượng trên slide.",
-    "Git fetch/network trong executor bị chặn; phiên chính publish bằng GitHub connector."
+    "Git fetch/network trong executor bị chặn; phiên chính publish bằng GitHub connector.",
+    "Exported PPTX/PDF; one sandbox PPTX download failed: URLError: <urlopen error [Errno 1] Operation not permitted>. No retry, approval, binary or local PDF."
   ]
 }

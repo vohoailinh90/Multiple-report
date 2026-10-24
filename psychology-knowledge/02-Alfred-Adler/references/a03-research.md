@@ -67,5 +67,4 @@ Quy ước mức hỗ trợ theo STANDARDS, không GRADE.
 
 ## Hạn chế còn mở
 
-Chưa có toàn văn tác phẩm gốc Adler để đối chiếu các tuyển đoạn và bản dịch, chưa đọc toàn hai meta-analysis, chưa có reviewer học thuật độc lập. Cần người phản biện kiểm ngôn ngữ định nghĩa và độ phù hợp của nguồn trung gian trước khi xem là reviewed. Visual sẽ cập nhật sau Stage 2. Shell mạng bị giới hạn theo trạng thái môi trường; không xin nâng quyền. Parent giữ commit/push qua GitHub connector.
-
+Chưa có toàn văn tác phẩm gốc Adler để đối chiếu các tuyển đoạn và bản dịch, chưa đọc toàn hai meta-analysis, chưa có reviewer học thuật độc lập. Cần người phản biện kiểm ngôn ngữ định nghĩa và độ phù hợp của nguồn trung gian trước khi xem là reviewed. Stage 2 đã xuất PPTX/PDF trên Moda; cảnh báo và giới hạn tải được ghi trong moda/a03-report-v1.json. Visual exported không nhận đã kiểm binary cục bộ. Shell mạng bị giới hạn theo trạng thái môi trường; không xin nâng quyền. Parent giữ commit/push qua GitHub connector.

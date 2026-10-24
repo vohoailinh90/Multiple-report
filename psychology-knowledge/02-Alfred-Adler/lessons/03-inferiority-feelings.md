@@ -5,7 +5,7 @@ topic: khac
 date: 2026-10-24
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # A03 — Inferiority Feelings: Cảm giác thiếu hụt và giá trị bản thân
 
@@ -139,11 +139,15 @@ Với quản lý hoặc giáo dục, kiểm chất lượng hướng dẫn, th�
 
 **Caption:** Khung giảng dạy của A03, gợi từ tuyển đoạn Adler ở [S2]; không phải sơ đồ gốc hay cơ chế thực nghiệm đã được xác nhận. Các nhánh thay thế được giữ mở.
 
-**Alt text:** Năm ô từ trái sang phải biểu diễn tình huống, ý nghĩa, cảm giác, đáp ứng và phản hồi; phía dưới có dải bối cảnh xã hội. Mũi tên nét đứt đánh dấu quan hệ giả thuyết. Một nhánh thay thế nối khó khăn trực tiếp với thiếu nguồn lực.
+**Alt text:** Năm ô từ trái sang phải biểu diễn tình huống, ý nghĩa, cảm giác, đáp ứng và phản hồi; phía dưới có dải bối cảnh xã hội. Mũi tên nét đứt đánh dấu quan hệ giả thuyết. Dải bối cảnh nhắc rằng khó khăn có thể do nguồn lực hoặc điều kiện thực tế.
 
 **Hình bổ trợ:** Bảng ba tầng “khó khăn cụ thể / trải nghiệm / kết luận toàn thể”, và bảng “dữ kiện / giả thuyết / cách kiểm” cho ca Quân. Không dùng ảnh người thật đại diện ca.
 
-Kịch bản: [a03-slides.json](../moda/a03-slides.json). Canvas và liên kết xuất sẽ được ghi sau khi tạo thành công; hiện chưa có bản xuất. Nguồn và phạm vi được kiểm ở [research](../references/a03-research.md).
+Kịch bản: [a03-slides.json](../moda/a03-slides.json). Canvas: [A03 — 36 slide, bản có thể chỉnh sửa](https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent). Bản xuất thật: [PPTX](https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI) và [PDF](https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4). Metadata và markup: [a03-report-v1.json](../moda/a03-report-v1.json); [nguồn hình và credit](../references/a03-visual-sources.md).
+
+Đã xem 36 trang bằng 12 lệnh chụp, tối đa ba trang/lệnh, mỗi trang một lần. Sau đó sửa một lượt hai chi tiết chữ ở slide 31–32; đọc lại slide 32 xác nhận nội dung, không chụp lại theo giới hạn. PPTX xuất không có cảnh báo. Cảnh báo PDF nguyên văn: “1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.”
+
+Thử tải PPTX đúng một lần bị chặn: `URLError: <urlopen error [Errno 1] Operation not permitted>`. Không thử lại hoặc xin nâng quyền; không có binary giả, không lưu PDF. Phiên điều phối có thể tải từ URL thật để đưa vào `visuals/a03.pptx`. Trạng thái visual `exported` nói về bản xuất trên Moda, không nhận đã kiểm file bằng PowerPoint cục bộ. Nguồn và phạm vi được kiểm ở [research](../references/a03-research.md).
 
 ## J. Key Takeaways — Tám điểm ghi nhớ
 
@@ -187,4 +191,3 @@ Locator là mục/đoạn thực sự đọc, không giả làm trang sách. Ng�
 - [S3] Gerber, J. P., Wheeler, L., & Suls, J. (2018). *A social comparison theory meta-analysis 60+ years on*. Psychological Bulletin, 144(2), 177–197. DOI https://doi.org/10.1037/bul0000127 ; https://pubmed.ncbi.nlm.nih.gov/29144145/ . Abstract đã đọc, ba đoạn selection/reaction/limitations; chưa đọc toàn báo cáo.
 - [S4] Sowislo, J. F., & Orth, U. (2013). *Does low self-esteem predict depression and anxiety? A meta-analysis of longitudinal studies*. Psychological Bulletin, 139(1), 213–240. DOI https://doi.org/10.1037/a0028931 ; abstract ở https://edoc.unibas.ch/entities/publication/e86487d0-7139-411c-9c37-e92abc5e8645 . Đã đọc abstract, các đoạn vulnerability/scar, longitudinal data, prospective effects và điều kiện nhân quả; chưa đọc toàn báo cáo.
 - [S5] Wellcome Collection. *What life should mean to you / Alfred Adler ; edited by Alan Porter*, hồ sơ ấn bản London: Allen & Unwin, 1932. https://wellcomecollection.org/works/quzf27wa . Metadata-only, locator Publication/Creation; không dùng cho nội dung sách.
-

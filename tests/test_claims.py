@@ -6,6 +6,7 @@ import contextlib
 import datetime as dt
 import importlib.util
 import io
+import json
 import os
 import shutil
 import subprocess
@@ -48,7 +49,7 @@ class Sessions(unittest.TestCase):
         seed = self.clone("seed")
         (seed / "lessons" / "L01").mkdir(parents=True)
         (seed / "lessons" / "L01" / "lesson.md").write_text("# L01\n", encoding="utf-8")
-        for number in (1, 2, 3, 4):
+        for number in (1, 2, 3, 4, 5):
             (seed / "lessons" / f"L0{number}.spec.md").write_text("spec\n", encoding="utf-8")
         run(seed, "add", "-A")
         run(seed, "commit", "-q", "-m", "seed")
@@ -105,14 +106,27 @@ class ClaimTests(Sessions):
         self.assertIn("held by claude/a", out)
         self.assertFalse((b / "lessons" / "L02.claim.json").exists())
 
-    def test_the_third_session_is_refused_while_two_write(self):
-        a, b, c = self.session("a"), self.session("b"), self.session("c")
+    def test_a_course_lesson_is_claimed_like_any_other(self):
+        seed = self.seed
+        (seed / "lessons" / "F03.spec.md").write_text("spec\n", encoding="utf-8")
+        run(seed, "add", "-A")
+        run(seed, "commit", "-q", "-m", "spec F03")
+        run(seed, "push", "-q", "origin", "HEAD:main")
+        a, b = self.session("a"), self.session("b")
+        self.assertEqual(self.cli(a, "claim", "F03", "--publish")[0], 0)
+        code, out = self.cli(b, "claim", "F03", "--publish")
+        self.assertEqual(code, 1)
+        self.assertIn("held by claude/a", out)
+
+    def test_the_fourth_session_is_refused_while_three_write(self):
+        a, b, c, d = self.session("a"), self.session("b"), self.session("c"), self.session("d")
         self.cli(a, "claim", "L02", "--publish")
         self.cli(b, "claim", "L03", "--publish")
-        code, out = self.cli(c, "claim", "L04", "--publish")
+        self.assertEqual(self.cli(c, "claim", "L04", "--publish")[0], 0, "three may write at once")
+        code, out = self.cli(d, "claim", "L05", "--publish")
         self.assertEqual(code, 1)
-        self.assertIn("limit is 2", out)
-        self.assertIn("writing now: 2 of 2", self.cli(c, "status")[1])
+        self.assertIn("limit is 3", out)
+        self.assertIn("writing now: 3 of 3", self.cli(d, "status")[1])
 
     def test_a_session_may_hold_several_lessons_and_still_counts_once(self):
         a, b = self.session("a"), self.session("b")
@@ -120,10 +134,12 @@ class ClaimTests(Sessions):
         self.assertEqual(self.cli(b, "claim", "L04", "--publish")[0], 0)
 
     def test_the_session_that_pushed_over_the_limit_loses_on_verify(self):
-        a, b, c = self.session("a"), self.session("b"), self.session("c")
+        a, b, c, d = self.session("a"), self.session("b"), self.session("c"), self.session("d")
         self.cli(a, "claim", "L02", "--publish")
         self.clock += dt.timedelta(minutes=1)
         self.cli(b, "claim", "L03", "--publish")
+        self.clock += dt.timedelta(minutes=1)
+        self.cli(d, "claim", "L05", "--publish")
         self.rival_claim(c, "L04", minutes=1)
         run(c, "reset", "-q", "--hard")  # keep the working tree as the push left it
         code, out = self.cli(c, "verify")
@@ -131,6 +147,7 @@ class ClaimTests(Sessions):
         self.assertIn("were writing before you", out)
         self.assertEqual(self.cli(a, "verify")[0], 0)
         self.assertEqual(self.cli(b, "verify")[0], 0)
+        self.assertEqual(self.cli(d, "verify")[0], 0)
 
     def test_the_earlier_claim_wins_a_race_for_one_lesson(self):
         a, b = self.session("a"), self.session("b")
@@ -147,7 +164,7 @@ class ClaimTests(Sessions):
         self.assertEqual(code, 1)
         self.assertIn("no file or folder", out)
         self.assertEqual(self.cli(a, "claim", "--new", "--publish")[0], 0)
-        self.assertTrue((a / "lessons" / "L05.claim.json").is_file())
+        self.assertTrue((a / "lessons" / "L06.claim.json").is_file())
 
     def test_the_next_id_counts_files_on_every_branch(self):
         d = self.session("d")
@@ -261,20 +278,21 @@ class StaleTests(Sessions):
         self.assertIn("held by claude/a", self.cli(b, "claim", "L02", "--take-stale")[1])
 
     def test_an_expired_claim_cannot_be_renewed_into_a_place_that_was_filled(self):
-        a, b, c = self.session("a"), self.session("b"), self.session("c")
+        a, b, c, d = self.session("a"), self.session("b"), self.session("c"), self.session("d")
         self.cli(a, "claim", "L02", "--publish")
         self.clock += dt.timedelta(hours=25)
         self.cli(b, "claim", "L03", "--publish")
         self.cli(c, "claim", "L04", "--publish")
+        self.cli(d, "claim", "L05", "--publish")
         before = run(self.origin, "show", "claude/a:lessons/L02.claim.json")
         code, out = self.cli(a, "touch", "--publish")
         self.assertEqual(code, 1)
         self.assertIn("claim it again", out)
         self.assertEqual(run(self.origin, "show", "claude/a:lessons/L02.claim.json"), before, "nothing was pushed")
-        self.assertEqual(self.cli(c, "verify")[0], 0, "the session that took the place keeps it")
+        self.assertEqual(self.cli(d, "verify")[0], 0, "the session that took the place keeps it")
         code, out = self.cli(a, "claim", "L02", "--publish")
         self.assertEqual(code, 1)
-        self.assertIn("limit is 2", out)
+        self.assertIn("limit is 3", out)
 
     def test_an_expired_claim_is_claimed_again_when_a_place_is_free(self):
         a = self.session("a")
@@ -404,6 +422,19 @@ class RecordTests(unittest.TestCase):
         self.assertEqual(claims.next_id({"L00", "L03", "L16"}), "L17")
         self.assertEqual(claims.next_id(set()), "L00")
 
+    def test_the_course_ids_never_move_the_general_numbering(self):
+        self.assertEqual(claims.next_id({"L16", "F18", "A18", "J24"}), "L17")
+        self.assertEqual(claims.next_id({"F01", "J01"}), "L00")
+
+    def test_freud_adler_jung_ids_are_lesson_ids_and_other_letters_are_not(self):
+        for good in ("F03", "A02", "J02", "L17"):
+            self.assertEqual(claims.check_ids([good]), [good])
+        for bad in ("X01", "f03", "F3", "F003", "FA01"):
+            with self.assertRaises(claims.ClaimsError):
+                claims.check_ids([bad])
+        self.assertEqual(claims.lesson_of("J02.claim.json"), "J02")
+        self.assertEqual(claims.lesson_of("F03.spec.md"), "F03")
+
 
 GOOD_BOARD = """# Bảng
 
@@ -435,9 +466,30 @@ class BoardTests(unittest.TestCase):
         short = GOOD_BOARD.replace("| L11 | viết | `claude/lesson-L11` | chưa rõ | giao | 2026-10-21 |", "| L11 | viết | giao |")
         self.assertTrue(any("3 cells" in text for text in claims.board_problems(short)))
 
-    def test_more_than_two_branches_writing_at_once_is_refused(self):
+    def test_three_branches_writing_at_once_are_allowed_and_four_are_refused(self):
         three = GOOD_BOARD.replace("chờ PR", "đang làm").replace("phản biện a", "viết")
-        self.assertTrue(any("limit is 2" in text for text in claims.board_problems(three)))
+        self.assertEqual(claims.board_problems(three), [])
+        four = three.replace("| other |", "| other |").replace(
+            "\n| Other | table |", "| F03 | viết | `claude/lesson-F03` | chưa rõ | giao | 2026-10-24 |\n\n| Other | table |")
+        self.assertTrue(any("limit is 3" in text for text in claims.board_problems(four)))
+
+    def test_course_claim_files_are_checked_like_the_general_series(self):
+        import tempfile
+        good = {"id": "F03", "status": "doing", "owner": "claude/lesson-F03", "claimed_at": "2026-10-24T08:00:00Z",
+                "heartbeat_at": "2026-10-24T08:00:00Z"}
+        for lesson_id in ("L03", "F03", "A02", "J02"):
+            with tempfile.TemporaryDirectory() as tmp:
+                root = Path(tmp)
+                (root / "lessons").mkdir()
+                record = {**good, "id": lesson_id}
+                (root / "lessons" / f"{lesson_id}.claim.json").write_text(json.dumps(record), encoding="utf-8")
+                self.assertTrue(any("still in progress" in text for text in claims.check_problems(root, merge_ready=True)), lesson_id)
+                self.assertEqual(claims.check_problems(root), [], lesson_id)
+                (root / "lessons" / f"{lesson_id}.claim.json").write_text("{not json", encoding="utf-8")
+                self.assertTrue(any("does not parse" in text for text in claims.check_problems(root)), lesson_id)
+                record["status"], record["done_at"] = "done", "2026-10-24T09:00:00Z"
+                (root / "lessons" / f"{lesson_id}.claim.json").write_text(json.dumps(record), encoding="utf-8")
+                self.assertTrue(any("lesson.md does not exist" in text for text in claims.check_problems(root)), lesson_id)
 
     def test_the_real_repository_passes_its_own_check(self):
         self.assertEqual(claims.check_problems(ROOT), [])

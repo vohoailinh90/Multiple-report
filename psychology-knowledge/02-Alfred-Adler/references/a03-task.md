@@ -4,8 +4,8 @@ lesson: A03
 status: đang làm
 claimed_by: codex_batch4_a03
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T16:12:09Z
-canvas_url: null
+heartbeat_at: 2026-10-24T16:13:16Z
+canvas_url: https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent
 branch: psychology/lesson-a03
 base: psychology/batch-02-three-decks
 ---

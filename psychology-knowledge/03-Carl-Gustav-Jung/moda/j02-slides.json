@@ -1,0 +1,867 @@
+{
+  "title": "J02 — Analytical Psychology",
+  "subtitle": "Đối lập, bù trừ và biểu tượng: đọc mô hình, giữ giới hạn",
+  "status": "drafted",
+  "review_status": "reviewed-with-limitations",
+  "visual_status": "exported",
+  "design_system": {
+    "reference": "F01 v4/J01",
+    "palette": {
+      "accent": "#493C89",
+      "paper": "#FAF8F4",
+      "dark": "#241F39",
+      "light": "#C8BDEE"
+    },
+    "fonts": [
+      "Bricolage Grotesque",
+      "Be Vietnam Pro"
+    ],
+    "brand_kit": null
+  },
+  "source_lesson": "../lessons/02-analytical-psychology.md",
+  "slides": [
+    {
+      "section": "J02 · BÌA",
+      "title": "Jung: đọc một hệ thống\nmà không biến nó thành định luật",
+      "body": "Analytical Psychology đặt quan hệ giữa ý thức, vô thức và biểu tượng để hỏi về những khả năng bị bỏ qua. Bài này giúp bạn đọc bản đồ ấy, phân biệt điều Jung đề xuất với bằng chứng thực nghiệm, rồi thử cách đặt câu hỏi trong ba ví dụ và một ca giả định. Đây là tổng quan; từng khái niệm sẽ có bài chuyên sâu.",
+      "nodes": [
+        [
+          "Đối lập",
+          "Những yêu cầu cùng hiện diện."
+        ],
+        [
+          "Bù trừ",
+          "Bổ sung điều bị bỏ qua."
+        ],
+        [
+          "Biểu tượng",
+          "Giữ nghĩa còn mở."
+        ]
+      ],
+      "layout": "cover",
+      "source": "J02 · Theo mẫu F01 v4 đã duyệt",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "A · LEARNING OBJECTIVES",
+      "title": "Học cách phân biệt trước khi diễn giải",
+      "body": "Sau bài, bạn có thể giải thích ba nguyên lý nền của mô hình, phân biệt sign và symbol, đặt một giả thuyết cạnh tranh và đọc nghiên cứu kết quả đúng giới hạn. Mục tiêu không phải thuộc một bảng nhãn để gán người khác. Điều cần kiểm là bạn có nói được dữ kiện nào khiến cách đọc của mình phải thay đổi hay không.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Văn bản nói điều gì?"
+        ],
+        [
+          "Cách đọc",
+          "Giả thuyết cần gì?"
+        ],
+        [
+          "Kiểm chứng",
+          "Dữ liệu cho phép tới đâu?"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "Mục A",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "B · HISTORICAL BACKGROUND",
+      "title": "1916 là ngày lời tựa, 1920 là bản đã đọc",
+      "body": "Lời tựa đầu ký tháng 1-1916 dùng tên analytical psychology và nói đến những thay đổi trong quan điểm của Jung. Bản thực sự đọc là Collected Papers, ấn bản thứ hai in lại năm 1920, Constance E. Long biên tập bản dịch. Không gọi năm 1916 là lần đầu tuyệt đối thuật ngữ xuất hiện chỉ vì tìm được một lời tựa có ngày.",
+      "nodes": [
+        [
+          "1916",
+          "Lời tựa được ký."
+        ],
+        [
+          "1920",
+          "Bản tiếng Anh đã đọc."
+        ],
+        [
+          "1921",
+          "Psychologische Typen."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Trang tên/lời tựa · [S2] Trang tên",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "B · NGUỒN VÀ ẤN BẢN",
+      "title": "Nguồn gốc, bản dịch và diễn giải là ba lớp",
+      "body": "Một định nghĩa tiếng Đức năm 1921 không tự trở thành câu trích từ Bollingen tiếng Anh 1971. Bài đọc trực tiếp các mục liên quan trong bản Đức, còn CW6 chỉ kiểm metadata. Nguồn thứ cấp như Jung Lexicon hữu ích để định vị thuật ngữ nhưng các paragraph CW được nó dẫn chưa được đối chiếu toàn bộ trong phiên này.",
+      "nodes": [
+        [
+          "Văn bản đã đọc",
+          "Gutenberg1920/1921."
+        ],
+        [
+          "Nguồn thứ cấp",
+          "IAAP/Jung Lexicon."
+        ],
+        [
+          "Chỉ metadata",
+          "CW6 Princeton1971."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1–S4, S8]",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · CORE THEORY",
+      "title": "Analytical Psychology không đồng nghĩa MBTI",
+      "body": "Ở đây tên gọi chỉ hệ thống và truyền thống hình thành từ Jung. Một bảng loại hình nhân cách hay cách dùng Jungian trên mạng không đại diện toàn bộ truyền thống ấy. Psychological types chỉ là một tuyến của bản đồ, sẽ học ở J12–J14; không dùng nó như chẩn đoán hoặc gói toàn bộ tâm trí vào một mã loại.",
+      "nodes": [
+        [
+          "Analytical Psychology",
+          "Hệ thống và truyền thống."
+        ],
+        [
+          "Types",
+          "Một nhóm khái niệm."
+        ],
+        [
+          "MBTI",
+          "Không đồng nhất cả hệ thống."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1–S2, S4] · J12–J14",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · ĐỐI LẬP",
+      "title": "Hai nhu cầu có thể cùng đáng được nghe",
+      "body": "Muốn tự chủ và muốn được chấp nhận có thể kéo một người theo hai hướng. Mô tả đối lập giúp nhìn căng thẳng mà không vội chọn một bên là thật, bên kia là giả. Nhưng chia thành hai cực có thể bỏ sót lựa chọn thứ ba và các điều kiện vật chất. Đối lập là khung đặt câu hỏi, chưa phải lời giải nguyên nhân.",
+      "nodes": [
+        [
+          "Tự chủ",
+          "Không muốn bị chi phối."
+        ],
+        [
+          "Được chấp nhận",
+          "Không muốn mất quan hệ."
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S4] Conflict/Opposites",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BÙ TRỪ",
+      "title": "Bổ sung không nhất thiết là đảo ngược",
+      "body": "Trong mục Compensation, Jung mô tả chất liệu vô thức có thể điều chỉnh sự phiến diện của định hướng ý thức. Ông phân biệt tương phản cực đoan với sự bổ sung. Vì thế, “tôi muốn làm tốt” không bắt buộc có một mong muốn làm hỏng việc ở bên dưới. Cần liên tưởng và hoàn cảnh, không suy cơ chế từ một hành vi.",
+      "nodes": [
+        [
+          "Định hướng",
+          "Chọn một điều để ưu tiên."
+        ],
+        [
+          "Điều ít được nhìn",
+          "Khả năng hoặc nhu cầu khác."
+        ],
+        [
+          "Giả thuyết bù trừ",
+          "Có thể bổ sung định hướng."
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S2] XI.10 Compensation",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · TỰ ĐIỀU HÒA",
+      "title": "Một mô hình cân bằng, không lời hứa tự chữa lành",
+      "body": "Self-regulation nói về quan hệ bù trừ giữa ý thức và vô thức trong mô hình Jung. Nó không bảo đảm tâm trí luôn tự tìm ra điều tốt, hoặc mọi đau khổ đều cần thiết để trưởng thành. Bài không có một đơn vị đo cho cân bằng tâm lý. Thấy trải nghiệm thay đổi chưa đủ xác nhận một cơ chế điều hòa đặc thù.",
+      "nodes": [
+        [
+          "Mô hình",
+          "Quan hệ được đề xuất."
+        ],
+        [
+          "Quan sát",
+          "Trải nghiệm thay đổi."
+        ],
+        [
+          "Chưa được suy",
+          "Cơ chế đã được chứng minh."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S2] XI.10 · [S4] Self-regulation",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 1",
+      "title": "Ego không phải toàn bộ psyche",
+      "body": "Trong hệ thống, ego là điểm quy chiếu của ý thức; chất liệu ít được nhận biết thuộc những nhóm khái niệm khác. Bản đồ không phải các ngăn não và không cho một tỷ lệ phần trăm vô thức. J03 sẽ học ego, J04 và J19 đi vào chất liệu cá nhân cùng complexes; ở đây chỉ định vị câu hỏi của từng bài.",
+      "nodes": [
+        [
+          "Ý thức/Ego",
+          "J03: điểm quy chiếu."
+        ],
+        [
+          "Chất liệu cá nhân",
+          "J04/J19: quan hệ cảm xúc."
+        ]
+      ],
+      "layout": "layers",
+      "source": "[S4] Psyche · J03/J04/J19",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 2",
+      "title": "Collective unconscious là nhãn giả thuyết",
+      "body": "Collective unconscious và archetypes được Jung dùng để suy nghĩ về những khuôn tổ chức vượt cá nhân. Điều này không đồng nghĩa đã có một kho ký ức di truyền được xác nhận. Những hình ảnh giống nhau có thể còn liên quan học tập và giao lưu văn hóa. J05–J06 sẽ đánh giá giả thuyết và giải thích cạnh tranh kỹ hơn.",
+      "nodes": [
+        [
+          "Giả thuyết Jung",
+          "Khuôn tổ chức vượt cá nhân."
+        ],
+        [
+          "Giải thích cạnh tranh",
+          "Học tập và truyền văn hóa."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "[S4, S7] · J05–J06",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 3",
+      "title": "Vai xã hội và phần bị loại khỏi tự ảnh",
+      "body": "Persona đặt câu hỏi về vai thích nghi; Shadow đặt câu hỏi về những điều bị loại khỏi cách ta nhìn bản thân. Một vai nghề nghiệp không tự là giả tạo, một cảm xúc khó chịu không tự là Shadow. Anima/Animus mang giả định giới lịch sử và sẽ được đọc phê phán. Các bài J07–J09 xử lý riêng các khái niệm này.",
+      "nodes": [
+        [
+          "Persona",
+          "J07: vai trong bối cảnh."
+        ],
+        [
+          "Shadow",
+          "J08: điều bị loại khỏi tự ảnh."
+        ],
+        [
+          "Anima/Animus",
+          "J09: đọc phê phán về giới."
+        ]
+      ],
+      "layout": "cards",
+      "source": "[S4] · J07–J09",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · BẢN ĐỒ 4",
+      "title": "Self và individuation không phải hoàn hảo",
+      "body": "Self là khái niệm về toàn thể giả định; individuation là quá trình tích hợp theo Jung. Không đồng nhất Self với tự trọng, hoặc individuation với trở nên vượt trội và không cần người khác. J10–J11 sẽ làm rõ hai khái niệm; J20 và J21 đi vào chức năng tích hợp và mô hình năng lượng, không đại lượng vật lý trong bài này.",
+      "nodes": [
+        [
+          "Self",
+          "J10: toàn thể giả định."
+        ],
+        [
+          "Individuation",
+          "J11: quá trình tích hợp."
+        ],
+        [
+          "Học tiếp",
+          "J20/J21: cơ chế khái niệm."
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "[S4] Self/Individuation",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · SIGN VÀ SYMBOL",
+      "title": "Một nhãn đã biết và một nghĩa còn mở",
+      "body": "Trong định nghĩa Jung, sign có thể quy chiếu tới điều đã biết theo quy ước. Symbol biểu đạt điều còn tương đối chưa biết, chưa diễn đạt đầy đủ bằng một nhãn khác. Bởi vậy, gọi một hình là biểu tượng không có nghĩa đã giải được nó. Phải giữ câu hỏi về liên tưởng và hoàn cảnh, thay vì áp một nghĩa có sẵn.",
+      "nodes": [
+        [
+          "Sign",
+          "Quy chiếu tới điều đã biết."
+        ],
+        [
+          "Symbol",
+          "Nghĩa chưa được diễn đạt hết."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S2] XI.51 Symbol",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · LIÊN TƯỞNG",
+      "title": "Cùng một chiếc cầu, nhiều bối cảnh",
+      "body": "Chiếc cầu có thể là tuyến đường đi làm, một nơi chia tay hoặc hình ảnh vừa thấy trong phim. Trong cách đọc biểu tượng, câu hỏi đầu tiên là nó gợi điều gì cho người kể. Bài IAAP của Verena Kast cho thấy cách truyền thống nối biểu tượng với cảm xúc và ý nghĩa; đó không phải phép xác nhận độc lập rằng mọi hình có nghĩa phổ quát.",
+      "nodes": [
+        [
+          "Hình ảnh",
+          "Một cây cầu."
+        ],
+        [
+          "Liên tưởng",
+          "Người kể liên hệ điều gì?"
+        ],
+        [
+          "Bối cảnh",
+          "Điều gì vừa xảy ra?"
+        ]
+      ],
+      "layout": "context-map",
+      "source": "[S2–S3] · J15",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "C · HAI CÁCH HỎI",
+      "title": "Nguồn gốc và khả năng phát triển",
+      "body": "Cách hỏi nhân quả tìm điều kiện đã dẫn tới hiện tượng. Cách đọc prospective của Jung hỏi khả năng điều chỉnh hoặc phát triển mà hiện tượng có thể gợi. Hỏi về tương lai không phải tiên tri hay tác động từ tương lai. Hai lối đọc có thể hữu ích cho đối thoại, nhưng một câu chuyện có ý nghĩa chưa phải nguyên nhân thật.",
+      "nodes": [
+        [
+          "Retrospective",
+          "Điều gì đã dẫn tới đây?"
+        ],
+        [
+          "Prospective",
+          "Khả năng nào còn chưa được nhìn?"
+        ]
+      ],
+      "layout": "parallel-flow",
+      "source": "[S1] Lời tựa 1916/Constructive method",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "title": "Từ quan sát tới giả thuyết, không nhảy thẳng",
+      "body": "Chuỗi sau là mô hình đọc do bài xây dựng theo Jung: một định hướng nổi trội, một trải nghiệm gây chú ý, rồi một giả thuyết về điều bị bỏ qua. Cơ chế không được xác nhận chỉ vì các bước nối nhau hợp lý. Mỗi mũi tên phải được đọc như câu hỏi cần dữ kiện, không như định luật tâm trí.",
+      "nodes": [
+        [
+          "Định hướng",
+          "Điều đang được ưu tiên."
+        ],
+        [
+          "Trải nghiệm",
+          "Điều cần mô tả."
+        ],
+        [
+          "Giả thuyết",
+          "Có phần nào bị bỏ qua?"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S2–S4] · Mô hình đề xuất",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "D · KIỂM TRA CÁCH ĐỌC",
+      "title": "Giữ ít nhất một giải thích khác",
+      "body": "Thiếu ngủ, lịch làm, sức khỏe và văn hóa tổ chức có thể giải thích cùng một biểu hiện. Nếu chỉ giữ cách đọc bù trừ, mọi chi tiết dễ bị kéo vào một câu chuyện đã chọn. Cần xác định trước dữ kiện nào làm giả thuyết yếu đi, hỏi sự đồng ý của người kể và sẵn sàng bỏ diễn giải không phù hợp.",
+      "nodes": [
+        [
+          "Giả thuyết Jungian",
+          "Có điều ít được thừa nhận?"
+        ],
+        [
+          "Giải thích khác",
+          "Thiếu ngủ/lịch làm/bối cảnh?"
+        ],
+        [
+          "Dữ kiện phân biệt",
+          "Điều gì sẽ làm cách đọc yếu đi?"
+        ]
+      ],
+      "layout": "decision",
+      "source": "Mục D · Nguyên tắc biên tập",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "E · REAL-LIFE EXAMPLES",
+      "title": "Ví dụ 1: Hương luôn vui vẻ ở công ty",
+      "body": "Hương hay nhận thêm việc và cười khi được hỏi có mệt không; về nhà cô kiệt sức. Có thể vai luôn dễ chịu khiến nhu cầu giới hạn ít được nói tới. Nhưng cũng có thể công ty thiếu người hoặc Hương ngủ quá ít. Phải hỏi Hương trước khi đặt nhãn persona, và không dùng nụ cười như bằng chứng về vô thức.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Nhận việc, cười, mệt."
+        ],
+        [
+          "Giả thuyết",
+          "Nhu cầu giới hạn chưa được nói."
+        ],
+        [
+          "Khả năng khác",
+          "Giờ làm/thiếu ngủ."
+        ]
+      ],
+      "layout": "example",
+      "source": "Tình huống giả định · Mục E1",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "E · REAL-LIFE EXAMPLES",
+      "title": "Ví dụ 2: Nam mơ về chiếc cầu",
+      "body": "Nam kể đứng trước một cây cầu trong mơ. Một từ điển có thể gán nghĩa chuyển hóa, nhưng Nam lại nhớ lần chia tay ở đúng nơi ấy. Câu chuyện cá nhân mở một hướng hỏi; nó không xác nhận ý nghĩa chung cho mọi chiếc cầu. Bộ phim tối qua cũng có thể cung cấp hình ảnh. Không dự báo Nam sẽ đổi nghề.",
+      "nodes": [
+        [
+          "Nghĩa áp sẵn",
+          "Cầu luôn là chuyển hóa?"
+        ],
+        [
+          "Liên tưởng Nam",
+          "Một lần chia tay."
+        ],
+        [
+          "Khả năng khác",
+          "Hình ảnh trong phim."
+        ]
+      ],
+      "layout": "example",
+      "source": "Tình huống giả định · Mục E2",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "E · REAL-LIFE EXAMPLES",
+      "title": "Ví dụ 3: Mai muốn ổn định và đổi nghề",
+      "body": "Mai muốn giữ thu nhập nhưng muốn công việc có ý nghĩa hơn. Khung đối lập giúp nghe cả hai yêu cầu. Một lựa chọn thứ ba là học thêm trong khi vẫn làm việc; đó là quyết định thực tế, chưa tự thành transcendent function. Tài chính, chăm sóc gia đình và thị trường lao động phải được nhìn như dữ kiện thật.",
+      "nodes": [
+        [
+          "Ổn định",
+          "Thu nhập và trách nhiệm."
+        ],
+        [
+          "Thay đổi",
+          "Ý nghĩa và học hỏi."
+        ],
+        [
+          "Phương án khác",
+          "Học thêm trong khi làm."
+        ]
+      ],
+      "layout": "balance",
+      "source": "Tình huống giả định · Mục E3",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "F · CASE STUDY 1/3",
+      "title": "Linh: đừng ghi suy luận vào cột dữ kiện",
+      "body": "Linh, 32 tuổi, trưởng nhóm mới, lịch trực dày, khó ngủ và nói không được làm người khác thất vọng. Cô kể mơ về căn phòng khóa. Đây là ca giáo dục hư cấu. Ta có lời kể và hoàn cảnh; chưa có bằng chứng rằng căn phòng là vô thức, Shadow hay một chấn thương bị quên. Hãy phân biệt ngay hai loại ghi chép.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Lịch trực, ngủ, lời kể."
+        ],
+        [
+          "Chưa biết",
+          "Sức khỏe, áp lực, hỗ trợ."
+        ],
+        [
+          "Chưa kết luận",
+          "Nhãn lý thuyết/diagnosis."
+        ]
+      ],
+      "layout": "case",
+      "source": "Ca giả định · Mục F1–F2",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "F · CASE STUDY 2/3",
+      "title": "Liên tưởng riêng mở câu hỏi, chưa chốt cơ chế",
+      "body": "Linh nhớ căn phòng làm việc cũ từng giúp cô yên tĩnh. Có thể nhu cầu nghỉ ít được thừa nhận, nhưng liên tưởng này không chứng minh ý nghĩa phổ quát của căn phòng. Ta vẫn cần hỏi thay đổi lịch, giấc ngủ, sức khỏe và các sự kiện gần đây. Không lấp chỗ thiếu thông tin bằng một thuật ngữ Jungian.",
+      "nodes": [
+        [
+          "Liên tưởng Linh",
+          "Một nơi yên tĩnh trước đây."
+        ],
+        [
+          "Hướng hỏi",
+          "Nhu cầu nghỉ/giới hạn?"
+        ],
+        [
+          "Đối chiếu",
+          "Giờ làm/sức khỏe/sự kiện."
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "Ca giả định · Mục F3–F6",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "F · CASE STUDY 3/3",
+      "title": "Điều chỉnh thực tế và kết luận đúng mức",
+      "body": "Linh đồng ý thử đề nghị chia ca và khoảng nghỉ rõ hơn. Nếu giấc ngủ cải thiện, ta ghi nhận thay đổi nhưng chưa biết thành tố nào gây tác động. Cách đọc Jungian có thể đã giúp tạo câu hỏi về giới hạn; cơ chế vô thức bù trừ vẫn chưa được xác lập. Khó chịu kéo dài hoặc ảnh hưởng đáng kể cần hỗ trợ chuyên môn phù hợp.",
+      "nodes": [
+        [
+          "Hành động đồng thuận",
+          "Đề nghị chia ca/khoảng nghỉ."
+        ],
+        [
+          "Quan sát",
+          "Giấc ngủ thay đổi ra sao?"
+        ],
+        [
+          "Kết luận giới hạn",
+          "Hữu ích để hỏi chưa là cơ chế đúng."
+        ]
+      ],
+      "layout": "flow",
+      "source": "Ca giả định · Mục F7–F9",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "title": "Ba câu hỏi cần ba loại bằng chứng",
+      "body": "Một văn bản có thể xác nhận Jung đã định nghĩa từ như thế nào, nhưng không tự chứng minh tâm trí vận hành đúng như vậy. Một diễn giải có ý nghĩa với người kể cũng khác một can thiệp tạo hiệu quả riêng. Nghiên cứu kết quả và nghiên cứu cơ chế phải giữ đối tượng đo riêng, thay vì để tên trường phái nối mọi kết luận với nhau.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Văn bản/ấn bản."
+        ],
+        [
+          "Ý nghĩa",
+          "Trải nghiệm/bối cảnh."
+        ],
+        [
+          "Hiệu quả/cơ chế",
+          "Thiết kế và phép đo phù hợp."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "Mục G · Khung đọc bằng chứng",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · REVIEW 2013",
+      "title": "Đọc được tới đâu thì kết luận tới đó",
+      "body": "Review 2013 của Roesler bàn về các nghiên cứu kết quả Jungian psychotherapy. Phiên này chỉ kiểm metadata và trích đoạn abstract qua tìm kiếm: PMC bị CAPTCHA, MDPI trả 429. Vì chưa đọc toàn review, bài không đưa hiệu ứng hoặc đánh giá chi phí từ nguồn này. Một nguồn có uy tín vẫn cần được đọc đúng phần trước khi dùng cho claim chi tiết.",
+      "nodes": [
+        [
+          "Đã kiểm",
+          "Metadata/abstract trích đoạn."
+        ],
+        [
+          "Bị chặn",
+          "PMC CAPTCHA; MDPI 429."
+        ],
+        [
+          "Không nhận",
+          "Đã đọc toàn review/định lượng."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S5] DOI10.3390/bs3040562",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · NGHIÊN CỨU 2025",
+      "title": "104 người trước–sau: thay đổi có, nhân quả còn mở",
+      "body": "Roesler và cộng sự (2025) báo cáo cải thiện ở các chỉ số trong 104 người trị liệu có giám sát. Bài đã đọc phần liên quan trên PDF nhà xuất bản. Thiết kế không có nhóm đối chứng, dựa tự báo cáo và không ghi dropout có hệ thống. Vì thế, thay đổi quan sát được chưa đủ quy riêng cho phương pháp, càng không xác nhận các nguyên mẫu.",
+      "nodes": [
+        [
+          "104 người",
+          "Đánh giá trước–sau."
+        ],
+        [
+          "Cải thiện được báo cáo",
+          "Triệu chứng/chất lượng sống."
+        ],
+        [
+          "Giới hạn",
+          "Không control; self-report; dropout."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S6] Abstract/Methods/limitations",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "G · PHÊ BÌNH CƠ CHẾ",
+      "title": "Hình ảnh giống nhau không xác định nguồn gốc",
+      "body": "Roesler (2012) đặt vấn đề cơ sở khoa học của việc truyền những mô thức biểu tượng phức tạp có tính phổ quát. Bản đọc có dấu proof, chỉ dùng abstract và mở đầu để nhận diện tranh luận. Học tập và truyền văn hóa là những giải thích cần xét. Đây không phải thí nghiệm đã bác bỏ mọi cách dùng từ archetype.",
+      "nodes": [
+        [
+          "Hiện tượng",
+          "Mô típ có thể giống nhau."
+        ],
+        [
+          "Giả thuyết",
+          "Khuôn phổ quát được truyền?"
+        ],
+        [
+          "Khả năng khác",
+          "Học tập/giao lưu văn hóa."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "[S7] Abstract/introduction · PDF proof",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "H · PRACTICAL APPLICATIONS",
+      "title": "Dùng như câu hỏi, không như quyền giải nghĩa",
+      "body": "Trong đối thoại, có thể hỏi điều gì đã bị bỏ qua để giữ một lựa chọn. Trong quyết định, liệt kê hai nhu cầu cùng các điều kiện thực tế. Với hình ảnh, hỏi liên tưởng của người kể. Những gợi ý này nhằm hỗ trợ suy luận và giao tiếp; chúng chưa phải gói can thiệp đã được kiểm nghiệm và không cho quyền diễn giải người khác bất chấp sự đồng ý.",
+      "nodes": [
+        [
+          "Hỏi",
+          "Điều gì còn chưa được nhìn?"
+        ],
+        [
+          "Đối chiếu",
+          "Hoàn cảnh thực tế nào quan trọng?"
+        ],
+        [
+          "Tôn trọng",
+          "Có thể không nhận cách diễn giải."
+        ]
+      ],
+      "layout": "checklist",
+      "source": "Mục H · Gợi ý có điều kiện",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "I · VISUAL EXPLANATION",
+      "title": "Đọc mũi tên như một giả thuyết",
+      "body": "Hình đặt định hướng ý thức bên cạnh chất liệu ít được nhận biết; đường quan hệ ghi bù trừ theo mô hình Jung đề xuất. Bên ngoài là sức khỏe, học tập, công việc và văn hóa. Các nút không đại diện vùng não. Khi xem sơ đồ, luôn hỏi nó đang tổ chức khái niệm hay báo cáo một kết quả thực nghiệm.",
+      "nodes": [
+        [
+          "Định hướng ý thức",
+          "Điều được ưu tiên."
+        ],
+        [
+          "Chất liệu ít được nhìn",
+          "Giả thuyết, chưa đo trực tiếp."
+        ],
+        [
+          "Bối cảnh",
+          "Sức khỏe/học tập/văn hóa."
+        ]
+      ],
+      "layout": "concept-map",
+      "source": "[S1–S4] · Bản đồ khái niệm",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "J · KEY TAKEAWAYS",
+      "title": "Bốn điều về cách đọc mô hình",
+      "body": "Analytical Psychology không là một công thức bất biến. Đối lập giúp nghe nhiều yêu cầu, không tự xác định nguyên nhân. Bù trừ có thể bổ sung thay vì đảo ngược. Tự điều hòa là mô hình khái niệm, không bảo đảm mọi khó khăn đều tự chữa được. Bốn điểm này giữ ta khỏi biến một bản đồ hữu ích thành lời giải duy nhất.",
+      "nodes": [
+        [
+          "Hệ thống phát triển",
+          "Không bất biến."
+        ],
+        [
+          "Đối lập",
+          "Không chỉ hai lựa chọn."
+        ],
+        [
+          "Bù trừ/điều hòa",
+          "Mô hình cần kiểm chứng."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "Mục J1–J4",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "J · KEY TAKEAWAYS",
+      "title": "Bốn điều về ý nghĩa và bằng chứng",
+      "body": "Symbol khác sign trong định nghĩa Jung; ý nghĩa phải giữ bối cảnh. Prospective hỏi khả năng phát triển, không tiên tri. Ego, Self và persona không phải các vùng não hay nhãn cùng loại. Cuối cùng, một trải nghiệm có ý nghĩa, một kết quả trị liệu và một cơ chế được xác nhận cần những bằng chứng khác nhau.",
+      "nodes": [
+        [
+          "Biểu tượng",
+          "Không từ điển cố định."
+        ],
+        [
+          "Prospective",
+          "Không tiên tri."
+        ],
+        [
+          "Bằng chứng",
+          "Ý nghĩa/outcome/cơ chế tách biệt."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "Mục J5–J8",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "K · KNOWLEDGE CHECK 1–2",
+      "title": "Bù trừ và chiếc cầu: tránh hai suy luận vội",
+      "body": "Câu 1: Bù trừ có luôn làm ngược ý thức không? Không; Jung còn nói tới bổ sung. Câu 2: Hai người mơ cùng một chiếc cầu có cùng xung đột không? Chưa thể biết; cần liên tưởng và hoàn cảnh riêng. Hai đáp án cùng nhắc một lỗi: lấy nhãn của mô hình để lấp thông tin chưa có.",
+      "nodes": [
+        [
+          "Câu 1",
+          "Bổ sung không luôn đảo ngược."
+        ],
+        [
+          "Câu 2",
+          "Hình giống chưa chắc nghĩa giống."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S2–S3, S7] · Mục K1–K2",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "K · KNOWLEDGE CHECK 3–4",
+      "title": "Prospective và ca Linh: giữ đúng mức kết luận",
+      "body": "Câu 3: Prospective có dự đoán sự kiện không? Không; nó hỏi khả năng điều chỉnh và phát triển. Câu 4: Linh bớt khó ngủ sau giảm ca có xác nhận bù trừ không? Chưa; lịch làm có thể tác động trực tiếp. Một thay đổi có ích không tự chọn ra cơ chế đúng trong nhiều cách giải thích.",
+      "nodes": [
+        [
+          "Câu 3",
+          "Khả năng phát triển, không dự báo."
+        ],
+        [
+          "Câu 4",
+          "Kết quả không tự chọn cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1] · Mục K3–K4",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "K · KNOWLEDGE CHECK 5",
+      "title": "104 người cải thiện còn thiếu gì để nói nguyên mẫu?",
+      "body": "Cần nhóm so sánh và kiểm thiên lệch để nói rõ hơn về hiệu quả; muốn nói nguyên mẫu còn cần định nghĩa, phép đo và phép kiểm cơ chế độc lập. Không có cầu nối tự động từ trị liệu mang tên Jungian tới xác nhận collective unconscious hoặc synchronicity. Việc nghiên cứu có giới hạn không đồng nghĩa mọi người đều không được lợi.",
+      "nodes": [
+        [
+          "Outcome",
+          "Thay đổi trước–sau."
+        ],
+        [
+          "Cơ chế",
+          "Đo độc lập, so giải thích khác."
+        ],
+        [
+          "Không suy ngang",
+          "Tên trị liệu không xác nhận toàn hệ."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S6–S7] · Mục K5",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "L · REFERENCES",
+      "title": "Nguồn gốc và nguồn diễn giải",
+      "body": "S1 là Collected Papers bản tiếng Anh 1920 có lời tựa 1916. S2 là Psychologische Typen tiếng Đức 1921, mục XI.10 và XI.51. S3 là bài Symbol của Verena Kast tại IAAP; S4 là Jung Lexicon, nguồn thứ cấp có dẫn CW. Metadata CW6 tiếng Anh 1971 nằm ở S8; chưa được dùng làm nguồn paragraph chưa đối chiếu.",
+      "nodes": [
+        [
+          "S1–S2",
+          "Văn bản gốc đã đọc phần liên quan."
+        ],
+        [
+          "S3–S4",
+          "Diễn giải của truyền thống."
+        ],
+        [
+          "S8",
+          "Metadata ấn bản, không fulltext."
+        ]
+      ],
+      "layout": "references",
+      "source": "Nguồn đầy đủ và locator: bài J02 mục L",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    },
+    {
+      "section": "L · REFERENCES VÀ HỌC TIẾP",
+      "title": "Giữ nguồn, giới hạn và câu hỏi cùng nhau",
+      "body": "S5 chỉ được kiểm metadata và trích đoạn abstract; S6 đọc các phần liên quan của nghiên cứu 2025; S7 là PDF proof dùng để nhận diện tranh luận khái niệm. Khảo sát này không phải systematic review và chưa kiểm toàn bộ nguồn hay ấn bản. Tiếp theo đọc J03 về Conscious Ego, rồi trở lại bản đồ để thấy mỗi khái niệm đang trả lời câu hỏi nào.",
+      "nodes": [
+        [
+          "Nguồn hiện đại",
+          "S5/S6/S7, mức đọc khác nhau."
+        ],
+        [
+          "Giới hạn",
+          "Chưa tổng quan hệ thống."
+        ],
+        [
+          "Bài tiếp",
+          "J03: Conscious Ego."
+        ]
+      ],
+      "layout": "closing",
+      "source": "J02 · References trong bài/research log",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm có nhãn giả thuyết; giữ body nguyên văn. Không bản đồ não hay từ điển biểu tượng."
+    }
+  ],
+  "canvas_ref": "cvs_43BFG38K5597WVYQB4Y4N46HWD",
+  "canvas_url": "https://moda.app/canvas/835be034-4ca5-49f9-bf5d-64f12a43478d?source=agent",
+  "exports": [
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "b65a6276-885e-4874-ac71-41f3b3da4011",
+      "url": "https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-656e654ec1921d5eeb4f0a41e00f462b/pptx-r2-f0-w1-all.pptx?Expires=1824391992&KeyName=mpwa&Signature=LkKvylKC8AfK0EM9Z0CcEGgP25k",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "744de70b-1dab-4432-b89b-420a01fa3fad",
+      "url": "https://assets-cdn.moda.app/mcp-exports/835be034-4ca5-49f9-bf5d-64f12a43478d/vcrdt-d52ac8a6b752e6067de44ae6f7146193/pdf-r3-f0-w1-all.pdf?Expires=1824392015&KeyName=mpwa&Signature=B-tWfYYR0cPXGpp93atCoL5aD4s",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  ],
+  "presentation_status": "exported",
+  "production_notes": [
+    "Viết trong phiên có Moda từ nguồn đọc thật; không khôi phục commit Cloud chưa xuất bản.",
+    "Giữ body đầy đủ; sơ đồ chỉ là mô hình đề xuất.",
+    "36/36 pages rendered and reviewed; repaired sign/symbol comparison, image context and diagram labels. Parent handles Git and independent academic review.",
+    "One PDF page rasterized; local binary not downloaded."
+  ],
+  "review_record": "../references/j02-review.md"
+}

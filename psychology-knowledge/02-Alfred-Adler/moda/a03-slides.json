@@ -1,0 +1,898 @@
+{
+  "title": "A03 · Inferiority Feelings",
+  "subtitle": "Cảm giác thiếu hụt, ý nghĩa và giá trị bản thân",
+  "status": "drafted",
+  "review_status": "pending",
+  "visual_status": "exported",
+  "design_system": {
+    "reference": "F01 v4",
+    "page_size": [
+      1920,
+      1080
+    ],
+    "accent": "#14695F",
+    "dark": "#173A35",
+    "paper": "#FAF8F4",
+    "light": "#DDEAE4",
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "brand_kit_id": null,
+    "image_assets": []
+  },
+  "source_lesson": "../lessons/03-inferiority-feelings.md",
+  "slides": [
+    {
+      "title": "Tôi chưa làm được.\nTôi có kém giá trị?",
+      "section": "A03 · INFERIORITY FEELINGS",
+      "body": "Hai câu nói thuộc hai tầng khác nhau. Bài học dùng khung tình huống–ý nghĩa–đáp ứng để đọc cảm giác thiếu hụt, giữ nhiều giải thích cạnh tranh và kiểm giới hạn nguồn. Mục tiêu là hiểu một khái niệm trong truyền thống Adler mà không biến nó thành nhãn cho bản thân hay người khác.",
+      "nodes": [
+        [
+          "Tình huống",
+          "Một việc đang khó"
+        ],
+        [
+          "Ý nghĩa",
+          "Tôi hiểu khó khăn ra sao?"
+        ],
+        [
+          "Đáp ứng",
+          "Có nhiều đường tiếp theo"
+        ]
+      ],
+      "layout": "cover",
+      "source": "A03 · Câu hỏi trung tâm",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Bìa chữ lớn, dải Teal, ba tầng khái niệm bằng hình học; không ảnh người thật."
+    },
+    {
+      "title": "Học để phân biệt và kiểm tra",
+      "section": "🎯 A · LEARNING OBJECTIVES",
+      "body": "Sau bài này, bạn cần tách khó khăn kỹ năng khỏi phán xét toàn thể; phân tích một tình huống bằng cả giả thuyết ý nghĩa và giải thích thay thế; đọc nghiên cứu theo phép đo và thiết kế. Bạn cũng cần đề xuất hỗ trợ có điều kiện, không dùng thuật ngữ Adler như công cụ chẩn đoán.",
+      "nodes": [
+        [
+          "Phân biệt",
+          "Kỹ năng / cảm giác / giá trị"
+        ],
+        [
+          "Phân tích",
+          "Tình huống và nhiều giả thuyết"
+        ],
+        [
+          "Đánh giá",
+          "Nguồn, phép đo, giới hạn"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "A03 · A",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục roadmap; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Đi từ khái niệm tới một ca cụ thể",
+      "section": "🎯 A · LỘ TRÌNH",
+      "body": "Bài học đi qua bối cảnh nguồn, ba tầng nghĩa và khung giải thích; sau đó dùng ba ví dụ cùng ca Quân để thực hành. Phần khoa học hiện đại hỏi nghiên cứu thực sự đo gì. Cuối cùng, ứng dụng và năm câu kiểm tra giúp nhận ra giới hạn của cách đọc này.",
+      "nodes": [
+        [
+          "Hiểu",
+          "Bối cảnh → khái niệm"
+        ],
+        [
+          "Thử",
+          "Ví dụ → ca Quân"
+        ],
+        [
+          "Kiểm",
+          "Bằng chứng → ứng dụng"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "A03 · A–L",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục roadmap; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "1927 là mốc văn bản đã kiểm",
+      "section": "🕰️ B · HISTORICAL BACKGROUND",
+      "body": "Hồ sơ PMC xác nhận bài The Feeling of Inferiority and the Striving for Recognition của Adler xuất bản năm 1927. Mốc đó chứng minh có văn bản mang tên này, không chứng minh khái niệm được nghĩ ra lần đầu năm ấy. PDF chưa đọc được, nên không gán lập luận cho những trang chưa kiểm.",
+      "nodes": [
+        [
+          "Tác giả",
+          "Alfred Adler"
+        ],
+        [
+          "Văn bản",
+          "Proceedings of the Royal Society of Medicine"
+        ],
+        [
+          "Giới hạn",
+          "Metadata, chưa toàn văn"
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Adler 1927 · DOI 10.1177/003591572702001246",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục timeline; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Tuyển đoạn không phải toàn bộ sách",
+      "section": "🕰️ B · NGUỒN VÀ TRUNG GIAN",
+      "body": "Nguồn khái niệm trực tiếp đọc được là trang tuyển đoạn trong kho Henry T. Stein. Trang có phần dưới tên Adler và phần của nhiều tác giả Adlerian. Đã đọc trang không có nghĩa đã đọc các sách hoặc bản thảo được trích. Khi thiếu niên đại hoặc trang gốc, bài giữ nguyên giới hạn ấy.",
+      "nodes": [
+        [
+          "Adler",
+          "Tuyển đoạn dưới tên ông"
+        ],
+        [
+          "Người biên soạn",
+          "Tuyển, dịch và tổ chức"
+        ],
+        [
+          "Người đọc",
+          "Không nâng mức truy cập"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S2] The Feeling of Inferiority · mục About These Quotes",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục ledger; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Ba tầng cần được tách rõ",
+      "section": "🧠 C · CORE THEORY",
+      "body": "“Tôi chưa dùng được chức năng này” nói về nhiệm vụ. “Tôi sợ không theo kịp nhóm” nói về trải nghiệm và ý nghĩa. “Tôi không có giá trị ở đâu cả” mở rộng thành phán xét toàn thể. Bảng này giúp hỏi rõ hơn; nó không phải ba giai đoạn phát triển hay một thang chẩn đoán.",
+      "nodes": [
+        [
+          "Kỹ năng",
+          "Một việc chưa làm được"
+        ],
+        [
+          "Trải nghiệm",
+          "Lo không theo kịp"
+        ],
+        [
+          "Toàn thể",
+          "Kết luận về cả con người"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "A03 · C.1 · Khung biên tập gợi từ [S2]",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Khó khăn có thể gắn với bối cảnh",
+      "section": "🧠 C · CORE THEORY",
+      "body": "Tuyển đoạn Adler nêu những bất lợi trong quan hệ với nghề nghiệp hay điều kiện sống cụ thể. Vì vậy bài hỏi khó ở đâu và trong điều kiện nào, thay vì xem người ấy là một khối kém cỏi. Đây là cách đọc có giới hạn từ tuyển đoạn, chưa phải quy luật đã được thực nghiệm xác nhận.",
+      "nodes": [
+        [
+          "Đặc điểm",
+          "Không tự mang một số phận"
+        ],
+        [
+          "Nhiệm vụ",
+          "Đòi hỏi cần mô tả"
+        ],
+        [
+          "Điều kiện",
+          "Có thể làm khác đi"
+        ]
+      ],
+      "layout": "lead",
+      "source": "[S2] mục Alfred Adler · tuyển đoạn The General System",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục lead; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "So với ai? Theo chuẩn nào?",
+      "section": "🧠 C · TIÊU CHUẨN",
+      "body": "Người mới so tốc độ của mình với người lâu năm có thể bỏ qua chênh lệch đào tạo và cơ hội. Trước khi kết luận về bản thân, cần làm rõ chuẩn chính thức và nguồn lực thực có. Câu hỏi này là công cụ phân tích của bài, không phép đo một cơ chế vô thức.",
+      "nodes": [
+        [
+          "Đối tượng",
+          "Người mới hay người lâu năm?"
+        ],
+        [
+          "Tiêu chuẩn",
+          "Chuẩn học việc hay chuyên gia?"
+        ],
+        [
+          "Nguồn lực",
+          "Thời gian, hướng dẫn, công cụ"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "A03 · C.2 · Ví dụ giảng dạy",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục matrix; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Một cảm giác chưa tạo thành complex",
+      "section": "🧠 C · RANH GIỚI",
+      "body": "A03 không dùng một lần thiếu tự tin để xác định inferiority complex. A04 sẽ bàn mẫu hình nản chí và giới hạn nhãn đó; A05 và A06 bàn các hướng đáp ứng. Ở đây chỉ giữ một nguyên tắc: một cảm giác chưa quyết định sẵn hành vi hay giá trị của một người.",
+      "nodes": [
+        [
+          "A03",
+          "Cảm giác và ý nghĩa"
+        ],
+        [
+          "A04",
+          "Mẫu hình và giới hạn"
+        ],
+        [
+          "A05 / A06",
+          "Các hướng đáp ứng"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "A03 · C.3 · Curriculum Adler",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Self-esteem không đổi tên thành Adler",
+      "section": "🧠 C · ĐỐI CHIẾU",
+      "body": "Nghiên cứu self-esteem và social comparison đặt câu hỏi bằng các khái niệm và phép đo riêng. Một thuật ngữ hiện đại gần nghĩa không trở thành phép kiểm trực tiếp học thuyết Adler. Cần chỉ ra sự tương đương khái niệm trước khi dùng kết quả nghiên cứu để xác nhận một cơ chế lịch sử.",
+      "nodes": [
+        [
+          "Inferiority feelings",
+          "Khái niệm trong truyền thống Adler"
+        ],
+        [
+          "Self-esteem",
+          "Tự đánh giá trong nghiên cứu"
+        ],
+        [
+          "Social comparison",
+          "Chọn và phản ứng với chuẩn so"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S3; S4] Abstract · không đồng nhất khái niệm",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Năm bước của một khung giả thuyết",
+      "section": "⚙️ D · PSYCHOLOGICAL MECHANISM",
+      "body": "Khung bắt đầu bằng nhiệm vụ và nguồn lực, rồi hỏi tiêu chuẩn cùng ý nghĩa, ghi trải nghiệm được báo, giữ nhiều đáp ứng và quan sát phản hồi. Mỗi liên hệ cần kiểm riêng. Nét đứt đánh dấu quan hệ giả thuyết; chuỗi kể hợp lý chưa chứng minh một cơ chế nhân quả.",
+      "nodes": [
+        [
+          "1 · Tình huống",
+          "Nhiệm vụ và nguồn lực"
+        ],
+        [
+          "2 · Ý nghĩa",
+          "Chuẩn và cách hiểu"
+        ],
+        [
+          "3 · Trải nghiệm",
+          "Lời người ấy báo"
+        ],
+        [
+          "4 · Đáp ứng",
+          "Có nhiều khả năng"
+        ],
+        [
+          "5 · Phản hồi",
+          "Sửa giả thuyết"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "A03 · D · Khung giảng dạy gợi từ [S2], chưa kiểm nghiệm",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Mô tả việc trước khi suy động cơ",
+      "section": "⚙️ D · BƯỚC 1–2",
+      "body": "Người mới được giao báo cáo nhưng chưa có hướng dẫn. Trước khi gọi đó là thiếu tự tin, hãy hỏi nhiệm vụ có rõ không, dữ liệu có sẵn không và người ấy đang so mình với chuẩn nào. Động cơ không thể được đọc thẳng từ việc hoàn thành chậm một lần.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Báo cáo chưa xong"
+        ],
+        [
+          "Làm rõ",
+          "Yêu cầu và dữ liệu"
+        ],
+        [
+          "Hỏi ý nghĩa",
+          "Người ấy hiểu khó khăn ra sao?"
+        ]
+      ],
+      "layout": "flow",
+      "source": "A03 · D · Tình huống giả định",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục flow; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Ghi lời báo; giữ nhiều đáp ứng",
+      "section": "⚙️ D · BƯỚC 3–4",
+      "body": "Nếu người ấy nói sợ bị đánh giá, đó là dữ kiện về trải nghiệm được báo. Từ trải nghiệm ấy vẫn có nhiều khả năng: hỏi thêm, tập luyện, im lặng hoặc phản đối. Không có quyền chọn một đáp ứng rồi suy ngược ra duy nhất một cảm giác hay một quá khứ.",
+      "nodes": [
+        [
+          "Lời báo",
+          "“Tôi sợ hỏi lại”"
+        ],
+        [
+          "Khả năng A",
+          "Hỏi riêng hoặc luyện tập"
+        ],
+        [
+          "Khả năng B",
+          "Im vì thiếu thông tin"
+        ]
+      ],
+      "layout": "balance",
+      "source": "A03 · D · Quan hệ giả thuyết",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục balance; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Phản hồi phải có thể sửa giả thuyết",
+      "section": "⚙️ D · BƯỚC 5",
+      "body": "Nếu người ấy giải thích mình im vì micro hỏng, ta phải cập nhật cách hiểu. Khi chưa rõ, có thể thay đổi một điều kiện công việc được đồng ý và theo dõi. Sự tiến bộ cho thấy hỗ trợ có ích trong hoàn cảnh ấy; nó chưa chứng minh thành phần nào hay học thuyết nào quyết định.",
+      "nodes": [
+        [
+          "Giả thuyết",
+          "Sợ bị đánh giá?"
+        ],
+        [
+          "Dữ kiện mới",
+          "Micro hỏng / yêu cầu mơ hồ"
+        ],
+        [
+          "Sửa cách hiểu",
+          "Không giữ nhãn bằng mọi giá"
+        ]
+      ],
+      "layout": "decision",
+      "source": "A03 · D · Phép kiểm biên tập",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục decision; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Linh chưa dùng được bộ lọc",
+      "section": "💬 E · REAL-LIFE EXAMPLE 1",
+      "body": "Linh học bảng tính mới và nói chưa biết dùng bộ lọc. Có thể chỉ cần một hướng dẫn rõ. Nếu Linh thêm rằng mình không xứng trong nhóm, hãy tách kỹ năng cụ thể khỏi kết luận rộng. Không mặc định một khó khăn kỹ thuật là vấn đề giá trị bản thân.",
+      "nodes": [
+        [
+          "Tình huống",
+          "Một chức năng chưa học"
+        ],
+        [
+          "Câu cần hỏi",
+          "Bạn muốn hỗ trợ phần nào?"
+        ],
+        [
+          "Tránh suy diễn",
+          "Chưa biết ≠ kém giá trị"
+        ]
+      ],
+      "layout": "example",
+      "source": "A03 · E.1 · Ví dụ hoàn toàn giả định",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục example; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Giao diện cũng có thể là nguyên nhân",
+      "section": "💬 E · VÍ DỤ 1: GIẢI THÍCH KHÁC",
+      "body": "Giả thuyết về ý nghĩa chỉ là một đường đọc. Linh có thể gặp giao diện khác ngôn ngữ, dữ liệu lỗi hoặc thiếu tài liệu. Cho ví dụ mẫu rồi xem vấn đề thay đổi ra sao sẽ giúp phân biệt. Mục đích là hiểu nhiệm vụ và hỗ trợ, không tìm bằng được một nhãn tâm lý.",
+      "nodes": [
+        [
+          "Ý nghĩa",
+          "Lo bị bỏ lại?"
+        ],
+        [
+          "Kỹ thuật",
+          "Giao diện hoặc dữ liệu?"
+        ],
+        [
+          "Cách kiểm",
+          "Ví dụ mẫu và phản hồi"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "A03 · E.1 · Không phải ca công bố",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "An nhìn thành tích của bạn bè",
+      "section": "💬 E · REAL-LIFE EXAMPLE 2",
+      "body": "Sau khi xem thông báo học bổng, An nói mọi người đều giỏi hơn mình. Cần hỏi An đã thấy những ai và đang so một kết quả hay toàn bộ cuộc sống. Thông tin được công bố có chọn lọc; nhưng từ tình huống này chưa thể kết luận mạng xã hội gây ra trải nghiệm của An.",
+      "nodes": [
+        [
+          "Thông tin",
+          "Các thành tích được công bố"
+        ],
+        [
+          "Câu hỏi",
+          "So lĩnh vực nào?"
+        ],
+        [
+          "Giới hạn",
+          "Chưa xác định nguyên nhân"
+        ]
+      ],
+      "layout": "example",
+      "source": "A03 · E.2 · Giả định; liên hệ hạn chế [S3]",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục example; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Thất vọng có nhiều bối cảnh",
+      "section": "💬 E · VÍ DỤ 2: GIỮ MỞ",
+      "body": "An có thể buồn vì học bổng, thiếu ngủ trong kỳ thi hoặc lo tài chính. Hỏi thời điểm và hoàn cảnh giúp tránh gộp mọi trải nghiệm vào so sánh. Nghiên cứu social comparison chỉ gợi câu hỏi về chuẩn đánh giá; nó không chẩn đoán An hoặc thay cho lời kể của người trong tình huống.",
+      "nodes": [
+        [
+          "Khả năng A",
+          "So sánh và ý nghĩa"
+        ],
+        [
+          "Khả năng B",
+          "Thiếu ngủ, tài chính"
+        ],
+        [
+          "Dữ kiện cần",
+          "Thời điểm và bối cảnh"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "A03 · E.2 · Ví dụ giả định; [S3]",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục ledger; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Mai ít nói khi có lãnh đạo",
+      "section": "💬 E · REAL-LIFE EXAMPLE 3",
+      "body": "Mai có chuyên môn nhưng thường im trong cuộc họp có lãnh đạo. “Ít nói” là quan sát, còn “có mặc cảm” là diễn giải đi xa hơn dữ kiện. Chỉ khi Mai tự xác nhận sợ sai chứng tỏ mình kém giá trị, khung ý nghĩa mới có cơ sở để hỏi thêm.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Ít phát biểu ở cuộc họp"
+        ],
+        [
+          "Diễn giải",
+          "Sợ sai? Chưa biết"
+        ],
+        [
+          "Quyền của Mai",
+          "Có thể không đồng ý"
+        ]
+      ],
+      "layout": "example",
+      "source": "A03 · E.3 · Tình huống giả định",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục example; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Nhóm có thực sự cho phép lên tiếng?",
+      "section": "💬 E · VÍ DỤ 3: MÔI TRƯỜNG",
+      "body": "Nhóm có thể ngắt lời, cần xử lý ngôn ngữ thứ hai hoặc gây hậu quả cho bất đồng. Hỏi riêng với quyền từ chối, xem đóng góp bằng văn bản và cách phân lượt sẽ giúp hiểu thêm. Thay đổi môi trường có thể phù hợp hơn yêu cầu Mai “tự tin lên” mà không xem điều kiện.",
+      "nodes": [
+        [
+          "Cá nhân",
+          "Trải nghiệm được báo"
+        ],
+        [
+          "Quan hệ",
+          "Ngắt lời và quyền phát biểu"
+        ],
+        [
+          "Điều kiện",
+          "Ngôn ngữ, thời gian chuẩn bị"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "A03 · E.3 · Không suy động cơ từ hành vi",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Quân chuyển sang vai trò phân tích",
+      "section": "📋 F · CASE STUDY",
+      "body": "Ca hoàn toàn giả định: Quân chưa trả lời được hai câu hỏi kỹ thuật, gửi báo cáo muộn và nói sợ hỏi lại sẽ khiến mọi người thấy mình không đủ tốt. Chưa có dữ liệu về tuổi thơ hoặc mẫu hình suốt đời. Ta có một số quan sát và một lời báo, không có chẩn đoán.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Câu hỏi kỹ thuật; báo cáo muộn"
+        ],
+        [
+          "Lời Quân",
+          "Sợ bị thấy không đủ tốt"
+        ],
+        [
+          "Chưa biết",
+          "Kỹ năng, yêu cầu, nguồn lực"
+        ]
+      ],
+      "layout": "lead",
+      "source": "A03 · F · Ca giả định, không dữ liệu người thật",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục lead; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Tách dữ kiện, chuẩn và ý nghĩa",
+      "section": "📋 F · PHÂN TÍCH 1–3",
+      "body": "Bắt đầu bằng những gì đã quan sát và lời Quân, rồi hỏi vai mới yêu cầu gì ở giai đoạn học việc. Tiếp theo làm rõ “không đủ tốt” nói về một nhiệm vụ hay cả con người. Không ép Quân chấp nhận một cách diễn giải để được hỗ trợ công việc.",
+      "nodes": [
+        [
+          "1 · Dữ kiện",
+          "Quan sát khác diễn giải"
+        ],
+        [
+          "2 · Tiêu chuẩn",
+          "Chuẩn học việc thực tế"
+        ],
+        [
+          "3 · Ý nghĩa",
+          "Nhiệm vụ hay toàn thể?"
+        ]
+      ],
+      "layout": "flow",
+      "source": "A03 · F · Bước 1–3",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục flow; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Ít nhất ba giả thuyết cạnh tranh",
+      "section": "📋 F · PHÂN TÍCH 4–6",
+      "body": "Giả thuyết A cho rằng lo bị đánh giá làm Quân ít hỏi, thiếu thông tin và chậm. Giả thuyết B là yêu cầu mơ hồ hoặc dữ liệu bị khóa. Giả thuyết C là khối lượng việc hoặc cách quản lý. Thu thập mô tả nhiệm vụ và hướng dẫn được đồng ý, tránh đời tư không cần thiết.",
+      "nodes": [
+        [
+          "A · Ý nghĩa",
+          "Lo đánh giá → ít hỏi?"
+        ],
+        [
+          "B · Nguồn lực",
+          "Yêu cầu / quyền truy cập"
+        ],
+        [
+          "C · Tổ chức",
+          "Khối lượng / cách quản lý"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "A03 · F · Bước 4–6 · Các mũi tên là giả thuyết",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục ledger; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Hỗ trợ không đòi một nhãn",
+      "section": "📋 F · PHÂN TÍCH 7–9",
+      "body": "Thống nhất mẫu báo cáo, người hướng dẫn và kênh hỏi riêng nếu Quân muốn. Nếu tiến độ tốt hơn, gói hỗ trợ đi cùng cải thiện trong ca; ta chưa biết thành phần quyết định. Nếu chưa tốt hơn, kiểm lại điều kiện và nhu cầu, không gọi Quân là kháng cự hay có complex.",
+      "nodes": [
+        [
+          "Thay đổi",
+          "Mẫu + hướng dẫn được đồng ý"
+        ],
+        [
+          "Quan sát",
+          "Tiến độ và trải nghiệm"
+        ],
+        [
+          "Kết luận hẹp",
+          "Ích lợi trong ca, chưa cơ chế"
+        ]
+      ],
+      "layout": "decision",
+      "source": "A03 · F · Bước 7–9",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục decision; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Nghiên cứu đang đo điều gì?",
+      "section": "🔬 G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Gerber và cộng sự phân biệt lựa chọn đối tượng so sánh với phản ứng sau so sánh. Sowislo và Orth xem quan hệ dự báo giữa self-esteem và triệu chứng qua thời gian. Hai chương trình gần chủ đề tự đánh giá nhưng không trực tiếp đo toàn bộ mô hình Adler của bài này.",
+      "nodes": [
+        [
+          "[S3] Social comparison",
+          "Chọn chuẩn và phản ứng"
+        ],
+        [
+          "[S4] Self-esteem",
+          "Dự báo theo thời gian"
+        ],
+        [
+          "Khoảng cách",
+          "Chưa tương đương khái niệm"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S3; S4] Chỉ abstract đã đọc",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Phản ứng không chỉ có một kiểu",
+      "section": "🔬 G · SOCIAL COMPARISON",
+      "body": "Abstract meta-analysis của Gerber và cộng sự cho thấy phản ứng tương phản nổi bật, đồng thời nêu hạn chế nhóm không-so-sánh. Bài này không đọc toàn báo cáo và không lấy số hiệu ứng làm kết luận giảng dạy. Kết quả gợi hỏi cách so sánh được tổ chức, không xác nhận mọi nỗ lực do thiếu hụt.",
+      "nodes": [
+        [
+          "Thiết kế",
+          "Tổng hợp nhiều nghiên cứu"
+        ],
+        [
+          "Kết quả ở abstract",
+          "Phản ứng tương phản nổi bật"
+        ],
+        [
+          "Giới hạn",
+          "Ít nhóm không-so-sánh"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S3] Gerber, Wheeler & Suls 2018 · Abstract",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục ledger; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Dự báo chưa bằng nhân quả",
+      "section": "🔬 G · DỮ LIỆU DỌC",
+      "body": "Sowislo và Orth tổng hợp dữ liệu dọc, so các hướng dự báo có kiểm mức ban đầu. Thứ tự thời gian hữu ích nhưng chưa loại hết biến nhiễu hay thay ngẫu nhiên hóa. Bài chỉ đọc abstract và giữ điều kiện nhân quả; self-esteem ở nghiên cứu không tự biến thành inferiority feelings của Adler.",
+      "nodes": [
+        [
+          "Được tăng cường",
+          "Thứ tự thời gian"
+        ],
+        [
+          "Vẫn còn",
+          "Biến nhiễu và phép đo"
+        ],
+        [
+          "Không được suy",
+          "Đã chứng minh Adler"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S4] Sowislo & Orth 2013 · Abstract kho Basel",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục comparison; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Ba loại nguồn, ba công việc",
+      "section": "🔬 G · ĐÁNH GIÁ BẰNG CHỨNG",
+      "body": "Hồ sơ lịch sử xác nhận văn bản tồn tại; tuyển đoạn hỗ trợ đọc khái niệm có trung gian; nghiên cứu hiện đại kiểm các biến riêng. Không chuyển độ tin cậy từ việc này sang việc kia. Bộ nguồn hiện có chưa đủ kiểm nghiệm chuỗi cơ chế D; hạn chế ấy không tự bác bỏ toàn bộ Adler.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Tồn tại và niên đại"
+        ],
+        [
+          "Khái niệm",
+          "Tuyển đoạn có giới hạn"
+        ],
+        [
+          "Thực nghiệm",
+          "Phép đo và thiết kế riêng"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S1–S5] Đọc theo loại claim",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục matrix; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Ba câu hỏi thay cho một nhãn",
+      "section": "🧭 H · PRACTICAL APPLICATIONS",
+      "body": "Trong giao tiếp tự nguyện, có thể hỏi việc cụ thể nào đang khó, đang so với chuẩn nào và cần điều kiện hỗ trợ gì. Đây là công cụ bài đề xuất, không giao thức trị liệu được kiểm nghiệm. Người ấy có thể từ chối nói về cảm xúc mà vẫn được hỗ trợ ở cấp nhiệm vụ.",
+      "nodes": [
+        [
+          "Việc nào?",
+          "Mô tả khó khăn cụ thể"
+        ],
+        [
+          "Chuẩn nào?",
+          "Làm rõ tiêu chuẩn"
+        ],
+        [
+          "Cần gì?",
+          "Nguồn lực và lựa chọn"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "A03 · H · Ứng dụng có điều kiện",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục dialogue; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Đừng dùng lý thuyết để đổ lỗi",
+      "section": "🧭 H · THỰC HÀNH CÓ GIỚI HẠN",
+      "body": "Trước khi quy vấn đề vào cá nhân, kiểm hướng dẫn, thời gian, khả năng tiếp cận và cách phân lượt. Không bác bỏ phản ánh bất công bằng nhãn “tự ti”. Khi khó khăn kéo dài hoặc gây đau khổ, người ấy có thể chọn hỗ trợ phù hợp; bài không chẩn đoán hoặc hứa kết quả từ đổi suy nghĩ.",
+      "nodes": [
+        [
+          "Xét nhiệm vụ",
+          "Hướng dẫn có rõ?"
+        ],
+        [
+          "Xét môi trường",
+          "Cơ hội có công bằng?"
+        ],
+        [
+          "Giữ tự chủ",
+          "Người ấy chọn hỗ trợ"
+        ]
+      ],
+      "layout": "decision",
+      "source": "A03 · H · Không phải hướng dẫn tự trị liệu",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục decision; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Đọc mũi tên như một giả thuyết",
+      "section": "🗺️ I · VISUAL EXPLANATION",
+      "body": "Sơ đồ đặt tình huống, ý nghĩa, trải nghiệm, đáp ứng và phản hồi trong một dải bối cảnh nguồn lực–quan hệ–rào cản. Đường đứt ghi giả thuyết; dải bối cảnh nhắc khó khăn có thể do điều kiện thực tế. Hình là khung giảng dạy của A03, không sơ đồ gốc của Adler.",
+      "nodes": [
+        [
+          "1 · Tình huống",
+          "Nhiệm vụ và nguồn lực"
+        ],
+        [
+          "2 · Ý nghĩa",
+          "Chuẩn và cách hiểu"
+        ],
+        [
+          "3 · Trải nghiệm",
+          "Lời người ấy báo"
+        ],
+        [
+          "4 · Đáp ứng",
+          "Có nhiều khả năng"
+        ],
+        [
+          "5 · Phản hồi",
+          "Sửa giả thuyết"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "A03 · I; gợi từ [S2], không cơ chế xác nhận",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Giữ điều cụ thể ở đúng phạm vi",
+      "section": "💡 J · KEY TAKEAWAYS",
+      "body": "Thiếu kỹ năng, cảm giác chưa đủ và giá trị con người cần được tách. Hỏi chuẩn so sánh và giữ nhiều giải thích. Một lần thiếu tự tin chưa là complex. Các điểm nhớ này hướng người đọc về dữ kiện và lời người trong cuộc, thay vì dùng một câu chuyện hợp lý để gán nhãn.",
+      "nodes": [
+        [
+          "01–02 · Phân biệt",
+          "Việc cụ thể, toàn thể và chuẩn"
+        ],
+        [
+          "03–04 · Hỏi rõ",
+          "Cảm giác không định sẵn đáp ứng"
+        ],
+        [
+          "05 · Giữ mở",
+          "Một lần tự ti chưa là complex"
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "A03 · J · Điểm nhớ 1–5",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục takeaways; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Khoa học và ứng dụng đều có giới hạn",
+      "section": "💡 J · KEY TAKEAWAYS",
+      "body": "Self-esteem hay social comparison không tương đương toàn bộ Adler. Dữ liệu dọc và meta-analysis vẫn cần xét phép đo, nhóm chứng và nhân quả. Hỗ trợ cá nhân đi cùng việc xét nguồn lực và bất công. Có ích trong một tình huống chưa chứng minh học thuyết đã đúng.",
+      "nodes": [
+        [
+          "06 · Khái niệm",
+          "Không đổi tên phép đo"
+        ],
+        [
+          "07 · Bằng chứng",
+          "Đọc thiết kế và giới hạn"
+        ],
+        [
+          "08 · Đạo đức",
+          "Xét nguồn lực và bất công"
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "A03 · J · Điểm nhớ 6–8; [S3; S4]",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục takeaways; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Ba câu để phân biệt và đọc nguồn",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "1. Chưa biết viết truy vấn có chứng minh kém giá trị? Không: câu đó có thể chỉ nói kỹ năng. 2. Ít nói có hai giải thích nào? Sợ đánh giá hoặc nhóm ngắt lời; cần kiểm. 3. Có thể ghi lời Henry Stein là lời Adler? Không: S2 là tuyển đoạn nhiều tác giả.",
+      "nodes": [
+        [
+          "Câu 1",
+          "Tách kỹ năng khỏi toàn thể"
+        ],
+        [
+          "Câu 2",
+          "Phân biệt các giả thuyết"
+        ],
+        [
+          "Câu 3",
+          "Phân biệt tác giả và biên soạn"
+        ]
+      ],
+      "layout": "question",
+      "source": "A03 · K · Câu 1–3; [S2]",
+      "note": "Đáp án và lập luận đầy đủ ở mục K của bài. Không dùng câu hỏi để tự chẩn đoán.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục question; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Hai câu để kiểm suy luận nhân quả",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "4. Self-esteem dự báo triệu chứng đã chứng minh Adler? Chưa: khác khái niệm và còn biến nhiễu. 5. Quân làm đúng hạn sau hỗ trợ cho phép kết luận gì? Gói hỗ trợ đi cùng cải thiện trong ca; chưa biết thành phần quyết định. Lỗi chung là nâng kết quả quan sát thành cơ chế đã xác nhận.",
+      "nodes": [
+        [
+          "Câu 4",
+          "Đối tượng đo và biến nhiễu"
+        ],
+        [
+          "Câu 5",
+          "Kết quả khác cơ chế"
+        ],
+        [
+          "Cách sửa",
+          "Nêu kết luận hẹp và điều còn thiếu"
+        ]
+      ],
+      "layout": "question",
+      "source": "A03 · K · Câu 4–5; [S4]",
+      "note": "Đáp án và lập luận đầy đủ ở mục K của bài. Không dùng câu hỏi để tự chẩn đoán.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục question; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    },
+    {
+      "title": "Mang theo câu hỏi, giữ nguồn truy được",
+      "section": "📚 L · REFERENCES / ĐỌC TIẾP",
+      "body": "Nguồn: [S1] Adler 1927, DOI 10.1177/003591572702001246; [S2] adler.institute/library/inferiority-feelings; [S3] Gerber và cộng sự 2018, DOI 10.1037/bul0000127; [S4] Sowislo & Orth 2013, DOI 10.1037/a0028931; [S5] Wellcome quzf27wa, ấn bản 1932. Đọc tiếp A04 theo curriculum; lesson và research ghi mức truy cập cùng locator.",
+      "nodes": [
+        [
+          "Metadata",
+          "[S1], [S5]"
+        ],
+        [
+          "Tuyển đoạn",
+          "[S2] · Đã đọc trang, chưa sách gốc"
+        ],
+        [
+          "Abstract",
+          "[S3], [S4] · Chưa toàn báo cáo"
+        ]
+      ],
+      "layout": "references",
+      "source": "A03 · L · drafted / review pending",
+      "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục references; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+    }
+  ],
+  "canvas_ref": "cvs_53A07SCFKN8EVRF7RZE23PRZ1G",
+  "canvas_url": "https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent",
+  "exports": {
+    "pptx": {
+      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI",
+      "status": "exported",
+      "warnings": []
+    },
+    "pdf": {
+      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4",
+      "status": "exported",
+      "flatten": false,
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  },
+  "presentation_status": "exported",
+  "production_notes": [
+    "Không dùng ảnh tư liệu khi chưa kiểm được quyền. Các sơ đồ do tác giả bài dựng, không giả làm hình gốc của Adler.",
+    "Nguồn gốc chỉ tuyển đoạn, không full-text sách; hai review chỉ abstract, không số liệu định lượng trên slide.",
+    "Git fetch/network trong executor bị chặn; phiên chính publish bằng GitHub connector.",
+    "Exported PPTX/PDF; one sandbox PPTX download failed: URLError: <urlopen error [Errno 1] Operation not permitted>. No retry, approval, binary or local PDF."
+  ]
+}

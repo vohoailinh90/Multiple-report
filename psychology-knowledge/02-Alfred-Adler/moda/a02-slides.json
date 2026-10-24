@@ -1,0 +1,928 @@
+{
+  "title": "A02 · Individual Psychology và quan điểm toàn thể",
+  "subtitle": "Con người, ý nghĩa và bối cảnh",
+  "status": "drafted",
+  "review_status": "reviewed-with-limitations",
+  "visual_status": "exported",
+  "design_system": "F01 v4 / A01 · Teal/Cream · no brand kit",
+  "source_lesson": "../lessons/02-individual-psychology-va-quan-diem-toan-the.md",
+  "slides": [
+    {
+      "title": "Con người trong bối cảnh\nIndividual Psychology",
+      "section": "A02 · BẢN HỌC CHI TIẾT",
+      "body": "Một hành vi có thể thay đổi ý nghĩa khi ta biết thêm hoàn cảnh, điều người ấy coi trọng và lựa chọn họ đang có. A02 giới thiệu quan điểm toàn thể của Adler rồi chuyển nó thành cách đặt câu hỏi có thể sửa sai. Bài dùng tình huống giả định để phân biệt dữ kiện, cách hiểu và giả thuyết mục tiêu; không dùng lý thuyết như công cụ đọc ý nghĩ.",
+      "nodes": [
+        [
+          "Toàn thể",
+          "Các mặt của trải nghiệm có liên hệ."
+        ],
+        [
+          "Hướng đi",
+          "Mục tiêu được đặt như giả thuyết."
+        ],
+        [
+          "Bối cảnh",
+          "Người ấy sống trong các quan hệ."
+        ]
+      ],
+      "layout": "cover",
+      "source": "A02 · biên soạn giáo dục",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🎯 Từ định nghĩa đến cách kiểm tra",
+      "section": "A · LEARNING OBJECTIVES",
+      "body": "Sau bài này, bạn có thể giải thích vì sao individual không có nghĩa chủ nghĩa cá nhân; dựng bản đồ suy nghĩ–cảm xúc–hành vi trong một bối cảnh; phân biệt hướng đích với cố ý; đưa ra ít nhất hai giả thuyết cạnh tranh cho cùng hành vi; và xác định vì sao kết quả một gói trị liệu chưa chứng minh toàn bộ hệ thống Adler. Đây là mục tiêu học suy luận, không phải đào tạo chẩn đoán.",
+      "nodes": [
+        [
+          "Giải thích",
+          "Individual, holism, goal-directedness."
+        ],
+        [
+          "Phân tích",
+          "Một hành vi, nhiều cách hiểu."
+        ],
+        [
+          "Đánh giá",
+          "Đúng cấp bằng chứng."
+        ]
+      ],
+      "layout": "route",
+      "source": "A02 · biên soạn giáo dục",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🕰️ Một câu hỏi khác về hành vi",
+      "section": "B · HISTORICAL BACKGROUND",
+      "body": "A01 đã trình bày cuộc đời Adler và sự hình thành trường phái. Ở đây, trọng tâm là câu hỏi học thuật: thay vì tách một biểu hiện khỏi đời sống, ta xem nó trong cách một người đối diện khó khăn và quan hệ. Chương Mind and Body của Adler dùng ý niệm chuyển động có hướng để nối cơ thể và tâm trí. Đó là lập luận lịch sử, không kết luận thần kinh học hiện đại.",
+      "nodes": [
+        [
+          "A01",
+          "Đọc lịch sử và bối cảnh."
+        ],
+        [
+          "A02",
+          "Học đơn vị phân tích."
+        ],
+        [
+          "A03",
+          "Đi sâu cảm giác tự ti."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Adler, Mind and Body; [S2] APA2017, pp3–6",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🕰️ Ba loại nguồn, ba mức khẳng định",
+      "section": "B · NGUỒN VÀ ẤN BẢN",
+      "body": "Một chương do Adler viết, lời giải thích của người biên tập và giáo trình Adlerian hiện đại không phải cùng một loại tư liệu. Bài đã đọc bản chép điện tử chương Mind and Body, nhưng dòng ghi năm và ấn bản trên trang không nhất quán. Vì thế, bài dùng locator theo tên chương và đoạn mở đầu, không bịa số trang hoặc nhận đã đối chiếu bản in gốc.",
+      "nodes": [
+        [
+          "Tác giả",
+          "Adler qua bản chép: ghi giới hạn."
+        ],
+        [
+          "Diễn giải",
+          "APA2017/Adler Graduate School."
+        ],
+        [
+          "Kiểm định",
+          "Nghiên cứu điều trị, câu hỏi riêng."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1] metadata đầu trang; [S2] pp3–9",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Individual: cá nhân như một chỉnh thể",
+      "section": "C · CORE THEORY",
+      "body": "Trong cách giải thích của Carlson và Englar-Carlson, tên Individual Psychology nhấn mạnh tính không chia cắt của nhân cách. Từ này không cổ vũ sống biệt lập hay đặt lợi ích mình lên trên mọi người. Ta vẫn có thể mô tả riêng cảm xúc, hành động hoặc suy nghĩ để nghiên cứu; yêu cầu của cách đọc toàn thể là nối chúng lại trước khi kết luận về ý nghĩa của một biểu hiện.",
+      "nodes": [
+        [
+          "Individual",
+          "Một con người có tính thống nhất."
+        ],
+        [
+          "Không phải",
+          "Chủ nghĩa cá nhân hoặc cô lập."
+        ],
+        [
+          "Thao tác",
+          "Tách để quan sát, nối để hiểu."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S2] APA2017, p5, đoạn “individual psychology”",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Toàn thể là yêu cầu về quan hệ",
+      "section": "C · HOLISM",
+      "body": "Hãy hình dung đọc một câu nói từ một cuộc trò chuyện. Các từ có thể được đếm riêng, nhưng nghĩa của câu còn phụ thuộc người nói, người nghe và điều đã xảy ra trước đó. Ví dụ này do bài xây dựng để minh họa đơn vị phân tích. Cách đọc toàn thể của Adler cũng yêu cầu xem một biểu hiện trong mẫu hành động rộng hơn; phép so sánh không tự chứng minh lý thuyết.",
+      "nodes": [
+        [
+          "Phần",
+          "Một lời nói hoặc hành vi."
+        ],
+        [
+          "Quan hệ",
+          "Nó nối với điều gì?"
+        ],
+        [
+          "Toàn cảnh",
+          "Mẫu hình và hoàn cảnh."
+        ]
+      ],
+      "layout": "network",
+      "source": "[S2] p5; ví dụ biên soạn",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Suy nghĩ, cảm xúc và hành động",
+      "section": "C · TÍNH THỐNG NHẤT",
+      "body": "Trong một tình huống giả định, Lan nghĩ mình sẽ bị chê, thấy căng thẳng và không phát biểu. Ba mặt ấy có thể tạo thành một câu chuyện phù hợp: tránh đánh giá. Nhưng phù hợp không đồng nghĩa đúng. Lan có thể chưa nghe rõ câu hỏi hoặc đang mệt. Bản đồ toàn thể hữu ích khi làm rõ quan hệ cần tìm hiểu, và trở nên nguy hiểm khi mọi chi tiết đều bị ép vào một chuyện duy nhất.",
+      "nodes": [
+        [
+          "Suy nghĩ",
+          "“Có thể mình sẽ bị chê”."
+        ],
+        [
+          "Cảm xúc",
+          "Căng thẳng được Lan báo lại."
+        ],
+        [
+          "Hành động",
+          "Chưa phát biểu trong cuộc họp."
+        ]
+      ],
+      "layout": "triangle",
+      "source": "[S2] p5; [S3] Unity of the Individual; ví dụ giả định",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Cá nhân nằm trong nhiều bối cảnh",
+      "section": "C · SOCIAL CONTEXT",
+      "body": "Cùng một người có thể nói nhiều với bạn thân nhưng im lặng ở lớp đông người. Ta cần hỏi điều gì khác nhau giữa hai bối cảnh: quyền lực, mức quen thuộc, ngôn ngữ, quy tắc hay trải nghiệm trước. Gia đình, công việc và cộng đồng là những bối cảnh liên quan, không phải những vòng tròn quyết định sẵn nhân cách. Các cấu trúc bất bình đẳng và rào cản thực tế cũng cần được xem xét.",
+      "nodes": [
+        [
+          "Gần",
+          "Gia đình, bạn bè, người hỗ trợ."
+        ],
+        [
+          "Tổ chức",
+          "Lớp học, nhóm làm việc."
+        ],
+        [
+          "Rộng",
+          "Văn hóa, nguồn lực, quyền lực."
+        ]
+      ],
+      "layout": "context-map",
+      "source": "[S2] pp5–6; [S3] Social Context",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Hướng đích khác nguyên nhân duy nhất",
+      "section": "C · GOAL-DIRECTEDNESS",
+      "body": "Đọc hành vi theo hướng đích là hỏi hành vi đang giúp người ấy tiến tới hoặc tránh điều gì trong cách họ hiểu tình huống. Câu hỏi này có thể bổ sung cho câu hỏi về nguyên nhân trước đó, như thiếu ngủ hoặc bị phê bình. Nó không cho phép suy rằng mục tiêu tương lai quay ngược thời gian gây ra hành vi. Trong bài, mục tiêu là giả thuyết diễn giải cần dữ kiện phân biệt.",
+      "nodes": [
+        [
+          "Nguyên nhân",
+          "Điều gì đi trước biểu hiện?"
+        ],
+        [
+          "Hướng đi",
+          "Người ấy mong tránh/đạt điều gì?"
+        ],
+        [
+          "Giới hạn",
+          "Chưa phải kết luận nhân quả."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1] đoạn “direction of movement”; [S2] p6",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Ý nghĩa chủ quan cần được hỏi",
+      "section": "C · SUBJECTIVE MEANING",
+      "body": "Một góp ý giống nhau có thể được hiểu là cơ hội học hoặc dấu hiệu mình bị coi thường. Không thể biết cách hiểu chỉ bằng nhìn nét mặt. Hãy phân biệt sự kiện “quản lý góp ý một đoạn báo cáo” với diễn giải “quản lý không tin mình”. Lắng nghe giúp kiểm sự khác biệt ấy; tôn trọng lời người nói không có nghĩa mọi cách hiểu của họ phản ánh đầy đủ sự kiện.",
+      "nodes": [
+        [
+          "Sự kiện",
+          "Điều được quan sát hoặc kiểm lại."
+        ],
+        [
+          "Ý nghĩa",
+          "Cách người ấy hiểu sự kiện."
+        ],
+        [
+          "Đối thoại",
+          "Hỏi và kiểm, không áp nghĩa."
+        ]
+      ],
+      "layout": "split",
+      "source": "[S2] p5, phenomenological perspective; ví dụ biên soạn",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Hướng đích không đồng nghĩa cố ý",
+      "section": "C · ĐIỀU KHÔNG ĐƯỢC SUY RA",
+      "body": "Một hành vi có thể có tác dụng giảm căng thẳng mà người thực hiện chưa có ý thức rõ về tác dụng đó. Từ đây không được nhảy sang “bạn cố tình làm vậy để thao túng”. Cần tách mục đích người ấy tự báo, tác dụng quan sát được và mục tiêu nhà quan sát suy ra. Ba mức này có thể khác nhau; mỗi mức đòi dữ kiện riêng và đều có thể cần sửa.",
+      "nodes": [
+        [
+          "Tự báo",
+          "“Tôi muốn thêm thời gian”."
+        ],
+        [
+          "Tác dụng",
+          "Căng thẳng giảm sau khi hoãn."
+        ],
+        [
+          "Suy luận",
+          "Giả thuyết tránh bị đánh giá."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S3] Self-Determination and Uniqueness; khung suy luận của bài",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧠 Định vị các khái niệm tiếp theo",
+      "section": "C · BẢN ĐỒ CURRICULUM",
+      "body": "A02 chỉ cung cấp lăng kính toàn thể. Cảm giác tự ti sẽ được học ở A03; phong cách sống ở A08; mục tiêu hư cấu ở A09; quan tâm xã hội ở A10. Ở đây, chỉ cần thấy các khái niệm liên hệ với câu hỏi về khó khăn, cách hiểu và quan hệ. Không dùng một bảng thuật ngữ để gắn nhãn toàn bộ con người sau một lần gặp.",
+      "nodes": [
+        [
+          "A03",
+          "Inferiority Feelings."
+        ],
+        [
+          "A08–A09",
+          "Lifestyle và Fictional Finalism."
+        ],
+        [
+          "A10",
+          "Social Interest."
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "A02 curriculum; [S2] pp5–6",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "⚙️ Một mô hình diễn tiến để khảo sát",
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "body": "Chuỗi dưới đây là khung khảo sát do bài biên soạn từ cách đọc Adlerian: tình huống được người ấy hiểu theo một nghĩa; một hướng bảo vệ hay phát triển trở nên phù hợp; hành động tạo hệ quả; hệ quả có thể củng cố cách hiểu ban đầu. Mỗi mũi tên là giả thuyết, không cơ chế đã đo. Sinh lý, thói quen và điều kiện sống có thể tham gia ở mọi bước.",
+      "nodes": [
+        [
+          "Tình huống",
+          "Lời mời trình bày."
+        ],
+        [
+          "Cách hiểu",
+          "“Sai là mất giá trị”."
+        ],
+        [
+          "Hành động",
+          "Trì hoãn → hệ quả cần kiểm."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1–S3]; mô hình giả định, không kết quả thí nghiệm",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "⚙️ Vòng phản hồi có thể duy trì vấn đề",
+      "section": "D · FEEDBACK",
+      "body": "Giả sử hoãn trình bày giúp một người đỡ căng thẳng ngay lúc đó. Nếu cơ hội chuẩn bị và được hỗ trợ cũng mất đi, lần sau việc trình bày có thể vẫn khó. Đây là một giả thuyết về diễn tiến, không chứng cứ người ấy muốn thất bại. Tác dụng ngắn hạn và hệ quả dài hạn có thể khác nhau. Cần hỏi trải nghiệm và theo dõi tình huống thật trước khi chọn lời giải.",
+      "nodes": [
+        [
+          "Ngắn hạn",
+          "Có thể được nhẹ nhõm."
+        ],
+        [
+          "Dài hạn",
+          "Có thể mất cơ hội thử sức."
+        ],
+        [
+          "Kiểm tra",
+          "Cần dữ kiện qua nhiều lần."
+        ]
+      ],
+      "layout": "loop",
+      "source": "Khung phân tích giáo dục; không gán là cơ chế riêng đã xác nhận của Adler",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "⚙️ Khi dữ kiện không khớp, sửa bản đồ",
+      "section": "D · KIỂM GIẢ THUYẾT",
+      "body": "Một bản đồ tốt phải cho biết điều gì sẽ làm nó yếu đi. Nếu người ấy chỉ đến muộn vào ngày xe buýt đổi tuyến, giả thuyết né tương tác có thể kém phù hợp hơn khó khăn đi lại. Nếu họ vẫn tránh trình bày dù được chuẩn bị đầy đủ, cần hỏi tiếp chứ chưa kết luận sợ đánh giá. Một dữ kiện hiếm khi quyết định tất cả, nhưng dữ kiện trái chiều phải có quyền thay đổi cách hiểu.",
+      "nodes": [
+        [
+          "Giả thuyết A",
+          "Khó khăn thực tế."
+        ],
+        [
+          "Giả thuyết B",
+          "Ý nghĩa của đánh giá."
+        ],
+        [
+          "Phép phân biệt",
+          "Quan sát điều kiện thay đổi."
+        ]
+      ],
+      "layout": "decision",
+      "source": "Phương pháp suy luận do bài biên soạn",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "💬 Ví dụ 1: học sinh đến lớp muộn",
+      "section": "E · REAL-LIFE EXAMPLE 1",
+      "body": "Tình huống giả định: Bình đến muộn ba buổi. Một cách đọc là Bình tránh phần gọi trả bài; cách khác là phương tiện đi lại, việc chăm em hoặc vấn đề sức khỏe. Hỏi “ba buổi ấy có điểm gì giống nhau?” có ích hơn nói “em muốn chống đối”. Nếu thời gian xe buýt giải thích đúng các buổi muộn, phải xử lý rào cản đó. Không biến toàn thể thành phép gán động cơ cho mọi khó khăn.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Ba buổi đến muộn."
+        ],
+        [
+          "Chưa biết",
+          "Lịch xe, việc nhà, cảm xúc."
+        ],
+        [
+          "Bước kế",
+          "Đối thoại và kiểm lịch."
+        ]
+      ],
+      "layout": "example",
+      "source": "Ví dụ giả định của bài; vận dụng có điều kiện",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "💬 Ví dụ 2: từ chối một việc mới",
+      "section": "E · REAL-LIFE EXAMPLE 2",
+      "body": "Tình huống giả định: Hương có năng lực nhưng từ chối phụ trách dự án. Có thể công việc vượt thời gian, tiêu chí mơ hồ hoặc không phù hợp mục tiêu nghề nghiệp. Cũng có thể Hương sợ một lỗi sẽ làm mất sự tin cậy. Hỏi về khối lượng và cách Hương hiểu vai trò trước. Được phép từ chối là một quyền; từ chối không tự chứng minh tự ti hoặc thiếu quan tâm xã hội.",
+      "nodes": [
+        [
+          "Năng lực",
+          "Một phần của điều kiện."
+        ],
+        [
+          "Nguồn lực",
+          "Thời gian và quyền quyết định."
+        ],
+        [
+          "Ý nghĩa",
+          "Vai trò có giá trị gì với Hương?"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "Ví dụ giả định; không chẩn đoán",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "💬 Ví dụ 3: im lặng trong họp nhóm",
+      "section": "E · REAL-LIFE EXAMPLE 3",
+      "body": "Tình huống giả định: Quân im lặng khi họp nhưng viết góp ý rõ sau đó. Một giả thuyết là Quân cần thời gian xử lý thông tin; giả thuyết khác là cách tranh luận trong nhóm khiến người ít quyền khó chen lời. Không nên gán mọi chuyện cho niềm tin cá nhân. Có thể thử gửi câu hỏi trước hoặc cho phép góp ý bằng văn bản và hỏi Quân cách nào hỗ trợ tốt hơn.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Im lặng ở họp, có góp ý sau."
+        ],
+        [
+          "Bối cảnh",
+          "Nhịp họp và phân bố quyền nói."
+        ],
+        [
+          "Thử hỗ trợ",
+          "Cho nhiều cách tham gia."
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "Ví dụ giả định; ứng dụng giao tiếp, không phác đồ điều trị",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "📋 Case: dữ kiện trước câu chuyện",
+      "section": "F · CASE STUDY 1/3",
+      "body": "Ca giả định: Mai, nhân viên mới, xin hoãn ba lần trình bày kết quả. Mai hoàn thành phần phân tích đúng hạn, nói khó ngủ trước ngày họp và cho biết cuộc họp thường có người ngắt lời. Quản lý từng sửa lỗi của Mai trước cả nhóm. Những điều ấy là dữ kiện của ca, chưa đủ chỉ ra cơ chế duy nhất. Chưa biết tình trạng sức khỏe, tải việc, mức an toàn hay hỗ trợ ở nhóm.",
+      "nodes": [
+        [
+          "Có dữ kiện",
+          "Hoãn ba lần; phân tích vẫn xong."
+        ],
+        [
+          "Mai tự báo",
+          "Khó ngủ trước họp."
+        ],
+        [
+          "Cần hỏi",
+          "Sức khỏe, cách họp, khối lượng."
+        ]
+      ],
+      "layout": "case",
+      "source": "Ca giả định tổng hợp, không hồ sơ công bố",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "📋 Case: ba giả thuyết cạnh tranh",
+      "section": "F · CASE STUDY 2/3",
+      "body": "Giả thuyết một: tiêu chí trình bày chưa rõ. Giả thuyết hai: Mai hiểu lỗi công khai là nguy cơ mất chỗ đứng nên hoãn có tác dụng tự bảo vệ. Giả thuyết ba: thiếu ngủ hoặc khó khăn khác làm buổi họp trở nên quá sức. Các giả thuyết có thể cùng đúng một phần. Không được lấy sự hoãn làm bằng chứng tự xác nhận cho “mục tiêu ẩn”; cần hỏi Mai và xem điều kiện nào giải thích khác biệt.",
+      "nodes": [
+        [
+          "Kỹ năng/tiêu chí",
+          "Chưa rõ yêu cầu cụ thể."
+        ],
+        [
+          "Ý nghĩa",
+          "Giả thuyết sợ mất chỗ đứng."
+        ],
+        [
+          "Điều kiện",
+          "Thiếu ngủ, tải việc, an toàn."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "Khung áp dụng [S1–S3]; các giả thuyết chưa kiểm",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "📋 Case: hỗ trợ và kiểm tra từng bước",
+      "section": "F · CASE STUDY 3/3",
+      "body": "Cùng Mai làm rõ tiêu chí, hỏi sự đồng ý trước khi thử, gửi câu hỏi trước và cho phép diễn tập riêng. Đồng thời sửa việc ngắt lời trong nhóm. Theo dõi trải nghiệm, mức tham gia và tải việc qua vài dịp phù hợp, không chỉ đếm lần hoãn. Nếu Mai thấy dễ hơn, dữ kiện hỗ trợ rằng điều kiện đã đổi có liên quan; chưa biết riêng yếu tố nào gây thay đổi và chưa xác nhận toàn bộ Adler.",
+      "nodes": [
+        [
+          "Thỏa thuận",
+          "Mai chọn cách hỗ trợ."
+        ],
+        [
+          "Điều chỉnh",
+          "Tiêu chí, nhịp họp, diễn tập."
+        ],
+        [
+          "Đánh giá",
+          "Trải nghiệm và điều còn thiếu."
+        ]
+      ],
+      "layout": "steps",
+      "source": "Tình huống giáo dục, không hướng dẫn tự trị liệu",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🔬 Một khung hiểu không phải phép kiểm",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Một câu chuyện có sức thuyết phục có thể giúp tổ chức dữ kiện, nhưng giá trị giải thích khoa học còn cần định nghĩa, phép đo và khả năng phân biệt các khả năng khác. “Mọi hành vi đều có mục tiêu” rất khó kiểm nếu người diễn giải được phép đặt thêm bất kỳ mục tiêu nào sau khi thấy kết quả. Bài giữ sự hữu ích của câu hỏi và yêu cầu chứng cứ như hai đánh giá khác nhau.",
+      "nodes": [
+        [
+          "Mạch lạc",
+          "Các chi tiết có thể nối nhau."
+        ],
+        [
+          "Kiểm chứng",
+          "Có dữ kiện độc lập phù hợp."
+        ],
+        [
+          "Phản chứng",
+          "Có điều làm giả thuyết yếu đi."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "Phân tích phương pháp của bài; không nghiên cứu chứng minh Adler sai/toàn đúng",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🔬 RCT 2014: kết quả trong phạm vi hẹp",
+      "section": "G · NGHIÊN CỨU ĐIỀU TRỊ",
+      "body": "Meany-Walen, Bratton và Kottman (2014) nghiên cứu Adlerian play therapy trên 58 học sinh có hành vi gây gián đoạn trong lớp, theo thiết kế ngẫu nhiên có đối chứng. Abstract báo cáo cải thiện theo đánh giá giáo viên và người chấm mù nhóm. Bài chỉ đọc abstract, chưa thẩm định toàn văn; không tự thêm số hiệu ứng, độ bền dài hạn hay mức tái lập. Đây là gói can thiệp cụ thể cho một nhóm trẻ.",
+      "nodes": [
+        [
+          "Mẫu",
+          "58 học sinh."
+        ],
+        [
+          "Thiết kế",
+          "Ngẫu nhiên, có đối chứng."
+        ],
+        [
+          "Phạm vi",
+          "Gói AdPT, không toàn bộ lý thuyết."
+        ]
+      ],
+      "layout": "study",
+      "source": "[S4] Meany-Walen et al.2014, Abstract, DOI10.1002/j.1556-6676.2014.00129.x",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🔬 Cập nhật 2026: nhóm và đối chứng chờ",
+      "section": "G · NGHIÊN CỨU MỚI",
+      "body": "Owen và cộng sự (2026) báo cáo 94 học sinh lớp bốn–năm được phân nhóm 48 nhận trị liệu chơi nhóm Adlerian và 46 đối chứng chờ. Nghiên cứu báo cáo cải thiện khó khăn hướng nội. Bài đọc abstract và phần phương pháp được hiển thị, chưa thẩm định toàn bộ báo cáo. Đối chứng chờ chưa tách riêng tác động chú ý, kỳ vọng và các thành tố chung; không suy ra cơ chế chỉnh thể đã được chứng minh.",
+      "nodes": [
+        [
+          "94",
+          "Tổng mẫu theo báo cáo."
+        ],
+        [
+          "48 / 46",
+          "Can thiệp / đối chứng chờ."
+        ],
+        [
+          "Cần thận trọng",
+          "Kết quả gói ≠ cơ chế riêng."
+        ]
+      ],
+      "layout": "study",
+      "source": "[S5] Owen et al.2026, Abstract; Methods2.1; DOI10.1002/jcad.70056",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🔬 Ba cấp bằng chứng cần tách riêng",
+      "section": "G · CẤP ĐỘ SUY LUẬN",
+      "body": "Nghiên cứu một thành tố như quan hệ hỗ trợ trả lời câu hỏi về thành tố ấy. Nghiên cứu một gói trị liệu trả lời câu hỏi về gói trong mẫu và điều kiện đã thử. Xác nhận toàn bộ lý thuyết đòi kiểm những khẳng định đặc trưng của hệ thống. Chuyển từ cấp thứ nhất hoặc thứ hai sang cấp thứ ba mà không có phép kiểm là vượt dữ kiện. Sự giống CBT cũng không lấp khoảng trống đó.",
+      "nodes": [
+        [
+          "Thành tố",
+          "Một phần được định nghĩa và đo."
+        ],
+        [
+          "Gói can thiệp",
+          "Nhiều thành tố cùng lúc."
+        ],
+        [
+          "Hệ thống",
+          "Những khẳng định riêng cần kiểm."
+        ]
+      ],
+      "layout": "levels",
+      "source": "Ranh giới phương pháp; [S4–S5] chỉ dùng cho cấp gói",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🔬 Hỗ trợ có điều kiện, giới hạn rõ",
+      "section": "G · GIỚI HẠN VÀ GIẢI THÍCH THAY THẾ",
+      "body": "Các nghiên cứu được chọn cho thấy có tín hiệu có lợi cho một số gói can thiệp trong trường học. Chúng không trực tiếp kiểm giả thuyết mọi suy nghĩ, cảm xúc và triệu chứng cùng phục vụ một mục tiêu. Thiếu phép kiểm trực tiếp không phải chứng minh phủ định, nhưng cũng không được gọi là xác nhận. Lựa chọn nguồn của bài không có tính hệ thống và không đại diện mọi nghiên cứu đến năm 2026.",
+      "nodes": [
+        [
+          "Có hỗ trợ",
+          "Một số kết quả gói cụ thể."
+        ],
+        [
+          "Chưa đủ",
+          "Cơ chế toàn thể riêng của Adler."
+        ],
+        [
+          "Không ngoại suy",
+          "Mọi tuổi, mọi vấn đề, mọi văn hóa."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S4–S5]; giới hạn lựa chọn nguồn của bài",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧭 Giao tiếp: hỏi trước khi diễn giải",
+      "section": "H · PRACTICAL APPLICATIONS",
+      "body": "Có thể dùng ba câu hỏi mở: chuyện gì xảy ra, điều đó có ý nghĩa gì với bạn, và bạn mong điều gì khác đi? Sau đó hỏi phần nào trong cách mình hiểu chưa đúng. Đây là gợi ý giao tiếp do bài xây dựng; người đối thoại có quyền từ chối. Không dùng ngôn ngữ học thuyết để phủ nhận lời họ, hoặc cho rằng bất đồng chứng minh một “mục tiêu ẩn” sâu hơn.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Chuyện gì đã xảy ra?"
+        ],
+        [
+          "Lắng nghe",
+          "Bạn hiểu nó thế nào?"
+        ],
+        [
+          "Kiểm lại",
+          "Mình đã bỏ sót điều gì?"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "Ứng dụng biên soạn, không can thiệp đã được thử trong bài",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🧭 Giáo dục và công việc: sửa điều kiện",
+      "section": "H · ỨNG DỤNG CÓ ĐIỀU KIỆN",
+      "body": "Một yêu cầu phù hợp có thể đi cùng hỗ trợ rõ ràng: tiêu chí cụ thể, thời gian chuẩn bị và nhiều cách tham gia. Hãy xem cả điều kiện tổ chức, không chỉ niềm tin cá nhân. Nếu một người đang bị ngắt lời hoặc thiếu nguồn lực, sửa môi trường là việc thực tế cần làm. Không cần kết luận họ mắc phức cảm nào mới có thể cải thiện một quy trình bất hợp lý.",
+      "nodes": [
+        [
+          "Cá nhân",
+          "Kỹ năng và lựa chọn."
+        ],
+        [
+          "Tổ chức",
+          "Quy tắc và nguồn lực."
+        ],
+        [
+          "Đánh giá",
+          "Điều gì thực sự thay đổi?"
+        ]
+      ],
+      "layout": "context-map",
+      "source": "Gợi ý giáo dục, không thay chăm sóc chuyên môn",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "🗺️ Cách đọc sơ đồ của bài",
+      "section": "I · VISUAL EXPLANATION",
+      "body": "Nút trung tâm là một con người trong tình huống cụ thể; các vòng bối cảnh chỉ phạm vi xem xét, không tầng giải phẫu hay cấp quyết định. Đường nối không mũi tên biểu diễn quan hệ cần khảo sát. Mũi tên có nhãn “giả thuyết” trong mô hình diễn tiến không khẳng định cơ chế đã xác nhận. Bản đồ do bài biên soạn, dựa trên nguyên tắc đọc toàn thể và các giới hạn phương pháp đã trình bày.",
+      "nodes": [
+        [
+          "Nút",
+          "Dữ kiện hoặc khái niệm có tên."
+        ],
+        [
+          "Đường nối",
+          "Quan hệ cần khảo sát."
+        ],
+        [
+          "Đường đứt",
+          "Giả thuyết, chưa xác nhận."
+        ]
+      ],
+      "layout": "legend",
+      "source": "[S1–S3]; thiết kế giáo dục của bài",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "💡 Bốn ý cốt lõi cần giữ",
+      "section": "J · KEY TAKEAWAYS 1/2",
+      "body": "Individual nói đến tính không chia cắt theo cách giải thích Adlerian, không phải cô lập cá nhân. Một biểu hiện cần được xem trong mẫu hình và bối cảnh, nhưng không được ép mọi chi tiết vào cùng một câu chuyện. Hướng đích là một cách đặt câu hỏi về ý nghĩa, không quyền suy ý định. Dữ kiện quan sát, tự báo và diễn giải của người đọc phải được phân biệt.",
+      "nodes": [
+        [
+          "1–2",
+          "Chỉnh thể và bối cảnh."
+        ],
+        [
+          "3",
+          "Hướng đích ≠ cố ý."
+        ],
+        [
+          "4",
+          "Tách ba loại dữ kiện."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "A02 · C–D",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "💡 Bốn nguyên tắc để tránh lạm dụng",
+      "section": "J · KEY TAKEAWAYS 2/2",
+      "body": "Một hành vi có thể phù hợp nhiều giả thuyết. Một bản đồ tốt có khả năng bị sửa bởi dữ kiện trái chiều. Hỗ trợ thực tế không đòi gắn nhãn nhân cách. Cuối cùng, kết quả có lợi của một gói trị liệu không tự chứng minh toàn bộ học thuyết. Các nguyên tắc này giữ ứng dụng ở mức lắng nghe, giáo dục và suy luận có điều kiện; không trao quyền tự chẩn đoán hoặc tự điều trị.",
+      "nodes": [
+        [
+          "5",
+          "Giữ giải thích cạnh tranh."
+        ],
+        [
+          "6–7",
+          "Sửa bản đồ, hỗ trợ không gắn nhãn."
+        ],
+        [
+          "8",
+          "Outcome ≠ xác nhận hệ thống."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "A02 · E–H",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "❓ Câu 1: Individual nghĩa là gì?",
+      "section": "K · KNOWLEDGE CHECK 1/5",
+      "body": "Đáp án: trong cách giải thích đang học, individual nhấn mạnh một cá nhân như chỉnh thể không chia cắt. Nó không có nghĩa coi cá nhân tách khỏi cộng đồng. Lỗi thường gặp là dịch tên trường phái rồi suy rằng Adler cổ vũ chủ nghĩa cá nhân. Câu hỏi còn lại cần nhớ: một tên gọi nói lên định hướng của học thuyết, chứ chưa phải bằng chứng cho toàn bộ các khẳng định của nó.",
+      "nodes": [
+        [
+          "Chọn đúng",
+          "Tính thống nhất của cá nhân."
+        ],
+        [
+          "Tránh nhầm",
+          "Chủ nghĩa cá nhân."
+        ],
+        [
+          "Lập luận",
+          "Tên gọi ≠ phép kiểm."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S2] p5; mục A/C",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "❓ Câu 2: có tác dụng tức là cố ý?",
+      "section": "K · KNOWLEDGE CHECK 2/5",
+      "body": "Đáp án: không. Việc hoãn làm một người nhẹ nhõm có thể là tác dụng quan sát được hoặc được tự báo; nó chưa chứng minh họ chủ động tính toán tác dụng ấy từ trước. Muốn hiểu mục đích, phải hỏi, xét bối cảnh và giữ các khả năng khác. Lỗi suy luận là biến một hệ quả sau hành vi thành một ý định đã biết chắc trước hành vi.",
+      "nodes": [
+        [
+          "Tác dụng",
+          "Điều xảy ra sau biểu hiện."
+        ],
+        [
+          "Ý định",
+          "Cần thông tin riêng."
+        ],
+        [
+          "Kết luận",
+          "Không suy tương đương."
+        ]
+      ],
+      "layout": "question",
+      "source": "A02 · C11/D; ví dụ giả định",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "❓ Câu 3: học sinh muộn vì chống đối?",
+      "section": "K · KNOWLEDGE CHECK 3/5",
+      "body": "Đáp án: chưa đủ dữ kiện. Cần kiểm việc đi lại, việc nhà, sức khỏe, lịch học và trải nghiệm của học sinh. Nếu muộn chỉ gắn với tuyến xe thay đổi, phải xem đó là dữ kiện làm yếu một số cách diễn giải về quan hệ. Câu trả lời đúng không phải chọn một nhãn Adlerian nhanh hơn, mà là nêu dữ kiện nào giúp phân biệt ít nhất hai giả thuyết.",
+      "nodes": [
+        [
+          "Đã biết",
+          "Hành vi đến muộn."
+        ],
+        [
+          "Cần biết",
+          "Điều kiện từng buổi."
+        ],
+        [
+          "Bước đúng",
+          "So sánh dự đoán."
+        ]
+      ],
+      "layout": "question",
+      "source": "A02 · E1; không gán động cơ từ một hành vi",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "❓ Câu 4: nhóm trị liệu cải thiện nói gì?",
+      "section": "K · KNOWLEDGE CHECK 4/5",
+      "body": "Đáp án: kết quả có thể hỗ trợ hiệu quả của gói trong điều kiện nghiên cứu, tùy chất lượng thiết kế và phép đo. Nó không tự xác nhận rằng mọi cảm xúc đều phục vụ một mục tiêu thống nhất. Muốn kiểm cơ chế riêng phải định nghĩa, đo và phân biệt nó với tác động chung. Lỗi thường gặp là dùng tên Adlerian của một gói để suy đã kiểm toàn bộ Adler.",
+      "nodes": [
+        [
+          "Được xét",
+          "Gói, mẫu và phép đo."
+        ],
+        [
+          "Chưa được suy",
+          "Toàn bộ hệ thống đúng."
+        ],
+        [
+          "Cần thêm",
+          "Phép kiểm cơ chế độc lập."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S4–S5]; A02 · G",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "❓ Câu 5: thế nào là cách đọc toàn thể tốt?",
+      "section": "K · KNOWLEDGE CHECK 5/5",
+      "body": "Đáp án: nối các mặt trải nghiệm với bối cảnh nhưng nói rõ đâu là giả thuyết, cho phép người ấy chỉnh lại và nêu dữ kiện nào sẽ làm cách hiểu thay đổi. “Tôi giải thích được mọi phản ứng của bạn” không phải tiêu chuẩn tốt nếu không có khả năng sai. Một bản đồ vừa đủ để đặt câu hỏi có thể hữu ích hơn một câu chuyện hoàn hảo nhưng không thể kiểm.",
+      "nodes": [
+        [
+          "Có bối cảnh",
+          "Không bỏ qua nguồn lực."
+        ],
+        [
+          "Có đối thoại",
+          "Chấp nhận sửa nghĩa."
+        ],
+        [
+          "Có khả năng sai",
+          "Nêu phép phân biệt."
+        ]
+      ],
+      "layout": "question",
+      "source": "A02 · C–H",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "📚 Nguồn lý thuyết đã đọc",
+      "section": "L · REFERENCES 1/2",
+      "body": "S1: Adler, chương Mind and Body của What Life Should Mean to You, bản chép điện tử; không nhận đã đối chiếu bản in. S2: Carlson và Englar-Carlson, Adlerian Psychotherapy (APA, 2017), Introduction, bản mẫu trang 3–9. S3: Adler Graduate School, Theory and Application, các mục Unity, Goal Orientation và Social Context. Nguồn S3 giải thích từ trong truyền thống; không dùng như đánh giá hiệu quả độc lập.",
+      "nodes": [
+        [
+          "S1",
+          "Văn bản Adler qua bản chép."
+        ],
+        [
+          "S2",
+          "Giáo trình hiện đại, pp3–9."
+        ],
+        [
+          "S3",
+          "Nguồn của trường phái."
+        ]
+      ],
+      "layout": "references",
+      "source": "Chi tiết URL/locator trong lesson mục L và a02-research.md",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    },
+    {
+      "title": "📚 Nguồn thực nghiệm và bước tiếp",
+      "section": "L · REFERENCES 2/2",
+      "body": "S4: Meany-Walen, Bratton và Kottman (2014), Journal of Counseling & Development, 92, 47–56; đọc abstract. S5: Owen, Ziomek-Daigle, Moore và Appling (2026), cùng tạp chí, 104, 621–632; đọc abstract và phần phương pháp chọn lọc. Đây là khảo sát phục vụ giảng dạy, không systematic review. Đọc A03 tiếp theo về Inferiority Feelings; giữ câu hỏi về lý thuyết riêng với bằng chứng hiệu quả.",
+      "nodes": [
+        [
+          "Giới hạn",
+          "Không đọc toàn văn mọi nghiên cứu."
+        ],
+        [
+          "A03",
+          "Cảm giác tự ti."
+        ],
+        [
+          "Cách đọc",
+          "Nguồn, claim và giới hạn đi cùng."
+        ]
+      ],
+      "layout": "closing",
+      "source": "DOI S4:10.1002/j.1556-6676.2014.00129.x · S5:10.1002/jcad.70056",
+      "note": "",
+      "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
+    }
+  ],
+  "canvas_ref": "cvs_0Y9BPF6DG88GHS3NEKE7XWG0FD",
+  "canvas_url": "https://moda.app/canvas/1e4aecf3-3608-4423-91d5-d371fbc801ed?source=agent",
+  "exports": {
+    "pptx": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "96b008ea-9fa7-4605-9a7e-499d730881a2",
+      "url": "https://assets-cdn.moda.app/mcp-exports/1e4aecf3-3608-4423-91d5-d371fbc801ed/vcrdt-76d0a9167d8453e97f078d844ef15eb8/pptx-r2-f0-w1-all.pptx?Expires=1824391923&KeyName=mpwa&Signature=b2x_9qFvDJ2SaFefijXtMbk6Vrg",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "b5cf3130-7872-4915-a7c7-46d955af6e96",
+      "url": "https://assets-cdn.moda.app/mcp-exports/1e4aecf3-3608-4423-91d5-d371fbc801ed/vcrdt-d51efb27fb2cc42cb28ec13dcde75ed3/pdf-r3-f0-w1-all.pdf?Expires=1824391945&KeyName=mpwa&Signature=PI-wyUdImGS4jRT8ivXePbqqd_Y",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  },
+  "presentation_status": "exported",
+  "production_notes": [
+    "Bản nghiên cứu/viết thực tế ở phiên có Moda, không khôi phục output Cloud chưa xuất bản.",
+    "38 slides, body đi cùng sơ đồ.",
+    "Đã xem đủ 38 trang; thêm emoji 37 header và kiểm lại 3 trang; body giữ nguyên 38/38 trên canvas.",
+    "PPTX không cảnh báo; PDF một trang rasterized; chưa lưu binary cục bộ."
+  ],
+  "review_record": "../references/a02-review.md"
+}

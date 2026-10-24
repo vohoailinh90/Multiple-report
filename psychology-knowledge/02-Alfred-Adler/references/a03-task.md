@@ -4,7 +4,7 @@ lesson: A03
 status: đang làm
 claimed_by: codex_batch4_a03
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T15:31:00Z
+heartbeat_at: 2026-10-24T16:12:09Z
 canvas_url: null
 branch: psychology/lesson-a03
 base: psychology/batch-02-three-decks
@@ -36,3 +36,5 @@ ID — status drafted · review pending · visual; nhánh/sha đã publish; file
 
 ## Nhật ký
 - 2026-10-24T15:31:00Z — Nhận theo yêu cầu làm các bài kế tiếp. Git fetch bị chặn proxy; dùng GitHub connector công bố claim và nội dung, không đổi chính sách mạng.
+
+- 2026-10-24T16:12:09Z — lesson: A03 — bài A–L, nghiên cứu và 36 slide; chuyển sản xuất Moda

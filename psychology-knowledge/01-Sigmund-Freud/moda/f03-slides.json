@@ -1,0 +1,878 @@
+{
+  "title": "F03 · Id, Ego và Superego",
+  "subtitle": "Ba chức năng, không phải ba vùng não",
+  "status": "drafted",
+  "review_status": "reviewed-with-limitations",
+  "visual_status": "exported",
+  "design_system": "F01 v4 / Freud Burgundy, no brand kit",
+  "source_lesson": "../lessons/03-id-ego-superego.md",
+  "slides": [
+    {
+      "title": "Id, Ego và Superego",
+      "section": "F03 · PSYCHOLOGY KNOWLEDGE",
+      "body": "Khi vừa muốn một điều, vừa tự ngăn mình và phải tính hậu quả thực tế, Freud tổ chức câu hỏi ấy thế nào? Bài học đọc mô hình cấu trúc trong văn bản 1923, phân biệt nó với mô hình nhận biết ở F02 và theo dõi giới hạn của từng cách giải thích. Ba tên gọi không phải ba vùng não hoặc ba người nhỏ trong đầu.",
+      "nodes": [
+        [
+          "Muốn gì?",
+          "Đòi hỏi và mong muốn."
+        ],
+        [
+          "Theo chuẩn nào?",
+          "Lý tưởng và điều cấm."
+        ],
+        [
+          "Làm được gì?",
+          "Điều kiện thực tế."
+        ]
+      ],
+      "layout": "cover",
+      "source": "[S1] Freud 1923/1927",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục cover."
+    },
+    {
+      "title": "Sau bài này, bạn cần làm được gì?",
+      "section": "A · LEARNING OBJECTIVES",
+      "body": "Bạn cần giải thích ba chức năng trong mô hình, so sánh hai câu hỏi địa hình và cấu trúc, phân tích một tình huống mà không nhảy từ hành vi sang chẩn đoán. Cuối bài, hãy phân biệt tư liệu lịch sử, một giả thuyết thần kinh và phép kiểm cơ chế; tương thích với một cách kể chưa làm cách kể đó trở thành kết luận duy nhất.",
+      "nodes": [
+        [
+          "Giải thích",
+          "Chức năng và quan hệ."
+        ],
+        [
+          "Đối chiếu",
+          "Hai mô hình cắt chéo."
+        ],
+        [
+          "Đánh giá",
+          "Dữ kiện và giới hạn."
+        ]
+      ],
+      "layout": "route",
+      "source": "F03 · A",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục route."
+    },
+    {
+      "title": "1923: thêm một câu hỏi về tổ chức",
+      "section": "B · HISTORICAL BACKGROUND",
+      "body": "Trong chương I, Freud lập luận rằng sự kháng cự ông quy cho ego có thể không được người bệnh nhận biết. Vì vậy, viết mọi xung đột thành ý thức chống vô thức là chưa đủ theo chính cách ông hiểu thực hành phân tích. Mô hình cấu trúc thêm câu hỏi về chức năng và quan hệ, thay vì chỉ thay ba nhãn ở F02 bằng ba nhãn mới.",
+      "nodes": [
+        [
+          "F02",
+          "Nhận biết và khả năng truy cập."
+        ],
+        [
+          "1923",
+          "Ego cũng có hoạt động vô thức."
+        ],
+        [
+          "F03",
+          "Tổ chức và quan hệ chức năng."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] I · [S2]LOC",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục timeline."
+    },
+    {
+      "title": "Đọc đúng bản, không ghép nhầm số trang",
+      "section": "B · SOURCE LITERACY",
+      "body": "Tác phẩm gốc Das Ich und das Es ra đời năm 1923. Bài này đọc bản tiếng Anh Joan Riviere năm 1927 trên Project Gutenberg, không đọc bản Standard Edition tập 19. Locator dùng chương và câu mở đoạn đã xem. Phân biệt năm gốc, năm bản dịch và mức đọc giúp tránh một nguồn trông học thuật nhưng không thực sự hỗ trợ phát biểu.",
+      "nodes": [
+        [
+          "1923",
+          "Bản Đức gốc."
+        ],
+        [
+          "1927",
+          "Bản Riviere đã đọc."
+        ],
+        [
+          "Locator",
+          "Chương/câu mở đoạn; khôngtrang SE."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1]Translator’sNote",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục ledger."
+    },
+    {
+      "title": "Ba tên gọi là chức năng được giả định",
+      "section": "C · CORE THEORY",
+      "body": "Mô hình cấu trúc tổ chức đòi hỏi xung năng, hoạt động điều hòa và những chuẩn được nội tâm hóa. Nó không mô tả ba nhân vật độc lập, cũng không cung cấp một máy đo để đọc hành vi từ bên ngoài. Các từ id, ego, superego có ích cho việc theo dõi một diễn giải nếu ta luôn nói rõ đó là cách mô hình Freud tổ chức hiện tượng.",
+      "nodes": [
+        [
+          "Id",
+          "Đòi hỏi xung năng."
+        ],
+        [
+          "Ego",
+          "Tổ chức đáp ứng."
+        ],
+        [
+          "Superego",
+          "Chuẩn/lý tưởng/phê phán."
+        ]
+      ],
+      "layout": "cards",
+      "source": "[S1] Freud 1923/1927",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục cards."
+    },
+    {
+      "title": "Id không phải cái ác trong đầu",
+      "section": "C · ID",
+      "body": "Trong mô hình, id mang những đòi hỏi xung năng và được đặt ở phía vô thức. Muốn nghỉ, muốn gần gũi hoặc muốn tránh khó chịu không tự là điều sai đạo đức. “Id muốn ngay” là lối viết tắt để học một chức năng; không được dùng nó như phát hiện về một nhân vật có ý định riêng hoặc kết luận về mọi hành vi bốc đồng.",
+      "nodes": [
+        [
+          "Chức năng",
+          "Đòi hỏi và hướng thỏa mãn."
+        ],
+        [
+          "Không suy ra",
+          "Muốn = xấu; bốc đồng = id thắng."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1]II",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục comparison."
+    },
+    {
+      "title": "Ego: làm việc với thực tại",
+      "section": "C · EGO",
+      "body": "Freud mô tả ego như phần được biến đổi trong quan hệ với tri giác và thế giới. Nó tổ chức suy nghĩ, kiểm tra quan hệ với thực tại, trì hoãn hành động và tìm phương án trong những yêu cầu khác nhau. Ego không hoàn toàn đứng ngoài id như một trọng tài: Freud nói ranh giới giữa chúng không sắc và nó có thể thực hiện một đòi hỏi mà không hiểu hết.",
+      "nodes": [
+        [
+          "Tri giác",
+          "Tiếp nhận điều kiện."
+        ],
+        [
+          "Tổ chức",
+          "Suy nghĩ và lựa chọn."
+        ],
+        [
+          "Hành động",
+          "Thỏa mãn có điều kiện."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1]II;V",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục flow."
+    },
+    {
+      "title": "Ego không đồng nghĩa “bỏ cái tôi”",
+      "section": "C · TERMS",
+      "body": "Trong đời sống phổ thông, “cái tôi” có thể chỉ kiêu ngạo hoặc tự trọng. Đó không phải phép đo ego trong mô hình đang học. Một người nhún nhường không vì thế có ego yếu; một người tự tin không vì thế có ego mạnh. Cần hỏi thuật ngữ đang được dùng theo nghĩa nào trước khi diễn giải hành vi.",
+      "nodes": [
+        [
+          "Nghĩa phổ thông",
+          "Tự trọng/kiêu ngạo."
+        ],
+        [
+          "Ego Freud",
+          "Chức năng trong mô hình."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S1]I–II;F03C",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục contrast."
+    },
+    {
+      "title": "Một phần hoạt động của ego có thể vô thức",
+      "section": "C · EGO AND AWARENESS",
+      "body": "Đây là điểm bản lề của F03: chính hoạt động Freud dùng để giải thích việc không biết cũng có thể không được nhận biết. Vì thế, vô thức không phải tên khác của id, và ego không phải tên khác của ý thức. Đây là nội dung lập luận của Freud; muốn xác định cơ chế của một tình huống thật vẫn cần thông tin độc lập với nhãn lý thuyết.",
+      "nodes": [
+        [
+          "Nhận biết",
+          "Điều người đó đang kể."
+        ],
+        [
+          "Giả thuyết",
+          "Một số hoạt động ego chưa được biết."
+        ],
+        [
+          "Giới hạn",
+          "Không đủ để chẩn đoán."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "[S1]I · [S3]transcript",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục hypothesis."
+    },
+    {
+      "title": "Superego và ego-ideal: đọc theo giai đoạn",
+      "section": "C · SUPEREGO",
+      "body": "Chương III văn bản 1923/1927 đặt superego và ego-ideal gần nhau. Bài này phân tích việc đặt chuẩn, cấm đoán và tự phê phán, nhưng không dựng hai cơ quan hoàn toàn tách biệt. Lý tưởng về người mình phải trở thành có thể tham gia đánh giá ngay cả khi ta chưa diễn đạt rõ nó thành một câu đang nghĩ có ý thức.",
+      "nodes": [
+        [
+          "Chuẩn lý tưởng",
+          "Mình phải trở thành ai?"
+        ],
+        [
+          "Điều cấm",
+          "Điều gì không được làm?"
+        ],
+        [
+          "Tự phê phán",
+          "Mình được đánh giá thế nào?"
+        ]
+      ],
+      "layout": "cards",
+      "source": "[S1]III",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục cards."
+    },
+    {
+      "title": "Nguồn gốc superego: một giả thuyết lịch sử",
+      "section": "C · DEVELOPMENT",
+      "body": "Freud đề xuất những đồng nhất hóa sớm và việc giải quyết xung đột Oedipus có vai trò trong hình thành superego. Văn bản có cả yêu cầu trở nên giống một hình mẫu và lệnh không chiếm đặc quyền của hình mẫu đó. Đây là giả thuyết phát triển mang bối cảnh lịch sử, không quy luật đã xác nhận cho mọi gia đình, giới hoặc văn hóa.",
+      "nodes": [
+        [
+          "Văn bản",
+          "Đồng nhất hóa/Oedipus."
+        ],
+        [
+          "Nhãn",
+          "Giả thuyết phát triển lịch sử."
+        ],
+        [
+          "Không suy ra",
+          "Tuổi thơ từ một lần tự trách."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1]III",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục timeline."
+    },
+    {
+      "title": "Chuẩn khắt khe không tự là chuẩn đúng",
+      "section": "C · ETHICAL DISTINCTIONS",
+      "body": "Superego không phải thiên thần luôn đúng. Một chuẩn “không bao giờ được sai” có thể khiến người ta đau khổ mà không vì thế có giá trị đạo đức. Ngược lại, tội lỗi có thể là phản ứng phù hợp với một việc gây hại thật. Ta không được đọc cảm giác ấy như phép thử cho một superego bất thường hoặc dùng lý thuyết để phủ nhận trách nhiệm thực tế.",
+      "nodes": [
+        [
+          "Có chuẩn",
+          "Một hiện tượng cần hiểu."
+        ],
+        [
+          "Chuẩn đúng?",
+          "Câu hỏi đạo đức khác."
+        ],
+        [
+          "Chẩn đoán?",
+          "Không theo từ một cảm giác."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1]V · [S3]",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục comparison."
+    },
+    {
+      "title": "Hai mô hình cắt chéo, không đổi tên từng ô",
+      "section": "C · TWO MODELS",
+      "body": "F02 hỏi một nội dung đang được nhận biết hay có thể gọi lại thế nào. F03 hỏi các đòi hỏi và chức năng tổ chức quan hệ ra sao. Ego và superego không hoàn toàn được nhận biết; vì vậy không ghép conscious=ego, preconscious=superego, unconscious=id. Bảng đối chiếu chỉ biểu diễn sự khác nhau giữa hai chiều khái niệm, không đo kích thước tâm trí.",
+      "nodes": [
+        [
+          "Chiều nhận biết",
+          "Conscious/Preconscious/Unconscious."
+        ],
+        [
+          "Chiều cấu trúc",
+          "Id/Ego/Superego."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S1]I–III · [S3]",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục matrix."
+    },
+    {
+      "title": "Không chuyển sơ đồ tâm lý thành giải phẫu",
+      "section": "C · VISUAL CAUTION",
+      "body": "Freud dùng nhiều loại suy không gian và cơ thể, nhưng chính ông ghi hình ở chương II là phương tiện trình bày, không có hình dạng đặc biệt được xác lập. Bài này vì thế không tô ba vùng não cho id, ego, superego và không gán tỷ lệ phần trăm. Một hình dễ nhớ cần giữ đúng điều mô hình cho phép nói.",
+      "nodes": [
+        [
+          "Mô hình",
+          "Quan hệ chức năng."
+        ],
+        [
+          "Giải phẫu",
+          "Cần bằng chứng riêng."
+        ],
+        [
+          "Quy tắc hình",
+          "Không não ba tầng/tỷ lệ giả."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S1]II,ghi chúhình1",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục contrast."
+    },
+    {
+      "title": "Ego trong quan hệ với ba nhóm đòi hỏi",
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "body": "Ở chương V, Freud mô tả ego phải làm việc với id, superego và thế giới bên ngoài. Sơ đồ giúp theo dõi quan hệ trong giả thuyết: đòi hỏi thỏa mãn, chuẩn đánh giá và điều kiện thực tế cùng liên quan lựa chọn. Mũi tên không phải đường truyền thần kinh và không xác định nhóm nào đang “thắng” trong một người thật.",
+      "nodes": [
+        [
+          "Id",
+          "Đòi hỏi thỏa mãn."
+        ],
+        [
+          "Superego",
+          "Chuẩn và lý tưởng."
+        ],
+        [
+          "Thực tại",
+          "Điều kiện và hậu quả."
+        ],
+        [
+          "Ego",
+          "Tổ chức phương án."
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S1]V,three masters",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục balance."
+    },
+    {
+      "title": "Theo dõi một chuỗi năm bước",
+      "section": "D · PROPOSED PROCESS",
+      "body": "Bài dùng chuỗi giảng dạy năm bước: tình huống, mong muốn, chuẩn, tổ chức đáp ứng, rồi hệ quả. Đây không phải thuật toán Freud đã kiểm định hoặc trích nguyên văn. Lợi ích của chuỗi là tách thông tin quan sát khỏi chỗ ta thêm giả thuyết, và buộc quay lại hỏi bối cảnh khi một nhãn xuất hiện quá sớm.",
+      "nodes": [
+        [
+          "1–2",
+          "Tình huống và mong muốn."
+        ],
+        [
+          "3–4",
+          "Chuẩn và tổ chức đáp ứng."
+        ],
+        [
+          "5",
+          "Hệ quả, thông tin mới."
+        ]
+      ],
+      "layout": "steps",
+      "source": "F03D,tổng hợptừ[S1]V",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục steps."
+    },
+    {
+      "title": "Điều gì có thể làm diễn giải yếu đi?",
+      "section": "D · TEST THE EXPLANATION",
+      "body": "Mọi tình huống cần giữ giải thích cạnh tranh: thiếu ngủ, nhu cầu thực, kỹ năng và quy định tổ chức có thể làm thay đổi hành vi. Cảm giác nhẹ đi sau một lựa chọn không tự chứng minh cách đọc cấu trúc đúng. Nếu câu trả lời nào cũng được dùng làm xác nhận, diễn giải không còn giúp phân biệt các khả năng khác nhau.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Điều thực sự xảy ra."
+        ],
+        [
+          "Đối thủ",
+          "Kỹ năng/nguồn lực/bối cảnh."
+        ],
+        [
+          "Sửa mô hình",
+          "Giảm hoặc đổi giả thuyết."
+        ]
+      ],
+      "layout": "decision",
+      "source": "F03D · phươngphápsuyluận",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục decision."
+    },
+    {
+      "title": "Ví dụ 1: xem tin nhắn trong cuộc họp",
+      "section": "E · REAL-LIFE EXAMPLE",
+      "body": "Lan muốn biết bạn đã trả lời chưa nhưng đang nói với khách hàng. Có thể đọc đây là mong muốn tức thời, chuẩn tôn trọng người nghe và hậu quả công việc cùng tham gia lựa chọn. Lan tắt thông báo rồi xem lúc nghỉ. Nhưng một tin cấp bách hoặc quy tắc cho phép dùng điện thoại cũng phù hợp; cần hỏi bối cảnh trước khi gọi tên cấu trúc.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Muốn xem và đang trình bày."
+        ],
+        [
+          "Cách đọc",
+          "Nhiều đòi hỏi cùng có mặt."
+        ],
+        [
+          "Thay thế",
+          "Tin cấp bách/quy tắc khác."
+        ]
+      ],
+      "layout": "example",
+      "source": "F03E · tình huống giả định",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục example."
+    },
+    {
+      "title": "Ví dụ 2: mua trong ngân sách rồi tự trách",
+      "section": "E · REAL-LIFE EXAMPLE",
+      "body": "Bình mua tai nghe đúng ngân sách nhưng nghĩ người tốt không được tiêu gì cho bản thân. Một giả thuyết là chuẩn tự phê phán cứng nhắc; chưa đủ kết luận superego bệnh lý. Cần biết Bình có nợ hay đã hứa dùng tiền vào việc khác không. Hối tiếc sau mua, thiếu thông tin tài chính và áp lực quan hệ đều cần được xét.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Mua và tự trách."
+        ],
+        [
+          "Giả thuyết",
+          "Chuẩn tự phê phán."
+        ],
+        [
+          "Cần biết",
+          "Nợ/cam kết/bối cảnh."
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "F03E · tình huống giả định",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục hypothesis."
+    },
+    {
+      "title": "Ví dụ 3: nói thẳng mà vẫn giữ quan hệ",
+      "section": "E · REAL-LIFE EXAMPLE",
+      "body": "Mai giận vì đồng nghiệp giao việc muộn nhưng muốn công bằng và phối hợp lâu dài. Nêu sự kiện, ảnh hưởng và đề nghị cụ thể có thể là cách đáp ứng nhiều đòi hỏi, không phải ego đánh bại id. Kỹ năng thương lượng, quy trình mơ hồ và bất cân xứng quyền lực là các giải thích ngoài Freud; im lặng trong môi trường trừng phạt phản hồi có thể có cơ sở.",
+      "nodes": [
+        [
+          "Mong muốn",
+          "Nói hết điều bực."
+        ],
+        [
+          "Điều kiện",
+          "Quan hệ và quyền lực."
+        ],
+        [
+          "Phương án",
+          "Sự kiện/ảnh hưởng/đề nghị."
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "F03E · tình huống giả định",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục dialogue."
+    },
+    {
+      "title": "Case Nam: biết điều gì, thiếu điều gì?",
+      "section": "F · CASE STUDY 1/3",
+      "body": "Nam sửa báo cáo nhiều lần rồi gửi trễ; Nam kể muốn làm tốt, sợ bị chê và giận vì yêu cầu thay đổi. Đó là dữ kiện khởi đầu của một ca giả định. Chưa biết chất lượng báo cáo, thời hạn cạnh tranh, lượng việc hoặc phản hồi quản lý. “Superego mạnh” là một tên gọi diễn giải, không phải dữ kiện đã quan sát.",
+      "nodes": [
+        [
+          "Đã biết",
+          "Sửa nhiều/gửi trễ/lời kể."
+        ],
+        [
+          "Chưa biết",
+          "Tiêu chí/nguồn lực/phản hồi."
+        ],
+        [
+          "Chưa được kết luận",
+          "Nhãn về cấu trúc Nam."
+        ]
+      ],
+      "layout": "case",
+      "source": "F03F · ca giả định",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục case."
+    },
+    {
+      "title": "Case Nam: xây giả thuyết có đối thủ",
+      "section": "F · CASE STUDY 2/3",
+      "body": "Cách đọc cấu trúc đặt mong muốn được công nhận, chuẩn phải hoàn hảo và nhu cầu gửi đúng hạn vào cùng khung. Sửa thêm có thể tạm trì hoãn việc bị đánh giá, nhưng nhẹ lo không xác định động cơ duy nhất. Tiêu chí đổi, thiếu dữ liệu, quá tải hoặc thiếu kỹ năng đều có thể giải thích một phần hay toàn bộ tình huống.",
+      "nodes": [
+        [
+          "Mô hình Freud",
+          "Mong muốn/chuẩn/thực tại."
+        ],
+        [
+          "Đối thủ",
+          "Tiêu chí thay đổi/thiếu dữ liệu."
+        ],
+        [
+          "Không đủ",
+          "Tạm bớt lo ≠ xác nhận cơ chế."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "F03F · ca giả định",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục comparison."
+    },
+    {
+      "title": "Case Nam: tìm thông tin để sửa cách hiểu",
+      "section": "F · CASE STUDY 3/3",
+      "body": "Đối chiếu yêu cầu bằng văn bản, các lần thay đổi và những báo cáo Nam vẫn gửi đúng hạn. Nếu điều kiện rõ mà chuẩn không được sai vẫn xuất hiện, giả thuyết tự phê phán có thêm dữ kiện, vẫn chưa là chẩn đoán. Thỏa thuận bản nháp và mốc phản hồi là cách thử điều kiện làm việc; bài không nhận đây là trị liệu phân tâm học đã kiểm định.",
+      "nodes": [
+        [
+          "Kiểm bối cảnh",
+          "Yêu cầu/lần đổi/đối chiếu."
+        ],
+        [
+          "Điều chỉnh",
+          "Giảm hoặc giữ giả thuyết."
+        ],
+        [
+          "Ứng dụng có điều kiện",
+          "Bản nháp/mốc phản hồi."
+        ]
+      ],
+      "layout": "decision",
+      "source": "F03F · ca giả định",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục decision."
+    },
+    {
+      "title": "Ba loại bằng chứng trả lời ba câu hỏi",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Văn bản 1923 xác nhận Freud đã viết và lập luận thế nào. Một bài lý thuyết thần kinh hỏi tính tương thích giữa các cách mô tả. Một nghiên cứu kết quả trị liệu hỏi người tham gia có thay đổi không. Ba loại nguồn không thể tự thay thế nhau: chứng cứ cho một phát biểu lịch sử không đồng nghĩa chứng cứ cho cơ chế hoặc hiệu quả điều trị.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Tác giả nói gì?"
+        ],
+        [
+          "Cơ chế",
+          "Giả thuyết nào được kiểm?"
+        ],
+        [
+          "Outcome",
+          "Điều gì đã thay đổi?"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "F03G · [S1][S4][S5]",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục ledger."
+    },
+    {
+      "title": "Neuropsychoanalysis: tương thích chưa là đồng nhất",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Carhart-Harris và Friston 2010 đề xuất sự nhất quán giữa một số ý tưởng Freud với tổ chức hệ thống não và default-mode. Bài viết này chưa được đọc toàn văn trong phiên; PMC có CAPTCHA, OUP chuyển hướng không đọc được. Abstract được lập chỉ mục cho phép nhận diện một đề xuất đối chiếu, không cho phép tuyên bố ego chính là một mạng não hoặc mô hình đã được xác nhận.",
+      "nodes": [
+        [
+          "Nguồn đã xem",
+          "Metadata/abstract lập chỉ mục."
+        ],
+        [
+          "Nguồn đề xuất",
+          "Tính tương thích khái niệm."
+        ],
+        [
+          "Không suy ra",
+          "Ego = mạng não."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "[S4]Brain 2010,doi10.1093/brain/awq010",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục contrast."
+    },
+    {
+      "title": "Đọc review theo từng khẳng định",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Luborsky và Barrett 2006 tổng quan nhiều khái niệm và hiện tượng trị liệu. Phiên này mới kiểm metadata và abstract lập chỉ mục nên không báo một mức hiệu quả hoặc kết quả định lượng riêng. Bài học cũng chưa là systematic review cập nhật. Thiếu một phép kiểm trong khảo sát không bác bỏ mọi ý tưởng Freud; tương đồng hoặc một outcome tốt cũng chưa chứng minh cả hệ thống.",
+      "nodes": [
+        [
+          "Kiểm riêng",
+          "Khái niệm và phép đo."
+        ],
+        [
+          "Giới hạn đọc",
+          "Abstract/metadata, không full text."
+        ],
+        [
+          "Giữ bất định",
+          "Không xác nhận/bác bỏ cả gói."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S5]AnnualReviewClinPsychol 2006",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục evidence."
+    },
+    {
+      "title": "Ứng dụng: dùng như cách hỏi",
+      "section": "H · PRACTICAL APPLICATIONS",
+      "body": "Viết riêng điều mình muốn, chuẩn đang dùng và điều kiện thực tế có thể giúp tự phản tư mà không phải tin có ba vùng tâm trí tách biệt. Trong giao tiếp, hỏi điều gì khiến lựa chọn khó thay cho gọi id của người khác. Đây là gợi ý học cách suy luận, không phương pháp điều trị đã được kiểm định trong bài; người đối diện có quyền không đồng ý.",
+      "nodes": [
+        [
+          "Tự phản tư",
+          "Muốn/chuẩn/điều kiện."
+        ],
+        [
+          "Giao tiếp",
+          "Hỏi và kiểm hoàn cảnh."
+        ],
+        [
+          "Ranh giới",
+          "Không gán nhãn/chẩn đoán."
+        ]
+      ],
+      "layout": "checklist",
+      "source": "F03H · ứngdụngcóđiềukiện",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục checklist."
+    },
+    {
+      "title": "Cách đọc hình trong bài",
+      "section": "I · VISUAL EXPLANATION",
+      "body": "Hình chính đặt hai câu hỏi cạnh nhau và nối ego với các nhóm đòi hỏi trong mô hình. Đường nét cho biết quan hệ của một giả thuyết, không là dây thần kinh, vùng não hoặc tỷ lệ tâm trí. Ảnh Freud chỉ định vị tác giả lịch sử; không làm bằng chứng cơ chế. Nhãn và caption phải theo cùng mức chắc chắn như đoạn giải thích.",
+      "nodes": [
+        [
+          "Không gian",
+          "Bố cục để giải thích."
+        ],
+        [
+          "Mũi tên",
+          "Quan hệ trong giả thuyết."
+        ],
+        [
+          "Ảnh tư liệu",
+          "Bối cảnh tác giả, không phép kiểm."
+        ]
+      ],
+      "layout": "concept-map",
+      "source": "[S1]I–III,V · F03I",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục concept-map."
+    },
+    {
+      "title": "Tám điểm cần nhớ",
+      "section": "J · KEY TAKEAWAYS",
+      "body": "Ba cấu trúc là khái niệm; id không là điều ác, ego không là kiêu ngạo hoặc ý thức hoàn toàn, superego không luôn đúng. Superego/ego-ideal cần được đọc theo giai đoạn. Hai mô hình cắt chéo và không đo tỷ lệ tâm trí. Ví dụ không chẩn đoán người khác; lịch sử, tương thích thần kinh và kết quả trị liệu cần được kiểm riêng.",
+      "nodes": [
+        [
+          "1–3",
+          "Khái niệm; id không xấu; ego không kiêu ngạo."
+        ],
+        [
+          "4–6",
+          "Chuẩn không luôn đúng; đọc giai đoạn; hai chiều."
+        ],
+        [
+          "7–8",
+          "Không chẩn đoán; tách loại bằng chứng."
+        ]
+      ],
+      "layout": "summary",
+      "source": "F03J",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục summary."
+    },
+    {
+      "title": "Vì sao không ghép ego=ý thức?",
+      "section": "K · KNOWLEDGE CHECK 1/5",
+      "body": "Freud lập luận rằng một số hoạt động ego không được nhận biết; superego cũng không hoàn toàn ý thức. Vì vậy vô thức không chỉ là id. Sai lầm là ghép ba tên của mô hình này với ba tên của mô hình kia mà không xét câu hỏi mỗi mô hình đang trả lời.",
+      "nodes": [
+        [
+          "Cần giải thích",
+          "Câu trả lời phải nêu lý do."
+        ],
+        [
+          "Lỗi thường gặp",
+          "Lấy một dấu hiệu làm kết luận cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1]I–III",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục question."
+    },
+    {
+      "title": "Lan muốn xem tin nhắn: id đang thắng?",
+      "section": "K · KNOWLEDGE CHECK 2/5",
+      "body": "Chưa đủ kết luận. Tính khẩn cấp của tin nhắn, quy tắc cuộc họp và cách Lan cân nhắc đều còn thiếu. Một hành vi tương thích với mô hình không loại trừ các giải thích khác; câu trả lời tốt cần nêu thêm dữ kiện thay vì gắn nhãn.",
+      "nodes": [
+        [
+          "Cần giải thích",
+          "Câu trả lời phải nêu lý do."
+        ],
+        [
+          "Lỗi thường gặp",
+          "Lấy một dấu hiệu làm kết luận cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "F03E,K",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục question."
+    },
+    {
+      "title": "Vì sao superego không là thiên thần?",
+      "section": "K · KNOWLEDGE CHECK 3/5",
+      "body": "Trong mô hình, chuẩn và sự tự phê phán có thể khắt khe, gây đau khổ hoặc không hợp lý. Một chuẩn có mặt trong tâm lý không chứng minh nó đúng về đạo đức. Cũng không vì vậy phủ nhận mọi cảm giác tội lỗi có cơ sở trong hành vi gây hại thực.",
+      "nodes": [
+        [
+          "Cần giải thích",
+          "Câu trả lời phải nêu lý do."
+        ],
+        [
+          "Lỗi thường gặp",
+          "Lấy một dấu hiệu làm kết luận cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1]V · [S3]",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục question."
+    },
+    {
+      "title": "Dữ kiện nào làm giả thuyết về Nam yếu đi?",
+      "section": "K · KNOWLEDGE CHECK 4/5",
+      "body": "Nếu yêu cầu thay đổi liên tục hoặc thiếu dữ liệu bắt buộc, còn Nam vẫn gửi đúng hạn khi tiêu chí rõ, cách giải thích chỉ do chuẩn hoàn hảo cá nhân sẽ yếu đi. Điều đó không chứng minh Nam không có xung đột; nó yêu cầu bỏ một cách đọc một nguyên nhân duy nhất.",
+      "nodes": [
+        [
+          "Cần giải thích",
+          "Câu trả lời phải nêu lý do."
+        ],
+        [
+          "Lỗi thường gặp",
+          "Lấy một dấu hiệu làm kết luận cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "F03F,K",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục question."
+    },
+    {
+      "title": "Đối chiếu ego/default-mode đã xác nhận Freud?",
+      "section": "K · KNOWLEDGE CHECK 5/5",
+      "body": "Chưa. Tương thích khái niệm khác với đồng nhất và khác một phép kiểm cả mô hình. Cần định nghĩa, phép đo và dự đoán phân biệt. Phiên viết mới kiểm abstract/metadata của bài đối chiếu, nên không nâng mức đọc hoặc mức kết luận vì tên tạp chí có vẻ thuyết phục.",
+      "nodes": [
+        [
+          "Cần giải thích",
+          "Câu trả lời phải nêu lý do."
+        ],
+        [
+          "Lỗi thường gặp",
+          "Lấy một dấu hiệu làm kết luận cơ chế."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S4] · F03G,K",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục question."
+    },
+    {
+      "title": "Nguồn gốc và cách truy đúng đoạn",
+      "section": "L · REFERENCES 1/2",
+      "body": "S1 là Freud 1923 trong bản Joan Riviere 1927 trên Project Gutenberg. Dùng Translator’s Note và các đoạn liên quan của chương I,II,III,V; không gán trang Standard Edition. S2 là tư liệu Library of Congress về bản thảo và mốc 1923. S3 là transcript giáo dục của Freud Museum: hữu ích để định vị thuật ngữ, không phải review thực nghiệm độc lập.",
+      "nodes": [
+        [
+          "S1",
+          "Gutenberg 79682, chương và câu mở đoạn."
+        ],
+        [
+          "S2",
+          "LOC · Exploded Manuscript."
+        ],
+        [
+          "S3",
+          "Freud Museum, transcript."
+        ]
+      ],
+      "layout": "references",
+      "source": "[S1]–[S3]xemlessonL",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục references."
+    },
+    {
+      "title": "Nguồn hiện đại: nói rõ mức đã đọc",
+      "section": "L · REFERENCES 2/2",
+      "body": "S4 là Carhart-Harris và Friston 2010, Brain 133,1265–1283, DOI10.1093/brain/awq010. S5 là Luborsky và Barrett 2006, Annual Review of Clinical Psychology2,1–19, DOI10.1146/annurev.clinpsy.2.022305.095328. Phiên này kiểm metadata và abstract lập chỉ mục, chưa đọc full text; research log ghi các lỗi truy cập và claim đã thu hẹp.",
+      "nodes": [
+        [
+          "S4",
+          "Đối chiếu thần kinh—giả thuyết."
+        ],
+        [
+          "S5",
+          "Review khái niệm—abstract only."
+        ],
+        [
+          "Mức truy cập",
+          "Không tự nâng thành full text."
+        ]
+      ],
+      "layout": "references",
+      "source": "[S4][S5]xemlessonL",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục references."
+    },
+    {
+      "title": "Đọc tiếp từ cấu trúc sang nguyên tắc",
+      "section": "F03 · NEXT STEPS",
+      "body": "Giữ ba cột trong cách học: điều quan sát, cách mô hình diễn giải và thông tin còn cần. F04 sẽ đi sâu nguyên tắc khoái cảm/thực tại; F05 sẽ phân tích xung đột và cơ chế phòng vệ. Nội dung và bản trình bày này còn chờ phản biện độc lập; nguồn tham khảo và giới hạn phải luôn đi cùng sơ đồ.",
+      "nodes": [
+        [
+          "F02→F03",
+          "Hai câu hỏi khác nhau."
+        ],
+        [
+          "F04",
+          "Hai nguyên tắc."
+        ],
+        [
+          "F05",
+          "Xung đột và phòng vệ."
+        ]
+      ],
+      "layout": "closing",
+      "source": "F03 · trạngtháipendingreview",
+      "note": "",
+      "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục closing."
+    }
+  ],
+  "canvas_ref": "cvs_1QE230ZA0G9EHBTW948BE0F7VB",
+  "canvas_url": "https://moda.app/canvas/3770860f-a810-4ba2-bd71-2442dc079f6b?source=agent",
+  "exports": [
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "bb6fbbd3-786d-49eb-b1a2-42e7909640cf",
+      "url": "https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-022ad4222cd188389b964de3a37b02db/pptx-r2-f0-w1-all.pptx?Expires=1824392296&KeyName=mpwa&Signature=uMweyhPjrQofHVrX5fQYkE9voZk",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "0875bab3-8b31-4c9d-8ec4-fd11fa467e2c",
+      "url": "https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-bff3699fc4aae56c7fa0cac66fe1f52e/pdf-r3-f0-w1-all.pdf?Expires=1824392317&KeyName=mpwa&Signature=emLExg9IHyr-yIrCgAEzNNiF-Y4",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  ],
+  "presentation_status": "exported",
+  "production_notes": [
+    "Bản nội dung nghiên cứu trực tiếp trong phiên có Moda, không nhận phục hồi task Cloud.",
+    "Canvas duy nhất, không brand kit theo lựa chọn đã có;37 slide đã dựng và xem render.",
+    "Bốn trang12/14/22/25 sửa khung hai cột thành ba cột, không đổi nội dung.",
+    "Chuẩn hóa khoảng trắng chữ/năm và node labels;37body khớp trực tiếp canvas sau chuẩn hóa.",
+    "PPTX không cảnh báo; PDF một trang rasterized. Không tải binary theo chỉ dẫn điều phối, không nhận đã lưu file local."
+  ],
+  "review_record": "../references/f03-review.md"
+}

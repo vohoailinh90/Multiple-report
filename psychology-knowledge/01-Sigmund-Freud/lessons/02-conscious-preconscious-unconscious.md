@@ -4,12 +4,12 @@ title: Conscious, Preconscious và Unconscious
 topic: khac
 date: 2026-10-24
 status: drafted
-review_status: pending
-visual_status: not-started
+review_status: reviewed-with-limitations
+visual_status: exported
 ---
 # F02 — Conscious, Preconscious và Unconscious
 
-**Câu hỏi trung tâm:** một điều hiện không được ý thức có nhất thiết đang bị dồn nén không? Bài học phân biệt ba khái niệm trong mô hình Freud, rồi đối chiếu với cách nghiên cứu xử lý không ý thức ngày nay. Đọc trước: [F01](01-cuoc-doi-va-lich-su-phan-tam-hoc.md). Đây là bản nháp chờ phản biện và thiết kế Moda, chưa đạt Definition of Done.
+**Câu hỏi trung tâm:** một điều hiện không được ý thức có nhất thiết đang bị dồn nén không? Bài học phân biệt ba khái niệm trong mô hình Freud, rồi đối chiếu với cách nghiên cứu xử lý không ý thức ngày nay. Đọc trước: [F01](01-cuoc-doi-va-lich-su-phan-tam-hoc.md). Đã có review độc lập nội dung với giới hạn và bản trình bày Moda/PPTX/PDF; chưa tự coi đạt toàn bộ Definition of Done.
 
 ## Lưu ý
 
@@ -50,6 +50,12 @@ Vấn đề khái niệm rất thực tế: đang không nghĩ về một điề
 Phân biệt của Freud Museum London nhấn mạnh: vô thức động lực gắn với dồn nén, còn tiền ý thức có thể được đưa vào ý thức tương đối dễ. [S3, “A dynamic unconscious”] Nhưng khi xem một tình huống thực tế, ta chưa biết nguyên nhân chỉ từ việc không có báo cáo. Có thể người ấy chưa chú ý, chưa hiểu câu hỏi, không nhớ, không muốn nói hoặc không có từ ngữ phù hợp.
 
 Ví dụ “tôi không nhớ” vì vậy là một báo cáo cần làm rõ. Nó không tự cung cấp nhãn preconscious hay repression. Muốn kết luận cơ chế, phải có thêm thông tin độc lập với chính nhãn được dùng để giải thích.
+
+### Hệ thống Ucs không chỉ là một kho ký ức
+
+Freud Museum mô tả unconscious như một hệ thống với quy tắc hoạt động được lý thuyết gán cho nó. Hai ví dụ là cô đặc (condensation: nhiều liên hệ hội tụ vào một biểu hiện) và di chuyển (displacement: trọng tâm được chuyển sang một liên hệ khác). Đây là các primary processes trong mô hình, được đặt cạnh secondary processes của tư duy quen thuộc. [S3, “Characteristics of the unconscious”]
+
+Không nên học bảng ba miền như một danh sách nơi chứa đồ vật: tên gọi không tự giải thích thông tin được tổ chức hoặc diễn biến ra sao. Đồng thời, **mô tả quy tắc của mô hình** khác với **chứng minh có quy tắc ấy trong một trường hợp**. Việc một hình ảnh gợi nhiều liên tưởng không đủ chứng minh cô đặc theo Freud; nội dung riêng và cách liên hệ phải được xem xét. Chương về giấc mơ F09 sẽ đi sâu hơn, còn bài này chỉ định vị thuật ngữ.
 
 ### Không trộn mô hình địa hình với id–ego–superego
 
@@ -128,13 +134,27 @@ Ta chưa đủ cơ sở gán cơ chế dồn nén. Có thể đồng thời ghi 
 
 Kihlstrom (1987) tổng hợp nghiên cứu về quá trình nhận thức ngoài nhận biết và phân biệt chúng với giả thuyết Freud về nội dung bị dồn nén. Bài Science giúp định vị nghiên cứu trí nhớ, tri giác và quá trình tự động; nó không cho phép lấy mọi hiện tượng nhận thức không được báo cáo làm bằng chứng cho xung đột tâm động học. [S4, trang đầu bản tác giả và abstract]
 
-Bài mẫu này đã xem trang đầu PDF và abstract/metadata của S4, chưa đọc toàn bộ bài; vì vậy không trình bày hiệu ứng định lượng hoặc kết luận về từng nhiệm vụ thực nghiệm. Phần so sánh ở đây là ranh giới khái niệm, không một tổng quan cập nhật toàn bộ khoa học ý thức.
+Bài này đã xem trang đầu PDF và abstract/metadata của S4, chưa đọc toàn bộ bài; vì vậy không trình bày hiệu ứng định lượng hoặc kết luận về từng nhiệm vụ thực nghiệm. Phần so sánh ở đây là ranh giới khái niệm, không một tổng quan cập nhật toàn bộ khoa học ý thức.
 
 ### Đo awareness cũng cần được kiểm tra
 
 Newell và Shanks (2014) phê bình nghiên cứu quyết định khi kết luận về ảnh hưởng không ý thức dựa vào phép đánh giá nhận biết không đủ tốt. Họ đề xuất xem độ tin cậy, tính liên quan, thời điểm và độ nhạy của phép đo. [S5, mục 1.2 và Table 1 trong bản tác giả]
 
 Hệ quả phương pháp là không đồng nhất “không phát hiện được bằng câu hỏi này” với “không tồn tại”. Ví dụ, hỏi sau rất lâu có thể đánh giá khả năng nhớ lại báo cáo hơn là trạng thái nhận biết tại thời điểm hành động. Ngược lại, việc một phép đo có giới hạn cũng không tự chứng minh mọi quyết định đều có ý thức. Cần định nghĩa rõ điều đang được đo và kiểm tra các cách giải thích khác.
+
+### Nghiên cứu 2024–2025: phép đo có thể hội tụ hoặc bất đồng
+
+Kiefer và Kammer (2024) phân biệt báo cáo trải nghiệm thị giác với độ chính xác phát hiện/phân loại kích thích. Review tìm thấy cả hội tụ lẫn khác biệt giữa hai kiểu đo, tùy nhiệm vụ và điều kiện; không tuyên bố một kiểu đo luôn ưu việt. [S6, Abstract và mục 1–2, 4–5]
+
+Hernández-Gutiérrez và cộng sự (2025) xem xét riêng masked syntactic priming. Abstract báo cáo rằng tổng hợp và tái phân tích cho thấy vấn đề lực thống kê, nhận biết cao hơn ngẫu nhiên và độ tin cậy thấp có thể làm yếu các kết luận trước về xử lý cú pháp không ý thức. [S7, Abstract] Bài này đã đọc abstract và các đoạn phương pháp khái quát, chưa thẩm định toàn bộ kết quả. Không ngoại suy phê bình một nhiệm vụ thành kết luận không có bất kỳ xử lý không ý thức nào.
+
+Hai nguồn cập nhật giúp tránh hai thái cực: coi sự khác nhau giữa tự báo cáo và hành vi là không thể có, hoặc dùng mọi khác nhau ấy để chứng minh Freud. Các phép đo thị giác và ngôn ngữ trên không đo một mong muốn bị dồn nén. Đó là giới hạn đối tượng nghiên cứu, không lời phủ nhận tầm quan trọng của cảm xúc trong đời sống.
+
+### Minh họa một phép kiểm: phát hiện ảnh hưởng và đo nhận biết
+
+Giả sử nhà nghiên cứu trình bày một ký hiệu rất nhanh, rồi đo phản ứng với ký hiệu kế tiếp. Có hai câu hỏi riêng: kích thích trước có làm thay đổi phản ứng không, và người tham gia có thông tin nhận biết nào về nó? Có ảnh hưởng ở nhiệm vụ chính nhưng phép thử nhận biết chưa phát hiện khác biệt không tự giải quyết câu thứ hai.
+
+Ví dụ tự tạo để học phương pháp: một người phân loại đúng 11 trong 20 lượt hai lựa chọn. Ta không được đọc ngay kết quả gần 50% là “hoàn toàn không thấy gì”; cần xét số lượt, độ bất định và phép đo. Cũng không được nói người ấy có nhận biết chỉ vì một vài câu trả lời đúng. Thí nghiệm thật cần thiết kế và phân tích trước, không chọn cách giải thích sau khi nhìn kết quả. Các con số ở đây là minh họa số học, không dữ liệu nghiên cứu hoặc ngưỡng chẩn đoán.
 
 ### Bảng mức hỗ trợ trong phạm vi bài
 
@@ -143,9 +163,11 @@ Hệ quả phương pháp là không đồng nhất “không phát hiện đư�
 | Freud phân biệt mô tả, động lực và hệ thống | Tư liệu gốc xác nhận cách dùng từ | Là bằng chứng lịch sử, không kiểm chứng cơ chế |
 | Cognitive unconscious và dynamic unconscious không đồng nghĩa | Phân biệt khái niệm có cơ sở ở nguồn chuyên môn | Không phải phán quyết mọi giả thuyết tâm động học đều sai |
 | Một báo cáo “không biết” xác nhận repression | Chưa đủ | Không loại trừ thiếu chú ý, nhớ kém, ranh giới giao tiếp hoặc phép đo thiếu nhạy |
+| Hai kiểu đo awareness luôn đồng nhất hoặc luôn đối lập | Không được S6 hỗ trợ; review mô tả kết quả phụ thuộc điều kiện | Không dùng một thang đo như tiêu chuẩn tuyệt đối trong mọi nhiệm vụ |
+| Kết quả masked syntactic priming tự xác nhận xử lý hoàn toàn không ý thức | Bị S7 chất vấn trong phạm vi nhiệm vụ được review | Chưa thẩm định toàn văn, không mở rộng ra mọi quá trình nhận thức |
 | Mọi hành vi phức tạp do vô thức điều khiển | Không được nguồn của bài hỗ trợ | Không dùng tỷ lệ “90%/95% tâm trí” hoặc hình tảng băng có tỷ lệ giả |
 
-Nghiên cứu mới và các tranh luận sau năm 2014 còn cần bổ sung trước khi dùng bài như bản tổng quan hiện trạng. Phiên này chưa thực hiện systematic review, đánh giá toàn bộ nguy cơ sai lệch hoặc kiểm đính chính/rút bài của từng nguồn hiện đại.
+Đã bổ sung hai nguồn 2024–2025, nhưng lựa chọn nguồn chưa có tính hệ thống và không đại diện toàn bộ nghiên cứu tới 2026. Phiên này chưa thực hiện systematic review, đánh giá toàn bộ nguy cơ sai lệch hoặc kiểm đính chính/rút bài của từng nguồn hiện đại. Nguồn gốc khái niệm, review phương pháp và một meta-analysis hẹp không thay thế phép kiểm độc lập cho toàn bộ dynamic unconscious.
 
 ## H. Practical Applications — Vận dụng mà không áp đặt
 
@@ -156,16 +178,18 @@ Nghiên cứu mới và các tranh luận sau năm 2014 còn cần bổ sung tr�
 
 Các gợi ý này là thực hành suy luận và giao tiếp do bài xây dựng, không phải phương pháp điều trị đã được kiểm định trong bài.
 
-## I. Visual Explanation — Brief chờ thiết kế Moda
+## I. Visual Explanation — Bản trình bày Moda
 
-**Trạng thái: not-started.** Chưa tạo canvas hoặc hình, chưa có URL để nhúng. Phiên chính thực hiện Moda sau phản biện nội dung.
+**Trạng thái: exported.** Đã dựng 37 slide theo mẫu F01 v4 và kiểm render toàn bộ trong phiên sản xuất.
 
-Brief đề xuất gồm hai panel:
+Sơ đồ phân biệt khả năng truy cập của ý thức/tiền ý thức với giả thuyết vô thức động lực; các bảng đối chiếu không đồng nhất xử lý không ý thức với dồn nén. Hình là bản đồ khái niệm, không phải phân vùng não hoặc tỷ lệ diện tích tâm trí.
 
-1. **Khả năng truy cập:** “đang được nhận biết” ↔ “có thể được gọi lại trong điều kiện phù hợp”; bên cạnh là “mô hình giả định chất liệu bị ngăn khỏi ý thức”. Ranh giới thứ ba phải ghi “giả thuyết động lực”, không vẽ như một vùng não.
-2. **Hai câu hỏi khác nhau:** cognitive nonconscious hỏi quá trình nào không được nhận biết bằng phép đo; dynamic unconscious hỏi chất liệu nào bị ngăn bởi lực chống đối được giả định. Giữa chúng ghi “không suy tương đương”.
+- [Canvas Moda](https://moda.app/canvas/6fc130f8-596c-4446-b9f8-3aaceb1bc64b?source=agent)
+- [PowerPoint](https://assets-cdn.moda.app/mcp-exports/6fc130f8-596c-4446-b9f8-3aaceb1bc64b/vcrdt-198d7ebd445879f015eeff7785be5240/pptx-r2-f0-w1-all.pptx?Expires=1824358837&KeyName=mpwa&Signature=rQWtiGYYEnVApo9ZzZih1neRfQg)
+- [PDF](https://assets-cdn.moda.app/mcp-exports/6fc130f8-596c-4446-b9f8-3aaceb1bc64b/vcrdt-198d7ebd445879f015eeff7785be5240/pdf-r3-f0-w1-all.pdf?Expires=1824358811&KeyName=mpwa&Signature=5fEFgUJy6JKocj9PPBzEQjaz2PM)
+- [Metadata và kiểm tra](../moda/f02-report-v1.json) · [Nguồn ảnh và credit](../references/f02-visual-sources.md)
 
-Freud burgundy, nền sáng, nhãn chữ cùng màu; không dùng tảng băng với tỷ lệ diện tích hoặc phần trăm giả. Caption cần nêu đây là bản đồ khái niệm, không mô hình giải phẫu hay bằng chứng thực nghiệm. Nguồn: S1–S5, phạm vi locator tại mục L.
+PDF có một trang được xuất dạng ảnh, chữ trên trang đó không chọn hoặc tìm kiếm được. Các link xuất có thể hết hạn; dùng canvas trên để xuất lại, không tạo canvas trùng. Chưa lưu binary/hình minh họa cục bộ vào repository; phần trực quan hiện truy cập qua canvas và bản xuất. Review nội dung ở mức reviewed-with-limitations, không tự coi toàn bộ Definition of Done đã đạt.
 
 ## J. Key Takeaways — Những điểm cần nhớ
 
@@ -209,3 +233,6 @@ Ngày kiểm: 2026-10-24. Chi tiết truy vấn, quyền truy cập và claim le
 - [S3] Freud Museum London. *What is the Unconscious?*, không ghi năm trên trang đọc. https://www.freud.org.uk/schools/resources/what-is-the-unconscious/. Đã đọc các phần “A dynamic unconscious” và “Characteristics of the unconscious”; nguồn giải thích theo trường phái, không bằng chứng thực nghiệm độc lập.
 - [S4] Kihlstrom, J. F. (1987). *The cognitive unconscious*. Science, 237(4821), 1445–1452. https://doi.org/10.1126/science.3629249. Bản tác giả liên kết tại https://www.ocf.berkeley.edu/~jfkihlstrom/UcsMindMaster.htm; PDF https://www.ocf.berkeley.edu/~jfkihlstrom/PDFfiles/ScienceCogUncog.pdf. Đã xem screenshot trang đầu và abstract/metadata; chưa đọc toàn văn 9 trang. Chỉ dùng phân biệt khái niệm và phạm vi tổng quan, không dùng số liệu cụ thể.
 - [S5] Newell, B. R., & Shanks, D. R. (2014). *Unconscious influences on decision making: A critical review*. Behavioral and Brain Sciences, 37(1), 1–19. https://doi.org/10.1017/S0140525X12003214. Bản tác giả qua UCL Discovery: https://discovery.ucl.ac.uk/id/eprint/1419217/. Đã đọc abstract và các đoạn mục 1.2/Table 1 về tiêu chí đánh giá awareness ở tr. PDF 8–9 (số trang hiển thị trong bản thảo 9–10), chưa đọc toàn bộ PDF 72 trang. Không trình bày như đồng thuận hiện đại toàn lĩnh vực.
+
+- [S6] Kiefer, M., & Kammer, T. (2024). *The Relation Between Subjective and Objective Measures of Visual Awareness: Current Evidence, Attempt of a Synthesis and Future Research Directions*. Journal of Cognition, 7(1), 59. https://doi.org/10.5334/joc.381. Đã đọc Abstract, mục 1–2, các đoạn mục 4–5 về hội tụ/khác biệt; không đọc và tái kiểm toàn bộ nghiên cứu gốc được review.
+- [S7] Hernández-Gutiérrez, D., Sorrel, M. A., Shanks, D. R., & Vadillo, M. A. (2025). *The Conscious Side of ‘Subliminal’ Linguistic Priming: A Systematic Review With Meta-Analysis and Reliability Analysis of Visibility Measures*. Journal of Cognition, 8(1), 13. https://doi.org/10.5334/joc.419; https://pmc.ncbi.nlm.nih.gov/articles/PMC11720476/. Đã đọc Abstract, phần mở đầu và “Masked Syntactic Priming”; lần tìm lại trang PMC bị CAPTCHA. Chưa thẩm định toàn bộ phân tích, không dùng effect size hoặc mở rộng kết luận ngoài nhiệm vụ này.

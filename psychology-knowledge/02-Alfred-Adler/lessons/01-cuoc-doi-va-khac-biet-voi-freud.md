@@ -4,12 +4,12 @@ title: Cuộc đời Adler và sự khác biệt với Freud
 topic: khac
 date: 2026-10-24
 status: drafted
-review_status: pending
-visual_status: not-started
+review_status: reviewed-with-limitations
+visual_status: exported
 ---
 # A01 — Cuộc đời Adler và sự khác biệt với Freud
 
-**Bản nháp đang chờ phản biện và hình Moda.** Đây là cửa vào Tâm lý học cá nhân (Individual Psychology), chưa phải bài chuyên khảo toàn bộ Adler. Câu hỏi trung tâm: nếu muốn hiểu một hành vi, ngoài việc hỏi nó bắt nguồn từ đâu, ta có thể hỏi nó đang hướng tới điều gì và diễn ra trong những quan hệ nào?
+**Đã có bản trình bày Moda và review nội dung với giới hạn.** Đây là cửa vào Tâm lý học cá nhân (Individual Psychology), chưa phải bài chuyên khảo toàn bộ Adler. Câu hỏi trung tâm: nếu muốn hiểu một hành vi, ngoài việc hỏi nó bắt nguồn từ đâu, ta có thể hỏi nó đang hướng tới điều gì và diễn ra trong những quan hệ nào? Kịch bản trình bày theo mẫu F01 v4 được lưu tại [a01-slides.json](../moda/a01-slides.json); canvas và bản xuất thật được liên kết tại mục I.
 
 ## Lưu ý
 
@@ -71,6 +71,12 @@ Hai người cùng chăm chỉ có thể đang theo đuổi những mục tiêu 
 ### 4. Cộng đồng không đồng nghĩa đám đông
 
 Mối quan tâm xã hội (social interest; *Gemeinschaftsgefühl*) gắn cách sống cá nhân với người khác. [S2, mục “Social Interest”] Trong bài nhập môn này, có thể hiểu đó là câu hỏi về sự hợp tác và đóng góp, nhưng không biến nó thành phép đo giá trị đạo đức của một con người. Người ít nói có thể đóng góp bền bỉ; người giao tiếp giỏi có thể thiếu hợp tác. Cũng không nên lấy việc một người không hòa nhập được vào môi trường phân biệt đối xử làm bằng chứng họ “thiếu social interest”.
+
+### Đọc một chương Adler qua bản chép điện tử
+
+Chương “Mind and Body” của *What Life Should Mean to You* trình bày thân và tâm như các mặt tương tác của đời sống, đồng thời đặt mục tiêu vào trung tâm diễn giải hành vi. Bản chép điện tử đọc trong phiên này còn có các khẳng định rất rộng rằng cảm xúc phù hợp mục tiêu và phong cách sống. [S8, các đoạn mở đầu và đoạn “Clearly enough, it is not the style of life alone…”] **Đây là lập trường lịch sử của tác giả, không phải kết luận khoa học đã được bài xác nhận.** Không nên làm Adler trở nên hiện đại hơn văn bản bằng cách chỉ giữ những câu mềm và bỏ những khẳng định quá rộng.
+
+Ngược lại, không được dùng những đoạn đó để nói người lo âu hay bị bệnh đang cố ý thao túng người khác. Cách diễn giải hướng đích có thể gợi câu hỏi về chức năng của hành vi; nó không chứng minh ý định có chủ ý, và cần được kiểm tra cạnh tranh với giải thích sinh học, học tập, kỹ năng và môi trường. Bản chép S8 không phải ảnh chụp ấn bản gốc; metadata năm/ấn bản trên trang không nhất quán, nên bài không tự gán số trang bản in hoặc nhận đã đối chiếu bản dịch với nguyên bản.
 
 ### So sánh với Freud: khác trọng tâm, không phải phủ định sạch nhau
 
@@ -145,19 +151,25 @@ Rohrer, Egloff và Schmukle (2015) phân tích các panel từ Mỹ, Anh và Đ�
 
 Kết quả này thách thức việc dùng thứ tự sinh để dự đoán chắc chắn những nét ấy. Nó không chứng minh mọi quan hệ gia đình đều không quan trọng, không kiểm định toàn bộ Adler và không mô tả từng người trong một gia đình cụ thể. Thiết kế quan sát cũng đòi hỏi thận trọng khi nói về nguyên nhân. Bài nhập môn chỉ dùng kết quả này trong đúng phạm vi, không đưa một nghiên cứu năm 2015 thành phán quyết cuối cùng của cả lĩnh vực.
 
+### Cập nhật trái chiều: HEXACO và quy mô anh chị em
+
+Một nghiên cứu khác của Ashton và Lee, xuất bản trực tuyến cuối năm 2024 và trong số PNAS năm 2025, báo cáo liên hệ giữa loại vị trí sinh, số anh chị em và một số chiều HEXACO, đặc biệt Honesty–Humility và Agreeableness. Phần abstract được lập chỉ mục cũng cho biết khác biệt theo vị trí sinh nhỏ hơn khi xem trong cùng quy mô anh chị em. [S9] Nguồn này mới được kiểm metadata và trích đoạn abstract qua tìm kiếm; lần mở toàn văn bị CAPTCHA/cookie, nên bài chưa đưa một đánh giá đầy đủ chất lượng hay con số hiệu ứng.
+
+S6 và S9 nhắc ta không nên viết “thứ tự sinh tuyệt đối không liên hệ gì” hoặc “đã chứng minh tính cách con đầu/con giữa”. Các nghiên cứu dùng thang đo, mẫu và cách phân tích khác nhau; HEXACO Agreeableness không được tự coi là cùng thang Big Five Agreeableness. Liên hệ trung bình trong một mẫu quan sát cũng không cho phép đoán từng cá nhân hoặc khẳng định số anh chị em gây ra một nét tính cách. Muốn đối chiếu sâu cần đọc toàn bộ S9, kiểm cấu trúc mẫu, quy mô gia đình và các giải thích thay thế; phần đó thuộc A11/A15.
+
 ### Ba cấp câu hỏi không được trộn
 
 | Cấp câu hỏi | Điều cần kiểm tra | Giới hạn của bài A01 |
 |---|---|---|
 | Lịch sử | Adler làm gì, viết gì, khi nào? | Có thể đối chiếu tư liệu, nhưng nguồn tiểu sử vẫn có lựa chọn và sai khác |
-| Lý thuyết | Mục tiêu, inferiority và social interest được định nghĩa/đo thế nào? | Có trích đoạn và nguồn diễn giải; chưa đọc toàn bộ tác phẩm gốc |
+| Lý thuyết | Mục tiêu, inferiority và social interest được định nghĩa/đo thế nào? | Có trích đoạn, nguồn diễn giải và một chương Adler qua bản chép điện tử; chưa đối chiếu toàn bộ tác phẩm/ấn bản gốc |
 | Hiệu quả ứng dụng | Can thiệp Adlerian nào, cho ai, so với gì, kết quả nào? | Chưa thực hiện tổng quan hiệu quả điều trị; không tuyên bố hiệu quả từ sự hấp dẫn của khung |
 
 Một kết quả ủng hộ việc học có mục tiêu hoặc hợp tác không tự xác nhận toàn bộ Individual Psychology. Ngược lại, một dự đoán thứ tự sinh không được hỗ trợ cũng không tự bác bỏ tất cả giá trị lịch sử hoặc mọi câu hỏi mà Adler đã đặt ra. Đơn vị đánh giá là **khẳng định cụ thể**, không phải chọn phe theo tên tác giả.
 
 ### Thiên lệch nguồn và giới hạn truy cập
 
-Các trang của viện Adler hữu ích để hiểu truyền thống tự diễn giải mình nhưng không phải đánh giá hiệu quả độc lập. Trong khảo sát này, một trang Bookshelf bị CAPTCHA và một số nguồn thư viện không mở được. Bài không dùng những trang chưa đọc để lấp phần bằng chứng. Nghiên cứu sinh–nhân cách S6 đọc được một phần toàn văn; dữ liệu và phụ lục chưa được tái phân tích. [Xem search log và claim ledger](../references/a01-research.md).
+Các trang của viện Adler hữu ích để hiểu truyền thống tự diễn giải mình nhưng không phải đánh giá hiệu quả độc lập. Trong khảo sát này, một trang Bookshelf và toàn văn S9 bị CAPTCHA/cookie; một số nguồn thư viện không mở được. Bài không dùng những trang chưa đọc để lấp phần bằng chứng. Nghiên cứu sinh–nhân cách S6 đọc được một phần toàn văn; dữ liệu và phụ lục chưa được tái phân tích. [Xem search log và claim ledger](../references/a01-research.md).
 
 ## H. Practical Applications — Cách dùng để hiểu mà không áp đặt
 
@@ -169,13 +181,18 @@ Các trang của viện Adler hữu ích để hiểu truyền thống tự di�
 
 Những điểm trên là giới hạn vận dụng thận trọng do bài đề xuất. Chúng không phải một phác đồ trị liệu Adlerian và không bảo đảm kết quả cho mọi người.
 
-## I. Visual Explanation — Brief chờ phiên chính thiết kế Moda
+## I. Visual Explanation — Bản trình bày Moda
 
-**Trạng thái: not-started.** Chưa có canvas hoặc hình; bản nháp chưa đạt yêu cầu trực quan. Không có liên kết ảnh giả.
+**Trạng thái: exported.** Đã dựng 38 slide theo mẫu F01 v4 và kiểm render toàn bộ trong phiên sản xuất.
 
-Đề xuất hình “Cùng một hành vi, nhiều câu hỏi”: phía trái là trục lịch sử với các mốc 1895, 1907, 1911 và 1927; phía phải là chuỗi “nhiệm vụ → ý nghĩa được gán → mục tiêu giả định → chiến lược trong quan hệ → phản hồi”. Bên dưới đặt một nhánh riêng “kỹ năng / nguồn lực / hoàn cảnh” để không biến giả thuyết tâm lý thành giải thích duy nhất.
+Dòng thời gian song song và các sơ đồ tình huống–ý nghĩa–mục tiêu giúp so sánh Adler với Freud. Mũi tên diễn tả cách đặt giả thuyết, không khẳng định nhân quả hoặc suy động cơ từ một hành vi.
 
-Mũi tên phải ghi “mô hình diễn giải được đề xuất”, không ám chỉ cơ chế đã xác nhận. Bảng so sánh nhỏ dùng nhãn “trọng tâm được chọn”, không “Freud chỉ quá khứ / Adler chỉ tương lai”. Palette teal `#126B60`, nền sáng và chữ tiếng Việt dễ đọc theo DESIGN-SYSTEM. Nguồn nội dung: S1, S3–S5; giới hạn bằng chứng đối chiếu S6. Caption và alt text sẽ hoàn thiện sau khi xem hình thật.
+- [Canvas Moda](https://moda.app/canvas/c53e3ca8-b9de-4fb8-8506-65caf8644eed?source=agent)
+- [PowerPoint](https://assets-cdn.moda.app/mcp-exports/c53e3ca8-b9de-4fb8-8506-65caf8644eed/vcrdt-1cab8c3a19b9006a32dd192e06cecfb6/pptx-r2-f0-w1-all.pptx?Expires=1824358987&KeyName=mpwa&Signature=1EMrL2RsF2q9djOQ55JFjVBCWY4)
+- [PDF](https://assets-cdn.moda.app/mcp-exports/c53e3ca8-b9de-4fb8-8506-65caf8644eed/vcrdt-1cab8c3a19b9006a32dd192e06cecfb6/pdf-r3-f0-w1-all.pdf?Expires=1824359008&KeyName=mpwa&Signature=FdK4qswR1OGRzUrfbAdUWz1t3Ws)
+- [Metadata và kiểm tra](../moda/a01-report-v1.json) · [Nguồn ảnh và credit](../references/a01-visual-sources.md)
+
+PDF có một trang được xuất dạng ảnh, chữ trên trang đó không chọn hoặc tìm kiếm được. Các link xuất có thể hết hạn; dùng canvas trên để xuất lại, không tạo canvas trùng. Chưa lưu binary/hình minh họa cục bộ vào repository; phần trực quan hiện truy cập qua canvas và bản xuất. Review nội dung ở mức reviewed-with-limitations, không tự coi toàn bộ Definition of Done đã đạt.
 
 ## J. Key Takeaways — Tám ý trọng tâm
 
@@ -186,7 +203,7 @@ Mũi tên phải ghi “mô hình diễn giải được đề xuất”, không
 5. Social interest không đồng nghĩa hướng ngoại, và không nên dùng làm nhãn đánh giá đạo đức người gặp khó khăn.
 6. Đọc Adler đối chiếu Freud cần chỉ rõ tác phẩm và giai đoạn, tránh khẩu hiệu đối lập tuyệt đối.
 7. Thứ tự sinh không phải bản mô tả nhân cách đã được chứng minh cho từng người.
-8. Lịch sử ảnh hưởng, độ hợp lý của một diễn giải và hiệu quả một trị liệu là ba câu hỏi cần bằng chứng khác nhau.
+8. Lịch sử ảnh hưởng, độ hợp lý của một diễn giải và hiệu quả một trị liệu là ba câu hỏi cần bằng chứng khác nhau. Kết quả 2015 và nghiên cứu HEXACO 2025 cần đọc theo phép đo và mẫu, không biến thành định mệnh cá nhân.
 
 ## K. Knowledge Check — Năm câu hỏi có giải thích
 
@@ -221,3 +238,6 @@ Locator là tên phần hoặc đoạn trên trang đã đọc, không giả là
 - [S5] Freud, S. (1910). *The Origin and Development of Psychoanalysis*, Lecture II. American Journal of Psychology, 21, 181–218 (toàn chuỗi), bản HTML York University. https://psychclassics.yorku.ca/Freud/Origin/origin2.htm. Đã đọc các đoạn về hypnosis, resistance, repression và xung đột; chỉ dùng để định vị trọng tâm của văn bản này.
 - [S6] Rohrer, J. M., Egloff, B., & Schmukle, S. C. (2015). *Examining the effects of birth order on personality*. PNAS, 112(46), 14224–14229. https://doi.org/10.1073/pnas.1506451112. Bản PDF đọc được tại https://web.math.princeton.edu/~sswang/literature_general_unsorted/PNAS-2015-Rohrer-14224-9.pdf, abstract và trang 14224–14225; chưa đọc/kiểm toàn bộ phụ lục hoặc tái phân tích dữ liệu.
 - [S7] AdlerPedia. *Understanding human nature*, hồ sơ thư mục ghi tác giả Alfred Adler và năm 1927. https://www.adlerpedia.org/bibliographies/understanding-human-nature-9/. Chỉ metadata từ tìm kiếm, không nhận đã đọc toàn bộ sách; dùng để đối chiếu tên tiếng Anh, không làm bằng chứng cơ chế.
+
+- [S8] Adler, A. *What Life Should Mean to You*, Chapter 2, “Mind and Body”, bản chép điện tử Marxists Internet Archive. https://www.marxists.org/reference/subject/philosophy/works/at/adler.htm. Đã đọc các đoạn đầu và phần về feelings/style of life. Trang ghi heading 1931 nhưng dòng nguồn đồng thời nêu 1933/1932; không xác định chính xác ấn bản dùng, chưa đối chiếu bản chụp in/nguyên bản Đức. Là văn bản tác giả qua người chép/biên tập, không nghiên cứu thực nghiệm.
+- [S9] Ashton, M. C., & Lee, K. (2025; online 23-12-2024). *Personality differences between birth order categories and across sibship sizes*. PNAS, 122(1), e2416709121. https://doi.org/10.1073/pnas.2416709121; https://pubmed.ncbi.nlm.nih.gov/39715437/. Chỉ metadata và trích đoạn abstract được lập chỉ mục từ tìm kiếm; không nhận đã đọc toàn văn hoặc kiểm bảng/phụ lục.

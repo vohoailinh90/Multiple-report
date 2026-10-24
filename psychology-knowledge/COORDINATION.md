@@ -37,3 +37,71 @@ Ba phiên đã chạy đồng thời và đã bàn giao đủ hai file/phiên, k
 Tự kiểm A–L và link của các phiên đã đạt; đây chưa là review độc lập. Ba bài vẫn drafted/pending/not-started, chưa đủ Definition of Done. Chưa sản xuất đại trà theo mẫu chưa được người dùng phản hồi. Bước tiếp sau phản hồi mẫu: sửa chuẩn nếu cần, review độc lập ba draft, bổ sung nguồn còn thiếu và Moda tuần tự; chỉ giao tiếp batch kế khi chất lượng đã kiểm.
 
 Review mẫu F01 đã hoàn tất hai vòng trong phạm vi đã nêu, không còn finding chưa xử lý; giữ drafted/reviewed-with-limitations, chờ người dùng xem. Xem [biên bản](01-Sigmund-Freud/references/f01-review.md).
+
+
+## Batch 2 — sau khi duyệt mẫu v4 (2026-10-24)
+
+Người dùng xác nhận “file mẫu này ok rồi” và yêu cầu điều phối ba phiên làm các bài tiếp theo. Mẫu thiết kế hiện hành là F01 v4, canvas https://moda.app/canvas/53a95d71-d2f0-4013-ad6c-7d526ff19027?source=agent. Đây là duyệt mẫu, không phải duyệt merge PR hoặc công nhận toàn bộ curriculum hoàn thành.
+
+Ba phiên được kích hoạt lại đồng thời, mỗi phiên hoàn thiện bài đã có từ vòng đầu và tạo kịch bản slide để tránh bỏ dở draft:
+
+| Phiên | Bài | Phạm vi ghi bổ sung | Bàn giao cần có |
+|---|---|---|---|
+| freud_session | F02 — Conscious, Preconscious, Unconscious | Hai file F02 nêu trên và Freud/moda/f02-slides.json | Bài A–L, research ledger, kịch bản khoảng 30–40 slide |
+| adler_session | A01 — Cuộc đời Adler và khác biệt Freud | Hai file A01 nêu trên và Adler/moda/a01-slides.json | Bài A–L, research ledger, kịch bản khoảng 30–40 slide |
+| jung_session | J01 — Cuộc đời Jung và quan hệ Freud | Hai file J01 nêu trên và Jung/moda/j01-slides.json | Bài A–L, research ledger, kịch bản khoảng 30–40 slide |
+
+Mỗi phiên chỉ ghi ba file được giao; không Git/commit/branch/push, không dùng Moda. Kịch bản cần body giải thích, cấu trúc sơ đồ, nguồn và visual brief theo từng slide; ảnh tìm được phải có URL/credit/trạng thái giấy phép, không gán quyền chưa kiểm. Freud Burgundy, Adler Teal, Jung Indigo; emoji và icon theo mẫu vừa duyệt. Không ép số slide nếu làm giảm chiều sâu.
+
+Phiên chính phụ trách tích hợp, review độc lập, xử lý findings, dựng Moda tuần tự và xuất PDF/PPTX. Trạng thái tại lúc giao: cả ba đã được gửi tác vụ; chưa có kết quả batch 2. Bài vẫn drafted/review pending/visual not-started cho đến khi kiểm xong. Agent kết thúc lượt không đồng nghĩa tự chạy nền liên tục. Không merge.
+
+
+## Giao sản xuất deck cho phiên khác — 2026-10-24
+
+Theo yêu cầu trực tiếp mới của người dùng, phiên `presentation_production` được khởi động để dùng Moda dựng và xuất đủ PPTX/PDF cho F02, A01, J01. Yêu cầu này ủy quyền riêng cho phiên đó dùng Moda, thay quy tắc chỉ phiên chính dùng Moda trong phạm vi ba deck; không sửa AGENTS/CLAUDE và không khởi động VPS team.
+
+Đầu vào: ba kịch bản 37/38/40 slide và bài học/research tương ứng; chuẩn F01 v4 đã duyệt. Không brand kit; màu Burgundy/Teal/Indigo. Đầu ra: ba canvas mới, sáu bản xuất thật, metadata `<id>-report-v1.json` và nguồn ảnh `<id>-visual-sources.md`; lưu visual chỉ khi tải thật thành công. Giữ nội dung đầy đủ, nguồn, sơ đồ đa dạng, ảnh tư liệu đúng ngữ cảnh, emoji/icon như mẫu. Phải xem render, sửa lỗi và nêu cảnh báo xuất.
+
+Phiên sản xuất không Git/branch/commit/push, không sửa bài học, tài liệu nghiên cứu hoặc file chung. Phiên chính giữ tích hợp và PR. Trạng thái lúc giao: đã kích hoạt agent, chưa có bản xuất; không coi là đã hoàn thành.
+
+
+### Cập nhật phân công: một phiên cho một bài
+
+Người dùng yêu cầu tách ba bài thành ba phiên. Đã tạm dừng phiên sản xuất chung và đổi phạm vi; phiên đó xác nhận chưa tạo canvas/task/file A01 hoặc J01 nên không có việc trùng.
+
+| Agent | Phạm vi duy nhất | Đầu ra |
+|---|---|---|
+| presentation_production | F02 — Freud | Canvas, PPTX, PDF; f02-report-v1.json và nguồn ảnh |
+| adler_presentation | A01 — Adler | Canvas, PPTX, PDF; a01-report-v1.json và nguồn ảnh |
+| jung_presentation | J01 — Jung | Canvas, PPTX, PDF; j01-report-v1.json và nguồn ảnh |
+
+Ba phiên được phép dùng Moda cho canvas riêng theo yêu cầu mới, không ghi chéo file, không thao tác Git. Phiên chính giữ tích hợp/review/PR. Các phân công một phiên làm ba deck phía trên được thay thế bởi bảng này.
+
+
+## Sổ giữ việc chống trùng — batch deck F02/A01/J01
+
+Nguồn quy trình đã đọc ngày 2026-10-24:
+- Template: https://github.com/vohoailinh90/claude-agent-routing-template/blob/main/.claude/skills/codex-lane/SKILL.md
+- Giao thức chống yêu cầu trùng, một yêu cầu đang chạy và xác minh đầu ra: https://github.com/vohoailinh90/claude-agent-routing-template/blob/main/docs/claude-to-codex.md (mục 6, 11, 14, 16).
+- Điều phối nội bộ repo: ../docs/dieu-phoi.md. Công cụ claims.py dành cho hệ L cũ; bảng này giữ mã F/A/J trong psychology-knowledge, không giả nhận đã có khóa máy hay khóa liên phiên trên remote.
+
+Các agent ở đây là subagent Codex nội bộ do người dùng chỉ định, không phải yêu cầu Codex Cloud qua GitHub. Không tạo thêm yêu cầu Cloud IMPLEMENT cho cùng ba deck. Quy tắc marker/round Cloud chỉ áp dụng khi thực sự gửi lệnh Cloud; kiểm tra request đang chờ và head trước khi xin review PR. Quyền ba phiên dùng Moda là chỉ định mới; không tự merge.
+
+| Task ID | Bài | Chủ duy nhất | Trạng thái gần nhất | Canvas giữ chỗ | File bàn giao |
+|---|---|---|---|---|---|
+| PSY-DECK-F02-V1 | F02 | presentation_production | Đã xuất PPTX/PDF, đủ 37 trang; chờ tích hợp PR | https://moda.app/canvas/6fc130f8-596c-4446-b9f8-3aaceb1bc64b?source=agent | 01-Sigmund-Freud/moda/f02-report-v1.json |
+| PSY-DECK-A01-V1 | A01 | adler_presentation | Đã xuất PPTX/PDF, đủ 38 trang; chờ tích hợp PR | https://moda.app/canvas/c53e3ca8-b9de-4fb8-8506-65caf8644eed?source=agent | 02-Alfred-Adler/moda/a01-report-v1.json |
+| PSY-DECK-J01-V1 | J01 | jung_presentation | Đã xuất PPTX/PDF, đủ 40 trang; chờ tích hợp PR | https://moda.app/canvas/6ee47b5e-532d-454e-b480-3f5cfc87fa7e?source=agent | 03-Carl-Gustav-Jung/moda/j01-report-v1.json |
+
+Chỉ phiên chính sửa sổ này. Không nhận lại bài có chủ đang làm. Khi gián đoạn, kiểm trạng thái agent, file bàn giao, canvas và task export trước khi khởi động lại; tiếp tục trên canvas đã ghi. Ghi rõ bàn giao/blocked/done và chứng cứ trước khi đổi chủ. Chỉ bàn giao xong khi có hai URL xuất thật hoặc lỗi công cụ được ghi rõ. Không coi agent biến mất là bài đã xong.
+
+Sau khi đủ ba bàn giao: phiên chính tích hợp, review độc lập, chạy kiểm tra nội dung/JSON/link và kiểm tra repo; mở một PR batch mới trên branch riêng với base là branch mẫu hiện hành nếu PR mẫu chưa merge. PR phải ghi 3 bài, canvas, nguồn, kết quả review, giới hạn và việc tiếp theo; không tạo PR trùng nếu batch đã có PR. Trước khi review Cloud kiểm comment/head để tránh yêu cầu trùng. PR không được tự merge.
+
+
+### Bàn giao batch và trạng thái hiện hành
+
+Cả ba task PSY-DECK-F02-V1, PSY-DECK-A01-V1, PSY-DECK-J01-V1 đã bàn giao hai bản xuất complete và metadata; không giao lại hoặc tạo canvas mới. F02 37 trang, A01 38 trang, J01 40 trang. Mỗi phiên đã xem toàn bộ render. A01 đã loại ảnh phù điêu chưa đối chiếu provenance. Link tải nằm tại [DELIVERABLES.md](DELIVERABLES.md); các URL canvas trong bảng giữ việc là bản hiện hành.
+
+Reviewer độc lập không thấy finding học thuật nghiêm trọng; ghi nhận và sửa trạng thái trước sản xuất trong mục I/front matter/research. Xem [biên bản review](BATCH-02-REVIEW.md). Giữ drafted/reviewed-with-limitations/exported, không tính hoàn thành toàn bộ Definition of Done. Chưa lưu binary cục bộ vì download bị chặn; không có file giả. Mỗi PDF có một trang rasterized, PPTX không cảnh báo.
+
+Kiểm tích hợp: đủ A–L/37–38–40 slide/markup/export URLs/link nội bộ và trạng thái; 122 unit tests pass; claims.py check --merge-ready pass (hệ cũ, không chứng nhận học thuật); git diff --check pass. Branch PR: psychology/batch-02-three-decks, base psychology/sample-and-coordination (PR #36 chưa merge). Chỉ phiên chính tạo/cập nhật PR của batch, kiểm PR đang có trước mỗi lần tạo. Không tự merge.

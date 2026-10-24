@@ -609,7 +609,9 @@ def board_problems(text: str) -> list[str]:
 def check_problems(root: Path, merge_ready: bool = False) -> list[str]:
     problems: list[str] = []
     lessons = root / "lessons"
-    for path in sorted(lessons.glob("L*.claim.json")) if lessons.is_dir() else []:
+    claim_files = sorted(path for path in lessons.glob("*.claim.json") if LESSON_ID.fullmatch(path.name.split(".", 1)[0])) \
+        if lessons.is_dir() else []
+    for path in claim_files:
         lesson, name = path.name.split(".", 1)[0], str(path.relative_to(root))
         found = holding(lesson, path.read_text(encoding="utf-8"), "local")
         problems += [f"{name}: {item}" for item in found.problems]

@@ -6,6 +6,7 @@ import contextlib
 import datetime as dt
 import importlib.util
 import io
+import json
 import os
 import shutil
 import subprocess
@@ -471,6 +472,24 @@ class BoardTests(unittest.TestCase):
         four = three.replace("| other |", "| other |").replace(
             "\n| Other | table |", "| F03 | viết | `claude/lesson-F03` | chưa rõ | giao | 2026-10-24 |\n\n| Other | table |")
         self.assertTrue(any("limit is 3" in text for text in claims.board_problems(four)))
+
+    def test_course_claim_files_are_checked_like_the_general_series(self):
+        import tempfile
+        good = {"id": "F03", "status": "doing", "owner": "claude/lesson-F03", "claimed_at": "2026-10-24T08:00:00Z",
+                "heartbeat_at": "2026-10-24T08:00:00Z"}
+        for lesson_id in ("L03", "F03", "A02", "J02"):
+            with tempfile.TemporaryDirectory() as tmp:
+                root = Path(tmp)
+                (root / "lessons").mkdir()
+                record = {**good, "id": lesson_id}
+                (root / "lessons" / f"{lesson_id}.claim.json").write_text(json.dumps(record), encoding="utf-8")
+                self.assertTrue(any("still in progress" in text for text in claims.check_problems(root, merge_ready=True)), lesson_id)
+                self.assertEqual(claims.check_problems(root), [], lesson_id)
+                (root / "lessons" / f"{lesson_id}.claim.json").write_text("{not json", encoding="utf-8")
+                self.assertTrue(any("does not parse" in text for text in claims.check_problems(root)), lesson_id)
+                record["status"], record["done_at"] = "done", "2026-10-24T09:00:00Z"
+                (root / "lessons" / f"{lesson_id}.claim.json").write_text(json.dumps(record), encoding="utf-8")
+                self.assertTrue(any("lesson.md does not exist" in text for text in claims.check_problems(root)), lesson_id)
 
     def test_the_real_repository_passes_its_own_check(self):
         self.assertEqual(claims.check_problems(ROOT), [])

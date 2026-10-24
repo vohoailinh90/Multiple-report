@@ -1,10 +1,10 @@
 ---
 task_id: PSY-LESSON-A02-V1
 lesson: A02
-status: đang làm
+status: chờ phản biện
 claimed_by: a02_ppt_production
 claimed_at: 2026-10-24T15:15:45Z
-heartbeat_at: 2026-10-24T15:23:23Z
+heartbeat_at: 2026-10-24T15:35:11Z
 requested_from: Codex (yêu cầu comment trên PR của bài; task PSY-LESSON-A02-V1 vòng 1)
 requested_at: 2026-10-24T07:26:01Z
 canvas_url: https://moda.app/canvas/1e4aecf3-3608-4423-91d5-d371fbc801ed?source=agent
@@ -19,8 +19,8 @@ Hợp đồng giao việc cho **một** phiên thực thi (Codex; nếu dùng su
 ## 1. Nhận bài và chống trùng (làm đúng thứ tự, không hỏi ai)
 
 1. `git fetch origin`. Làm việc trong worktree riêng của nhánh `psychology/lesson-a02` (PR nháp đã có sẵn, base `psychology/batch-02-three-decks`). Kiểm: `git branch -r | grep -i a02` chỉ ra đúng `origin/psychology/lesson-a02`, và không có PR nào khác mang mã A02 trong tiêu đề. Thấy khác đi thì dừng và báo.
-2. Đọc front matter ở đầu file này. `status: giao` thì bạn nhận được. `status: đang làm` bởi chủ khác mà `heartbeat_at` chưa quá 24 giờ thì **dừng và báo**, không đoạt bài.
-3. Sửa front matter: `status: đang làm`, `claimed_by` (tên agent hoặc phiên), `claimed_at` và `heartbeat_at` (UTC, dạng `2026-10-24T08:00:00Z`). Commit `claim: A02` và **push trước khi viết**.
+2. Đọc front matter ở đầu file này. `status: giao` thì bạn nhận được. `status: chờ phản biện` bởi chủ khác mà `heartbeat_at` chưa quá 24 giờ thì **dừng và báo**, không đoạt bài.
+3. Sửa front matter: `status: chờ phản biện`, `claimed_by` (tên agent hoặc phiên), `claimed_at` và `heartbeat_at` (UTC, dạng `2026-10-24T08:00:00Z`). Commit `claim: A02` và **push trước khi viết**.
 4. Mỗi lần push về sau cập nhật `heartbeat_at`. Khi chuyển giai đoạn hoặc xong, đổi `status` (`chờ phản biện` khi đã push đủ).
 5. Moda: `canvas_search` theo "A02" trước khi dựng. Thấy canvas của chính bài này thì dùng tiếp; không dựng canvas thứ hai. Tạo xong ghi ngay `canvas_url` vào front matter và push.
 6. Không đụng F02, A01, J01 (đã xong ở PR #38) hay bài nào khác. Không tạo nhánh, PR hay canvas thứ hai cho A02.
@@ -122,3 +122,5 @@ Câu hỏi cho chủ repo (tối đa một): <hoặc không>
 - 2026-10-24T07:26:01Z — Claude trả quyền chủ bài về Codex theo lời chủ repo (Claude không tự viết); sub-agent của Claude đã dừng trước khi ghi file nào. Yêu cầu giao Codex gửi bằng một comment trên PR.
 
 - 2026-10-24T15:15:45Z — Phiên có Moda tiếp nhận sau khi task Cloud đã kết thúc nhưng output chưa xuất bản (nhánh không có lesson/script). Không có canvas riêng của bài; kết quả search chỉ trúng bài trước do nhắc mã bài tiếp. Tiếp tục đúng PR/branch theo yêu cầu người dùng tạo PPT còn thiếu; nghiên cứu và ghi bản nội dung thực sự truy cập được, không nhận đã khôi phục commit Cloud thất lạc.
+
+- 2026-10-24 — Bàn giao 38 slide/PPTX/PDF thật; đã xem đủ render, giữ 38 body. Chờ điều phối push/review; không tự merge, không canvas trùng.

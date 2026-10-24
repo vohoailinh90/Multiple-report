@@ -3,7 +3,7 @@
   "subtitle": "Con người, ý nghĩa và bối cảnh",
   "status": "drafted",
   "review_status": "pending",
-  "visual_status": "not-started",
+  "visual_status": "exported",
   "design_system": "F01 v4 / A01 · Teal/Cream · no brand kit",
   "source_lesson": "../lessons/02-individual-psychology-va-quan-diem-toan-the.md",
   "slides": [
@@ -882,12 +882,46 @@
       "visual_brief": "Teal/cream; sơ đồ minh họa khái niệm, không dữ liệu thực nghiệm. Giữ body đầy đủ; chữ ≥30 px cho nội dung; icon/emoji theo phần."
     }
   ],
-  "canvas_ref": null,
-  "canvas_url": null,
-  "exports": [],
-  "presentation_status": "script-ready",
+  "canvas_ref": "cvs_0Y9BPF6DG88GHS3NEKE7XWG0FD",
+  "canvas_url": "https://moda.app/canvas/1e4aecf3-3608-4423-91d5-d371fbc801ed?source=agent",
+  "exports": {
+    "pptx": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "96b008ea-9fa7-4605-9a7e-499d730881a2",
+      "url": "https://assets-cdn.moda.app/mcp-exports/1e4aecf3-3608-4423-91d5-d371fbc801ed/vcrdt-76d0a9167d8453e97f078d844ef15eb8/pptx-r2-f0-w1-all.pptx?Expires=1824391923&KeyName=mpwa&Signature=b2x_9qFvDJ2SaFefijXtMbk6Vrg",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "b5cf3130-7872-4915-a7c7-46d955af6e96",
+      "url": "https://assets-cdn.moda.app/mcp-exports/1e4aecf3-3608-4423-91d5-d371fbc801ed/vcrdt-d51efb27fb2cc42cb28ec13dcde75ed3/pdf-r3-f0-w1-all.pdf?Expires=1824391945&KeyName=mpwa&Signature=PI-wyUdImGS4jRT8ivXePbqqd_Y",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  },
+  "presentation_status": "exported",
   "production_notes": [
     "Bản nghiên cứu/viết thực tế ở phiên có Moda, không khôi phục output Cloud chưa xuất bản.",
-    "38 slides, body đi cùng sơ đồ."
+    "38 slides, body đi cùng sơ đồ.",
+    "Đã xem đủ 38 trang; thêm emoji 37 header và kiểm lại 3 trang; body giữ nguyên 38/38 trên canvas.",
+    "PPTX không cảnh báo; PDF một trang rasterized; chưa lưu binary cục bộ."
   ]
 }

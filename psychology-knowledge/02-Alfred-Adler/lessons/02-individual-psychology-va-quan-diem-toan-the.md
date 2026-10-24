@@ -4,8 +4,8 @@ title: Individual Psychology và quan điểm toàn thể
 topic: khac
 date: 2026-10-24
 status: drafted
-review_status: pending
-visual_status: not-started
+review_status: reviewed-with-limitations
+visual_status: exported
 ---
 # A02 — Individual Psychology và quan điểm toàn thể
 
@@ -202,7 +202,14 @@ Một yêu cầu phù hợp có thể đi cùng hỗ trợ rõ ràng: tiêu chí
 
 Nút trung tâm là một con người trong tình huống cụ thể; các vòng bối cảnh chỉ phạm vi xem xét, không tầng giải phẫu hay cấp quyết định. Đường nối không mũi tên biểu diễn quan hệ cần khảo sát. Mũi tên có nhãn “giả thuyết” trong mô hình diễn tiến không khẳng định cơ chế đã xác nhận. Bản đồ do bài biên soạn, dựa trên nguyên tắc đọc toàn thể và các giới hạn phương pháp đã trình bày.
 
-**Brief trước sản xuất:** sơ đồ trung tâm “con người trong tình huống”, nối ba mặt trải nghiệm với các bối cảnh gia đình/nhóm/xã hội. Alt text: một cá nhân được đặt trong các quan hệ; đường nối không khẳng định nhân quả. Caption: “Bản đồ khái niệm dựa trên [S1–S3]; quan hệ giả định, không sơ đồ não.” Chưa có canvas tại thời điểm viết; sẽ cập nhật link thật sau xuất.
+**Thiết kế trực quan:** sơ đồ trung tâm “con người trong tình huống”, nối ba mặt trải nghiệm với các bối cảnh gia đình/nhóm/xã hội. Alt text: một cá nhân được đặt trong các quan hệ; đường nối không khẳng định nhân quả. Caption: “Bản đồ khái niệm dựa trên [S1–S3]; quan hệ giả định, không sơ đồ não.” Đã dựng 38 slide trên Moda theo mẫu F01v4/A01 và xem render đủ 38 trang.
+
+- [Canvas Moda](https://moda.app/canvas/1e4aecf3-3608-4423-91d5-d371fbc801ed?source=agent)
+- [PowerPoint](https://assets-cdn.moda.app/mcp-exports/1e4aecf3-3608-4423-91d5-d371fbc801ed/vcrdt-76d0a9167d8453e97f078d844ef15eb8/pptx-r2-f0-w1-all.pptx?Expires=1824391923&KeyName=mpwa&Signature=b2x_9qFvDJ2SaFefijXtMbk6Vrg)
+- [PDF](https://assets-cdn.moda.app/mcp-exports/1e4aecf3-3608-4423-91d5-d371fbc801ed/vcrdt-d51efb27fb2cc42cb28ec13dcde75ed3/pdf-r3-f0-w1-all.pdf?Expires=1824391945&KeyName=mpwa&Signature=PI-wyUdImGS4jRT8ivXePbqqd_Y)
+- [Metadata và kiểm tra](../moda/a02-report-v1.json) · [Nguồn ảnh](../references/a02-visual-sources.md)
+
+PDF có một trang rasterized, chữ trên trang đó không chọn/tìm được; link vẫn dùng được. Chưa lưu binary/hình minh họa cục bộ. Khi link xuất hết hạn, dùng đúng canvas trên để xuất lại, không tạo trùng.
 
 ## J. Key Takeaways — Tám điểm cần nhớ
 

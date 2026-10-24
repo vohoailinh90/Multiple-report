@@ -46,3 +46,8 @@ Không chốt năm ra đời/từ nguyên tiếng Latin từ trí nhớ. Không 
 ## Kiểm Stage1
 
 BàiA–L,3vídụ,1case,8takeaways,5Qgiảithích;38slides. Khôngcanvas/exporttại thờiđiểmviết. Trạngtháidrafted/pending/not-started. RootgiữGit vàreview.
+
+
+## Cập nhật sau sản xuất
+
+Các trạng thái not-started ở mục Stage1 là lịch sử tại thời điểm viết. Hiện đã có 38 slide, PPTX/PDF complete và canvas thật; xem [metadata](../moda/a02-report-v1.json) và [nguồn ảnh](a02-visual-sources.md). Body giữ nguyên 38/38, đã xem render mọi trang. Review học thuật/đối chiếu toàn bộ nguồn vẫn do điều phối tích hợp, chưa tự ghi complete. Không thao tác Git trong phiên con.

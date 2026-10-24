@@ -1,0 +1,1050 @@
+{
+  "title": "J01 · Cuộc đời Jung và mối quan hệ với Freud",
+  "subtitle": "Kịch bản học chi tiết theo F01 v4: lịch sử, nguồn tư liệu, cơ chế đề xuất và giới hạn suy luận",
+  "lesson_id": "J01",
+  "version": 1,
+  "status": "drafted",
+  "review_status": "pending",
+  "visual_status": "not-started",
+  "based_on": "01-Sigmund-Freud/moda/f01-report-v4.json — chỉ kế thừa cách trình bày, không tái sử dụng canvas IDs/exports",
+  "canvas_ref": null,
+  "canvas_url": null,
+  "exports": [],
+  "design_system": {
+    "style": [
+      "Academic Editorial",
+      "Psychology Textbook",
+      "Scientific Infographics",
+      "Modern Minimalism"
+    ],
+    "palette": {
+      "accent": "#493C89",
+      "secondary": "#6B59B5",
+      "dark": "#241F39",
+      "paper": "#FAF8F4",
+      "ink": "#20242A",
+      "cream": "#F5F0E6"
+    },
+    "font": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "page_size": [
+      1920,
+      1080
+    ],
+    "text_policy": "Đoạn giải thích hiện trên slide, nodes làm sơ đồ hỗ trợ; không rút nội dung thành nhãn rời. Kiểm dấu tiếng Việt, thu nhỏ và contrast khi dựng.",
+    "connectors": "Neo vào node; mũi tên lịch sử chỉ trình tự, cơ chế đề xuất có nhãn; không diễn tả causal proof nếu thiết kế nghiên cứu không hỗ trợ."
+  },
+  "emoji_headers": {
+    "A": "🎯",
+    "B": "🕰️",
+    "C": "🧠",
+    "D": "⚙️",
+    "E": "💬",
+    "F": "📋",
+    "G": "🔬",
+    "H": "🧭",
+    "I": "🗺️",
+    "J": "💡",
+    "K": "❓",
+    "L": "📚"
+  },
+  "icon_briefs": [
+    {
+      "name": "book-open",
+      "use": "Đọc và nguồn",
+      "status": "brief-only-not-uploaded"
+    },
+    {
+      "name": "mail",
+      "use": "Thư từ",
+      "status": "brief-only-not-uploaded"
+    },
+    {
+      "name": "layers",
+      "use": "Phân loại nguồn/cấp độ",
+      "status": "brief-only-not-uploaded"
+    },
+    {
+      "name": "route",
+      "use": "Trình tự học và đặt câu hỏi",
+      "status": "brief-only-not-uploaded"
+    },
+    {
+      "name": "search",
+      "use": "Kiểm chứng/giới hạn",
+      "status": "brief-only-not-uploaded"
+    }
+  ],
+  "assets": [
+    {
+      "key": "clark_group_1909",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Freud_at_Clark_University_in_1909.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Freud_at_Clark_University_in_1909.jpg",
+      "credit": "Schervee & Bushong, hội nghị Clark 1909; bản chụp lại từ ảnh tại Freud Museum Vienna do Kzirkel đưa lên Commons.",
+      "licensing_status": "Commons Licensing đã đọc: public domain tại Hoa Kỳ, xuất bản trước 1931; ghi theo nguồn, không tuyên bố quyền toàn cầu.",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Freud_at_Clark_University_in_1909.jpg#Licensing",
+      "verified_at": "2026-10-24",
+      "visual_inspection": "Đã xem file gốc qua web tool; ảnh nhóm hội nghị đông người, không phải ảnh sáu người.",
+      "use_status": "candidate-for-slide-6-not-imported",
+      "file_id": null
+    },
+    {
+      "key": "jung_portrait_hold",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/CGJung.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:CGJung.jpg",
+      "credit": "Tác giả/ngày không rõ; nguồn Ortsmuseum Zollikon; upload Adrian Michael theo Commons.",
+      "licensing_status": "HOLD: Commons có PD-life+70 và ghi cần bổ sung căn cứ public domain tại Hoa Kỳ; chưa xác lập PD-US. Không dùng trong bản xuất khi chưa giải quyết.",
+      "license_url": "https://commons.wikimedia.org/wiki/File:CGJung.jpg#Licensing",
+      "verified_at": "2026-10-24",
+      "visual_inspection": "Đã xem chân dung qua liên kết file gốc.",
+      "use_status": "candidate-hold-US-status-not-established",
+      "fallback": "Typographic profile, tên và mốc đời; không tạo ảnh giả như tư liệu thật.",
+      "file_id": null
+    }
+  ],
+  "slides": [
+    {
+      "title": "Jung: một cuộc đời,\nnhiều lớp nguồn",
+      "section": "J01 · BẢN HỌC CHI TIẾT",
+      "body": "Vì sao một cộng sự quan trọng của Freud phát triển một trường phái riêng? Bài này đi từ nền nghề nghiệp của Jung tới quan hệ cộng tác, quá trình chia tách và cách đọc nguồn. Điều cần học không chỉ là nhớ một năm: đó là phân biệt sự kiện được tư liệu ghi nhận, lời tự hiểu của tác giả và giả thuyết mà người viết tiểu sử đặt lên cuộc đời ấy.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Ai đã làm gì, trong bối cảnh nào?"
+        ],
+        [
+          "Nguồn",
+          "Thư, hồi tưởng và biên tập."
+        ],
+        [
+          "Giới hạn",
+          "Điều gì chưa thể suy ra?"
+        ]
+      ],
+      "layout": "cover",
+      "source": "J01 · B–G",
+      "note": "Bản nháp kịch bản theo F01 v4; không gắn chân dung chưa rõ quyền.",
+      "visual_brief": "Editorial split: nền indigo #241F39, chữ cream #F5F0E6; J01 rất lớn bên phải và ba dòng LỊCH SỬ / NGUỒN / KIỂM CHỨNG. Dùng profile typographic, không giả ảnh. Icon book-open nét mảnh; chỉ dùng ảnh candidate khi licensing đã giải quyết."
+    },
+    {
+      "title": "Bạn cần làm được gì sau bài này?",
+      "section": "🎯 A · LEARNING OBJECTIVES",
+      "body": "Bạn cần phân biệt các mốc thư từ, gặp mặt, đổ vỡ quan hệ và rút khỏi phong trào. Bạn cũng cần giải thích sự khác nhau giữa bất đồng học thuyết, căng thẳng quan hệ và thay đổi tổ chức. Khi gặp một câu chuyện rất thuyết phục về Jung, hãy hỏi nguồn xác nhận chính xác phần nào, phần nào vẫn là diễn giải và dữ liệu nào sẽ khiến cách hiểu thay đổi.",
+      "nodes": [
+        [
+          "01 · Định vị",
+          "Đặt đúng loại mốc lịch sử."
+        ],
+        [
+          "02 · Phân loại",
+          "Sự kiện ≠ tự thuật ≠ diễn giải."
+        ],
+        [
+          "03 · Đánh giá",
+          "Nguồn cho phép kết luận tới đâu?"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "J01 · A",
+      "note": "Không có yêu cầu phải chọn Jung hoặc Freud là người đúng toàn bộ. Câu hỏi về giá trị học thuyết cần giải quyết theo từng claim.",
+      "visual_brief": "Roadmap ba trạm không tuyến tính cứng: định vị, phân loại, đánh giá; mỗi trạm một icon compass/layers/search. Thanh footer nhỏ: giáo dục, không tự chẩn đoán. Accent violet #6B59B5."
+    },
+    {
+      "title": "Jung trước cuộc gặp Freud",
+      "section": "🕰️ B · NỀN NGHỀ NGHIỆP",
+      "body": "Jung là bác sĩ tâm thần Thụy Sĩ có môi trường nghề nghiệp và công việc nghiên cứu riêng trước khi cộng tác với Freud. Nếu bắt đầu tiểu sử bằng nhãn “học trò rồi nổi loạn”, ta sẽ vô tình biến mọi sự kiện trước đó thành đoạn mở đầu cho một cuộc chia tay. Bài chọn nhìn ngược lại: trước hết định vị câu hỏi chuyên môn, sau đó mới khảo sát quan hệ cộng tác.",
+      "nodes": [
+        [
+          "Y học",
+          "Nền đào tạo của một bác sĩ."
+        ],
+        [
+          "Burghölzli",
+          "Môi trường tâm thần học."
+        ],
+        [
+          "Câu hỏi riêng",
+          "Không bắt đầu từ việc phản đối Freud."
+        ]
+      ],
+      "layout": "profiles",
+      "source": "[S1] LOC, mở đầu · [S2] Philemon",
+      "note": "Đây là chỉnh cách tổ chức lịch sử, không khẳng định Jung hoàn toàn độc lập về ý tưởng. Độc lập nghề nghiệp và chịu ảnh hưởng có thể cùng tồn tại.",
+      "visual_brief": "Bố cục hồ sơ 2 cột: trái ba nhãn nghề nghiệp, phải trích ý giải thích; không dùng các hộp đồng dạng. Chân dung CGJung chỉ được ghi candidate-hold; mặc định thay bằng tên và năm 1875–1961."
+    },
+    {
+      "title": "Ba lớp bối cảnh trước phong trào",
+      "section": "🕰️ B · BỐI CẢNH",
+      "body": "Một cơ sở điều trị, một truyền thống nghiên cứu và một tập hợp câu hỏi tạo nên bối cảnh của một tác giả. Đặt Jung trong môi trường Burghölzli và quan hệ chuyên môn với Bleuler giúp ta tránh hình dung học thuyết xuất hiện như một trực giác cô lập. Tuy vậy, biết nơi một ý tưởng hình thành chưa đủ giải thích nó đúng hay sai; bối cảnh lịch sử và phép kiểm khoa học cần giữ riêng.",
+      "nodes": [
+        [
+          "Cơ sở",
+          "Nơi làm việc và người bệnh."
+        ],
+        [
+          "Phương pháp",
+          "Quan sát, liên tưởng, so sánh."
+        ],
+        [
+          "Diễn đàn",
+          "Cộng sự và trao đổi học thuật."
+        ]
+      ],
+      "layout": "branch",
+      "source": "[S1] LOC · [S2] Philemon · J01 B",
+      "note": "Không đưa kết quả word-association thành chẩn đoán complex; các vấn đề đo lường thuộc J19.",
+      "visual_brief": "Ba dải ngang có độ rộng khác nhau cùng neo vào chữ BỐI CẢNH; không vẽ cấu trúc não. Icon building/hospital, beaker, message-circle; chú giải: quan hệ bối cảnh, không mũi tên nhân quả."
+    },
+    {
+      "title": "1906–1909: nhiều cách để cộng tác",
+      "section": "🕰️ B · TIMELINE CỘNG TÁC",
+      "body": "Bắt đầu thư từ, gặp trực tiếp và xuất hiện cùng một diễn đàn là những loại sự kiện khác nhau. Cách đọc chính xác không ép chúng vào một thời điểm “bắt đầu quan hệ” duy nhất. Cũng không nên suy rằng cùng tham dự một hội nghị nghĩa là hai người đồng thuận với mọi mệnh đề của nhau. Dòng thời gian giúp định vị, còn nội dung đồng thuận phải được kiểm trong văn bản.",
+      "nodes": [
+        [
+          "1906",
+          "Thư từ và cộng tác."
+        ],
+        [
+          "1907",
+          "Gặp trực tiếp tại Vienna."
+        ],
+        [
+          "1909",
+          "Cùng dự hội nghị Clark."
+        ]
+      ],
+      "layout": "vertical",
+      "source": "[S1] Jung Meets Freud/Clark · [S2–S3]",
+      "note": "Phân biệt niên đại của hành vi với ý nghĩa được người kể gán cho hành vi ấy.",
+      "visual_brief": "Timeline dọc ba chấm bên trái, chú thích rộng bên phải; icon thư, đối thoại và nhóm người. Mũi tên mảnh chỉ thời gian. Ảnh Clark không bắt buộc ở trang này, dành trang sau để đọc ảnh đúng ngữ cảnh."
+    },
+    {
+      "title": "Ảnh hội nghị: tư liệu cho điều gì?",
+      "section": "🕰️ B · ĐỌC ẢNH CLARK 1909",
+      "body": "Một ảnh nhóm giúp đặt nhân vật vào một sự kiện và một mạng lưới người tham dự. Nó không đo mức độ thân thiết, không ghi toàn bộ đối thoại và không chứng minh đồng thuận lý thuyết. Với ảnh hội nghị đông người, chú thích cần đúng tập thể được chụp; không gọi nó là ảnh sáu người quen thuộc chỉ vì trong ảnh có Freud và Jung. Câu hỏi quan trọng là ảnh thực sự cho phép biết gì.",
+      "nodes": [
+        [
+          "Có thể thấy",
+          "Một nhóm người trong bối cảnh hội nghị."
+        ],
+        [
+          "Cần metadata",
+          "Ngày, người chụp, nơi lưu giữ."
+        ],
+        [
+          "Không thể thấy",
+          "Mọi quan điểm và động cơ riêng."
+        ]
+      ],
+      "layout": "dossier",
+      "source": "[S1] Clark · Asset clark_group_1909",
+      "note": "Ảnh ứng viên đã xem, có credit/licensing trong assets. Dùng toàn ảnh hoặc crop có kiểm; không gắn nhãn các khuôn mặt chưa nhận diện chắc chắn.",
+      "visual_brief": "Photo spread: ảnh Clark chiếm 55–60% trên/trái, giữ toàn nhóm; dưới/phải là ba chú giải. Credit nhỏ nhưng đọc được: Schervee & Bushong, 1909; bản chụp lại Kzirkel/Commons. Không dùng ảnh để minh họa cảm xúc thù địch hay thân mật."
+    },
+    {
+      "title": "1913 và 1914 không phải cùng một sự kiện",
+      "section": "🕰️ B · HAI ĐƯỜNG THỜI GIAN",
+      "body": "Một mốc có thể đánh dấu rạn nứt quan hệ cá nhân; mốc khác đánh dấu việc rút khỏi phong trào. Khi hai nguồn chọn năm khác nhau, bước đầu không phải quyết định ai sai mà là hỏi “chia tách” đang được định nghĩa theo nghĩa nào. Sau đó mới kiểm bằng thư, vai trò tổ chức và hoạt động thực tế. Định nghĩa đối tượng trước khi đối chiếu niên đại giúp tránh tranh luận giả.",
+      "nodes": [
+        [
+          "Quan hệ",
+          "Thư cuối 1912 và đầu 1913."
+        ],
+        [
+          "Tổ chức",
+          "Rút khỏi phong trào năm 1914."
+        ],
+        [
+          "Cách đọc",
+          "Nêu rõ loại mốc đang dùng."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S2] 1914 · [S4–S5] thư từ",
+      "note": "Không coi việc có thể phân loại hai mốc là ta đã giải thích được toàn bộ nguyên nhân cuộc chia tách.",
+      "visual_brief": "Hai swimlane ngang: QUAN HỆ và TỔ CHỨC, cùng trục 1912–1914; đường đứt giữa hai lane ghi liên hệ cần nghiên cứu. Không đặt một mũi tên lớn “Freud gây ra Jung”."
+    },
+    {
+      "title": "Thư Jung: lời phàn nàn là một loại dữ kiện",
+      "section": "🕰️ B · THƯ NGÀY 18-12-1912",
+      "body": "Đọc một bức thư trong xung đột, ta có thể xác nhận người viết đã đưa ra một lời phàn nàn. Nhưng việc lời phàn nàn xuất hiện chưa đủ để coi toàn bộ nội dung là đánh giá trung lập về người nhận. Cần đặt câu chữ trong trao đổi qua lại, xem nó đáp lại điều gì và kiểm các chi tiết bằng nguồn khác. Giọng điệu mạnh không thay cho phép kiểm sự việc.",
+      "nodes": [
+        [
+          "Người viết",
+          "Jung gửi Freud."
+        ],
+        [
+          "Điều có trong thư",
+          "Cáo buộc về cách đối xử với cộng sự."
+        ],
+        [
+          "Điều cần kiểm thêm",
+          "Mức đúng của cáo buộc trong từng sự kiện."
+        ]
+      ],
+      "layout": "dossier",
+      "source": "[S4] trang dịch 1–2",
+      "note": "Chỉ dẫn lại ý, không sao chép dài bản dịch còn bản quyền. Một lá thư là phát ngôn có mục đích, không máy ghi động cơ vô thức.",
+      "visual_brief": "Dossier nền giấy cream, một cột ngày/người nhận và một cột ba nhãn DỮ KIỆN / CÁO BUỘC / CẦN KIỂM. Icon mail; không dùng ảnh scan thư chưa kiểm quyền. Đường nối là quan hệ phát ngôn, không xác nhận cáo buộc."
+    },
+    {
+      "title": "Thư Freud: phản bác và đề nghị ngừng quan hệ",
+      "section": "🕰️ B · THƯ NGÀY 3-1-1913",
+      "body": "Phản hồi của người nhận là một phần cần đọc, thay vì để một phía kể toàn bộ câu chuyện. Trong bản dịch thư được trưng bày, Freud phủ nhận cáo buộc của Jung và đề nghị ngừng quan hệ cá nhân. Ta có thể ghi nhận việc đề nghị ấy được viết ra, đồng thời vẫn giữ mở câu hỏi về nguyên nhân, cách hai người hiểu sự việc và diễn biến tổ chức tiếp theo.",
+      "nodes": [
+        [
+          "Phản bác",
+          "Không mặc nhiên thừa nhận cáo buộc."
+        ],
+        [
+          "Hành động trong thư",
+          "Đề nghị ngừng quan hệ cá nhân."
+        ],
+        [
+          "Giới hạn",
+          "Không là toàn bộ lịch sử phong trào."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S5] trang dịch 2–3",
+      "note": "Lượt này đã đọc trang 3 qua loc.gov; chưa đọc trang 4 hoặc đối chiếu bản thảo tiếng Đức. Không dùng thuật ngữ bệnh lý trong thư để chẩn đoán ai.",
+      "visual_brief": "Hai cột: PHÁT NGÔN CÓ THỂ TRUY NGUỒN và KẾT LUẬN CHƯA ĐƯỢC BẢO LÃNH. Không dùng ảnh Freud như nhân vật phản diện. Chốt một dòng lớn: phản bác ≠ phán quyết của sử gia."
+    },
+    {
+      "title": "Một cuộc đời có nhiều lớp nguồn",
+      "section": "🕰️ B · PHÂN LOẠI TƯ LIỆU",
+      "body": "Thư đương thời, hồi tưởng và bài viết lịch sử trả lời những câu hỏi khác nhau. Thư gần sự kiện nhưng có người nhận và mục đích cụ thể. Hồi tưởng giúp hiểu cách tác giả nhìn lại đời mình, đồng thời đã qua khoảng cách thời gian. Công trình lịch sử tổ chức và đối chiếu tư liệu nhưng cũng có lựa chọn phạm vi. Không cần xếp một nguồn là tuyệt đối tốt để dùng nó đúng cách.",
+      "nodes": [
+        [
+          "Thư",
+          "Phát ngôn trong tình huống."
+        ],
+        [
+          "Hồi tưởng",
+          "Tự hiểu khi nhìn lại."
+        ],
+        [
+          "Lịch sử",
+          "Đối chiếu và tái dựng."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S3] ETH · [S6] Philemon · J01 B",
+      "note": "Các hàng không đại diện mức đúng/sai; trục là câu hỏi và khoảng cách nguồn.",
+      "visual_brief": "Ma trận 3 hàng × 3 cột: ai nói, gần sự kiện tới đâu, suy ra được gì. Mỗi loại có biểu tượng khác nhau và nhãn chữ, không chỉ màu. Dùng 3 dải indigo nhẹ thay mọi thứ trong card."
+    },
+    {
+      "title": "Memories, Dreams, Reflections: đọc cả quá trình biên tập",
+      "section": "🕰️ B · TỰ THUẬT QUA TRUNG GIAN",
+      "body": "Một tác phẩm có chất liệu tự thuật vẫn có thể có nhiều người góp vào việc thu thập, lựa chọn và tổ chức văn bản. Biết vai trò của Aniela Jaffé và quá trình biên tập không làm tác phẩm trở nên vô dụng. Nó khiến câu hỏi đọc thay đổi: đây là lời Jung tự viết, hồi tưởng trong phỏng vấn hay một cấu trúc được biên tập? Câu trả lời cần dựa trên hồ sơ xuất bản, không dựa vào bìa sách.",
+      "nodes": [
+        [
+          "Chất liệu",
+          "Ký ức, cuộc trò chuyện, bản viết."
+        ],
+        [
+          "Trung gian",
+          "Thu thập và biên tập."
+        ],
+        [
+          "Văn bản xuất bản",
+          "Một cách trình bày cuộc đời."
+        ]
+      ],
+      "layout": "sequence",
+      "source": "[S6] mô tả composition/protocols",
+      "note": "Chưa đọc toàn bộ protocols hoặc ấn bản mới; không khẳng định cụ thể mọi đoạn đã bị cắt hay tại sao.",
+      "visual_brief": "Pipeline ba khối có nhánh vào từ conversations và memoirs; nhãn biên tập trên connector. Một callout bên dưới: có trung gian ≠ vô giá trị. Không dùng icon công thức mô tả biến đổi như quy trình cơ học chắc chắn."
+    },
+    {
+      "title": "Sau chia tách: không chỉ là câu chuyện về Freud",
+      "section": "🕰️ B · GIAI ĐOẠN SAU",
+      "body": "Nếu một tiểu sử dừng ở cuộc chia tay, những công việc về sau sẽ bị nhìn như phản ứng kéo dài với người cũ. Cách đọc tốt hơn là khảo sát các câu hỏi, văn bản và bối cảnh mới. Jung tiếp tục làm việc với hình ảnh nội tâm và so sánh biểu tượng. Mỗi loại chất liệu lại cần được đánh giá riêng: tự thuật về trải nghiệm không phải phép kiểm có đối chứng cho một cơ chế chung.",
+      "nodes": [
+        [
+          "Trải nghiệm",
+          "Tư liệu nội tâm được ghi lại."
+        ],
+        [
+          "So sánh",
+          "Biểu tượng và văn hóa."
+        ],
+        [
+          "Cần phân loại",
+          "Nguồn gốc ý tưởng khác kiểm chứng."
+        ]
+      ],
+      "layout": "branch",
+      "source": "[S2] giai đoạn sau 1913 · [S9] mở đầu",
+      "note": "Không hướng dẫn thực hành active imagination và không coi trải nghiệm khác thường là tiên tri được xác nhận.",
+      "visual_brief": "Một nhánh trung tâm SAU CHIA TÁCH tỏa ra ghi chép, so sánh, viết lý thuyết; chân trang giới hạn cơ chế. Hình minh họa dùng book/pen icon, không tạo cảnh huyền bí hoặc ảnh “vô thức” như vật thể."
+    },
+    {
+      "title": "Lịch sử còn có cộng sự và nguồn lực",
+      "section": "🕰️ B · KHÔNG VIẾT LỊCH SỬ MỘT NGƯỜI",
+      "body": "Một trường phái hình thành trong quan hệ gia đình, công việc, trao đổi và nguồn lực. Vì thế, câu chuyện người sáng lập không nên che mất cộng sự hoặc công trình riêng của họ. Việc nhắc Emma Jung như một nhà phân tích có công việc nghiên cứu riêng mở thêm câu hỏi về mạng lưới tri thức. Đây không phải việc dùng hoàn cảnh gia đình để suy động cơ của mọi luận điểm, mà là mở rộng đối tượng lịch sử.",
+      "nodes": [
+        [
+          "Tác giả",
+          "Không phải đơn vị cô lập."
+        ],
+        [
+          "Cộng sự",
+          "Có đóng góp và công việc riêng."
+        ],
+        [
+          "Nguồn lực",
+          "Điều kiện để làm việc."
+        ]
+      ],
+      "layout": "branch",
+      "source": "[S9] The Jungs at Home near Zurich",
+      "note": "Không vẽ Emma như chỉ một nhánh phụ của Carl; hai hồ sơ ngang hàng, nhãn công việc riêng.",
+      "visual_brief": "Network không thứ bậc với Carl, Emma, cộng sự, cơ sở và văn bản. Connector ghi cộng tác/bối cảnh, không ghi ảnh hưởng nhân quả nếu chưa nguồn. Không thêm chân dung người khác chưa kiểm metadata và quyền."
+    },
+    {
+      "title": "Libido: cùng từ chưa chắc cùng nghĩa",
+      "section": "🧠 C · KHÁC BIỆT HỌC THUYẾT",
+      "body": "Một bất đồng quan trọng nằm ở cách dùng thuật ngữ và phạm vi giải thích. Jung muốn mở rộng nghĩa libido sang năng lượng tâm lý trong hướng tiếp cận của mình. Điều này không cho phép tóm Freud là “chỉ có tình dục” hoặc kết luận khái niệm rộng hơn tự nhiên đúng hơn. Khi so sánh, phải nêu văn bản, giai đoạn và điều thuật ngữ được dùng để giải thích; các nghĩa thay đổi cần được đọc riêng.",
+      "nodes": [
+        [
+          "Từ ngữ",
+          "Cùng nhãn libido."
+        ],
+        [
+          "Phạm vi",
+          "Có thể khác đối tượng giải thích."
+        ],
+        [
+          "Phép kiểm",
+          "Khái niệm rộng chưa chắc dễ kiểm."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1] The Hero’s Struggle for Freedom · J01 C",
+      "note": "Bài này mới định vị bất đồng theo nguồn thứ cấp; J21 cần đọc văn bản gốc và lần sửa. Không vẽ năng lượng tâm lý như đơn vị vật lý.",
+      "visual_brief": "So sánh hai cột có ô chung từ LIBIDO ở trên; dưới mỗi cột ghi khác cách dùng, không ghi người thắng. Nút hỏi ở giữa: văn bản nào/giai đoạn nào? Icon split-arrow, không biểu đồ số liệu."
+    },
+    {
+      "title": "Học thuyết, quan hệ, tổ chức",
+      "section": "🧠 C · BA TẦNG CHIA TÁCH",
+      "body": "Những thay đổi tư tưởng có thể đi cùng căng thẳng quan hệ và vai trò tổ chức. Nhưng chúng không nên bị nhập làm một lời giải thích duy nhất. Một ý tưởng có thể bị phản đối vì lập luận yếu; một người có thể thấy không được tôn trọng; một tổ chức có thể thay đổi quyền quyết định. Muốn biết các tầng ảnh hưởng nhau ra sao phải tìm tư liệu cụ thể, thay vì dùng một nhãn tâm lý để lấp khoảng trống.",
+      "nodes": [
+        [
+          "Học thuyết",
+          "Khác định nghĩa hoặc lập luận?"
+        ],
+        [
+          "Quan hệ",
+          "Ai nói gì và đáp lại gì?"
+        ],
+        [
+          "Tổ chức",
+          "Vai trò và diễn đàn đổi thế nào?"
+        ]
+      ],
+      "layout": "branch",
+      "source": "J01 C · Khung phân tích của bài",
+      "note": "Ba tầng không là ba nguyên nhân đã được xác nhận cho trường hợp Jung–Freud; chúng là ba nhóm câu hỏi nghiên cứu.",
+      "visual_brief": "Ba băng song song, nối bằng đường đứt ghi liên hệ cần nghiên cứu. Bên phải một cột tư liệu tương ứng: tác phẩm / thư / hồ sơ tổ chức. Tránh xếp học thuyết cao hơn con người."
+    },
+    {
+      "title": "Nguồn gốc ý tưởng không quyết định tính đúng",
+      "section": "🧠 C · HAI CÂU HỎI",
+      "body": "Một trải nghiệm quan trọng có thể giúp giải thích vì sao tác giả quan tâm tới một vấn đề. Nhưng điều đó chưa xác nhận câu trả lời mà tác giả đề xuất. Một câu chuyện về sự trưởng thành có thể làm học thuyết dễ nhớ, đồng thời khiến ta quên hỏi nó được kiểm tra thế nào. Để tránh lẫn lộn, hãy đặt một cột cho lịch sử hình thành và một cột cho dữ liệu đánh giá mệnh đề.",
+      "nodes": [
+        [
+          "Hình thành",
+          "Vì sao câu hỏi xuất hiện?"
+        ],
+        [
+          "Đánh giá",
+          "Dữ liệu nào phân biệt câu trả lời?"
+        ],
+        [
+          "Không tráo đổi",
+          "Tiểu sử không bảo lãnh cơ chế."
+        ]
+      ],
+      "layout": "branch",
+      "source": "J01 C · Lập luận phương pháp",
+      "note": "Không dùng điều này để phủ nhận giá trị của tiểu sử; nó vẫn giúp hiểu thuật ngữ và hoàn cảnh văn bản.",
+      "visual_brief": "Fork từ một cuốn sách sang hai đường NGUỒN GỐC và KIỂM CHỨNG, không nhập lại thành dấu bằng. Mỗi đường có loại câu hỏi riêng; điểm nhấn violet ở dấu ≠."
+    },
+    {
+      "title": "Năm bước: một mô hình để đặt câu hỏi",
+      "section": "⚙️ D · CƠ CHẾ ĐƯỢC ĐỀ XUẤT",
+      "body": "Chuỗi này tái dựng một cách hỏi theo định hướng Jungian: từ lập trường ý thức, qua trải nghiệm không khớp, tới giả thuyết về phần bị bỏ sót và việc điều chỉnh cách hiểu. Đây là mô hình giảng dạy, không là cơ chế sinh học đã được xác nhận và không là chẩn đoán hai tác giả. Giá trị đầu tiên của nó là tạo câu hỏi; việc câu hỏi có dẫn tới kết luận đúng vẫn cần dữ kiện và phản biện.",
+      "nodes": [
+        [
+          "1–2",
+          "Lập trường → điều không khớp."
+        ],
+        [
+          "3",
+          "Đặt giả thuyết về phần bỏ sót."
+        ],
+        [
+          "4–5",
+          "Kiểm bối cảnh → sửa cách hiểu."
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S2; S9] định hướng individuation · J01 D tái dựng",
+      "note": "Mọi connector phải gắn nhãn mô hình đề xuất. Không dùng hình não để tạo cảm giác xác nhận thực nghiệm.",
+      "visual_brief": "Sơ đồ năm node ngang có hai node nhỏ trung gian, nền cream; toàn chuỗi nằm dưới nhãn GIẢ THUYẾT GIẢNG DẠY. Một đường feedback từ bước kiểm về bước giả thuyết, thể hiện có thể sửa."
+    },
+    {
+      "title": "Bước 1–3: điều không khớp không chỉ có một nghĩa",
+      "section": "⚙️ D · LẬP TRƯỜNG VÀ CĂNG THẲNG",
+      "body": "Một người có thể tự xem mình luôn hợp tác rồi thấy bối rối vì giận dữ của chính mình. Cách đọc Jungian hỏi liệu sự giận dữ gợi một nhu cầu hoặc lập trường chưa được nhận biết. Nhưng sự bối rối tự nó không chứng minh shadow, complex hay một nguồn gốc phổ quát. Điều ta có trước hết là một trải nghiệm và một giả thuyết về nó. Không nên đổi tên giả thuyết thành sự thật chỉ vì thuật ngữ nghe sâu sắc.",
+      "nodes": [
+        [
+          "Tự mô tả",
+          "Tôi luôn hợp tác."
+        ],
+        [
+          "Trải nghiệm",
+          "Tôi đang rất giận."
+        ],
+        [
+          "Câu hỏi",
+          "Tự mô tả có bỏ sót điều gì?"
+        ]
+      ],
+      "layout": "staircase",
+      "source": "J01 D1–D3 · Ví dụ giảng dạy",
+      "note": "Chưa dùng định nghĩa kỹ thuật shadow/complex để chẩn đoán; các khái niệm ấy có bài riêng.",
+      "visual_brief": "Staircase ba mức từ dữ kiện sang câu hỏi, nhãn mức 3 là GIẢ THUYẾT chứ không ĐÁP ÁN. Kèm icon profile, emotion, question; không có nhãn bệnh lý."
+    },
+    {
+      "title": "Bước 4–5: một diễn giải phải có thể sửa",
+      "section": "⚙️ D · KIỂM TRA VÀ LỰA CHỌN",
+      "body": "Đặt một cách hiểu chỉ là khởi đầu. Người nghiên cứu cần xem nó có phù hợp bối cảnh, văn hóa và dữ kiện trái chiều không. Nếu cách hiểu không khớp, cần được phép bỏ hoặc chỉnh nó. Một câu chuyện làm người kể xúc động chưa tự chứng minh cơ chế phát sinh câu chuyện. Sự tôn trọng ý nghĩa chủ quan và yêu cầu kiểm chứng có thể cùng tồn tại, thay vì buộc người đọc chọn một trong hai.",
+      "nodes": [
+        [
+          "Kiểm bối cảnh",
+          "Điều gì ủng hộ và trái chiều?"
+        ],
+        [
+          "Sửa giả thuyết",
+          "Cho phép cách hiểu sai."
+        ],
+        [
+          "Quan sát lựa chọn",
+          "Điều gì thực sự thay đổi?"
+        ]
+      ],
+      "layout": "decision",
+      "source": "J01 D4–D5 · Khung phương pháp",
+      "note": "Đừng viết nhánh “không đồng ý” quay về “chống cự”, vì như vậy cách hiểu gần như không thể sai.",
+      "visual_brief": "Decision tree: phù hợp dữ kiện? có → tạm giữ và theo dõi; không → sửa/bỏ. Hai nhánh cùng trung tính, không dùng xanh cho đồng ý và đỏ cho phản đối. Nhãn chữ luôn kèm màu."
+    },
+    {
+      "title": "Giải thích cạnh tranh là phần của việc hiểu",
+      "section": "⚙️ D · GIỮ NHIỀU KHẢ NĂNG",
+      "body": "Một trải nghiệm không khớp có thể được xem từ nhiều góc: cách tự hiểu, áp lực môi trường, thiếu ngủ, học tập từ trải nghiệm hoặc xung đột lợi ích. Bài không khẳng định khả năng nào đúng cho mọi tình huống. Việc giữ nhiều khả năng giúp tránh lối đọc chỉ tìm điều phù hợp học thuyết mình thích. Cần hỏi mỗi cách giải thích dự đoán điều gì khác và có dữ kiện nào phân biệt được chúng.",
+      "nodes": [
+        [
+          "Cá nhân",
+          "Ý nghĩa và tự mô tả."
+        ],
+        [
+          "Bối cảnh",
+          "Áp lực, lợi ích và quan hệ."
+        ],
+        [
+          "Cần phân biệt",
+          "Dự đoán nào khác nhau?"
+        ]
+      ],
+      "layout": "branch",
+      "source": "J01 D · Các khả năng minh họa",
+      "note": "Các nhánh là giả thuyết minh họa, không danh sách nguyên nhân đã xác nhận cho một ca cụ thể.",
+      "visual_brief": "Một hiện tượng ở giữa, bốn nhánh cạnh tranh cùng kích thước; bên phải hộp dữ liệu cần thêm. Không cho nhánh Jungian màu mạnh hơn để tạo ưu tiên ngầm."
+    },
+    {
+      "title": "Ví dụ 1: Hà muốn đi theo cách nghiên cứu riêng",
+      "section": "💬 E · VÍ DỤ GIẢ ĐỊNH",
+      "body": "Hà từng làm theo mọi gợi ý của người hướng dẫn, rồi đề xuất phương pháp khác. Có thể hỏi Hà đang tìm tiếng nói riêng như thế nào. Tuy nhiên, phương pháp mới cũng có thể mắc lỗi kỹ thuật hoặc quan hệ làm việc có vấn đề thực tế. Quyền độc lập không bảo đảm mọi đề xuất đúng; sự có kinh nghiệm của người hướng dẫn cũng không bảo đảm mọi phản đối hợp lý. Cần kiểm cả nội dung lẫn bối cảnh.",
+      "nodes": [
+        [
+          "Điều thấy",
+          "Một đề xuất khác với người hướng dẫn."
+        ],
+        [
+          "Hai câu hỏi",
+          "Phương pháp có tốt? Quyền trao đổi có đủ?"
+        ],
+        [
+          "Tránh gán nhãn",
+          "Không suy ngay động cơ bí mật."
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "J01 E1 · Tình huống giả định",
+      "note": "Không gắn trực tiếp ví dụ này cho Jung hoặc Freud; nó là bài tập chuyển từ gán nhãn sang hỏi.",
+      "visual_brief": "Hai speech bubbles đối diện, giữa là tài liệu phương pháp; dưới có hai track lập luận và điều kiện làm việc. Icon graduation-cap và message; không vẽ thầy như cha thống trị."
+    },
+    {
+      "title": "Ví dụ 2: Minh mơ mình không tìm được phòng họp",
+      "section": "💬 E · Ý NGHĨA TRONG BỐI CẢNH",
+      "body": "Sau khi đổi việc, Minh thấy giấc mơ đi lạc diễn đạt cảm giác chưa thuộc về nơi mới. Cách hiểu ấy có thể có ý nghĩa với Minh mà không cần được nâng thành quy luật cho mọi giấc mơ tương tự. Hỏi điều gì trong hình ảnh quan trọng với người kể và đời sống hiện tại đang có gì sẽ tốt hơn dùng một từ điển biểu tượng. Cảm giác nhận ra ý nghĩa chưa xác định được nguồn gốc của hình ảnh.",
+      "nodes": [
+        [
+          "Bối cảnh",
+          "Vừa đổi công việc."
+        ],
+        [
+          "Ý nghĩa",
+          "Chưa cảm thấy thuộc về."
+        ],
+        [
+          "Giới hạn",
+          "Không là nghĩa cố định của đi lạc."
+        ]
+      ],
+      "layout": "example",
+      "source": "J01 E2 · Tình huống giả định",
+      "note": "Không dùng ảnh mê cung như hình của vô thức tập thể đã tồn tại khách quan; chỉ là ký hiệu cho câu chuyện ví dụ.",
+      "visual_brief": "Giấc mơ ở tâm, vòng bối cảnh quanh ngoài và một nhãn nghĩa do người kể nhận ra. Một đường đứt ra ngoài ghi chưa kiểm nguồn gốc. Icon door/search, không phong cảnh siêu thực tạo chứng thực."
+    },
+    {
+      "title": "Ví dụ 3: một dự án, hai câu chuyện thất bại",
+      "section": "💬 E · NGUỒN CÓ GÓC NHÌN",
+      "body": "Thành viên nói trưởng nhóm độc đoán; trưởng nhóm nói thành viên thiếu kỷ luật. Mỗi câu chuyện có thể chứa dữ kiện lẫn cách chọn và nhấn mạnh dữ kiện. Thay vì chọn trước người hùng và người cản trở, hãy kiểm nhật ký quyết định, trao đổi và tiến độ. Tư liệu đó cũng không ghi hết trải nghiệm riêng. Hai bên có thể khác nhau thật về cả cách làm việc lẫn quyền quyết định.",
+      "nodes": [
+        [
+          "Câu chuyện A",
+          "Vấn đề quyền quyết định."
+        ],
+        [
+          "Câu chuyện B",
+          "Vấn đề phối hợp công việc."
+        ],
+        [
+          "Đối chiếu",
+          "Tư liệu chung và điều còn thiếu."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "J01 E3 · Tình huống giả định",
+      "note": "Không gọi mọi mâu thuẫn là projection/shadow. Có những xung đột lợi ích và quy trình cụ thể phải giải quyết ở đúng cấp độ.",
+      "visual_brief": "Hai cột câu chuyện cùng độ nổi, ở giữa một ledger dữ kiện có timestamp; phía dưới vùng chưa biết. Không dùng đỏ/xanh xếp đúng sai trước khi kiểm."
+    },
+    {
+      "title": "Case: bóc một câu chuyện tiểu sử quá chắc",
+      "section": "📋 F · CASE STUDY 1/3",
+      "body": "Câu giả định cho rằng Jung rời Freud năm 1913 “để chứng minh giấc mơ chứa ký ức chung của nhân loại”. Nó nghe liền mạch nhưng thực ra gồm nhiều mệnh đề: ngày tháng, động cơ, ý định khoa học và cơ chế của giấc mơ. Một nguồn xác nhận được ngày tháng không tự bảo lãnh phần còn lại. Muốn kiểm, phải tách câu trước khi đi tìm dẫn chứng.",
+      "nodes": [
+        [
+          "Mốc",
+          "Sự kiện nào được gọi là rời?"
+        ],
+        [
+          "Động cơ",
+          "Tác giả muốn làm gì, theo nguồn nào?"
+        ],
+        [
+          "Cơ chế",
+          "Dữ liệu nào xác nhận nguồn gốc giấc mơ?"
+        ]
+      ],
+      "layout": "numbered",
+      "source": "J01 F · Case giả định",
+      "note": "Đây không phải câu trích của Jung hoặc Freud. Phải ghi nhãn câu do bài tạo, không trình bày như quote lịch sử.",
+      "visual_brief": "Một câu giả định trên cùng, cắt thành bốn segment; bên dưới từng segment nối tới ô loại bằng chứng. Không dùng dấu ngoặc kép như trích dẫn có tác giả thật; nhãn CASE GIẢ ĐỊNH luôn hiện."
+    },
+    {
+      "title": "Kiểm theo năm thao tác",
+      "section": "📋 F · CASE STUDY 2/3",
+      "body": "Trước hết, phân loại các khẳng định trong câu. Tiếp theo, kiểm phần mốc bằng tư liệu thích hợp và phân biệt quan hệ với tổ chức. Sau đó mới hỏi bằng chứng nào hỗ trợ động cơ hoặc ý định được gán cho tác giả. Phần cơ chế giấc mơ phải có phép kiểm riêng. Cuối cùng, viết lại kết luận chỉ trong phạm vi nguồn cho phép, thay vì cố giữ câu chuyện hấp dẫn ban đầu.",
+      "nodes": [
+        [
+          "1–2",
+          "Tách claim; kiểm mốc."
+        ],
+        [
+          "3–4",
+          "Kiểm động cơ; phân biệt cơ chế."
+        ],
+        [
+          "5",
+          "Viết lại kết luận vừa nguồn."
+        ]
+      ],
+      "layout": "numbered",
+      "source": "J01 F1–F5",
+      "note": "Mỗi bước cần xác định điều còn thiếu. Không lấy nguồn tiểu sử xác nhận năm để chứng minh cơ chế sinh học.",
+      "visual_brief": "Năm bước dọc với nhãn 1–5 lớn; mỗi bước có một ô nguồn cần dùng thay vì mọi bước nối một loại nguồn. Có nhánh từ bước thiếu dữ liệu quay về thu hẹp claim."
+    },
+    {
+      "title": "Viết lại: chính xác hơn, vẫn đủ ý",
+      "section": "📋 F · CASE STUDY 3/3",
+      "body": "Phiên bản thận trọng nêu quá trình rạn nứt trong giai đoạn 1912–1913 và việc rút khỏi phong trào năm 1914, rồi ghi Jung phát triển hướng riêng. Nó bỏ lời gán một động cơ duy nhất và lời hứa đã chứng minh cơ chế giấc mơ. Thu hẹp câu không làm lịch sử nghèo đi. Nó cho người đọc thấy rõ phần đã biết và mở đúng câu hỏi để nghiên cứu tiếp.",
+      "nodes": [
+        [
+          "Giữ",
+          "Các mốc có thể truy tư liệu."
+        ],
+        [
+          "Bỏ",
+          "Động cơ duy nhất chưa đủ nguồn."
+        ],
+        [
+          "Mở",
+          "Tác phẩm và phép kiểm cần đọc tiếp."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "J01 F · Dựa trên [S1–S5]",
+      "note": "Không kết luận từ case rằng đã giải thích toàn bộ cuộc chia tách. Đã chỉ ra câu ban đầu vượt nguồn.",
+      "visual_brief": "Trước/sau theo hai hàng, tô gạch mảnh phần cần bỏ chứ không red strike toàn câu; dòng cuối điều còn thiếu. Icon pencil/check-list, không huy hiệu chứng nhận khoa học."
+    },
+    {
+      "title": "Ba đối tượng, ba loại câu hỏi",
+      "section": "🔬 G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Lịch sử hỏi ai viết gì trong hoàn cảnh nào. Nghiên cứu khái niệm hỏi một mô hình được định nghĩa nhất quán và kiểm được ra sao. Nghiên cứu kết quả trị liệu hỏi điều gì thay đổi ở nhóm người trong một thiết kế cụ thể. Ba nhiệm vụ có thể liên hệ nhưng không thay thế nhau. Một phát hiện ở tầng này không tự điền đáp án cho hai tầng còn lại.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Tư liệu và bối cảnh."
+        ],
+        [
+          "Khái niệm",
+          "Định nghĩa và phép kiểm."
+        ],
+        [
+          "Trị liệu",
+          "Kết quả và thiết kế nghiên cứu."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "J01 G · Khung tổng hợp của bài",
+      "note": "Bảng không là xếp hạng khoa học của cả trường phái. Đánh giá claim cần đúng loại nguồn.",
+      "visual_brief": "Ma trận 3×3 với cột đối tượng, dữ liệu, chưa suy ra; icon archive, bracket, chart. Dùng đường kẻ editorial và khoảng trắng thay 9 card nhỏ."
+    },
+    {
+      "title": "Nghiên cứu 2025: quan sát thay đổi trong một nhóm",
+      "section": "🔬 G · STUDY PROFILE",
+      "body": "Một nghiên cứu trước–sau giúp quan sát thay đổi trong nhóm được theo dõi, nhưng không tự tách được tác động riêng của phương pháp với các khả năng khác. Nguồn hiện đại này được dùng để học cách đọc thiết kế, không để xác nhận mọi khái niệm Jungian. Hãy bắt đầu bằng câu hỏi “người nghiên cứu thực sự đo điều gì?” trước khi hỏi kết quả có ủng hộ trường phái mình thích không.",
+      "nodes": [
+        [
+          "104",
+          "Người có dữ liệu trước–sau."
+        ],
+        [
+          "Đo lường",
+          "Các thang tự báo cáo."
+        ],
+        [
+          "Thiết kế",
+          "Không có nhóm đối chứng."
+        ]
+      ],
+      "layout": "data",
+      "source": "[S8] Methods; Results; Limitations",
+      "note": "Không vẽ mũi tên nhân quả từ tên phương pháp đến kết quả. Không dùng trước–sau như một RCT. Các số effect size không đưa vào kịch bản.",
+      "visual_brief": "Study profile N=104 bên trái; bên phải hai điểm T1/T2 nối một đường chú thích trong nhóm, không trục hiệu quả nhân quả. Chỉ hiển thị ba facts có nguồn; không tạo số phần trăm hoặc chart giả."
+    },
+    {
+      "title": "Một tín hiệu tích cực vẫn cần giới hạn",
+      "section": "🔬 G · THIẾT KẾ VÀ ĐỘ CHẮC CHẮN",
+      "body": "Điều trị diễn ra trong đời sống thực có thể đem lại dữ liệu đáng quan tâm, đồng thời khó cô lập từng nguồn thay đổi. Vì vậy, “chưa đủ kết luận nguyên nhân” không có nghĩa “không ai được lợi”. Cách đọc cân bằng giữ kết quả được báo cáo cùng những điều thiết kế chưa phân biệt được. Khi chuyển sang hỏi về archetypes hoặc synchronicity, ta còn cần phép đo cơ chế khác, không chỉ bảng điểm trước–sau.",
+      "nodes": [
+        [
+          "Tín hiệu",
+          "Tác giả báo cáo thay đổi."
+        ],
+        [
+          "Giới hạn",
+          "Chưa cô lập tác động riêng."
+        ],
+        [
+          "Không ngoại suy",
+          "Outcome không xác nhận cơ chế."
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S8] kết quả/giới hạn · J01 G",
+      "note": "S8 cũng nêu dựa tự báo cáo và thiếu ghi dropout có hệ thống. Không nói sample final phản ánh mọi người đã bắt đầu trị liệu.",
+      "visual_brief": "Balance hai vùng có trọng số chữ tương đương: báo cáo và bất định; vùng dưới là hàng rào suy luận tới cơ chế. Không dùng cán cân cân được hiệu quả thật; đây là bố cục so sánh, không số đo."
+    },
+    {
+      "title": "Tranh luận nguyên mẫu: bắt đầu từ định nghĩa",
+      "section": "🔬 G · KHÁI NIỆM VÀ CƠ CHẾ",
+      "body": "Ý nghĩa chủ quan của một hình ảnh, sự lặp lại mô típ trong văn hóa và cơ chế phổ quát của loài người là các câu hỏi khác nhau. Trước khi nói một phát hiện “chứng minh archetype”, phải xác định từ này đang chỉ điều gì và phép quan sát có phân biệt được các giải thích không. Đọc một tranh luận khái niệm giúp thấy vấn đề, nhưng không thay cho một chương trình thực nghiệm đầy đủ.",
+      "nodes": [
+        [
+          "Ý nghĩa",
+          "Người kể hiểu hình ảnh thế nào?"
+        ],
+        [
+          "Mô típ",
+          "Các chất liệu giống nhau ở đâu?"
+        ],
+        [
+          "Nguồn gốc",
+          "Cơ chế nào tạo ra sự giống nhau?"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S7] tranh luận khái niệm · J01 G",
+      "note": "Không trình bày ba lớp là ba tầng tâm trí thật. Bản PDF S7 có dấu hiệu proof; không gán locator trang in từ bản đó.",
+      "visual_brief": "Ba vòng câu hỏi mở có nhãn nghĩa/mô típ/nguồn gốc, đặt cạnh các dữ liệu tương ứng; không đưa vòng lớn nhất thành vô thức tập thể như cấu trúc giải phẫu. Icon question, không icon DNA xác nhận."
+    },
+    {
+      "title": "Vận dụng: đổi câu hỏi, không gán nhãn người",
+      "section": "🧭 H · PRACTICAL APPLICATIONS",
+      "body": "Khi đọc tiểu sử, ghi riêng sự kiện, tự thuật và diễn giải. Khi bất đồng trong công việc, hỏi đó là tranh luận dữ kiện, cách giải thích hay quyền quyết định. Khi tự phản tư, có thể giữ nhiều nghĩa cho một trải nghiệm mà không cần tìm động cơ bí mật. Những cách làm này giúp kiểm suy luận và tôn trọng người kể, không phải kỹ thuật tự trị liệu hoặc công cụ chẩn đoán quan hệ.",
+      "nodes": [
+        [
+          "Đọc",
+          "Nguồn nói gì?"
+        ],
+        [
+          "Đối thoại",
+          "Bất đồng ở cấp nào?"
+        ],
+        [
+          "Tự phản tư",
+          "Còn cách hiểu nào khác?"
+        ]
+      ],
+      "layout": "route",
+      "source": "J01 H · Khuyến nghị đọc và lập luận",
+      "note": "Giữ quyền không đồng ý và không chia sẻ. Tài liệu không thay thế đánh giá chuyên môn khi có đau khổ hoặc suy giảm chức năng.",
+      "visual_brief": "Route ba nhánh từ một câu hỏi thay vì đường chữa lành; mỗi nhánh có câu mở để người học dùng. Footer giới hạn ngắn, icon compass/message/book."
+    },
+    {
+      "title": "Bản đồ học: từ nguồn đến kết luận",
+      "section": "🗺️ I · VISUAL EXPLANATION",
+      "body": "Bản đồ tổng hợp bắt đầu từ câu cần kiểm, đi qua loại nguồn phù hợp và kết thúc ở kết luận có giới hạn. Nếu thiếu nguồn cho một phần của câu, cần quay lại thu hẹp phần đó hoặc tìm thêm dữ liệu. Dòng thời gian chỉ giúp định vị sự kiện; các sơ đồ cơ chế chỉ mô tả giả thuyết được gắn nhãn. Đây là kịch bản hình chờ dựng, chưa phải chứng nhận rằng mọi sơ đồ đã được tạo và kiểm.",
+      "nodes": [
+        [
+          "Câu hỏi",
+          "Tách mệnh đề cần kiểm."
+        ],
+        [
+          "Nguồn",
+          "Chọn theo loại claim."
+        ],
+        [
+          "Kết luận",
+          "Nêu đúng phần được hỗ trợ."
+        ]
+      ],
+      "layout": "flow",
+      "source": "J01 I · Kịch bản trước Moda",
+      "note": "Phiên chính sẽ dựng và kiểm screenshot/bản xuất. Không ghi canvas_url hoặc file_id chưa tồn tại.",
+      "visual_brief": "Flow ba node và nhánh phản hồi thiếu dữ liệu; đặt timeline ở dải trên nhỏ, không lẫn thứ tự lịch sử với chuỗi suy luận. Nhãn KỊCH BẢN CHỜ DỰNG chỉ trong hồ sơ, không lạm dụng trong nội dung học cuối."
+    },
+    {
+      "title": "Tám điểm cần nhớ trước J02",
+      "section": "💡 J · KEY TAKEAWAYS",
+      "body": "Jung không bắt đầu lịch sử của mình ở Freud. Cộng tác và chia tách có nhiều loại mốc. Thư từ, tự thuật và lịch sử cần được đọc theo câu hỏi khác nhau. Bất đồng học thuyết, quan hệ và tổ chức không được gộp tùy tiện. Nguồn gốc một ý tưởng chưa xác nhận tính đúng của nó; ý nghĩa chủ quan chưa chứng minh cơ chế phổ quát. Nghiên cứu trị liệu và kiểm chứng cơ chế vẫn là hai công việc riêng.",
+      "nodes": [
+        [
+          "1–2",
+          "Nền nghề nghiệp; nhiều loại mốc."
+        ],
+        [
+          "3–4",
+          "Ba tầng chia tách; phát ngôn có bối cảnh."
+        ],
+        [
+          "5–6",
+          "Tự thuật có biên tập; nguồn gốc ≠ tính đúng."
+        ],
+        [
+          "7–8",
+          "Ý nghĩa ≠ nguồn gốc; outcome ≠ cơ chế."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "J01 J · Tổng hợp tám ý",
+      "note": "Cho người học tự nói lại bằng lời riêng; chưa yêu cầu ghi nhớ mọi năm hoặc thuật ngữ sâu của Jung.",
+      "visual_brief": "Typographic takeaways 2×2 gồm tám số nhỏ trong bốn nhóm, không tám card vụn. Chỉ highlight các dấu ≠ và động từ phân biệt/kiểm/giới hạn. Icon lightbulb."
+    },
+    {
+      "title": "Câu 1 · 1913 và 1914 khác nhau ở đâu?",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "Đáp án: một mốc có thể chỉ thư chấm dứt quan hệ cá nhân, mốc kia chỉ việc rút khỏi phong trào. Muốn đánh giá hai niên đại, phải xác định đối tượng đang được gọi là “chia tách”. Sai lầm thường gặp là coi lịch sử như một ngày đơn nhất, rồi chọn nguồn có vẻ uy tín hơn mà chưa kiểm xem chúng đang nói về cùng sự kiện hay không.",
+      "nodes": [
+        [
+          "Hỏi",
+          "Hai nguồn định nghĩa sự kiện thế nào?"
+        ],
+        [
+          "Đáp",
+          "Quan hệ khác mốc tổ chức."
+        ],
+        [
+          "Vì sao",
+          "Cần cùng đối tượng mới đối chiếu."
+        ]
+      ],
+      "layout": "question",
+      "source": "J01 K1 · [S2; S5]",
+      "note": "Trình bày câu hỏi trước, phần đáp án có thể che khi dạy; file kịch bản vẫn giữ đầy đủ để tự học.",
+      "visual_brief": "Dual timeline question: trên hai mốc trống loại sự kiện, dưới vùng đáp án có nhãn QUAN HỆ/TỔ CHỨC. Không dựng trò đoán năm để thay kiểm hiểu."
+    },
+    {
+      "title": "Câu 2 · Có lời cáo buộc nghĩa là cáo buộc đúng?",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "Đáp án: không. Một bức thư có thể xác nhận Jung đã nêu lời trách, nhưng chưa quyết định tính đúng của mọi nội dung. Cần đọc phản hồi và tìm tư liệu kiểm chi tiết. Sai lầm là chuyển từ “người A nói X” sang “X là kết luận của người nghiên cứu”. Độ chắc chắn phải đi theo loại claim: phát ngôn và sự việc được cáo buộc là hai đối tượng khác nhau.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Có lời trách trong thư."
+        ],
+        [
+          "Bước suy thêm",
+          "Coi nội dung đã được xác nhận."
+        ],
+        [
+          "Cần làm",
+          "Đọc phản hồi và đối chiếu."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "J01 K2 · [S4–S5]",
+      "note": "Không để bố cục tạo cảm giác phản hồi tự nhiên đúng hơn cáo buộc; cả hai là nguồn cần đặt trong bối cảnh.",
+      "visual_brief": "Hai hàng phát ngôn và sự việc, nối bằng connector đứt ghi cần kiểm thêm. Một dấu ≠ lớn làm tâm; icon mail/check-list."
+    },
+    {
+      "title": "Câu 3 · Có biên tập thì tự thuật vô dụng?",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "Đáp án: không. Nguồn vẫn có giá trị về hồi tưởng, cách tự hiểu và cách tác giả được giới thiệu, nhưng cần biết ai thu thập, chọn và tổ chức văn bản. Câu hỏi phù hợp không phải chỉ “có tin hay không”, mà là “có thể dùng nguồn này cho kết luận nào”. Sai lầm thường gặp là coi mọi trung gian làm mất giá trị, hoặc ngược lại coi tên tác giả trên bìa bảo đảm văn bản không có lựa chọn biên tập.",
+      "nodes": [
+        [
+          "Giữ giá trị",
+          "Nguồn về hồi tưởng và trình bày."
+        ],
+        [
+          "Thêm câu hỏi",
+          "Ai chọn và biên tập?"
+        ],
+        [
+          "Giới hạn",
+          "Không cửa sổ không trung gian."
+        ]
+      ],
+      "layout": "question",
+      "source": "J01 K3 · [S6]",
+      "note": "Người học nên mô tả được loại claim cần đối chiếu nguồn khác, thay vì chỉ nhắc tên biên tập viên.",
+      "visual_brief": "Pipeline thu thập → biên tập → xuất bản với hai nhánh dùng được/chưa đủ. Hai nhánh không dùng true/false chung cho cả nguồn."
+    },
+    {
+      "title": "Câu 4 · Ý nghĩa của một giấc mơ chứng minh điều gì?",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "Đáp án: một người nhận ra ý nghĩa trong giấc mơ không tự chứng minh mẫu hình ấy được di truyền cho mọi người. Ta đang có một trải nghiệm được hiểu trong bối cảnh cụ thể, chưa có phép kiểm nguồn gốc hoặc tính phổ quát. Sai lầm là dùng cảm giác “đúng với mình” để vượt từ cấp độ chủ quan sang một tuyên bố về cơ chế của toàn loài. Cần giữ hai cấp độ cùng tồn tại mà không nhập chúng.",
+      "nodes": [
+        [
+          "Được nêu",
+          "Ý nghĩa với người kể."
+        ],
+        [
+          "Chưa được nêu",
+          "Nguồn gốc phổ quát."
+        ],
+        [
+          "Cần kiểm",
+          "Các giải thích cạnh tranh."
+        ]
+      ],
+      "layout": "example",
+      "source": "J01 K4 · Ví dụ Minh",
+      "note": "Không dùng câu trả lời để phủ nhận hoặc chê người kể mê tín. Bài tập chỉ kiểm bước suy luận.",
+      "visual_brief": "Một speech bubble của Minh bên trái, ba tầng claim bên phải; nhãn đầu là bối cảnh, cuối là cơ chế. Một hàng rào gạch giữa hai cấp độ; icon dream/cloud có nhãn minh họa."
+    },
+    {
+      "title": "Câu 5 · Cải thiện trước–sau xác nhận synchronicity?",
+      "section": "❓ K · KNOWLEDGE CHECK",
+      "body": "Đáp án: chưa. Điểm số kết quả trị liệu và cơ chế liên kết phi nhân quả là các đối tượng đo khác nhau. Trước hết cần đánh giá nghiên cứu có đủ phân biệt nguyên nhân cải thiện không; sau đó muốn kiểm synchronicity còn cần định nghĩa, phép đo và giả thuyết riêng. Sai lầm là để tên trường phái đứng thay cho phép kiểm. Một kết quả có ích trong phạm vi của nó không phải giấy chứng nhận cho toàn bộ hệ thống lý thuyết.",
+      "nodes": [
+        [
+          "Outcome",
+          "Điều gì thay đổi?"
+        ],
+        [
+          "Causality",
+          "Thiết kế phân biệt nguyên nhân tới đâu?"
+        ],
+        [
+          "Mechanism",
+          "Cơ chế nào được đo riêng?"
+        ]
+      ],
+      "layout": "decision",
+      "source": "J01 K5 · Phân biệt đối tượng kiểm tra",
+      "note": "Giữ đáp án theo nguyên tắc phương pháp, không cần học viên đã biết toàn bộ synchronicity để trả lời.",
+      "visual_brief": "Ba cổng kiểm tra nối tiếp outcome/nhân quả/cơ chế, mỗi cổng một câu hỏi; không có mũi tên nhảy từ điểm số sang synchronicity. Icon chart/branch/search."
+    },
+    {
+      "title": "Nguồn lịch sử: theo lại từng loại claim",
+      "section": "📚 L · REFERENCES 1/2",
+      "body": "Các nguồn chính gồm triển lãm Library of Congress, thư Jung và Freud dưới dạng transcript dịch, bài ETH về lịch sử lưu trữ và hồ sơ Philemon về tiểu sử cùng biên tập tự thuật. Locator trong bài chỉ rõ phần đã đọc. Bản dịch thư không được giả làm bản thảo tiếng Đức, và trang giới thiệu một ấn bản không được giả làm toàn bộ sách đã thẩm định. Người đọc có thể truy lại phạm vi của từng kết luận.",
+      "nodes": [
+        [
+          "S1–S3",
+          "Triển lãm, tiểu sử, lưu trữ."
+        ],
+        [
+          "S4–S5",
+          "Thư dịch, có giới hạn từng trang."
+        ],
+        [
+          "S6; S9",
+          "Biên tập tự thuật; bối cảnh hậu Freud."
+        ]
+      ],
+      "layout": "references",
+      "source": "J01 L · j01-research.md",
+      "note": "Các URL đầy đủ và locator nằm trong references của lesson; không bỏ nguồn để dành chỗ cho trang trí.",
+      "visual_brief": "Reference index dạng cột có các nhóm và URL rút gọn dễ đọc; chừa chỗ cho QR chỉ nếu QR dẫn một URL thật được kiểm. Dùng icon book, không giả bìa ấn bản chưa có asset."
+    },
+    {
+      "title": "Đọc tiếp: câu hỏi tốt hơn trước một khái niệm mới",
+      "section": "📚 L · REFERENCES 2/2 · SANG J02",
+      "body": "Bài tiếp theo đi vào cấu trúc tâm lý học phân tích. Mang theo ba thói quen: xác định nghĩa thuật ngữ trong văn bản, phân biệt mô hình với dữ kiện và hỏi điều gì có thể làm cách hiểu thay đổi. Nguồn tranh luận nguyên mẫu và nghiên cứu trị liệu hiện đại mở những đường đọc khác nhau. Không cần kết luận tất cả Jung đúng hoặc sai mới có thể học một khái niệm với sự cẩn trọng và tò mò.",
+      "nodes": [
+        [
+          "S7",
+          "Tranh luận khái niệm archetype."
+        ],
+        [
+          "S8",
+          "Nghiên cứu kết quả có giới hạn."
+        ],
+        [
+          "J02",
+          "Analytical Psychology: định nghĩa trước khi ứng dụng."
+        ]
+      ],
+      "layout": "closing",
+      "source": "J01 L · [S7–S8] · Curriculum J02",
+      "note": "Chưa thể gọi bài complete trước reviewer độc lập và Moda. Hồ sơ kỹ thuật ghi trạng thái, nội dung học kết bằng câu hỏi mở chứ không hứa cơ chế đã được xác nhận.",
+      "visual_brief": "Closing indigo/cream nối ngôn ngữ bìa, tên J02 lớn; bên cạnh ba câu hỏi: nghĩa gì/nguồn nào/giới hạn nào. Icon book-open. Không CTA trị liệu hoặc ngôn ngữ chữa lành tuyệt đối."
+    }
+  ],
+  "verification": {
+    "scope": "Kịch bản, không có canvas/export để kiểm render",
+    "checks": [
+      "A–L và 5 câu hỏi có đáp án",
+      "40 slide, mọi slide có body/nodes/layout/source/note/visual_brief",
+      "Nguồn slide ánh xạ lesson/reference IDs",
+      "Không dùng canvas/file IDs giả",
+      "Không gọi cơ chế Jung đã được xác nhận"
+    ],
+    "limitations": [
+      "Chưa reviewer độc lập",
+      "Chưa dựng hoặc kiểm screenshot/exports",
+      "Chưa thẩm định toàn bộ tác phẩm gốc hoặc bản tiếng Đức",
+      "Chân dung Jung đang hold vì thiếu căn cứ quyền Mỹ"
+    ]
+  },
+  "layout_policy": "Tên layout dùng họ bố cục của F01 v4; visual_brief chỉ dẫn biến thể và ý nghĩa sơ đồ. Không phải xác nhận API Moda có một node riêng cho từng tên."
+}

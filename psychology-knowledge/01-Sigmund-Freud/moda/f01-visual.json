@@ -1,0 +1,34 @@
+{
+  "lesson_id": "F01",
+  "visual_id": "f01-origins-v01",
+  "canvas_url": "https://moda.app/canvas/4b926d10-1a4b-4e4f-b261-e7121dbfe493?source=agent",
+  "canvas_ref": "cvs_2BJ9PH06JB9S7V4RF728EVZS4K",
+  "page_ref": "p_a",
+  "skill": [
+    "moda-core",
+    "moda-diagram",
+    "diagram",
+    "markup",
+    "design-quality"
+  ],
+  "source_ids": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+  ],
+  "source_locators": "Xem mục L của F01 và f01-research.md",
+  "lesson_commit": null,
+  "revision": "cnt-8b19274a098ebe58fd0eba966569ce3e",
+  "export_path": null,
+  "preview_path": "visuals/f01-origins-preview-v01.jpg",
+  "exported_at": "2026-10-24",
+  "academic_review": "reviewed-with-limitations; see references/f01-review.md",
+  "visual_review": "Primary agent and independent sample_review inspected actual Moda JPEG preview; no blocking visual issue; PNG not downloaded",
+  "status": "canvas-and-preview",
+  "blocker": "PNG export complete on Moda, but workspace curl failed to connect to configured proxy:8080; saved actual Moda screenshot JPEG as preview, not as the PNG export.",
+  "export_url": "https://assets-cdn.moda.app/mcp-exports/4b926d10-1a4b-4e4f-b261-e7121dbfe493/vcrdt-53153ad0f0fe70fa3a33bf3511cc1fdd/png-r1-f0-w1-p1.png?Expires=1824338745&KeyName=mpwa&Signature=LuJB-Qm98zZKI6AMdKFBTAPxQTk",
+  "brand": "No kit, user explicitly chose existing palette",
+  "warnings": "Four containers scaled to 99%; final screenshot inspected and legible."
+}

@@ -11,3 +11,19 @@ Bản xuất thật từ Moda; mẫu F01 v4 đã được người dùng duyệt
 Mỗi PDF có một trang rasterized; chữ trang đó không chọn/tìm kiếm được, hình vẫn hiển thị và link vẫn dùng được. Chưa lưu binary cục bộ. Link export có thể hết hạn; tiếp tục dùng đúng canvas ghi trên để xuất lại.
 
 Xem [sổ giữ việc](COORDINATION.md) trước khi nhận bài và [review](BATCH-02-REVIEW.md) để biết phạm vi kiểm chứng.
+
+
+## Bản PowerPoint lưu trong repo (kiểm 2026-10-24)
+
+Bốn file PPTX dưới đây được tải từ đúng link xuất Moda của từng bài (F01 từ `01-Sigmund-Freud/moda/f01-report-v4.json`, ba bài còn lại từ bảng phía trên) rồi lưu vào `visuals/` của tác giả. Đã mở từng file: zip hợp lệ và đếm slide trong file khớp số slide đã ghi. Đây là kiểm tra bản xuất, không phải review nội dung; trạng thái học thuật của từng bài giữ như đã ghi trong bài và `BATCH-02-REVIEW.md`.
+
+| Bài | File trong repo | Slide trong file | Dung lượng | SHA-256 |
+|---|---|---:|---:|---|
+| F01 | [f01.pptx](01-Sigmund-Freud/visuals/f01.pptx) | 35 | 9,7 MB | `a9d9ace04060e0005b857545d0631edb268fcda153c2c8be2bb28c1b3065346c` |
+| F02 | [f02.pptx](01-Sigmund-Freud/visuals/f02.pptx) | 37 | 5,8 MB | `314158908684a4837e900d164b4f3474fa2fc7715630a598ae623dac21045e4b` |
+| A01 | [a01.pptx](02-Alfred-Adler/visuals/a01.pptx) | 38 | 6,4 MB | `0f48cce014591e61ca6d1bc90c959a31e2f8f1254dfe1554822207ea4fb2ce8d` |
+| J01 | [j01.pptx](03-Carl-Gustav-Jung/visuals/j01.pptx) | 40 | 10,1 MB | `54a56b4557e6a39ac65d059cdfa2e5596377f6df6c2c91f65973c582fa6f6a4f` |
+
+**PDF không lưu vào repo.** Bản PDF xuất từ Moda là bản ảnh, nặng 25–28 MB mỗi bài (khoảng 107 MB cho bốn bài), sẽ làm lịch sử git nặng vĩnh viễn. Chúng vẫn mở được qua link xuất ở bảng phía trên và trong metadata; đã kiểm số trang: F01 35, F02 37, A01 38, J01 40. Link xuất có hạn; khi hết hạn, xuất lại từ đúng canvas ghi ở `COORDINATION.md`. Nếu chủ repo muốn PDF trong repo, nên xuất bản có chữ chọn được (`flatten=false`) nhẹ hơn rồi mới lưu.
+
+Giới hạn: PPTX mới được kiểm cấu trúc (zip, số slide), chưa mở bằng PowerPoint để xem lại từng trang; ảnh tư liệu vẫn theo ghi chú giấy phép trong các file `*-visual-sources.md`.

@@ -13,8 +13,8 @@ Ngày: 2026-10-24. Phạm vi: ego là trung tâm ý thức theo Jung; không kh�
 | Seth Bayne theories consciousness 2022 self consciousness metacognition review | Không dùng bản PDF bên thứ ba; chọn khảo sát Francken tại OUP để phân biệt loại bằng chứng |
 | Nisbett Wilson 1977 telling more than we can know mental processes abstract | Có kết quả, không đọc thêm vì ngoài phạm vi; không dùng claim dựa trên nó |
 | Gutenberg find Bewusstsein, Zentrum meines; open chương XI §7/§26 | Xác minh đúng locator và trang in; không dùng số dòng web làm số đoạn CW |
-| Jung Page mục Consciousness và Ego | Nguồn thứ cấp kiểm cách dẫn CW; không nhận đã đọc CW nguyên tập |
-| OUP niac011 Abstract/Methods | Đọc nội dung mẫu khảo sát và cách tuyển tại hội nghị; không suy thành đồng thuận ngành |
+| Jung Page mục Consciousness và Ego; tìm Daryl Sharp Jung lexicon 1991 Inner City Books | Nguồn thứ cấp kiểm cách dẫn CW; không nhận đã đọc CW nguyên tập |
+| OUP niac011 Abstract/Methods | Đọc Abstract và Methods and materials, gồm cách tuyển, lọc mẫu hội nghị; không suy thành đồng thuận ngành |
 
 ## Mức truy cập thực tế
 
@@ -53,3 +53,5 @@ Ngày: 2026-10-24. Phạm vi: ego là trung tâm ý thức theo Jung; không kh�
 - Không nói ego nằm trong vùng não hoặc có thang lớn/nhỏ theo tự tin.
 - Không hứa lợi ích sức khỏe; ứng dụng giao tiếp là gợi ý sư phạm chưa thử nghiệm.
 - Dịch nghĩa Việt có thể còn cần chuyên gia Đức/Jung kiểm; review_status pending.
+
+Metadata S5 được đối chiếu ở kết quả tìm kiếm thư viện UPenn; mở trực tiếp hồ sơ bị timeout. Không nâng thành toàn văn. Sharp 1991 còn được đối chiếu catalog nhà xuất bản Inner City Books; không thêm nguồn nội dung riêng.

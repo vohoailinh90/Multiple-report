@@ -5,7 +5,7 @@ topic: khac
 date: 2026-10-24
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # J03 — Conscious Ego: trung tâm ý thức theo Jung
 
@@ -145,7 +145,11 @@ Trong nghiên cứu, tránh đặt tên thang tự tin là “ego strength” n�
 
 **Caption:** “Trung tâm điểm nhìn không phải toàn bộ bản đồ: ego và Self trong phân biệt khái niệm Jung.” **Alt text:** “Hình bao một tập nội dung ý thức với ego ở vị trí quy chiếu; vùng ngoài nhắc rằng báo cáo hiện tại không bao quát mọi quá trình. Các kích thước chỉ minh họa.”
 
-Canvas và bản xuất chưa được tạo tại mốc giai đoạn 1. Kịch bản: [j03-slides.json](../moda/j03-slides.json). Metadata và nguồn hình sẽ được bổ sung sau khi thực hiện Moda; không có link giả.
+Đã dựng và xem toàn bộ **36 slide** trên [canvas Moda](https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent), theo mẫu F01 v4, màu Indigo, tiêu đề Bricolage Grotesque và thân Be Vietnam Pro. Sơ đồ/icon là vector nguyên bản, không dùng ảnh chưa rõ quyền. [Kịch bản](../moda/j03-slides.json), [metadata và markup](../moda/j03-report-v1.json), [nguồn trực quan](../references/j03-visual-sources.md).
+
+Bản xuất thật: [PPTX](https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pptx-r2-f0-w1-all.pptx?Expires=1824394630&KeyName=mpwa&Signature=URaxv7TyotHJh3o8sCys0SNu4Yw) · [PDF](https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pdf-r3-f0-w1-all.pdf?Expires=1824394652&KeyName=mpwa&Signature=jFUEcuqmHW7OdyNiqhAbi_2F0rs). PPTX không có cảnh báo xuất. PDF đã yêu cầu lớp chữ, nhưng công cụ trả cảnh báo nguyên văn: “1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.”
+
+Đã xem render canvas của tất cả trang đúng một lần theo nhóm tối đa ba trang; không thấy cắt chữ hoặc chồng nội dung cần sửa. Chưa mở binary bằng PowerPoint/PDF reader. Thử tải PPTX đúng một lần bị sandbox chặn: `URLError: <urlopen error [Errno 1] Operation not permitted>`. Vì vậy chưa có binary trong repo; không link tới file local chưa tồn tại và không lưu PDF. Trạng thái visual là exported theo bản xuất trên Moda, review vẫn pending.
 
 ## J. Key Takeaways — Tám điểm ghi nhớ
 

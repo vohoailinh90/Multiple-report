@@ -3,7 +3,7 @@
   "subtitle": "Trung tâm điểm nhìn không phải toàn bộ con người",
   "status": "drafted",
   "review_status": "pending",
-  "visual_status": "not-started",
+  "visual_status": "exported",
   "design_system": {
     "reference": "F01 v4",
     "page_size": [
@@ -807,13 +807,54 @@
       "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
     }
   ],
-  "canvas_ref": null,
-  "canvas_url": null,
-  "exports": {},
-  "presentation_status": "script-drafted",
+  "canvas_ref": "cvs_7Q722EAYX88YC9PTVK219B7Z1W",
+  "canvas_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
+  "exports": {
+    "pptx": {
+      "operation": "export",
+      "status": "complete",
+      "committed": true,
+      "url": "https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pptx-r2-f0-w1-all.pptx?Expires=1824394630&KeyName=mpwa&Signature=URaxv7TyotHJh3o8sCys0SNu4Yw",
+      "format": "pptx",
+      "warnings": [],
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "editor_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
+      "suggested_actions": [
+        "Give the user the download link — it is short-lived; re-export if it expires.",
+        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      ]
+    },
+    "pdf": {
+      "operation": "export",
+      "status": "complete",
+      "committed": true,
+      "url": "https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pdf-r3-f0-w1-all.pdf?Expires=1824394652&KeyName=mpwa&Signature=jFUEcuqmHW7OdyNiqhAbi_2F0rs",
+      "format": "pdf",
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ],
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "editor_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
+      "suggested_actions": [
+        "Give the user the download link — it is short-lived; re-export if it expires.",
+        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      ]
+    }
+  },
+  "presentation_status": "exported",
   "production_notes": [
-    "Không có canvas tại mốc stage1.",
-    "Sơ đồ vector và typography; không ảnh tư liệu chưa kiểm quyền.",
-    "Phần đọc thực tế được ghi rõ; review pending."
+    "All36 pages reviewed once in12 screenshot groups; no corrective edit required.",
+    "Export URLs are genuine; PPTX download attempted once and blocked: URLError: <urlopen error [Errno 1] Operation not permitted>",
+    "PDF warning verbatim: 1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.",
+    "Academic review pending; source reading scope in research. No local binaries saved."
   ]
 }

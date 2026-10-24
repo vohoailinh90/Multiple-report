@@ -105,3 +105,6 @@ Cả ba task PSY-DECK-F02-V1, PSY-DECK-A01-V1, PSY-DECK-J01-V1 đã bàn giao ha
 Reviewer độc lập không thấy finding học thuật nghiêm trọng; ghi nhận và sửa trạng thái trước sản xuất trong mục I/front matter/research. Xem [biên bản review](BATCH-02-REVIEW.md). Giữ drafted/reviewed-with-limitations/exported, không tính hoàn thành toàn bộ Definition of Done. Chưa lưu binary cục bộ vì download bị chặn; không có file giả. Mỗi PDF có một trang rasterized, PPTX không cảnh báo.
 
 Kiểm tích hợp: đủ A–L/37–38–40 slide/markup/export URLs/link nội bộ và trạng thái; 122 unit tests pass; claims.py check --merge-ready pass (hệ cũ, không chứng nhận học thuật); git diff --check pass. Branch PR: psychology/batch-02-three-decks, base psychology/sample-and-coordination (PR #36 chưa merge). Chỉ phiên chính tạo/cập nhật PR của batch, kiểm PR đang có trước mỗi lần tạo. Không tự merge.
+
+
+PR batch đã tạo: [#38](https://github.com/vohoailinh90/Multiple-report/pull/38), branch psychology/batch-02-three-decks. Đây là PR duy nhất của batch PSY-DECK-F02/A01/J01-V1; cập nhật PR này khi sửa, không mở yêu cầu sản xuất hoặc PR trùng. Ba phiên sản xuất đã kết thúc lượt sau bàn giao.

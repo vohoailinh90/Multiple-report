@@ -7,7 +7,7 @@ claimed_at: 2026-10-24T15:18:35Z
 heartbeat_at: 2026-10-24T15:29:16Z
 requested_from: Codex (yêu cầu comment trên PR của bài; task PSY-LESSON-F03-V1 vòng 1)
 requested_at: 2026-10-24T07:26:01Z
-canvas_url: null
+canvas_url: https://moda.app/canvas/3770860f-a810-4ba2-bd71-2442dc079f6b?source=agent
 branch: psychology/lesson-f03
 base: psychology/batch-02-three-decks
 assigned: 2026-10-24

@@ -4,12 +4,12 @@ title: Cuộc đời Jung và mối quan hệ với Freud
 topic: khac
 date: 2026-10-24
 status: drafted
-review_status: pending
-visual_status: not-started
+review_status: reviewed-with-limitations
+visual_status: exported
 ---
 # J01 — Cuộc đời Jung và mối quan hệ với Freud
 
-**Bản nháp chờ phản biện và hình Moda.** Câu hỏi dẫn đường: vì sao một cộng sự quan trọng của Freud phát triển một trường phái riêng, và ta có thể biết điều đó bằng những loại nguồn nào?
+**Theo bài mẫu F01 v4 đã được duyệt; đã có review nội dung với giới hạn và bản trình bày Moda/PPTX/PDF.** Câu hỏi dẫn đường: vì sao một cộng sự quan trọng của Freud phát triển một trường phái riêng, và ta có thể biết điều đó bằng những loại nguồn nào?
 
 ## Lưu ý
 
@@ -45,6 +45,14 @@ Tâm lý học phân tích (analytical psychology) về sau gắn với việc t
 
 Các nguồn có thể dùng “chia tay” theo nghĩa khác nhau. ETH nhắc 1914; triển lãm Library of Congress nhấn mạnh thư tháng 1-1913. Hai mô tả không tự mâu thuẫn nếu một bên nói về quá trình rời phong trào còn bên kia chọn mốc trong quan hệ cá nhân. Cần định nghĩa sự kiện trước khi tranh cãi về năm. [S3; S5]
 
+### Sau Freud: một chương trình nghiên cứu riêng
+
+Sau cuộc chia tách, Jung tiếp tục khảo sát hình ảnh nội tâm và các truyền thống biểu tượng. *The Red Book* là một phần tư liệu của giai đoạn ấy; cách Jung nhìn nhận trải nghiệm riêng cần được đọc như lời tự hiểu của tác giả, không như một thử nghiệm có đối chứng. Về sau, tôn giáo và giả kim thuật trở thành các lĩnh vực so sánh trong công trình của ông. Jung mất năm 1961. [S2, đoạn cuối; S9, mở đầu và “Jung and Alchemy”]
+
+Điều đáng chú ý không phải một tuyến “từ khoa học sang huyền bí” đơn giản. Trong một chương trình tư tưởng có thể cùng tồn tại quan sát lâm sàng, giả thuyết tâm lý, so sánh văn hóa và niềm tin về nguồn gốc trải nghiệm. Chúng phải được phân loại thay vì cùng nhận một nhãn “đã được chứng minh”. Chẳng hạn, tìm thấy hai hình tượng giống nhau là quan sát so sánh; khẳng định chúng có cùng cơ chế phát sinh ở mọi nền văn hóa là bước suy thêm.
+
+Lịch sử cũng không chỉ có hai người đàn ông và một cuộc chia tay. Emma Jung là một nhà phân tích với công việc riêng; mô tả triển lãm nhắc nghiên cứu của bà về truyền thuyết Chén Thánh. Điều này nhắc ta xem xét cộng sự, gia đình, nguồn lực và bối cảnh tổ chức, thay vì viết lịch sử trường phái như thành quả cô lập của một người. [S9, “The Jungs at Home near Zurich”]
+
 ### Nguồn không có cùng khoảng cách với sự kiện
 
 Thư viết trong một cuộc xung đột có thể cho thấy người viết muốn nói gì với người nhận vào lúc đó. Hồi tưởng nhiều thập kỷ sau lại cho thấy cách người ấy hiểu cuộc đời mình khi nhìn lại. Bài giới thiệu của cơ quan lưu trữ giúp định vị tài liệu nhưng vẫn là một cách chọn và tổ chức lịch sử.
@@ -77,7 +85,7 @@ Ví dụ, không nên nói “Jung nghĩ ra individuation vì muốn thoát kh�
 
 ## D. Psychological Mechanism — Một cách đặt giả thuyết theo Jung
 
-Ở bài lịch sử này, phần cơ chế là **mô hình giảng dạy về sự căng thẳng giữa ý thức và chất liệu bị bỏ ngoài tự nhận thức**, dùng để chuẩn bị đọc J02–J11. Nó không phải chẩn đoán động cơ của Jung–Freud và không phải cơ chế đã được xác nhận. Hồ sơ Philemon mô tả trong tư tưởng Jung việc đối thoại với nội dung vô thức và quá trình individuation; phần sắp bước dưới đây do bài tái dựng. [S2, các đoạn về hoạt động sau 1913]
+Ở bài lịch sử này, phần cơ chế là **mô hình giảng dạy về sự căng thẳng giữa ý thức và chất liệu bị bỏ ngoài tự nhận thức**, dùng để chuẩn bị đọc J02–J11. Nó không phải chẩn đoán động cơ của Jung–Freud và không phải cơ chế đã được xác nhận. Hồ sơ Philemon và triển lãm Library of Congress mô tả individuation như một quá trình tích hợp trong hệ thống Jung; phần sắp bước dưới đây do bài tái dựng. [S2, các đoạn về hoạt động sau 1913; S9, “Jung’s Concept of Individuation”]
 
 1. **Có một lập trường ý thức:** người ấy xác định mình là người lý trí, hợp tác hoặc luôn tự chủ.
 2. **Xuất hiện trải nghiệm không khớp:** giận dữ, hình ảnh trong mơ hoặc mong muốn trái với tự mô tả làm họ bối rối.
@@ -147,8 +155,15 @@ Cũng không nên chuyển từ “một cách hiểu chưa được xác nhận
 
 ### 3. Kết quả trị liệu hiện đại
 
-Có nghiên cứu hiện đại về Jungian psychotherapy. Chẳng hạn, nghiên cứu năm 2025 khảo sát thay đổi trước và sau trị liệu trong bối cảnh đào tạo có giám sát. Trong phiên này, metadata và trích đoạn abstract được kiểm, nhưng các phần phương pháp/kết quả/giới hạn chưa đọc đầy đủ do truy cập PMC sau đó bị CAPTCHA. Vì thế, bài không đưa effect size hoặc kết luận hiệu quả nhân quả từ nghiên cứu đó. [S8]
+Roesler và cộng sự (2025) theo dõi **104 người có dữ liệu trước–sau** tại một cơ sở đào tạo trị liệu Jungian có giám sát. Các tổng điểm triệu chứng và một số chỉ số tự báo cáo thay đổi theo hướng cải thiện. Tuy nhiên, nghiên cứu **không có nhóm đối chứng**, dùng thang tự báo cáo và thiếu ghi nhận có hệ thống về bỏ trị liệu; chưa đủ quy thay đổi riêng cho phương pháp Jungian. Đây là bằng chứng hạn chế cho quan hệ nhân quả, không phải bằng chứng “không có ai được lợi”. [S8, Methods; Results/Table 3; “Methodological strengths and limitations”]
 
+| Câu hỏi khi đọc S8 | Cách kết luận phù hợp | Điều phải giữ mở |
+|---|---|---|
+| Có thay đổi trong nhóm được quan sát không? | Tác giả báo cáo có trên các thang tổng được phân tích | Không đồng nghĩa mọi người hoặc mọi miền triệu chứng đều cải thiện |
+| Thay đổi có do riêng Jungian psychotherapy không? | Thiết kế chưa phân biệt đầy đủ nguyên nhân | Diễn biến tự nhiên, kỳ vọng, yếu tố chung và lựa chọn mẫu |
+| Có xác nhận archetypes hoặc synchronicity không? | Không: đối tượng kiểm tra khác nhau | Cần phép đo và phép kiểm cơ chế riêng |
+
+Bảng là khung suy luận biên tập áp dụng vào thiết kế nghiên cứu, không phải lời kết luận nguyên văn của tác giả. Lần khảo sát đầu chỉ đọc được metadata; lượt này đã đọc các phần liên quan từ PDF nhà xuất bản. Không đưa effect size vì bài tập trung vào loại suy luận, không xếp hạng hiệu quả các phương pháp.
 Ngay cả khi một nghiên cứu kết quả cho thấy cải thiện đáng tin cậy, nó vẫn chưa tự xác nhận collective unconscious, archetypes hoặc synchronicity. Để kiểm một cơ chế cụ thể, cần định nghĩa và đo nó độc lập, phân biệt giải thích cạnh tranh và kiểm quan hệ với thay đổi. Chỉ mang tên Jungian không biến một nghiên cứu trị liệu thành phép kiểm toàn bộ Jung.
 
 **Đánh giá phạm vi:** hỗ trợ lịch sử trong bài mạnh hơn hỗ trợ cơ chế; dữ liệu thư từ có tính trực tiếp về phát ngôn nhưng chỉ từng phần. Các tranh luận khái niệm và nghiên cứu trị liệu được dẫn như đường nghiên cứu tiếp, không là kết luận tổng quan toàn ngành. Bài không tuyên bố đã thực hiện systematic review.
@@ -163,16 +178,18 @@ Ngay cả khi một nghiên cứu kết quả cho thấy cải thiện đáng ti
 
 Các cách làm trên là khuyến nghị về đọc và lập luận của bài, không phải quy trình Jungian psychotherapy để tự thực hành. Khi một trải nghiệm gây đau khổ hoặc cản trở đời sống, diễn giải biểu tượng không thay thế đánh giá chuyên môn.
 
-## I. Visual Explanation — Brief chờ thiết kế Moda
+## I. Visual Explanation — Bản trình bày Moda
 
-**Trạng thái:** chưa tạo canvas hoặc hình; không có link ảnh để nhúng. Phiên chính sẽ thực hiện Moda sau khi nội dung được phản biện.
+**Trạng thái: exported.** Đã dựng 40 slide theo mẫu F01 v4 và kiểm render toàn bộ trong phiên sản xuất.
 
-Đề xuất một infographic Indigo/Violet, hai tầng:
+Dòng thời gian tách quan hệ cá nhân năm 1913 và vai trò tổ chức năm 1914. Các ma trận phân biệt tư liệu, diễn giải và bằng chứng; kết quả trị liệu không được dùng để xác nhận collective unconscious hoặc synchronicity.
 
-1. **Dòng thời gian:** 1906 thư từ/cộng tác → 1907 gặp → 1909 Clark → 1912–1913 rạn nứt qua thư → 1914 rút khỏi phong trào. Mũi tên chỉ thứ tự, không chỉ nguyên nhân.
-2. **Ba cột nguồn:** thư đương thời / tự thuật hồi tưởng có biên tập / diễn giải của sử gia. Mỗi cột có “cho phép biết gì” và “chưa cho phép suy ra gì”.
+- [Canvas Moda](https://moda.app/canvas/6ee47b5e-532d-454e-b480-3f5cfc87fa7e?source=agent)
+- [PowerPoint](https://assets-cdn.moda.app/mcp-exports/6ee47b5e-532d-454e-b480-3f5cfc87fa7e/vcrdt-65eca1d0612270c60f7ffce3b219a3dc/pptx-r2-f0-w1-all.pptx?Expires=1824358833&KeyName=mpwa&Signature=bP-aoWak7ujXnTlebsdpvU6rGdQ)
+- [PDF](https://assets-cdn.moda.app/mcp-exports/6ee47b5e-532d-454e-b480-3f5cfc87fa7e/vcrdt-65eca1d0612270c60f7ffce3b219a3dc/pdf-r3-f0-w1-all.pdf?Expires=1824358855&KeyName=mpwa&Signature=ZTFEnODda4ORIMdf-9hYaBT68eA)
+- [Metadata và kiểm tra](../moda/j01-report-v1.json) · [Nguồn ảnh và credit](../references/j01-visual-sources.md)
 
-Caption dự kiến: “Một cuộc chia tách có nhiều loại mốc; một cuộc đời có nhiều lớp nguồn. Không biến nguồn xác nhận ngày tháng thành bằng chứng về động cơ vô thức.” Alt text dự kiến mô tả cả hai tầng, không chỉ nói “dòng thời gian Jung”. Nguồn: S1–S6. Không dùng hình não hoặc mũi tên cho thấy archetype đã được xác nhận sinh học.
+PDF có một trang được xuất dạng ảnh, chữ trên trang đó không chọn hoặc tìm kiếm được. Các link xuất có thể hết hạn; dùng canvas trên để xuất lại, không tạo canvas trùng. Chưa lưu binary/hình minh họa cục bộ vào repository; phần trực quan hiện truy cập qua canvas và bản xuất. Review nội dung ở mức reviewed-with-limitations, không tự coi toàn bộ Definition of Done đã đạt.
 
 ## J. Key Takeaways — Những điểm cần nhớ
 
@@ -215,7 +232,9 @@ Ngày tra cứu: 2026-10-24. Locator là tên mục hoặc đoạn trên nguồn
 - [S2] Philemon Foundation. *About Jung*, không ghi năm trên nội dung tiểu sử. https://philemonfoundation.org/about-philemon/about-jung/. Đã đọc các đoạn bắt đầu “From 1895…”, “His early experimental work…”, “In 1906…” và phần hoạt động sau 1913. Đây là nguồn của tổ chức chuyên về Jung, không bằng chứng độc lập về hiệu quả trị liệu.
 - [S3] Boesch Trüeb, E. (2017, trang hiển thị thêm cập nhật 2026). *Carl Gustav Jung’s letters to Freud revisited*. ETHeritage, ETH Zurich. https://etheritage.ethz.ch/2017/06/23/carl-gustav-jungs-letters-to-freud-revisited/?lang=en. Đã đọc phần “Available in the original”, “A different generation”, “Archives for posterity”.
 - [S4] Jung, C. G. (18-12-1912). Thư gửi Sigmund Freud, bản dịch tiếng Anh trưng bày tại Library of Congress, “Jung’s Criticism of Freud”. https://www.loc.gov/exhibits/red-book-of-carl-jung/ext/rb0008.html và https://www.loc.gov/exhibits/red-book-of-carl-jung/ext/rb0008p2.html. Đã đọc hai trang dịch; không tự nhận đọc bản thảo tiếng Đức. Trang 2 ghi bản dịch theo *The Freud/Jung Letters*, W. McGuire biên tập, R. Manheim và R. E. C. Hull dịch, copyright 1974, bản Harvard University Press 1988.
-- [S5] Freud, S. (3-1-1913). Thư gửi Carl Jung, bản dịch tiếng Anh trưng bày tại Library of Congress, “Freud Ends Friendship with Jung”. https://www.loc.gov/exhibits/red-book-of-carl-jung/ext/rb0009.html và https://wwws.loc.gov/exhibits/red-book-of-carl-jung/ext/rb0009p2.html. Đã đọc tiêu đề ngày và trang dịch 2; trang 3–4 chưa truy cập thành công. Mốc chấm dứt quan hệ được đối chiếu mô tả triển lãm S1, không giả nhận đã đọc toàn bộ thư.
+- [S5] Freud, S. (3-1-1913). Thư gửi Carl Jung, bản dịch tiếng Anh trưng bày tại Library of Congress, “Freud Ends Friendship with Jung”. https://www.loc.gov/exhibits/red-book-of-carl-jung/ext/rb0009.html và https://wwws.loc.gov/exhibits/red-book-of-carl-jung/ext/rb0009p2.html. Đã đọc tiêu đề ngày và trang dịch 2; lượt bổ sung đọc được trang 3 tại https://loc.gov/exhibits/red-book-of-carl-jung/ext/rb0009p3.html, đoạn “Accordingly, I propose…”. Trang 4 chưa đọc thành công; không giả nhận đã đọc toàn bộ thư.
 - [S6] Philemon Foundation. *Jung’s Life and Work: Interviews for Memories, Dreams, Reflections with Aniela Jaffé*, giới thiệu ấn bản Princeton University Press 2025/2026, Sonu Shamdasani biên tập, Thomas Fischer tư vấn biên tập. https://philemonfoundation.org/works/the-original-protocols-for-memories-dreams-reflections/. Đã đọc phần mô tả cấu tạo, biên tập và protocols; chưa đọc toàn bộ sách hoặc protocols gốc.
 - [S7] Roesler, C. (2012). *Are archetypes transmitted more by culture than biology? Questions arising from conceptualizations of the archetype*. Journal of Analytical Psychology, 57(2), 223–246. https://doi.org/10.1111/j.1468-5922.2011.01963.x. Metadata/abstract đối chiếu PubMed qua kết quả tìm kiếm; PDF tại https://cgjung.de/wp-content/uploads/2019/02/Archetypes.pdf đọc trang PDF đầu và phần mở đầu, có dấu hiệu bản dàn trang và khác đánh số trang với metadata. Không dẫn locator trang in từ bản đó.
-- [S8] Roesler, C., Schörry-Volk, E., Müller, A., Zikpi, E. D., Keller, W., & Kayacan, M. (2025). *Effectiveness of Jungian psychotherapy in supervised training settings*. Research in Psychotherapy: Psychopathology, Process and Outcome, 28(2), 869. https://doi.org/10.4081/ripppo.2025.869; https://pmc.ncbi.nlm.nih.gov/articles/PMC12522562/. Metadata đã đọc trên PMC; trích đoạn abstract tìm kiếm được đối chiếu https://pubmed.ncbi.nlm.nih.gov/40874448/. Chưa đọc đầy đủ Methods/Results/Limitations; lần truy cập sau gặp CAPTCHA. Không dùng để kết luận hiệu quả hoặc độ chắc chắn trong bài.
+- [S8] Roesler, C., Schörry-Volk, E., Müller, A., Zikpi, E. D., Keller, W., & Kayacan, M. (2025). *Effectiveness of Jungian psychotherapy in supervised training settings*. Research in Psychotherapy: Psychopathology, Process and Outcome, 28(2), 869. https://doi.org/10.4081/ripppo.2025.869; https://pmc.ncbi.nlm.nih.gov/articles/PMC12522562/. Lượt bổ sung đã đọc abstract và các phần Methods, Results/Table 3, “Methodological strengths and limitations” từ PDF nhà xuất bản https://www.researchinpsychotherapy.org/rpsy/article/download/869/778; locator PDF trang 3–4, 6–7, 10–11 (số trang in 131–132, 134–135, 138–139). Không tự nhận đã thẩm định toàn bộ dữ liệu gốc hoặc đánh giá bias theo công cụ chuẩn.
+
+- [S9] Library of Congress. *The Red Book of Carl G. Jung: Its Origins and Influence — The Red Book and Beyond*, không ghi năm trên phần đọc. https://www.loc.gov/exhibits/red-book-of-carl-jung/the-red-book-and-beyond.html. Đã đọc mở đầu, “Jung and Alchemy”, “The Jungs at Home near Zurich”, “Jung’s Concept of Individuation”; dùng để định vị học thuyết và bối cảnh, không xác nhận cơ chế.

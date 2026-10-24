@@ -1,0 +1,1278 @@
+{
+  "id": "A01",
+  "version": 1,
+  "title": "A01 · Cuộc đời Adler và khác biệt với Freud",
+  "subtitle": "Individual Psychology · Bản học chi tiết theo mẫu F01 v4 · Kịch bản chờ review và Moda",
+  "created_at": "2026-10-24",
+  "producer_agent": "/root/adler_presentation",
+  "canvas_ref": "cvs_657RYAHEEY9YW8A1K5SBW68KQD",
+  "canvas_url": "https://moda.app/canvas/c53e3ca8-b9de-4fb8-8506-65caf8644eed?source=agent",
+  "page_ids": [
+    "p_a",
+    "p_b",
+    "p_c",
+    "p_d",
+    "p_e",
+    "p_f",
+    "p_g",
+    "p_h",
+    "p_i",
+    "p_j",
+    "p_k",
+    "p_l",
+    "p_m",
+    "p_n",
+    "p_o",
+    "p_p",
+    "p_q",
+    "p_r",
+    "p_s",
+    "p_t",
+    "p_u",
+    "p_v",
+    "p_w",
+    "p_x",
+    "p_y",
+    "p_z",
+    "p_aa",
+    "p_ab",
+    "p_ac",
+    "p_ad",
+    "p_ae",
+    "p_af",
+    "p_ag",
+    "p_ah",
+    "p_ai",
+    "p_aj",
+    "p_ak",
+    "p_al"
+  ],
+  "page_count": 38,
+  "final_canvas_revision": "cnt-594ae6cdca7cc464b1dd2b9a631c34c4",
+  "source_files": {
+    "slides": "a01-slides.json",
+    "lesson": "../lessons/01-cuoc-doi-va-khac-biet-voi-freud.md",
+    "research": "../references/a01-research.md",
+    "visual_sources": "../references/a01-visual-sources.md"
+  },
+  "source_sha256": {
+    "slides": "eeb3eb69467bfff9233d77346894419096d1a1d16f803dd6ccb628b937ecf5fa",
+    "lesson": "644d0bc4581c85aa7365ec66bfea03251254707bf02a2367a1d38413df12540e"
+  },
+  "design": {
+    "approved_reference": "../../01-Sigmund-Freud/moda/f01-report-v4.json",
+    "approved_canvas": "https://moda.app/canvas/53a95d71-d2f0-4013-ad6c-7d526ff19027?source=agent",
+    "brand_kit": null,
+    "skip_brand_kit": true,
+    "palette": {
+      "cream": "#F5F0E6",
+      "ink": "#182B2B",
+      "teal": "#14695F",
+      "deep_teal": "#123D3A",
+      "light_teal": "#A6D6C6"
+    },
+    "fonts": {
+      "body": "Be Vietnam Pro",
+      "headings": "Bricolage Grotesque"
+    },
+    "size": [
+      1920,
+      1080
+    ],
+    "body_font_size_px": 32,
+    "heading_font_size_px": 60,
+    "caption_font_size_px": 22,
+    "emoji_headers": true,
+    "outline_icons": true
+  },
+  "slides": [
+    {
+      "title": "Adler: năng lực, chỗ đứng\nvà quan hệ cộng đồng",
+      "section": "A01 · BẢN HỌC CHI TIẾT",
+      "body": "Vì sao cần hỏi một hành vi đang hướng tới điều gì, ngoài việc tìm nó bắt nguồn từ đâu? Bài học đặt Adler vào lịch sử y học và phân tâm học, giải thích quan điểm chỉnh thể, hướng đích và social interest. Ba ví dụ cùng một ca giả định giúp luyện suy luận. Đánh giá hiện đại giữ riêng lý thuyết, dữ liệu quan sát và hiệu quả trị liệu; không dùng thứ tự sinh để đoán một người.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Từ bác sĩ Vienna đến trường phái riêng."
+        ],
+        [
+          "Cách hiểu",
+          "Chỉnh thể, mục tiêu, quan hệ."
+        ],
+        [
+          "Giới hạn",
+          "Giả thuyết cần dữ kiện phân biệt."
+        ]
+      ],
+      "layout": "cover",
+      "source": "A01 · Toàn bài",
+      "note": "Draft để review; chưa có canvas/export.",
+      "visual_brief": "Bìa editorial nền deep teal #123D38, chữ cream, ký hiệu A01 lớn. Dùng typography khi ảnh Adler chưa được xác minh provenance; không dựng chân dung AI. Icon sách nhỏ; ảnh Adler candidate-HOLD chỉ được thay vào sau kiểm quyền và nhận diện."
+    },
+    {
+      "title": "🎯 Sau bài này, bạn cần làm được gì?",
+      "section": "A · LEARNING OBJECTIVES",
+      "body": "Bạn cần định vị các mốc Adler và sự tách nhóm năm 1911; giải thích individual theo nghĩa chỉnh thể trong bối cảnh; phân biệt phát triển năng lực với thống trị. Khi đối chiếu Freud, hãy chỉ rõ tác phẩm và giai đoạn thay vì dùng khẩu hiệu. Kỹ năng cuối cùng là nhận ra một diễn giải đang vượt dữ kiện, nhất là khi dùng vị trí sinh hoặc một hành vi đơn lẻ để kết luận nhân cách.",
+      "nodes": [
+        [
+          "Định vị",
+          "Ai, lúc nào, trong bối cảnh nào?"
+        ],
+        [
+          "Giải thích",
+          "Khái niệm và cơ chế được đề xuất."
+        ],
+        [
+          "Đánh giá",
+          "Nguồn, phép đo, giả thuyết thay thế."
+        ]
+      ],
+      "layout": "route",
+      "source": "A01 · A",
+      "note": "Tài liệu giáo dục, không tự chẩn đoán hoặc thay thế trị liệu.",
+      "visual_brief": "Ba chặng đường đọc đi lên nhẹ như mẫu F01v4; icon target và emoji🎯 giữ riêng text. Teal accent cho ba nhãn, không icon trang trí lấn sơ đồ."
+    },
+    {
+      "title": "🕰️ 1870–1911: bác sĩ và bước phân hóa",
+      "section": "B · HISTORICAL BACKGROUND",
+      "body": "Adler sinh tại Vienna năm 1870, nhận bằng y khoa năm 1895. Công trình năm 1907 về thiếu hụt của cơ quan tạo một điểm xuất phát cho câu hỏi bù trừ. Ông tách khỏi Freud năm 1911 khi phát triển cách tiếp cận riêng. Những mốc này định vị quá trình tư tưởng; chúng không chứng minh động cơ cá nhân hoặc cho phép suy học thuyết chỉ từ chuyện tuổi thơ của tác giả.",
+      "nodes": [
+        [
+          "1870 / 1895",
+          "Sinh ở Vienna; nhận bằng y khoa."
+        ],
+        [
+          "1907",
+          "Công trình về Organminderwertigkeit."
+        ],
+        [
+          "1911",
+          "Tách khỏi nhóm Freud."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Horn, Biografie và Werke",
+      "note": "Không gộp mốc rời nhóm với mọi mốc thành lập/đổi tên hội.",
+      "visual_brief": "Dòng thời gian ba điểm; nối bằng đường không đầu mũi tên nhân quả. Ảnh Adler chưa rõ quyền thay bằng thẻ tên; không dùng ngày upload portrait làm năm tác phẩm."
+    },
+    {
+      "title": "Giáo dục và cộng đồng đi vào chương trình",
+      "section": "B · LỊCH SỬ 1920–1937",
+      "body": "Trang lịch sử Đại học Vienna ghi nhận hoạt động Adler liên quan cải cách giáo dục trong thập niên 1920. Menschenkenntnis xuất bản năm 1927, được biết bằng tên tiếng Anh Understanding Human Nature. Ông mất ở Aberdeen năm 1937. Thực hành giáo dục cho thấy phạm vi quan tâm vượt khỏi một phòng trị liệu; còn việc những cách tiếp cận ấy hiệu quả ra sao vẫn là câu hỏi nghiên cứu riêng.",
+      "nodes": [
+        [
+          "1920s",
+          "Giáo dục và tư vấn nuôi dạy."
+        ],
+        [
+          "1927",
+          "Menschenkenntnis."
+        ],
+        [
+          "1937",
+          "Qua đời tại Aberdeen."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Biografie/Werke · [S7] Thư mục",
+      "note": "Chưa khẳng định một năm chính xác cho mọi cơ sở tư vấn.",
+      "visual_brief": "Timeline thứ hai đổi hướng dọc với icon school/community. Có ô nhỏ “lịch sử ảnh hưởng ≠ bằng chứng hiệu quả”; không chart số liệu không nguồn."
+    },
+    {
+      "title": "1911 không chỉ là chuyện thầy trò bất hòa",
+      "section": "B · ĐỌC LỊCH SỬ TƯ TƯỞNG",
+      "body": "Chuyện kể “học trò chống thầy” dễ nhớ nhưng thiếu những câu hỏi học thuật. Hai hệ thống chọn điều gì làm đơn vị giải thích, hỏi về động lực ra sao và lấy dữ liệu nào để khái quát? Sự kiện tách nhóm có thể xác nhận mà không cần đoán toàn bộ tâm lý tác giả. Một trường phái cũng thay đổi qua thời gian; không nên gộp các từ Adler dùng ở nhiều giai đoạn thành một nghĩa bất biến.",
+      "nodes": [
+        [
+          "Sự kiện",
+          "Rời nhóm năm 1911."
+        ],
+        [
+          "Câu hỏi tư tưởng",
+          "Đơn vị, động lực, phương pháp."
+        ],
+        [
+          "Điều chưa biết",
+          "Không suy hết động cơ cá nhân."
+        ]
+      ],
+      "layout": "layers",
+      "source": "[S1–S2] Lịch sử và nguồn diễn giải",
+      "note": "Đây là khung đọc của bài, không một kết luận tâm lý về Adler/Freud.",
+      "visual_brief": "Ba tầng tư liệu–câu hỏi–giới hạn; dùng hồ sơ mở và icon archive. Không dùng sơ đồ đối đầu hai chân dung như trận thắng/thua."
+    },
+    {
+      "title": "Một nguồn nói gì, và ta thực sự đã đọc gì?",
+      "section": "B · NGUỒN VÀ KHOẢNG CÁCH",
+      "body": "Nguồn đại học giúp định vị lịch sử. Boeree trình bày một cách hiểu theo trường phái. Các tuyển trích Stein chứa Adler lẫn tác giả về sau, nên phải giữ nhãn người nói. Chương Mind and Body đọc được qua bản chép, chưa đối chiếu bản in; metadata năm trên trang còn bất nhất. Việc nguồn có URL hoặc mang tên tác giả chưa đồng nghĩa ta đã đọc đúng toàn văn và ấn bản.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Đại học Vienna: Biografie/Werke."
+        ],
+        [
+          "Qua trung gian",
+          "Boeree; Stein; bản chép Ch 2."
+        ],
+        [
+          "Cần phân biệt",
+          "Tác giả, biên tập, bản dịch, năm."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1–S4], [S8] · a01-research.md",
+      "note": "Không nhận đã đối chiếu nguyên bản Adler khi chưa thực hiện.",
+      "visual_brief": "Ledger ba cột loại nguồn–đã đọc–chưa biết; icon magnifying-glass. Nhãn trạng thái bằng chữ, không chỉ màu; chân trang link research log."
+    },
+    {
+      "title": "🧠 Individual: một chỉnh thể trong hoàn cảnh",
+      "section": "C · CORE THEORY 1",
+      "body": "Individual Psychology thường được giải thích theo nghĩa không chia cắt. Cách suy nghĩ, cảm xúc và hành động cần được xem trong một mẫu hình sống, cùng môi trường quan hệ. Vì thế, gọi một học sinh “lười” trước khi biết nhiệm vụ, lớp học và nguồn lực là quá sớm. Tuy nhiên, thêm bối cảnh chưa tự làm giả thuyết đúng; người quan sát vẫn có thể chọn lọc những chi tiết hợp câu chuyện mình đã tin.",
+      "nodes": [
+        [
+          "Con người",
+          "Suy nghĩ, cảm xúc, hành động."
+        ],
+        [
+          "Quan hệ",
+          "Gia đình, lớp, công việc."
+        ],
+        [
+          "Hoàn cảnh",
+          "Yêu cầu và nguồn lực thực tế."
+        ]
+      ],
+      "layout": "concentric",
+      "source": "[S2] Theory · [S1] Biografie",
+      "note": "Holism là định hướng xem xét, chưa là công thức nhân quả.",
+      "visual_brief": "Ba vùng lồng nhau bằng nhãn rõ, không vẽ não như vị trí tâm trí. Người ở tâm, quan hệ và hoàn cảnh bao quanh; icon person/community."
+    },
+    {
+      "title": "Mục tiêu tổ chức hiện tại, không kéo ngược thời gian",
+      "section": "C · CORE THEORY 2",
+      "body": "Cách hỏi hướng đích xem hành vi đang phục vụ hình dung nào về an toàn, năng lực hoặc chỗ đứng. Mục tiêu có thể chưa được người ấy phát biểu rõ. Ta không cần giả định tương lai tác động ngược thời gian: chính hình dung đang có hôm nay mới là điều cần khảo sát. Nếu chỉ suy mục tiêu từ kết quả rồi luôn bảo nó đúng, ta đang giải thích sau sự kiện thay vì kiểm tra.",
+      "nodes": [
+        [
+          "Hiện tại",
+          "Hình dung điều quan trọng."
+        ],
+        [
+          "Lựa chọn",
+          "Chiến lược có thể theo đuổi."
+        ],
+        [
+          "Cần kiểm",
+          "Lời kể và dữ kiện cạnh tranh."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S2] Lifestyle and Teleology · [S8] Ch 2",
+      "note": "Không được khẳng định biết “mục tiêu thật” bất chấp lời người ấy.",
+      "visual_brief": "Flow ba khối; một nhánh chặn mũi tên ngược từ “tương lai” về “quá khứ”. Nhãn “mô hình diễn giải”, icon compass; không dùng thời gian như lực vật lý."
+    },
+    {
+      "title": "Vượt khó khác với vượt lên trên người khác",
+      "section": "C · CORE THEORY 3",
+      "body": "Trong tài liệu được tuyển, Adler phân biệt một hướng cải thiện tình thế với sự theo đuổi ưu thế cá nhân bằng cách đặt người khác dưới mình. Bởi vậy, superiority không có một cách dịch giản đơn cho mọi đoạn văn. Hai người cùng chăm chỉ có thể hướng tới học kỹ năng hoặc giữ vị trí không ai vượt. Chỉ từ giờ làm việc, ta chưa biết họ thuộc hướng nào; cần bối cảnh và lời giải thích.",
+      "nodes": [
+        [
+          "Phát triển năng lực",
+          "Học, giải quyết vấn đề, hợp tác."
+        ],
+        [
+          "Ưu thế cá nhân",
+          "Giá trị gắn với việc đứng trên."
+        ],
+        [
+          "Giữ mở",
+          "Cùng hành vi có nhiều mục tiêu."
+        ]
+      ],
+      "layout": "fork",
+      "source": "[S3] Phần Alfred Adler; trích đoạn qua trung gian",
+      "note": "Không coi mọi thành tích là bù trừ hoặc mọi cạnh tranh là bệnh lý.",
+      "visual_brief": "Nhánh đôi từ một hành vi trung tính; nhãn “khả năng A/B”, không đỏ/xanh đạo đức. Icon tool vs podium chỉ để phân biệt khái niệm, không chẩn đoán."
+    },
+    {
+      "title": "Social interest không phải mức độ hoạt náo",
+      "section": "C · CORE THEORY 4",
+      "body": "Social interest, Gemeinschaftsgefühl, đặt câu hỏi cá nhân sống cùng và đóng góp với người khác ra sao. Người ít nói có thể hợp tác tốt; người nói năng tự tin có thể không làm phần việc chung. Vì vậy, không đồng nhất khái niệm này với hướng ngoại. Cũng không lấy khó khăn hòa nhập trong một môi trường phân biệt đối xử làm bằng chứng người ấy thiếu giá trị hoặc thiếu quan tâm xã hội.",
+      "nodes": [
+        [
+          "Hợp tác",
+          "Quan tâm nhiệm vụ và người khác."
+        ],
+        [
+          "Hướng ngoại",
+          "Một cách biểu hiện khác, không tương đương."
+        ],
+        [
+          "Hoàn cảnh",
+          "Môi trường có cho phép tham gia?"
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S2] Social Interest · [S4] Alfred Adler",
+      "note": "Không dùng social interest làm nhãn kết tội người gặp khó khăn.",
+      "visual_brief": "Hai thẻ “ít nói/hợp tác” và “nói nhiều/chưa hợp tác”, thêm dải bối cảnh. Icon handshake; emoji🫱🏻‍🫲🏽 nếu font hỗ trợ, không thay nội dung chữ."
+    },
+    {
+      "title": "Một chương Adler đọc được cũng cần được phản biện",
+      "section": "C · PRIMARY TEXT, QUA BẢN CHÉP",
+      "body": "Chương Mind and Body đặt tương tác thân–tâm và hướng đích ở trung tâm, nhưng còn đưa các khẳng định rất rộng về cảm xúc và phong cách sống. Đọc lịch sử trung thực không chỉ chọn những câu nghe hiện đại. Các phát biểu đó là lập trường tác giả trong văn bản đang đọc, chưa phải kết quả thực nghiệm. Không được chuyển chúng thành lời buộc tội rằng người bị lo âu đang cố ý thao túng người khác.",
+      "nodes": [
+        [
+          "Văn bản",
+          "Thân–tâm, mục tiêu, phong cách."
+        ],
+        [
+          "Phạm vi rộng",
+          "Khẳng định về cảm xúc cần kiểm."
+        ],
+        [
+          "Ranh giới",
+          "Chức năng giả định ≠ cố ý."
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S8] Mind and Body, selected-chapter-text-read",
+      "note": "Metadata trang chép không nhất quán1931/1932/1933; không tự gán ấn bản/trang in.",
+      "visual_brief": "Bố cục cân bằng “đọc sát văn bản / đánh giá độc lập”; icon document-check. Không trích dài; badge “bản chép qua trung gian”, không ảnh sách giả."
+    },
+    {
+      "title": "Adler và Freud: đổi trọng tâm câu hỏi",
+      "section": "C · SO SÁNH CÓ PHẠM VI",
+      "body": "Một trọng tâm Adlerian là xem hành vi trong mẫu hình mục tiêu và quan hệ. Một trọng tâm của Freud Lecture II năm 1910 là xung đột, dồn nén và sự chống cự khi chất liệu trở lại ý thức. Đây là so sánh hai trọng tâm được chọn, không toàn bộ hai tác giả. Không được từ đó nói Adler bỏ quá khứ hoặc Freud không quan tâm đời sống hiện tại và quan hệ.",
+      "nodes": [
+        [
+          "Adler",
+          "Hành vi đang hướng tới điều gì?"
+        ],
+        [
+          "Freud, Lecture II",
+          "Xung đột và chất liệu khó ý thức?"
+        ],
+        [
+          "Cả hai",
+          "Giả thuyết vẫn cần đánh giá."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1–S4], [S8] Adler · [S5] Freud Lecture II",
+      "note": "Không bảng xếp hạng đúng/sai; không vẽ hai chân dung đối địch.",
+      "visual_brief": "Ma trận2 cột cùng kích thước, chân dung Freud asset-freud nếu cần ở cột phải, Adler typography ở trái đến khi ảnh rõ quyền. Cột cuối “điều không thể suy”."
+    },
+    {
+      "title": "⚙️ Bản đồ cơ chế: từ khó khăn đến phản hồi",
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "body": "Chuỗi giảng dạy gồm gặp nhiệm vụ, gán ý nghĩa, hình thành hướng tìm an toàn hoặc chỗ đứng, chọn chiến lược và nhận phản hồi. Đường trở lại là xem xét giả thuyết theo dữ kiện mới. Mỗi mũi tên là một quan hệ được mô hình đề xuất, không một cơ chế sinh học đã xác nhận. Cần giữ các yếu tố kỹ năng, nguồn lực và môi trường bên cạnh, thay vì chỉ tìm niềm tin cá nhân.",
+      "nodes": [
+        [
+          "1–2",
+          "Nhiệm vụ → ý nghĩa được gán."
+        ],
+        [
+          "3–4",
+          "Mục tiêu giả định → chiến lược."
+        ],
+        [
+          "5–6",
+          "Phản hồi → xem xét lại."
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "A01 · D · Tổng hợp giảng dạy, nền [S3–S4], [S8]",
+      "note": "Không phải sơ đồ nguyên văn hoặc một mô hình thực nghiệm đã kiểm.",
+      "visual_brief": "Flow chính với vòng phản hồi neo; một lane song song “kỹ năng/nguồn lực/hoàn cảnh”. Tất cả mũi tên gắn nhãn mô hình; icon gear⚙️."
+    },
+    {
+      "title": "Bước 1–2: một khó khăn, hai cách gán nghĩa",
+      "section": "D · NHIỆM VỤ VÀ TỰ ĐÁNH GIÁ",
+      "body": "Một nhiệm vụ chưa làm được có thể được hiểu là thiếu kỹ năng cụ thể hoặc là nguy cơ bị mất tôn trọng. Hai cách hiểu dẫn tới các câu hỏi khác nhau. Nhưng người quan sát không thể thay lời người ấy bằng một câu chuyện sẵn. Hãy tách điều xảy ra, điều người ấy nói và điều ta suy. Cũng cần xem nhiệm vụ có rõ ràng, phù hợp năng lực và nguồn lực hay không.",
+      "nodes": [
+        [
+          "Sự kiện",
+          "Chưa làm được nhiệm vụ."
+        ],
+        [
+          "Ý nghĩa A",
+          "Kỹ năng này cần học."
+        ],
+        [
+          "Ý nghĩa B",
+          "Sai đồng nghĩa mất giá trị."
+        ]
+      ],
+      "layout": "branch",
+      "source": "A01 · D1–D2 · Minh họa của bài",
+      "note": "Hai nhánh là ví dụ, không đầy đủ mọi khả năng.",
+      "visual_brief": "Một khối sự kiện rẽ hai nhánh ý nghĩa; thêm khung bối cảnh dưới. Node suy luận nét đứt, quan sát nét liền, có chú giải."
+    },
+    {
+      "title": "Bước 3–4: từ hướng tìm an toàn đến chiến lược",
+      "section": "D · MỤC TIÊU VÀ CÁCH ỨNG PHÓ",
+      "body": "Cá nhân có thể tìm chỗ đứng bằng học thêm, xin hỗ trợ, kiểm soát mọi việc hoặc tránh bị đánh giá. Danh sách này mở ra khả năng, không phân loại người thành những kiểu bệnh. Một chiến lược chỉ được hiểu trong quan hệ cụ thể. Nếu bị đánh giá thiếu công bằng, rút lui có thể liên quan điều kiện thật chứ không chỉ một niềm tin sai hoặc mong muốn tránh trách nhiệm.",
+      "nodes": [
+        [
+          "Học thêm",
+          "Tăng năng lực."
+        ],
+        [
+          "Xin hỗ trợ",
+          "Chia sẻ nhiệm vụ."
+        ],
+        [
+          "Tránh/kiểm soát",
+          "Cần hỏi bối cảnh và tác dụng."
+        ]
+      ],
+      "layout": "cards",
+      "source": "A01 · D3–D4 · Mô hình đề xuất",
+      "note": "Không kết luận động cơ từ hình thức chiến lược.",
+      "visual_brief": "Ba thẻ cùng màu trung tính, không trục “lành/bệnh”; icon book/help/settings. Mũi tên từ mục tiêu ghi “có thể”."
+    },
+    {
+      "title": "Bước 5–6: phản hồi có thể giữ hoặc đổi chiến lược",
+      "section": "D · VÒNG PHẢN HỒI",
+      "body": "Né nhiệm vụ có thể giúp bớt lo ngay nhưng cũng giảm cơ hội học. Nếu một điều kiện thay đổi làm hành vi thay đổi, đó là dữ liệu để sửa cách hiểu. Ví dụ, học sinh tham gia khi yêu cầu rõ hơn khiến giải thích về nhiệm vụ đáng chú ý hơn câu chuyện “em muốn chống giáo viên”. Không cần giữ giả thuyết hướng đích bằng mọi giá; chính khả năng sửa mới giúp nó hữu ích.",
+      "nodes": [
+        [
+          "Ngắn hạn",
+          "Phản hồi sau một lựa chọn."
+        ],
+        [
+          "Dài hơn",
+          "Cơ hội học và tham gia."
+        ],
+        [
+          "Dữ kiện mới",
+          "Sửa giả thuyết khi điều kiện đổi."
+        ]
+      ],
+      "layout": "loop",
+      "source": "A01 · D5–D6 · Suy luận giảng dạy",
+      "note": "Không trình bày vòng này như kết quả của thí nghiệm đã thực hiện.",
+      "visual_brief": "Vòng ba khối anchored-connectors, chỗ rẽ sang “dữ kiện chống lại”. Nét đứt cho giả thuyết, không vòng tự xác nhận."
+    },
+    {
+      "title": "Khi “mục tiêu bí mật” làm giả thuyết không thể sai",
+      "section": "D · PHẢN BIỆN PHƯƠNG PHÁP",
+      "body": "Nếu thành công được gọi là đạt mục tiêu, còn thất bại luôn được gọi là âm thầm đạt một mục tiêu khác, mô hình có thể giải thích mọi kết quả sau sự kiện. Hãy nói trước dữ kiện nào khiến mình đổi ý. Lời phủ nhận của người được hỏi cần được tôn trọng, không tự biến thành bằng chứng họ thiếu hiểu biết về bản thân. Suy luận hướng đích là lời mời tìm hiểu, không giấy phép áp đặt.",
+      "nodes": [
+        [
+          "Dễ mắc",
+          "Giải thích được mọi kết quả."
+        ],
+        [
+          "Câu hỏi kiểm",
+          "Điều gì khiến mình đổi ý?"
+        ],
+        [
+          "Nguyên tắc",
+          "Giữ lời người ấy và giải thích khác."
+        ]
+      ],
+      "layout": "decision",
+      "source": "A01 · D · Phản biện phương pháp của bài",
+      "note": "Không gán sự chống đối hay gian dối khi một người không đồng ý.",
+      "visual_brief": "Cây quyết định: dữ kiện ủng hộ/không ủng hộ→giữ tạm/sửa; không mọi nhánh quay lại cùng kết luận. Icon split-path."
+    },
+    {
+      "title": "💬 Ví dụ 1: Hà ngại phát âm ngoại ngữ",
+      "section": "E · TÌNH HUỐNG GIẢ ĐỊNH 1",
+      "body": "Hà chưa quen một âm mới và im lặng khi đến lượt nói. Có thể em cần hướng dẫn kỹ thuật; cũng có thể em coi sai phát âm là sẽ bị xem thường. Một lần im lặng chưa đủ xác định cách hiểu nào, càng chưa đủ gọi inferiority complex. Câu hỏi nên phân biệt kỹ năng còn thiếu, cảm giác trong tình huống và đánh giá toàn thể giá trị bản thân.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Im lặng khi phát âm."
+        ],
+        [
+          "Cần hỏi",
+          "Khó ở kỹ thuật hay sợ đánh giá?"
+        ],
+        [
+          "Tránh kết luận",
+          "Một lần im lặng ≠ complex."
+        ]
+      ],
+      "layout": "example",
+      "source": "A01 · E1 · Do bài tạo",
+      "note": "Không dùng khuôn phản hồi như lời hứa trị liệu.",
+      "visual_brief": "Thẻ tình huống với icon microphone, hai speech-bubbles gợi câu hỏi, nhãn “giả định”. Không ảnh người thật làm Hà."
+    },
+    {
+      "title": "Ví dụ 2: Minh luôn nhận thêm việc",
+      "section": "E · TÌNH HUỐNG GIẢ ĐỊNH 2",
+      "body": "Cùng hành vi làm thêm có thể gắn với học kỹ năng, hỗ trợ nhóm, thu nhập hoặc nỗi lo bị bỏ lại. Cũng có thể áp lực quản lý làm lựa chọn thiếu tự nguyện. Hãy hỏi việc nhận thêm giúp Minh đạt điều gì và điều gì làm việc từ chối khó. Không được biến hoàn cảnh lao động bất công thành lỗi niềm tin cá nhân chỉ vì ta thích một mô hình giải thích tâm lý.",
+      "nodes": [
+        [
+          "Có thể có lợi",
+          "Học, giúp nhóm, thu nhập."
+        ],
+        [
+          "Có thể có sức ép",
+          "Sợ bị bỏ lại; quản lý ép."
+        ],
+        [
+          "Câu hỏi",
+          "Mức tự nguyện và điều kiện thật?"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "A01 · E2 · Do bài tạo",
+      "note": "Không đoán động cơ từ số giờ làm việc.",
+      "visual_brief": "Swimlane lời người lao động–điều kiện tổ chức; icon briefcase. Dùng các nhánh “có thể”, không mind-reading hoặc thang tự ti."
+    },
+    {
+      "title": "Ví dụ 3: hai anh em và khuôn thứ tự sinh",
+      "section": "E · TÌNH HUỐNG GIẢ ĐỊNH 3",
+      "body": "Chị cả đặt vé cho chuyến đi còn em út ít phát biểu. Khuôn “con đầu lãnh đạo, con út lệ thuộc” nghe hợp nhưng chị có thể chỉ giàu kinh nghiệm đặt vé, còn em đang xử lý một việc khác. Vai trò gia đình có thể đáng hỏi, nhưng thứ tự sinh chưa thay lời kể và dữ kiện nhiệm vụ. Hãy tìm phân chia trách nhiệm thực tế trước khi kể một câu chuyện về nhân cách.",
+      "nodes": [
+        [
+          "Biểu hiện",
+          "Một người chủ động, một người im."
+        ],
+        [
+          "Giải thích khác",
+          "Kinh nghiệm và việc đang làm."
+        ],
+        [
+          "Bài học",
+          "Vị trí sinh không mô tả sẵn."
+        ]
+      ],
+      "layout": "sequence",
+      "source": "A01 · E3 · Do bài tạo",
+      "note": "Không dùng thứ tự sinh như định mệnh tính cách.",
+      "visual_brief": "Hai nhân vật biểu tượng có nhãn vai trong chuyến đi, không emoji trẻ sơ sinh. Chuyển từ “khuôn nhanh” sang “câu hỏi dữ kiện”."
+    },
+    {
+      "title": "📋 Case An: giữ dữ kiện hẹp trước khi diễn giải",
+      "section": "F · CASE STUDY 1",
+      "body": "An, 15 tuổi làm bài ở nhà nhưng ít nộp phần phải trình bày trước lớp. Trong nhóm, em sửa tài liệu kỹ nhưng không nhận phần nói. An bảo “phải chắc hoàn toàn mới dám lên”. Lớp hay cười khi bạn nói nhầm. Ca hoàn toàn giả định để luyện lập giả thuyết; không đủ thông tin chẩn đoán. Mô tả đúng là tránh một loại nhiệm vụ, không phải “lười mọi thứ”.",
+      "nodes": [
+        [
+          "Có làm",
+          "Chuẩn bị và sửa tài liệu."
+        ],
+        [
+          "Chưa làm",
+          "Trình bày trước lớp."
+        ],
+        [
+          "Bối cảnh",
+          "Lớp trêu khi nói sai."
+        ]
+      ],
+      "layout": "dossier",
+      "source": "A01 · F · Ca giả định, không nghiên cứu công bố",
+      "note": "Không ảnh học sinh thật; không đặt nhãn bệnh.",
+      "visual_brief": "Hồ sơ3 khối dữ kiện/lời kể/bối cảnh; emoji📋 và icon file. Ghi “giả định” nổi rõ và tách lời An khỏi suy luận."
+    },
+    {
+      "title": "Case An: giữ ít nhất hai giả thuyết cạnh tranh",
+      "section": "F · CASE STUDY 2",
+      "body": "Một giả thuyết Adlerian là An bảo vệ chỗ đứng bằng cách tránh nguy cơ bị xem là kém. Khả năng khác là em thiếu kỹ năng nói, chưa hiểu tiêu chí hoặc bị trêu thật. Câu “phải chắc hoàn toàn” gợi một tiêu chuẩn đáng hỏi, chưa chứng minh mọi lĩnh vực đời sống đều bị nó chi phối. Cần ghi rõ bằng chứng đang có và điều mỗi giả thuyết còn cần biết.",
+      "nodes": [
+        [
+          "Hướng đích",
+          "Tránh mất chỗ đứng?"
+        ],
+        [
+          "Kỹ năng/nhiệm vụ",
+          "Thiếu luyện hoặc tiêu chí mơ hồ?"
+        ],
+        [
+          "Môi trường",
+          "Bị trêu hoặc thiếu an toàn?"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "A01 · F2–F4 · Phân tích của bài",
+      "note": "Không gán mục tiêu với sự chắc chắn chỉ từ một câu kể.",
+      "visual_brief": "Ma trận giả thuyết–dữ kiện cần–điều phản bác. Ba hàng ngang bằng; mục tiêu không được đặt cột “nguyên nhân thật”."
+    },
+    {
+      "title": "Case An: tìm điều kiện phân biệt và sửa cách hiểu",
+      "section": "F · CASE STUDY 3",
+      "body": "Hỏi An muốn hỗ trợ gì, rồi xem việc tiêu chí rõ, nói trong nhóm nhỏ hoặc lớp chấm dứt trêu chọc có làm mức tham gia đổi không. Đây là hỗ trợ giáo dục có đồng thuận, không một thí nghiệm trị liệu. Nếu tham gia tăng khi lớp an toàn hơn, trọng tâm phải gồm môi trường. Nếu chưa tăng, hãy tiếp tục tìm hiểu; đừng kết luận An không muốn hợp tác hoặc đang thắng một cuộc đấu quyền lực.",
+      "nodes": [
+        [
+          "Đồng thuận",
+          "Hỏi loại hỗ trợ An muốn."
+        ],
+        [
+          "Điều kiện đổi",
+          "Tiêu chí, quy mô, an toàn lớp."
+        ],
+        [
+          "Kết luận đổi",
+          "Giả thuyết theo dữ kiện mới."
+        ]
+      ],
+      "layout": "decision",
+      "source": "A01 · F5–F6 · Phân tích của bài",
+      "note": "Khó khăn kéo dài có thể cần trao đổi với chuyên môn phù hợp.",
+      "visual_brief": "Cây kiểm tra điều kiện→quan sát→sửa; nhánh chưa đổi dẫn “tìm thêm”, không “xác nhận chống đối”. Icon classroom-check."
+    },
+    {
+      "title": "🔬 Rohrer 2015: một phép kiểm về thứ tự sinh",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Nghiên cứu dùng ba panel quốc gia và so sánh trong gia đình lẫn giữa gia đình. Tác giả không tìm thấy hiệu ứng thứ tự sinh đối với các nét rộng được nêu như hướng ngoại, ổn định cảm xúc, dễ chịu, tận tâm và trí tưởng tượng; miền trí tuệ có kết quả khác. Điều được đánh giá là khẳng định cụ thể bằng phép đo cụ thể, không mọi quan hệ gia đình hay toàn bộ Adler.",
+      "nodes": [
+        [
+          "Dữ liệu",
+          "Ba panel Mỹ, Anh, Đức."
+        ],
+        [
+          "Thiết kế",
+          "Trong và giữa gia đình."
+        ],
+        [
+          "Phạm vi",
+          "Nét rộng nêu trong nghiên cứu."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S6] Abstract và trang14224–14225",
+      "note": "Chưa tái phân tích dữ liệu hoặc kiểm đầy đủ phụ lục.",
+      "visual_brief": "Infographic phương pháp2 thiết kế; không biểu đồ effect size vì bài chưa trích số. Nhãn “nghiên cứu quan sát”, icon test-tube🔬."
+    },
+    {
+      "title": "Ashton & Lee 2025: thêm kết quả cần đối chiếu",
+      "section": "G · BẰNG CHỨNG TRÁI CHIỀU",
+      "body": "Abstract được lập chỉ mục của nghiên cứu HEXACO báo liên hệ giữa vị trí sinh, số anh chị em và một số chiều, đặc biệt Honesty–Humility và Agreeableness. Khác biệt theo vị trí nhỏ hơn khi xem trong cùng quy mô anh chị em. Ở bài này chỉ kiểm metadata và trích đoạn abstract, chưa đọc được toàn văn. Vì vậy, không đưa một đánh giá đầy đủ về chất lượng hoặc dùng kết quả để đoán từng người.",
+      "nodes": [
+        [
+          "Thông tin mới",
+          "Liên hệ trong một số chiều HEXACO."
+        ],
+        [
+          "Cần tách",
+          "Vị trí sinh và số anh chị em."
+        ],
+        [
+          "Mức đã đọc",
+          "Metadata và abstract excerpts."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S9] PNAS 122(1),e2416709121 · online 23-12-2024",
+      "note": "Không effect size, không gọi toàn văn đã kiểm; PMC CAPTCHA/PNAS cookie.",
+      "visual_brief": "Hai lane “kết quả abstract / giới hạn truy cập”. Không chart số, không “nghiên cứu mới chứng minh Adler đúng”. Nhãn trạng thái chữ rõ."
+    },
+    {
+      "title": "Vì sao không kết luận theo khẩu hiệu từ hai nghiên cứu?",
+      "section": "G · PHÉP ĐO VÀ MẪU",
+      "body": "Không tìm thấy một hiệu ứng không có nghĩa gia đình hoàn toàn không quan trọng. Có liên hệ trung bình cũng không biến vị trí sinh thành quy luật nhân cách. Hai nghiên cứu dùng thang đo, mẫu và cách phân tích khác nhau; HEXACO Agreeableness không tự tương đương Big Five Agreeableness. Cần đọc toàn bộ nghiên cứu, xét quy mô gia đình và các giải thích thay thế trước khi đánh giá mâu thuẫn nằm ở đâu.",
+      "nodes": [
+        [
+          "Construct",
+          "Thang đo có cùng nội dung?"
+        ],
+        [
+          "Sample",
+          "Mẫu có tương đương?"
+        ],
+        [
+          "Design",
+          "Biến và cách so sánh giống?"
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S6–S9] + phân tích phương pháp của bài",
+      "note": "S6/S9 không phải phép kiểm toàn bộ Individual Psychology.",
+      "visual_brief": "Thẻ2 nghiên cứu ở trên, ba câu hỏi nối xuống; không bảng thắng/thua. Dùng icon ruler/persons/filter; nhãn “association≠causation”."
+    },
+    {
+      "title": "Ba cấp bằng chứng cần được giữ riêng",
+      "section": "G · LỊCH SỬ, LÝ THUYẾT, CAN THIỆP",
+      "body": "Một nguồn xác nhận Adler đã viết điều gì không chứng minh cơ chế ấy đúng. Một nghiên cứu về hợp tác hoặc mục tiêu không tự xác nhận toàn bộ Individual Psychology. Một can thiệp có kết quả tốt cũng cần biết cho ai, so với gì và thành tố nào đang được kiểm. A01 chưa tổng quan hiệu quả Adlerian psychotherapy; nó giữ trọng tâm lịch sử, khái niệm và một ví dụ về kiểm chứng.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Tác giả nói/gia nhập/viết gì?"
+        ],
+        [
+          "Lý thuyết",
+          "Khái niệm đo và phản chứng ra sao?"
+        ],
+        [
+          "Can thiệp",
+          "Kết quả nào, cho ai, đối chứng gì?"
+        ]
+      ],
+      "layout": "layers",
+      "source": "A01 · G · Khung đánh giá của bài",
+      "note": "Không tuyên bố hiệu quả trị liệu từ sức hấp dẫn của ý tưởng.",
+      "visual_brief": "Ba tầng không tự nối thành mũi tên xác nhận. Icon archive/ruler/clinical-chart; màu trung tính, một accent teal cho câu hỏi trung tâm."
+    },
+    {
+      "title": "🧭 Vận dụng: hỏi thêm thay cho gắn nhãn",
+      "section": "H · PRACTICAL APPLICATIONS 1",
+      "body": "Thay “bạn muốn hơn thua” bằng “điều gì quan trọng với bạn ở đây?”. Tách một kỹ năng đang thiếu khỏi giá trị của con người. Mỗi lần giải thích mục tiêu, giữ ít nhất một khả năng khác và một dữ kiện có thể khiến mình đổi ý. Đây là những giới hạn giao tiếp thận trọng, không lời hứa trị liệu bằng vài câu khích lệ hoặc quyền tự phân tích người thân.",
+      "nodes": [
+        [
+          "Câu hỏi mở",
+          "Điều gì quan trọng với bạn?"
+        ],
+        [
+          "Phân biệt",
+          "Nhiệm vụ khác giá trị bản thân."
+        ],
+        [
+          "Tính sửa được",
+          "Còn khả năng nào khác?"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "A01 · H · Vận dụng có điều kiện",
+      "note": "Cho phép người khác không trả lời và không đồng ý.",
+      "visual_brief": "Speech bubbles2 bên đối thoại, icon compass🧭. Không dàn “câu đúng/câu chữa khỏi”; note quyền từ chối ở footer."
+    },
+    {
+      "title": "Vận dụng: tâm lý cá nhân không xóa điều kiện thật",
+      "section": "H · PRACTICAL APPLICATIONS 2",
+      "body": "Khi công việc quá tải, lớp học thiếu an toàn hoặc một người bị phân biệt đối xử, giải thích bằng niềm tin cá nhân là chưa đủ. Hãy kiểm yêu cầu, nguồn lực và mức tự nguyện cùng với trải nghiệm chủ quan. Chọn mục tiêu là một phần của việc hiểu, không lý do để quy trách nhiệm mọi khó khăn cho người đang chịu nó. Điều kiện xã hội và lựa chọn cá nhân cần được xem cùng nhau.",
+      "nodes": [
+        [
+          "Cá nhân",
+          "Trải nghiệm và mục tiêu được kể."
+        ],
+        [
+          "Quan hệ",
+          "Phản ứng của người xung quanh."
+        ],
+        [
+          "Điều kiện",
+          "Nguồn lực, quyền, yêu cầu thực tế."
+        ]
+      ],
+      "layout": "swimlane",
+      "source": "A01 · H · Phân tích giáo dục/giao tiếp",
+      "note": "Không xem bất công như lỗi phong cách sống của nạn nhân.",
+      "visual_brief": "Ba swimlane đồng cấp; icon person/handshake/building. Không dùng hình não ở mọi lane; minh họa hệ thống bằng vector có nhãn."
+    },
+    {
+      "title": "🗺️ Cùng một hành vi, nhiều câu hỏi",
+      "section": "I · VISUAL EXPLANATION",
+      "body": "Sơ đồ tổng hợp đặt một hành vi ở giữa: phía trên hỏi nó diễn ra trong nhiệm vụ và điều kiện nào; phía dưới hỏi cá nhân gán ý nghĩa, hướng tới điều gì và nhận phản hồi ra sao. Có một nhánh dành cho kỹ năng và nguồn lực để tránh giải thích tâm lý duy nhất. Đây là bản đồ đặt câu hỏi, không mô hình chẩn đoán hay cơ chế đã được kiểm nghiệm.",
+      "nodes": [
+        [
+          "Hành vi quan sát",
+          "Không tự cho biết động cơ."
+        ],
+        [
+          "Các câu hỏi",
+          "Ý nghĩa, mục tiêu, quan hệ."
+        ],
+        [
+          "Nhánh thay thế",
+          "Kỹ năng và hoàn cảnh."
+        ]
+      ],
+      "layout": "branch",
+      "source": "A01 · I/D · Khung giảng dạy; nền [S1–S4],[S8]",
+      "note": "Bản đồ giảng dạy, không phải mô hình chẩn đoán hoặc cơ chế đã xác nhận.",
+      "visual_brief": "Sơ đồ hub-and-spoke có thứ bậc rõ, ít giao cắt. Tất cả nhánh giả thuyết nét đứt, quan sát nét liền, chú giải và alt text mô tả quan hệ."
+    },
+    {
+      "title": "💡 Tám ý cần giữ sau bài học",
+      "section": "J · KEY TAKEAWAYS",
+      "body": "Adler đi từ y học tới trường phái riêng trong một tiến trình lịch sử. Individual nói về chỉnh thể trong bối cảnh; hướng đích mở câu hỏi nhưng không cho quyền đoán chắc động cơ. Vượt khó khác thống trị, social interest khác hoạt náo. Khi so sánh Freud phải ghi phạm vi văn bản. Bằng chứng thứ tự sinh phụ thuộc phép đo và thiết kế; lịch sử, cơ chế và trị liệu cần các phép kiểm khác nhau.",
+      "nodes": [
+        [
+          "Định vị",
+          "Lịch sử + chỉnh thể."
+        ],
+        [
+          "Hiểu đúng",
+          "Mục tiêu + cộng đồng, không áp đặt."
+        ],
+        [
+          "Đánh giá",
+          "Phạm vi + phép đo + giới hạn."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "A01 · J",
+      "note": "Bản bài có8 ý; trên slide nhóm3 cụm để đọc rõ.",
+      "visual_brief": "Nhóm8 ý thành3 cụm, icon lightbulb💡. Không thu chữ nhỏ để chứa hết văn; notes ghi nguyên8 ý trong bài nếu dựng cần."
+    },
+    {
+      "title": "❓ 1. Individual có nghĩa là không cần xã hội?",
+      "section": "K · KNOWLEDGE CHECK 1",
+      "body": "Không. Cách đặt tên nhấn mạnh sự thống nhất của con người, còn môi trường quan hệ vẫn thuộc cách hiểu. Một người không được giải thích đủ bằng cách tách riêng suy nghĩ, cảm xúc và hành vi khỏi nhiệm vụ và hoàn cảnh. Lỗi thường gặp là đọc chữ “cá nhân” như cá nhân chủ nghĩa rồi bỏ qua vị trí của cộng đồng trong hệ thống đang học.",
+      "nodes": [
+        [
+          "Trả lời",
+          "Không."
+        ],
+        [
+          "Lý do",
+          "Chỉnh thể vẫn nằm trong quan hệ."
+        ],
+        [
+          "Lỗi dễ mắc",
+          "Cá nhân=người cô lập."
+        ]
+      ],
+      "layout": "question",
+      "source": "A01 · K1 · [S2]",
+      "note": "Cho người học tự trả lời trước khi hiện phần giải thích.",
+      "visual_brief": "Question panel có nút tiết lộ đáp án trong cấu trúc, không animation giả; emoji❓text, icon people. Bản tĩnh chia question/answer bằng khoảng trắng."
+    },
+    {
+      "title": "2. Tách Freud năm 1911 có nghĩa bỏ quá khứ?",
+      "section": "K · KNOWLEDGE CHECK 2",
+      "body": "Không. Một sự kiện lịch sử không tự xác định nội dung mọi khái niệm. Hỏi về hướng tới hiện tại khác với phủ nhận ý nghĩa trải nghiệm trước đây. Tương tự, một đoạn Freud về xung đột không đại diện toàn bộ Freud. Khi so sánh, cần chỉ tác phẩm, giai đoạn và điều đang được đánh giá thay vì lập bảng hai khẩu hiệu tuyệt đối.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Tách nhóm năm 1911."
+        ],
+        [
+          "Không suy được",
+          "Adler phủ nhận toàn bộ quá khứ."
+        ],
+        [
+          "Cách kiểm",
+          "Đọc đúng tác phẩm và giai đoạn."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "A01 · K2 · [S1–S2],[S5]",
+      "note": "Không trộn lịch sử quan hệ với kết luận lý thuyết.",
+      "visual_brief": "Hai mệnh đề một đường “không suy ra”; icon calendar/document. Dùng ảnh Freud asset-freud nhỏ chỉ nhận diện, không thay bằng chứng văn bản."
+    },
+    {
+      "title": "3. Chăm chỉ có chứng minh muốn thống trị không?",
+      "section": "K · KNOWLEDGE CHECK 3",
+      "body": "Không. Cùng hành vi có thể gắn với học kỹ năng, hỗ trợ nhóm, thu nhập, sợ đánh giá hoặc áp lực tổ chức. Đặt một giả thuyết mục tiêu vẫn cần lời kể và bối cảnh để phân biệt. Ngay khi một cách hiểu có vẻ hợp, ta phải cho phép dữ kiện mới sửa nó. Không nên gán mong muốn ưu thế chỉ vì số giờ làm việc hoặc thành tích cao.",
+      "nodes": [
+        [
+          "Một biểu hiện",
+          "Làm việc chăm chỉ."
+        ],
+        [
+          "Nhiều khả năng",
+          "Học, giúp, tiền, sức ép."
+        ],
+        [
+          "Kết luận",
+          "Chưa biết mục tiêu chắc chắn."
+        ]
+      ],
+      "layout": "example",
+      "source": "A01 · K3/E2 · Tình huống của bài",
+      "note": "Không dùng câu hỏi làm test nhân cách.",
+      "visual_brief": "Một node công việc rẽ4 khả năng ngắn; icon briefcase. Trả lời nổi rõ “chưa đủ dữ kiện”, không thang điểm."
+    },
+    {
+      "title": "4. Điều gì làm giả thuyết về An yếu đi?",
+      "section": "K · KNOWLEDGE CHECK 4",
+      "body": "Nếu An tham gia khi tiêu chí rõ hơn hoặc lớp chấm dứt trêu chọc, giải thích về nhiệm vụ hay an toàn xã hội trở nên đáng chú ý. Điều đó làm giả thuyết “em muốn chống giáo viên” yếu đi, thay vì tự xác nhận nó dưới một tên mới. Một mô hình có ích phải cho phép kết quả khiến ta sửa cách hiểu, không biến mọi phản ứng thành bằng chứng cùng một chiều.",
+      "nodes": [
+        [
+          "Điều kiện đổi",
+          "Rõ tiêu chí, an toàn hơn."
+        ],
+        [
+          "Quan sát mới",
+          "Mức tham gia tăng."
+        ],
+        [
+          "Sửa cách hiểu",
+          "Xem lại câu chuyện chống đối."
+        ]
+      ],
+      "layout": "decision",
+      "source": "A01 · K4/F · Ca giả định",
+      "note": "Không suy đã chứng minh một nguyên nhân duy nhất.",
+      "visual_brief": "Cây điều kiện→kết quả→sửa, có nhánh “chưa biết”. Icon checklist; không ảnh người thật bị gán là An."
+    },
+    {
+      "title": "5. Không thấy hiệu ứng có nghĩa gia đình vô nghĩa?",
+      "section": "K · KNOWLEDGE CHECK 5",
+      "body": "Không. Thứ tự sinh, nét được đo, quan hệ gia đình và toàn bộ lý thuyết là những đối tượng khác nhau. Kết luận phải gắn với mẫu, phép đo và thiết kế. Nghiên cứu HEXACO sau đó còn nhắc cần đối chiếu construct và quy mô gia đình; có liên hệ trung bình cũng không đủ đoán từng người. Cả phủ định tuyệt đối lẫn công thức tính cách theo vị trí sinh đều vượt dữ kiện.",
+      "nodes": [
+        [
+          "Giữ phạm vi",
+          "Đúng biến, thang đo và mẫu."
+        ],
+        [
+          "Giữ cập nhật",
+          "Đối chiếu nghiên cứu khác."
+        ],
+        [
+          "Giữ cá nhân",
+          "Không dự đoán từ trung bình nhóm."
+        ]
+      ],
+      "layout": "balance",
+      "source": "A01 · K5/G · [S6],[S9]",
+      "note": "S9 chỉ đọc metadata/abstract excerpts, chưa đánh giá toàn văn.",
+      "visual_brief": "Cân hai lỗi “không ảnh hưởng gì / quyết định mọi người”; ở giữa “đánh giá đúng claim”. Icon balance/ruler, không chart effect sizes."
+    },
+    {
+      "title": "📚 Nguồn lịch sử và văn bản: đọc theo khoảng cách",
+      "section": "L · REFERENCES 1",
+      "body": "Nguồn lịch sử chính là Đại học Vienna. Khái niệm được đọc qua Boeree, tuyển trích Stein và một chương Adler ở bản chép điện tử; mức trung gian phải được giữ rõ. Cột Freud chỉ dựa Lecture II năm 1910. Thư mục Understanding Human Nature mới đối chiếu tên/năm, không phải đã đọc sách. Bài và research log cung cấp URL, locator và giới hạn để reviewer kiểm lại.",
+      "nodes": [
+        [
+          "[S1–S2]",
+          "Lịch sử đại học; nguồn diễn giải."
+        ],
+        [
+          "[S3–S5]",
+          "Tuyển trích Adler; văn bản Freud."
+        ],
+        [
+          "[S7–S8]",
+          "Thư mục; Ch 2 qua bản chép."
+        ]
+      ],
+      "layout": "references",
+      "source": "A01 · L · S1–S5,S7–S8",
+      "note": "Xem References trong bài, không nhận đã kiểm nguyên bản Đức.",
+      "visual_brief": "Thẻ nguồn có link thật trong presenter notes/metadata; icon books📚. Không nhét cả9URL vào một slide bằng chữ nhỏ."
+    },
+    {
+      "title": "Nguồn thực nghiệm, ảnh và phần việc còn lại",
+      "section": "L · REFERENCES 2 / BÀN GIAO",
+      "body": "S6 đọc abstract và hai trang đầu; S9 mới kiểm metadata và trích đoạn abstract. Chúng không tạo thành systematic review. Hình tư liệu và ảnh bối cảnh trong bản trình bày đều có credit; ảnh minh họa không phải dữ liệu của các ca giả định. Phần học thuật vẫn chờ review độc lập. Khi đọc tiếp A02, hãy giữ ba câu hỏi: nguồn đã nói gì, dữ liệu cho phép kết luận đến đâu, còn giải thích nào khác?",
+      "nodes": [
+        [
+          "Nguồn khoa học",
+          "[S6] 2015; [S9] 2025 có giới hạn đọc."
+        ],
+        [
+          "Hình minh họa",
+          "Tư liệu và bối cảnh, có credit."
+        ],
+        [
+          "Bài tiếp",
+          "A02: Chỉnh thể và Individual Psychology."
+        ]
+      ],
+      "layout": "closing",
+      "source": "A01 · L · a01-research.md · assets metadata",
+      "note": "Nội dung học thuật chờ phản biện; hình và bản xuất được kiểm riêng.",
+      "visual_brief": "Closing nền deep teal, ba bước next cùng nhiều khoảng trắng. Ảnh chỉ minh họa nhận diện, không bằng chứng nhân quả. Footer metadata assets rõ trạng tháihold."
+    }
+  ],
+  "markup": [
+    "<content><background fill=\"#123D3A\"/><rectangle  x=\"1260\" y=\"0\" width=\"660\" height=\"1080\" fill=\"#14695F\" corner-radius=\"0\"/><text x=\"80\" y=\"65\" width=\"1100\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#A6D6C6\">📚 A01 / PSYCHOLOGY KNOWLEDGE</text><text x=\"80\" y=\"220\" width=\"1120\" height=\"300\" font-family=\"Bricolage Grotesque\" font-size=\"88\" font-weight=\"700\" color=\"#F5F0E6\">Adler: năng lực, chỗ đứng&#10;và quan hệ cộng đồng</text><text x=\"80\" y=\"610\" width=\"1100\" height=\"300\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#D3E1D8\">Vì sao cần hỏi một hành vi đang hướng tới điều gì, ngoài việc tìm nó bắt nguồn từ đâu? Bài học đặt Adler vào lịch sử y học và phân tâm học, giải thích quan điểm chỉnh thể, hướng đích và social interest. Ba ví dụ cùng một ca giả định giúp luyện suy luận. Đánh giá hiện đại giữ riêng lý thuyết, dữ liệu quan sát và hiệu quả trị liệu; không dùng thứ tự sinh để đoán một người.</text><image x=\"1300\" y=\"180\" width=\"580\" height=\"450\" src=\"file_1TKGJ0A8MT9RG8QSNG50MW9B5C\" fit=\"contain\"/><text x=\"1320\" y=\"780\" width=\"520\" height=\"130\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#F5F0E6\">Tư liệu lý thuyết · 1912&#10;Sơ đồ của Alfred Adler</text><text x=\"1320\" y=\"950\" width=\"520\" height=\"95\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#F5F0E6\">Wikimedia Commons · Public domain theo trang nguồn</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🎯 A · LEARNING OBJECTIVES</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Sau bài này, bạn cần làm được gì?</text><rectangle  x=\"80\" y=\"310\" width=\"545\" height=\"260\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"335\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Định vị</text><text x=\"108\" y=\"430\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Ai, lúc nào, trong bối cảnh nào?</text><line x1=\"630\" y1=\"440\" x2=\"660\" y2=\"440\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"670\" y=\"340\" width=\"545\" height=\"260\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Giải thích</text><text x=\"698\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Khái niệm và cơ chế được đề xuất.</text><line x1=\"1220\" y1=\"470\" x2=\"1250\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"1260\" y=\"370\" width=\"545\" height=\"260\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"395\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Đánh giá</text><text x=\"1288\" y=\"490\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Nguồn, phép đo, giả thuyết thay thế.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Bạn cần định vị các mốc Adler và sự tách nhóm năm 1911; giải thích individual theo nghĩa chỉnh thể trong bối cảnh; phân biệt phát triển năng lực với thống trị. Khi đối chiếu Freud, hãy chỉ rõ tác phẩm và giai đoạn thay vì dùng khẩu hiệu. Kỹ năng cuối cùng là nhận ra một diễn giải đang vượt dữ kiện, nhất là khi dùng vị trí sinh hoặc một hành vi đơn lẻ để kết luận nhân cách.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Tài liệu giáo dục, không tự chẩn đoán hoặc thay thế trị liệu.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · A</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 02/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🕰️ B · HISTORICAL BACKGROUND</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">1870–1911: bác sĩ và bước phân hóa</text><image x=\"80\" y=\"350\" width=\"700\" height=\"450\" src=\"file_1TKGJ0A8MT9RG8QSNG50MW9B5C\" fit=\"contain\"/><text x=\"80\" y=\"865\" width=\"700\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Sơ đồ của Adler, 1912 · Commons / Public domain</text><text x=\"820\" y=\"315\" width=\"980\" height=\"450\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#182B2B\">Adler sinh tại Vienna năm 1870, nhận bằng y khoa năm 1895. Công trình năm 1907 về thiếu hụt của cơ quan tạo một điểm xuất phát cho câu hỏi bù trừ. Ông tách khỏi Freud năm 1911 khi phát triển cách tiếp cận riêng. Những mốc này định vị quá trình tư tưởng; chúng không chứng minh động cơ cá nhân hoặc cho phép suy học thuyết chỉ từ chuyện tuổi thơ của tác giả.</text><text x=\"820\" y=\"800\" width=\"980\" height=\"150\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#14695F\">1870 / 1895 · Sinh ở Vienna; nhận bằng y khoa.&#10;1907 · Công trình về Organminderwertigkeit.&#10;1911 · Tách khỏi nhóm Freud.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không gộp mốc rời nhóm với mọi mốc thành lập/đổi tên hội.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S1] Horn, Biografie và Werke</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 03/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🕰️ B · LỊCH SỬ 1920–1937</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Giáo dục và cộng đồng đi vào chương trình</text><image x=\"80\" y=\"310\" width=\"700\" height=\"410\" src=\"stock_unsplash_1-aA2Fadydc\" fit=\"contain\"/><text x=\"80\" y=\"750\" width=\"700\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#66685F\">Ảnh bối cảnh lớp học hiện đại, không phải Vienna thập niên 1920.&#10;Quilia / Unsplash</text><text x=\"900\" y=\"315\" width=\"910\" height=\"535\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#182B2B\">Trang lịch sử Đại học Vienna ghi nhận hoạt động Adler liên quan cải cách giáo dục trong thập niên 1920. Menschenkenntnis xuất bản năm 1927, được biết bằng tên tiếng Anh Understanding Human Nature. Ông mất ở Aberdeen năm 1937. Thực hành giáo dục cho thấy phạm vi quan tâm vượt khỏi một phòng trị liệu; còn việc những cách tiếp cận ấy hiệu quả ra sao vẫn là câu hỏi nghiên cứu riêng.</text><text x=\"900\" y=\"875\" width=\"910\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#14695F\">1920s  ·  1927  ·  1937</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Chưa khẳng định một năm chính xác cho mọi cơ sở tư vấn.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S1] Biografie/Werke · [S7] Thư mục</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 04/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">🕰️ B · ĐỌC LỊCH SỬ TƯ TƯỞNG</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">1911 không chỉ là chuyện thầy trò bất hòa</text><rectangle  x=\"80\" y=\"310\" width=\"1735\" height=\"105\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"110\" y=\"330\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#A6D6C6\">Sự kiện</text><text x=\"600\" y=\"330\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Rời nhóm năm 1911.</text><rectangle  x=\"80\" y=\"435\" width=\"1735\" height=\"105\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"110\" y=\"455\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#A6D6C6\">Câu hỏi tư tưởng</text><text x=\"600\" y=\"455\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Đơn vị, động lực, phương pháp.</text><rectangle  x=\"80\" y=\"560\" width=\"1735\" height=\"105\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"110\" y=\"580\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#A6D6C6\">Điều chưa biết</text><text x=\"600\" y=\"580\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Không suy hết động cơ cá nhân.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Chuyện kể “học trò chống thầy” dễ nhớ nhưng thiếu những câu hỏi học thuật. Hai hệ thống chọn điều gì làm đơn vị giải thích, hỏi về động lực ra sao và lấy dữ liệu nào để khái quát? Sự kiện tách nhóm có thể xác nhận mà không cần đoán toàn bộ tâm lý tác giả. Một trường phái cũng thay đổi qua thời gian; không nên gộp các từ Adler dùng ở nhiều giai đoạn thành một nghĩa bất biến.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Đây là khung đọc của bài, không một kết luận tâm lý về Adler/Freud.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">[S1–S2] Lịch sử và nguồn diễn giải</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 05/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🕰️ B · NGUỒN VÀ KHOẢNG CÁCH</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Một nguồn nói gì, và ta thực sự đã đọc gì?</text><image x=\"80\" y=\"315\" width=\"700\" height=\"465\" src=\"file_1TKGJ0A8MT9RG8QSNG50MW9B5C\" fit=\"contain\"/><text x=\"80\" y=\"800\" width=\"700\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#66685F\">Adler, sơ đồ lịch sử năm 1912 · Commons / Public domain. Không phải sơ đồ cơ chế của bài A01.</text><text x=\"900\" y=\"315\" width=\"910\" height=\"520\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#182B2B\">Nguồn đại học giúp định vị lịch sử. Boeree trình bày một cách hiểu theo trường phái. Các tuyển trích Stein chứa Adler lẫn tác giả về sau, nên phải giữ nhãn người nói. Chương Mind and Body đọc được qua bản chép, chưa đối chiếu bản in; metadata năm trên trang còn bất nhất. Việc nguồn có URL hoặc mang tên tác giả chưa đồng nghĩa ta đã đọc đúng toàn văn và ấn bản.</text><text x=\"900\" y=\"870\" width=\"910\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#14695F\">Tư liệu lịch sử ≠ bằng chứng thực nghiệm</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không nhận đã đối chiếu nguyên bản Adler khi chưa thực hiện.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S1–S4], [S8] · a01-research.md</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 06/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">🧠 C · CORE THEORY 1</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Individual: một chỉnh thể trong hoàn cảnh</text><ellipse x=\"85\" y=\"300\" width=\"630\" height=\"395\" fill=\"#234E48\"/><ellipse x=\"170\" y=\"345\" width=\"460\" height=\"305\" fill=\"#326B5C\"/><ellipse x=\"275\" y=\"400\" width=\"250\" height=\"190\" fill=\"#14695F\"/><text x=\"300\" y=\"450\" width=\"200\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#F5F0E6\">Cá nhân</text><text x=\"850\" y=\"310\" width=\"300\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Con người</text><text x=\"1180\" y=\"315\" width=\"600\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Suy nghĩ, cảm xúc, hành động.</text><text x=\"850\" y=\"435\" width=\"300\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Quan hệ</text><text x=\"1180\" y=\"440\" width=\"600\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Gia đình, lớp, công việc.</text><text x=\"850\" y=\"560\" width=\"300\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Hoàn cảnh</text><text x=\"1180\" y=\"565\" width=\"600\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Yêu cầu và nguồn lực thực tế.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Individual Psychology thường được giải thích theo nghĩa không chia cắt. Cách suy nghĩ, cảm xúc và hành động cần được xem trong một mẫu hình sống, cùng môi trường quan hệ. Vì thế, gọi một học sinh “lười” trước khi biết nhiệm vụ, lớp học và nguồn lực là quá sớm. Tuy nhiên, thêm bối cảnh chưa tự làm giả thuyết đúng; người quan sát vẫn có thể chọn lọc những chi tiết hợp câu chuyện mình đã tin.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Holism là định hướng xem xét, chưa là công thức nhân quả.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">[S2] Theory · [S1] Biografie</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 07/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧠 C · CORE THEORY 2</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Mục tiêu tổ chức hiện tại, không kéo ngược thời gian</text><rectangle  x=\"80\" y=\"340\" width=\"545\" height=\"260\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Hiện tại</text><text x=\"108\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Hình dung điều quan trọng.</text><line x1=\"630\" y1=\"470\" x2=\"660\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"670\" y=\"340\" width=\"545\" height=\"260\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Lựa chọn</text><text x=\"698\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Chiến lược có thể theo đuổi.</text><line x1=\"1220\" y1=\"470\" x2=\"1250\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"1260\" y=\"340\" width=\"545\" height=\"260\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Cần kiểm</text><text x=\"1288\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Lời kể và dữ kiện cạnh tranh.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Cách hỏi hướng đích xem hành vi đang phục vụ hình dung nào về an toàn, năng lực hoặc chỗ đứng. Mục tiêu có thể chưa được người ấy phát biểu rõ. Ta không cần giả định tương lai tác động ngược thời gian: chính hình dung đang có hôm nay mới là điều cần khảo sát. Nếu chỉ suy mục tiêu từ kết quả rồi luôn bảo nó đúng, ta đang giải thích sau sự kiện thay vì kiểm tra.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không được khẳng định biết “mục tiêu thật” bất chấp lời người ấy.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S2] Lifestyle and Teleology · [S8] Ch 2</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 08/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧠 C · CORE THEORY 3</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Vượt khó khác với vượt lên trên người khác</text><rectangle x=\"80\" y=\"305\" width=\"850\" height=\"240\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Phát triển năng lực</text><text x=\"108\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Học, giải quyết vấn đề, hợp tác.</text><rectangle x=\"965\" y=\"305\" width=\"850\" height=\"240\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"993\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Ưu thế cá nhân</text><text x=\"993\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Giá trị gắn với việc đứng trên.</text><rectangle x=\"80\" y=\"580\" width=\"1735\" height=\"100\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"603\" width=\"450\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#14695F\">Giữ mở</text><text x=\"590\" y=\"600\" width=\"1180\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Cùng hành vi có nhiều mục tiêu.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Trong tài liệu được tuyển, Adler phân biệt một hướng cải thiện tình thế với sự theo đuổi ưu thế cá nhân bằng cách đặt người khác dưới mình. Bởi vậy, superiority không có một cách dịch giản đơn cho mọi đoạn văn. Hai người cùng chăm chỉ có thể hướng tới học kỹ năng hoặc giữ vị trí không ai vượt. Chỉ từ giờ làm việc, ta chưa biết họ thuộc hướng nào; cần bối cảnh và lời giải thích.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không coi mọi thành tích là bù trừ hoặc mọi cạnh tranh là bệnh lý.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S3] Phần Alfred Adler; trích đoạn qua trung gian</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 09/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧠 C · CORE THEORY 4</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Social interest không phải mức độ hoạt náo</text><rectangle  x=\"80\" y=\"305\" width=\"850\" height=\"240\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Hợp tác</text><text x=\"108\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Quan tâm nhiệm vụ và người khác.</text><rectangle  x=\"965\" y=\"305\" width=\"850\" height=\"240\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"993\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Hướng ngoại</text><text x=\"993\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Một cách biểu hiện khác, không tương đương.</text><rectangle  x=\"80\" y=\"580\" width=\"1735\" height=\"100\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"603\" width=\"450\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#14695F\">Hoàn cảnh</text><text x=\"590\" y=\"600\" width=\"1180\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Môi trường có cho phép tham gia?</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Social interest, Gemeinschaftsgefühl, đặt câu hỏi cá nhân sống cùng và đóng góp với người khác ra sao. Người ít nói có thể hợp tác tốt; người nói năng tự tin có thể không làm phần việc chung. Vì vậy, không đồng nhất khái niệm này với hướng ngoại. Cũng không lấy khó khăn hòa nhập trong một môi trường phân biệt đối xử làm bằng chứng người ấy thiếu giá trị hoặc thiếu quan tâm xã hội.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không dùng social interest làm nhãn kết tội người gặp khó khăn.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S2] Social Interest · [S4] Alfred Adler</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 10/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧠 C · PRIMARY TEXT, QUA BẢN CHÉP</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Một chương Adler đọc được cũng cần được phản biện</text><rectangle  x=\"80\" y=\"305\" width=\"850\" height=\"240\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Văn bản</text><text x=\"108\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Thân–tâm, mục tiêu, phong cách.</text><rectangle  x=\"965\" y=\"305\" width=\"850\" height=\"240\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"993\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Phạm vi rộng</text><text x=\"993\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Khẳng định về cảm xúc cần kiểm.</text><rectangle  x=\"80\" y=\"580\" width=\"1735\" height=\"100\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"603\" width=\"450\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#14695F\">Ranh giới</text><text x=\"590\" y=\"600\" width=\"1180\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Chức năng giả định ≠ cố ý.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Chương Mind and Body đặt tương tác thân–tâm và hướng đích ở trung tâm, nhưng còn đưa các khẳng định rất rộng về cảm xúc và phong cách sống. Đọc lịch sử trung thực không chỉ chọn những câu nghe hiện đại. Các phát biểu đó là lập trường tác giả trong văn bản đang đọc, chưa phải kết quả thực nghiệm. Không được chuyển chúng thành lời buộc tội rằng người bị lo âu đang cố ý thao túng người khác.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Metadata trang chép không nhất quán1931/1932/1933; không tự gán ấn bản/trang in.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S8] Mind and Body, selected-chapter-text-read</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 11/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧠 C · SO SÁNH CÓ PHẠM VI</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Adler và Freud: đổi trọng tâm câu hỏi</text><image x=\"80\" y=\"315\" width=\"280\" height=\"390\" src=\"file_1TKGJ0A8MT9RG8QSNG50MW9B5C\" fit=\"contain\"/><image x=\"400\" y=\"315\" width=\"270\" height=\"390\" src=\"file_5FWKYXJ5T5956T7WDB8TNJ5Q7T\" fit=\"contain\"/><text x=\"80\" y=\"745\" width=\"600\" height=\"125\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Adler: sơ đồ, 1912 · Commons / Public domain&#10;Freud: Halberstadt, khoảng 1921 · Commons / Public domain</text><text x=\"820\" y=\"315\" width=\"990\" height=\"465\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#182B2B\">Một trọng tâm Adlerian là xem hành vi trong mẫu hình mục tiêu và quan hệ. Một trọng tâm của Freud Lecture II năm 1910 là xung đột, dồn nén và sự chống cự khi chất liệu trở lại ý thức. Đây là so sánh hai trọng tâm được chọn, không toàn bộ hai tác giả. Không được từ đó nói Adler bỏ quá khứ hoặc Freud không quan tâm đời sống hiện tại và quan hệ.</text><text x=\"820\" y=\"810\" width=\"990\" height=\"140\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#14695F\">Adler: mục tiêu và quan hệ&#10;Freud, Lecture II: xung đột và dồn nén</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không bảng xếp hạng đúng/sai; không vẽ hai chân dung đối địch.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S1–S4], [S8] Adler · [S5] Freud Lecture II</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 12/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">⚙️ D · PSYCHOLOGICAL MECHANISM</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Bản đồ cơ chế: từ khó khăn đến phản hồi</text><rectangle  x=\"80\" y=\"340\" width=\"545\" height=\"260\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"108\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">1–2</text><text x=\"108\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Nhiệm vụ → ý nghĩa được gán.</text><line x1=\"630\" y1=\"470\" x2=\"660\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"670\" y=\"340\" width=\"545\" height=\"260\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"698\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">3–4</text><text x=\"698\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Mục tiêu giả định → chiến lược.</text><line x1=\"1220\" y1=\"470\" x2=\"1250\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"1260\" y=\"340\" width=\"545\" height=\"260\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"1288\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">5–6</text><text x=\"1288\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Phản hồi → xem xét lại.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Chuỗi giảng dạy gồm gặp nhiệm vụ, gán ý nghĩa, hình thành hướng tìm an toàn hoặc chỗ đứng, chọn chiến lược và nhận phản hồi. Đường trở lại là xem xét giả thuyết theo dữ kiện mới. Mỗi mũi tên là một quan hệ được mô hình đề xuất, không một cơ chế sinh học đã xác nhận. Cần giữ các yếu tố kỹ năng, nguồn lực và môi trường bên cạnh, thay vì chỉ tìm niềm tin cá nhân.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Không phải sơ đồ nguyên văn hoặc một mô hình thực nghiệm đã kiểm.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · D · Tổng hợp giảng dạy, nền [S3–S4], [S8]</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 13/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">⚙️ D · NHIỆM VỤ VÀ TỰ ĐÁNH GIÁ</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Bước 1–2: một khó khăn, hai cách gán nghĩa</text><rectangle  x=\"80\" y=\"385\" width=\"470\" height=\"230\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"410\" width=\"414\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Sự kiện</text><text x=\"108\" y=\"505\" width=\"414\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Chưa làm được nhiệm vụ.</text><rectangle  x=\"900\" y=\"300\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"325\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Ý nghĩa A</text><text x=\"928\" y=\"420\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Kỹ năng này cần học.</text><rectangle  x=\"900\" y=\"520\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"545\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Ý nghĩa B</text><text x=\"928\" y=\"640\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Sai đồng nghĩa mất giá trị.</text><line x1=\"550\" y1=\"500\" x2=\"730\" y2=\"500\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"730\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"890\" y2=\"390\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"730\" y1=\"610\" x2=\"890\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Một nhiệm vụ chưa làm được có thể được hiểu là thiếu kỹ năng cụ thể hoặc là nguy cơ bị mất tôn trọng. Hai cách hiểu dẫn tới các câu hỏi khác nhau. Nhưng người quan sát không thể thay lời người ấy bằng một câu chuyện sẵn. Hãy tách điều xảy ra, điều người ấy nói và điều ta suy. Cũng cần xem nhiệm vụ có rõ ràng, phù hợp năng lực và nguồn lực hay không.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Hai nhánh là ví dụ, không đầy đủ mọi khả năng.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · D1–D2 · Minh họa của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 14/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">⚙️ D · MỤC TIÊU VÀ CÁCH ỨNG PHÓ</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Bước 3–4: từ hướng tìm an toàn đến chiến lược</text><rectangle  x=\"80\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Học thêm</text><text x=\"108\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Tăng năng lực.</text><rectangle  x=\"670\" y=\"320\" width=\"545\" height=\"285\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Xin hỗ trợ</text><text x=\"698\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Chia sẻ nhiệm vụ.</text><rectangle  x=\"1260\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Tránh/kiểm soát</text><text x=\"1288\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Cần hỏi bối cảnh và tác dụng.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Cá nhân có thể tìm chỗ đứng bằng học thêm, xin hỗ trợ, kiểm soát mọi việc hoặc tránh bị đánh giá. Danh sách này mở ra khả năng, không phân loại người thành những kiểu bệnh. Một chiến lược chỉ được hiểu trong quan hệ cụ thể. Nếu bị đánh giá thiếu công bằng, rút lui có thể liên quan điều kiện thật chứ không chỉ một niềm tin sai hoặc mong muốn tránh trách nhiệm.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không kết luận động cơ từ hình thức chiến lược.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · D3–D4 · Mô hình đề xuất</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 15/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">⚙️ D · VÒNG PHẢN HỒI</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Bước 5–6: phản hồi có thể giữ hoặc đổi chiến lược</text><rectangle  x=\"80\" y=\"325\" width=\"545\" height=\"255\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"350\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Ngắn hạn</text><text x=\"108\" y=\"445\" width=\"489\" height=\"125\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Phản hồi sau một lựa chọn.</text><rectangle  x=\"670\" y=\"325\" width=\"545\" height=\"255\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"698\" y=\"350\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Dài hơn</text><text x=\"698\" y=\"445\" width=\"489\" height=\"125\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Cơ hội học và tham gia.</text><rectangle  x=\"1260\" y=\"325\" width=\"545\" height=\"255\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"350\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Dữ kiện mới</text><text x=\"1288\" y=\"445\" width=\"489\" height=\"125\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Sửa giả thuyết khi điều kiện đổi.</text><line x1=\"625\" y1=\"455\" x2=\"660\" y2=\"455\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"1215\" y1=\"455\" x2=\"1250\" y2=\"455\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"1530\" y1=\"600\" x2=\"1530\" y2=\"650\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"1530\" y1=\"650\" x2=\"350\" y2=\"650\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"350\" y1=\"650\" x2=\"350\" y2=\"600\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Né nhiệm vụ có thể giúp bớt lo ngay nhưng cũng giảm cơ hội học. Nếu một điều kiện thay đổi làm hành vi thay đổi, đó là dữ liệu để sửa cách hiểu. Ví dụ, học sinh tham gia khi yêu cầu rõ hơn khiến giải thích về nhiệm vụ đáng chú ý hơn câu chuyện “em muốn chống giáo viên”. Không cần giữ giả thuyết hướng đích bằng mọi giá; chính khả năng sửa mới giúp nó hữu ích.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không trình bày vòng này như kết quả của thí nghiệm đã thực hiện.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · D5–D6 · Suy luận giảng dạy</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 16/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">⚙️ D · PHẢN BIỆN PHƯƠNG PHÁP</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Khi “mục tiêu bí mật” làm giả thuyết không thể sai</text><rectangle  x=\"80\" y=\"385\" width=\"470\" height=\"230\" fill=\"#326B5C\" corner-radius=\"12\"/><text x=\"108\" y=\"410\" width=\"414\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Dễ mắc</text><text x=\"108\" y=\"505\" width=\"414\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Giải thích được mọi kết quả.</text><rectangle  x=\"900\" y=\"300\" width=\"900\" height=\"180\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"928\" y=\"325\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Câu hỏi kiểm</text><text x=\"928\" y=\"420\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Điều gì khiến mình đổi ý?</text><rectangle  x=\"900\" y=\"520\" width=\"900\" height=\"180\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"928\" y=\"545\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Nguyên tắc</text><text x=\"928\" y=\"640\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Giữ lời người ấy và giải thích khác.</text><line x1=\"550\" y1=\"500\" x2=\"730\" y2=\"500\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"730\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"890\" y2=\"390\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"730\" y1=\"610\" x2=\"890\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Nếu thành công được gọi là đạt mục tiêu, còn thất bại luôn được gọi là âm thầm đạt một mục tiêu khác, mô hình có thể giải thích mọi kết quả sau sự kiện. Hãy nói trước dữ kiện nào khiến mình đổi ý. Lời phủ nhận của người được hỏi cần được tôn trọng, không tự biến thành bằng chứng họ thiếu hiểu biết về bản thân. Suy luận hướng đích là lời mời tìm hiểu, không giấy phép áp đặt.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Không gán sự chống đối hay gian dối khi một người không đồng ý.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · D · Phản biện phương pháp của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 17/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">💬 E · TÌNH HUỐNG GIẢ ĐỊNH 1</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Ví dụ 1: Hà ngại phát âm ngoại ngữ</text><rectangle  x=\"80\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Quan sát</text><text x=\"108\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Im lặng khi phát âm.</text><rectangle  x=\"670\" y=\"320\" width=\"545\" height=\"285\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Cần hỏi</text><text x=\"698\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Khó ở kỹ thuật hay sợ đánh giá?</text><rectangle  x=\"1260\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Tránh kết luận</text><text x=\"1288\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Một lần im lặng ≠ complex.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Hà chưa quen một âm mới và im lặng khi đến lượt nói. Có thể em cần hướng dẫn kỹ thuật; cũng có thể em coi sai phát âm là sẽ bị xem thường. Một lần im lặng chưa đủ xác định cách hiểu nào, càng chưa đủ gọi inferiority complex. Câu hỏi nên phân biệt kỹ năng còn thiếu, cảm giác trong tình huống và đánh giá toàn thể giá trị bản thân.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không dùng khuôn phản hồi như lời hứa trị liệu.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · E1 · Do bài tạo</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 18/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">💬 E · TÌNH HUỐNG GIẢ ĐỊNH 2</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Ví dụ 2: Minh luôn nhận thêm việc</text><image x=\"80\" y=\"310\" width=\"720\" height=\"445\" src=\"stock_unsplash_KdeqA3aTnBY\" fit=\"contain\"/><text x=\"80\" y=\"785\" width=\"720\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#66685F\">Ảnh bối cảnh làm việc, không mô tả Minh.&#10;Dylan Gillis / Unsplash</text><text x=\"910\" y=\"315\" width=\"900\" height=\"535\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#182B2B\">Cùng hành vi làm thêm có thể gắn với học kỹ năng, hỗ trợ nhóm, thu nhập hoặc nỗi lo bị bỏ lại. Cũng có thể áp lực quản lý làm lựa chọn thiếu tự nguyện. Hãy hỏi việc nhận thêm giúp Minh đạt điều gì và điều gì làm việc từ chối khó. Không được biến hoàn cảnh lao động bất công thành lỗi niềm tin cá nhân chỉ vì ta thích một mô hình giải thích tâm lý.</text><text x=\"910\" y=\"870\" width=\"900\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#14695F\">Lời kể + mức tự nguyện + điều kiện thật</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không đoán động cơ từ số giờ làm việc.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · E2 · Do bài tạo</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 19/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">💬 E · TÌNH HUỐNG GIẢ ĐỊNH 3</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Ví dụ 3: hai anh em và khuôn thứ tự sinh</text><rectangle  x=\"80\" y=\"340\" width=\"545\" height=\"260\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Biểu hiện</text><text x=\"108\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Một người chủ động, một người im.</text><line x1=\"630\" y1=\"470\" x2=\"660\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"670\" y=\"340\" width=\"545\" height=\"260\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Giải thích khác</text><text x=\"698\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Kinh nghiệm và việc đang làm.</text><line x1=\"1220\" y1=\"470\" x2=\"1250\" y2=\"470\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><rectangle  x=\"1260\" y=\"340\" width=\"545\" height=\"260\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"365\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Bài học</text><text x=\"1288\" y=\"460\" width=\"489\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Vị trí sinh không mô tả sẵn.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Chị cả đặt vé cho chuyến đi còn em út ít phát biểu. Khuôn “con đầu lãnh đạo, con út lệ thuộc” nghe hợp nhưng chị có thể chỉ giàu kinh nghiệm đặt vé, còn em đang xử lý một việc khác. Vai trò gia đình có thể đáng hỏi, nhưng thứ tự sinh chưa thay lời kể và dữ kiện nhiệm vụ. Hãy tìm phân chia trách nhiệm thực tế trước khi kể một câu chuyện về nhân cách.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không dùng thứ tự sinh như định mệnh tính cách.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · E3 · Do bài tạo</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 20/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">📋 F · CASE STUDY 1</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Case An: giữ dữ kiện hẹp trước khi diễn giải</text><rectangle  x=\"0\" y=\"300\" width=\"590\" height=\"400\" fill=\"#14695F\" corner-radius=\"0\"/><text x=\"80\" y=\"355\" width=\"430\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"45\" font-weight=\"700\" color=\"#F5F0E6\">Có làm</text><text x=\"80\" y=\"490\" width=\"430\" height=\"150\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#F5F0E6\">Chuẩn bị và sửa tài liệu.</text><text x=\"720\" y=\"325\" width=\"360\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Chưa làm</text><text x=\"1110\" y=\"325\" width=\"675\" height=\"160\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Trình bày trước lớp.</text><text x=\"720\" y=\"525\" width=\"360\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Bối cảnh</text><text x=\"1110\" y=\"525\" width=\"675\" height=\"160\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Lớp trêu khi nói sai.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">An, 15 tuổi làm bài ở nhà nhưng ít nộp phần phải trình bày trước lớp. Trong nhóm, em sửa tài liệu kỹ nhưng không nhận phần nói. An bảo “phải chắc hoàn toàn mới dám lên”. Lớp hay cười khi bạn nói nhầm. Ca hoàn toàn giả định để luyện lập giả thuyết; không đủ thông tin chẩn đoán. Mô tả đúng là tránh một loại nhiệm vụ, không phải “lười mọi thứ”.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Không ảnh học sinh thật; không đặt nhãn bệnh.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · F · Ca giả định, không nghiên cứu công bố</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 21/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">📋 F · CASE STUDY 2</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Case An: giữ ít nhất hai giả thuyết cạnh tranh</text><rectangle  x=\"80\" y=\"310\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"330\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Hướng đích</text><text x=\"600\" y=\"330\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Tránh mất chỗ đứng?</text><rectangle  x=\"80\" y=\"435\" width=\"1735\" height=\"105\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"110\" y=\"455\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Kỹ năng/nhiệm vụ</text><text x=\"600\" y=\"455\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Thiếu luyện hoặc tiêu chí mơ hồ?</text><rectangle  x=\"80\" y=\"560\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"580\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Môi trường</text><text x=\"600\" y=\"580\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Bị trêu hoặc thiếu an toàn?</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Một giả thuyết Adlerian là An bảo vệ chỗ đứng bằng cách tránh nguy cơ bị xem là kém. Khả năng khác là em thiếu kỹ năng nói, chưa hiểu tiêu chí hoặc bị trêu thật. Câu “phải chắc hoàn toàn” gợi một tiêu chuẩn đáng hỏi, chưa chứng minh mọi lĩnh vực đời sống đều bị nó chi phối. Cần ghi rõ bằng chứng đang có và điều mỗi giả thuyết còn cần biết.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không gán mục tiêu với sự chắc chắn chỉ từ một câu kể.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · F2–F4 · Phân tích của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 22/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">📋 F · CASE STUDY 3</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Case An: tìm điều kiện phân biệt và sửa cách hiểu</text><rectangle  x=\"80\" y=\"385\" width=\"470\" height=\"230\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"410\" width=\"414\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Đồng thuận</text><text x=\"108\" y=\"505\" width=\"414\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Hỏi loại hỗ trợ An muốn.</text><rectangle  x=\"900\" y=\"300\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"325\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Điều kiện đổi</text><text x=\"928\" y=\"420\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Tiêu chí, quy mô, an toàn lớp.</text><rectangle  x=\"900\" y=\"520\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"545\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Kết luận đổi</text><text x=\"928\" y=\"640\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Giả thuyết theo dữ kiện mới.</text><line x1=\"550\" y1=\"500\" x2=\"730\" y2=\"500\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"730\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"890\" y2=\"390\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"730\" y1=\"610\" x2=\"890\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Hỏi An muốn hỗ trợ gì, rồi xem việc tiêu chí rõ, nói trong nhóm nhỏ hoặc lớp chấm dứt trêu chọc có làm mức tham gia đổi không. Đây là hỗ trợ giáo dục có đồng thuận, không một thí nghiệm trị liệu. Nếu tham gia tăng khi lớp an toàn hơn, trọng tâm phải gồm môi trường. Nếu chưa tăng, hãy tiếp tục tìm hiểu; đừng kết luận An không muốn hợp tác hoặc đang thắng một cuộc đấu quyền lực.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Khó khăn kéo dài có thể cần trao đổi với chuyên môn phù hợp.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · F5–F6 · Phân tích của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 23/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🔬 G · MODERN SCIENTIFIC PERSPECTIVE</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_0YJ3QV9EH19R6SNMAF8650ESQY\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Rohrer 2015: một phép kiểm về thứ tự sinh</text><rectangle  x=\"80\" y=\"310\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"330\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Dữ liệu</text><text x=\"600\" y=\"330\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Ba panel Mỹ, Anh, Đức.</text><rectangle  x=\"80\" y=\"435\" width=\"1735\" height=\"105\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"110\" y=\"455\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Thiết kế</text><text x=\"600\" y=\"455\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Trong và giữa gia đình.</text><rectangle  x=\"80\" y=\"560\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"580\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Phạm vi</text><text x=\"600\" y=\"580\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Nét rộng nêu trong nghiên cứu.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Nghiên cứu dùng ba panel quốc gia và so sánh trong gia đình lẫn giữa gia đình. Tác giả không tìm thấy hiệu ứng thứ tự sinh đối với các nét rộng được nêu như hướng ngoại, ổn định cảm xúc, dễ chịu, tận tâm và trí tưởng tượng; miền trí tuệ có kết quả khác. Điều được đánh giá là khẳng định cụ thể bằng phép đo cụ thể, không mọi quan hệ gia đình hay toàn bộ Adler.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Chưa tái phân tích dữ liệu hoặc kiểm đầy đủ phụ lục.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S6] Abstract và trang14224–14225</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 24/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🔬 G · BẰNG CHỨNG TRÁI CHIỀU</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_0YJ3QV9EH19R6SNMAF8650ESQY\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Ashton &amp; Lee 2025: thêm kết quả cần đối chiếu</text><rectangle  x=\"80\" y=\"310\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"330\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Thông tin mới</text><text x=\"600\" y=\"330\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Liên hệ trong một số chiều HEXACO.</text><rectangle  x=\"80\" y=\"435\" width=\"1735\" height=\"105\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"110\" y=\"455\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Cần tách</text><text x=\"600\" y=\"455\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Vị trí sinh và số anh chị em.</text><rectangle  x=\"80\" y=\"560\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"580\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Mức đã đọc</text><text x=\"600\" y=\"580\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Metadata và abstract excerpts.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Abstract được lập chỉ mục của nghiên cứu HEXACO báo liên hệ giữa vị trí sinh, số anh chị em và một số chiều, đặc biệt Honesty–Humility và Agreeableness. Khác biệt theo vị trí nhỏ hơn khi xem trong cùng quy mô anh chị em. Ở bài này chỉ kiểm metadata và trích đoạn abstract, chưa đọc được toàn văn. Vì vậy, không đưa một đánh giá đầy đủ về chất lượng hoặc dùng kết quả để đoán từng người.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không effect size, không gọi toàn văn đã kiểm; PMC CAPTCHA/PNAS cookie.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S9] PNAS 122(1),e2416709121 · online 23-12-2024</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 25/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🔬 G · PHÉP ĐO VÀ MẪU</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_0YJ3QV9EH19R6SNMAF8650ESQY\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Vì sao không kết luận theo khẩu hiệu từ hai nghiên cứu?</text><rectangle  x=\"80\" y=\"305\" width=\"850\" height=\"240\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Construct</text><text x=\"108\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Thang đo có cùng nội dung?</text><rectangle  x=\"965\" y=\"305\" width=\"850\" height=\"240\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"993\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Sample</text><text x=\"993\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Mẫu có tương đương?</text><rectangle  x=\"80\" y=\"580\" width=\"1735\" height=\"100\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"603\" width=\"450\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#14695F\">Design</text><text x=\"590\" y=\"600\" width=\"1180\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Biến và cách so sánh giống?</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Không tìm thấy một hiệu ứng không có nghĩa gia đình hoàn toàn không quan trọng. Có liên hệ trung bình cũng không biến vị trí sinh thành quy luật nhân cách. Hai nghiên cứu dùng thang đo, mẫu và cách phân tích khác nhau; HEXACO Agreeableness không tự tương đương Big Five Agreeableness. Cần đọc toàn bộ nghiên cứu, xét quy mô gia đình và các giải thích thay thế trước khi đánh giá mâu thuẫn nằm ở đâu.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">S6/S9 không phải phép kiểm toàn bộ Individual Psychology.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">[S6–S9] + phân tích phương pháp của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 26/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">🔬 G · LỊCH SỬ, LÝ THUYẾT, CAN THIỆP</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_0YJ3QV9EH19R6SNMAF8650ESQY\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Ba cấp bằng chứng cần được giữ riêng</text><rectangle  x=\"80\" y=\"310\" width=\"1735\" height=\"105\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"110\" y=\"330\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#A6D6C6\">Lịch sử</text><text x=\"600\" y=\"330\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Tác giả nói/gia nhập/viết gì?</text><rectangle  x=\"80\" y=\"435\" width=\"1735\" height=\"105\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"110\" y=\"455\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#A6D6C6\">Lý thuyết</text><text x=\"600\" y=\"455\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Khái niệm đo và phản chứng ra sao?</text><rectangle  x=\"80\" y=\"560\" width=\"1735\" height=\"105\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"110\" y=\"580\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#A6D6C6\">Can thiệp</text><text x=\"600\" y=\"580\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Kết quả nào, cho ai, đối chứng gì?</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Một nguồn xác nhận Adler đã viết điều gì không chứng minh cơ chế ấy đúng. Một nghiên cứu về hợp tác hoặc mục tiêu không tự xác nhận toàn bộ Individual Psychology. Một can thiệp có kết quả tốt cũng cần biết cho ai, so với gì và thành tố nào đang được kiểm. A01 chưa tổng quan hiệu quả Adlerian psychotherapy; nó giữ trọng tâm lịch sử, khái niệm và một ví dụ về kiểm chứng.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Không tuyên bố hiệu quả trị liệu từ sức hấp dẫn của ý tưởng.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · G · Khung đánh giá của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 27/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧭 H · PRACTICAL APPLICATIONS 1</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Vận dụng: hỏi thêm thay cho gắn nhãn</text><rectangle  x=\"80\" y=\"305\" width=\"800\" height=\"245\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"744\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Câu hỏi mở</text><text x=\"108\" y=\"425\" width=\"744\" height=\"115\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Điều gì quan trọng với bạn?</text><rectangle  x=\"1015\" y=\"355\" width=\"800\" height=\"245\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1043\" y=\"380\" width=\"744\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Phân biệt</text><text x=\"1043\" y=\"475\" width=\"744\" height=\"115\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Nhiệm vụ khác giá trị bản thân.</text><text x=\"420\" y=\"630\" width=\"1395\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#14695F\">Tính sửa được · Còn khả năng nào khác?</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Thay “bạn muốn hơn thua” bằng “điều gì quan trọng với bạn ở đây?”. Tách một kỹ năng đang thiếu khỏi giá trị của con người. Mỗi lần giải thích mục tiêu, giữ ít nhất một khả năng khác và một dữ kiện có thể khiến mình đổi ý. Đây là những giới hạn giao tiếp thận trọng, không lời hứa trị liệu bằng vài câu khích lệ hoặc quyền tự phân tích người thân.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Cho phép người khác không trả lời và không đồng ý.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · H · Vận dụng có điều kiện</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 28/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🧭 H · PRACTICAL APPLICATIONS 2</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_36H0KSKK139DBT7EFPTZTYN4XD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Vận dụng: tâm lý cá nhân không xóa điều kiện thật</text><rectangle  x=\"80\" y=\"310\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"330\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Cá nhân</text><text x=\"600\" y=\"330\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Trải nghiệm và mục tiêu được kể.</text><rectangle  x=\"80\" y=\"435\" width=\"1735\" height=\"105\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"110\" y=\"455\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Quan hệ</text><text x=\"600\" y=\"455\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Phản ứng của người xung quanh.</text><rectangle  x=\"80\" y=\"560\" width=\"1735\" height=\"105\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"580\" width=\"430\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#14695F\">Điều kiện</text><text x=\"600\" y=\"580\" width=\"1170\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Nguồn lực, quyền, yêu cầu thực tế.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Khi công việc quá tải, lớp học thiếu an toàn hoặc một người bị phân biệt đối xử, giải thích bằng niềm tin cá nhân là chưa đủ. Hãy kiểm yêu cầu, nguồn lực và mức tự nguyện cùng với trải nghiệm chủ quan. Chọn mục tiêu là một phần của việc hiểu, không lý do để quy trách nhiệm mọi khó khăn cho người đang chịu nó. Điều kiện xã hội và lựa chọn cá nhân cần được xem cùng nhau.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không xem bất công như lỗi phong cách sống của nạn nhân.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · H · Phân tích giáo dục/giao tiếp</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 29/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">🗺️ I · VISUAL EXPLANATION</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Cùng một hành vi, nhiều câu hỏi</text><rectangle  x=\"80\" y=\"385\" width=\"470\" height=\"230\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"410\" width=\"414\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Hành vi quan sát</text><text x=\"108\" y=\"505\" width=\"414\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Không tự cho biết động cơ.</text><rectangle  x=\"900\" y=\"300\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"325\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Các câu hỏi</text><text x=\"928\" y=\"420\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Ý nghĩa, mục tiêu, quan hệ.</text><rectangle  x=\"900\" y=\"520\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"545\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Nhánh thay thế</text><text x=\"928\" y=\"640\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Kỹ năng và hoàn cảnh.</text><line x1=\"550\" y1=\"500\" x2=\"730\" y2=\"500\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"730\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"890\" y2=\"390\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"730\" y1=\"610\" x2=\"890\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Sơ đồ tổng hợp đặt một hành vi ở giữa: phía trên hỏi nó diễn ra trong nhiệm vụ và điều kiện nào; phía dưới hỏi cá nhân gán ý nghĩa, hướng tới điều gì và nhận phản hồi ra sao. Có một nhánh dành cho kỹ năng và nguồn lực để tránh giải thích tâm lý duy nhất. Đây là bản đồ đặt câu hỏi, không mô hình chẩn đoán hay cơ chế đã được kiểm nghiệm.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Bản đồ giảng dạy, không phải mô hình chẩn đoán hoặc cơ chế đã xác nhận.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · I/D · Khung giảng dạy; nền [S1–S4],[S8]</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 30/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">💡 J · KEY TAKEAWAYS</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_6BD0EBB8TE86NAM7C41SQ1GHAD\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Tám ý cần giữ sau bài học</text><rectangle  x=\"80\" y=\"320\" width=\"545\" height=\"285\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"108\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Định vị</text><text x=\"108\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Lịch sử + chỉnh thể.</text><rectangle  x=\"670\" y=\"345\" width=\"545\" height=\"285\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"698\" y=\"370\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Hiểu đúng</text><text x=\"698\" y=\"465\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Mục tiêu + cộng đồng, không áp đặt.</text><rectangle  x=\"1260\" y=\"370\" width=\"545\" height=\"285\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"1288\" y=\"395\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Đánh giá</text><text x=\"1288\" y=\"490\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Phạm vi + phép đo + giới hạn.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Adler đi từ y học tới trường phái riêng trong một tiến trình lịch sử. Individual nói về chỉnh thể trong bối cảnh; hướng đích mở câu hỏi nhưng không cho quyền đoán chắc động cơ. Vượt khó khác thống trị, social interest khác hoạt náo. Khi so sánh Freud phải ghi phạm vi văn bản. Bằng chứng thứ tự sinh phụ thuộc phép đo và thiết kế; lịch sử, cơ chế và trị liệu cần các phép kiểm khác nhau.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Bản bài có8 ý; trên slide nhóm3 cụm để đọc rõ.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · J</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 31/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">❓ K · KNOWLEDGE CHECK 1</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">1. Individual có nghĩa là không cần xã hội?</text><rectangle  x=\"0\" y=\"300\" width=\"590\" height=\"400\" fill=\"#14695F\" corner-radius=\"0\"/><text x=\"80\" y=\"355\" width=\"430\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"45\" font-weight=\"700\" color=\"#F5F0E6\">Trả lời</text><text x=\"80\" y=\"490\" width=\"430\" height=\"150\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#F5F0E6\">Không.</text><text x=\"720\" y=\"325\" width=\"360\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Lý do</text><text x=\"1110\" y=\"325\" width=\"675\" height=\"160\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#182B2B\">Chỉnh thể vẫn nằm trong quan hệ.</text><text x=\"720\" y=\"525\" width=\"360\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Lỗi dễ mắc</text><text x=\"1110\" y=\"525\" width=\"675\" height=\"160\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#182B2B\">Cá nhân=người cô lập.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Không. Cách đặt tên nhấn mạnh sự thống nhất của con người, còn môi trường quan hệ vẫn thuộc cách hiểu. Một người không được giải thích đủ bằng cách tách riêng suy nghĩ, cảm xúc và hành vi khỏi nhiệm vụ và hoàn cảnh. Lỗi thường gặp là đọc chữ “cá nhân” như cá nhân chủ nghĩa rồi bỏ qua vị trí của cộng đồng trong hệ thống đang học.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Cho người học tự trả lời trước khi hiện phần giải thích.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · K1 · [S2]</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 32/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">❓ K · KNOWLEDGE CHECK 2</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">2. Tách Freud năm 1911 có nghĩa bỏ quá khứ?</text><rectangle  x=\"80\" y=\"305\" width=\"850\" height=\"240\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Dữ kiện</text><text x=\"108\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Tách nhóm năm 1911.</text><rectangle  x=\"965\" y=\"305\" width=\"850\" height=\"240\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"993\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Không suy được</text><text x=\"993\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Adler phủ nhận toàn bộ quá khứ.</text><rectangle  x=\"80\" y=\"580\" width=\"1735\" height=\"100\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"603\" width=\"450\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#14695F\">Cách kiểm</text><text x=\"590\" y=\"600\" width=\"1180\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Đọc đúng tác phẩm và giai đoạn.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Không. Một sự kiện lịch sử không tự xác định nội dung mọi khái niệm. Hỏi về hướng tới hiện tại khác với phủ nhận ý nghĩa trải nghiệm trước đây. Tương tự, một đoạn Freud về xung đột không đại diện toàn bộ Freud. Khi so sánh, cần chỉ tác phẩm, giai đoạn và điều đang được đánh giá thay vì lập bảng hai khẩu hiệu tuyệt đối.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không trộn lịch sử quan hệ với kết luận lý thuyết.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · K2 · [S1–S2],[S5]</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 33/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">❓ K · KNOWLEDGE CHECK 3</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">3. Chăm chỉ có chứng minh muốn thống trị không?</text><rectangle  x=\"80\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Một biểu hiện</text><text x=\"108\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Làm việc chăm chỉ.</text><rectangle  x=\"670\" y=\"320\" width=\"545\" height=\"285\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Nhiều khả năng</text><text x=\"698\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Học, giúp, tiền, sức ép.</text><rectangle  x=\"1260\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Kết luận</text><text x=\"1288\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Chưa biết mục tiêu chắc chắn.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Không. Cùng hành vi có thể gắn với học kỹ năng, hỗ trợ nhóm, thu nhập, sợ đánh giá hoặc áp lực tổ chức. Đặt một giả thuyết mục tiêu vẫn cần lời kể và bối cảnh để phân biệt. Ngay khi một cách hiểu có vẻ hợp, ta phải cho phép dữ kiện mới sửa nó. Không nên gán mong muốn ưu thế chỉ vì số giờ làm việc hoặc thành tích cao.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không dùng câu hỏi làm test nhân cách.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · K3/E2 · Tình huống của bài</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 34/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">❓ K · KNOWLEDGE CHECK 4</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">4. Điều gì làm giả thuyết về An yếu đi?</text><rectangle  x=\"80\" y=\"385\" width=\"470\" height=\"230\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"410\" width=\"414\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Điều kiện đổi</text><text x=\"108\" y=\"505\" width=\"414\" height=\"100\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Rõ tiêu chí, an toàn hơn.</text><rectangle  x=\"900\" y=\"300\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"325\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Quan sát mới</text><text x=\"928\" y=\"420\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Mức tham gia tăng.</text><rectangle  x=\"900\" y=\"520\" width=\"900\" height=\"180\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"928\" y=\"545\" width=\"844\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Sửa cách hiểu</text><text x=\"928\" y=\"640\" width=\"844\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Xem lại câu chuyện chống đối.</text><line x1=\"550\" y1=\"500\" x2=\"730\" y2=\"500\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"730\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\"/><line x1=\"730\" y1=\"390\" x2=\"890\" y2=\"390\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><line x1=\"730\" y1=\"610\" x2=\"890\" y2=\"610\" stroke=\"#9B714F\" stroke-width=\"3\" arrow-end=\"triangle\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Nếu An tham gia khi tiêu chí rõ hơn hoặc lớp chấm dứt trêu chọc, giải thích về nhiệm vụ hay an toàn xã hội trở nên đáng chú ý. Điều đó làm giả thuyết “em muốn chống giáo viên” yếu đi, thay vì tự xác nhận nó dưới một tên mới. Một mô hình có ích phải cho phép kết quả khiến ta sửa cách hiểu, không biến mọi phản ứng thành bằng chứng cùng một chiều.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Không suy đã chứng minh một nguyên nhân duy nhất.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · K4/F · Ca giả định</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 35/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">❓ K · KNOWLEDGE CHECK 5</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">5. Không thấy hiệu ứng có nghĩa gia đình vô nghĩa?</text><rectangle  x=\"80\" y=\"305\" width=\"850\" height=\"240\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"108\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Giữ phạm vi</text><text x=\"108\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Đúng biến, thang đo và mẫu.</text><rectangle  x=\"965\" y=\"305\" width=\"850\" height=\"240\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"993\" y=\"330\" width=\"794\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">Giữ cập nhật</text><text x=\"993\" y=\"425\" width=\"794\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Đối chiếu nghiên cứu khác.</text><rectangle  x=\"80\" y=\"580\" width=\"1735\" height=\"100\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"110\" y=\"603\" width=\"450\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#14695F\">Giữ cá nhân</text><text x=\"590\" y=\"600\" width=\"1180\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#182B2B\">Không dự đoán từ trung bình nhóm.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Không. Thứ tự sinh, nét được đo, quan hệ gia đình và toàn bộ lý thuyết là những đối tượng khác nhau. Kết luận phải gắn với mẫu, phép đo và thiết kế. Nghiên cứu HEXACO sau đó còn nhắc cần đối chiếu construct và quy mô gia đình; có liên hệ trung bình cũng không đủ đoán từng người. Cả phủ định tuyệt đối lẫn công thức tính cách theo vị trí sinh đều vượt dữ kiện.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">S9 chỉ đọc metadata/abstract excerpts, chưa đánh giá toàn văn.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · K5/G · [S6],[S9]</text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 36/38</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#14695F\">📚 L · REFERENCES 1</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_0YJ3QV9EH19R6SNMAF8650ESQY\" fit=\"contain\" tint=\"#14695F\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#182B2B\">Nguồn lịch sử và văn bản: đọc theo khoảng cách</text><rectangle  x=\"80\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"108\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">[S1–S2]</text><text x=\"108\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Lịch sử đại học; nguồn diễn giải.</text><rectangle  x=\"670\" y=\"320\" width=\"545\" height=\"285\" fill=\"#CDE1D7\" corner-radius=\"12\"/><text x=\"698\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">[S3–S5]</text><text x=\"698\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Tuyển trích Adler; văn bản Freud.</text><rectangle  x=\"1260\" y=\"320\" width=\"545\" height=\"285\" fill=\"#E7E0D4\" corner-radius=\"12\"/><text x=\"1288\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#14695F\">[S7–S8]</text><text x=\"1288\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Thư mục; Ch 2 qua bản chép.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#182B2B\">Nguồn lịch sử chính là Đại học Vienna. Khái niệm được đọc qua Boeree, tuyển trích Stein và một chương Adler ở bản chép điện tử; mức trung gian phải được giữ rõ. Cột Freud chỉ dựa Lecture II năm 1910. Thư mục Understanding Human Nature mới đối chiếu tên/năm, không phải đã đọc sách. Bài và research log cung cấp URL, locator và giới hạn để reviewer kiểm lại.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">Xem References trong bài, không nhận đã kiểm nguyên bản Đức.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" color=\"#66685F\" format=\"html\"><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/sample-and-coordination/psychology-knowledge/02-Alfred-Adler/lessons/01-cuoc-doi-va-khac-biet-voi-freud.md\">Đọc bài A01, nguồn [S1–S9] và research log trên GitHub</a></text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#66685F\">A01 · Editorial Learning · 37/38</text></content>",
+    "<content><background fill=\"#123D3A\"/><text x=\"80\" y=\"50\" width=\"1620\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#A6D6C6\">📚 L · REFERENCES 2 / BÀN GIAO</text><image x=\"1740\" y=\"45\" width=\"56\" height=\"56\" src=\"file_0YJ3QV9EH19R6SNMAF8650ESQY\" fit=\"contain\" tint=\"#A6D6C6\"/><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Nguồn thực nghiệm, ảnh và phần việc còn lại</text><rectangle  x=\"80\" y=\"320\" width=\"545\" height=\"285\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"108\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Nguồn khoa học</text><text x=\"108\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">[S6] 2015; [S9] 2025 có giới hạn đọc.</text><rectangle  x=\"670\" y=\"320\" width=\"545\" height=\"285\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"698\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Hình minh họa</text><text x=\"698\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Tư liệu và bối cảnh, có credit.</text><rectangle  x=\"1260\" y=\"320\" width=\"545\" height=\"285\" fill=\"#234E48\" corner-radius=\"12\"/><text x=\"1288\" y=\"345\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#A6D6C6\">Bài tiếp</text><text x=\"1288\" y=\"440\" width=\"489\" height=\"155\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">A02: Chỉnh thể và Individual Psychology.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">S6 đọc abstract và hai trang đầu; S9 mới kiểm metadata và trích đoạn abstract. Chúng không tạo thành systematic review. Hình tư liệu và ảnh bối cảnh trong bản trình bày đều có credit; ảnh minh họa không phải dữ liệu của các ca giả định. Phần học thuật vẫn chờ review độc lập. Khi đọc tiếp A02, hãy giữ ba câu hỏi: nguồn đã nói gì, dữ liệu cho phép kết luận đến đâu, còn giải thích nào khác?</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">Nội dung học thuật chờ phản biện; hình và bản xuất được kiểm riêng.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" color=\"#C3D3CB\" format=\"html\"><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/sample-and-coordination/psychology-knowledge/02-Alfred-Adler/lessons/01-cuoc-doi-va-khac-biet-voi-freud.md\">Đọc bài A01, nguồn [S1–S9] và research log trên GitHub</a></text><text x=\"80\" y=\"1050\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C3D3CB\">A01 · Editorial Learning · 38/38</text></content>"
+  ],
+  "assets": [
+    {
+      "key": "adler-diagram",
+      "file_id": "file_1TKGJ0A8MT9RG8QSNG50MW9B5C",
+      "source_url": "https://commons.wikimedia.org/wiki/File:AdlerNervoes1912.png",
+      "download_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/AdlerNervoes1912.png",
+      "credit": "Alfred Adler, 1912 · Wikimedia Commons",
+      "licensing_status": "Commons Summary/Licensing read 2026-10-24; PD-old-80-expired and PD-US-expired. Not a universal jurisdiction clearance.",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "caption": "Sơ đồ lý thuyết lịch sử của Adler, 1912; không phải sơ đồ cơ chế được kiểm nghiệm của bài A01.",
+      "used_slides": [
+        1,
+        3,
+        6,
+        12
+      ],
+      "alterations": "Resized with fit=contain; no crop."
+    },
+    {
+      "key": "freud",
+      "file_id": "file_5FWKYXJ5T5956T7WDB8TNJ5Q7T",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt.jpg",
+      "credit": "Max Halberstadt, khoảng 1921 · Wikimedia Commons",
+      "licensing_status": "Commons Summary/Licensing read 2026-10-24; PD-old-80-expired and PD-US-expired.",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "used_slides": [
+        12
+      ],
+      "alterations": "Resized with fit=contain; no crop."
+    },
+    {
+      "key": "classroom-stock",
+      "file_id": "stock_unsplash_1-aA2Fadydc",
+      "source_url": "https://unsplash.com/photos/1-aA2Fadydc",
+      "credit": "Quilia / Unsplash",
+      "licensing_status": "Moda stock provider result, attribution displayed wherever used.",
+      "provider_attribution": {
+        "photographer": "Quilia",
+        "photographer_url": "https://unsplash.com/@heyquilia?utm_source=moda&utm_medium=referral",
+        "source": "Unsplash"
+      },
+      "used_slides": [
+        4
+      ],
+      "caption": "Ảnh bối cảnh lớp học hiện đại, không phải Vienna thập niên 1920.",
+      "alterations": "Resized with fit=contain; no crop."
+    },
+    {
+      "key": "team-stock",
+      "file_id": "stock_unsplash_KdeqA3aTnBY",
+      "source_url": "https://unsplash.com/photos/KdeqA3aTnBY",
+      "credit": "Dylan Gillis / Unsplash",
+      "licensing_status": "Moda stock provider result, attribution displayed wherever used.",
+      "provider_attribution": {
+        "photographer": "Dylan Gillis",
+        "photographer_url": "https://unsplash.com/@mainermedia?utm_source=moda&utm_medium=referral",
+        "source": "Unsplash"
+      },
+      "used_slides": [
+        19
+      ],
+      "caption": "Ảnh bối cảnh làm việc, không mô tả Minh.",
+      "alterations": "Resized with fit=contain; no crop."
+    }
+  ],
+  "image_placements": [
+    {
+      "slide": 1,
+      "key": "adler-diagram"
+    },
+    {
+      "slide": 3,
+      "key": "adler-diagram"
+    },
+    {
+      "slide": 4,
+      "key": "classroom-stock"
+    },
+    {
+      "slide": 6,
+      "key": "adler-diagram"
+    },
+    {
+      "slide": 12,
+      "key": "adler-diagram"
+    },
+    {
+      "slide": 12,
+      "key": "freud"
+    },
+    {
+      "slide": 19,
+      "key": "team-stock"
+    }
+  ],
+  "icons": [
+    {
+      "name": "compass",
+      "file_id": "file_6BD0EBB8TE86NAM7C41SQ1GHAD"
+    },
+    {
+      "name": "users",
+      "file_id": "file_36H0KSKK139DBT7EFPTZTYN4XD"
+    },
+    {
+      "name": "message-circle",
+      "file_id": "file_3CBM9EFFMM9S3RTFXGKGF8R551"
+    },
+    {
+      "name": "microscope",
+      "file_id": "file_0YJ3QV9EH19R6SNMAF8650ESQY"
+    }
+  ],
+  "excluded_assets": [
+    {
+      "key": "adler-relief-secondary",
+      "status": "HOLD-not-rendered-in-final",
+      "file_id": "file_3EQQ1NC83Y8J6VYKK19XN3XS5D",
+      "object_source_url": "https://www.si.edu/object/alfred-adler%3Anpg_NPG.85.7",
+      "secondary_image_url": "https://cdn.thecollector.com/wp-content/uploads/2022/08/alfred-adler-portrait.jpg?dpr=2&quality=100&width=587",
+      "reason": "Official indexed Smithsonian/NPG text reports CC0 for Bril1932 object, but direct object reads blocked and the secondary photograph was not matched directly to original media. Replaced in all3placements before export."
+    },
+    {
+      "key": "asset-adler-drawing-candidate",
+      "kind": "portrait-drawing-candidate",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Adler.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alfred_Adler.jpg",
+      "credit": "Họa sĩ gốc không xác định; nguồn trang ghi Sonoma University; upload Ixitixel, chuyển Commons bởi Obersachse.",
+      "licensing_status": "Commons gắn PD-self; log nguồn gốc ghi anonymous, quyền của uploader đối với tác phẩm nền chưa được xác minh độc lập.",
+      "license_url": null,
+      "dimensions": [
+        572,
+        641
+      ],
+      "usage_status": "HOLD-provenance-review; do-not-render-until-resolved",
+      "suggested_slides": [
+        1,
+        3
+      ],
+      "caption": "Tranh chì mô tả Alfred Adler; không xác định ngày sáng tác.",
+      "warning": "26-05-2008 là ngày upload, không phải năm vẽ; không gọi uploader là họa sĩ."
+    },
+    {
+      "key": "asset-adler-arrival-candidate",
+      "kind": "historical-photo-candidate",
+      "url": "https://www.loc.gov/item/2002735769/",
+      "source_url": "https://www.loc.gov/item/2002735769/",
+      "credit": "Library of Congress, item2002735769; nhiếp ảnh gia chưa kiểm được.",
+      "licensing_status": "Chỉ metadata tìm kiếm; trang item403. Quyền và direct-image URL chưa kiểm.",
+      "license_url": null,
+      "dimensions": null,
+      "usage_status": "HOLD-do-not-render-until-rights-and-source-read",
+      "suggested_slides": [
+        1,
+        4
+      ],
+      "caption": "Alfred Adler đến New York trên S.S.Statendam,1933, theo metadata LOC.",
+      "warning": "URL là trang nguồn, không bịaURL tệp ảnh."
+    }
+  ],
+  "exports": {
+    "pptx": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "a91735f3-603f-4194-83a8-1de790bd0938",
+      "url": "https://assets-cdn.moda.app/mcp-exports/c53e3ca8-b9de-4fb8-8506-65caf8644eed/vcrdt-1cab8c3a19b9006a32dd192e06cecfb6/pptx-r2-f0-w1-all.pptx?Expires=1824358987&KeyName=mpwa&Signature=1EMrL2RsF2q9djOQ55JFjVBCWY4",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "21ad41bc-6414-4023-b72c-ca77f6ff26ac",
+      "url": "https://assets-cdn.moda.app/mcp-exports/c53e3ca8-b9de-4fb8-8506-65caf8644eed/vcrdt-1cab8c3a19b9006a32dd192e06cecfb6/pdf-r3-f0-w1-all.pdf?Expires=1824359008&KeyName=mpwa&Signature=FdK4qswR1OGRzUrfbAdUWz1t3Ws",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  },
+  "download_status": {
+    "local_files_downloaded": false,
+    "error": "urllib: <urlopen error [Errno 1] Operation not permitted>",
+    "note": "No binary artifact or fake placeholder created in visuals/. Moda export links are real deliverables; offline file inspection not performed."
+  },
+  "content_changes": [
+    {
+      "slide": 38,
+      "field": "body/nodes/note",
+      "reason": "Replace obsolete production-future statements (canvas/export not started) with source limits, illustrative-image notice, independent review pending and A02 reading path.",
+      "original_body": "S6 đọc abstract và hai trang đầu; S9 mới kiểm metadata và trích đoạn abstract. Chúng không tạo thành systematic review. Ảnh Freud có trang mô tả và nhãn quyền đã đọc; một số ảnh Adler có provenance hoặc quyền tác phẩm nền chưa rõ nên giữ ứng viên, không tự dùng. Tiếp theo là review nội dung, giải quyết ảnh, dựng Moda, kiểm screenshot và bản xuất trước khi báo bài hoàn thành.",
+      "rendered_body": "S6 đọc abstract và hai trang đầu; S9 mới kiểm metadata và trích đoạn abstract. Chúng không tạo thành systematic review. Hình tư liệu và ảnh bối cảnh trong bản trình bày đều có credit; ảnh minh họa không phải dữ liệu của các ca giả định. Phần học thuật vẫn chờ review độc lập. Khi đọc tiếp A02, hãy giữ ba câu hỏi: nguồn đã nói gì, dữ liệu cho phép kết luận đến đâu, còn giải thích nào khác?"
+    },
+    {
+      "slide": 30,
+      "field": "note",
+      "reason": "Replace obsolete instruction about main-session production with teaching-model limitation."
+    },
+    {
+      "slide": 9,
+      "field": "layout",
+      "reason": "Two-column comparison with no arrows prevents suggesting skill development causes domination. Original nodes/body preserved."
+    },
+    {
+      "slides": [
+        1,
+        3,
+        12
+      ],
+      "field": "image",
+      "reason": "Replace HOLD relief photograph with verified Commons1912historical diagram."
+    },
+    {
+      "slides": [
+        37,
+        38
+      ],
+      "field": "source footer",
+      "reason": "Add clickable link to full A01 text/references/research log on repository branch."
+    }
+  ],
+  "checks": {
+    "all_38_pages_authored": true,
+    "all_38_pages_screenshot_reviewed": true,
+    "final_repair_pages_rechecked": [
+      1,
+      3,
+      9,
+      12,
+      37,
+      38
+    ],
+    "body_preservation_count": 37,
+    "body_preservation_total": 38,
+    "text_truncated_warnings": 0,
+    "requires_repair_unresolved": 0,
+    "known_fit_notes": [
+      "Initial cover title estimate auto-fit88→83.28; final cover replacement returned no shrink warning; inspected rendered cover."
+    ],
+    "icon_tint_warning_resolution": "Full recolor intentionally applied only to transparent outlineSVGicons.",
+    "academic_review": "pending-independent-review",
+    "export_service_status": "complete-both-formats",
+    "local_file_inspection": "blocked-by-download-permission"
+  },
+  "limitations": [
+    "Academic source-access limits from lesson remain, particularly S9 indexed abstract only and original Adler texts via intermediaries.",
+    "Screenshots were visually inspected, but exported binary files could not be downloaded for independent PPTX/PDF parsing.",
+    "PDF export reports one rasterized page: visible and hyperlinks retained, text on that page is not selectable/searchable.",
+    "HOLD images omitted; no universal-jurisdiction copyright clearance claim."
+  ],
+  "integration_review": {
+    "reviewer": "batch_academic_review",
+    "status": "reviewed-with-limitations",
+    "serious_findings": 0,
+    "record": "../../BATCH-02-REVIEW.md",
+    "scope": "lesson/script text and selected source claims; producer verified rendered pages",
+    "limitations": [
+      "Not all original editions/source full texts independently verified.",
+      "Reviewer did not inspect binary exports or independently clear image licensing."
+    ]
+  }
+}

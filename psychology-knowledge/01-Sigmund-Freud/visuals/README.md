@@ -1,6 +1,6 @@
 # Hình minh họa — Sigmund Freud
 
-Chưa có hình; đây là quy ước sản xuất cho phase nội dung. Mỗi bài tối thiểu một sơ đồ có giá trị giải thích, dựa trên bài đã kiểm nguồn.
+Đã có `f01-origins-preview-v01.jpg`, là preview thật do Moda trả về và đã kiểm trực quan. PNG export trên Moda thành công nhưng chưa tải được qua proxy workspace; xem hồ sơ F01. Các mục dưới là quy ước sản xuất. Mỗi bài tối thiểu một sơ đồ có giá trị giải thích, dựa trên bài đã kiểm nguồn.
 
 - Tên file: `f01-<khai-niem>-v01.png`; thêm PDF nếu cần bản in.
 - Accent: `#7A2038`; nền `#FAF8F4`, chữ `#20242A`. Không chỉ dùng màu để biểu thị mức bằng chứng.

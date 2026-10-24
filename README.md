@@ -50,3 +50,7 @@ lessons/<id>/<id>.pptx     file PowerPoint (Moda)
 lessons/<id>/deck.json     deck được dựng từ slides.json nào
 scripts/decks.py           bài nào còn thiếu deck, mục lục
 ```
+
+## Kho tâm lý học chuyên sâu
+
+[Psychology Knowledge — Freud, Adler, Jung](psychology-knowledge/README.md): kiến trúc và curriculum đề xuất cho 60 bài, triển khai theo phase sau phê duyệt; hiện chưa có bài mới hoàn thành.

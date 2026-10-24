@@ -4,8 +4,8 @@ lesson: J03
 status: đang làm
 claimed_by: codex_batch4_j03
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T15:53:46Z
-canvas_url: null
+heartbeat_at: 2026-10-24T16:12:29Z
+canvas_url: https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent
 branch: psychology/lesson-j03
 base: psychology/batch-02-three-decks
 ---

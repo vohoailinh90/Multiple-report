@@ -3,10 +3,10 @@
 
 Sessions share only the git remote. A session claims a lesson by committing lessons/<id>.claim.json on its own branch and
 pushing that branch; every command that decides something first fetches all branches and reads the claims on each. The
-owner of a claim is the branch name. At most MAX_ACTIVE sessions write at once (owner decision 2026-10-21).
+owner of a claim is the branch name. At most MAX_ACTIVE sessions write at once (owner decision 2026-10-24, was 2).
 
     python3 scripts/claims.py status                       # who holds what, who is writing, the next free id
-    python3 scripts/claims.py claim L17 --publish          # or: claim --new --publish (takes the next free id)
+    python3 scripts/claims.py claim L17 --publish          # or: claim --new --publish (takes the next free L id); F03, A02, J02 for the course
     python3 scripts/claims.py verify                       # exit 0 = every claim of mine is still mine and pushed
     python3 scripts/claims.py touch --publish              # renew the heartbeat; one silent for LEASE_HOURS is stale: claim it again
     python3 scripts/claims.py finish L17 --publish         # the lesson is written (lessons/<id>/lesson.md must exist)
@@ -32,10 +32,11 @@ ROOT = Path(__file__).resolve().parents[1]
 REMOTE = "origin"
 LEASE_HOURS = 24
 SKEW_HOURS = 1  # a heartbeat further ahead of the clock than this is not proof of life
-MAX_ACTIVE = 2
+MAX_ACTIVE = 3
 STAMP = "%Y-%m-%dT%H:%M:%SZ"
-LESSON_ID = re.compile(r"L\d{2}")
-LESSON_NAME = re.compile(r"(L\d{2})(?:\.|$)")
+# L = the general series; F, A, J = the Freud, Adler and Jung course (owner decision 2026-10-24)
+LESSON_ID = re.compile(r"[LFAJ]\d{2}")
+LESSON_NAME = re.compile(r"([LFAJ]\d{2})(?:\.|$)")
 STATUSES = ("doing", "done")
 RECORD_KEYS = {"id", "status", "owner", "claimed_at", "heartbeat_at", "done_at", "session", "taken_from"}
 BOARD = "docs/dieu-phoi.md"
@@ -313,7 +314,7 @@ def gather(ctx: Context) -> Board:
 
 
 def next_id(seen: set[str]) -> str:
-    return f"L{max((int(item[1:]) for item in seen), default=-1) + 1:02d}"
+    return f"L{max((int(item[1:]) for item in seen if item[0] == 'L'), default=-1) + 1:02d}"
 
 
 def require_branch(ctx: Context) -> str:
@@ -350,7 +351,7 @@ def mine(board: Board, ctx: Context, statuses: tuple[str, ...] = ("doing",)) -> 
 def check_ids(ids: list[str]) -> list[str]:
     for lesson in ids:
         if not LESSON_ID.fullmatch(lesson):
-            raise ClaimsError(f"{lesson!r} is not a lesson id (L00 to L99)")
+            raise ClaimsError(f"{lesson!r} is not a lesson id (L00 to L99, F00 to F99, A00 to A99 or J00 to J99)")
     return ids
 
 
@@ -589,7 +590,7 @@ def board_problems(text: str) -> list[str]:
             continue
         row = dict(zip(header, cells))
         if not LESSON_ID.fullmatch(row["bài"]):
-            problems.append(f"{label}: Bài must look like L17")
+            problems.append(f"{label}: Bài must look like L17, F03, A02 or J02")
         if row["việc"].lower() not in BOARD_WORK:
             problems.append(f"{label}: Việc must be one of {', '.join(BOARD_WORK)}")
         if row["trạng thái"].lower() not in BOARD_STATUS:

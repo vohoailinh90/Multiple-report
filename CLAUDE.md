@@ -21,7 +21,7 @@ thật sự thuộc về chủ repo (bài nói về điều gì), hoặc khi m�
 
 ## Nhiều phiên cùng làm
 
-Tối đa **2 phiên viết** chạy cùng lúc (chủ repo, 2026-10-21). Luật đầy đủ và bảng giữ bài: **`docs/dieu-phoi.md`**; đọc nó trước khi nhận hay giao bài.
+Tối đa **3 phiên viết** chạy cùng lúc (chủ repo, 2026-10-24; trước đó 2). Mã bài: `L<nn>` (series chung), `F<nn>`, `A<nn>`, `J<nn>` (giáo trình Freud–Adler–Jung). Luật đầy đủ và bảng giữ bài: **`docs/dieu-phoi.md`**; đọc nó trước khi nhận hay giao bài.
 
 - Chỉ phiên điều phối cấp số hiệu (`python3 scripts/claims.py next`) và tạo `lessons/<id>.spec.md` + `expected.json` trước khi giao bài.
 - Phiên viết: nhánh `claude/lesson-<id>`, `python3 scripts/claims.py claim <id> --publish` trước khi viết (bị từ chối thì dừng và báo, không lách),

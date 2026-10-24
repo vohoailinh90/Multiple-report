@@ -4,8 +4,8 @@ title: Id, Ego và Superego
 topic: khac
 date: 2026-10-24
 status: drafted
-review_status: pending
-visual_status: not-started
+review_status: reviewed-with-limitations
+visual_status: exported
 ---
 # F03 — Id, Ego và Superego: ba chức năng, không phải ba vùng não
 
@@ -135,9 +135,18 @@ Bài chưa phải systematic review, chưa kiểm toàn bộ nghiên cứu cập
 - Trong giáo dục, phân biệt sửa một việc cụ thể với kết án toàn bộ con người. Đây là nguyên tắc giao tiếp của bài, không kết luận điều trị rút từ Freud1923.
 - Trong nghiên cứu, định nghĩa biến quan sát, dự đoán và dữ kiện phản bác trước khi gán thuật ngữ. Cải thiện một hành vi không tự cho biết nó thay đổi qua cơ chế nào.
 
-## I. Visual Explanation — Sơ đồ cần đọc thế nào?
+## I. Visual Explanation — Bản trình bày Moda đã xuất
 
-**Trạng thái: not-started.** Kịch bản sẽ trực quan hóa hai chiều cắt chéo và một mô hình ego trong quan hệ với ba nhóm đòi hỏi. Mũi tên biểu thị quan hệ trong giả thuyết, không là đường truyền thần kinh. Hình không có tỷ lệ tâm trí, không dùng não ba tầng, quỷ/thiên thần hoặc người thật đóng vai ca giả định. Caption: “Mô hình khái niệm Freud đề xuất; không phải giải phẫu hoặc cơ chế đã được xác nhận.” Nguồn lý thuyết S1 chương I–III,V; nguồn ảnh được ghi riêng khi có bản xuất.
+**Trạng thái: exported.** Đã dựng37slide theo mẫu F01v4/F02. Sơ đồ phân biệt hai chiều nhận biết và tổ chức; ego nối tới các nhóm đòi hỏi trong mô hình. Mũi tên là quan hệ giả thuyết, không phải đường truyền thần kinh. Không dùng tỷ lệ tâm trí, não ba tầng hoặc người thật đóng vai ca giả định.
+
+Caption: “Mô hình khái niệm Freud đề xuất; không phải giải phẫu hoặc cơ chế đã được xác nhận.” Nguồn lý thuyết S1 chương I–III,V; nguồn ảnh/credit và giới hạn ở metadata bên dưới. Alttext mô tả: ba đòi hỏi id, superego, thực tại đặt trong quan hệ với ego; hai khung độc lập nhắc không ghép conscious=ego/unconscious=id.
+
+- [Canvas Moda](https://moda.app/canvas/3770860f-a810-4ba2-bd71-2442dc079f6b?source=agent)
+- [PowerPoint](https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-022ad4222cd188389b964de3a37b02db/pptx-r2-f0-w1-all.pptx?Expires=1824392296&KeyName=mpwa&Signature=uMweyhPjrQofHVrX5fQYkE9voZk)
+- [PDF](https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-bff3699fc4aae56c7fa0cac66fe1f52e/pdf-r3-f0-w1-all.pdf?Expires=1824392317&KeyName=mpwa&Signature=emLExg9IHyr-yIrCgAEzNNiF-Y4)
+- [Metadata](../moda/f03-report-v1.json) · [Nguồn ảnh và credit](../references/f03-visual-sources.md)
+
+Đã xem render37trang; sửa bốn layout và kiểm37body, không có richtext ra ngoài trang. PPTX không cảnh báo; PDF có một trang rasterized nên chữ trang đó không chọn/tìm kiếm được. Không lưu binary cục bộ theo chỉ dẫn điều phối; các link trên là bản xuất thật. Giữ drafted/reviewpending cho đến khi điều phối chốt review; không tự nhận Definition of Done không điều kiện.
 
 ## J. Key Takeaways — Tám điểm ghi nhớ
 

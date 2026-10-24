@@ -3,14 +3,14 @@
   "subtitle": "Ba chức năng, không phải ba vùng não",
   "status": "drafted",
   "review_status": "pending",
-  "visual_status": "not-started",
+  "visual_status": "exported",
   "design_system": "F01 v4 / Freud Burgundy, no brand kit",
   "source_lesson": "../lessons/03-id-ego-superego.md",
   "slides": [
     {
       "title": "Id, Ego và Superego",
       "section": "F03 · PSYCHOLOGY KNOWLEDGE",
-      "body": "Khi vừa muốn một điều, vừa tự ngăn mình và phải tính hậu quả thực tế, Freud tổ chức câu hỏi ấy thế nào? Bài học đọc mô hình cấu trúc trong văn bản1923, phân biệt nó với mô hình nhận biết ở F02 và theo dõi giới hạn của từng cách giải thích. Ba tên gọi không phải ba vùng não hoặc ba người nhỏ trong đầu.",
+      "body": "Khi vừa muốn một điều, vừa tự ngăn mình và phải tính hậu quả thực tế, Freud tổ chức câu hỏi ấy thế nào? Bài học đọc mô hình cấu trúc trong văn bản 1923, phân biệt nó với mô hình nhận biết ở F02 và theo dõi giới hạn của từng cách giải thích. Ba tên gọi không phải ba vùng não hoặc ba người nhỏ trong đầu.",
       "nodes": [
         [
           "Muốn gì?",
@@ -26,7 +26,7 @@
         ]
       ],
       "layout": "cover",
-      "source": "[S1] Freud1923/1927",
+      "source": "[S1] Freud 1923/1927",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục cover."
     },
@@ -79,7 +79,7 @@
     {
       "title": "Đọc đúng bản, không ghép nhầm số trang",
       "section": "B · SOURCE LITERACY",
-      "body": "Tác phẩm gốc Das Ich und das Es ra đời năm1923. Bài này đọc bản tiếng Anh Joan Riviere năm1927 trên Project Gutenberg, không đọc bản Standard Edition tập19. Locator dùng chương và câu mở đoạn đã xem. Phân biệt năm gốc, năm bản dịch và mức đọc giúp tránh một nguồn trông học thuật nhưng không thực sự hỗ trợ phát biểu.",
+      "body": "Tác phẩm gốc Das Ich und das Es ra đời năm 1923. Bài này đọc bản tiếng Anh Joan Riviere năm 1927 trên Project Gutenberg, không đọc bản Standard Edition tập 19. Locator dùng chương và câu mở đoạn đã xem. Phân biệt năm gốc, năm bản dịch và mức đọc giúp tránh một nguồn trông học thuật nhưng không thực sự hỗ trợ phát biểu.",
       "nodes": [
         [
           "1923",
@@ -91,7 +91,7 @@
         ],
         [
           "Locator",
-          "Chương/câu mở đoạn; khôngtrangSE."
+          "Chương/câu mở đoạn; khôngtrang SE."
         ]
       ],
       "layout": "ledger",
@@ -118,7 +118,7 @@
         ]
       ],
       "layout": "cards",
-      "source": "[S1] Freud1923/1927",
+      "source": "[S1] Freud 1923/1927",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục cards."
     },
@@ -209,7 +209,7 @@
     {
       "title": "Superego và ego-ideal: đọc theo giai đoạn",
       "section": "C · SUPEREGO",
-      "body": "Chương III văn bản1923/1927 đặt superego và ego-ideal gần nhau. Bài này phân tích việc đặt chuẩn, cấm đoán và tự phê phán, nhưng không dựng hai cơ quan hoàn toàn tách biệt. Lý tưởng về người mình phải trở thành có thể tham gia đánh giá ngay cả khi ta chưa diễn đạt rõ nó thành một câu đang nghĩ có ý thức.",
+      "body": "Chương III văn bản 1923/1927 đặt superego và ego-ideal gần nhau. Bài này phân tích việc đặt chuẩn, cấm đoán và tự phê phán, nhưng không dựng hai cơ quan hoàn toàn tách biệt. Lý tưởng về người mình phải trở thành có thể tham gia đánh giá ngay cả khi ta chưa diễn đạt rõ nó thành một câu đang nghĩ có ý thức.",
       "nodes": [
         [
           "Chuẩn lý tưởng",
@@ -391,7 +391,7 @@
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục decision."
     },
     {
-      "title": "Ví dụ1: xem tin nhắn trong cuộc họp",
+      "title": "Ví dụ 1: xem tin nhắn trong cuộc họp",
       "section": "E · REAL-LIFE EXAMPLE",
       "body": "Lan muốn biết bạn đã trả lời chưa nhưng đang nói với khách hàng. Có thể đọc đây là mong muốn tức thời, chuẩn tôn trọng người nghe và hậu quả công việc cùng tham gia lựa chọn. Lan tắt thông báo rồi xem lúc nghỉ. Nhưng một tin cấp bách hoặc quy tắc cho phép dùng điện thoại cũng phù hợp; cần hỏi bối cảnh trước khi gọi tên cấu trúc.",
       "nodes": [
@@ -409,12 +409,12 @@
         ]
       ],
       "layout": "example",
-      "source": "F03E · tìnhhuốnggiảđịnh",
+      "source": "F03E · tình huống giả định",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục example."
     },
     {
-      "title": "Ví dụ2: mua trong ngân sách rồi tự trách",
+      "title": "Ví dụ 2: mua trong ngân sách rồi tự trách",
       "section": "E · REAL-LIFE EXAMPLE",
       "body": "Bình mua tai nghe đúng ngân sách nhưng nghĩ người tốt không được tiêu gì cho bản thân. Một giả thuyết là chuẩn tự phê phán cứng nhắc; chưa đủ kết luận superego bệnh lý. Cần biết Bình có nợ hay đã hứa dùng tiền vào việc khác không. Hối tiếc sau mua, thiếu thông tin tài chính và áp lực quan hệ đều cần được xét.",
       "nodes": [
@@ -432,12 +432,12 @@
         ]
       ],
       "layout": "hypothesis",
-      "source": "F03E · tìnhhuốnggiảđịnh",
+      "source": "F03E · tình huống giả định",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục hypothesis."
     },
     {
-      "title": "Ví dụ3: nói thẳng mà vẫn giữ quan hệ",
+      "title": "Ví dụ 3: nói thẳng mà vẫn giữ quan hệ",
       "section": "E · REAL-LIFE EXAMPLE",
       "body": "Mai giận vì đồng nghiệp giao việc muộn nhưng muốn công bằng và phối hợp lâu dài. Nêu sự kiện, ảnh hưởng và đề nghị cụ thể có thể là cách đáp ứng nhiều đòi hỏi, không phải ego đánh bại id. Kỹ năng thương lượng, quy trình mơ hồ và bất cân xứng quyền lực là các giải thích ngoài Freud; im lặng trong môi trường trừng phạt phản hồi có thể có cơ sở.",
       "nodes": [
@@ -455,13 +455,13 @@
         ]
       ],
       "layout": "dialogue",
-      "source": "F03E · tìnhhuốnggiảđịnh",
+      "source": "F03E · tình huống giả định",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục dialogue."
     },
     {
       "title": "Case Nam: biết điều gì, thiếu điều gì?",
-      "section": "F · CASE STUDY1/3",
+      "section": "F · CASE STUDY 1/3",
       "body": "Nam sửa báo cáo nhiều lần rồi gửi trễ; Nam kể muốn làm tốt, sợ bị chê và giận vì yêu cầu thay đổi. Đó là dữ kiện khởi đầu của một ca giả định. Chưa biết chất lượng báo cáo, thời hạn cạnh tranh, lượng việc hoặc phản hồi quản lý. “Superego mạnh” là một tên gọi diễn giải, không phải dữ kiện đã quan sát.",
       "nodes": [
         [
@@ -478,13 +478,13 @@
         ]
       ],
       "layout": "case",
-      "source": "F03F · cagiảđịnh",
+      "source": "F03F · ca giả định",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục case."
     },
     {
       "title": "Case Nam: xây giả thuyết có đối thủ",
-      "section": "F · CASE STUDY2/3",
+      "section": "F · CASE STUDY 2/3",
       "body": "Cách đọc cấu trúc đặt mong muốn được công nhận, chuẩn phải hoàn hảo và nhu cầu gửi đúng hạn vào cùng khung. Sửa thêm có thể tạm trì hoãn việc bị đánh giá, nhưng nhẹ lo không xác định động cơ duy nhất. Tiêu chí đổi, thiếu dữ liệu, quá tải hoặc thiếu kỹ năng đều có thể giải thích một phần hay toàn bộ tình huống.",
       "nodes": [
         [
@@ -501,13 +501,13 @@
         ]
       ],
       "layout": "comparison",
-      "source": "F03F · cagiảđịnh",
+      "source": "F03F · ca giả định",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục comparison."
     },
     {
       "title": "Case Nam: tìm thông tin để sửa cách hiểu",
-      "section": "F · CASE STUDY3/3",
+      "section": "F · CASE STUDY 3/3",
       "body": "Đối chiếu yêu cầu bằng văn bản, các lần thay đổi và những báo cáo Nam vẫn gửi đúng hạn. Nếu điều kiện rõ mà chuẩn không được sai vẫn xuất hiện, giả thuyết tự phê phán có thêm dữ kiện, vẫn chưa là chẩn đoán. Thỏa thuận bản nháp và mốc phản hồi là cách thử điều kiện làm việc; bài không nhận đây là trị liệu phân tâm học đã kiểm định.",
       "nodes": [
         [
@@ -524,14 +524,14 @@
         ]
       ],
       "layout": "decision",
-      "source": "F03F · cagiảđịnh",
+      "source": "F03F · ca giả định",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục decision."
     },
     {
       "title": "Ba loại bằng chứng trả lời ba câu hỏi",
       "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
-      "body": "Văn bản1923 xác nhận Freud đã viết và lập luận thế nào. Một bài lý thuyết thần kinh hỏi tính tương thích giữa các cách mô tả. Một nghiên cứu kết quả trị liệu hỏi người tham gia có thay đổi không. Ba loại nguồn không thể tự thay thế nhau: chứng cứ cho một phát biểu lịch sử không đồng nghĩa chứng cứ cho cơ chế hoặc hiệu quả điều trị.",
+      "body": "Văn bản 1923 xác nhận Freud đã viết và lập luận thế nào. Một bài lý thuyết thần kinh hỏi tính tương thích giữa các cách mô tả. Một nghiên cứu kết quả trị liệu hỏi người tham gia có thay đổi không. Ba loại nguồn không thể tự thay thế nhau: chứng cứ cho một phát biểu lịch sử không đồng nghĩa chứng cứ cho cơ chế hoặc hiệu quả điều trị.",
       "nodes": [
         [
           "Lịch sử",
@@ -554,7 +554,7 @@
     {
       "title": "Neuropsychoanalysis: tương thích chưa là đồng nhất",
       "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
-      "body": "Carhart-Harris và Friston2010 đề xuất sự nhất quán giữa một số ý tưởng Freud với tổ chức hệ thống não và default-mode. Bài viết này chưa được đọc toàn văn trong phiên; PMC có CAPTCHA, OUP chuyển hướng không đọc được. Abstract được lập chỉ mục cho phép nhận diện một đề xuất đối chiếu, không cho phép tuyên bố ego chính là một mạng não hoặc mô hình đã được xác nhận.",
+      "body": "Carhart-Harris và Friston 2010 đề xuất sự nhất quán giữa một số ý tưởng Freud với tổ chức hệ thống não và default-mode. Bài viết này chưa được đọc toàn văn trong phiên; PMC có CAPTCHA, OUP chuyển hướng không đọc được. Abstract được lập chỉ mục cho phép nhận diện một đề xuất đối chiếu, không cho phép tuyên bố ego chính là một mạng não hoặc mô hình đã được xác nhận.",
       "nodes": [
         [
           "Nguồn đã xem",
@@ -570,14 +570,14 @@
         ]
       ],
       "layout": "contrast",
-      "source": "[S4]Brain2010,doi10.1093/brain/awq010",
+      "source": "[S4]Brain 2010,doi10.1093/brain/awq010",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục contrast."
     },
     {
       "title": "Đọc review theo từng khẳng định",
       "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
-      "body": "Luborsky và Barrett2006 tổng quan nhiều khái niệm và hiện tượng trị liệu. Phiên này mới kiểm metadata và abstract lập chỉ mục nên không báo một mức hiệu quả hoặc kết quả định lượng riêng. Bài học cũng chưa là systematic review cập nhật. Thiếu một phép kiểm trong khảo sát không bác bỏ mọi ý tưởng Freud; tương đồng hoặc một outcome tốt cũng chưa chứng minh cả hệ thống.",
+      "body": "Luborsky và Barrett 2006 tổng quan nhiều khái niệm và hiện tượng trị liệu. Phiên này mới kiểm metadata và abstract lập chỉ mục nên không báo một mức hiệu quả hoặc kết quả định lượng riêng. Bài học cũng chưa là systematic review cập nhật. Thiếu một phép kiểm trong khảo sát không bác bỏ mọi ý tưởng Freud; tương đồng hoặc một outcome tốt cũng chưa chứng minh cả hệ thống.",
       "nodes": [
         [
           "Kiểm riêng",
@@ -585,7 +585,7 @@
         ],
         [
           "Giới hạn đọc",
-          "Abstract/metadata, khôngfulltext."
+          "Abstract/metadata, không full text."
         ],
         [
           "Giữ bất định",
@@ -593,7 +593,7 @@
         ]
       ],
       "layout": "evidence",
-      "source": "[S5]AnnualReviewClinPsychol2006",
+      "source": "[S5]AnnualReviewClinPsychol 2006",
       "note": "",
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục evidence."
     },
@@ -650,15 +650,15 @@
       "nodes": [
         [
           "1–3",
-          "Khái niệm; id không xấu; egokhôngkiêungạo."
+          "Khái niệm; id không xấu; ego không kiêu ngạo."
         ],
         [
           "4–6",
-          "Chuẩn khôngluônđúng; đọcgiaiđoạn; haichiều."
+          "Chuẩn không luôn đúng; đọc giai đoạn; hai chiều."
         ],
         [
           "7–8",
-          "Khôngchẩnđoán; táchloạibằngchứng."
+          "Không chẩn đoán; tách loại bằng chứng."
         ]
       ],
       "layout": "summary",
@@ -668,7 +668,7 @@
     },
     {
       "title": "Vì sao không ghép ego=ý thức?",
-      "section": "K · KNOWLEDGE CHECK1/5",
+      "section": "K · KNOWLEDGE CHECK 1/5",
       "body": "Freud lập luận rằng một số hoạt động ego không được nhận biết; superego cũng không hoàn toàn ý thức. Vì vậy vô thức không chỉ là id. Sai lầm là ghép ba tên của mô hình này với ba tên của mô hình kia mà không xét câu hỏi mỗi mô hình đang trả lời.",
       "nodes": [
         [
@@ -687,7 +687,7 @@
     },
     {
       "title": "Lan muốn xem tin nhắn: id đang thắng?",
-      "section": "K · KNOWLEDGE CHECK2/5",
+      "section": "K · KNOWLEDGE CHECK 2/5",
       "body": "Chưa đủ kết luận. Tính khẩn cấp của tin nhắn, quy tắc cuộc họp và cách Lan cân nhắc đều còn thiếu. Một hành vi tương thích với mô hình không loại trừ các giải thích khác; câu trả lời tốt cần nêu thêm dữ kiện thay vì gắn nhãn.",
       "nodes": [
         [
@@ -706,7 +706,7 @@
     },
     {
       "title": "Vì sao superego không là thiên thần?",
-      "section": "K · KNOWLEDGE CHECK3/5",
+      "section": "K · KNOWLEDGE CHECK 3/5",
       "body": "Trong mô hình, chuẩn và sự tự phê phán có thể khắt khe, gây đau khổ hoặc không hợp lý. Một chuẩn có mặt trong tâm lý không chứng minh nó đúng về đạo đức. Cũng không vì vậy phủ nhận mọi cảm giác tội lỗi có cơ sở trong hành vi gây hại thực.",
       "nodes": [
         [
@@ -725,7 +725,7 @@
     },
     {
       "title": "Dữ kiện nào làm giả thuyết về Nam yếu đi?",
-      "section": "K · KNOWLEDGE CHECK4/5",
+      "section": "K · KNOWLEDGE CHECK 4/5",
       "body": "Nếu yêu cầu thay đổi liên tục hoặc thiếu dữ liệu bắt buộc, còn Nam vẫn gửi đúng hạn khi tiêu chí rõ, cách giải thích chỉ do chuẩn hoàn hảo cá nhân sẽ yếu đi. Điều đó không chứng minh Nam không có xung đột; nó yêu cầu bỏ một cách đọc một nguyên nhân duy nhất.",
       "nodes": [
         [
@@ -744,7 +744,7 @@
     },
     {
       "title": "Đối chiếu ego/default-mode đã xác nhận Freud?",
-      "section": "K · KNOWLEDGE CHECK5/5",
+      "section": "K · KNOWLEDGE CHECK 5/5",
       "body": "Chưa. Tương thích khái niệm khác với đồng nhất và khác một phép kiểm cả mô hình. Cần định nghĩa, phép đo và dự đoán phân biệt. Phiên viết mới kiểm abstract/metadata của bài đối chiếu, nên không nâng mức đọc hoặc mức kết luận vì tên tạp chí có vẻ thuyết phục.",
       "nodes": [
         [
@@ -763,20 +763,20 @@
     },
     {
       "title": "Nguồn gốc và cách truy đúng đoạn",
-      "section": "L · REFERENCES1/2",
-      "body": "S1 là Freud1923 trong bản Joan Riviere1927 trên Project Gutenberg. Dùng Translator’s Note và các đoạn liên quan của chương I,II,III,V; không gán trang Standard Edition. S2 là tư liệu Library of Congress về bản thảo và mốc1923. S3 là transcript giáo dục của Freud Museum: hữu ích để định vị thuật ngữ, không phải review thực nghiệm độc lập.",
+      "section": "L · REFERENCES 1/2",
+      "body": "S1 là Freud 1923 trong bản Joan Riviere 1927 trên Project Gutenberg. Dùng Translator’s Note và các đoạn liên quan của chương I,II,III,V; không gán trang Standard Edition. S2 là tư liệu Library of Congress về bản thảo và mốc 1923. S3 là transcript giáo dục của Freud Museum: hữu ích để định vị thuật ngữ, không phải review thực nghiệm độc lập.",
       "nodes": [
         [
           "S1",
-          "Gutenberg79682, chương vàcâumởđoạn."
+          "Gutenberg 79682, chương và câu mở đoạn."
         ],
         [
           "S2",
-          "LOC,ExplodedManuscript."
+          "LOC · Exploded Manuscript."
         ],
         [
           "S3",
-          "FreudMuseum,transcript."
+          "Freud Museum, transcript."
         ]
       ],
       "layout": "references",
@@ -786,8 +786,8 @@
     },
     {
       "title": "Nguồn hiện đại: nói rõ mức đã đọc",
-      "section": "L · REFERENCES2/2",
-      "body": "S4 là Carhart-Harris và Friston2010, Brain133,1265–1283, DOI10.1093/brain/awq010. S5 là Luborsky và Barrett2006, Annual Review of Clinical Psychology2,1–19, DOI10.1146/annurev.clinpsy.2.022305.095328. Phiên này kiểm metadata và abstract lập chỉ mục, chưa đọc full text; research log ghi các lỗi truy cập và claim đã thu hẹp.",
+      "section": "L · REFERENCES 2/2",
+      "body": "S4 là Carhart-Harris và Friston 2010, Brain 133,1265–1283, DOI10.1093/brain/awq010. S5 là Luborsky và Barrett 2006, Annual Review of Clinical Psychology2,1–19, DOI10.1146/annurev.clinpsy.2.022305.095328. Phiên này kiểm metadata và abstract lập chỉ mục, chưa đọc full text; research log ghi các lỗi truy cập và claim đã thu hẹp.",
       "nodes": [
         [
           "S4",
@@ -795,11 +795,11 @@
         ],
         [
           "S5",
-          "Reviewkháiniệm—abstractonly."
+          "Review khái niệm—abstract only."
         ],
         [
           "Mức truy cập",
-          "Khôngtựnâng thànhfulltext."
+          "Không tự nâng thành full text."
         ]
       ],
       "layout": "references",
@@ -831,11 +831,47 @@
       "visual_brief": "Sơ đồ khái niệm, nhãn giả thuyết; không giải phẫu hoặc tỷ lệ tâm trí. Bố cục closing."
     }
   ],
-  "canvas_ref": null,
-  "canvas_url": null,
-  "exports": [],
-  "presentation_status": "script-ready",
+  "canvas_ref": "cvs_1QE230ZA0G9EHBTW948BE0F7VB",
+  "canvas_url": "https://moda.app/canvas/3770860f-a810-4ba2-bd71-2442dc079f6b?source=agent",
+  "exports": [
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "bb6fbbd3-786d-49eb-b1a2-42e7909640cf",
+      "url": "https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-022ad4222cd188389b964de3a37b02db/pptx-r2-f0-w1-all.pptx?Expires=1824392296&KeyName=mpwa&Signature=uMweyhPjrQofHVrX5fQYkE9voZk",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "0875bab3-8b31-4c9d-8ec4-fd11fa467e2c",
+      "url": "https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-bff3699fc4aae56c7fa0cac66fe1f52e/pdf-r3-f0-w1-all.pdf?Expires=1824392317&KeyName=mpwa&Signature=emLExg9IHyr-yIrCgAEzNNiF-Y4",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  ],
+  "presentation_status": "exported",
   "production_notes": [
-    "Bản nội dung nghiên cứu trực tiếp trong phiên có Moda, không nhận phục hồi task Cloud."
+    "Bản nội dung nghiên cứu trực tiếp trong phiên có Moda, không nhận phục hồi task Cloud.",
+    "Canvas duy nhất, không brand kit theo lựa chọn đã có;37 slide đã dựng và xem render.",
+    "Bốn trang12/14/22/25 sửa khung hai cột thành ba cột, không đổi nội dung.",
+    "Chuẩn hóa khoảng trắng chữ/năm và node labels;37body khớp trực tiếp canvas sau chuẩn hóa.",
+    "PPTX không cảnh báo; PDF một trang rasterized. Không tải binary theo chỉ dẫn điều phối, không nhận đã lưu file local."
   ]
 }

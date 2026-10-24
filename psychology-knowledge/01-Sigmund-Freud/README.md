@@ -2,7 +2,7 @@
 
 Psychoanalysis — Phân tâm học. Nhánh học thuật tiếng Việt kèm thuật ngữ tiếng Anh; đọc lý thuyết trong bối cảnh lịch sử và đối chiếu bằng chứng hiện đại.
 
-**Trạng thái:** có [bài mẫu F01](lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md) để người dùng xem; chưa duyệt mẫu, chưa tính complete. [F02](lessons/02-conscious-preconscious-unconscious.md) đã có bản nháp, chưa review độc lập/Moda.
+**Trạng thái:** đã có bài học và bản trình bày; mẫu F01 v4 đã được người dùng duyệt. Các bài vẫn giữ giới hạn kiểm chứng và chưa tự tính toàn folder hoàn thành.
 
 Đọc [quy chuẩn chung](../STANDARDS.md), rồi theo [curriculum và danh sách bài](curriculum.md). Mỗi chủ đề sẽ có một file riêng trong `lessons/`; chỉ thêm liên kết bài khi file thực sự tồn tại.
 
@@ -11,3 +11,5 @@ Psychoanalysis — Phân tâm học. Nhánh học thuật tiếng Việt kèm th
 - Bài tổng quan có sẵn: [L15 của repository](../../lessons/L15/lesson.md), chỉ là tài liệu định hướng, không thay thế curriculum này.
 
 Không dùng nội dung để tự chẩn đoán hoặc thay thế đánh giá và trị liệu chuyên môn.
+
+- [F03 — bài học và link PPTX/PDF](lessons/03-id-ego-superego.md) · [Review nội dung](references/f03-review.md).

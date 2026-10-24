@@ -43,3 +43,8 @@ URLs và ấn bản tại mụcL bài học. Không bịa trang hay trích dẫn
 ## Chưa giải quyết
 
 Chưa tổng quan cập nhật toàn bộ nghiên cứu sau2010; chưa đánh giá từng kết quảcủaS5; chưa kiểm độc lập mọi lập luận thần kinh S4; chưa đọc bài giảngXXXI1933 hoặc Bettelheim1983 nên không dẫn chúng như đã đọc. Không dựa vào tương đồng chức năng điều hành để xác nhận môhình Freud. Stage1visualnotstarted,reviewpending; cập nhật sản xuất được ghi riêng sau khi có canvas/export thật.
+
+
+## Cập nhật sản xuất — 2026-10-24
+
+37slide đã dựng và xem trên Moda; PDF/PPTXcomplete, metadata và credit ở f03-report-v1.json/f03-visual-sources.md. Sourceclaim không nâng mức đọc sau khi xuất. Reviewer độc lập đã gửi verdict không có finding text nghiêm trọng; điều phối giữ biên bản và chốt trạng thái, người sản xuất không tự chứng nhận. Các ghi chú notstarted phía trên phản ánh giai đoạn viết trước khi dựng. Bốn trang12/14/22/25 sửa khung3cột; chuẩn hóa khoảng trắng không đổi nội dung khái niệm. Không localbinary.

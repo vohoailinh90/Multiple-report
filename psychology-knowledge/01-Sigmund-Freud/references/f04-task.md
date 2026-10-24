@@ -4,8 +4,8 @@ lesson: F04
 status: đang làm
 claimed_by: codex_batch4_f04
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T16:11:51Z
-canvas_url: null
+heartbeat_at: 2026-10-24T16:13:05Z
+canvas_url: https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent
 branch: psychology/lesson-f04
 base: psychology/batch-02-three-decks
 ---

@@ -1014,7 +1014,7 @@
   },
   "brand_kit": null,
   "visual_status": "exported",
-  "academic_review_status": "pending",
+  "academic_review_status": "reviewed-with-limitations",
   "produced_at": "2026-10-24 15:35:06 UTC",
   "producer": "j02_ppt_production",
   "local_download": {
@@ -1042,6 +1042,8 @@
       "Reviewer did not inspect rendered pages or exported binaries."
     ]
   },
-  "integration_note": "Lesson review-status metadata updated after production; original production source hashes, if present, identify the production snapshot.",
-  "integration_lesson_sha256": "3ad7d5733345ef26ce573bb99ab3cc4f646d47c105c97a8b0dd671c40efd77a4"
+  "integration_note": "Current lesson/script review-status metadata updated after production. Original production source hashes and rendered slide/markup snapshots identify the pre-review production inputs.",
+  "integration_lesson_sha256": "3ad7d5733345ef26ce573bb99ab3cc4f646d47c105c97a8b0dd671c40efd77a4",
+  "production_snapshot_review_status": "Pending at design/export time; current review is recorded in independent_review.",
+  "integration_script_sha256": "7f1ba67b83c3d257719fc0aa63e9c603e1a2f8db4f9082b281a42b7ee5a52c7f"
 }

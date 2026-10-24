@@ -4,7 +4,7 @@ lesson: J02
 status: chờ phản biện
 claimed_by: j02_ppt_production
 claimed_at: 2026-10-24T15:15:45Z
-heartbeat_at: 2026-10-24T15:35:59Z
+heartbeat_at: 2026-10-24T15:47:05Z
 requested_from: Codex (yêu cầu comment trên PR của bài; task PSY-LESSON-J02-V1 vòng 1)
 requested_at: 2026-10-24T07:26:01Z
 canvas_url: https://moda.app/canvas/835be034-4ca5-49f9-bf5d-64f12a43478d?source=agent

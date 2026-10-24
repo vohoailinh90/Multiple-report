@@ -2,7 +2,7 @@
   "title": "J02 — Analytical Psychology",
   "subtitle": "Đối lập, bù trừ và biểu tượng: đọc mô hình, giữ giới hạn",
   "status": "drafted",
-  "review_status": "pending",
+  "review_status": "reviewed-with-limitations",
   "visual_status": "exported",
   "design_system": {
     "reference": "F01 v4/J01",
@@ -862,5 +862,6 @@
     "Giữ body đầy đủ; sơ đồ chỉ là mô hình đề xuất.",
     "36/36 pages rendered and reviewed; repaired sign/symbol comparison, image context and diagram labels. Parent handles Git and independent academic review.",
     "One PDF page rasterized; local binary not downloaded."
-  ]
+  ],
+  "review_record": "../references/j02-review.md"
 }

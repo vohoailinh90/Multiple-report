@@ -1,10 +1,10 @@
 ---
 task_id: PSY-LESSON-F04-V1
 lesson: F04
-status: đang làm
+status: chờ phản biện
 claimed_by: codex_batch4_f04
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T16:13:05Z
+heartbeat_at: 2026-10-24T16:21:37Z
 canvas_url: https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent
 branch: psychology/lesson-f04
 base: psychology/batch-02-three-decks
@@ -38,3 +38,5 @@ ID — status drafted · review pending · visual; nhánh/sha đã publish; file
 - 2026-10-24T15:31:00Z — Nhận theo yêu cầu làm các bài kế tiếp. Git fetch bị chặn proxy; dùng GitHub connector công bố claim và nội dung, không đổi chính sách mạng.
 
 - 2026-10-24T16:11:51Z — lesson: F04 — bài A–L, nghiên cứu và 36 slide; chuyển sản xuất Moda
+
+- 2026-10-24T16:21:37Z — decks: F04 — 36 trang đã kiểm, PPTX/PDF đã xuất; tải PPTX bị Operation not permitted, giữ URL thật

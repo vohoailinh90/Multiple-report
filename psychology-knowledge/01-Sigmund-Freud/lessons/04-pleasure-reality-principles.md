@@ -5,7 +5,7 @@ topic: khac
 date: 2026-10-24
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # F04 — Pleasure Principle và Reality Principle
 
@@ -154,7 +154,9 @@ Trong nghiên cứu, lập trước bảng gồm khái niệm, phép đo, giải
 
 **Alt text:** Nhu cầu ở bên trái nối tới hai lộ trình. Lộ trình trên hướng tới giảm khó chịu trước mắt. Lộ trình dưới qua điều kiện bên ngoài và suy nghĩ rồi hành động. Nhãn giả thuyết phủ cả hai; kết quả không được bảo đảm.
 
-Chưa có canvas tại mốc stage 1; sẽ cập nhật link thật trong sản xuất. [Kịch bản](../moda/f04-slides.json) · [Nghiên cứu](../references/f04-research.md). Không có ảnh người thật đại diện cho Lan.
+Đã dựng [canvas Moda 36 trang](https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent), xem toàn bộ trang một lần ở vòng kiểm cuối và xuất [PPTX](https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pptx-r2-f0-w1-all.pptx?Expires=1824394683&KeyName=mpwa&Signature=yh6uhytrcnsSak_WBLYdK4Hrn3k) / [PDF](https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pdf-r3-f0-w1-all.pdf?Expires=1824394707&KeyName=mpwa&Signature=-efvXi_BU1OgH9XdeQx2uzMhZWQ). [Metadata và markup](../moda/f04-report-v1.json) · [Nguồn trực quan](../references/f04-visual-sources.md) · [Kịch bản](../moda/f04-slides.json) · [Nghiên cứu](../references/f04-research.md). Không có ảnh người thật đại diện cho Lan.
+
+PPTX xuất không có cảnh báo. Cảnh báo PDF nguyên văn: “1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.” Dù đã dùng flatten=false, một trang PDF vẫn là ảnh; không nhận toàn bộ PDF có chữ chọn được. Tải PPTX thử đúng một lần bị sandbox chặn: `URLError: <urlopen error [Errno 1] Operation not permitted>`. Không thử lại, không lưu file giả, không lưu PDF; Claude có thể lấy bản xuất từ URL trong metadata. Chưa kiểm bản PPTX/PDF bằng phần mềm ngoài; nội dung vẫn chờ phản biện.
 
 ## J. Key Takeaways — Tám điểm cần nhớ
 

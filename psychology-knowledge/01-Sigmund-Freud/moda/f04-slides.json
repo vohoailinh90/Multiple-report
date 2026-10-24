@@ -3,7 +3,7 @@
   "subtitle": "Hai đường đáp ứng và giới hạn suy luận",
   "status": "drafted",
   "review_status": "pending",
-  "visual_status": "not-started",
+  "visual_status": "exported",
   "design_system": {
     "reference": "f01-report-v4.json",
     "style": "Academic Editorial · Psychology Textbook · Modern Minimalism",
@@ -769,15 +769,47 @@
       "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
     }
   ],
-  "canvas_ref": null,
-  "canvas_url": null,
+  "canvas_ref": "cvs_7H1E50SPWB96HAQZD6NCXW3VPJ",
+  "canvas_url": "https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent",
   "exports": {
-    "pptx": null,
-    "pdf": null
+    "pptx": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "9123c49d-6511-4982-abfe-bfbf2d5ebb8e",
+      "url": "https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pptx-r2-f0-w1-all.pptx?Expires=1824394683&KeyName=mpwa&Signature=yh6uhytrcnsSak_WBLYdK4Hrn3k",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "04637325-5eab-4255-852f-3eb77d899e6d",
+      "url": "https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pdf-r3-f0-w1-all.pdf?Expires=1824394707&KeyName=mpwa&Signature=-efvXi_BU1OgH9XdeQx2uzMhZWQ",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
   },
-  "presentation_status": "not-started",
+  "presentation_status": "exported",
   "production_notes": [
     "36 slides; body + nodes; source claims follow lesson.",
-    "No fabricated assets, data, or citations."
+    "No fabricated assets, data, or citations.",
+    "36/36 final screenshots inspected once; no canvas repair needed.",
+    "PDF warning: 1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.",
+    "Download one attempt blocked: URLError: <urlopen error [Errno 1] Operation not permitted>. No local PPTX/PDF saved."
   ]
 }

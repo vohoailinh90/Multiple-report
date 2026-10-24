@@ -1,0 +1,995 @@
+{
+  "lesson_id": "F04",
+  "title": "F04 · Pleasure Principle và Reality Principle",
+  "version": 1,
+  "produced_at": "2026-10-24",
+  "producer": "codex_batch4_f04",
+  "deck_status": "exported",
+  "academic_review_status": "pending",
+  "visual_status": "exported",
+  "canvas_ref": "cvs_7H1E50SPWB96HAQZD6NCXW3VPJ",
+  "canvas_url": "https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent",
+  "page_count": 36,
+  "source_script": "f04-slides.json",
+  "source_lesson": "../lessons/04-pleasure-reality-principles.md",
+  "reference_style": "F01 v4 (user approved); read structure and screenshots pages1–3",
+  "brand_kit_id": null,
+  "design_system": {
+    "page_size": [
+      1920,
+      1080
+    ],
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "palette": {
+      "burgundy": "#7A2038",
+      "dark": "#23191F",
+      "paper": "#F5F0E6",
+      "rose": "#EADDE0",
+      "teal_surface": "#DDE8E5"
+    },
+    "emoji_headers": "A–L literal Unicode per brief",
+    "icon_files": [],
+    "icon_query": "lucide book open",
+    "typography": {
+      "heading_px": 63,
+      "cover_px": 94,
+      "body_px": [
+        35,
+        38,
+        41
+      ],
+      "node_body_px": 34,
+      "caption_px": [
+        21,
+        23,
+        26,
+        27,
+        28,
+        30
+      ]
+    },
+    "visual_thesis": "Hai đường đáp ứng, một mục tiêu có thể giữ: editorial typography and anchored hypothesis diagrams; vector-only by design."
+  },
+  "slides": [
+    {
+      "title": "Trì hoãn có phải\ntừ bỏ khoái cảm?",
+      "section": "F04 · PLEASURE / REALITY",
+      "body": "Mong muốn có thể giữ nguyên trong khi đường đi thay đổi. Bài học đọc hai nguyên lý Freud như một mô hình lịch sử, rồi dùng ví dụ và nghiên cứu về hành vi chờ để giữ riêng điều tác giả nói, điều quan sát được và cơ chế còn phải kiểm.",
+      "nodes": [
+        [
+          "Hai nguyên lý",
+          "Một mục tiêu, nhiều đường đi"
+        ],
+        [
+          "Một kỷ luật",
+          "Tách mô hình và bằng chứng"
+        ]
+      ],
+      "layout": "cover",
+      "source": "F04 · Câu hỏi trung tâm",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Đọc mô hình, kiểm cách suy luận",
+      "section": "A",
+      "body": "Bạn cần giải thích hai nguyên lý, theo dõi chuỗi đề xuất và phân tích tình huống bằng nhiều giả thuyết. Khi đọc nghiên cứu chờ đợi, hãy kiểm phép đo và thiết kế trước khi kết luận về cơ chế Freud. Mục tiêu là hiểu lý thuyết mà không gán nhãn con người.",
+      "nodes": [
+        [
+          "01 · Hiểu",
+          "Định nghĩa và quan hệ"
+        ],
+        [
+          "02 · Phân tích",
+          "Tình huống và giả thuyết"
+        ],
+        [
+          "03 · Đánh giá",
+          "Phép đo và giới hạn"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "F04 · A",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "1911 và 1920: giữ đúng lớp văn bản",
+      "section": "B",
+      "body": "Bài năm 1911 đặt thế giới bên ngoài vào cách hiểu tâm lý. Beyond the Pleasure Principle có bản gốc năm 1920; bản tiếng Anh được đọc ở đây là Hubback 1922, dịch từ ấn bản Đức thứ hai. Không gán mọi câu của bản dịch muộn cho bản đầu.",
+      "nodes": [
+        [
+          "1911",
+          "Hai nguyên lý"
+        ],
+        [
+          "1920",
+          "Beyond the Pleasure Principle"
+        ],
+        [
+          "1922",
+          "Bản dịch đã đọc"
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] tr. 1–2 · [S2] trang tên",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Một sơ đồ phát triển được đề xuất",
+      "section": "B",
+      "body": "Freud tự gọi mô tả ban đầu là sơ đồ, thừa nhận hiểu biết về các thích nghi còn thiếu. Câu chuyện từ thỏa mãn tưởng tượng tới xem xét thực tại cần được trình bày như giả thuyết. Bản thân tính mạch lạc của câu chuyện chưa biến nó thành kết quả thực nghiệm về trẻ em.",
+      "nodes": [
+        [
+          "Văn bản",
+          "Cho biết tác giả đề xuất gì"
+        ],
+        [
+          "Thực nghiệm",
+          "Cần phép kiểm riêng"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1] tr. 2 chú thích 2; tr. 3",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Khoái cảm không chỉ là vui vẻ",
+      "section": "C",
+      "body": "Pleasure principle chỉ khuynh hướng tìm khoái cảm và tránh khó chịu trong mô hình. Khi Freud nói tới lượng kích thích, đó là cách nhìn kinh tế tâm lý. Văn bản không đưa một đơn vị thực nghiệm để đo từng hành vi, cũng không đồng nhất nó với tiền bạc hay dopamine.",
+      "nodes": [
+        [
+          "Khái niệm",
+          "Khuynh hướng trong mô hình"
+        ],
+        [
+          "Không suy ra",
+          "Hạnh phúc hoặc chất dẫn truyền"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1] tr. 2 · [S2] I tr. 1–4",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Unlust: cần đọc quy ước dịch",
+      "section": "C",
+      "body": "Lời tựa bản 1922 phân biệt pain có dấu nháy, dùng cho Unlust, với đau theo nghĩa Schmerz. Bài dùng từ khó chịu để tránh giới hạn khái niệm vào đau cơ thể. Đây là cách diễn giải cho bản đang học, không phải quy tắc của mọi bản dịch Freud.",
+      "nodes": [
+        [
+          "Unlust",
+          "Khó chịu trong cách đọc này"
+        ],
+        [
+          "Schmerz",
+          "Đau theo phân biệt bản dịch"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S2] Editorial Preface",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Thực tại thay đổi đường đi",
+      "section": "C",
+      "body": "Reality principle tính tới điều kiện bên ngoài, kể cả điều không dễ chịu. Theo Freud, một thỏa mãn ngay nhưng bấp bênh có thể nhường chỗ cho đường đạt thỏa mãn về sau. Mục đích khoái cảm vẫn còn; trì hoãn không nhất thiết đồng nghĩa phủ nhận mong muốn.",
+      "nodes": [
+        [
+          "Mong muốn",
+          "Có thể được giữ"
+        ],
+        [
+          "Đường đi",
+          "Được điều chỉnh theo điều kiện"
+        ]
+      ],
+      "layout": "lead",
+      "source": "[S1] tr. 2, 6 · [S2] I tr. 5",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Tính hiệu quả không tự thành đạo đức",
+      "section": "C",
+      "body": "Lập kế hoạch sát thực tế là một câu hỏi; mục tiêu có chính đáng hay không là câu hỏi khác. Một người có thể tính toán hiệu quả để gây hại. Vì thế bài không dùng nguyên lý thực tại làm bằng khen, cũng không dùng nguyên lý khoái cảm làm lời chê.",
+      "nodes": [
+        [
+          "Tính tới điều kiện",
+          "Hành động có khả thi?"
+        ],
+        [
+          "Đánh giá đạo đức",
+          "Mục tiêu và hệ quả có chính đáng?"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "F04 · C · phân tích khái niệm",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Hai cách vận hành, không phải hai người",
+      "section": "C",
+      "body": "Văn bản 1911 cần được đọc trong ngữ cảnh của nó, tránh ghép máy móc với thuật ngữ cấu trúc ở F03. Công thức id muốn ngay, ego luôn lý trí làm nghèo văn bản. Chương I bản 1920/1922 còn nói nguyên lý khoái cảm có thể hoạt động trong ego. Không đặt hai nguyên lý vào hai vùng não.",
+      "nodes": [
+        [
+          "Hai nguyên lý",
+          "Cách hoạt động được đề xuất"
+        ],
+        [
+          "Ba cấu trúc",
+          "Một bộ câu hỏi khác"
+        ],
+        [
+          "Không đồng nhất",
+          "Nguyên lý ≠ vùng não"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S1] niên đại · [S2] I tr. 5–7",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Không có một lần chuyển đổi toàn bộ",
+      "section": "C",
+      "body": "Freud mô tả thay đổi không diễn ra đồng thời trên mọi mặt đời sống, và giữ vị trí riêng cho tưởng tượng. Mơ mộng hay sáng tác không tự là bệnh lý. Cần phân biệt hình dung một khả năng với tin rằng mong muốn đã trở thành sự kiện bên ngoài.",
+      "nodes": [
+        [
+          "Không đồng loạt",
+          "Nhiều cách hoạt động cùng tồn tại"
+        ],
+        [
+          "Không gán nhãn",
+          "Tưởng tượng không tự là bệnh"
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S1] tr. 4–5, mục 2–3",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Khuynh hướng không bảo đảm kết quả",
+      "section": "C",
+      "body": "Ngay ở chương I, Freud phủ nhận cách nói nguyên lý khoái cảm thống trị mọi kết quả tâm lý. Đời sống có các lực và điều kiện cản trở. Không được giải thích mọi đau khổ thành khoái cảm giấu kín chỉ để bảo vệ lý thuyết; F11 và F13 sẽ học các vấn đề tiếp theo.",
+      "nodes": [
+        [
+          "Khuynh hướng",
+          "Hướng vận hành được giả định"
+        ],
+        [
+          "Kết quả",
+          "Có thể trái mong muốn"
+        ]
+      ],
+      "layout": "lead",
+      "source": "[S2] I tr. 4–7",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Từ nhu cầu tới vấn đề thực tế",
+      "section": "D",
+      "body": "Trong chuỗi giả thuyết, một nhu cầu gây sức ép, mong muốn được hình dung như thỏa mãn, rồi sự thỏa mãn mong chờ không đến. Thất vọng tạo vấn đề mà chỉ tưởng tượng chưa giải quyết được. Đây là tái dựng để học, không quan sát đã xác nhận ở mọi trẻ.",
+      "nodes": [
+        [
+          "Nhu cầu",
+          "Sức ép được giả định"
+        ],
+        [
+          "Tưởng tượng",
+          "Thỏa mãn được trình bày"
+        ],
+        [
+          "Thất vọng",
+          "Kết quả không đến"
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1] tr. 2 · cơ chế giả thuyết",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Sơ đồ connector neo vào node; nét đứt và nhãn giả thuyết cho cơ chế đề xuất."
+    },
+    {
+      "title": "Chú ý và phán đoán trong mô hình",
+      "section": "D",
+      "body": "Freud đưa chú ý, ký ức và phán đoán vào những thích nghi trước đòi hỏi thực tại. Các thành phần giúp diễn đạt vì sao thông tin bên ngoài trở nên quan trọng. Chúng chưa phải chuỗi xử lý thông tin đã được đo theo phương pháp khoa học nhận thức hiện đại.",
+      "nodes": [
+        [
+          "Chú ý",
+          "Tìm thông tin"
+        ],
+        [
+          "Ký ức",
+          "Giữ dấu vết"
+        ],
+        [
+          "Phán đoán",
+          "Đối chiếu với điều kiện"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S1] tr. 3–4, mục 1",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Sơ đồ connector neo vào node; nét đứt và nhãn giả thuyết cho cơ chế đề xuất."
+    },
+    {
+      "title": "Suy nghĩ như thử hành động",
+      "section": "D",
+      "body": "Mô hình đặt suy nghĩ vào vai trò cho phép giữ lại hành động và chịu căng thẳng khi xem xét khả năng. Sau đó hành động hướng tới thay đổi thực tế. Mũi tên biểu diễn quan hệ được tác giả đề xuất; nó không bảo đảm kết quả hay xác định cơ chế của một người cụ thể.",
+      "nodes": [
+        [
+          "Xem xét",
+          "Thử khả năng"
+        ],
+        [
+          "Chịu tạm thời",
+          "Chưa hành động ngay"
+        ],
+        [
+          "Hành động",
+          "Thay đổi điều kiện"
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1] tr. 4 · cơ chế giả thuyết",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Sơ đồ connector neo vào node; nét đứt và nhãn giả thuyết cho cơ chế đề xuất."
+    },
+    {
+      "title": "Một hành vi cần nhiều giả thuyết",
+      "section": "D",
+      "body": "Thấy người đổi sang điện thoại chưa đủ xác định động lực. Có thể họ tìm giảm khó chịu, chưa biết việc tiếp theo hoặc quá mệt. Muốn dùng lý thuyết có trách nhiệm, hãy nêu thông tin nào sẽ khiến bạn sửa lời giải, thay vì coi mọi kết quả đều xác nhận nó.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Đổi hoạt động"
+        ],
+        [
+          "Giả thuyết",
+          "Giảm khó chịu / việc chưa rõ"
+        ],
+        [
+          "Phân biệt",
+          "Thay đổi điều kiện và hỏi thêm"
+        ]
+      ],
+      "layout": "decision",
+      "source": "F04 · D · đề xuất giảng dạy",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "An đói, quán chưa mở cửa",
+      "section": "E",
+      "body": "An kiểm giờ rồi chọn ăn nhẹ thay vì đứng chờ món mình muốn. Theo mô hình, mong muốn còn đó nhưng thông tin bên ngoài đổi đường đáp ứng. Điểm chính là tính tới điều kiện, không phải chờ càng lâu càng tốt; ăn để đáp ứng nhu cầu không đáng bị phê phán.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Quán mở sau một giờ"
+        ],
+        [
+          "Đường khác",
+          "Ăn nhẹ và đổi kế hoạch"
+        ]
+      ],
+      "layout": "example",
+      "source": "F04 · E1 · giả định · [S1] tr. 2, 6",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Ví dụ An: còn lời giải nào khác?",
+      "section": "E",
+      "body": "Lịch sinh hoạt, một lời chỉ dẫn hoặc thói quen cũng có thể giải thích lựa chọn của An. Hãy hỏi An biết gì, muốn gì và có lựa chọn nào. Ví dụ minh họa được quan hệ khái niệm nhưng không tự kiểm chứng động lực vô thức hay mức trưởng thành của An.",
+      "nodes": [
+        [
+          "Theo khung Freud",
+          "Điều kiện đổi đường thỏa mãn"
+        ],
+        [
+          "Giải thích khác",
+          "Lịch, thông tin, thói quen"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "F04 · E1 · phân tích ca giả định",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Bình sửa thư khi biết thêm dữ kiện",
+      "section": "E",
+      "body": "Sau khi bị phê bình, Bình soạn thư gay gắt nhưng chưa gửi. Đọc lại yêu cầu, Bình thấy mình hiểu sai và sửa thư. Ví dụ minh họa việc giữ khó chịu tạm thời để đối chiếu thực tế. Chỉ chờ mà không xem xét thông tin chưa nói lên cùng một điều.",
+      "nodes": [
+        [
+          "Lúc đầu",
+          "Thư phản hồi gay gắt"
+        ],
+        [
+          "Thông tin mới",
+          "Phát hiện hiểu sai"
+        ],
+        [
+          "Sau đó",
+          "Sửa nội dung trước khi gửi"
+        ]
+      ],
+      "layout": "example",
+      "source": "F04 · E2 · giả định · [S1] tr. 3–4",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Bình: quy tắc cũng có thể đủ giải thích",
+      "section": "E",
+      "body": "Bình có thể theo quy tắc nghề nghiệp, sợ hậu quả hoặc có thói quen kiểm thư. Cần hỏi lý do và xem thông tin mới có làm đổi lập luận không. Không dùng một khoảng chờ làm thước đo nguyên lý thực tại, cũng không coi phản ứng giận là dấu hiệu bệnh.",
+      "nodes": [
+        [
+          "Cần biết",
+          "Lý do và cách dùng thông tin"
+        ],
+        [
+          "Chưa biết",
+          "Cơ chế chỉ từ thời gian chờ"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "F04 · E2 · giải thích thay thế",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Chi chọn khoản tiền nhận hôm nay",
+      "section": "E",
+      "body": "Chi cần trả tiền nhà; nơi thường trả chậm hứa trả cao hơn nếu đợi. Nhận khoản thấp hơn ngay có thể phù hợp nhu cầu và rủi ro thực tế. Hình thức nhận ngay không đủ để nói nguyên lý khoái cảm thắng; hoàn cảnh thanh toán là dữ kiện cần giữ trong lời giải.",
+      "nodes": [
+        [
+          "Nhu cầu",
+          "Tiền nhà đến hạn"
+        ],
+        [
+          "Rủi ro",
+          "Lời hứa từng không đúng"
+        ],
+        [
+          "Lựa chọn",
+          "Khoản nhận được hôm nay"
+        ]
+      ],
+      "layout": "example",
+      "source": "F04 · E3 · giả định · [S1] tr. 2, 6",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Lan trì hoãn: đừng bắt đầu bằng nhãn",
+      "section": "F",
+      "body": "Lan đổi sang điện thoại khi báo cáo còn dang dở, rồi tự gọi mình thiếu kỷ luật. Điều biết được là hành vi và lời kể. Ta chưa biết giấc ngủ, yêu cầu nhiệm vụ, số liệu mâu thuẫn hoặc khối lượng việc. Ca Lan do bài xây dựng, không phải ca lâm sàng công bố.",
+      "nodes": [
+        [
+          "Biết",
+          "Đổi hoạt động, chưa viết"
+        ],
+        [
+          "Chưa biết",
+          "Mệt? Việc chưa rõ? Áp lực?"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "F04 · F · ca giả định",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Giữ ba lời giải cùng trên bàn",
+      "section": "F",
+      "body": "Một giả thuyết theo Freud là tìm giảm khó chịu trước mắt. Hai giải thích khác là nhiệm vụ chưa rõ và mệt mỏi sau ca làm. Chúng có thể cùng tồn tại. Hãy hỏi mục tiêu của Lan và dữ liệu còn thiếu, không tìm một động lực giấu kín chỉ để khép kín câu chuyện.",
+      "nodes": [
+        [
+          "H1",
+          "Giảm khó chịu"
+        ],
+        [
+          "H2",
+          "Yêu cầu chưa rõ"
+        ],
+        [
+          "H3",
+          "Mệt sau ca làm"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "F04 · F · giả thuyết phân tích",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Kiểm và cập nhật cách hiểu về Lan",
+      "section": "F",
+      "body": "Làm rõ yêu cầu rồi theo dõi việc bắt đầu viết giúp kiểm vai trò độ rõ nhiệm vụ. Hỏi thêm về nghỉ ngơi giúp xét mệt mỏi. Đánh giá cả độ chính xác báo cáo và sức khỏe. Chưa được gọi một thay đổi có ích là xác nhận toàn bộ chuỗi Freud.",
+      "nodes": [
+        [
+          "Hỏi thêm",
+          "Mục tiêu và điều kiện"
+        ],
+        [
+          "Thử phù hợp",
+          "Làm rõ dữ liệu thiếu"
+        ],
+        [
+          "Cập nhật",
+          "Theo kết quả quan sát"
+        ]
+      ],
+      "layout": "flow",
+      "source": "F04 · F · đề xuất kiểm giả thuyết",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Sơ đồ connector neo vào node; nét đứt và nhãn giả thuyết cho cơ chế đề xuất."
+    },
+    {
+      "title": "Ba tầng chứng cứ phải giữ riêng",
+      "section": "G",
+      "body": "Văn bản gốc cho biết Freud định nghĩa gì. Quan sát hành vi cho biết một người làm gì trong điều kiện nào. Kiểm cơ chế cần dữ liệu phân biệt các lời giải. Một tầng có giá trị không tự bảo đảm tầng tiếp theo; tên gọi chung không tạo ra phép kiểm chung.",
+      "nodes": [
+        [
+          "01 · Văn bản",
+          "Khẳng định của tác giả"
+        ],
+        [
+          "02 · Hành vi",
+          "Kết quả quan sát"
+        ],
+        [
+          "03 · Cơ chế",
+          "Phép kiểm phân biệt"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "F04 · G · [S1]–[S3]",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Watts 2018: kết quả và giới hạn",
+      "section": "G",
+      "body": "Nghiên cứu dọc kiểm liên hệ thời gian chờ lúc nhỏ với kết quả thiếu niên. Abstract cho biết liên hệ với thành tích giảm rõ khi thêm kiểm soát nền gia đình, nhận thức ban đầu và môi trường gia đình. Có liên hệ trước kiểm soát hỗ trợ dự báo, nhưng chưa chứng minh chờ gây thành công.",
+      "nodes": [
+        [
+          "Hỗ trợ hẹp",
+          "Có liên hệ quan sát"
+        ],
+        [
+          "Giới hạn",
+          "Giảm khi thêm kiểm soát"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S3] Abstract · chỉ đọc tóm tắt",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Đo chờ đợi chưa phải đo Freud",
+      "section": "G",
+      "body": "Thời gian chờ là kết quả hành vi. Nó không trực tiếp cho biết vì sao người ấy chờ hoặc cấu trúc tâm lý nào tạo ra lựa chọn. Nghiên cứu S3 không đo hai nguyên lý. Đổi tên một chỉ số thành sức mạnh ego không làm tăng khả năng phân biệt các cơ chế.",
+      "nodes": [
+        [
+          "Phép đo",
+          "Thời gian chờ"
+        ],
+        [
+          "Suy luận",
+          "Cần xét biến và thiết kế"
+        ],
+        [
+          "Không tự có",
+          "Xác nhận nguyên lý Freud"
+        ]
+      ],
+      "layout": "decision",
+      "source": "[S3] Abstract · F04 · G",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Chưa đủ chứng cứ khác với đã bác bỏ",
+      "section": "G",
+      "body": "Tập nguồn này hỗ trợ cách đọc văn bản nhưng chưa kiểm cơ chế phổ quát của Freud. Cũng không nên biến giới hạn đó thành tuyên bố mọi đóng góp đều sai. Giữ kết luận theo từng claim và nói dữ liệu nào còn thiếu là cách phản biện chặt chẽ hơn một phán quyết toàn bộ.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Được văn bản hỗ trợ"
+        ],
+        [
+          "Cơ chế phổ quát",
+          "Chưa đủ trong tập nguồn"
+        ]
+      ],
+      "layout": "lead",
+      "source": "F04 · G · giới hạn tổng quan",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Ba câu hỏi dùng trong tự phản tư",
+      "section": "H",
+      "body": "Có thể hỏi: tôi mong gì, điều kiện nào đang cản và có đường đáp ứng nào phù hợp hơn? Đây là công cụ giảng dạy giúp làm rõ lựa chọn, chưa phải can thiệp đã được thử nghiệm. Không dùng lý thuyết trì hoãn để ép bỏ qua nhu cầu cơ bản hoặc chấp nhận lời hứa thiếu tin cậy.",
+      "nodes": [
+        [
+          "Mong muốn",
+          "Điều tôi muốn đạt"
+        ],
+        [
+          "Điều kiện",
+          "Nguồn lực và rủi ro"
+        ],
+        [
+          "Đường khác",
+          "Lựa chọn phù hợp"
+        ]
+      ],
+      "layout": "decision",
+      "source": "F04 · H · ứng dụng có điều kiện",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Hai đường đáp ứng trong một mô hình",
+      "section": "I",
+      "body": "Từ một nhu cầu, sơ đồ đặt hai đường: hướng tới giảm khó chịu trước mắt, hoặc tính tới điều kiện rồi chọn hành động. Đường dưới vẫn có thể hướng tới thỏa mãn. Các mũi tên nét đứt mang nhãn giả thuyết; sơ đồ không chia não, không biểu thị tỉ lệ và không bảo đảm kết quả.",
+      "nodes": [
+        [
+          "Nhu cầu",
+          "Điểm xuất phát"
+        ],
+        [
+          "Trước mắt",
+          "Giảm khó chịu"
+        ],
+        [
+          "Qua điều kiện",
+          "Xem xét rồi hành động"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "[S1] tr. 2–6 · [S2] I · caption F04",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Sơ đồ connector neo vào node; nét đứt và nhãn giả thuyết cho cơ chế đề xuất."
+    },
+    {
+      "title": "Giữ lại tám ý cốt lõi",
+      "section": "J",
+      "body": "Khoái cảm không chỉ là vui vẻ; thực tại không phải đạo đức. Đường đi có thể đổi mà mục tiêu còn giữ. Hai nguyên lý không phải vùng não. Chuỗi phát triển là giả thuyết. Chờ có nhiều lời giải. Dự báo không tự chứng minh nhân quả. Dữ kiện mới phải có thể làm đổi cách hiểu.",
+      "nodes": [
+        [
+          "Khái niệm",
+          "Giữ đúng nghĩa"
+        ],
+        [
+          "Bằng chứng",
+          "Giữ đúng phạm vi"
+        ],
+        [
+          "Ứng dụng",
+          "Giữ nhu cầu và bối cảnh"
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "F04 · J · tổng hợp",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Câu 1–2: thay đường đi, đánh giá mục tiêu",
+      "section": "K",
+      "body": "1. Trì hoãn có xóa nguyên lý khoái cảm? Không theo S1: mục đích thỏa mãn có thể được giữ qua đường khác. 2. Tính toán chính xác để lừa người có phải có đạo đức? Không: khả thi và chính đáng là hai câu hỏi. Lỗi chung là biến một nguyên lý thành phẩm chất con người.",
+      "nodes": [
+        [
+          "Câu 1",
+          "Mục tiêu có thể còn"
+        ],
+        [
+          "Câu 2",
+          "Hiệu quả ≠ chính đáng"
+        ]
+      ],
+      "layout": "question",
+      "source": "F04 · K1–K2 · [S1] tr. 6",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Câu 3: hỏi trước khi gán nhãn",
+      "section": "K",
+      "body": "Chi chọn tiền ngay. Cần hỏi gì? Nhu cầu phải trả, độ tin cậy lời hứa và lựa chọn khác. Nếu khoản sau bấp bênh, nhận ngay có thể tính tới thực tại. Lỗi thường gặp là suy động lực từ hình thức lựa chọn mà chưa có thông tin hoàn cảnh.",
+      "nodes": [
+        [
+          "Dữ kiện cần",
+          "Nhu cầu, độ tin cậy, lựa chọn"
+        ],
+        [
+          "Lỗi cần tránh",
+          "Nhận ngay = thiếu trưởng thành"
+        ]
+      ],
+      "layout": "question",
+      "source": "F04 · K3 · vận dụng",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Câu 4–5: sửa kết luận theo chứng cứ",
+      "section": "K",
+      "body": "4. Chờ liên hệ với điểm cao chưa chứng minh nhân quả hay Freud; cần xem thiết kế và gây nhiễu. 5. Lan viết khi yêu cầu rõ hơn: tăng trọng lượng giải thích độ rõ nhiệm vụ, kiểm các yếu tố đi kèm. Lỗi chung là giữ nguyên câu chuyện dù dữ kiện mới xuất hiện.",
+      "nodes": [
+        [
+          "Câu 4",
+          "Liên hệ ≠ cơ chế"
+        ],
+        [
+          "Câu 5",
+          "Dữ kiện mới → sửa giả thuyết"
+        ]
+      ],
+      "layout": "question",
+      "source": "F04 · K4–K5 · [S3] Abstract",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Nguồn lịch sử đã đọc đúng phần",
+      "section": "L",
+      "body": "S1: Freud, 1911, Formulierungen über die zwei Prinzipien des psychischen Geschehens. Freud Edition, bản Đức, tr. 1–7; trọng tâm tr. 2–6. S2: Beyond the Pleasure Principle, bản gốc 1920; Hubback dịch 1922 từ bản Đức thứ hai. Đã đọc lời tựa và chương I tr. 1–7, không nhận đọc toàn sách.",
+      "nodes": [
+        [
+          "S1",
+          "freudedition.net/node/41559"
+        ],
+        [
+          "S2",
+          "gutenberg.org/ebooks/76031"
+        ]
+      ],
+      "layout": "references",
+      "source": "F04 · L · nguồn đầy đủ trong bài",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Nguồn hiện đại và mức truy cập",
+      "section": "L",
+      "body": "S3: Watts, Duncan và Quan, 2018, Psychological Science 29(7), 1159–1177; DOI 10.1177/0956797618761661. Đọc abstract PubMed, chưa đọc toàn phương pháp. Nguồn Kidd là ứng viên bị loại do chưa truy cập đủ. Nhật ký ghi rõ giới hạn; không có số liệu tự điền vào chỗ thiếu.",
+      "nodes": [
+        [
+          "S3",
+          "PubMed 29799765 · abstract-read"
+        ],
+        [
+          "Tập nguồn",
+          "2 văn bản theo phần + 1 abstract"
+        ]
+      ],
+      "layout": "references",
+      "source": "F04 · L · research ledger",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    },
+    {
+      "title": "Hỏi về đường đi,\nđừng gán nhãn con người",
+      "section": "F04 · KẾT",
+      "body": "Một lựa chọn trước mắt không nói hết điều kiện của người chọn. Hiểu hai nguyên lý giúp đọc Freud chính xác hơn; kiểm giả thuyết giúp biết lúc nào cần một lời giải khác. Đọc tiếp F05 trong curriculum về xung đột và phòng vệ. Bản nháp này chờ phản biện học thuật độc lập.",
+      "nodes": [
+        [
+          "Đọc trước",
+          "F02 · F03 ở PR39"
+        ],
+        [
+          "Đọc tiếp",
+          "F05 · xem curriculum"
+        ]
+      ],
+      "layout": "closing",
+      "source": "F04 · drafted · review pending",
+      "note": "Diễn giải giáo dục; ví dụ và ca ghi rõ giả định. Không suy chẩn đoán. Nguồn/locator chi tiết trong mục L và research ledger.",
+      "visual_brief": "Editorial theo F01 v4; giấy kem, Burgundy, nhãn nguồn, icon nét mảnh. Giữ body giải thích đầy đủ."
+    }
+  ],
+  "markup": [
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"dark\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#23191F\" corner-radius=\"0\"/><rectangle name=\"accent\" x=\"1300\" y=\"0\" width=\"620\" height=\"1080\" fill=\"#7A2038\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"65\" width=\"1100\" height=\"55\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">📚 F04 / PSYCHOLOGY KNOWLEDGE</text><text name=\"headline\" x=\"80\" y=\"220\" width=\"1150\" height=\"300\" font-size=\"94\" font-family=\"Bricolage Grotesque\" color=\"#F5F0E6\" font-weight=\"700\">Trì hoãn có phải\ntừ bỏ khoái cảm?</text><text name=\"body\" x=\"80\" y=\"630\" width=\"1120\" height=\"265\" font-size=\"36\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">Mong muốn có thể giữ nguyên trong khi đường đi thay đổi. Bài học đọc hai nguyên lý Freud như một mô hình lịch sử, rồi dùng ví dụ và nghiên cứu về hành vi chờ để giữ riêng điều tác giả nói, điều quan sát được và cơ chế còn phải kiểm.</text><text name=\"right-kicker\" x=\"1360\" y=\"150\" width=\"500\" height=\"60\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"600\">HAI ĐƯỜNG ĐÁP ỨNG</text><text name=\"right-label0\" x=\"1360\" y=\"330\" width=\"490\" height=\"90\" font-size=\"48\" font-family=\"Bricolage Grotesque\" color=\"#F5F0E6\" font-weight=\"700\">Hai nguyên lý</text><text name=\"right-desc0\" x=\"1360\" y=\"440\" width=\"490\" height=\"110\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">Một mục tiêu, nhiều đường đi</text><text name=\"right-label1\" x=\"1360\" y=\"590\" width=\"490\" height=\"90\" font-size=\"48\" font-family=\"Bricolage Grotesque\" color=\"#F5F0E6\" font-weight=\"700\">Một kỷ luật</text><text name=\"right-desc1\" x=\"1360\" y=\"700\" width=\"490\" height=\"110\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">Tách mô hình và bằng chứng</text><text name=\"source\" x=\"80\" y=\"994\" width=\"1100\" height=\"40\" font-size=\"24\" font-family=\"Be Vietnam Pro\" color=\"#C7AEB8\" font-weight=\"400\">F04 · Câu hỏi trung tâm · 01/36</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🎯 A · MỤC TIÊU</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Đọc mô hình, kiểm cách suy luận</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">01 · Hiểu</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Định nghĩa và quan hệ</text><rectangle name=\"node1\" x=\"685\" y=\"355\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"379\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">02 · Phân tích</text><text name=\"node1-desc\" x=\"711\" y=\"465\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Tình huống và giả thuyết</text><rectangle name=\"node2\" x=\"1290\" y=\"380\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"404\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">03 · Đánh giá</text><text name=\"node2-desc\" x=\"1316\" y=\"490\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Phép đo và giới hạn</text><connector from=\"@node0:right\" to=\"@node1:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" /><connector from=\"@node1:right\" to=\"@node2:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" /><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Bạn cần giải thích hai nguyên lý, theo dõi chuỗi đề xuất và phân tích tình huống bằng nhiều giả thuyết. Khi đọc nghiên cứu chờ đợi, hãy kiểm phép đo và thiết kế trước khi kết luận về cơ chế Freud. Mục tiêu là hiểu lý thuyết mà không gán nhãn con người.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · A</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 02/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🕰️ B · BỐI CẢNH</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">1911 và 1920: giữ đúng lớp văn bản</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">1911</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Hai nguyên lý</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">1920</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Beyond the Pleasure Principle</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">1922</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Bản dịch đã đọc</text><connector from=\"@node0:right\" to=\"@node1:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" /><connector from=\"@node1:right\" to=\"@node2:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" /><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Bài năm 1911 đặt thế giới bên ngoài vào cách hiểu tâm lý. Beyond the Pleasure Principle có bản gốc năm 1920; bản tiếng Anh được đọc ở đây là Hubback 1922, dịch từ ấn bản Đức thứ hai. Không gán mọi câu của bản dịch muộn cho bản đầu.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 1–2 · [S2] trang tên</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 03/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🕰️ B · BỐI CẢNH</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Một sơ đồ phát triển được đề xuất</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"660\" height=\"200\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Văn bản</text><text name=\"node0-desc\" x=\"106\" y=\"430\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Cho biết tác giả đề xuất gì</text><rectangle name=\"node1\" x=\"80\" y=\"545\" width=\"660\" height=\"200\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"106\" y=\"569\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Thực nghiệm</text><text name=\"node1-desc\" x=\"106\" y=\"645\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Cần phép kiểm riêng</text><text name=\"body\" x=\"830\" y=\"330\" width=\"970\" height=\"530\" font-size=\"38\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Freud tự gọi mô tả ban đầu là sơ đồ, thừa nhận hiểu biết về các thích nghi còn thiếu. Câu chuyện từ thỏa mãn tưởng tượng tới xem xét thực tại cần được trình bày như giả thuyết. Bản thân tính mạch lạc của câu chuyện chưa biến nó thành kết quả thực nghiệm về trẻ em.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 2 chú thích 2; tr. 3</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 04/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Khoái cảm không chỉ là vui vẻ</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Khái niệm</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Khuynh hướng trong mô hình</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Không suy ra</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Hạnh phúc hoặc chất dẫn truyền</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Pleasure principle chỉ khuynh hướng tìm khoái cảm và tránh khó chịu trong mô hình. Khi Freud nói tới lượng kích thích, đó là cách nhìn kinh tế tâm lý. Văn bản không đưa một đơn vị thực nghiệm để đo từng hành vi, cũng không đồng nhất nó với tiền bạc hay dopamine.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 2 · [S2] I tr. 1–4</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 05/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Unlust: cần đọc quy ước dịch</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Unlust</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Khó chịu trong cách đọc này</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Schmerz</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Đau theo phân biệt bản dịch</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lời tựa bản 1922 phân biệt pain có dấu nháy, dùng cho Unlust, với đau theo nghĩa Schmerz. Bài dùng từ khó chịu để tránh giới hạn khái niệm vào đau cơ thể. Đây là cách diễn giải cho bản đang học, không phải quy tắc của mọi bản dịch Freud.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S2] Editorial Preface</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 06/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Thực tại thay đổi đường đi</text><text name=\"body\" x=\"80\" y=\"330\" width=\"950\" height=\"490\" font-size=\"41\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Reality principle tính tới điều kiện bên ngoài, kể cả điều không dễ chịu. Theo Freud, một thỏa mãn ngay nhưng bấp bênh có thể nhường chỗ cho đường đạt thỏa mãn về sau. Mục đích khoái cảm vẫn còn; trì hoãn không nhất thiết đồng nghĩa phủ nhận mong muốn.</text><rectangle name=\"node0\" x=\"1120\" y=\"330\" width=\"690\" height=\"220\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"1146\" y=\"354\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Mong muốn</text><text name=\"node0-desc\" x=\"1146\" y=\"440\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Có thể được giữ</text><rectangle name=\"node1\" x=\"1120\" y=\"580\" width=\"690\" height=\"220\" fill=\"#DDE8E5\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1146\" y=\"604\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Đường đi</text><text name=\"node1-desc\" x=\"1146\" y=\"690\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Được điều chỉnh theo điều kiện</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 2, 6 · [S2] I tr. 5</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 07/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Tính hiệu quả không tự thành đạo đức</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Tính tới điều kiện</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Hành động có khả thi?</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Đánh giá đạo đức</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Mục tiêu và hệ quả có chính đáng?</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lập kế hoạch sát thực tế là một câu hỏi; mục tiêu có chính đáng hay không là câu hỏi khác. Một người có thể tính toán hiệu quả để gây hại. Vì thế bài không dùng nguyên lý thực tại làm bằng khen, cũng không dùng nguyên lý khoái cảm làm lời chê.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · C · phân tích khái niệm</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 08/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Hai cách vận hành, không phải hai người</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Hai nguyên lý</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Cách hoạt động được đề xuất</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Ba cấu trúc</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Một bộ câu hỏi khác</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Không đồng nhất</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Nguyên lý ≠ vùng não</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Văn bản 1911 cần được đọc trong ngữ cảnh của nó, tránh ghép máy móc với thuật ngữ cấu trúc ở F03. Công thức id muốn ngay, ego luôn lý trí làm nghèo văn bản. Chương I bản 1920/1922 còn nói nguyên lý khoái cảm có thể hoạt động trong ego. Không đặt hai nguyên lý vào hai vùng não.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] niên đại · [S2] I tr. 5–7</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 09/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Không có một lần chuyển đổi toàn bộ</text><text name=\"body\" x=\"80\" y=\"330\" width=\"950\" height=\"490\" font-size=\"41\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Freud mô tả thay đổi không diễn ra đồng thời trên mọi mặt đời sống, và giữ vị trí riêng cho tưởng tượng. Mơ mộng hay sáng tác không tự là bệnh lý. Cần phân biệt hình dung một khả năng với tin rằng mong muốn đã trở thành sự kiện bên ngoài.</text><rectangle name=\"node0\" x=\"1120\" y=\"330\" width=\"690\" height=\"220\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"1146\" y=\"354\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Không đồng loạt</text><text name=\"node0-desc\" x=\"1146\" y=\"440\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Nhiều cách hoạt động cùng tồn tại</text><rectangle name=\"node1\" x=\"1120\" y=\"580\" width=\"690\" height=\"220\" fill=\"#DDE8E5\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1146\" y=\"604\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Không gán nhãn</text><text name=\"node1-desc\" x=\"1146\" y=\"690\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Tưởng tượng không tự là bệnh</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 4–5, mục 2–3</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 10/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧠 C · LÝ THUYẾT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Khuynh hướng không bảo đảm kết quả</text><text name=\"body\" x=\"80\" y=\"330\" width=\"950\" height=\"490\" font-size=\"41\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Ngay ở chương I, Freud phủ nhận cách nói nguyên lý khoái cảm thống trị mọi kết quả tâm lý. Đời sống có các lực và điều kiện cản trở. Không được giải thích mọi đau khổ thành khoái cảm giấu kín chỉ để bảo vệ lý thuyết; F11 và F13 sẽ học các vấn đề tiếp theo.</text><rectangle name=\"node0\" x=\"1120\" y=\"330\" width=\"690\" height=\"220\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"1146\" y=\"354\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Khuynh hướng</text><text name=\"node0-desc\" x=\"1146\" y=\"440\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Hướng vận hành được giả định</text><rectangle name=\"node1\" x=\"1120\" y=\"580\" width=\"690\" height=\"220\" fill=\"#DDE8E5\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1146\" y=\"604\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Kết quả</text><text name=\"node1-desc\" x=\"1146\" y=\"690\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Có thể trái mong muốn</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S2] I tr. 4–7</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 11/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">⚙️ D · CƠ CHẾ ĐỀ XUẤT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Từ nhu cầu tới vấn đề thực tế</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Nhu cầu</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Sức ép được giả định</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Tưởng tượng</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thỏa mãn được trình bày</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Thất vọng</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Kết quả không đến</text><connector from=\"@node0:right\" to=\"@node1:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><connector from=\"@node1:right\" to=\"@node2:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><text name=\"hypothesis\" x=\"80\" y=\"650\" width=\"1000\" height=\"45\" font-size=\"26\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">Quan hệ trong mô hình · giả thuyết</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Trong chuỗi giả thuyết, một nhu cầu gây sức ép, mong muốn được hình dung như thỏa mãn, rồi sự thỏa mãn mong chờ không đến. Thất vọng tạo vấn đề mà chỉ tưởng tượng chưa giải quyết được. Đây là tái dựng để học, không quan sát đã xác nhận ở mọi trẻ.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 2 · cơ chế giả thuyết</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 12/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">⚙️ D · CƠ CHẾ ĐỀ XUẤT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Chú ý và phán đoán trong mô hình</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Chú ý</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Tìm thông tin</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Ký ức</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giữ dấu vết</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Phán đoán</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Đối chiếu với điều kiện</text><connector from=\"@node0:right\" to=\"@node1:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><connector from=\"@node1:right\" to=\"@node2:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><text name=\"hypothesis\" x=\"80\" y=\"650\" width=\"1000\" height=\"45\" font-size=\"26\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">Quan hệ trong mô hình · giả thuyết</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Freud đưa chú ý, ký ức và phán đoán vào những thích nghi trước đòi hỏi thực tại. Các thành phần giúp diễn đạt vì sao thông tin bên ngoài trở nên quan trọng. Chúng chưa phải chuỗi xử lý thông tin đã được đo theo phương pháp khoa học nhận thức hiện đại.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 3–4, mục 1</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 13/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">⚙️ D · CƠ CHẾ ĐỀ XUẤT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Suy nghĩ như thử hành động</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Xem xét</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thử khả năng</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Chịu tạm thời</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Chưa hành động ngay</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Hành động</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thay đổi điều kiện</text><connector from=\"@node0:right\" to=\"@node1:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><connector from=\"@node1:right\" to=\"@node2:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><text name=\"hypothesis\" x=\"80\" y=\"650\" width=\"1000\" height=\"45\" font-size=\"26\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">Quan hệ trong mô hình · giả thuyết</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Mô hình đặt suy nghĩ vào vai trò cho phép giữ lại hành động và chịu căng thẳng khi xem xét khả năng. Sau đó hành động hướng tới thay đổi thực tế. Mũi tên biểu diễn quan hệ được tác giả đề xuất; nó không bảo đảm kết quả hay xác định cơ chế của một người cụ thể.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 4 · cơ chế giả thuyết</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 14/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">⚙️ D · CƠ CHẾ ĐỀ XUẤT</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Một hành vi cần nhiều giả thuyết</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Quan sát</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Đổi hoạt động</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Giả thuyết</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giảm khó chịu / việc chưa rõ</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Phân biệt</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thay đổi điều kiện và hỏi thêm</text><text name=\"hypothesis\" x=\"80\" y=\"650\" width=\"1000\" height=\"45\" font-size=\"26\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">Quan hệ trong mô hình · giả thuyết</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thấy người đổi sang điện thoại chưa đủ xác định động lực. Có thể họ tìm giảm khó chịu, chưa biết việc tiếp theo hoặc quá mệt. Muốn dùng lý thuyết có trách nhiệm, hãy nêu thông tin nào sẽ khiến bạn sửa lời giải, thay vì coi mọi kết quả đều xác nhận nó.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · D · đề xuất giảng dạy</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 15/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">💬 E · VÍ DỤ</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">An đói, quán chưa mở cửa</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Dữ kiện</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Quán mở sau một giờ</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Đường khác</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Ăn nhẹ và đổi kế hoạch</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">An kiểm giờ rồi chọn ăn nhẹ thay vì đứng chờ món mình muốn. Theo mô hình, mong muốn còn đó nhưng thông tin bên ngoài đổi đường đáp ứng. Điểm chính là tính tới điều kiện, không phải chờ càng lâu càng tốt; ăn để đáp ứng nhu cầu không đáng bị phê phán.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · E1 · giả định · [S1] tr. 2, 6</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 16/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">💬 E · VÍ DỤ</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Ví dụ An: còn lời giải nào khác?</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Theo khung Freud</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Điều kiện đổi đường thỏa mãn</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Giải thích khác</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lịch, thông tin, thói quen</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lịch sinh hoạt, một lời chỉ dẫn hoặc thói quen cũng có thể giải thích lựa chọn của An. Hãy hỏi An biết gì, muốn gì và có lựa chọn nào. Ví dụ minh họa được quan hệ khái niệm nhưng không tự kiểm chứng động lực vô thức hay mức trưởng thành của An.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · E1 · phân tích ca giả định</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 17/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">💬 E · VÍ DỤ</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Bình sửa thư khi biết thêm dữ kiện</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Lúc đầu</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thư phản hồi gay gắt</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Thông tin mới</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Phát hiện hiểu sai</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Sau đó</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Sửa nội dung trước khi gửi</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Sau khi bị phê bình, Bình soạn thư gay gắt nhưng chưa gửi. Đọc lại yêu cầu, Bình thấy mình hiểu sai và sửa thư. Ví dụ minh họa việc giữ khó chịu tạm thời để đối chiếu thực tế. Chỉ chờ mà không xem xét thông tin chưa nói lên cùng một điều.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · E2 · giả định · [S1] tr. 3–4</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 18/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">💬 E · VÍ DỤ</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Bình: quy tắc cũng có thể đủ giải thích</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Cần biết</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lý do và cách dùng thông tin</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Chưa biết</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Cơ chế chỉ từ thời gian chờ</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Bình có thể theo quy tắc nghề nghiệp, sợ hậu quả hoặc có thói quen kiểm thư. Cần hỏi lý do và xem thông tin mới có làm đổi lập luận không. Không dùng một khoảng chờ làm thước đo nguyên lý thực tại, cũng không coi phản ứng giận là dấu hiệu bệnh.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · E2 · giải thích thay thế</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 19/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">💬 E · VÍ DỤ</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Chi chọn khoản tiền nhận hôm nay</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Nhu cầu</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Tiền nhà đến hạn</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Rủi ro</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lời hứa từng không đúng</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Lựa chọn</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Khoản nhận được hôm nay</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Chi cần trả tiền nhà; nơi thường trả chậm hứa trả cao hơn nếu đợi. Nhận khoản thấp hơn ngay có thể phù hợp nhu cầu và rủi ro thực tế. Hình thức nhận ngay không đủ để nói nguyên lý khoái cảm thắng; hoàn cảnh thanh toán là dữ kiện cần giữ trong lời giải.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · E3 · giả định · [S1] tr. 2, 6</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 20/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">📋 F · CA GIẢ ĐỊNH</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Lan trì hoãn: đừng bắt đầu bằng nhãn</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"660\" height=\"200\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Biết</text><text name=\"node0-desc\" x=\"106\" y=\"430\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Đổi hoạt động, chưa viết</text><rectangle name=\"node1\" x=\"80\" y=\"545\" width=\"660\" height=\"200\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"106\" y=\"569\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Chưa biết</text><text name=\"node1-desc\" x=\"106\" y=\"645\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Mệt? Việc chưa rõ? Áp lực?</text><text name=\"body\" x=\"830\" y=\"330\" width=\"970\" height=\"530\" font-size=\"38\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lan đổi sang điện thoại khi báo cáo còn dang dở, rồi tự gọi mình thiếu kỷ luật. Điều biết được là hành vi và lời kể. Ta chưa biết giấc ngủ, yêu cầu nhiệm vụ, số liệu mâu thuẫn hoặc khối lượng việc. Ca Lan do bài xây dựng, không phải ca lâm sàng công bố.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · F · ca giả định</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 21/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">📋 F · CA GIẢ ĐỊNH</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Giữ ba lời giải cùng trên bàn</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">H1</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giảm khó chịu</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">H2</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Yêu cầu chưa rõ</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">H3</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Mệt sau ca làm</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Một giả thuyết theo Freud là tìm giảm khó chịu trước mắt. Hai giải thích khác là nhiệm vụ chưa rõ và mệt mỏi sau ca làm. Chúng có thể cùng tồn tại. Hãy hỏi mục tiêu của Lan và dữ liệu còn thiếu, không tìm một động lực giấu kín chỉ để khép kín câu chuyện.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · F · giả thuyết phân tích</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 22/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">📋 F · CA GIẢ ĐỊNH</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Kiểm và cập nhật cách hiểu về Lan</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Hỏi thêm</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Mục tiêu và điều kiện</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Thử phù hợp</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Làm rõ dữ liệu thiếu</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Cập nhật</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Theo kết quả quan sát</text><connector from=\"@node0:right\" to=\"@node1:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" /><connector from=\"@node1:right\" to=\"@node2:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" /><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Làm rõ yêu cầu rồi theo dõi việc bắt đầu viết giúp kiểm vai trò độ rõ nhiệm vụ. Hỏi thêm về nghỉ ngơi giúp xét mệt mỏi. Đánh giá cả độ chính xác báo cáo và sức khỏe. Chưa được gọi một thay đổi có ích là xác nhận toàn bộ chuỗi Freud.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · F · đề xuất kiểm giả thuyết</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 23/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🔬 G · BẰNG CHỨNG</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Ba tầng chứng cứ phải giữ riêng</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"660\" height=\"200\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">01 · Văn bản</text><text name=\"node0-desc\" x=\"106\" y=\"430\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Khẳng định của tác giả</text><rectangle name=\"node1\" x=\"80\" y=\"545\" width=\"660\" height=\"200\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"106\" y=\"569\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">02 · Hành vi</text><text name=\"node1-desc\" x=\"106\" y=\"645\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Kết quả quan sát</text><rectangle name=\"node2\" x=\"80\" y=\"760\" width=\"660\" height=\"200\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"106\" y=\"784\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">03 · Cơ chế</text><text name=\"node2-desc\" x=\"106\" y=\"860\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Phép kiểm phân biệt</text><text name=\"body\" x=\"830\" y=\"330\" width=\"970\" height=\"530\" font-size=\"38\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Văn bản gốc cho biết Freud định nghĩa gì. Quan sát hành vi cho biết một người làm gì trong điều kiện nào. Kiểm cơ chế cần dữ liệu phân biệt các lời giải. Một tầng có giá trị không tự bảo đảm tầng tiếp theo; tên gọi chung không tạo ra phép kiểm chung.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · G · [S1]–[S3]</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 24/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🔬 G · BẰNG CHỨNG</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Watts 2018: kết quả và giới hạn</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Hỗ trợ hẹp</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Có liên hệ quan sát</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Giới hạn</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giảm khi thêm kiểm soát</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Nghiên cứu dọc kiểm liên hệ thời gian chờ lúc nhỏ với kết quả thiếu niên. Abstract cho biết liên hệ với thành tích giảm rõ khi thêm kiểm soát nền gia đình, nhận thức ban đầu và môi trường gia đình. Có liên hệ trước kiểm soát hỗ trợ dự báo, nhưng chưa chứng minh chờ gây thành công.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S3] Abstract · chỉ đọc tóm tắt</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 25/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🔬 G · BẰNG CHỨNG</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Đo chờ đợi chưa phải đo Freud</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Phép đo</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thời gian chờ</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Suy luận</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Cần xét biến và thiết kế</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Không tự có</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Xác nhận nguyên lý Freud</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Thời gian chờ là kết quả hành vi. Nó không trực tiếp cho biết vì sao người ấy chờ hoặc cấu trúc tâm lý nào tạo ra lựa chọn. Nghiên cứu S3 không đo hai nguyên lý. Đổi tên một chỉ số thành sức mạnh ego không làm tăng khả năng phân biệt các cơ chế.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S3] Abstract · F04 · G</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 26/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🔬 G · BẰNG CHỨNG</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Chưa đủ chứng cứ khác với đã bác bỏ</text><text name=\"body\" x=\"80\" y=\"330\" width=\"950\" height=\"490\" font-size=\"41\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Tập nguồn này hỗ trợ cách đọc văn bản nhưng chưa kiểm cơ chế phổ quát của Freud. Cũng không nên biến giới hạn đó thành tuyên bố mọi đóng góp đều sai. Giữ kết luận theo từng claim và nói dữ liệu nào còn thiếu là cách phản biện chặt chẽ hơn một phán quyết toàn bộ.</text><rectangle name=\"node0\" x=\"1120\" y=\"330\" width=\"690\" height=\"220\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"1146\" y=\"354\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Lịch sử</text><text name=\"node0-desc\" x=\"1146\" y=\"440\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Được văn bản hỗ trợ</text><rectangle name=\"node1\" x=\"1120\" y=\"580\" width=\"690\" height=\"220\" fill=\"#DDE8E5\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1146\" y=\"604\" width=\"638\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Cơ chế phổ quát</text><text name=\"node1-desc\" x=\"1146\" y=\"690\" width=\"638\" height=\"92\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Chưa đủ trong tập nguồn</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · G · giới hạn tổng quan</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 27/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🧭 H · ỨNG DỤNG</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Ba câu hỏi dùng trong tự phản tư</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Mong muốn</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Điều tôi muốn đạt</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Điều kiện</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Nguồn lực và rủi ro</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Đường khác</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Lựa chọn phù hợp</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Có thể hỏi: tôi mong gì, điều kiện nào đang cản và có đường đáp ứng nào phù hợp hơn? Đây là công cụ giảng dạy giúp làm rõ lựa chọn, chưa phải can thiệp đã được thử nghiệm. Không dùng lý thuyết trì hoãn để ép bỏ qua nhu cầu cơ bản hoặc chấp nhận lời hứa thiếu tin cậy.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · H · ứng dụng có điều kiện</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 28/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">🗺️ I · GIẢI THÍCH HÌNH</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Hai đường đáp ứng trong một mô hình</text><rectangle name=\"need\" x=\"80\" y=\"345\" width=\"450\" height=\"260\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"need-label\" x=\"106\" y=\"369\" width=\"398\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Nhu cầu</text><text name=\"need-desc\" x=\"106\" y=\"455\" width=\"398\" height=\"132\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Điểm xuất phát</text><rectangle name=\"now\" x=\"850\" y=\"280\" width=\"880\" height=\"170\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"now-label\" x=\"876\" y=\"304\" width=\"828\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Trước mắt</text><text name=\"now-desc\" x=\"876\" y=\"390\" width=\"828\" height=\"42\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giảm khó chịu</text><rectangle name=\"later\" x=\"850\" y=\"510\" width=\"880\" height=\"170\" fill=\"#DDE8E5\" corner-radius=\"18\"/><text name=\"later-label\" x=\"876\" y=\"534\" width=\"828\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Qua điều kiện</text><text name=\"later-desc\" x=\"876\" y=\"620\" width=\"828\" height=\"42\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Xem xét rồi hành động</text><connector from=\"@need:right\" to=\"@now:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><connector from=\"@need:right\" to=\"@later:left\" stroke=\"#B56D84\" stroke-width=\"3\" arrow-end=\"triangle\" dash=\"12,8\"/><text name=\"hypothesis\" x=\"545\" y=\"300\" width=\"300\" height=\"60\" font-size=\"28\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">giả thuyết</text><text name=\"body\" x=\"90\" y=\"760\" width=\"1720\" height=\"170\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Từ một nhu cầu, sơ đồ đặt hai đường: hướng tới giảm khó chịu trước mắt, hoặc tính tới điều kiện rồi chọn hành động. Đường dưới vẫn có thể hướng tới thỏa mãn. Các mũi tên nét đứt mang nhãn giả thuyết; sơ đồ không chia não, không biểu thị tỉ lệ và không bảo đảm kết quả.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">[S1] tr. 2–6 · [S2] I · caption F04</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 29/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">💡 J · GHI NHỚ</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Giữ lại tám ý cốt lõi</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Khái niệm</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giữ đúng nghĩa</text><rectangle name=\"node1\" x=\"685\" y=\"330\" width=\"530\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"711\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Bằng chứng</text><text name=\"node1-desc\" x=\"711\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giữ đúng phạm vi</text><rectangle name=\"node2\" x=\"1290\" y=\"330\" width=\"530\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node2-label\" x=\"1316\" y=\"354\" width=\"478\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Ứng dụng</text><text name=\"node2-desc\" x=\"1316\" y=\"440\" width=\"478\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Giữ nhu cầu và bối cảnh</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Khoái cảm không chỉ là vui vẻ; thực tại không phải đạo đức. Đường đi có thể đổi mà mục tiêu còn giữ. Hai nguyên lý không phải vùng não. Chuỗi phát triển là giả thuyết. Chờ có nhiều lời giải. Dự báo không tự chứng minh nhân quả. Dữ kiện mới phải có thể làm đổi cách hiểu.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · J · tổng hợp</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 30/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">❓ K · KIỂM TRA</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Câu 1–2: thay đường đi, đánh giá mục tiêu</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Câu 1</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Mục tiêu có thể còn</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Câu 2</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Hiệu quả ≠ chính đáng</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">1. Trì hoãn có xóa nguyên lý khoái cảm? Không theo S1: mục đích thỏa mãn có thể được giữ qua đường khác. 2. Tính toán chính xác để lừa người có phải có đạo đức? Không: khả thi và chính đáng là hai câu hỏi. Lỗi chung là biến một nguyên lý thành phẩm chất con người.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · K1–K2 · [S1] tr. 6</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 31/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">❓ K · KIỂM TRA</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Câu 3: hỏi trước khi gán nhãn</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Dữ kiện cần</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Nhu cầu, độ tin cậy, lựa chọn</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Lỗi cần tránh</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Nhận ngay = thiếu trưởng thành</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Chi chọn tiền ngay. Cần hỏi gì? Nhu cầu phải trả, độ tin cậy lời hứa và lựa chọn khác. Nếu khoản sau bấp bênh, nhận ngay có thể tính tới thực tại. Lỗi thường gặp là suy động lực từ hình thức lựa chọn mà chưa có thông tin hoàn cảnh.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · K3 · vận dụng</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 32/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">❓ K · KIỂM TRA</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Câu 4–5: sửa kết luận theo chứng cứ</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"820\" height=\"270\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Câu 4</text><text name=\"node0-desc\" x=\"106\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Liên hệ ≠ cơ chế</text><rectangle name=\"node1\" x=\"1000\" y=\"330\" width=\"820\" height=\"270\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"1026\" y=\"354\" width=\"768\" height=\"75\" font-size=\"39\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Câu 5</text><text name=\"node1-desc\" x=\"1026\" y=\"440\" width=\"768\" height=\"142\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">Dữ kiện mới → sửa giả thuyết</text><text name=\"body\" x=\"90\" y=\"735\" width=\"1720\" height=\"210\" font-size=\"35\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">4. Chờ liên hệ với điểm cao chưa chứng minh nhân quả hay Freud; cần xem thiết kế và gây nhiễu. 5. Lan viết khi yêu cầu rõ hơn: tăng trọng lượng giải thích độ rõ nhiệm vụ, kiểm các yếu tố đi kèm. Lỗi chung là giữ nguyên câu chuyện dù dữ kiện mới xuất hiện.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · K4–K5 · [S3] Abstract</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 33/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">📚 L · NGUỒN</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Nguồn lịch sử đã đọc đúng phần</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"660\" height=\"200\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">S1</text><text name=\"node0-desc\" x=\"106\" y=\"430\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">freudedition.net/node/41559</text><rectangle name=\"node1\" x=\"80\" y=\"545\" width=\"660\" height=\"200\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"106\" y=\"569\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">S2</text><text name=\"node1-desc\" x=\"106\" y=\"645\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">gutenberg.org/ebooks/76031</text><text name=\"body\" x=\"830\" y=\"330\" width=\"970\" height=\"530\" font-size=\"38\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">S1: Freud, 1911, Formulierungen über die zwei Prinzipien des psychischen Geschehens. Freud Edition, bản Đức, tr. 1–7; trọng tâm tr. 2–6. S2: Beyond the Pleasure Principle, bản gốc 1920; Hubback dịch 1922 từ bản Đức thứ hai. Đã đọc lời tựa và chương I tr. 1–7, không nhận đọc toàn sách.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · L · nguồn đầy đủ trong bài</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 34/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"paper\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#F5F0E6\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"50\" width=\"1630\" height=\"48\" font-size=\"27\" font-family=\"Be Vietnam Pro\" color=\"#7A2038\" font-weight=\"400\">📚 L · NGUỒN</text><image name=\"section-icon\" x=\"1770\" y=\"48\" width=\"56\" height=\"56\" icon=\"lucide book open\" tint=\"#B56D84\" fit=\"contain\"/><text name=\"headline\" x=\"80\" y=\"125\" width=\"1740\" height=\"160\" font-size=\"63\" font-family=\"Bricolage Grotesque\" color=\"#241C20\" font-weight=\"700\">Nguồn hiện đại và mức truy cập</text><rectangle name=\"node0\" x=\"80\" y=\"330\" width=\"660\" height=\"200\" fill=\"#EADDE0\" corner-radius=\"18\"/><text name=\"node0-label\" x=\"106\" y=\"354\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">S3</text><text name=\"node0-desc\" x=\"106\" y=\"430\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">PubMed 29799765 · abstract-read</text><rectangle name=\"node1\" x=\"80\" y=\"545\" width=\"660\" height=\"200\" fill=\"#E8DED1\" corner-radius=\"18\"/><text name=\"node1-label\" x=\"106\" y=\"569\" width=\"608\" height=\"75\" font-size=\"36\" font-family=\"Bricolage Grotesque\" color=\"#7A2038\" font-weight=\"700\">Tập nguồn</text><text name=\"node1-desc\" x=\"106\" y=\"645\" width=\"608\" height=\"82\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">2 văn bản theo phần + 1 abstract</text><text name=\"body\" x=\"830\" y=\"330\" width=\"970\" height=\"530\" font-size=\"38\" font-family=\"Be Vietnam Pro\" color=\"#241C20\" font-weight=\"400\">S3: Watts, Duncan và Quan, 2018, Psychological Science 29(7), 1159–1177; DOI 10.1177/0956797618761661. Đọc abstract PubMed, chưa đọc toàn phương pháp. Nguồn Kidd là ứng viên bị loại do chưa truy cập đủ. Nhật ký ghi rõ giới hạn; không có số liệu tự điền vào chỗ thiếu.</text><text name=\"source\" x=\"80\" y=\"1000\" width=\"1740\" height=\"36\" font-size=\"23\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · L · research ledger</text><text name=\"footer\" x=\"80\" y=\"1045\" width=\"1740\" height=\"30\" font-size=\"21\" font-family=\"Be Vietnam Pro\" color=\"#635B56\" font-weight=\"400\">F04 · Editorial Learning · 35/36 · drafted / review pending</text></content>",
+    "<content font-family=\"Be Vietnam Pro\"><rectangle name=\"dark\" x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#23191F\" corner-radius=\"0\"/><rectangle name=\"accent\" x=\"1300\" y=\"0\" width=\"620\" height=\"1080\" fill=\"#7A2038\" corner-radius=\"0\"/><text name=\"kicker\" x=\"80\" y=\"65\" width=\"1100\" height=\"55\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">📚 F04 / PSYCHOLOGY KNOWLEDGE</text><text name=\"headline\" x=\"80\" y=\"220\" width=\"1150\" height=\"300\" font-size=\"94\" font-family=\"Bricolage Grotesque\" color=\"#F5F0E6\" font-weight=\"700\">Hỏi về đường đi,\nđừng gán nhãn con người</text><text name=\"body\" x=\"80\" y=\"630\" width=\"1120\" height=\"265\" font-size=\"36\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">Một lựa chọn trước mắt không nói hết điều kiện của người chọn. Hiểu hai nguyên lý giúp đọc Freud chính xác hơn; kiểm giả thuyết giúp biết lúc nào cần một lời giải khác. Đọc tiếp F05 trong curriculum về xung đột và phòng vệ. Bản nháp này chờ phản biện học thuật độc lập.</text><text name=\"right-kicker\" x=\"1360\" y=\"150\" width=\"500\" height=\"60\" font-size=\"30\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"600\">HAI ĐƯỜNG ĐÁP ỨNG</text><text name=\"right-label0\" x=\"1360\" y=\"330\" width=\"490\" height=\"90\" font-size=\"48\" font-family=\"Bricolage Grotesque\" color=\"#F5F0E6\" font-weight=\"700\">Đọc trước</text><text name=\"right-desc0\" x=\"1360\" y=\"440\" width=\"490\" height=\"110\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">F02 · F03 ở PR39</text><text name=\"right-label1\" x=\"1360\" y=\"590\" width=\"490\" height=\"90\" font-size=\"48\" font-family=\"Bricolage Grotesque\" color=\"#F5F0E6\" font-weight=\"700\">Đọc tiếp</text><text name=\"right-desc1\" x=\"1360\" y=\"700\" width=\"490\" height=\"110\" font-size=\"34\" font-family=\"Be Vietnam Pro\" color=\"#EADDE0\" font-weight=\"400\">F05 · xem curriculum</text><text name=\"source\" x=\"80\" y=\"994\" width=\"1100\" height=\"40\" font-size=\"24\" font-family=\"Be Vietnam Pro\" color=\"#C7AEB8\" font-weight=\"400\">F04 · drafted · review pending · 36/36</text></content>"
+  ],
+  "assets": [
+    {
+      "type": "self-authored-vector",
+      "source": "S1 tr.2–6; S2 chapterI, source ledger",
+      "license_status": "Original diagram composition; no external historical images."
+    },
+    {
+      "type": "tool-library-icon",
+      "query": "lucide book open",
+      "canvas_image_ref": "img1",
+      "credit": "Moda icon library result",
+      "license_status": "Tool-provided functional icon; no claim of separate historical-photo rights clearance."
+    }
+  ],
+  "verification": {
+    "all_pages_screenshot_reviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "screenshot_groups": 12,
+    "max_pages_per_call": 3,
+    "screenshots_per_page": 1,
+    "body_text_presence": {
+      "found": 36,
+      "total": 36,
+      "method": "Visual inspection of all rendered pages plus authored markup, not external binary inspection."
+    },
+    "font_floor_declared_px": 21,
+    "no_visible_clipping_or_overlap": true,
+    "anchored_hypothesis_connectors": {
+      "pages": [
+        12,
+        13,
+        14,
+        29
+      ],
+      "dash": [
+        12,
+        8
+      ],
+      "label": "giả thuyết",
+      "verified": "visible in screenshots; page29 read confirms startAnchor/endAnchor/dash"
+    },
+    "repair_pass": {
+      "required": false,
+      "changes": [],
+      "reason": "One bounded review round found no missing text, overlaps or academic mismatch requiring canvas edits."
+    },
+    "notes": [
+      "Full-canvas read was truncated; did not infer all-node numerical metrics from truncated result.",
+      "Reviewed canvas renders; not opened PPTX/PDF binaries in external viewer.",
+      "All36 applies committed without warnings or requires_repair."
+    ]
+  },
+  "exports": {
+    "pptx": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "9123c49d-6511-4982-abfe-bfbf2d5ebb8e",
+      "url": "https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pptx-r2-f0-w1-all.pptx?Expires=1824394683&KeyName=mpwa&Signature=yh6uhytrcnsSak_WBLYdK4Hrn3k",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "04637325-5eab-4255-852f-3eb77d899e6d",
+      "url": "https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pdf-r3-f0-w1-all.pdf?Expires=1824394707&KeyName=mpwa&Signature=-efvXi_BU1OgH9XdeQx2uzMhZWQ",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  },
+  "production_adjustments": [
+    "Reused F01 v4 cream/Burgundy palette, heading/body families, emoji and thin icon treatment; typography-only cover and self-authored diagrams instead of unverified photos.",
+    "Ledger/reference boxes pre-sized for full explanatory copy before canvas authoring.",
+    "No canvas repair required after reviewing all36 final page screenshots."
+  ],
+  "limitations": [
+    "Academic source review pending; 2 relevant-text-read sources, 1 abstract-read; no full-book claim.",
+    "PDF export warning retained verbatim in exports.pdf.warnings.",
+    "PPTX download attempted exactly once; sandbox error: URLError: <urlopen error [Errno 1] Operation not permitted>. No retry, approval request, fake file, or PDF saved.",
+    "No PowerPoint/PDF binary rendering verification because download was blocked.",
+    "Prior F03 is linked to PR39; next F05 to existing curriculum, not nonexistent local files."
+  ],
+  "integration_review": {
+    "status": "pending",
+    "reviewer": null,
+    "scope": "Producer self-check only; no independent academic review claim."
+  },
+  "download": {
+    "attempt_count": 1,
+    "success": false,
+    "error": "URLError: <urlopen error [Errno 1] Operation not permitted>",
+    "pptx_saved": false,
+    "pdf_saved": false
+  },
+  "excluded_assets": [
+    {
+      "kind": "historical/stock/person photos",
+      "reason": "No independently verified image licensing/provenance for F04; deliberately excluded; no real person represents fictional case."
+    }
+  ]
+}

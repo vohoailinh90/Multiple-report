@@ -146,7 +146,7 @@ Caption: “Mô hình khái niệm Freud đề xuất; không phải giải ph�
 - [PDF](https://assets-cdn.moda.app/mcp-exports/3770860f-a810-4ba2-bd71-2442dc079f6b/vcrdt-bff3699fc4aae56c7fa0cac66fe1f52e/pdf-r3-f0-w1-all.pdf?Expires=1824392317&KeyName=mpwa&Signature=emLExg9IHyr-yIrCgAEzNNiF-Y4)
 - [Metadata](../moda/f03-report-v1.json) · [Nguồn ảnh và credit](../references/f03-visual-sources.md)
 
-Đã xem render37trang; sửa bốn layout và kiểm37body, không có richtext ra ngoài trang. PPTX không cảnh báo; PDF có một trang rasterized nên chữ trang đó không chọn/tìm kiếm được. Không lưu binary cục bộ theo chỉ dẫn điều phối; các link trên là bản xuất thật. Giữ drafted/reviewpending cho đến khi điều phối chốt review; không tự nhận Definition of Done không điều kiện.
+Đã xem render37trang; sửa bốn layout và kiểm37body, không có richtext ra ngoài trang. PPTX không cảnh báo; PDF có một trang rasterized nên chữ trang đó không chọn/tìm kiếm được. Không lưu binary cục bộ theo chỉ dẫn điều phối; các link trên là bản xuất thật. Giữ drafted/reviewed-with-limitations sau khi điều phối ghi review; không tự nhận Definition of Done không điều kiện.
 
 ## J. Key Takeaways — Tám điểm ghi nhớ
 

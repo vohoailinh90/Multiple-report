@@ -22,3 +22,11 @@ Cảnh báo PDF: 1 page(s) shipped as pixels rather than a text layer (). Everyt
 Giữ drafted/reviewed-with-limitations; không tự nhận đạt toàn bộ Definition of Done. Reviewer chưa kiểm độc lập mọi nguồn gốc/ấn bản, giấy phép ảnh hoặc binary. Phiên sản xuất kiểm render toàn bộ; metadata ghi chi tiết điều chỉnh. Không nhận đã lưu binary khi chỉ có link export.
 
 Kiểm tích hợp: A–L, schema/số slide, citation IDs, link tương đối và export URLs. Repo122unit tests pass; claims.py check --merge-ready pass; các kiểm tra cũ không chứng nhận học thuật.
+
+## Kiểm lại trạng thái
+
+Đã đồng bộ trạng thái review hiện hành của lesson/script/report sang reviewed-with-limitations. Report phân biệt rõ snapshot lúc thiết kế/xuất (review pending) với kết quả review hiện hành; không thay body/markup của bản xuất sau review.
+
+## Bổ sung file repository
+
+Claude đã thêm visuals/f03.pptx tại commit121aacd8a787b5753b423165b0b153bd40b11c98. Điều phối đã kiểm diff chỉ thêm filePPT, giữ nguyên khi cập nhật metadata; chưa tự kiểm binary. Các ghi chú không tải cục bộ phía trên mô tả phiên sản xuất trước khi file được thêm.

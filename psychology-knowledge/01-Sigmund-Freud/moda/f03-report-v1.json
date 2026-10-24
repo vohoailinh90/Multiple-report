@@ -4,7 +4,7 @@
   "version": 1,
   "producer": "f03_ppt_production",
   "deck_status": "exported",
-  "academic_review_status": "pending-orchestrator-record",
+  "academic_review_status": "reviewed-with-limitations",
   "visual_status": "exported",
   "canvas_ref": "cvs_1QE230ZA0G9EHBTW948BE0F7VB",
   "canvas_url": "https://moda.app/canvas/3770860f-a810-4ba2-bd71-2442dc079f6b?source=agent",
@@ -1100,6 +1100,14 @@
       "Reviewer did not inspect rendered pages or exported binaries."
     ]
   },
-  "integration_note": "Lesson review-status metadata updated after production; original production source hashes, if present, identify the production snapshot.",
-  "integration_lesson_sha256": "6b74a4734fbb7152b255c989aa81a655cbb4e7f83113a4e9a257aea7a64bc37d"
+  "integration_note": "Current lesson/script review-status metadata updated after production. Original production source hashes and rendered slide/markup snapshots identify the pre-review production inputs.",
+  "integration_lesson_sha256": "46e2308e01400234dee13dc3a3f4dfce0528f549995f1b0b4dbafbd5a6cd855e",
+  "production_snapshot_review_status": "Pending at design/export time; current review is recorded in independent_review.",
+  "integration_script_sha256": "711dd687ddf14c467dfb96be5202f8c06c7f0e10f6c208638b238532de090978",
+  "repository_delivery": {
+    "pptx_path": "psychology-knowledge/01-Sigmund-Freud/visuals/f03.pptx",
+    "commit": "121aacd8a787b5753b423165b0b153bd40b11c98",
+    "raw_url": "https://github.com/vohoailinh90/Multiple-report/raw/121aacd8a787b5753b423165b0b153bd40b11c98/psychology-knowledge%2F01-Sigmund-Freud%2Fvisuals%2Ff03.pptx",
+    "inspection": "Claude commit reports ZIP validity and 37 slides; coordinator verified added-file-only diff and preserved it. Binary not independently inspected here."
+  }
 }

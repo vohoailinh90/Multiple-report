@@ -2,7 +2,7 @@
   "title": "F03 · Id, Ego và Superego",
   "subtitle": "Ba chức năng, không phải ba vùng não",
   "status": "drafted",
-  "review_status": "pending",
+  "review_status": "reviewed-with-limitations",
   "visual_status": "exported",
   "design_system": "F01 v4 / Freud Burgundy, no brand kit",
   "source_lesson": "../lessons/03-id-ego-superego.md",
@@ -873,5 +873,6 @@
     "Bốn trang12/14/22/25 sửa khung hai cột thành ba cột, không đổi nội dung.",
     "Chuẩn hóa khoảng trắng chữ/năm và node labels;37body khớp trực tiếp canvas sau chuẩn hóa.",
     "PPTX không cảnh báo; PDF một trang rasterized. Không tải binary theo chỉ dẫn điều phối, không nhận đã lưu file local."
-  ]
+  ],
+  "review_record": "../references/f03-review.md"
 }

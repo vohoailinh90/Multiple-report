@@ -120,11 +120,11 @@ Chỉ phiên điều phối sửa sổ này. Trạng thái sống của từng b
 
 | Task ID | Bài | Giai đoạn | Chủ duy nhất | Nhánh (một nhánh một PR) | File lệnh giao việc | Giao lúc |
 |---|---|---|---|---|---|---|
-| PSY-LESSON-F03-V1 | F03 · Id, Ego và Superego | 1 viết + nghiên cứu + kịch bản; 2 Moda + PPTX/PDF | Claude (phiên điều phối `session_01WByo…`): sub-agent viết giai đoạn 1, Moda do phiên điều phối dựng | `psychology/lesson-f03` | [f03-task.md](01-Sigmund-Freud/references/f03-task.md) | 2026-10-24 |
-| PSY-LESSON-A02-V1 | A02 · Individual Psychology và quan điểm toàn thể | như trên | Claude (phiên điều phối `session_01WByo…`): sub-agent viết giai đoạn 1, Moda do phiên điều phối dựng | `psychology/lesson-a02` | [a02-task.md](02-Alfred-Adler/references/a02-task.md) | 2026-10-24 |
-| PSY-LESSON-J02-V1 | J02 · Analytical Psychology | như trên | Claude (phiên điều phối `session_01WByo…`): sub-agent viết giai đoạn 1, Moda do phiên điều phối dựng | `psychology/lesson-j02` | [j02-task.md](03-Carl-Gustav-Jung/references/j02-task.md) | 2026-10-24 |
+| PSY-LESSON-F03-V1 | F03 · Id, Ego và Superego | 1 viết + nghiên cứu + kịch bản; 2 Moda + PPTX/PDF | Codex (phiên thực thi): nhận qua một yêu cầu comment trên PR của bài; Claude chỉ điều phối | `psychology/lesson-f03` | [f03-task.md](01-Sigmund-Freud/references/f03-task.md) | 2026-10-24 |
+| PSY-LESSON-A02-V1 | A02 · Individual Psychology và quan điểm toàn thể | như trên | Codex (phiên thực thi): nhận qua một yêu cầu comment trên PR của bài; Claude chỉ điều phối | `psychology/lesson-a02` | [a02-task.md](02-Alfred-Adler/references/a02-task.md) | 2026-10-24 |
+| PSY-LESSON-J02-V1 | J02 · Analytical Psychology | như trên | Codex (phiên thực thi): nhận qua một yêu cầu comment trên PR của bài; Claude chỉ điều phối | `psychology/lesson-j02` | [j02-task.md](03-Carl-Gustav-Jung/references/j02-task.md) | 2026-10-24 |
 
-**Cập nhật 2026-10-24 (cùng ngày):** chủ repo báo F02, A01, J01 đã có phiên làm và bảo Claude làm bài tiếp theo, nên Claude nhận F03, A02, J02 và tự viết (giai đoạn 1: sub-agent của Claude; giai đoạn 2 Moda: phiên điều phối, tuần tự, theo luật 8 của `docs/dieu-phoi.md`). **Không dán lệnh khởi động dưới đây vào Codex** cho ba bài này, để khỏi hai bên cùng viết; muốn giao lại cho Codex thì điều phối ghi đổi chủ vào sổ trước.
+**Cập nhật 2026-10-24 (cùng ngày, lần cuối):** chủ repo báo F02, A01, J01 đã có phiên làm và bảo Claude **yêu cầu Codex viết, Claude không tự viết**. Claude đã dừng ba sub-agent viết thử trước khi chúng ghi file nào (ba worktree sạch, không có nháp nào của Claude). Chủ của F03, A02, J02 là Codex, nhận bằng **một** yêu cầu có dấu vết (task `PSY-LESSON-<ID>-V1`, vòng 1) đăng trên PR của bài theo `docs/claude-to-codex.md` của repo template; mỗi PR chỉ một yêu cầu đang chạy. Bước Moda nằm trong cùng yêu cầu; Codex tự xử lý, không hỏi chủ repo từng bước. Claude không viết bài, không dựng deck cho ba bài này, chỉ kiểm kết quả, xin review và báo.
 
 Kiểm trước khi giao (điều phối, 2026-10-24): không có nhánh remote, file hay canvas Moda nào mang mã F03, A02 hoặc J02 (`canvas_search` ba mã đều rỗng). F02/A01/J01 đã có chủ và canvas ở bảng "Sổ giữ việc chống trùng" phía trên; không nhận lại.
 
@@ -138,7 +138,7 @@ Công cụ `claims.py` phục vụ cây `lessons/` của hệ L và chưa hiểu
 4. **Moda: tìm trước, dựng sau.** Trước khi tạo canvas, `canvas_search` theo mã bài; thấy canvas của chính bài thì dùng tiếp, không dựng canvas thứ hai. Ghi `canvas_url` vào file lệnh giao việc ngay sau khi tạo, rồi mới thiết kế tiếp.
 5. **Quyền ghi.** Mỗi bài chỉ ghi các file nêu ở mục 4 của file lệnh giao việc, trong thư mục tác giả của mình. Không ghi vào thư mục tác giả khác, không sửa file dùng chung ở gốc `psychology-knowledge/`.
 
-### Lệnh khởi động cho phiên thực thi (chỉ dùng khi điều phối giao bài cho Codex; batch 3 hiện do Claude làm)
+### Lệnh khởi động cho phiên thực thi (nội dung yêu cầu Codex nhận qua comment PR; dán tay vào Codex chỉ khi điều phối ghi đổi chủ vào sổ)
 
 ```text
 Bạn là phiên chính Codex của repo vohoailinh90/Multiple-report. Chủ repo giao batch 3 (2026-10-24): ba bài F03, A02, J02. Mỗi bài đã có sẵn một PR nháp và một nhánh, base psychology/batch-02-three-decks:

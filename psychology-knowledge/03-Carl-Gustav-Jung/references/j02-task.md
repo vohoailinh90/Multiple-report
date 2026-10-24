@@ -1,10 +1,10 @@
 ---
 task_id: PSY-LESSON-J02-V1
 lesson: J02
-status: giao
-claimed_by: null
-claimed_at: null
-heartbeat_at: null
+status: đang làm
+claimed_by: claude · session_01WByoX8Cv7CtnajdF288G6c (sub-agent viết giai đoạn 1; Moda ở phiên điều phối)
+claimed_at: 2026-10-24T07:10:00Z
+heartbeat_at: 2026-10-24T07:10:00Z
 canvas_url: null
 branch: psychology/lesson-j02
 base: psychology/batch-02-three-decks
@@ -117,3 +117,4 @@ Câu hỏi cho chủ repo (tối đa một): <hoặc không>
 ## Nhật ký (chủ bài ghi, mỗi dòng một mốc)
 
 - 2026-10-24 — điều phối giao bài; chưa ai nhận.
+- 2026-10-24T07:10:00Z — Claude (phiên điều phối) nhận bài theo lời chủ repo; sub-agent viết giai đoạn 1, Moda giai đoạn 2 do phiên điều phối dựng. Không giao lại.

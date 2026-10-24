@@ -1,10 +1,12 @@
 ---
 task_id: PSY-LESSON-F03-V1
 lesson: F03
-status: đang làm
-claimed_by: claude · session_01WByoX8Cv7CtnajdF288G6c (sub-agent viết giai đoạn 1; Moda ở phiên điều phối)
-claimed_at: 2026-10-24T07:10:00Z
-heartbeat_at: 2026-10-24T07:10:00Z
+status: giao
+claimed_by: null
+claimed_at: null
+heartbeat_at: null
+requested_from: Codex (yêu cầu comment trên PR của bài; task PSY-LESSON-F03-V1 vòng 1)
+requested_at: 2026-10-24T07:26:01Z
 canvas_url: null
 branch: psychology/lesson-f03
 base: psychology/batch-02-three-decks
@@ -12,7 +14,7 @@ assigned: 2026-10-24
 ---
 # Lệnh giao việc F03 — Id, Ego và Superego
 
-Hợp đồng giao việc cho **một** sub-agent của phiên thực thi (Codex), do phiên điều phối (Claude) soạn ngày 2026-10-24. Sổ chung: [COORDINATION.md](../../COORDINATION.md), mục "Batch 3". Chủ repo cho phép Codex viết bài và dùng Moda trong phạm vi bài này (ngoại lệ batch 3 so với quy trình "Codex chỉ review"); không mở rộng sang bài khác.
+Hợp đồng giao việc cho **một** phiên thực thi (Codex; nếu dùng sub-agent thì mỗi bài một sub-agent), do phiên điều phối (Claude) soạn ngày 2026-10-24. Sổ chung: [COORDINATION.md](../../COORDINATION.md), mục "Batch 3". Chủ repo cho phép Codex viết bài và dùng Moda trong phạm vi bài này (ngoại lệ batch 3 so với quy trình "Codex chỉ review"); không mở rộng sang bài khác.
 
 ## 1. Nhận bài và chống trùng (làm đúng thứ tự, không hỏi ai)
 
@@ -118,3 +120,4 @@ Câu hỏi cho chủ repo (tối đa một): <hoặc không>
 
 - 2026-10-24 — điều phối giao bài; chưa ai nhận.
 - 2026-10-24T07:10:00Z — Claude (phiên điều phối) nhận bài theo lời chủ repo; sub-agent viết giai đoạn 1, Moda giai đoạn 2 do phiên điều phối dựng. Không giao lại.
+- 2026-10-24T07:26:01Z — Claude trả quyền chủ bài về Codex theo lời chủ repo (Claude không tự viết); sub-agent của Claude đã dừng trước khi ghi file nào. Yêu cầu giao Codex gửi bằng một comment trên PR.

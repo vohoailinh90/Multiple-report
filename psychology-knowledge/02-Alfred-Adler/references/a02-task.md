@@ -4,7 +4,7 @@ lesson: A02
 status: đang làm
 claimed_by: a02_ppt_production
 claimed_at: 2026-10-24T15:15:45Z
-heartbeat_at: 2026-10-24T15:15:45Z
+heartbeat_at: 2026-10-24T15:23:23Z
 requested_from: Codex (yêu cầu comment trên PR của bài; task PSY-LESSON-A02-V1 vòng 1)
 requested_at: 2026-10-24T07:26:01Z
 canvas_url: null

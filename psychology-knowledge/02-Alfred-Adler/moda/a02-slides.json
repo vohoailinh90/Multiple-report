@@ -2,7 +2,7 @@
   "title": "A02 · Individual Psychology và quan điểm toàn thể",
   "subtitle": "Con người, ý nghĩa và bối cảnh",
   "status": "drafted",
-  "review_status": "pending",
+  "review_status": "reviewed-with-limitations",
   "visual_status": "exported",
   "design_system": "F01 v4 / A01 · Teal/Cream · no brand kit",
   "source_lesson": "../lessons/02-individual-psychology-va-quan-diem-toan-the.md",
@@ -923,5 +923,6 @@
     "38 slides, body đi cùng sơ đồ.",
     "Đã xem đủ 38 trang; thêm emoji 37 header và kiểm lại 3 trang; body giữ nguyên 38/38 trên canvas.",
     "PPTX không cảnh báo; PDF một trang rasterized; chưa lưu binary cục bộ."
-  ]
+  ],
+  "review_record": "../references/a02-review.md"
 }

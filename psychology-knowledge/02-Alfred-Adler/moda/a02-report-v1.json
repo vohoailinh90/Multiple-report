@@ -1107,7 +1107,7 @@
       "Cover title auto-fit94→85.94px accepted; actual rendered text visible in full."
     ],
     "icon_tint_warning_resolution": "Full tint only applies to transparent outline SVGs, intentionally.",
-    "academic_review": "pending-independent-review-integration",
+    "academic_review": "reviewed-with-limitations",
     "export_service_status": "complete-both-formats",
     "local_file_inspection": "not-performed"
   },
@@ -1134,6 +1134,8 @@
       "Reviewer did not inspect rendered pages or exported binaries."
     ]
   },
-  "integration_note": "Lesson review-status metadata updated after production; original production source hashes, if present, identify the production snapshot.",
-  "integration_lesson_sha256": "32ed60651185e04cf8443949684d3ff1540e1ff9ebbefe5cfa13099b81cf9fd5"
+  "integration_note": "Current lesson/script review-status metadata updated after production. Original production source hashes and rendered slide/markup snapshots identify the pre-review production inputs.",
+  "integration_lesson_sha256": "32ed60651185e04cf8443949684d3ff1540e1ff9ebbefe5cfa13099b81cf9fd5",
+  "production_snapshot_review_status": "Pending at design/export time; current review is recorded in independent_review.",
+  "integration_script_sha256": "9b6f0c9a39a61e492753cb1942ccfd53793a9ca36481b379a033f258d284527a"
 }

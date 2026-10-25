@@ -773,17 +773,17 @@
   "canvas_url": "https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent",
   "exports": {
     "pptx": {
-      "operation": "export.status",
-      "status": "complete",
-      "committed": true,
-      "task_id": "9123c49d-6511-4982-abfe-bfbf2d5ebb8e",
-      "url": "https://assets-cdn.moda.app/mcp-exports/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2/vcrdt-0246db27c07e9572574cac90ba26a983/pptx-r2-f0-w1-all.pptx?Expires=1824394683&KeyName=mpwa&Signature=yh6uhytrcnsSak_WBLYdK4Hrn3k",
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-f04/psychology-knowledge/01-Sigmund-Freud/visuals/f04.pptx",
+      "path": "../visuals/f04.pptx",
       "format": "pptx",
-      "usage": {
-        "class": "deterministic",
-        "metered_credits": 0
-      },
-      "warnings": []
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "e0403f92bfca56418092f2925d41cdcaf1f806a7ab69a973a0d57ae622b79828",
+      "size_bytes": 2543369,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+      ]
     },
     "pdf": {
       "operation": "export.status",
@@ -804,12 +804,13 @@
       ]
     }
   },
-  "presentation_status": "exported",
+  "presentation_status": "compatibility-exported-native-unverified",
   "production_notes": [
     "36 slides; body + nodes; source claims follow lesson.",
     "No fabricated assets, data, or citations.",
     "36/36 final screenshots inspected once; no canvas repair needed.",
     "PDF warning: 1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.",
-    "Download one attempt blocked: URLError: <urlopen error [Errno 1] Operation not permitted>. No local PPTX/PDF saved."
+    "Download one attempt blocked: URLError: <urlopen error [Errno 1] Operation not permitted>. No local PPTX/PDF saved.",
+    "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
   ]
 }

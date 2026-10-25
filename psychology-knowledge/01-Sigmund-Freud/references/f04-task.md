@@ -4,7 +4,7 @@ lesson: F04
 status: chờ phản biện
 claimed_by: codex_batch4_f04
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T16:21:37Z
+heartbeat_at: 2026-10-25T00:01:12Z
 canvas_url: https://moda.app/canvas/f10b8a0c-db8b-49a2-abfd-a6ab3bc1eed2?source=agent
 branch: psychology/lesson-f04
 base: psychology/batch-02-three-decks
@@ -40,3 +40,4 @@ ID — status drafted · review pending · visual; nhánh/sha đã publish; file
 - 2026-10-24T16:11:51Z — lesson: F04 — bài A–L, nghiên cứu và 36 slide; chuyển sản xuất Moda
 
 - 2026-10-24T16:21:37Z — decks: F04 — 36 trang đã kiểm, PPTX/PDF đã xuất; tải PPTX bị Operation not permitted, giữ URL thật
+\n- 2026-10-25T00:01:12Z — Chủ repo báo lỗi PPTX. Đã nhận phản biện Codex và agent độc lập, kiểm 36 ảnh cuối và binary PPTX tương thích bằng LibreOffice; bản native chưa nghiệm thu/iPhone chưa thử; giữ chờ phản biện.\n

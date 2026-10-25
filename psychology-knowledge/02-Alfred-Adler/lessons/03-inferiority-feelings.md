@@ -143,11 +143,14 @@ Với quản lý hoặc giáo dục, kiểm chất lượng hướng dẫn, th�
 
 **Hình bổ trợ:** Bảng ba tầng “khó khăn cụ thể / trải nghiệm / kết luận toàn thể”, và bảng “dữ kiện / giả thuyết / cách kiểm” cho ca Quân. Không dùng ảnh người thật đại diện ca.
 
-Kịch bản: [a03-slides.json](../moda/a03-slides.json). Canvas: [A03 — 36 slide, bản có thể chỉnh sửa](https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent). Bản xuất thật: [PPTX](https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI) và [PDF](https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4). Metadata và markup: [a03-report-v1.json](../moda/a03-report-v1.json); [nguồn hình và credit](../references/a03-visual-sources.md).
+Kịch bản: [a03-slides.json](../moda/a03-slides.json). Canvas: [A03 — 36 slide, bản có thể chỉnh sửa](https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent). Bản xuất thật: [PPTX](https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-a03/psychology-knowledge/02-Alfred-Adler/visuals/a03.pptx) và [PDF](https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4). Metadata và markup: [a03-report-v1.json](../moda/a03-report-v1.json); [nguồn hình và credit](../references/a03-visual-sources.md).
 
 Đã xem 36 trang bằng 12 lệnh chụp, tối đa ba trang/lệnh, mỗi trang một lần. Sau đó sửa một lượt hai chi tiết chữ ở slide 31–32; đọc lại slide 32 xác nhận nội dung, không chụp lại theo giới hạn. PPTX xuất không có cảnh báo. Cảnh báo PDF nguyên văn: “1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.”
 
 Thử tải PPTX đúng một lần bị chặn: `URLError: <urlopen error [Errno 1] Operation not permitted>`. Không thử lại hoặc xin nâng quyền; không có binary giả, không lưu PDF. Phiên điều phối có thể tải từ URL thật để đưa vào `visuals/a03.pptx`. Trạng thái visual `exported` nói về bản xuất trên Moda, không nhận đã kiểm file bằng PowerPoint cục bộ. Nguồn và phạm vi được kiểm ở [research](../references/a03-research.md).
+
+
+**Bản bàn giao thay thế sau phản biện:** [PPTX tương thích](../visuals/a03.pptx). Mỗi trang là một ảnh Moda đã được reviewer độc lập xem; 36 slide của file thật đã mở/render bằng LibreOffice và kiểm ảnh nhúng. Chữ không chỉnh sửa/chọn được; ảnh 1000×562. Chưa kiểm trực tiếp trên iPhone hoặc Microsoft PowerPoint. Bản PPTX native cũ chưa được nghiệm thu; không dùng cảnh báo exporter rỗng làm bằng chứng đạt. Chi tiết và giới hạn trong report.
 
 ## J. Key Takeaways — Tám điểm ghi nhớ
 

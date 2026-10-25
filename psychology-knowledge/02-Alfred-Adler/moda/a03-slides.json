@@ -282,7 +282,7 @@
       "layout": "mechanism",
       "source": "A03 · D · Khung giảng dạy gợi từ [S2], chưa kiểm nghiệm",
       "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
-      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có. Dải bối cảnh thực x60/y320/w1745/h365 đặt sau năm node; connector và nhãn ở trước, đã kiểm lại ảnh cuối."
     },
     {
       "title": "Mô tả việc trước khi suy động cơ",
@@ -750,7 +750,7 @@
       "layout": "mechanism",
       "source": "A03 · I; gợi từ [S2], không cơ chế xác nhận",
       "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
-      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có. Dải bối cảnh thực x60/y320/w1745/h365 đặt sau năm node; connector và nhãn ở trước, đã kiểm lại ảnh cuối."
     },
     {
       "title": "Giữ điều cụ thể ở đúng phạm vi",
@@ -872,9 +872,17 @@
   "canvas_url": "https://moda.app/canvas/a3500f96-3e75-43b7-879f-1f70876c7c30?source=agent",
   "exports": {
     "pptx": {
-      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI",
-      "status": "exported",
-      "warnings": []
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-a03/psychology-knowledge/02-Alfred-Adler/visuals/a03.pptx",
+      "path": "../visuals/a03.pptx",
+      "format": "pptx",
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "588f671155aefa903444029c490737b246a25047bdad98814c389857df80fb3d",
+      "size_bytes": 2746907,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+      ]
     },
     "pdf": {
       "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4",
@@ -888,11 +896,12 @@
       ]
     }
   },
-  "presentation_status": "exported",
+  "presentation_status": "compatibility-exported-native-unverified",
   "production_notes": [
     "Không dùng ảnh tư liệu khi chưa kiểm được quyền. Các sơ đồ do tác giả bài dựng, không giả làm hình gốc của Adler.",
     "Nguồn gốc chỉ tuyển đoạn, không full-text sách; hai review chỉ abstract, không số liệu định lượng trên slide.",
     "Git fetch/network trong executor bị chặn; phiên chính publish bằng GitHub connector.",
-    "Exported PPTX/PDF; one sandbox PPTX download failed: URLError: <urlopen error [Errno 1] Operation not permitted>. No retry, approval, binary or local PDF."
+    "Exported PPTX/PDF; one sandbox PPTX download failed: URLError: <urlopen error [Errno 1] Operation not permitted>. No retry, approval, binary or local PDF.",
+    "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
   ]
 }

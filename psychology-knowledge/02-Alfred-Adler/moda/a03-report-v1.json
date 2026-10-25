@@ -291,7 +291,7 @@
       "layout": "mechanism",
       "source": "A03 · D · Khung giảng dạy gợi từ [S2], chưa kiểm nghiệm",
       "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
-      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có. Dải bối cảnh thực x60/y320/w1745/h365 đặt sau năm node; connector và nhãn ở trước, đã kiểm lại ảnh cuối."
     },
     {
       "title": "Mô tả việc trước khi suy động cơ",
@@ -759,7 +759,7 @@
       "layout": "mechanism",
       "source": "A03 · I; gợi từ [S2], không cơ chế xác nhận",
       "note": "Mở rộng bằng ví dụ và giới hạn ở mục tương ứng trong bài A03. Mọi ví dụ là giả định; quan hệ cơ chế chưa kiểm phải được giữ ở mức giả thuyết.",
-      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có."
+      "visual_brief": "Theo F01 v4; body nguyên ý, lề rộng, tiêu đề Bricolage Grotesque; nodes bố cục mechanism; icon nét mảnh; mũi tên giả thuyết nét đứt khi có. Dải bối cảnh thực x60/y320/w1745/h365 đặt sau năm node; connector và nhãn ở trước, đã kiểm lại ảnh cuối."
     },
     {
       "title": "Giữ điều cụ thể ở đúng phạm vi",
@@ -931,7 +931,7 @@
     {
       "slide": 11,
       "page_id": "p_k",
-      "markup": "<content font-family=\"Be Vietnam Pro\"><rectangle x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#173A35\"/><text name=\"kicker\" x=\"80\" y=\"44\" width=\"1620\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">⚙️ D · PSYCHOLOGICAL MECHANISM</text><path name=\"book-icon\" x=\"1758\" y=\"45\" width=\"56\" height=\"56\" d=\"M4 6 L24 6 L28 10 L32 6 L52 6 L52 48 L32 48 L28 52 L24 48 L4 48 Z M28 10 L28 52 M10 15 L21 15 M35 15 L46 15\" stroke=\"#B8D8CA\" stroke-width=\"2\" fill=\"none\"/><text name=\"title\" x=\"80\" y=\"122\" width=\"1740\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#FAF8F4\" line-height=\"1.2\">Năm bước của một khung giả thuyết</text><rectangle name=\"n0\" x=\"80\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\"/><text name=\"label0\" x=\"100\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">1 · Tình huống</text><text name=\"detail0\" x=\"100\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Nhiệm vụ và nguồn lực</text><rectangle name=\"n1\" x=\"430\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\"/><text name=\"label1\" x=\"450\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">2 · Ý nghĩa</text><text name=\"detail1\" x=\"450\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Chuẩn và cách hiểu</text><rectangle name=\"n2\" x=\"780\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\"/><text name=\"label2\" x=\"800\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">3 · Trải nghiệm</text><text name=\"detail2\" x=\"800\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Lời người ấy báo</text><rectangle name=\"n3\" x=\"1130\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\"/><text name=\"label3\" x=\"1150\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">4 · Đáp ứng</text><text name=\"detail3\" x=\"1150\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Có nhiều khả năng</text><rectangle name=\"n4\" x=\"1480\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\"/><text name=\"label4\" x=\"1500\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">5 · Phản hồi</text><text name=\"detail4\" x=\"1500\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Sửa giả thuyết</text><connector name=\"hyp-link0\" from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><connector name=\"hyp-link1\" from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><connector name=\"hyp-link2\" from=\"@n2:right\" to=\"@n3:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><connector name=\"hyp-link3\" from=\"@n3:right\" to=\"@n4:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><text name=\"hypothesis\" x=\"80\" y=\"630\" width=\"1720\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">GIẢ THUYẾT · Bối cảnh: nguồn lực / quan hệ / rào cản</text><text name=\"body\" x=\"85\" y=\"716\" width=\"1720\" height=\"208\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Khung bắt đầu bằng nhiệm vụ và nguồn lực, rồi hỏi tiêu chuẩn cùng ý nghĩa, ghi trải nghiệm được báo, giữ nhiều đáp ứng và quan sát phản hồi. Mỗi liên hệ cần kiểm riêng. Nét đứt đánh dấu quan hệ giả thuyết; chuỗi kể hợp lý chưa chứng minh một cơ chế nhân quả.</text><text name=\"source\" x=\"80\" y=\"968\" width=\"1700\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · D · Khung giảng dạy gợi từ [S2], chưa kiểm nghiệm</text><text name=\"footer\" x=\"80\" y=\"1025\" width=\"1720\" height=\"35\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · Psychology Knowledge · 11/36 · drafted / review pending</text></content>"
+      "markup": "<content font-family=\"Be Vietnam Pro\"><rectangle x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#173A35\" /><text name=\"kicker\" x=\"80\" y=\"44\" width=\"1620\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">⚙️ D · PSYCHOLOGICAL MECHANISM</text><path name=\"book-icon\" x=\"1758\" y=\"45\" width=\"56\" height=\"56\" d=\"M4 6 L24 6 L28 10 L32 6 L52 6 L52 48 L32 48 L28 52 L24 48 L4 48 Z M28 10 L28 52 M10 15 L21 15 M35 15 L46 15\" stroke=\"#B8D8CA\" stroke-width=\"2\" fill=\"none\" /><text name=\"title\" x=\"80\" y=\"122\" width=\"1740\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#FAF8F4\" line-height=\"1.2\">Năm bước của một khung giả thuyết</text><rectangle name=\"context-band-review-fix\" x=\"60\" y=\"320\" width=\"1745\" height=\"365\" fill=\"#1D443D\" stroke=\"#73A796\" stroke-width=\"2\" corner-radius=\"20\" /><rectangle name=\"n0\" x=\"80\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\" /><text name=\"label0\" x=\"100\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">1 · Tình huống</text><text name=\"detail0\" x=\"100\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Nhiệm vụ và nguồn lực</text><rectangle name=\"n1\" x=\"430\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\" /><text name=\"label1\" x=\"450\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">2 · Ý nghĩa</text><text name=\"detail1\" x=\"450\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Chuẩn và cách hiểu</text><rectangle name=\"n2\" x=\"780\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\" /><text name=\"label2\" x=\"800\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">3 · Trải nghiệm</text><text name=\"detail2\" x=\"800\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Lời người ấy báo</text><rectangle name=\"n3\" x=\"1130\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\" /><text name=\"label3\" x=\"1150\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">4 · Đáp ứng</text><text name=\"detail3\" x=\"1150\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Có nhiều khả năng</text><rectangle name=\"n4\" x=\"1480\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\" /><text name=\"label4\" x=\"1500\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">5 · Phản hồi</text><text name=\"detail4\" x=\"1500\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Sửa giả thuyết</text><connector name=\"hyp-link0\" from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><connector name=\"hyp-link1\" from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><connector name=\"hyp-link2\" from=\"@n2:right\" to=\"@n3:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><connector name=\"hyp-link3\" from=\"@n3:right\" to=\"@n4:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><text name=\"hypothesis\" x=\"80\" y=\"630\" width=\"1720\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">GIẢ THUYẾT · Bối cảnh: nguồn lực / quan hệ / rào cản</text><text name=\"body\" x=\"85\" y=\"716\" width=\"1720\" height=\"208\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Khung bắt đầu bằng nhiệm vụ và nguồn lực, rồi hỏi tiêu chuẩn cùng ý nghĩa, ghi trải nghiệm được báo, giữ nhiều đáp ứng và quan sát phản hồi. Mỗi liên hệ cần kiểm riêng. Nét đứt đánh dấu quan hệ giả thuyết; chuỗi kể hợp lý chưa chứng minh một cơ chế nhân quả.</text><text name=\"source\" x=\"80\" y=\"968\" width=\"1700\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · D · Khung giảng dạy gợi từ [S2], chưa kiểm nghiệm</text><text name=\"footer\" x=\"80\" y=\"1025\" width=\"1720\" height=\"35\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · Psychology Knowledge · 11/36 · drafted / review pending</text></content>"
     },
     {
       "slide": 12,
@@ -1031,7 +1031,7 @@
     {
       "slide": 31,
       "page_id": "p_ae",
-      "markup": "<content font-family=\"Be Vietnam Pro\"><rectangle x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#173A35\"/><text name=\"kicker\" x=\"80\" y=\"44\" width=\"1620\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">🗺️ I · VISUAL EXPLANATION</text><path name=\"book-icon\" x=\"1758\" y=\"45\" width=\"56\" height=\"56\" d=\"M4 6 L24 6 L28 10 L32 6 L52 6 L52 48 L32 48 L28 52 L24 48 L4 48 Z M28 10 L28 52 M10 15 L21 15 M35 15 L46 15\" stroke=\"#B8D8CA\" stroke-width=\"2\" fill=\"none\"/><text name=\"title\" x=\"80\" y=\"122\" width=\"1740\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#FAF8F4\" line-height=\"1.2\">Đọc mũi tên như một giả thuyết</text><rectangle name=\"n0\" x=\"80\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\"/><text name=\"label0\" x=\"100\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">1 · Tình huống</text><text name=\"detail0\" x=\"100\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Nhiệm vụ và nguồn lực</text><rectangle name=\"n1\" x=\"430\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\"/><text name=\"label1\" x=\"450\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">2 · Ý nghĩa</text><text name=\"detail1\" x=\"450\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Chuẩn và cách hiểu</text><rectangle name=\"n2\" x=\"780\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\"/><text name=\"label2\" x=\"800\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">3 · Trải nghiệm</text><text name=\"detail2\" x=\"800\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Lời người ấy báo</text><rectangle name=\"n3\" x=\"1130\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\"/><text name=\"label3\" x=\"1150\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">4 · Đáp ứng</text><text name=\"detail3\" x=\"1150\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Có nhiều khả năng</text><rectangle name=\"n4\" x=\"1480\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\"/><text name=\"label4\" x=\"1500\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">5 · Phản hồi</text><text name=\"detail4\" x=\"1500\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Sửa giả thuyết</text><connector name=\"hyp-link0\" from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><connector name=\"hyp-link1\" from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><connector name=\"hyp-link2\" from=\"@n2:right\" to=\"@n3:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><connector name=\"hyp-link3\" from=\"@n3:right\" to=\"@n4:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\"/><text name=\"hypothesis\" x=\"80\" y=\"630\" width=\"1720\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">GIẢ THUYẾT · Bối cảnh: nguồn lực / quan hệ / rào cản</text><text name=\"body\" x=\"85\" y=\"716\" width=\"1720\" height=\"208\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Sơ đồ đặt tình huống, ý nghĩa, trải nghiệm, đáp ứng và phản hồi trong một dải bối cảnh nguồn lực–quan hệ–rào cản. Đường đứt ghi giả thuyết; dải bối cảnh nhắc khó khăn có thể do điều kiện thực tế. Hình là khung giảng dạy của A03, không sơ đồ gốc của Adler.</text><text name=\"source\" x=\"80\" y=\"968\" width=\"1700\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · I; gợi từ [S2], không cơ chế xác nhận</text><text name=\"footer\" x=\"80\" y=\"1025\" width=\"1720\" height=\"35\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · Psychology Knowledge · 31/36 · drafted / review pending</text></content>"
+      "markup": "<content font-family=\"Be Vietnam Pro\"><rectangle x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" fill=\"#173A35\" /><text name=\"kicker\" x=\"80\" y=\"44\" width=\"1620\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">🗺️ I · VISUAL EXPLANATION</text><path name=\"book-icon\" x=\"1758\" y=\"45\" width=\"56\" height=\"56\" d=\"M4 6 L24 6 L28 10 L32 6 L52 6 L52 48 L32 48 L28 52 L24 48 L4 48 Z M28 10 L28 52 M10 15 L21 15 M35 15 L46 15\" stroke=\"#B8D8CA\" stroke-width=\"2\" fill=\"none\" /><text name=\"title\" x=\"80\" y=\"122\" width=\"1740\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#FAF8F4\" line-height=\"1.2\">Đọc mũi tên như một giả thuyết</text><rectangle name=\"context-band-review-fix\" x=\"60\" y=\"320\" width=\"1745\" height=\"365\" fill=\"#1D443D\" stroke=\"#73A796\" stroke-width=\"2\" corner-radius=\"20\" /><rectangle name=\"n0\" x=\"80\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\" /><text name=\"label0\" x=\"100\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">1 · Tình huống</text><text name=\"detail0\" x=\"100\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Nhiệm vụ và nguồn lực</text><rectangle name=\"n1\" x=\"430\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\" /><text name=\"label1\" x=\"450\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">2 · Ý nghĩa</text><text name=\"detail1\" x=\"450\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Chuẩn và cách hiểu</text><rectangle name=\"n2\" x=\"780\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\" /><text name=\"label2\" x=\"800\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">3 · Trải nghiệm</text><text name=\"detail2\" x=\"800\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Lời người ấy báo</text><rectangle name=\"n3\" x=\"1130\" y=\"355\" width=\"305\" height=\"235\" fill=\"#315B50\" corner-radius=\"18\" /><text name=\"label3\" x=\"1150\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">4 · Đáp ứng</text><text name=\"detail3\" x=\"1150\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Có nhiều khả năng</text><rectangle name=\"n4\" x=\"1480\" y=\"355\" width=\"305\" height=\"235\" fill=\"#244D45\" corner-radius=\"18\" /><text name=\"label4\" x=\"1500\" y=\"380\" width=\"265\" height=\"85\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#B8D8CA\" line-height=\"1.2\">5 · Phản hồi</text><text name=\"detail4\" x=\"1500\" y=\"485\" width=\"265\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Sửa giả thuyết</text><connector name=\"hyp-link0\" from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><connector name=\"hyp-link1\" from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><connector name=\"hyp-link2\" from=\"@n2:right\" to=\"@n3:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><connector name=\"hyp-link3\" from=\"@n3:right\" to=\"@n4:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#B8D8CA\" stroke-width=\"3\" dash=\"dashed\" /><text name=\"hypothesis\" x=\"80\" y=\"630\" width=\"1720\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#B8D8CA\" line-height=\"1.2\">GIẢ THUYẾT · Bối cảnh: nguồn lực / quan hệ / rào cản</text><text name=\"body\" x=\"85\" y=\"716\" width=\"1720\" height=\"208\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#FAF8F4\" line-height=\"1.2\">Sơ đồ đặt tình huống, ý nghĩa, trải nghiệm, đáp ứng và phản hồi trong một dải bối cảnh nguồn lực–quan hệ–rào cản. Đường đứt ghi giả thuyết; dải bối cảnh nhắc khó khăn có thể do điều kiện thực tế. Hình là khung giảng dạy của A03, không sơ đồ gốc của Adler.</text><text name=\"source\" x=\"80\" y=\"968\" width=\"1700\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · I; gợi từ [S2], không cơ chế xác nhận</text><text name=\"footer\" x=\"80\" y=\"1025\" width=\"1720\" height=\"35\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#C0D6CC\" line-height=\"1.2\">A03 · Psychology Knowledge · 31/36 · drafted / review pending</text></content>"
     },
     {
       "slide": 32,
@@ -2067,9 +2067,17 @@
   },
   "exports": {
     "pptx": {
-      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI",
-      "status": "exported",
-      "warnings": []
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-a03/psychology-knowledge/02-Alfred-Adler/visuals/a03.pptx",
+      "path": "../visuals/a03.pptx",
+      "format": "pptx",
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "588f671155aefa903444029c490737b246a25047bdad98814c389857df80fb3d",
+      "size_bytes": 2746907,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+      ]
     },
     "pdf": {
       "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-dbffaae466669b60ba88c4c89ae21e15/pdf-r3-f0-w1-all.pdf?Expires=1824394747&KeyName=mpwa&Signature=bxsJ4CVVCmQree5m_N4_y95Dto4",
@@ -2081,6 +2089,12 @@
           "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
         }
       ]
+    },
+    "native_pptx": {
+      "url": "https://assets-cdn.moda.app/mcp-exports/a3500f96-3e75-43b7-879f-1f70876c7c30/vcrdt-1d82eb7e0c81846b651c28ee4dfd98c5/pptx-r2-f0-w1-all.pptx?Expires=1824394722&KeyName=mpwa&Signature=hmgzwTtcsM35PCk9uxT6xZV9uLI",
+      "status": "exported",
+      "warnings": [],
+      "acceptance_status": "unverified-native-export"
     }
   },
   "limitations": [
@@ -2089,7 +2103,8 @@
     "One PPTX download blocked: URLError: <urlopen error [Errno 1] Operation not permitted>. Did not retry or request approval; no fake binary and no local PDF.",
     "PDF warning: 1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.",
     "All pages screenshot once before one text correction pass; no repeated screenshots, edited slide32 confirmed via read.",
-    "No independent academic review; drafted / pending."
+    "No independent academic review; drafted / pending.",
+    "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
   ],
   "production_adjustments": [
     {
@@ -2132,5 +2147,780 @@
       "JSON parse"
     ],
     "note": "Parent handles final repository validation, scoped commit and push. No review requested by author."
+  },
+  "post_export_review": {
+    "trigger": "User screenshot: native F04 PPTX slides 9-10 had hidden text and serif fallback on iPhone",
+    "native_export_accepted": false,
+    "native_root_cause": "unconfirmed: native binary unavailable; do not infer exact exporter defect from source markup",
+    "compatibility_only": true,
+    "independent_review": {
+      "lesson_id": "A03",
+      "verdict": "pass-for-image-based-compatibility-package",
+      "pptx_sha256": "588f671155aefa903444029c490737b246a25047bdad98814c389857df80fb3d",
+      "pdf_sha256": "d75557d068ebcc77da396ec7b934fc9dc7770e9f49d23f6162baeef25efeeb6a",
+      "slide_count": 36,
+      "pdf_pages": 36,
+      "canvas_emu": [
+        12191999,
+        6858000
+      ],
+      "all36_embedded_bytes_exact": true,
+      "all36_external_pdf_decoded_image_pixels_exact": false,
+      "pdf_recompression_max_mae_255": 0.8415320284697508,
+      "pdf_recompression_min_psnr_db": 39.876090807998075,
+      "native_text_on_visible_slides": false,
+      "source_hyperlinks_on_visible_slides": false,
+      "source_text_in_notes": true,
+      "ios_device_tested": false,
+      "original_native_moda_pptx_tested": false,
+      "resolution": [
+        1000,
+        562
+      ],
+      "rows": [
+        {
+          "slide": 1,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "1678d82777a0fa20690ca103813f2448c48ec8be700f71d7cc8fefa6ac58b20e",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.8415320284697508,
+          "pdf_image_psnr_db": 39.876090807998075,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 2,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "4b9b19c619eaadbe7ea1a8eba7483aa07bc0e96c092d290aca975a4c358876f8",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6159893238434164,
+          "pdf_image_psnr_db": 41.62150691206275,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 3,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "3f8105d7a1f8b426fe882f62d37c3e91ff37cb5106c169075e819b73f59bd4af",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5145421115065243,
+          "pdf_image_psnr_db": 42.71882485928897,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 4,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "992c690f58350086049d874226896ff68eb37d0a3bdef415da422bb3e0b21bcb",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.627485172004745,
+          "pdf_image_psnr_db": 41.854935445634666,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 5,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "30c19c7b2a913b88c57355e1978a9634bc2a4400cdb9427629930f791e92c53c",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6868137603795966,
+          "pdf_image_psnr_db": 41.675092750640346,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 6,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "8197482a7f164bccaeb2c95dae70174bce408a7ee19e44557aff15b1d4e19ea3",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5555278766310795,
+          "pdf_image_psnr_db": 42.403057440504796,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 7,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "f088ed502eca76180c7e83a090f127e014025dddceea1b85e4a0ec33e814d567",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6121269276393831,
+          "pdf_image_psnr_db": 42.254581964704556,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 8,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "24aea8e8ce543b0b470ac31c91f09b4a4015d82a8c5f453b59046178750151e6",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6165302491103203,
+          "pdf_image_psnr_db": 42.31226760839674,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 9,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "a7bf8ee90a9135fd2f75bc4afe771f74824da6fa481cee260e0195108ee53697",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5351049822064057,
+          "pdf_image_psnr_db": 42.937886536926726,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 10,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "35b840fd47b6e42615d5bfd5e73a6c8a1fcde34eeff7b600809087f97c51cf32",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6696150652431792,
+          "pdf_image_psnr_db": 41.38561081674274,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 11,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "74a35b3341072dfad2de4e770662136c7c5fd0b735a3b29ad970744f4be09fa4",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.7361725978647686,
+          "pdf_image_psnr_db": 41.474686049505955,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 12,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "634b7dd13e11caa349aea4dfc0686cfcb63db1228f2f50cc1e83845cbd2666a4",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5493107947805457,
+          "pdf_image_psnr_db": 42.56528643038486,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 13,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "c40f5960c202ca6f85795532845cb17701a36b4aece490e382ff7cbd6b740d2f",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5429952550415184,
+          "pdf_image_psnr_db": 42.49749772736912,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 14,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "6eeba8112d1e334ba71e34582d16adaec9a721d281269ebaa030df4dcafba9c9",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6108072360616844,
+          "pdf_image_psnr_db": 41.87996076188486,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 15,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "9557b93704557041228417cbe53b7ece10f9b2f65701b20ceb9a04fff626b792",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5828244365361803,
+          "pdf_image_psnr_db": 42.060413676375475,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 16,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "f4d4b066803633573ab64fcd0c611a6ea13d4351edb94f9c341a31b5a45c29ef",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5791625148279953,
+          "pdf_image_psnr_db": 42.13266804463386,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 17,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "4f1de805d18c6a16551ac7d85beeeddf2f5af4c4642b8cbd1dddaa0d5a91eddb",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5651079478054567,
+          "pdf_image_psnr_db": 42.45294876701423,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 18,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "2552f1f0dc86dec8acc60e21108fc273c565a9e35b7ee826fac483e430957161",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6262372479240806,
+          "pdf_image_psnr_db": 42.12097523276476,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 19,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "c7e32feec1144b456cfee856642edc104d82d72a49520f4bf18352733a0ba41e",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5364638196915777,
+          "pdf_image_psnr_db": 42.403350919076736,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 20,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "ec218f04ded068bce3988ff29119b0069baf34a169e8da057fe867890b2a1c1a",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5967918149466193,
+          "pdf_image_psnr_db": 42.1469602187362,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 21,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "515b56483a756dcbabd8f8c11c6de421cea80603b4a83be0fd0930af1c947b4a",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6316251482799525,
+          "pdf_image_psnr_db": 41.771216466442944,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 22,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "f0ed1cdf33195b9102f24fc7ca03d1efad109444c562b1078aa6878594c3b430",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5593321470937129,
+          "pdf_image_psnr_db": 42.2826186974811,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 23,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "c1b586a0ab30b86a9a697477aaaacc4645bee60e3a831a4ef35fd5e51a6b5be7",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6357752075919336,
+          "pdf_image_psnr_db": 42.19572837214034,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 24,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "800fa5bf9a5a5dc7faafb920ea55f0ad0dfb4d3adfd4d7aa140b316d98db8ad5",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5749228944246738,
+          "pdf_image_psnr_db": 42.202534648670984,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 25,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "3fd71e2dc7bb43f8d6b82ff369e68e884b1f582ba73a38cf2bd2d257d2835eb0",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6581067615658363,
+          "pdf_image_psnr_db": 41.17904158987669,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 26,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "09a1e9c5d245ffb49a526b72465288450604af16f32c97e1def819a44da37025",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6965860023724793,
+          "pdf_image_psnr_db": 41.68019448716514,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 27,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "1c1bb97941291372ecd74de5fa039ab90267dc670637caac07831b79b39bc4a8",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6007491103202847,
+          "pdf_image_psnr_db": 41.919975728873425,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 28,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "170666f21400c41b37c13dd2ace91e645099fa3622fc8e00ea2691c1e681c652",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6410207591933571,
+          "pdf_image_psnr_db": 41.9342831094087,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 29,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "5750a3a0bf5976db2985fc855de4035e1bdb730be43176901fe3bf58b8627d29",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5998303677342823,
+          "pdf_image_psnr_db": 41.95840540775447,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 30,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "fe67c3dde749028a34f3983211becb1c700f9fcdcb922b774dc18b68ef7e45f1",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6412894424673784,
+          "pdf_image_psnr_db": 41.3496664389427,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 31,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "e14e97291df3de7ea5b84e7193720b50ef49833771fe4b44a0cde5083d251de9",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.7147615658362989,
+          "pdf_image_psnr_db": 41.44493173677371,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 32,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "5c33b328274c84fab53fe89f4a8dc86bf7a74b1a60b108a2fdc9df3b7e07f427",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.7050871886120996,
+          "pdf_image_psnr_db": 40.84186267786953,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 33,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "c2a90c9e2d04363a4b2a8bbad8af048adaf032384ac33ab49935703d05a9ebb8",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.6677052194543298,
+          "pdf_image_psnr_db": 41.1360438662996,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 34,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "94f0a7f89a5d0be4d14ef59c670463cf3f90d86419c2bf36b87f08c3b06e2368",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.5462004744958482,
+          "pdf_image_psnr_db": 42.626365575105744,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 35,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "37bbd44783af38e9466f331349977c6ea569c5796588275b54b89041229f85b3",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.586702846975089,
+          "pdf_image_psnr_db": 42.276937027789174,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        },
+        {
+          "slide": 36,
+          "pictures": 1,
+          "native_text_shapes": 0,
+          "native_text_runs": 0,
+          "full_canvas_picture": true,
+          "image_sha256": "3fe4f864d314828c3de625dc3d455a4577c4fab148dd87259c7c4bd952a4ae0f",
+          "pptx_embedded_bytes_exact": true,
+          "pdf_drawn_images": 1,
+          "pdf_decoded_pixels_exact": false,
+          "pdf_image_mae_255": 0.721514827995255,
+          "pdf_image_psnr_db": 41.13349076891426,
+          "notes_preserved": true,
+          "pdf_bbox": [
+            0.0,
+            -0.02899169921875,
+            959.9810180664062,
+            539.9429931640625
+          ]
+        }
+      ],
+      "limitations": [
+        "Fixed-image slides: no editable/selectable visible text or per-source clickable hyperlinks. Source text and teaching notes are retained in speaker notes.",
+        "External renderer was LibreOffice, not iOS/Quick Look.",
+        "Old native Moda export remains unverified/defective per user evidence.",
+        "LibreOffice PDF recompresses JPEGs: decoded pixel equality is false. All36 image differences checked; MAE<2/255 and PSNR>35dB are diagnostic bounds, not a universal perceptual quality guarantee.",
+        "1000x562 source screenshot payload stretched to logical16:9; PDF placement rounding is below0.06pt and no source crop element exists."
+      ]
+    },
+    "binary_sha256": "588f671155aefa903444029c490737b246a25047bdad98814c389857df80fb3d",
+    "all_36_reviewed_source_images": true,
+    "all_36_binary_images_match_reviewed_source_bytes": true,
+    "external_viewer": "LibreOfficeDev 26.8.0.0.alpha0",
+    "external_viewer_pages": 36,
+    "iphone_status": "not-tested",
+    "microsoft_powerpoint_status": "not-tested",
+    "codex_first_round": "https://github.com/vohoailinh90/Multiple-report/pull/46",
+    "codex_current_head_status": "pending-request-after-publication",
+    "pending": [
+      "Original editable native-export issue is not accepted as repaired.",
+      "iPhone/Microsoft PowerPoint acceptance remains open."
+    ],
+    "disclosure": "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested.",
+    "codex_content_fix": "Added visible context band on slides11 and31, independently checked after change."
   }
 }

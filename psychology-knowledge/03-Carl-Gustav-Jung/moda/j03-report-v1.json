@@ -796,8 +796,8 @@
       ],
       "layout": "references",
       "source": "DOI: 10.3389/fnhum.2014.00443 · 10.1093/nc/niac011",
-      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
-      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán. Thư mục đầy đủ: https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/lessons/03-conscious-ego.md",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo. Liên kết thư mục hiển thị y930; bản PPTX tương thích có hyperlink toàn trang35 tới mục nguồn của bài."
     },
     {
       "title": "Biết mình có giới hạn\nlà điểm bắt đầu một câu hỏi tốt",
@@ -997,7 +997,7 @@
     {
       "page": 35,
       "page_ref": "p_ai",
-      "markup": "<content font-family=\"Be Vietnam Pro\"><background fill=\"#FAF8F4\"/><text name=\"kicker\" x=\"80\" y=\"48\" width=\"1660\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"27\" font-weight=\"400\" color=\"#493C89\">📚 L · TÀI LIỆU</text><text name=\"title\" x=\"80\" y=\"120\" width=\"1740\" height=\"160\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241F39\">📚 L · Nguồn và mức đọc thực tế</text><path name=\"scope-icon\" x=\"1770\" y=\"44\" width=\"56\" height=\"56\" d=\"M 2 2 H 54 V 54 H 2 Z M 14 14 H 42 V 42 H 14 Z M 23 23 H 33 V 33 H 23 Z\" fill=\"none\" stroke=\"#8874BF\" stroke-width=\"2\"/><rectangle name=\"node0\" x=\"90\" y=\"310\" width=\"530\" height=\"320\" corner-radius=\"16\" fill=\"#EADCCE\" stroke=\"none\" stroke-width=\"2\"/><text name=\"n0h\" x=\"118\" y=\"340\" width=\"474\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#493C89\">4 nguồn</text><text name=\"n0b\" x=\"118\" y=\"475\" width=\"474\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">Đọc phần liên quan</text><rectangle name=\"node1\" x=\"675\" y=\"310\" width=\"530\" height=\"320\" corner-radius=\"16\" fill=\"#E6E0F2\" stroke=\"none\" stroke-width=\"2\"/><text name=\"n1h\" x=\"703\" y=\"340\" width=\"474\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#493C89\">1 nguồn</text><text name=\"n1b\" x=\"703\" y=\"475\" width=\"474\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">Chỉ metadata</text><rectangle name=\"node2\" x=\"1260\" y=\"310\" width=\"530\" height=\"320\" corner-radius=\"16\" fill=\"#EADCCE\" stroke=\"none\" stroke-width=\"2\"/><text name=\"n2h\" x=\"1288\" y=\"340\" width=\"474\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#493C89\">Không nhận</text><text name=\"n2b\" x=\"1288\" y=\"475\" width=\"474\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">CW nguyên tập đã đọc</text><text name=\"body\" x=\"90\" y=\"730\" width=\"1730\" height=\"230\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">S1: Jung 1921, XI §7/26 — bản Đức. S2: Sharp 1991, Consciousness/Ego — thứ cấp. S3: Fleming &amp; Lau 2014 — review đo lường. S4: Francken et al. 2022 — khảo sát. Đã đọc phần liên quan của bốn nguồn, không trọn sách. S5: UPenn, Baynes 1923 — metadata.</text><text name=\"source\" x=\"90\" y=\"986\" width=\"1710\" height=\"38\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635D6A\">DOI: 10.3389/fnhum.2014.00443 · 10.1093/nc/niac011</text><text name=\"footer\" x=\"90\" y=\"1030\" width=\"1710\" height=\"32\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635D6A\">J03 · Editorial Learning · 35/36 · Bản nháp / phản biện đang chờ</text></content>"
+      "markup": "<content font-family=\"Be Vietnam Pro\"><background fill=\"#FAF8F4\" /><text name=\"kicker\" x=\"80\" y=\"48\" width=\"1660\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"27\" font-weight=\"400\" color=\"#493C89\">📚 L · TÀI LIỆU</text><text name=\"title\" x=\"80\" y=\"120\" width=\"1740\" height=\"160\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241F39\">📚 L · Nguồn và mức đọc thực tế</text><path name=\"scope-icon\" x=\"1770\" y=\"44\" width=\"56\" height=\"56\" d=\"M 2 2 H 54 V 54 H 2 Z M 14 14 H 42 V 42 H 14 Z M 23 23 H 33 V 33 H 23 Z\" fill=\"none\" stroke=\"#8874BF\" stroke-width=\"2\" /><rectangle name=\"node0\" x=\"90\" y=\"310\" width=\"530\" height=\"320\" corner-radius=\"16\" fill=\"#EADCCE\" stroke=\"none\" stroke-width=\"2\" /><text name=\"n0h\" x=\"118\" y=\"340\" width=\"474\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#493C89\">4 nguồn</text><text name=\"n0b\" x=\"118\" y=\"475\" width=\"474\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">Đọc phần liên quan</text><rectangle name=\"node1\" x=\"675\" y=\"310\" width=\"530\" height=\"320\" corner-radius=\"16\" fill=\"#E6E0F2\" stroke=\"none\" stroke-width=\"2\" /><text name=\"n1h\" x=\"703\" y=\"340\" width=\"474\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#493C89\">1 nguồn</text><text name=\"n1b\" x=\"703\" y=\"475\" width=\"474\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">Chỉ metadata</text><rectangle name=\"node2\" x=\"1260\" y=\"310\" width=\"530\" height=\"320\" corner-radius=\"16\" fill=\"#EADCCE\" stroke=\"none\" stroke-width=\"2\" /><text name=\"n2h\" x=\"1288\" y=\"340\" width=\"474\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#493C89\">Không nhận</text><text name=\"n2b\" x=\"1288\" y=\"475\" width=\"474\" height=\"120\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">CW nguyên tập đã đọc</text><text name=\"body\" x=\"90\" y=\"730\" width=\"1730\" height=\"180\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241F39\">S1: Jung 1921, XI §7/26 — bản Đức. S2: Sharp 1991, Consciousness/Ego — thứ cấp. S3: Fleming &amp; Lau 2014 — review đo lường. S4: Francken et al. 2022 — khảo sát. Đã đọc phần liên quan của bốn nguồn, không trọn sách. S5: UPenn, Baynes 1923 — metadata.</text><text name=\"source\" x=\"90\" y=\"986\" width=\"1710\" height=\"38\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635D6A\">DOI: 10.3389/fnhum.2014.00443 · 10.1093/nc/niac011</text><text name=\"footer\" x=\"90\" y=\"1030\" width=\"1710\" height=\"32\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635D6A\">J03 · Editorial Learning · 35/36 · Bản nháp / phản biện đang chờ</text><text name=\"bibliography-link-review-fix\" x=\"90\" y=\"930\" width=\"1720\" height=\"48\" font-family=\"Be Vietnam Pro\" font-size=\"24\" color=\"#493C89\" format=\"html\"><p><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/lessons/03-conscious-ego.md\">Thư mục đầy đủ: github.com/vohoailinh90/Multiple-report/pull/44/files</a></p></text></content>"
     },
     {
       "page": 36,
@@ -2300,20 +2300,16 @@
   },
   "exports": {
     "pptx": {
-      "operation": "export",
-      "status": "complete",
-      "committed": true,
-      "url": "https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pptx-r2-f0-w1-all.pptx?Expires=1824394630&KeyName=mpwa&Signature=URaxv7TyotHJh3o8sCys0SNu4Yw",
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/visuals/j03.pptx",
+      "path": "../visuals/j03.pptx",
       "format": "pptx",
-      "warnings": [],
-      "usage": {
-        "class": "deterministic",
-        "metered_credits": 0
-      },
-      "editor_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
-      "suggested_actions": [
-        "Give the user the download link — it is short-lived; re-export if it expires.",
-        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "a7b16a059eded34f971c91829d7783150f59ffe0b2de5f84c5f1273fdca5c81b",
+      "size_bytes": 2722913,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
       ]
     },
     "pdf": {
@@ -2337,6 +2333,24 @@
         "Give the user the download link — it is short-lived; re-export if it expires.",
         "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
       ]
+    },
+    "native_pptx": {
+      "operation": "export",
+      "status": "complete",
+      "committed": true,
+      "url": "https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pptx-r2-f0-w1-all.pptx?Expires=1824394630&KeyName=mpwa&Signature=URaxv7TyotHJh3o8sCys0SNu4Yw",
+      "format": "pptx",
+      "warnings": [],
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "editor_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
+      "suggested_actions": [
+        "Give the user the download link — it is short-lived; re-export if it expires.",
+        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      ],
+      "acceptance_status": "unverified-native-export"
     }
   },
   "production_adjustments": [
@@ -2351,7 +2365,8 @@
     "Only relevant source sections read, not entire Jung/CW volumes; no direct ego–Self experimental validation evaluated.",
     "PPTX download attempted once and blocked: URLError: <urlopen error [Errno 1] Operation not permitted>",
     "No local PPTX or PDF file exists; Claude may retrieve genuine export URL to visuals/j03.pptx. Do not save PDF in repository.",
-    "Emoji fallback/coverage-gap metadata reported; screenshot appearance checked. Exported binaries have not been opened in external software."
+    "Emoji fallback/coverage-gap metadata reported; screenshot appearance checked. Exported binaries have not been opened in external software.",
+    "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
   ],
   "integration_review": {
     "reviewer": null,
@@ -2379,5 +2394,999 @@
     "full_text_relevant_sections": 4,
     "abstract_only": 0,
     "metadata_only": 1
+  },
+  "post_export_review": {
+    "trigger": "User screenshot: native F04 PPTX slides 9-10 had hidden text and serif fallback on iPhone",
+    "native_export_accepted": false,
+    "native_root_cause": "unconfirmed: native binary unavailable; do not infer exact exporter defect from source markup",
+    "compatibility_only": true,
+    "independent_review": {
+      "deck": "J03",
+      "pptx": "/workspace/deck-review/deliverables/j03-compatible.pptx",
+      "pptx_sha256": "a7b16a059eded34f971c91829d7783150f59ffe0b2de5f84c5f1273fdca5c81b",
+      "pdf": "/workspace/deck-review/rendered/j03-compatible.pdf",
+      "pdf_sha256": "a41d922fb91c938f21bc58bbe79e4abff823209487be7ce8d6298b057dfa8bdb",
+      "page_count": 36,
+      "slide_size_emu": [
+        12191999,
+        6858000
+      ],
+      "status": "passed-package-and-libreoffice-render-with-jpeg-recompression",
+      "iphone_quicklook_tested": false,
+      "native_editable_original_verified": false,
+      "all_embedded_jpeg_bytes_exact": true,
+      "all_libo_pdf_decoded_pixels_exact": false,
+      "pdf_recompression_mae_max": 0.7779258600237248,
+      "pdf_recompression_psnr_min_db": 39.49821443900181,
+      "rows": [
+        {
+          "slide": 1,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "9266edc1f64a9c7344fb13e590180720b5bbb377fd942bb4deca8a481d8a706e",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 49,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.7593274021352313,
+          "pdf_decoded_pixel_psnr_db": 40.9083826688844,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 2,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "5f653a94402e52b6d6a5065ce730c5a693d74d3e40cbdba94a7fcab95d204732",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 107,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6975094899169633,
+          "pdf_decoded_pixel_psnr_db": 40.36828725073343,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 3,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "b0933eb7c805e4f489cd7f99ba8587e23eac0b95ce36dace9e95771607af831a",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 80,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.695714709371293,
+          "pdf_decoded_pixel_psnr_db": 40.95043516062965,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 4,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "77ab6fe5ca42c4981bdeee4cd836dda2816ded38b18816d04758b3475b434596",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 69,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6307508896797153,
+          "pdf_decoded_pixel_psnr_db": 41.45048690108172,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 5,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "d69589a56b3a76dfaba54fbf98a4bd7e8e00336b432944d09b916550537f58f7",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 63,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5857212336892053,
+          "pdf_decoded_pixel_psnr_db": 41.46458025032225,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 6,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "2cff9e400cf0af442a7e7409e8de67b6bf234c8c5031994d94a764539f415348",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 69,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6282580071174377,
+          "pdf_decoded_pixel_psnr_db": 41.42594873359292,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 7,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "825c9a697d4f7fe72291f070b142c04a452a3fb1f298f0bcd31af8db8e4ae762",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 63,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5803374851720048,
+          "pdf_decoded_pixel_psnr_db": 41.94626084768938,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 8,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "f650ced617b054a0b9743a0cbb33a756b58d275259b9b1160b074498f0881361",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 60,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5488416370106761,
+          "pdf_decoded_pixel_psnr_db": 42.300225100855656,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 9,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "4701bb12c86a3eb29f1d614b04b01890e1f460cb9a1f9f8ff9384f74137e3b25",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 65,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6403244365361803,
+          "pdf_decoded_pixel_psnr_db": 41.457295137221976,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 10,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "03610ae095c17f3419ba0550c22592c48ebbbc3f0ef5f979ed73b7461bdd48a7",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 68,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.640594306049822,
+          "pdf_decoded_pixel_psnr_db": 41.19441751938651,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 11,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "dbb43959a7bd215041c06e7df16c4357176bb0d4cff89b56fadedb7663089f13",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 66,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6734306049822064,
+          "pdf_decoded_pixel_psnr_db": 40.783955363600626,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 12,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "d53767412f638663e446f8ce7c208a79be0d253ce37de4e084ee105bbb121d22",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 59,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.7076785290628707,
+          "pdf_decoded_pixel_psnr_db": 40.75494059607654,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 13,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "c262d5e6a8d86e716767d59ddb6ab5b5f11ba28470cb7d998eba674dcafd73f3",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 72,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5734780545670225,
+          "pdf_decoded_pixel_psnr_db": 42.0251389944753,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 14,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "c213b43f87101b3ddbbabc804d457a0313c775441cd7c2fcd7a1f53bbba89a26",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 69,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6730266903914591,
+          "pdf_decoded_pixel_psnr_db": 41.04869968231561,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 15,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "dfe3a14803e6e25cd5eba634006320ca7b9ef9ac7ad30d87f6b97dc0e422dd5b",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 64,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6527289442467379,
+          "pdf_decoded_pixel_psnr_db": 41.09294337265665,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 16,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "b18adc691ec98d3a1cae5c42d039cdd260e8b6ae9d2ff6f970443308f3420cd9",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 61,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5861536180308422,
+          "pdf_decoded_pixel_psnr_db": 41.51657151126408,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 17,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "7df3725ed7cff6d364368bab21c37760c93c392cec88c6d3fe66e8d16b5c1c6d",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 61,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5716387900355872,
+          "pdf_decoded_pixel_psnr_db": 41.887066808119016,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 18,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "7a810db0c4ed1fec6f6ddd4edc1dced1991631f10b0b1401ae8eef34fab8b6e5",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 64,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5071174377224199,
+          "pdf_decoded_pixel_psnr_db": 42.1818393700779,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 19,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "4dae585d2fb538e9a6eb037f1fab1402f2ef7972baf13611fb0a5d8993b170f9",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 63,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5762022538552788,
+          "pdf_decoded_pixel_psnr_db": 41.942147710746255,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 20,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "018c7de951cd7d545085b6f2434c9df5b8bb155dab280aecaadc6f3580067680",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 66,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5012342823250296,
+          "pdf_decoded_pixel_psnr_db": 42.250792230037476,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 21,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "7a436919c773433856e637966e95bf965b2e013d210978be5b62e971d9a9a01b",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 61,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6373042704626335,
+          "pdf_decoded_pixel_psnr_db": 41.15826863377411,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 22,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "412f4873b7054be2d25f815cb062869fe2860d81f2f0696b5431103012251e6e",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 72,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.55814709371293,
+          "pdf_decoded_pixel_psnr_db": 41.5582619867787,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 23,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "d5aab152d5860dded829d5355b8125dafc096b1ff6026b6ea08ad26fc08be18c",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 63,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5991494661921708,
+          "pdf_decoded_pixel_psnr_db": 41.754147469780506,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 24,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "62f9bf5e5c67bfac1bf31fe8a88ea7e9c62ff2244af3b520761d3139b3f32679",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 63,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6117461447212337,
+          "pdf_decoded_pixel_psnr_db": 41.40491608222062,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 25,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "8771b5e092ad18c032c77af7623101a435b14bed4852cecd6d882de88621b03f",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 68,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6149893238434164,
+          "pdf_decoded_pixel_psnr_db": 41.195326138174906,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 26,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "697d65013717ee2f30315c918b91b2912eda29d2ed542ad1ad1e64f4343e37f6",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 70,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6657473309608541,
+          "pdf_decoded_pixel_psnr_db": 41.132489076640475,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 27,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "057b55c0298f78295ca91c764b6d0e5f5011ea3c7fe2b541f3ad515dcd47e1cc",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 69,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6352396204033215,
+          "pdf_decoded_pixel_psnr_db": 41.201090017754794,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 28,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "f58ac60937dcecc2cb20c73a5f75381cfc917d2a4404354fa1fe2717b1d2461d",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 65,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6331156583629893,
+          "pdf_decoded_pixel_psnr_db": 41.20427590837835,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 29,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "681087956cb01b77c9d83e66a2d43e5387e8fea628a36f0d52fb77788555a7ea",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 61,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6674068801897983,
+          "pdf_decoded_pixel_psnr_db": 41.03737053690046,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 30,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "6de512c1b4af75dc2e8c6d5485e8141da3252f6bceabbc0fa9c160729d129c63",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 97,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6934015421115065,
+          "pdf_decoded_pixel_psnr_db": 40.24876289573547,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 31,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "4cafda6d62648e0221ad0f14a48332fbf4c94a8e4a274e1c390d5e61b55f3bc9",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 110,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.7325053380782918,
+          "pdf_decoded_pixel_psnr_db": 39.49821443900181,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 32,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "2ab005b4811312b4c4eff044c52be9bcb5084914ecd06ee661620f97563b5c5e",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 99,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5882194543297746,
+          "pdf_decoded_pixel_psnr_db": 41.056012089683385,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 33,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "82b11f790fae1d36f7b9e2ef9dc6d5bd2ebfdac51a0f94044fe707a73b2a4e06",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 73,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.5907241992882563,
+          "pdf_decoded_pixel_psnr_db": 41.34917188987167,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 34,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "3098e488016cc7865f863feab7c98a82535e2382f3d9c75bb86cb7cf1d5092fc",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 71,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.6143309608540926,
+          "pdf_decoded_pixel_psnr_db": 41.43230978956892,
+          "pdf_full_frame_no_crop": true
+        },
+        {
+          "slide": 35,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "9994f44a89536d16e54cb8ed8758e7d5d44a7a7b0596d14a2549fd2de42c11fe",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [
+            "https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/lessons/03-conscious-ego.md"
+          ],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 91,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.7447479240806643,
+          "pdf_decoded_pixel_psnr_db": 39.800222604431426,
+          "pdf_full_frame_no_crop": true,
+          "pdf_links": [
+            {
+              "kind": 2,
+              "xref": 181,
+              "from": [
+                -0.007000000216066837,
+                0.0,
+                959.9879760742188,
+                539.9719848632812
+              ],
+              "uri": "https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/lessons/03-conscious-ego.md",
+              "id": ""
+            }
+          ]
+        },
+        {
+          "slide": 36,
+          "one_picture": true,
+          "no_native_text_or_card_shapes": true,
+          "geometry": [
+            0,
+            0,
+            12191999,
+            6858000
+          ],
+          "no_crop": true,
+          "embedded_jpeg_sha256": "efddd4662820590ae7bc2cbb17478abcfb176805be2a8e043d6f741a2b346c05",
+          "exact_reviewed_jpeg_match": true,
+          "hyperlinks": [],
+          "pdf_page_size_points": [
+            0.0,
+            0.0,
+            960.0094604492188,
+            540.0
+          ],
+          "pdf_single_image": true,
+          "pdf_decoded_pixel_max_difference": 48,
+          "pdf_decoded_pixel_mean_absolute_difference": 0.7779258600237248,
+          "pdf_decoded_pixel_psnr_db": 40.819932512833155,
+          "pdf_full_frame_no_crop": true
+        }
+      ]
+    },
+    "binary_sha256": "a7b16a059eded34f971c91829d7783150f59ffe0b2de5f84c5f1273fdca5c81b",
+    "all_36_reviewed_source_images": true,
+    "all_36_binary_images_match_reviewed_source_bytes": true,
+    "external_viewer": "LibreOfficeDev 26.8.0.0.alpha0",
+    "external_viewer_pages": 36,
+    "iphone_status": "not-tested",
+    "microsoft_powerpoint_status": "not-tested",
+    "codex_first_round": "https://github.com/vohoailinh90/Multiple-report/pull/44",
+    "codex_current_head_status": "pending-request-after-publication",
+    "pending": [
+      "Original editable native-export issue is not accepted as repaired.",
+      "iPhone/Microsoft PowerPoint acceptance remains open."
+    ],
+    "disclosure": "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested.",
+    "codex_content_fix": "Visible full bibliography link on slide35; clickable picture link preserved in PPTX and LibreOffice PDF."
   }
 }

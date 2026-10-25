@@ -4,7 +4,7 @@ lesson: J03
 status: chờ phản biện
 claimed_by: codex_batch4_j03
 claimed_at: 2026-10-24T15:31:00Z
-heartbeat_at: 2026-10-24T16:19:11Z
+heartbeat_at: 2026-10-25T01:02:22Z
 canvas_url: https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent
 branch: psychology/lesson-j03
 base: psychology/batch-02-three-decks
@@ -40,3 +40,4 @@ ID — status drafted · review pending · visual; nhánh/sha đã publish; file
 - 2026-10-24T15:53:46Z — lesson: J03 — bài A–L, nghiên cứu và 36 slide; chuyển sản xuất Moda
 
 - 2026-10-24T16:19:11Z — decks: J03 — 36 trang đã kiểm, PPTX/PDF đã xuất; tải PPTX bị Operation not permitted, giữ URL thật
+\n- 2026-10-25T01:02:22Z — Chủ repo báo lỗi PPTX. Đã nhận phản biện Codex và agent độc lập, kiểm 36 ảnh cuối và binary PPTX tương thích bằng LibreOffice; bản native chưa nghiệm thu/iPhone chưa thử; giữ chờ phản biện.\n

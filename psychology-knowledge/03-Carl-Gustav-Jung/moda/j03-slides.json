@@ -780,8 +780,8 @@
       ],
       "layout": "references",
       "source": "DOI: 10.3389/fnhum.2014.00443 · 10.1093/nc/niac011",
-      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
-      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán. Thư mục đầy đủ: https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/lessons/03-conscious-ego.md",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo. Liên kết thư mục hiển thị y930; bản PPTX tương thích có hyperlink toàn trang35 tới mục nguồn của bài."
     },
     {
       "title": "Biết mình có giới hạn\nlà điểm bắt đầu một câu hỏi tốt",
@@ -811,20 +811,16 @@
   "canvas_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
   "exports": {
     "pptx": {
-      "operation": "export",
-      "status": "complete",
-      "committed": true,
-      "url": "https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pptx-r2-f0-w1-all.pptx?Expires=1824394630&KeyName=mpwa&Signature=URaxv7TyotHJh3o8sCys0SNu4Yw",
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/visuals/j03.pptx",
+      "path": "../visuals/j03.pptx",
       "format": "pptx",
-      "warnings": [],
-      "usage": {
-        "class": "deterministic",
-        "metered_credits": 0
-      },
-      "editor_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
-      "suggested_actions": [
-        "Give the user the download link — it is short-lived; re-export if it expires.",
-        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "a7b16a059eded34f971c91829d7783150f59ffe0b2de5f84c5f1273fdca5c81b",
+      "size_bytes": 2722913,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
       ]
     },
     "pdf": {
@@ -850,11 +846,12 @@
       ]
     }
   },
-  "presentation_status": "exported",
+  "presentation_status": "compatibility-exported-native-unverified",
   "production_notes": [
     "All36 pages reviewed once in12 screenshot groups; no corrective edit required.",
     "Export URLs are genuine; PPTX download attempted once and blocked: URLError: <urlopen error [Errno 1] Operation not permitted>",
     "PDF warning verbatim: 1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.",
-    "Academic review pending; source reading scope in research. No local binaries saved."
+    "Academic review pending; source reading scope in research. No local binaries saved.",
+    "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
   ]
 }

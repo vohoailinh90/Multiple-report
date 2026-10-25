@@ -1,0 +1,857 @@
+{
+  "title": "J03 · Conscious Ego",
+  "subtitle": "Trung tâm điểm nhìn không phải toàn bộ con người",
+  "status": "drafted",
+  "review_status": "pending",
+  "visual_status": "exported",
+  "design_system": {
+    "reference": "F01 v4",
+    "page_size": [
+      1920,
+      1080
+    ],
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "accent": "#493C89",
+    "paper": "#FAF8F4",
+    "dark": "#241F39",
+    "light": "#E6E0F2",
+    "skip_brand_kit": true
+  },
+  "source_lesson": "../lessons/03-conscious-ego.md",
+  "slides": [
+    {
+      "title": "Trung tâm điểm nhìn\nkhông phải toàn bộ con người",
+      "section": "J03 · CONSCIOUS EGO",
+      "body": "Khi nói “tôi biết mình”, ta đang có một lời kể từ điểm nhìn hiện tại. Bài này học cách đọc ego trong Jung, phân biệt nó với toàn thể và kiểm những điều lời kể chưa cho phép kết luận. Ta sẽ dùng ba ví dụ, một ca giả định và năm câu hỏi để tập giữ khoảng cách giữa trải nghiệm và suy luận.",
+      "nodes": [
+        [
+          "Ego",
+          "Điểm quy chiếu ý thức"
+        ],
+        [
+          "Toàn thể",
+          "Khái niệm rộng hơn điểm nhìn"
+        ]
+      ],
+      "layout": "cover",
+      "source": "J03 · phân tích sư phạm",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "🎯 A · Đọc, phân biệt, kiểm tra",
+      "section": "A · MỤC TIÊU",
+      "body": "Sau bài này, bạn cần giải thích nghĩa ego theo Jung, phân biệt ego với Self và tự tin, rồi phân tích một lời kể bằng dữ kiện đối chiếu. Mục tiêu sau cùng là nêu được điều gì có thể khiến mình sửa cách hiểu, thay vì dùng một lý thuyết để giải thích mọi kết quả.",
+      "nodes": [
+        [
+          "Đọc đúng",
+          "Nguồn và thuật ngữ"
+        ],
+        [
+          "Phân biệt",
+          "Điểm nhìn và toàn thể"
+        ],
+        [
+          "Kiểm tra",
+          "Báo cáo và dữ kiện"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "J03 · phân tích sư phạm",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "🕰️ B · Bản gốc và bản dịch khác nhau",
+      "section": "B · LỊCH SỬ",
+      "body": "Điểm tựa là Psychologische Typen bản Đức năm 1921, chương XI mục 7 và 26. Hồ sơ thư viện xác nhận Baynes dịch bản Anh năm 1923, nhưng bài này chỉ kiểm metadata của bản ấy. Không chuyển số trang bản Đức thành số đoạn CW6 hoặc nhận mình đã đọc Collected Works nguyên tập.",
+      "nodes": [
+        [
+          "1921",
+          "Bản Đức đã đọc đoạn"
+        ],
+        [
+          "1923",
+          "Baynes: metadata"
+        ],
+        [
+          "CW6",
+          "Không nhận đã đọc"
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] XI §7/26 · [S5] hồ sơ thư viện",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Nguồn khái niệm không phải thí nghiệm",
+      "section": "B · LOẠI NGUỒN",
+      "body": "Lời nói đầu đặt tác phẩm trong kinh nghiệm thực hành và suy tư của Jung. Điều đó giúp hiểu vì sao ông cần một hệ thuật ngữ. Nó không tự thay thế thiết kế kiểm soát hoặc phép đo. Khi đọc, hãy hỏi riêng: văn bản nói gì, và có dữ liệu nào kiểm được lời giải thích ấy?",
+      "nodes": [
+        [
+          "Văn bản",
+          "Kiểm nghĩa và bối cảnh"
+        ],
+        [
+          "Thí nghiệm",
+          "Kiểm dự đoán phân biệt"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1] Preface · phân biệt phương pháp của bài",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "🧠 C · Ego: trung tâm trường ý thức",
+      "section": "C · KHÁI NIỆM",
+      "body": "Trong định nghĩa năm 1921, Jung gọi ego một tập hợp ý niệm có quan hệ với cảm giác liên tục và đồng nhất của chủ thể. Nội dung ý thức được đặt trong quan hệ với ego. Trung tâm ở đây chỉ vai trò điểm nhìn, không một vị trí giải phẫu hoặc người điều khiển tuyệt đối.",
+      "nodes": [
+        [
+          "Nội dung",
+          "Điều được nhận biết"
+        ],
+        [
+          "Ego",
+          "Điểm quy chiếu"
+        ],
+        [
+          "Giới hạn",
+          "Không vùng não"
+        ]
+      ],
+      "layout": "lead",
+      "source": "[S1] XI §26, trang 629–630",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Một từ complex không tự là bệnh lý",
+      "section": "C · THUẬT NGỮ",
+      "body": "Ego-complex nói tới nhiều nội dung liên hệ với nhau trong cách dùng của Jung. Không được lấy chữ complex để biến một người thành ca bệnh. Trong bài, hãy dùng thuật ngữ để đặt câu hỏi về trải nghiệm; các khái niệm complexes sẽ được nghiên cứu riêng, thay vì suy chúng từ một hành vi.",
+      "nodes": [
+        [
+          "Tập nội dung",
+          "Nghĩa cấu trúc"
+        ],
+        [
+          "Nhãn bệnh",
+          "Không được tự gán"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1] XI §26 · [S2] Ego",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Ý thức và psyche khác phạm vi",
+      "section": "C · PHẠM VI",
+      "body": "Jung phân biệt các nội dung đang có quan hệ được nhận biết với ego và đời sống tâm lý rộng hơn. Đây là phân biệt trong hệ thống khái niệm. Một sơ đồ lớn–nhỏ chỉ minh họa phạm vi, không cho biết ý thức chiếm bao nhiêu phần trăm hoặc vô thức có kích thước đo được.",
+      "nodes": [
+        [
+          "Ý thức",
+          "Nội dung đang được nhận biết"
+        ],
+        [
+          "Psyche",
+          "Phạm vi rộng hơn"
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S1] XI §7",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Ego nằm trong toàn thể giả định",
+      "section": "C · EGO / SELF",
+      "body": "Jung phân biệt ego như chủ thể ý thức với Self như toàn thể psyche kể cả phần vô thức. J03 chỉ định vị quan hệ này; các nghĩa và tranh luận của Self để J10. Một đường bao trong hình không có nghĩa ta đã quan sát toàn bộ con người như một vật thể.",
+      "nodes": [
+        [
+          "Ego",
+          "Điểm nhìn ý thức"
+        ],
+        [
+          "Self",
+          "Toàn thể trong mô hình"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S1] XI §26 · J10 trong curriculum",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Liên tục không bắt buộc bất biến",
+      "section": "C · ĐỒNG NHẤT",
+      "body": "Một người có thể sửa điều mình tin về một sự kiện mà vẫn nhận trách nhiệm với hành động trước đó. Ví dụ này giúp tách cảm giác là cùng một chủ thể khỏi ý tưởng mọi tự mô tả đều phải cố định. Đây là minh họa sư phạm, không một phép đo bản sắc hoặc kết quả phát triển nhân cách.",
+      "nodes": [
+        [
+          "Tiếp nối",
+          "Tôi nhận hành động là của mình"
+        ],
+        [
+          "Cập nhật",
+          "Tôi có thể đã nhớ sai"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "[S1] định nghĩa nền · ví dụ tác giả",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Ego không phải một thang tự tin",
+      "section": "C · PHÂN BIỆT",
+      "body": "Mức chắc chắn về một câu trả lời là câu hỏi khác với điểm quy chiếu ý thức trong Jung. Tự trọng, tự tin, kiêu ngạo và ego Freud cũng không tự là tên thay thế cho ego Jung. Cần nói rõ mình đang dùng nghĩa nào trước khi so sánh hoặc thiết kế phép đo.",
+      "nodes": [
+        [
+          "Ego Jung",
+          "Vai trò điểm nhìn"
+        ],
+        [
+          "Confidence",
+          "Mức chắc nhiệm vụ"
+        ],
+        [
+          "Tự trọng",
+          "Đánh giá giá trị bản thân"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1] · [S3] · phân biệt sư phạm",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Báo cáo chưa nói hết nguyên nhân",
+      "section": "C · RANH GIỚI SUY LUẬN",
+      "body": "“Tôi thấy mình bình tĩnh” cho biết một lời báo cáo trải nghiệm. Nó chưa cho biết đầy đủ hành vi, cơ thể hoặc nguyên nhân. Ngược lại, nói nhanh cũng chưa chứng minh che giấu giận dữ. Một cách đọc cẩn thận giữ được cả lời kể lẫn khả năng còn thiếu thông tin.",
+      "nodes": [
+        [
+          "Trải nghiệm",
+          "Tôi đang cảm thấy gì?"
+        ],
+        [
+          "Suy luận",
+          "Tôi giải thích vì sao?"
+        ],
+        [
+          "Đối chiếu",
+          "Có dữ kiện nào khác?"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "J03 · ví dụ giả định",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "⚙️ D · Từ nhận xét tới cách đáp ứng",
+      "section": "D · CHUỖI MINH HỌA",
+      "body": "Chuỗi này tái dựng cho việc học từ định nghĩa, không phải cơ chế Jung đã kiểm nghiệm. Bắt đầu bằng tình huống, làm rõ nội dung được nhận biết, rồi xem câu chuyện về tôi và đáp ứng. Mũi tên chỉ thứ tự phân tích, không phải bằng chứng rằng một bước gây ra bước kế tiếp.",
+      "nodes": [
+        [
+          "Tình huống",
+          "Đồng nghiệp góp ý"
+        ],
+        [
+          "Nhận biết",
+          "Ý nghĩ và cảm giác"
+        ],
+        [
+          "Đáp ứng",
+          "Hỏi lại hoặc sửa"
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1] nền khái niệm · chuỗi tác giả",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Bước đầu: tách câu nói khỏi động cơ",
+      "section": "D · BƯỚC 1–2",
+      "body": "Một người góp ý bản thảo. Trước hết ghi lại câu họ nói và điều người nghe báo cáo nhận biết. Không thay lời kể bằng một động cơ mình đoán. Nếu thông tin chưa được chia sẻ, ta chưa biết đó là không nhận ra, không nhớ, chưa có từ hay không muốn nói.",
+      "nodes": [
+        [
+          "Đã có",
+          "Câu nói, bối cảnh"
+        ],
+        [
+          "Chưa có",
+          "Một nguyên nhân duy nhất"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "J03 · chuỗi sư phạm",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Bước tiếp: xem lại câu chuyện về tôi",
+      "section": "D · BƯỚC 3–5",
+      "body": "“Tôi luôn cẩn thận” có thể là tự mô tả người nghe đem vào cuộc trao đổi. Khi được chỉ một lỗi cụ thể, họ có thể cập nhật nó. Không cần gọi cập nhật ấy là thông điệp từ Self. Điều cần quan sát là thông tin mới nào được xem xét và đáp ứng nào thực sự thay đổi.",
+      "nodes": [
+        [
+          "Tự mô tả",
+          "Tôi luôn cẩn thận"
+        ],
+        [
+          "Dữ kiện mới",
+          "Một lỗi được chỉ rõ"
+        ],
+        [
+          "Cập nhật",
+          "Sửa đánh giá"
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "J03 · chuỗi sư phạm",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Một khoảng trống chưa xác định cơ chế",
+      "section": "D · GIẢ THUYẾT CẠNH TRANH",
+      "body": "Không thuật lại được một nội dung không cho phép tự động điền dồn nén, complex hay che giấu. Có thể còn nhiều giải thích đời thường cần kiểm. Nếu diễn giải nào cũng được coi đúng bất kể câu trả lời, ta đã mất khả năng học từ thông tin mới.",
+      "nodes": [
+        [
+          "Chú ý",
+          "Có tập trung không?"
+        ],
+        [
+          "Trí nhớ",
+          "Có nhớ cùng sự kiện?"
+        ],
+        [
+          "Chia sẻ",
+          "Có muốn kể không?"
+        ]
+      ],
+      "layout": "decision",
+      "source": "J03 · giới hạn suy luận",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "💬 E · Tiếng quạt và câu hỏi bất ngờ",
+      "section": "E · VÍ DỤ 1",
+      "body": "Minh chỉ nhận ra tiếng quạt khi bạn hỏi. Hãy phân biệt nội dung được thuật lại trước và sau câu hỏi. Tình huống không cho phép kết luận trước đó âm thanh không được xử lý theo bất kỳ cách nào. Giải thích bằng phân bổ chú ý đủ để giữ mở câu hỏi, không cần suy complex.",
+      "nodes": [
+        [
+          "Tình huống",
+          "Minh đang đọc"
+        ],
+        [
+          "Câu hỏi",
+          "Bạn có nghe quạt?"
+        ],
+        [
+          "Đáp ứng",
+          "Bây giờ tôi nhận ra"
+        ]
+      ],
+      "layout": "example",
+      "source": "J03 · ví dụ giả định E1",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Kiểm ví dụ 1 bằng câu hỏi mở",
+      "section": "E · KHÔNG GỢI ĐÁP ÁN",
+      "body": "Có thể hỏi Minh mô tả trải nghiệm và thay đổi điều kiện đọc, nhưng lời kể sau sự kiện không khôi phục hoàn hảo từng khoảnh khắc trước đó. Đừng hỏi theo kiểu buộc người trả lời xác nhận lý thuyết. Giá trị của ví dụ là làm rõ loại thông tin cần có.",
+      "nodes": [
+        [
+          "Nên hỏi",
+          "Bạn nhận ra điều gì?"
+        ],
+        [
+          "Tránh hỏi",
+          "Bạn đang dồn nén gì?"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "J03 · phân tích E1",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Tự tin về ký ức cuộc họp",
+      "section": "E · VÍ DỤ 2",
+      "body": "Hà chắc mình gửi tài liệu trước họp, còn log cho thấy gửi sau. Sau khi kiểm log đúng sự kiện và đáng tin, ta có chênh lệch giữa báo cáo và dữ kiện. Chưa thể kết luận Hà nói dối, ego lớn hay có một đặc điểm siêu nhận thức ổn định.",
+      "nodes": [
+        [
+          "Báo cáo",
+          "Tôi gửi trước họp"
+        ],
+        [
+          "Log",
+          "Gửi sau họp"
+        ],
+        [
+          "Cần kiểm",
+          "Cùng lần gửi?"
+        ]
+      ],
+      "layout": "example",
+      "source": "J03 · ví dụ E2 · [S3] nền đo lường",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Một lần sai không thành đặc điểm",
+      "section": "E · KIỂM VÍ DỤ 2",
+      "body": "Giải thích thay thế là nhầm hai lần gửi hoặc nhớ sai thứ tự. Nếu muốn đánh giá quan hệ tự tin–độ chính xác, cần nhiều lượt theo thiết kế thích hợp. Trong cuộc họp, chỉ cần sửa dữ kiện và quy trình; không biến một sai sót thành nhãn về toàn bộ con người.",
+      "nodes": [
+        [
+          "Một lượt",
+          "Dữ kiện tình huống"
+        ],
+        [
+          "Nhiều lượt",
+          "Thiết kế đo riêng"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "J03 · E2 · [S3]",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Vai nghề nghiệp và tranh luận ở nhà",
+      "section": "E · VÍ DỤ 3",
+      "body": "Dũng tự nói mình luôn lý trí, nhưng gia đình thấy anh cắt lời khi bàn tiền bạc. Câu tự mô tả và phản hồi là hai điểm nhìn cần làm rõ. Đừng dùng persona hoặc shadow làm lời giải sẵn. Những khái niệm ấy thuộc bài sau và cần nguồn riêng.",
+      "nodes": [
+        [
+          "Điểm nhìn 1",
+          "Tôi luôn lý trí"
+        ],
+        [
+          "Điểm nhìn 2",
+          "Anh hay cắt lời"
+        ]
+      ],
+      "layout": "example",
+      "source": "J03 · ví dụ giả định E3",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Tìm cả dữ kiện không phù hợp",
+      "section": "E · KIỂM VÍ DỤ 3",
+      "body": "Hỏi thời điểm, câu nói và các trường hợp nhận xét không đúng. Thiếu ngủ, chủ đề nhạy cảm, khác biệt quy ước hội thoại hoặc phản hồi thiên lệch đều là khả năng. Nếu chỉ thu những gì khớp câu chuyện ưa thích, ta không còn kiểm tra cách hiểu của mình.",
+      "nodes": [
+        [
+          "Phù hợp",
+          "Khi nào có cắt lời?"
+        ],
+        [
+          "Không phù hợp",
+          "Khi nào lắng nghe tốt?"
+        ],
+        [
+          "Bối cảnh",
+          "Chủ đề và điều kiện"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "J03 · phân tích E3",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "📋 F · Lan và phản hồi của nhóm",
+      "section": "F · CA GIẢ ĐỊNH",
+      "body": "Lan tự mô tả mình lắng nghe tốt; hai thành viên nói họ ít dám nêu ý kiến trong họp. Đây là ca tác giả soạn, không hồ sơ lâm sàng. Dữ kiện hiện tại cho thấy chênh lệch cần tìm hiểu, chưa chứng minh ai nói dối hoặc một động cơ vô thức.",
+      "nodes": [
+        [
+          "Lan",
+          "Tôi lắng nghe tốt"
+        ],
+        [
+          "Hai thành viên",
+          "Chúng tôi ít dám nói"
+        ],
+        [
+          "Chưa biết",
+          "Bối cảnh toàn nhóm"
+        ]
+      ],
+      "layout": "lead",
+      "source": "J03 · case F: giả định",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Ca Lan: ba bước làm rõ",
+      "section": "F · BƯỚC 1–3",
+      "body": "Tách lời Lan với phản hồi của thành viên; hỏi Lan nhớ gì khi có ý kiến trái chiều; rồi chỉ ra chênh lệch cụ thể. Ego được dùng để nhắc giới hạn điểm nhìn, không chấm điểm sức mạnh. Đừng gợi câu trả lời về nỗi sợ quyền lực trước khi có dữ kiện.",
+      "nodes": [
+        [
+          "1 · Tách",
+          "Ai báo cáo điều gì"
+        ],
+        [
+          "2 · Hỏi",
+          "Nội dung Lan nhớ"
+        ],
+        [
+          "3 · So",
+          "Chênh lệch cụ thể"
+        ]
+      ],
+      "layout": "flow",
+      "source": "J03 · case F",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Ca Lan: đặt cách hiểu cạnh nhau",
+      "section": "F · BƯỚC 4–5",
+      "body": "Lan có thể cắt lời, lịch quá gấp, thành viên mới chưa quen tranh luận, hoặc hai phản hồi chưa đại diện. Trước quan sát, nói rõ dữ kiện nào khiến ta rút giả thuyết “Lan luôn chặn ý kiến”. Nếu không có kết quả nào làm nó sai, giả thuyết chưa có ích để kiểm.",
+      "nodes": [
+        [
+          "Hành vi",
+          "Có cắt lời?"
+        ],
+        [
+          "Điều kiện",
+          "Có thiếu thời gian?"
+        ],
+        [
+          "Chọn mẫu",
+          "Hai người đại diện?"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "J03 · case F",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Ca Lan: quan sát rồi cập nhật",
+      "section": "F · BƯỚC 6–8",
+      "body": "Với đồng thuận, quan sát lượt cắt lời, thời gian chờ và cách hỏi lại ở vài cuộc họp. Lan thử dành thời gian chờ. Nếu phản hồi tốt hơn, chưa biết phần nào do kỹ năng, lịch hay kỳ vọng. Đây là cải thiện quy trình giao tiếp, không thử nghiệm ego–Self.",
+      "nodes": [
+        [
+          "Đồng thuận",
+          "Không ghi bí mật"
+        ],
+        [
+          "Tiêu chí",
+          "Hành vi cụ thể"
+        ],
+        [
+          "Cập nhật",
+          "Giữ nhiều giải thích"
+        ]
+      ],
+      "layout": "decision",
+      "source": "J03 · case F",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "🔬 G · Hỗ trợ một câu hỏi, không toàn mô hình",
+      "section": "G · BẰNG CHỨNG",
+      "body": "Review của Fleming và Lau giúp tách mức chắc chắn, khả năng nhận ra câu đúng/sai của mình và hiệu suất khi xét năng lực nhiệm vụ. Điều này hỗ trợ cách đặt câu hỏi đo lường. Nó không biến confidence thành ego Jung hoặc xác nhận Self bằng một chỉ số.",
+      "nodes": [
+        [
+          "Bias",
+          "Mức tự tin"
+        ],
+        [
+          "Sensitivity",
+          "Phân biệt đúng/sai"
+        ],
+        [
+          "Efficiency",
+          "Xét mức làm nhiệm vụ"
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S3] Abstract · Introduction · Conclusions",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Đừng đồng nhất phép đo với ý thức",
+      "section": "G · GIỚI HẠN ĐO",
+      "body": "Fleming và Lau cảnh báo không đồng nhất trực tiếp độ nhạy siêu nhận thức với ý thức. Khi đối chiếu các hệ khái niệm, cần định nghĩa biến, nhiệm vụ và dự đoán phân biệt được các giải thích. Chỉ có cùng từ “tôi” không đủ tạo cầu nối khoa học.",
+      "nodes": [
+        [
+          "Khái niệm",
+          "Định nghĩa rõ"
+        ],
+        [
+          "Phép đo",
+          "Nhiệm vụ phù hợp"
+        ],
+        [
+          "Dự đoán",
+          "Có thể phân biệt"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S3] Implications… conscious awareness · Conclusions",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Khảo sát không quyết định chân lý",
+      "section": "G · THIẾT KẾ KHÁC",
+      "body": "Francken và cộng sự khảo sát 166 nhà nghiên cứu ở hai hội nghị ASSC 2018–2019 và ghi nhận bất đồng về ý thức. Đây là quan điểm một mẫu tại thời điểm xác định. Nó không kiểm trực tiếp Jung, cũng không nói mọi lý thuyết có giá trị như nhau.",
+      "nodes": [
+        [
+          "Thiết kế",
+          "Khảo sát hội nghị"
+        ],
+        [
+          "Kết quả",
+          "Quan điểm còn khác"
+        ],
+        [
+          "Không suy",
+          "Jung do đó đúng"
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S4] Abstract · Methods",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Chưa có phép kiểm trực tiếp trong bộ nguồn",
+      "section": "G · ĐÁNH GIÁ CLAIM",
+      "body": "Nguồn gốc giúp xác minh nghĩa Jung dùng; nghiên cứu đo lường giúp kiểm câu hỏi tự báo cáo; khảo sát giúp thấy tranh luận hiện đại. Không nguồn nào trong bộ này định vị ego Jung trong não hoặc chứng minh học ego/Self cải thiện sức khỏe. Những claim ấy chưa được đánh giá.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Locator đã kiểm"
+        ],
+        [
+          "Cơ chế",
+          "Chưa đủ"
+        ],
+        [
+          "Hiệu quả",
+          "Chưa đánh giá"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S1]–[S4] · giới hạn bộ nguồn",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "🧭 H · Ba cột để đọc lời kể",
+      "section": "H · ỨNG DỤNG CÓ ĐIỀU KIỆN",
+      "body": "Trong học tập và đối thoại, thử tách điều được trải nghiệm, điều mình suy ra và dữ kiện có thể đối chiếu. Đây là gợi ý sư phạm, chưa phải kỹ thuật Jung được thử nghiệm. Giữ quyền không tiết lộ riêng tư và không truy tìm ký ức bị cho là che giấu.",
+      "nodes": [
+        [
+          "Trải nghiệm",
+          "Tôi nhận thấy gì?"
+        ],
+        [
+          "Suy ra",
+          "Tôi giải thích gì?"
+        ],
+        [
+          "Đối chiếu",
+          "Cần biết thêm gì?"
+        ]
+      ],
+      "layout": "roadmap",
+      "source": "J03 · H: gợi ý của người soạn",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "🗺️ I · Trung tâm và phạm vi",
+      "section": "I · SƠ ĐỒ KHÁI NIỆM",
+      "body": "Hình đặt ego làm điểm quy chiếu trong nội dung ý thức và nhắc tới đời sống tâm lý rộng hơn theo Jung. Kích thước chỉ minh họa, không tỷ lệ đo hay vùng não. Đường bao biểu thị phạm vi định nghĩa; không có mũi tên nhân quả giữa ego và Self.",
+      "nodes": [
+        [
+          "Psyche / Self",
+          "Toàn thể trong mô hình"
+        ],
+        [
+          "Nội dung ý thức",
+          "Điều đang được nhận biết"
+        ],
+        [
+          "Ego",
+          "Điểm quy chiếu"
+        ]
+      ],
+      "layout": "scope",
+      "source": "[S1] XI §7/26",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "💡 J · Tám điều cần mang theo",
+      "section": "J · GHI NHỚ",
+      "body": "Ego là điểm nhìn, trung tâm không là toàn thể, và liên tục không đòi bất biến. Hãy tách lời kể khỏi nguyên nhân, một lượt sai khỏi đặc điểm, phép đo tự tin khỏi cấu trúc Jung. Bài chưa chứng minh cơ chế hoặc lợi ích sức khỏe. Cách hiểu phải chừa chỗ cho sửa đổi.",
+      "nodes": [
+        [
+          "Đọc đúng",
+          "Thuật ngữ và phạm vi"
+        ],
+        [
+          "Giữ mở",
+          "Nhiều giải thích"
+        ],
+        [
+          "Sửa được",
+          "Dữ kiện mới có trọng lượng"
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "J03 · J",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "❓ K · Năm câu hỏi kiểm hiểu",
+      "section": "K · CÂU HỎI",
+      "body": "1. Trung tâm có phải toàn thể? 2. Hà tự tin sai cho biết gì? 3. Lan không đồng ý có xác nhận chống cự? 4. Confidence có kiểm ego Jung không? 5. Bất đồng khoa học có chứng minh Jung đúng? Trả lời từng câu bằng điều đã có và điều chưa đủ dữ kiện.",
+      "nodes": [
+        [
+          "Khái niệm",
+          "Câu 1"
+        ],
+        [
+          "Vận dụng",
+          "Câu 2–3"
+        ],
+        [
+          "Bằng chứng",
+          "Câu 4–5"
+        ]
+      ],
+      "layout": "question",
+      "source": "J03 · K: đúng 5 câu",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "Đáp án: giữ kết luận đúng phạm vi",
+      "section": "K · GIẢI THÍCH",
+      "body": "1. Không: điểm nhìn nằm trong phạm vi rộng hơn. 2. Hà có báo cáo không khớp log đáng tin, chưa có nhãn đặc điểm. 3. Không đồng ý cần làm rõ, không làm diễn giải luôn đúng. 4. Phép đo cần cầu nối lý thuyết. 5. Khảo sát quan điểm không quyết định cấu trúc Jung đúng.",
+      "nodes": [
+        [
+          "Lỗi thường gặp",
+          "Đổi loại dữ kiện"
+        ],
+        [
+          "Cách sửa",
+          "Nêu phép kiểm phù hợp"
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1] · [S3] · [S4] · case F",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    },
+    {
+      "title": "📚 L · Nguồn và mức đọc thực tế",
+      "section": "L · TÀI LIỆU",
+      "body": "S1: Jung 1921, XI §7/26 — bản Đức. S2: Sharp 1991, Consciousness/Ego — thứ cấp. S3: Fleming & Lau 2014 — review đo lường. S4: Francken et al. 2022 — khảo sát. Đã đọc phần liên quan của bốn nguồn, không trọn sách. S5: UPenn, Baynes 1923 — metadata.",
+      "nodes": [
+        [
+          "4 nguồn",
+          "Đọc phần liên quan"
+        ],
+        [
+          "1 nguồn",
+          "Chỉ metadata"
+        ],
+        [
+          "Không nhận",
+          "CW nguyên tập đã đọc"
+        ]
+      ],
+      "layout": "references",
+      "source": "DOI: 10.3389/fnhum.2014.00443 · 10.1093/nc/niac011",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán. Thư mục đầy đủ: https://github.com/vohoailinh90/Multiple-report/blob/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/lessons/03-conscious-ego.md",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo. Liên kết thư mục hiển thị y930; bản PPTX tương thích có hyperlink toàn trang35 tới mục nguồn của bài."
+    },
+    {
+      "title": "Biết mình có giới hạn\nlà điểm bắt đầu một câu hỏi tốt",
+      "section": "J03 · KẾT",
+      "body": "Đọc ego như điểm nhìn giúp hỏi điều mình đang nhận biết và điều còn cần đối chiếu. Nó không cấp quyền gán nhãn cho người khác. Đọc tiếp J04 về personal unconscious; Self sẽ được nghiên cứu riêng ở J10. Cả hai đang là mục trong curriculum, không bài đã xuất bản trên nhánh này.",
+      "nodes": [
+        [
+          "Đọc tiếp",
+          "J04 trong curriculum"
+        ],
+        [
+          "Để sau",
+          "J10 · Self"
+        ],
+        [
+          "Giữ kỷ luật",
+          "Không suy quá dữ kiện"
+        ]
+      ],
+      "layout": "closing",
+      "source": "J03 · liên kết curriculum",
+      "note": "Ví dụ và chuỗi phân tích do người soạn tạo; không dùng để chẩn đoán.",
+      "visual_brief": "Hệ Indigo, giấy ấm, typography editorial; sơ đồ chỉ quan hệ khái niệm, không giải phẫu hoặc tỷ lệ đo."
+    }
+  ],
+  "canvas_ref": "cvs_7Q722EAYX88YC9PTVK219B7Z1W",
+  "canvas_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
+  "exports": {
+    "pptx": {
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-j03/psychology-knowledge/03-Carl-Gustav-Jung/visuals/j03.pptx",
+      "path": "../visuals/j03.pptx",
+      "format": "pptx",
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "a7b16a059eded34f971c91829d7783150f59ffe0b2de5f84c5f1273fdca5c81b",
+      "size_bytes": 2722913,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+      ]
+    },
+    "pdf": {
+      "operation": "export",
+      "status": "complete",
+      "committed": true,
+      "url": "https://assets-cdn.moda.app/mcp-exports/f73884e5-7ba8-4798-9b6b-731052b3fc3c/vcrdt-f5064381d5d04cc6dd7cb0d513566ac5/pdf-r3-f0-w1-all.pdf?Expires=1824394652&KeyName=mpwa&Signature=jFUEcuqmHW7OdyNiqhAbi_2F0rs",
+      "format": "pdf",
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ],
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "editor_url": "https://moda.app/canvas/f73884e5-7ba8-4798-9b6b-731052b3fc3c?source=agent",
+      "suggested_actions": [
+        "Give the user the download link — it is short-lived; re-export if it expires.",
+        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      ]
+    }
+  },
+  "presentation_status": "compatibility-exported-native-unverified",
+  "production_notes": [
+    "All36 pages reviewed once in12 screenshot groups; no corrective edit required.",
+    "Export URLs are genuine; PPTX download attempted once and blocked: URLError: <urlopen error [Errno 1] Operation not permitted>",
+    "PDF warning verbatim: 1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable.",
+    "Academic review pending; source reading scope in research. No local binaries saved.",
+    "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+  ]
+}

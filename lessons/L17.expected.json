@@ -1,0 +1,30 @@
+{
+  "id": "L17",
+  "title": "Urea trong AdBlue khi nóng lên: từ biuret đến cặn",
+  "topic": "ky-thuat",
+  "sections": [
+    "Bối cảnh: AdBlue và mục tiêu của SCR",
+    "Bốn chất trong biểu đồ",
+    "Cách đọc biểu đồ",
+    "Từng mốc và vùng nhiệt độ",
+    "Các điểm ngoặt",
+    "Bản đồ nhiệt độ và rủi ro đóng cặn",
+    "Ứng dụng cho thiết kế và vận hành DNOx",
+    "Tóm tắt và câu hỏi thảo luận",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://doi.org/10.1021/ie020950o",
+    "https://doi.org/10.1016/j.ces.2021.116876"
+  ],
+  "key_terms": ["AdBlue", "urea", "biuret", "ammelide", "cyanuric acid", "total recovery", "SCR", "DNOx", "HNCO", "đóng cặn", "160", "170"],
+  "min_words": 1200,
+  "max_words": 30000,
+  "min_citations": 30,
+  "min_independent_sources": 6,
+  "min_layouts": 8,
+  "notes_words": [60, 200],
+  "language": "vi",
+  "slides": {"min": 14, "max": 18}
+}

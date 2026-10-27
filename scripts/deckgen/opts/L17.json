@@ -1,0 +1,42 @@
+{
+ "topic_label": "Kỹ thuật · Bài L17",
+ "motif": "dots",
+ "question": "Khi nóng lên, urea thành gì, và ở nhiệt độ nào cặn dễ bám nhất?",
+ "cards": [
+  "Urea",
+  "Biuret",
+  "Ammelide",
+  "Cyanuric acid"
+ ],
+ "concepts": [
+  "urea",
+  "biuret",
+  "ammelide",
+  "cyanuric"
+ ],
+ "mark": {
+  "14": "phun hay chờ"
+ },
+ "concept_colors": {
+  "urea": [
+   "#E91EC8",
+   "#FF4FD8"
+  ],
+  "biuret": [
+   "#1B8A1B",
+   "#4CD964"
+  ],
+  "ammelide": [
+   "#E60000",
+   "#FF5C5C"
+  ],
+  "cyanuric": [
+   "#7B1FA2",
+   "#C084FF"
+  ],
+  "total": [
+   "#1A237E",
+   "#8FA2FF"
+  ]
+ }
+}

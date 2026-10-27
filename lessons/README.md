@@ -6,6 +6,7 @@
 |---|---|---|---|---|
 | Khác | 2026-10-21 | [L06](L06/lesson.md) | Mạng xã hội và truyền thông tác động lên não | [L06.pptx](L06/L06.pptx) |
 | Kỹ thuật | 2026-10-21 | [L16](L16/lesson.md) | Grok Bot: đội agent AI chạy trên máy tính đám mây | [L16.pptx](L16/L16.pptx) |
+| Kỹ thuật | 2026-10-27 | [L17](L17/lesson.md) | Urea trong AdBlue khi nóng lên: từ biuret đến cặn | [L17.pptx](L17/L17.pptx) |
 | Não bộ | 2026-10-20 | [L01](L01/lesson.md) | Bản đồ não: các bộ phận lớn làm gì | [L01.pptx](L01/L01.pptx) |
 | Não bộ | 2026-10-20 | [L07](L07/lesson.md) | Hệ viền và các nhân nằm sâu của não | [L07.pptx](L07/L07.pptx) |
 | Não bộ | 2026-10-21 | [L02](L02/lesson.md) | Nơron và synapse: não truyền tin thế nào | [L02.pptx](L02/L02.pptx) |

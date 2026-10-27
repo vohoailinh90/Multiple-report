@@ -1,0 +1,355 @@
+{
+ "title": "Urea trong AdBlue khi nóng lên: từ biuret đến cặn",
+ "subtitle": "Kỹ thuật · Bài L17",
+ "slides": [
+  {
+   "title": "AdBlue là gì và SCR cần nó để làm gì",
+   "section": "Bối cảnh: AdBlue và mục tiêu của SCR",
+   "sources": [
+    "S1",
+    "S2",
+    "S7",
+    "S8"
+   ],
+   "layout": "annotated-figure",
+   "tone": "light",
+   "bullets": [
+    "Phun: AdBlue vào ống xả nóng",
+    "Mục tiêu: sinh NH3 để khử NOx",
+    "Rủi ro: urea hóa chất rắn thành cặn"
+   ],
+   "notes": "AdBlue là nước có 32,5% urea. Kỹ sư hay nghĩ urea là chất khử, nhưng thật ra nó chỉ là kho chứa NH3: nhiệt của ống xả bẻ urea thành NH3, rồi NH3 mới khử NOx trên chất xúc tác. Nước bay hơi trước, urea nóng chảy ở khoảng 133°C và biểu đồ của bài bắt đầu từ đó. Chỗ dễ nhầm: urea không biến hết thành NH3. Nếu nhiệt độ không đủ, một phần thành chất rắn bám lại. Cả bài là câu chuyện của phần rơi vào đường thứ hai đó.",
+   "body": "**AdBlue** là dung dịch **urea** 32,5% trong nước, phun vào ống xả diesel [S7]. Urea không tự khử khí độc: nó cho **NH3**, và trong bộ **SCR** NH3 biến NOx thành nitơ và hơi nước [S7]. Nước bay hơi trước, urea nóng chảy ở khoảng 133°C, nơi biểu đồ bắt đầu [S1]. Urea tách NH3 và HNCO theo đường tốt [S2]; nếu hóa thành chất rắn, đó là cặn.",
+   "images": [
+    {
+     "file": "images/bo-scr-hino.jpg",
+     "alt": "Bộ SCR của xe Hino",
+     "credit": "z22, CC BY-SA 3.0, Wikimedia Commons (Hino Standardized SCR Unit) [S8]",
+     "url": "https://commons.wikimedia.org/wiki/File:Hino_Standardized_SCR_Unit.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Bốn chất: ai là ai",
+   "section": "Bốn chất trong biểu đồ",
+   "sources": [
+    "S4",
+    "S5",
+    "S8"
+   ],
+   "layout": "figure",
+   "tone": "dark",
+   "bullets": [
+    "Urea: nguyên liệu, tốt, cho NH3",
+    "Biuret: trung gian, từ urea cộng HNCO",
+    "Ammelide: cặn bền, hình thành chậm",
+    "Cyanuric acid: cặn chính, bền"
+   ],
+   "notes": "Bốn chất đứng cạnh nhau để người nghe nhận ra mặt chữ. Urea là chất mình muốn có, vì nó cho NH3. Biuret giống bột nhào chưa thành bánh: nó chưa phải cặn cuối nhưng cũng không còn là urea. Cyanuric acid và ammelide là hai chất rắn bền, khó bay hơi, nên là thứ bám lại trong ống. Cấu trúc đơn giản là hai nhóm NH2 quanh một carbon (urea), và các vòng sáu cạnh gồm carbon và nitơ (hai chất cuối). Việc xếp tốt hay xấu là kiến thức của bài, không đọc từ hình.",
+   "images": [
+    {
+     "file": "images/cau-truc-bon-chat.png",
+     "alt": "Cấu trúc phân tử urea, biuret, ammelide, cyanuric acid",
+     "credit": "Wikimedia Commons, public domain: Urea-2D.png; Biuret_struct.svg (Odysseus1479); Ammelide.png (Tsiaojian lee); Cyanuric_acid.svg (Leyo) [S8]",
+     "url": "https://commons.wikimedia.org/wiki/File:Cyanuric_acid.svg"
+    }
+   ]
+  },
+  {
+   "title": "Cách đọc biểu đồ: năm đường và chín điểm đo",
+   "section": "Cách đọc biểu đồ",
+   "sources": [
+    "S1"
+   ],
+   "layout": "annotated-figure",
+   "tone": "light",
+   "bullets": [
+    "Urea (hồng): về 0 sau ~250°C",
+    "Biuret (xanh lá): đỉnh ~28% ở 190°C",
+    "Tím, đỏ: cyanuric acid, ammelide"
+   ],
+   "notes": "Đọc biểu đồ theo ba bước. Một: trục ngang là nhiệt độ gia nhiệt, trục dọc là phần trăm khối lượng so với urea ban đầu. Hai: đường navy là total recovery, tổng của bốn chất rắn còn lại; phần thiếu so với 100% đã thành khí chứ không biến mất. Ba: chỉ có chín điểm đo, các đoạn thẳng nối chúng chỉ để mắt dễ theo dõi. Vì vậy hình không cho số đo ở 160 hay 170°C; slide sau sẽ nói rõ chỗ đó. Sai số đọc bằng mắt khoảng ±2%.",
+   "body": "Hình có **9 điểm đo**: 133, 190, 225, 250, 275, 325, 350, 400 và 450°C. Trục dọc là % khối lượng, urea ban đầu bằng 100%. Đường navy là **total recovery**, tổng bốn chất rắn; phần thiếu là khí. Đoạn nối giữa hai điểm chỉ để dễ nhìn, nên hình không cho số đo ở 160 hay 170°C [S1].",
+   "images": [
+    {
+     "file": "images/bieu-do-ve-lai.png",
+     "alt": "Biểu đồ vẽ lại",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "133°C: urea vừa nóng chảy",
+   "section": "Từng mốc và vùng nhiệt độ",
+   "sources": [
+    "S1"
+   ],
+   "layout": "figure",
+   "tone": "dark",
+   "bullets": [
+    "Chiếm ưu thế: urea 100%, các chất khác 0%",
+    "Phản ứng: urea rắn thành urea lỏng, chưa phân hủy",
+    "Ý nghĩa: chưa có cặn mới",
+    "Nước: đã bay hơi trước, hình không vẽ"
+   ],
+   "notes": "Đây là điểm xuất phát: urea nguyên chất, 100% khối lượng, bốn chất còn lại bằng 0. Urea đã nóng chảy thành chất lỏng nhưng gần như chưa phân hủy. Nước trong AdBlue đã bay hơi từ trước nên không có trên đồ thị. Ý nghĩa thực tế: ở mốc này chưa có cặn mới sinh ra, nhưng cũng chưa có nhiều NH3. Chỗ dễ nhầm: 133°C là nhiệt độ của mẫu trong thí nghiệm, không phải nhiệt độ khí xả; trong xe, giọt chạm thành ống thì nhiệt độ thành mới quyết định.",
+   "images": [
+    {
+     "file": "images/vung-133.png",
+     "alt": "Bảng và thanh thành phần ở 133°C",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "160–170°C: khoảng trống giữa hai điểm đo",
+   "section": "Từng mốc và vùng nhiệt độ",
+   "sources": [
+    "S1",
+    "S4"
+   ],
+   "layout": "lookup-table",
+   "tone": "light",
+   "bullets": [
+    "133°C (số đo): Urea 100% · biuret 0% · tổng 100%",
+    "160°C (ước tính): Urea ~74% · biuret ~13% · tổng ~89%",
+    "170°C (ước tính): Urea ~65% · biuret ~18% · tổng ~85%",
+    "190°C (số đo): Urea ~46% · biuret ~28% · tổng ~77%",
+    "Cẩn thận: nối thẳng hai điểm; đường thật có thể cong"
+   ],
+   "notes": "Chủ repo muốn nhìn các mốc 160 và 170°C, nhưng hình không có điểm đo ở đó. Hai hàng ước tính là nội suy tuyến tính giữa 133 và 190°C, nên chỉ là hướng đi: urea giảm dần, biuret tăng dần, tổng chất rắn bắt đầu tụt vì NH3 và HNCO bay đi. Đừng dùng các con số này làm số liệu thiết kế. Muốn số thật ở 160 và 170°C thì phải có thí nghiệm riêng hoặc bài gốc có thêm điểm đo."
+  },
+  {
+   "title": "190°C: biuret lên đỉnh",
+   "section": "Từng mốc và vùng nhiệt độ",
+   "sources": [
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "layout": "annotated-figure",
+   "tone": "dark",
+   "bullets": [
+    "Giảm: urea ~46%, tổng ~77%",
+    "Tăng: biuret ~28% (đỉnh)",
+    "Phản ứng: urea cộng HNCO thành biuret"
+   ],
+   "notes": "Ở 190°C urea đã mất khoảng một nửa. Hai phản ứng chạy song song: urea tách thành NH3 và HNCO, và một phần urea gặp HNCO tạo biuret. Biuret đạt đỉnh khoảng 28%. Cyanuric acid (2,5%) và ammelide (0,5%) mới xuất hiện. Tổng chất rắn còn khoảng 77%, tức khoảng 23% khối lượng đã thành khí. Theo mô tả bốn vùng nhiệt độ của Schaber, từ khoảng 190°C biuret bắt đầu phân hủy, nên đây vừa là đỉnh vừa là điểm quay đầu của biuret.",
+   "body": "Ở **190°C** urea còn ~46%: đã mất một nửa. **Biuret** lên đỉnh ~28%, còn **cyanuric acid** (~2,5%) và **ammelide** (~0,5%) mới xuất hiện [S1]. Urea tách NH3 và HNCO, rồi urea gặp HNCO tạo biuret [S2]. Tổng chất rắn ~77%: khoảng 23% khối lượng đã thành khí. Từ vùng này biuret bắt đầu phân hủy [S4].",
+   "images": [
+    {
+     "file": "images/vung-190.png",
+     "alt": "Bảng và thanh thành phần ở 190°C",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "225–250°C: cyanuric acid lên ngôi",
+   "section": "Từng mốc và vùng nhiệt độ",
+   "sources": [
+    "S1",
+    "S4"
+   ],
+   "layout": "figure",
+   "tone": "light",
+   "bullets": [
+    "Chiếm ưu thế: cyanuric acid ~22% rồi ~23,5%",
+    "Giảm: biuret ~14% rồi ~1%; urea ~4,5% rồi ~0,5%",
+    "Phản ứng: biuret thành cyanuric acid và ammelide; 3 HNCO thành cyanuric acid",
+    "Ý nghĩa: cặn rắn bền bắt đầu; tổng ~43% rồi ~30%"
+   ],
+   "notes": "Đây là vùng chuyển giao. Urea gần cạn, biuret rơi từ 28% xuống 14% rồi còn khoảng 1%. Biuret không biến mất vô cớ: nó bị phân hủy và tạo cyanuric acid cùng ammelide. Ngoài ra ba phân tử HNCO có thể ghép thành một cyanuric acid (kiến thức của bài). Cyanuric acid nhảy từ 2,5% lên 22% rồi 23,5%, trở thành chất chiếm ưu thế. Ý nghĩa thực tế: từ đây cặn không còn là chất mềm, đang đổi tiếp mà là chất rắn bền khó tan.",
+   "images": [
+    {
+     "file": "images/vung-225-250.png",
+     "alt": "Bảng và thanh thành phần ở 225 và 250°C",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "275–325°C: cyanuric acid đỉnh rồi giảm",
+   "section": "Từng mốc và vùng nhiệt độ",
+   "sources": [
+    "S1",
+    "S4"
+   ],
+   "layout": "annotated-figure",
+   "tone": "dark",
+   "bullets": [
+    "Chiếm ưu thế: cyanuric acid ~24% rồi ~15%",
+    "Không còn: urea và biuret bằng 0",
+    "Ammelide: ~5,5%, gần như không đổi"
+   ],
+   "notes": "Từ 275°C trở lên chỉ còn hai chất rắn. Cyanuric acid đạt đỉnh khoảng 24% ở 275°C rồi tụt còn 15% ở 325°C; ammelide đứng yên quanh 5,5%. Theo mô tả của Schaber, vùng 250–360°C là nơi cyanuric acid thăng hoa, nên đường tím đi xuống. Tổng chất rắn còn khoảng 30% rồi 20%: vẫn là lượng đáng kể và đều là chất bền. Đây là vùng thành ống nên tránh nếu muốn không bị đóng cặn.",
+   "body": "Từ **275°C** urea và biuret đã về 0. **Cyanuric acid** đạt đỉnh ~24% rồi tụt còn ~15% ở 325°C, còn **ammelide** đứng yên ~5,5% [S1]. Cyanuric acid giảm vì thăng hoa trong vùng 250–360°C [S4]. Tổng chất rắn còn ~30% rồi ~20%: vẫn nhiều và bền, nên đây là vùng thành ống cần tránh.",
+   "images": [
+    {
+     "file": "images/vung-275-325.png",
+     "alt": "Bảng và thanh thành phần ở 275 và 325°C",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "350–450°C: cặn gần như biến mất",
+   "section": "Từng mốc và vùng nhiệt độ",
+   "sources": [
+    "S1",
+    "S4"
+   ],
+   "layout": "figure",
+   "tone": "light",
+   "bullets": [
+    "Chiếm ưu thế: ammelide ~5,5% ở 350°C, ~1% ở 400°C",
+    "Giảm: cyanuric acid ~2% rồi ~0; ammelide về 0 ở 450°C",
+    "Phản ứng: cyanuric acid thăng hoa, ammelide phân hủy trên ~360°C",
+    "Ý nghĩa: từ 400°C tổng chỉ còn ~2,5% rồi ~1%"
+   ],
+   "notes": "Ở 350°C chỉ còn cyanuric acid khoảng 2% và ammelide 5,5%. Ammelide là chất bền nhất: còn khoảng 1% ở 400°C và về 0 ở 450°C. Tổng chất rắn còn khoảng 2,5% ở 400°C và 1% ở 450°C. Một lưu ý nhỏ: tổng trong hình ở 400°C (khoảng 2,5%) cao hơn tổng bốn chất đọc được (khoảng 1%), chênh nằm trong sai số đọc hình. Ý nghĩa thực tế: ống xả nóng từ khoảng 400°C trở lên gần như tự sạch cặn.",
+   "images": [
+    {
+     "file": "images/vung-350-450.png",
+     "alt": "Bảng và thanh thành phần ở 350, 400 và 450°C",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "Năm điểm ngoặt của đồ thị",
+   "section": "Các điểm ngoặt",
+   "sources": [
+    "S1",
+    "S4"
+   ],
+   "layout": "numbered-rows",
+   "tone": "dark",
+   "bullets": [
+    "Biuret đỉnh ~28% ở 190°C, hết ở ~250°C: urea cạn nên hết nguồn, biuret tự phân hủy",
+    "Cyanuric acid tăng mạnh từ ~2,5% (190°C) lên ~22% (225°C), giữ ~22–24% đến 275°C",
+    "Ammelide lên chậm (~0,5% đến ~5,5%) và bền đến khoảng 350°C",
+    "Total recovery giảm từ 100% xuống ~1%: chất rắn chuyển thành khí NH3, HNCO, CO2",
+    "Từ khoảng 400°C gần như không còn cặn (≤ ~2,5%)"
+   ],
+   "notes": "Năm điểm ngoặt là xương sống của bài. Một: biuret lên rồi xuống, vì nguồn tạo ra nó là urea đang cạn và nó cũng tự phân hủy. Hai: cyanuric acid là nơi biuret và HNCO đổ vào nên tăng vọt giữa 190 và 225°C. Ba: ammelide lên chậm nhưng sống lâu nhất. Bốn: total recovery giảm liên tục, nghĩa là mỗi bước đều nhả khí. Năm: từ 400°C gần như sạch. Nhắc người nghe rằng các lý do là phần giải thích của bài, đối chiếu với tài liệu, còn hình chỉ cho số liệu."
+  },
+  {
+   "title": "Bản đồ nhiệt độ: vùng nào dễ đóng cặn",
+   "section": "Bản đồ nhiệt độ và rủi ro đóng cặn",
+   "sources": [
+    "S1",
+    "S5",
+    "S6"
+   ],
+   "layout": "figure",
+   "tone": "light",
+   "bullets": [
+    "133–190°C, chú ý: urea và biuret còn nhiều, cặn chưa bền",
+    "190–325°C, nguy hiểm: cyanuric acid ~22–24%, ammelide ~5,5%",
+    "325–400°C, giảm dần: cyanuric về ~0, ammelide còn",
+    "≥400°C, an toàn: cặn rắn ≤ ~2,5%"
+   ],
+   "notes": "Thang màu này là suy luận của bài từ hình, không phải ngưỡng hiệu chỉnh của hãng nào. Vùng đỏ 190–325°C nguy hiểm vì đó là nơi chất rắn nhiều nhất và bền nhất. Vì sao nhiệt độ thành ống thấp lại đáng lo? Giọt AdBlue chạm thành tạo màng chất lỏng; khi màng bay hơi nó hút nhiệt làm thành nguội thêm, nên có lúc khí xả nóng mà thành vẫn nằm trong vùng đỏ. Vì vậy cần nhìn nhiệt độ thành, không chỉ nhiệt độ khí.",
+   "images": [
+    {
+     "file": "images/ban-do-rui-ro.png",
+     "alt": "Thang màu rủi ro đóng cặn theo nhiệt độ",
+     "credit": "Tự vẽ lại từ số liệu của biểu đồ S1 (đọc bằng mắt, ±2%)",
+     "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L17/images"
+    }
+   ]
+  },
+  {
+   "title": "Gợi ý cho thiết kế và vận hành DNOx",
+   "section": "Ứng dụng cho thiết kế và vận hành DNOx",
+   "sources": [
+    "S1",
+    "S5"
+   ],
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Ngưỡng phun: Chỉ phun khi thành ống và mixer đã ra khỏi vùng 190–325°C",
+    "Strategy phun: Giọt nhỏ, lượng vừa đủ, tránh bắn vào thành lạnh",
+    "Mixer: Giúp giọt bay hơi nhanh, ít góc chết để giọt không đọng",
+    "Làm sạch nhiệt: Đưa thành ống lên ≥400°C đủ lâu để cặn biến mất"
+   ],
+   "notes": "Bốn gợi ý này là suy luận từ biểu đồ và hóa học, không phải thông số của một hãng. Một: đặt nhiệt độ tối thiểu bắt đầu dosing theo nhiệt độ thành, không chỉ khí. Hai: strategy phun giữ giọt nhỏ và tránh chạm thành lạnh, giảm lượng khi nhiệt độ thấp. Ba: thiết kế mixer giúp giọt bay hơi nhanh và hạn chế vùng đọng. Bốn: làm sạch bằng nhiệt, tức regeneration, đưa thành lên khoảng 400°C trở lên, vì ở đó biểu đồ cho thấy cặn gần như biến mất. Ngưỡng cụ thể phải do nhà sản xuất hiệu chỉnh."
+  },
+  {
+   "title": "Năm ý cần nhớ",
+   "section": "Tóm tắt và câu hỏi thảo luận",
+   "sources": [
+    "S1"
+   ],
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Urea nóng chảy ở ~133°C rồi tách NH3 và HNCO, một phần thành biuret",
+    "Biuret là trạm trung gian: đỉnh ~28% ở 190°C, hết ở ~250°C",
+    "Cyanuric acid là cặn chính (~22–24% trong 225–275°C); ammelide ít nhưng bền đến ~350°C",
+    "Tổng chất rắn giảm từ 100% xuống ~1% vì phần còn lại thành khí",
+    "Vùng nguy cơ đóng cặn là 190–325°C; từ ~400°C gần như sạch"
+   ],
+   "notes": "Năm ý này đủ để người nghe kể lại câu chuyện. Một: urea nóng chảy rồi tách khí. Hai: biuret là trạm trung gian, lên đỉnh ở 190°C rồi hết. Ba: cyanuric acid là cặn chính, ammelide ít hơn nhưng bền hơn. Bốn: khối lượng chất rắn giảm dần vì chuyển thành khí. Năm: vùng nguy hiểm là 190–325°C, từ khoảng 400°C gần như sạch. Hỏi người nghe: trong xe của mình, vùng nào hay xảy ra nhất, và thành ống nóng lên chậm hơn khí bao lâu?"
+  },
+  {
+   "title": "Câu hỏi thảo luận",
+   "section": "Tóm tắt và câu hỏi thảo luận",
+   "sources": [
+    "S1"
+   ],
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "Nếu khí xả đã nóng nhưng thành mixer mới ~250°C, ta nên phun hay chờ?",
+    "Làm sao biết nhiệt độ thành thật, không chỉ nhiệt độ khí?",
+    "Chu trình lái nào hay kéo xe vào vùng 190–325°C quá lâu?",
+    "Khi cặn đã hình thành, regeneration cần nóng bao nhiêu và bao lâu?"
+   ],
+   "notes": "Dùng ba bốn câu hỏi này để mở thảo luận. Câu đầu là tình huống thật: khí xả nóng nhưng thành mixer nguội hơn. Câu hai hỏi cách đo hoặc ước tính nhiệt độ thành. Câu ba đưa vào chu trình lái: xe chạy tải nhẹ, chạy thành phố hoặc dừng lâu hay ở vùng nguy hiểm. Câu bốn về làm sạch bằng nhiệt. Không có đáp án duy nhất; mục tiêu là để người nghe tự gắn các mốc của biểu đồ vào hệ thống của mình."
+  },
+  {
+   "title": "Số liệu từ hình và phần suy luận",
+   "section": "Lưu ý",
+   "sources": [
+    "S1",
+    "S3"
+   ],
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Đọc từ hình (S1): Phần trăm khối lượng của bốn chất và total recovery tại chín điểm đo, sai số khoảng ±2%",
+    "Suy luận của bài: Tên phản ứng, tốt hay xấu, vùng rủi ro, biện pháp và các giá trị nội suy ở 160, 170°C",
+    "Đây là thí nghiệm gia nhiệt urea trong phòng thí nghiệm: trong xe, tốc độ gia nhiệt, dòng khí, xúc tác và dạng giọt phun làm giá trị khác đi",
+    "Tổng ở 400°C trong hình (~2,5%) cao hơn tổng bốn chất đọc được (~1%)"
+   ],
+   "notes": "Slide này tách rõ phần nào là số liệu, phần nào là suy luận. Số liệu: chín điểm đo của hình Source number 3, đọc bằng mắt, sai số khoảng ±2%. Suy luận: tên phản ứng, việc xếp tốt hay xấu, thang rủi ro, các biện pháp, và hai giá trị nội suy ở 160 và 170°C. Đây là thí nghiệm gia nhiệt urea trong phòng thí nghiệm, nên trong xe có thể khác vì tốc độ gia nhiệt, dòng khí, chất xúc tác và dạng giọt phun. Hình chưa rõ tác giả và năm, nên bài chưa đối chiếu từng con số với bài gốc."
+  },
+  {
+   "title": "Nguồn tham khảo",
+   "section": "Nguồn tham khảo",
+   "sources": [],
+   "layout": "references",
+   "tone": "dark",
+   "bullets": [
+    "S1: Biểu đồ \"Source number 3\": gia nhiệt urea, do chủ repo cung cấp (tác giả, năm chưa rõ)",
+    "S2: Koebel, Strutz, 2003, Ind. Eng. Chem. Res. 42, 2093–2100, doi 10.1021/ie020950o",
+    "S3: Schaber và cs., 2004, Thermochimica Acta 424, 131–142, doi 10.1016/j.tca.2004.05.018",
+    "S4: Kuntz và cs., 2021, Chem. Eng. Sci. 246, 116876, doi 10.1016/j.ces.2021.116876",
+    "S5: Li và cs., 2021, ACS Omega 6(8), 5921–5932, doi 10.1021/acsomega.1c00021",
+    "S6: Eakle và cs., 2016, SAE Technical Paper 2016-01-2327",
+    "S7: Vauxhall, What is SCR technology? (AdBlue, urea 32,5%)",
+    "S8: Wikimedia Commons: bốn cấu trúc public domain; ảnh Hino SCR Unit (z22, CC BY-SA 3.0)"
+   ],
+   "notes": "Các nguồn của bài. S1 là chính biểu đồ do chủ repo cung cấp. S2 và S3 là hai bài kinh điển về phân hủy nhiệt urea cho SCR. S4 là bài mô hình hóa động học mở (CC BY) tóm tắt bốn vùng nhiệt độ của Schaber. S5 về quá trình đóng cặn urea trong hệ SCR, S6 về thành phần cặn, S7 giải thích AdBlue, S8 là hình từ Wikimedia Commons. Mời người nghe đọc S4 và S5 nếu muốn đi sâu."
+  }
+ ]
+}

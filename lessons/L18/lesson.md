@@ -36,7 +36,7 @@ Bản đồ dưới đây là cách chia của bài. Các nguồn đặt mốc h
 | D | 70 đến 130°C | nước bay hơi, urea cô đặc và kết tinh | hơi nước, urea | hại nếu xảy ra trên thành: cặn urea [S4][S11] |
 | E | 130 đến 190°C | urea nóng chảy rồi phân hủy | urea, NH3, HNCO, biuret | vừa lợi vừa hại [S3] |
 | F | 190 đến 250°C | hỗn hợp nóng chảy rồi rắn dần | biuret, cyanuric acid, ammelide | hại: cặn hình thành nhanh [S3][S4] |
-| G | 250 đến 350°C | rắn bền, một phần thăng hoa | cyanuric acid, ammelide, ít melamine | hại nhất về mặt lượng cặn [S1][S4] |
+| G | 250 đến 350°C | rắn bền, một phần thăng hoa | cyanuric acid, ammelide, ít melamine | hại vì độ bền của cặn, không vì khối lượng lớn nhất [S1][S4] |
 | H | 350 đến 450°C | cặn phân hủy chậm | ammelide, ammeline, cặn chịu nhiệt | hại còn lại: phần cặn khó bỏ [S4] |
 | I | trên 450°C | gần như hết cặn urea | khí; vết cặn chịu nhiệt | lợi, nhưng NH3 có thể bị oxy hóa [S14] |
 
@@ -227,7 +227,7 @@ Biểu đồ S1: cyanuric acid ~24% ở 275°C, ~15% ở 325°C, ~2% ở 350°C;
 
 ### Ý nghĩa với DNOx
 
-**Hại nhất về mặt lượng cặn.** Đây là vùng chứa nhiều chất rắn bền nhất: tổng thu hồi từ ~30% xuống ~8% trong khi cyanuric acid giữ ~15–24% đến 325°C [S1]. Cặn tạo trong vùng này dày, bám chắc và khó cuốn đi ngay cả khi khí đã nóng hơn. Phân biệt chuyện vật liệu (cặn bền nhất) và chuyện nguy cơ vận hành (màng lỏng chỉ hình thành khi thành đủ lạnh, mục "Giọt phun").
+**Hại vì độ bền của cặn, không vì khối lượng cặn lớn nhất.** Theo biểu đồ S1, tổng chất rắn còn lại ở vùng này (~30% ở 275°C, ~20% ở 325°C, ~8% ở 350°C) thấp hơn ở vùng F (~77% ở 190°C, ~43% ở 225°C) [S1]. Cái làm vùng G đáng ngại là thành phần: phần chất rắn còn lại chủ yếu là cyanuric acid (~15–24% đến 325°C) và ammelide (~5,5%), những chất bền cần nhiệt độ cao hơn để phân hủy, và cặn lấy từ thử nghiệm ở 260°C trở lên chứa trên 80% cyanuric acid cùng lượng đáng kể ammelide [S1][S4]. Khối lượng cặn thật trong hệ thống còn tùy lượng AdBlue đọng lại trên thành, mà các số trên không cho biết. Phân biệt chuyện vật liệu (cặn bền) và chuyện nguy cơ vận hành (màng lỏng chỉ hình thành khi thành đủ lạnh, mục "Giọt phun").
 
 ## Vùng H: 350°C đến 450°C, cặn phân hủy chậm
 

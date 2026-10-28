@@ -1,7 +1,8 @@
 {
   "claimed_at": "2026-10-28T07:41:17Z",
-  "heartbeat_at": "2026-10-28T07:41:17Z",
+  "done_at": "2026-10-28T10:01:38Z",
+  "heartbeat_at": "2026-10-28T10:01:38Z",
   "id": "L19",
   "owner": "claude/trusting-maxwell-8f85od",
-  "status": "doing"
+  "status": "done"
 }

@@ -1,0 +1,27 @@
+{
+  "slides_sha256": "1fe2aa5f4de1c4edadde1c637cb33e5730aeb7225971d1076a76a71fef94edbe",
+  "pptx_sha256": "351948f80e00f1484c9214c87e5e1e3c7b3a5f3f07ecf90f7d629535a080a319",
+  "canvas": "https://moda.app/canvas/3b203fe1-7965-4323-b4cf-5595b7e5f94a",
+  "built": "2026-10-28",
+  "slide_count": 18,
+  "layouts": [
+    "cover",
+    "explainer",
+    "connection-diagram",
+    "figure",
+    "annotated-figure",
+    "flow",
+    "annotated-figure",
+    "figure",
+    "flow",
+    "annotated-figure",
+    "two-column-comparison",
+    "figure",
+    "lookup-table",
+    "card-grid",
+    "numbered-rows",
+    "annotated-figure",
+    "numbered-rows",
+    "references"
+  ]
+}

@@ -1,0 +1,410 @@
+{
+ "title": "Transistor cho người mới: hình dạng, ký hiệu và dòng điện",
+ "subtitle": "Kỹ thuật · Bài L19",
+ "slides": [
+  {
+   "title": "Transistor: tay van nhỏ điều khiển dòng điện lớn",
+   "section": "Transistor là gì và để làm gì",
+   "sources": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "bullets": [
+    "Điều khiển: Base (BJT) hoặc Gate (FET), màu cam",
+    "Dòng vào: Collector hoặc Drain, màu xanh dương",
+    "Dòng ra: Emitter hoặc Source, màu xanh lục"
+   ],
+   "notes": "Mở bài bằng hình ảnh quen thuộc: một cái van nước. Bạn xoay tay van bằng một lực rất nhỏ, còn dòng nước chảy trong ống thì lớn hơn nhiều. Transistor làm đúng việc đó với dòng điện: tín hiệu nhỏ ở một chân quyết định dòng lớn giữa hai chân còn lại. Từ đó có hai công dụng. Khuếch đại: dòng lớn bám theo tín hiệu nhỏ một cách liên tục. Đóng ngắt: tín hiệu nhỏ chỉ có hai trạng thái, bật hoặc tắt, và transistor đóng vai công tắc điện tử. Chỗ dễ nhầm: tên chân khác nhau giữa BJT và FET, nhưng vai trò giống nhau, nên deck dùng đúng một màu cho mỗi vai trò, cam cho chân điều khiển, xanh dương cho chân dòng vào, xanh lục cho chân dòng ra.",
+   "layout": "explainer",
+   "tone": "light",
+   "body": "**Transistor** là linh kiện bán dẫn ba chân: tín hiệu nhỏ ở **cực điều khiển** quyết định dòng điện lớn giữa hai cực còn lại [S1]. Nó **khuếch đại** tín hiệu hoặc **đóng/ngắt** như công tắc điện tử [S1][S3]. Giống một **van nước**: xoay nhẹ tay van, dòng nước lớn đổi theo [S4]. Bài này đi qua NPN, PNP, MOSFET kênh N, kênh P và JFET."
+  },
+  {
+   "title": "Bản đồ phân loại: BJT, MOSFET và JFET",
+   "section": "Bản đồ phân loại",
+   "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+   ],
+   "bullets": [
+    "Transistor: hai họ lớn, BJT và FET",
+    "BJT: NPN và PNP, điều khiển bằng dòng Base",
+    "MOSFET: kênh N và kênh P, điều khiển bằng điện áp Gate",
+    "JFET: kênh N và kênh P, thường dẫn khi VGS bằng 0"
+   ],
+   "notes": "Đây là tấm bản đồ để bạn không lạc: transistor chia làm hai họ. Họ thứ nhất là BJT, transistor lưỡng cực, có hai loại NPN và PNP. Họ thứ hai là FET, transistor hiệu ứng trường, gồm MOSFET và JFET, mỗi loại lại có kênh N và kênh P. Bốn loại chính bài sẽ vẽ đi vẽ lại là NPN, PNP, MOSFET kênh N và MOSFET kênh P; JFET chỉ nói ngắn gọn. Chỗ dễ nhầm: MOSFET còn có loại suy giảm, nhưng loại hay gặp khi làm công tắc là loại tăng cường, mặc định tắt, nên bài chỉ vẽ loại đó. JFET thì ngược lại, thường dẫn sẵn khi điện áp Gate bằng không. Cách điều khiển là ranh giới dễ nhớ nhất giữa hai họ: BJT điều khiển bằng dòng, FET bằng điện áp.",
+   "layout": "connection-diagram",
+   "tone": "light"
+  },
+  {
+   "title": "Hình dạng thực tế: các kiểu vỏ hay gặp",
+   "section": "Hình dạng thực tế và cách nhận biết chân",
+   "sources": [
+    "S1",
+    "S8",
+    "S9",
+    "S10",
+    "S12",
+    "S13",
+    "S18"
+   ],
+   "bullets": [
+    "TO-92: nhựa nhỏ, ba chân thẳng hàng, cho tín hiệu nhỏ",
+    "SOT-23: dán bề mặt (SMD), nhỏ nhất trong ảnh",
+    "TO-220 xuyên lỗ và D2PAK dán bề mặt: vỏ công suất",
+    "Thứ tự chân: mỗi loại một kiểu, xem datasheet"
+   ],
+   "notes": "Ngoài đời, transistor không mang nhãn BJT hay MOSFET mà mang một kiểu vỏ. TO-92 là viên nhựa nửa hình trụ với ba chân thẳng hàng, dùng cho tín hiệu nhỏ. SOT-23 là phiên bản dán bề mặt, nhỏ hơn nhiều, nhìn ảnh so sánh sẽ thấy. TO-220 là vỏ công suất xuyên lỗ có tai kim loại để bắt tản nhiệt; D2PAK là họ hàng dán bề mặt của nó, ảnh có que diêm làm thước đo. Chỗ dễ nhầm và cần nhớ nhất: thứ tự chân không chung cho mọi linh kiện cùng vỏ. Con 2N3906 trong ảnh in sẵn chữ EBC trên thân; linh kiện khác trong cùng vỏ TO-92 có thể xếp chân khác. Luôn đối chiếu mã ghi trên thân với datasheet.",
+   "layout": "figure",
+   "tone": "light",
+   "images": [
+    {
+     "file": "images/so-sanh-vo.jpg",
+     "alt": "Bốn transistor: SOT-23, TO-92, TO-126, TO-3",
+     "credit": "Mister rf, CC BY-SA 3.0, Wikimedia Commons [S12]",
+     "url": "https://commons.wikimedia.org/wiki/File:Transistorer_(cropped).jpg"
+    },
+    {
+     "file": "images/to220-fqp30n06l.jpg",
+     "alt": "MOSFET FQP30N06L vỏ TO-220",
+     "credit": "Axel Richter, Unsplash License (cắt từ ảnh) [S18]",
+     "url": "https://unsplash.com/photos/w03bBxjXWvk"
+    },
+    {
+     "file": "images/d2pak.jpg",
+     "alt": "Hai MOSFET vỏ D2PAK cạnh que diêm",
+     "credit": "CyrilB, GFDL và CC BY-SA 3.0, Wikimedia Commons [S13]",
+     "url": "https://commons.wikimedia.org/wiki/File:D2PAK.JPG"
+    }
+   ]
+  },
+  {
+   "title": "BJT NPN: dòng Base nhỏ mở dòng Collector lớn",
+   "section": "BJT NPN",
+   "sources": [
+    "S5",
+    "S11"
+   ],
+   "bullets": [
+    "Base (B): cực điều khiển, màu cam",
+    "Collector (C): dòng chính vào, xanh dương",
+    "Emitter (E): dòng ra, mũi tên chỉ ra ngoài, xanh lục"
+   ],
+   "notes": "Ảnh thật là BC547, một NPN vỏ TO-92, đặt cạnh ký hiệu mạch. Ký hiệu có ba nét: Base ở bên trái, Collector ở trên, Emitter ở dưới với mũi tên chỉ ra ngoài. Mẹo nhớ: NPN là không chỉ vào trong. Cách điều khiển: đưa một dòng nhỏ vào Base. Khi điện áp Base so với Emitter vượt ngưỡng khoảng sáu phần mười vôn, mối nối Base–Emitter dẫn và dòng chính chảy từ Collector sang Emitter. Nhiều giáo trình làm tròn ngưỡng này thành 0,7 vôn; giá trị thật thay đổi theo linh kiện và nhiệt độ. Dưới ngưỡng, transistor ngắt. Chỗ dễ nhầm: điều khiển NPN bằng điện áp mà quên điện trở Base, dòng Base sẽ không được giới hạn.",
+   "layout": "annotated-figure",
+   "tone": "dark",
+   "body": "NPN bật bằng **dòng** chảy vào **Base**. Khi **VBE** vượt khoảng **0,6 V** (nhiều giáo trình làm tròn 0,7 V) [S5], dòng chính chảy từ Collector sang Emitter; dưới ngưỡng thì ngắt. Mẹo nhớ: mũi tên NPN \"không chỉ vào trong\" [S5]. Ảnh: BC547, vỏ TO-92 [S11].",
+   "images": [
+    {
+     "file": "images/bc547.jpg",
+     "alt": "Transistor BC547 vỏ TO-92",
+     "credit": "Suyash Dwivedi, CC BY-SA 4.0, Wikimedia Commons [S11]",
+     "url": "https://commons.wikimedia.org/wiki/File:BC547_Transistor_-_01.jpg"
+    }
+   ]
+  },
+  {
+   "title": "NPN: IB nhỏ điều khiển IC lớn",
+   "section": "BJT NPN",
+   "sources": [
+    "S2",
+    "S5"
+   ],
+   "bullets": [
+    "IB nhỏ chảy vào Base (mũi tên cam mảnh)",
+    "IC lớn chảy từ Collector sang Emitter (mũi tên xanh dương đậm)",
+    "IC ≈ β × IB trong vùng khuếch đại",
+    "IE = IC + IB: cả hai dòng ra khỏi Emitter",
+    "Ví dụ giả định: β = 100, IB = 1 mA cho IC = 100 mA"
+   ],
+   "notes": "Sơ đồ này là mạch ví dụ bật tắt LED hoặc relay. Tải nối giữa nguồn dương và Collector, Emitter nối đất, tín hiệu từ vi điều khiển đi qua điện trở Base vào Base. Dòng Base nhỏ, vẽ bằng mũi tên cam mảnh; dòng Collector lớn, vẽ bằng mũi tên xanh dương đậm; hai dòng gặp nhau và cùng ra khỏi Emitter, nên IE bằng IC cộng IB. Trong vùng khuếch đại, IC xấp xỉ beta nhân IB. Ví dụ với số giả định: beta một trăm và IB một miliampe cho IC một trăm miliampe. Chỗ dễ nhầm: beta không phải hằng số cố định, nên khi dùng làm công tắc người ta cấp dòng Base dư để transistor bão hòa. Với cuộn relay, thêm diode bảo vệ song song cuộn dây.",
+   "layout": "flow",
+   "tone": "light"
+  },
+  {
+   "title": "BJT PNP: ngược chiều NPN, kéo Base xuống để bật",
+   "section": "BJT PNP",
+   "sources": [
+    "S5",
+    "S12"
+   ],
+   "bullets": [
+    "Mũi tên ở Emitter chỉ vào trong",
+    "Dòng chính chảy từ Emitter sang Collector",
+    "Bật: kéo Base thấp hơn Emitter khoảng 0,6 V"
+   ],
+   "notes": "PNP là bản đảo cực của NPN, và chính vì vậy nó hay làm người mới rối. Mũi tên ở Emitter chỉ vào trong. Dòng chính chảy từ Emitter sang Collector, và dòng Base chảy ra khỏi Base thay vì chảy vào. Emitter nối nguồn dương, nên để bật phải kéo Base xuống thấp hơn Emitter khoảng sáu phần mười vôn; muốn tắt thì đưa Base về xấp xỉ điện áp Emitter. Tải thường nối giữa Collector và đất, nên PNP là công tắc phía cao. Chỗ dễ nhầm, tài liệu SparkFun nêu rõ: nếu nguồn của tải cao hơn mức cao của tín hiệu điều khiển, ví dụ vi điều khiển 5 V điều khiển tải 12 V, Base không bao giờ lên đủ cao để tắt PNP.",
+   "layout": "annotated-figure",
+   "tone": "light",
+   "body": "**PNP** là bản đảo cực của NPN [S5]. **Emitter** nối nguồn dương, dòng chính chảy từ Emitter sang **Collector**, dòng Base chảy **ra khỏi** Base. Kéo Base thấp hơn Emitter khoảng 0,6 V thì bật; đưa Base về điện áp Emitter thì tắt [S5]. Ảnh: 2N3906, vỏ TO-92 [S12].",
+   "images": [
+    {
+     "file": "images/pnp-2n3906.jpg",
+     "alt": "Transistor PNP 2N3906 vỏ TO-92",
+     "credit": "Mister rf, CC BY-SA 3.0 (cắt từ ảnh), Wikimedia Commons [S12]",
+     "url": "https://commons.wikimedia.org/wiki/File:Transistorer_(cropped).jpg"
+    }
+   ]
+  },
+  {
+   "title": "MOSFET kênh N: điều khiển bằng điện áp, gần như không tốn dòng Gate",
+   "section": "MOSFET kênh N",
+   "sources": [
+    "S3",
+    "S15"
+   ],
+   "bullets": [
+    "Gate (G): cổng cách điện, màu cam",
+    "Drain (D): dòng vào, xanh dương. Source (S): dòng ra, xanh lục",
+    "Bật khi VGS > Vth (Gate dương hơn Source)",
+    "Ở DC gần như không có dòng Gate; cổng vẫn có điện dung"
+   ],
+   "notes": "Ảnh thật là IRFIBC30, một MOSFET kênh N công suất trong vỏ TO-220 fullpak, thân nhựa bọc kín. MOSFET có ba chân Gate, Drain và Source. Điểm khác BJT: cổng được cách điện bằng lớp oxit, nên chỉ điện áp giữa Gate và Source quyết định độ dẫn điện. Khi VGS vượt ngưỡng Vth, một lớp đảo hình thành và kênh dẫn nối Drain với Source. Vì cổng cách điện nên ở trạng thái tĩnh gần như không có dòng Gate; tuy vậy cổng có điện dung, nên khi đóng ngắt nhanh vẫn cần dòng nạp xả ngắn. Chỗ dễ nhầm: Vth chỉ là ngưỡng bắt đầu dẫn. Để bật hẳn, datasheet ghi điện trở RDS(on) ở một mức VGS cụ thể, nên đừng chọn linh kiện chỉ theo Vth.",
+   "layout": "figure",
+   "tone": "light",
+   "images": [
+    {
+     "file": "images/irfibc30.jpg",
+     "alt": "MOSFET kênh N IRFIBC30 vỏ TO-220 fullpak",
+     "credit": "Retired electrician, CC0, Wikimedia Commons [S15]",
+     "url": "https://commons.wikimedia.org/wiki/File:IRFIBC30_MOS_transistor_01.jpg"
+    }
+   ]
+  },
+  {
+   "title": "N-MOSFET làm công tắc phía thấp (low-side)",
+   "section": "MOSFET kênh N",
+   "sources": [
+    "S3",
+    "S10"
+   ],
+   "bullets": [
+    "Source nối đất; tải nối giữa nguồn dương và Drain",
+    "VGS > Vth: kênh hình thành, dòng ID chảy từ Drain sang Source",
+    "Gate điều khiển bằng điện áp, qua một điện trở nhỏ",
+    "Điện trở kéo xuống giữa Gate và Source giữ MOSFET tắt khi để hở",
+    "Chọn loại logic-level nếu điều khiển bằng 3,3 V hoặc 5 V"
+   ],
+   "notes": "Đây là mạch ví dụ chuẩn của MOSFET kênh N: công tắc phía thấp. Source nối đất, tải nối giữa nguồn dương và Drain, tín hiệu điều khiển đi vào Gate. Khi VGS vượt ngưỡng đủ lớn, kênh hình thành và dòng ID chảy từ Drain sang Source, vẽ bằng mũi tên xanh dương đậm; đường điều khiển ở Gate vẽ màu cam và gần như không mang dòng ở trạng thái tĩnh. Ở trạng thái bật, giữa Drain và Source MOSFET xử sự như một điện trở nhỏ RDS(on). Thực hành thiết kế thông dụng: một điện trở nhỏ nối tiếp Gate để hạn chế dòng nạp cổng, và một điện trở kéo xuống giữa Gate và Source để giữ MOSFET tắt khi chân điều khiển để hở. Với vi điều khiển 3,3 V hoặc 5 V, chọn loại logic-level.",
+   "layout": "flow",
+   "tone": "dark"
+  },
+  {
+   "title": "MOSFET kênh P: bật khi VGS âm, hợp làm công tắc phía cao",
+   "section": "MOSFET kênh P",
+   "sources": [
+    "S3",
+    "S14"
+   ],
+   "bullets": [
+    "Mũi tên trên đường Source chỉ ra ngoài",
+    "Dòng ID chảy từ Source sang Drain",
+    "Bật khi Gate thấp hơn Source quá |Vth|"
+   ],
+   "notes": "MOSFET kênh P là bản đảo cực của kênh N, giống như PNP so với NPN. Mũi tên chỉ ra ngoài. Source nối nguồn dương, Drain nối tải, tải nối đất: đó là công tắc phía cao, tiện vì tải vẫn nối đất. Kéo Gate xuống thấp hơn Source quá ngưỡng thì bật, nghĩa là VGS âm; đưa Gate về bằng điện áp Source thì VGS bằng không và MOSFET tắt. Ảnh thật là IRFI9540, kênh P trong vỏ TO-220 fullpak, nhìn ngoài rất giống IRFIBC30 của kênh N: chỉ mã ghi trên thân phân biệt được. Chỗ dễ nhầm: khi nguồn cao, hãy kiểm tra điện áp VGS tối đa cho phép trong datasheet trước khi kéo Gate xuống đất.",
+   "layout": "annotated-figure",
+   "tone": "light",
+   "body": "**MOSFET kênh P** là bản đảo cực của kênh N [S3]. **Source** nối nguồn dương, **Drain** nối tải. Kéo Gate thấp hơn Source quá ngưỡng thì bật (**VGS âm**); đưa Gate về điện áp Source thì tắt. Ảnh: IRFI9540, vỏ TO-220 fullpak [S14].",
+   "images": [
+    {
+     "file": "images/irfi9540.jpg",
+     "alt": "MOSFET kênh P IRFI9540 vỏ TO-220 fullpak",
+     "credit": "Retired electrician, CC0, Wikimedia Commons [S14]",
+     "url": "https://commons.wikimedia.org/wiki/File:IRFI9540_MOS_transistor_02.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Cấu trúc bán dẫn: kênh N dẫn bằng electron, kênh P dẫn bằng lỗ trống",
+   "section": "MOSFET kênh P",
+   "sources": [
+    "S3"
+   ],
+   "bullets": [
+    "Kênh N: đế loại P, hai vùng N+; Gate dương kéo electron lên mặt thành kênh N",
+    "Kênh P: đế loại N, hai vùng P+; Gate âm kéo lỗ trống (hole) lên mặt thành kênh P",
+    "Kênh N dẫn bằng electron",
+    "Kênh P dẫn bằng lỗ trống"
+   ],
+   "notes": "Hình này nhìn vào bên trong lát cắt của hai MOSFET. Kênh N xây trên đế loại P, có hai vùng N cộng ở Source và Drain. Đặt điện áp dương lên Gate, các electron bị kéo lên sát lớp oxit và tạo thành kênh loại N nối hai vùng N: dòng chảy nhờ electron. Kênh P xây ngược lại: đế loại N, hai vùng P cộng, điện áp Gate âm kéo lỗ trống lên bề mặt tạo kênh loại P. Lỗ trống không phải hạt vật chất đi chuyển, mà là chỗ thiếu electron, nhưng để học thì cứ coi như hạt mang điện dương. Chỗ dễ nhầm: hình vẽ chỉ là sơ đồ giản lược dựng từ mô tả của Wikipedia; không đại diện cho cấu trúc thật của mọi linh kiện.",
+   "layout": "two-column-comparison",
+   "tone": "light"
+  },
+  {
+   "title": "JFET: thường dẫn, bóp kênh bằng điện áp Gate",
+   "section": "JFET",
+   "sources": [
+    "S4",
+    "S16"
+   ],
+   "bullets": [
+    "Điều khiển bằng điện áp, không cần dòng phân cực",
+    "Thường dẫn khi VGS bằng 0",
+    "Gate phân cực ngược làm kênh bị bóp; đến pinch-off thì ngừng dẫn",
+    "Kênh N: mũi tên ở Gate chỉ vào kênh; trở kháng vào lớn"
+   ],
+   "notes": "JFET là một trong những FET đơn giản nhất. Nó là một kênh bán dẫn dài với hai tiếp xúc ở hai đầu, Source và Drain, và một mối nối p–n làm Gate. Hình ảnh quen thuộc là cái vòi: bóp ống thì nước chảy ít đi. Với JFET, đặt điện áp ngược lên Gate thì lớp nghèo mở rộng và bóp kênh; đến điện áp pinch-off thì dòng Drain–Source ngừng. Khác MOSFET tăng cường, JFET thường dẫn sẵn khi VGS bằng không. Với kênh N, Gate âm hơn Source làm dòng giảm. Trở kháng vào lớn. Ảnh thật là một JFET vỏ TO-92, thân ghi K170. Chỗ dễ nhầm: đừng phân cực thuận mối nối Gate, vì lúc đó nó hoạt động như một diode.",
+   "layout": "figure",
+   "tone": "light",
+   "images": [
+    {
+     "file": "images/jfet-k170.jpg",
+     "alt": "JFET vỏ TO-92, thân ghi K170",
+     "credit": "Euler666, CC BY-SA 3.0, Wikimedia Commons [S16]",
+     "url": "https://commons.wikimedia.org/wiki/File:Encapsulado_JFET.jpg"
+    }
+   ]
+  },
+  {
+   "title": "BJT và MOSFET: năm tiêu chí so sánh",
+   "section": "So sánh BJT và MOSFET",
+   "sources": [
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S10"
+   ],
+   "bullets": [
+    "Điều khiển bằng: dòng Base (BJT) · điện áp Gate (MOSFET)",
+    "Trở kháng vào: thấp hơn, cần dòng Base (BJT) · rất cao ở DC (MOSFET)",
+    "Tốc độ chuyển mạch: chậm hơn (BJT) · nhanh, đơn cực (MOSFET công suất)",
+    "Tổn hao: sụt áp VCE(sat) (BJT) · điện trở RDS(on) (MOSFET)",
+    "Ứng dụng: khuếch đại tín hiệu nhỏ (BJT) · công tắc công suất, động cơ, CMOS (MOSFET)"
+   ],
+   "notes": "Bảng này so sánh hai họ theo năm tiêu chí. Điều khiển: BJT cần dòng Base, MOSFET chỉ cần điện áp Gate. Trở kháng vào: MOSFET rất cao ở DC vì cổng cách điện, còn BJT phải được cấp dòng nên thấp hơn; nhưng cổng MOSFET có điện dung nên đóng ngắt vẫn cần một dòng nạp xả ngắn. Tốc độ: MOSFET công suất là linh kiện đơn cực nên đóng ngắt rất nhanh, không phải chờ xả hạt tải thiểu số như BJT; con số cụ thể tùy từng linh kiện. Tổn hao: BJT bão hòa có sụt áp VCE(sat); MOSFET bật có điện trở RDS(on), tổn hao dẫn bằng dòng bình phương nhân điện trở, nên với dòng lớn MOSFET có RDS(on) nhỏ thường ít nóng hơn. Ứng dụng: BJT cho khuếch đại tín hiệu nhỏ, MOSFET cho công tắc công suất và CMOS.",
+   "layout": "lookup-table",
+   "tone": "dark"
+  },
+  {
+   "title": "Bảng ký hiệu bốn loại chính: chiều mũi tên và chiều dòng điện",
+   "section": "Bảng tổng hợp ký hiệu",
+   "sources": [
+    "S3",
+    "S5"
+   ],
+   "bullets": [
+    "NPN: mũi tên ở Emitter chỉ ra ngoài; dòng C → E",
+    "PNP: mũi tên ở Emitter chỉ vào trong; dòng E → C",
+    "N-MOS: mũi tên chỉ vào kênh; dòng D → S, VGS dương",
+    "P-MOS: mũi tên chỉ ra khỏi kênh; dòng S → D, VGS âm"
+   ],
+   "notes": "Đây là trang để bạn chụp màn hình giữ lại. Bốn ký hiệu đặt cạnh nhau, cùng bảng màu: cam là cực điều khiển, xanh dương là dòng chính vào, xanh lục là dòng chính ra. Với BJT, mũi tên nằm ở Emitter: NPN chỉ ra ngoài, PNP chỉ vào trong. Với MOSFET ba cực, mũi tên chỉ vào kênh là kênh N, chỉ ra ngoài là kênh P. Mọi chiều dòng điện đều là chiều quy ước, từ cực dương sang cực âm: NPN và kênh N có dòng từ cực vào, Collector hoặc Drain, sang cực ra; PNP và kênh P có dòng ngược lại, từ Emitter hoặc Source sang Collector hoặc Drain. Chỗ dễ nhầm: điện áp điều khiển của kênh N dương, của kênh P âm, so với Source.",
+   "layout": "card-grid",
+   "tone": "light"
+  },
+  {
+   "title": "Đo transistor bằng đồng hồ vạn năng (thang diode)",
+   "section": "Đo kiểm bằng đồng hồ vạn năng",
+   "sources": [
+    "S5"
+   ],
+   "bullets": [
+    "NPN: que đỏ vào Base, que đen vào Collector rồi Emitter: hiện sụt áp thuận",
+    "Đảo que, và giữa Collector với Emitter ở cả hai chiều: báo hở (OL)",
+    "PNP: kết quả đảo lại, que đen vào Base thì hai mối nối dẫn",
+    "MOSFET: Gate báo OL; Drain–Source đọc như diode thân; xả tĩnh điện trước khi đo"
+   ],
+   "notes": "Cách kiểm tra nhanh dựa trên mô hình hai diode nối lưng nhau: một diode Base–Emitter và một diode Base–Collector. Tài liệu nhắc rằng mô hình này chỉ để kiểm tra, không dùng để hiểu hoạt động của transistor. Đặt đồng hồ số ở thang diode, que đỏ là cực dương. Với NPN: que đỏ vào Base, que đen lần lượt vào Collector rồi Emitter, đồng hồ hiện sụt áp thuận cỡ vài trăm milivôn đến khoảng 0,7 vôn; đảo que thì báo hở; giữa Collector và Emitter luôn báo hở. PNP thì đảo lại. Với MOSFET, Gate cách điện nên báo hở với cả hai chân kia; giữa Drain và Source có diode thân. Cổng MOSFET sợ tĩnh điện, nên xả bằng cách nối tắt Gate với Source trước khi đo. Đo ngay trên bo cho kết quả sai vì linh kiện khác mắc song song.",
+   "layout": "numbered-rows",
+   "tone": "light"
+  },
+  {
+   "title": "Ứng dụng: từ công tắc nhỏ đến bộ điều khiển ô tô (ECU)",
+   "section": "Ứng dụng thực tế",
+   "sources": [
+    "S5",
+    "S6",
+    "S7",
+    "S17"
+   ],
+   "bullets": [
+    "Công tắc: LED, relay, van; khuếch đại tín hiệu",
+    "CMOS = NMOS + PMOS; cầu H cho động cơ",
+    "ECU: mạch điều khiển kim phun, relay, van"
+   ],
+   "notes": "Bốn họ ứng dụng. Công tắc: bật tắt LED, relay, van bằng tín hiệu nhỏ, bằng mạch phía thấp hoặc phía cao như các trang trước. Khuếch đại: mạch bám Emitter làm bộ khuếch đại dòng và bộ đệm; cặp Darlington nhân độ lợi dòng của hai transistor. Vi mạch số: CMOS ghép cặp đối xứng MOSFET loại P và loại N thành cổng logic, cổng đảo gồm một PMOS và một NMOS; vi xử lý và bộ nhớ đều dựa trên CMOS. Điều khiển động cơ: cầu H bốn transistor cho động cơ quay hai chiều. Ô tô: ECU có mạch điều khiển cơ cấu chấp hành cho kim phun, relay và van; ảnh bo Renault cho thấy một transistor NPN BCP56-16 vỏ SOT-223. Thiết kế của từng hãng nằm ngoài nguồn của bài.",
+   "layout": "annotated-figure",
+   "tone": "light",
+   "body": "Transistor là **công tắc** cho LED, relay, van và là **bộ khuếch đại** [S5]. **CMOS** ghép PMOS với NMOS thành cổng logic [S6]; **cầu H** cho động cơ quay hai chiều [S5]. **ECU** có mạch điều khiển kim phun, relay, van [S7]; bo Renault trong ảnh có NPN BCP56-16 vỏ SOT-223 [S17].",
+   "images": [
+    {
+     "file": "images/renault-sot223.jpg",
+     "alt": "Transistor NPN BCP56-16 vỏ SOT-223 trên bo Renault",
+     "credit": "Raimond Spekking, CC BY-SA 4.0, Wikimedia Commons [S17]",
+     "url": "https://commons.wikimedia.org/wiki/File:Renault_8200607915_-_main_controller_-_On_Semiconductor_BH-16-7382.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Cheat sheet và năm câu hỏi tự kiểm tra",
+   "section": "Cheat sheet và câu hỏi tự kiểm tra",
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+   ],
+   "bullets": [
+    "Điều kiện giữa Base và Emitter để NPN silicon bắt đầu dẫn là gì?",
+    "NPN có β = 200, IB = 0,5 mA: IC và IE bằng bao nhiêu?",
+    "N-MOSFET làm công tắc low-side: tải nối ở đâu, Gate cần điều kiện gì?",
+    "Muốn bật P-MOSFET làm công tắc high-side, Gate phải ở mức nào so với Source?",
+    "Vì sao khi VGS = 0, JFET dẫn còn MOSFET tăng cường thì không?"
+   ],
+   "notes": "Trang cuối của phần nội dung gồm hai nửa. Nửa trái là cheat sheet một trang: ba cực với ba màu; NPN mũi tên ra ngoài, dòng Base vào, VBE khoảng 0,6 đến 0,7 vôn, IC xấp xỉ beta nhân IB, dòng C đến E, công tắc phía thấp; PNP mũi tên vào trong, dòng Base ra, Base thấp hơn Emitter, dòng E đến C, công tắc phía cao; MOSFET kênh N bật khi VGS vượt Vth, dòng D đến S; MOSFET kênh P bật khi VGS âm, dòng S đến D; JFET thường dẫn khi VGS bằng 0. Nửa phải là năm câu hỏi. Đáp án: một, VBE khoảng 0,6 đến 0,7 vôn và có dòng vào Base; hai, IC bằng 100 mA và IE bằng 100,5 mA; ba, tải giữa nguồn dương và Drain, Source nối đất, VGS lớn hơn Vth; bốn, Gate thấp hơn Source quá |Vth|; năm, JFET có kênh dẫn sẵn, MOSFET tăng cường cần Gate vượt Vth.",
+   "layout": "numbered-rows",
+   "tone": "dark"
+  },
+  {
+   "title": "Nguồn tham khảo",
+   "section": "Nguồn tham khảo",
+   "sources": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18"
+   ],
+   "bullets": [
+    "S1: Wikipedia, Transistor",
+    "S2: Wikipedia, Bipolar junction transistor",
+    "S3: Wikipedia, MOSFET",
+    "S4: Wikipedia, JFET",
+    "S5: SparkFun, Transistors (tutorial)",
+    "S6: Wikipedia, CMOS",
+    "S7: Wikipedia, Electronic control unit",
+    "S8: Wikipedia, Small-outline transistor",
+    "S9: Wikipedia, TO-220",
+    "S10: Wikipedia, Power MOSFET",
+    "S11: Suyash Dwivedi, ảnh BC547, CC BY-SA 4.0",
+    "S12: Mister rf, ảnh 4 transistor, CC BY-SA 3.0",
+    "S13: CyrilB, ảnh D2PAK, GFDL và CC BY-SA 3.0",
+    "S14: Retired electrician, IRFI9540, CC0",
+    "S15: Retired electrician, IRFIBC30, CC0",
+    "S16: Euler666, ảnh JFET, CC BY-SA 3.0",
+    "S17: Raimond Spekking, bo Renault, CC BY-SA 4.0",
+    "S18: Axel Richter, ảnh MOSFET TO-220, Unsplash License"
+   ],
+   "notes": "Nguồn hình và nguồn kiến thức nằm trong lesson.md, mỗi nguồn một dòng với địa chỉ đầy đủ.",
+   "layout": "references",
+   "tone": "dark"
+  }
+ ]
+}

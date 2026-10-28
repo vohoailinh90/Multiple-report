@@ -1,0 +1,45 @@
+{
+ "topic_label": "Kỹ thuật · Bài L19",
+ "motif": "dots",
+ "question": "Một linh kiện ba chân làm sao vừa khuếch đại tín hiệu, vừa đóng ngắt được dòng điện lớn?",
+ "cards": [
+  "Base / Gate",
+  "Collector / Drain",
+  "Emitter / Source"
+ ],
+ "concepts": [
+  "base",
+  "collector",
+  "emitter"
+ ],
+ "concept_colors": {
+  "base": [
+   "#DD4B0E",
+   "#DD4B0E"
+  ],
+  "gate": [
+   "#DD4B0E",
+   "#DD4B0E"
+  ],
+  "điều khiển": [
+   "#DD4B0E",
+   "#DD4B0E"
+  ],
+  "collector": [
+   "#2F6BEF",
+   "#2F6BEF"
+  ],
+  "drain": [
+   "#2F6BEF",
+   "#2F6BEF"
+  ],
+  "emitter": [
+   "#0B8A5F",
+   "#0B8A5F"
+  ],
+  "source": [
+   "#0B8A5F",
+   "#0B8A5F"
+  ]
+ }
+}

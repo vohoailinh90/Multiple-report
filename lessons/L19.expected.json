@@ -1,0 +1,64 @@
+{
+  "id": "L19",
+  "title": "Transistor cho người mới: hình dạng, ký hiệu và dòng điện",
+  "topic": "ky-thuat",
+  "sections": [
+    "Transistor là gì và để làm gì",
+    "Bản đồ phân loại",
+    "Hình dạng thực tế và cách nhận biết chân",
+    "BJT NPN",
+    "BJT PNP",
+    "MOSFET kênh N",
+    "MOSFET kênh P",
+    "JFET",
+    "So sánh BJT và MOSFET",
+    "Bảng tổng hợp ký hiệu",
+    "Đo kiểm bằng đồng hồ vạn năng",
+    "Ứng dụng thực tế",
+    "Cheat sheet và câu hỏi tự kiểm tra",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://en.wikipedia.org/wiki/Transistor",
+    "https://en.wikipedia.org/wiki/Bipolar_junction_transistor",
+    "https://en.wikipedia.org/wiki/MOSFET",
+    "https://en.wikipedia.org/wiki/JFET",
+    "https://learn.sparkfun.com/tutorials/transistors"
+  ],
+  "key_terms": [
+    "Base",
+    "Collector",
+    "Emitter",
+    "Gate",
+    "Drain",
+    "Source",
+    "TO-92",
+    "TO-220",
+    "SOT-23",
+    "D2PAK",
+    "V_BE",
+    "V_GS",
+    "V_th",
+    "low-side",
+    "high-side",
+    "pinch-off",
+    "CMOS",
+    "body diode",
+    "β"
+  ],
+  "min_words": 2200,
+  "max_words": 12000,
+  "min_citations": 30,
+  "min_independent_sources": 10,
+  "min_layouts": 8,
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 8,
+  "language": "vi",
+  "slides": {
+    "min": 15,
+    "max": 20
+  }
+}

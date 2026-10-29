@@ -1,0 +1,9 @@
+{
+ "slides_sha256": "833dd398085524b849a0eeb3b9d9ac4ba2ac53a21b88de87f4ee1755cd2f3191",
+ "pptx_sha256": "a68c70385291e9e04c35516a04cb071402923a01a6e61a454376d2b5cb446112",
+ "canvas": "https://moda.app/canvas/50fb95b7-7057-434c-99f5-a63792e9d757",
+ "built": "2026-10-29",
+ "slide_count": 58,
+ "language": "ja",
+ "note": "Bản dịch tiếng Nhật của deck L18; nguồn: slides.ja.json, build bằng scripts/deckgen/gen_ja.py"
+}

@@ -1,5 +1,5 @@
-"""Japanese deck markup for L17 (docs/deck-style.md): gen.py with CJK-aware wrapping (Moda breaks lines only at spaces, so phrase spaces are inserted) and Noto Sans JP.
-usage: gen_ja.py <page 0..N> | check   (reads lessons/L17/slides.ja.json and scripts/deckgen/opts/L17.ja.json)"""
+"""Japanese deck markup for L17/L18 (docs/deck-style.md): gen.py with CJK-aware wrapping (Moda breaks lines only at spaces, so phrase spaces are inserted) and Noto Sans JP.
+usage: gen_ja.py <L17|L18> <page 0..N> | check   (reads lessons/<id>/slides.ja.json and scripts/deckgen/opts/<id>.ja.json)"""
 import importlib.util, json, sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
@@ -38,20 +38,21 @@ def zw(t):
             out.append(" ")
     return "".join(out)
 g.x = lambda t: _esc(zw(t), {'"': "&quot;"})
-OPTS = json.loads((ROOT / "scripts/deckgen/opts/L17.ja.json").read_text(encoding="utf-8"))
-SL = ROOT / "lessons/L17/slides.ja.json"
+LID = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1][0] == "L" else "L17"
+OPTS = json.loads((ROOT / f"scripts/deckgen/opts/{LID}.ja.json").read_text(encoding="utf-8"))
+SL = ROOT / f"lessons/{LID}/slides.ja.json"
 def page(i):
-    m = g.page("L17", i, OPTS, str(SL))
+    m = g.page(LID, i, OPTS, str(SL))
     m = m.replace('font-family="Bricolage Grotesque"', 'font-family="Noto Sans JP"').replace('<content font-family="Be Vietnam Pro">', '<content font-family="Noto Sans JP">')
     return m.replace("Nguồn:", "出典:").replace("Hình:", "図:")
 if __name__ == "__main__":
-    if sys.argv[1] == "check":
+    if sys.argv[2] == "check":
         n = len(json.loads(SL.read_text(encoding="utf-8"))["slides"]) + 1
         for i in range(n):
             g.PENDING_IDS = []
-            try: mk = g.page("L17", i, OPTS, str(SL))
+            try: mk = g.page(LID, i, OPTS, str(SL))
             except SystemExit as e: print(i, "ERR", e); continue
             for t in g.overflows(mk): print(i, "OVERFLOW", t[:60])
             if g.PENDING_IDS: print(i, "pending ids", g.PENDING_IDS)
     else:
-        print(page(int(sys.argv[1])))
+        print(page(int(sys.argv[2])))

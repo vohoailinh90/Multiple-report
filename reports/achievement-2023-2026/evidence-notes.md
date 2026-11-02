@@ -62,3 +62,6 @@ Nên chuẩn bị chứng cứ độc lập (email, quyết định phân bổ g
 ## KHÔNG đưa vào deck (có dữ liệu nhạy cảm)
 Đường dẫn mạng nội bộ trong ô C3 / B4 / B5 của hai macro, tên khách hàng trong VBA/Workbook, mật khẩu sheet, tenant/ID Azure,
 tên và email thật trong DB cũ của RSVP.
+
+## Cập nhật 2026-11-02
+Slide 10 nêu đề xuất cụ thể: nâng từ level 52 lên level 53 (do chủ repo cung cấp).

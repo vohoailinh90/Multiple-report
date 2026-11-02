@@ -65,3 +65,12 @@ tên và email thật trong DB cũ của RSVP.
 
 ## Cập nhật 2026-11-02
 Slide 10 nêu đề xuất cụ thể: nâng từ level 52 lên level 53 (do chủ repo cung cấp).
+
+## Bổ sung sau review (2026-11-02)
+- **924 test FTA (slide 18–19)** là kết quả CHẠY, không chỉ đếm tĩnh: trong repo doc-tools (origin/main, HEAD 40053d7)
+  `python3 -m unittest discover -s tests -p 'test_fta*.py'` → `Ran 924 tests ... OK` (23,8 giây, chạy lại ngày 2026-11-02 sau khi
+  agent phân tích chạy lần đầu: 21 giây). Đếm tĩnh `def test_` trong 24 file `tests/test_fta*.py` = 922 (khác 2 do test sinh theo tham số).
+  Con số 2.853 ở bảng trên là test của CẢ repo doc-tools (`unittest discover -s tests`, chạy OK 64 giây), không phải riêng FTA.
+  Test chạy không cần giao diện; chưa chạy trên Excel hay Windows thật.
+- **Thành tích do chủ repo cung cấp** nay được ghi ngay trên slide 2, 3, 6, 7, 9, 10, 20 bằng dòng chú thích
+  "Author's own account, not provable from files".

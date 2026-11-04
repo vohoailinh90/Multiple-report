@@ -481,6 +481,23 @@ def profile_card(p, n, s, o, idx):
     return out
 
 
+REF_LINE = re.compile(r"^- \[(S\d+)\] (.+)$", re.M)
+REF_LINK = re.compile(r"\]\((https?://[^)\s]+)\)")
+
+
+def ref_urls(lid):
+    """{'S1': url} read from the `## Nguồn tham khảo` lines of lessons/<lid>/lesson.md written as `- [S1] [text](url)`."""
+    path = ROOT / "lessons" / str(lid) / "lesson.md"
+    if not path.is_file():
+        return {}
+    found = {}
+    for label, rest in REF_LINE.findall(path.read_text(encoding="utf-8")):
+        m = REF_LINK.search(rest)
+        if m:
+            found[label] = m.group(1)
+    return found
+
+
 def references(p, n, s, o):
     """Danh sách nguồn (tối đa 18): một cột nếu ≤ 6, hai cột nếu nhiều hơn; 'S1: ...' cho nhãn màu."""
     bl = s["bullets"]; c = len(bl); out = []
@@ -489,6 +506,7 @@ def references(p, n, s, o):
     y0, h, gap = 270, 650, 12
     cw = (1728 - 40 * (cols - 1)) / cols
     rh = min(140, (h - gap * (per - 1)) / per)
+    urls = ref_urls(s.get("_lid"))  # a source with a link in lesson.md is drawn as a clickable link (CLAUDE.md: every source is a hyperlink)
     for k, b in enumerate(bl):
         a, t = acc(p, n, k)
         q, r = divmod(k, per)
@@ -496,7 +514,13 @@ def references(p, n, s, o):
         kk, v = split_kv(b)
         out.append(f'<rectangle x="{xx:.0f}" y="{yy:.0f}" width="{cw:.0f}" height="{rh:.0f}" corner-radius="16" fill="{p["card"]}"/>')
         out.append(f'<text x="{xx + 24:.0f}" y="{yy:.0f}" width="92" height="{rh:.0f}" font-weight="800" font-size="26" color="{a}" vertical-align="middle" max-lines="1">{x(kk or str(k + 1))}</text>')
-        out.append(f'<text x="{xx + 120:.0f}" y="{yy:.0f}" width="{cw - 144:.0f}" height="{rh:.0f}" font-size="{fit(v, cw - 144, rh - 12, 28, 1.18, FLOOR)}" color="{p["ink"]}" vertical-align="middle" line-height="1.18">{x(v)}</text>')
+        size = fit(v, cw - 144, rh - 12, 28, 1.18, FLOOR)
+        link = urls.get(kk or "")
+        if link:
+            out.append(f'<text x="{xx + 120:.0f}" y="{yy:.0f}" width="{cw - 144:.0f}" height="{rh:.0f}" format="html" font-size="{size}" color="{p["ink"]}" vertical-align="middle" line-height="1.18">'
+                       f'<p><a href="{x(link)}" style="color: {a}; text-decoration: underline">{x(v)}</a></p></text>')
+        else:
+            out.append(f'<text x="{xx + 120:.0f}" y="{yy:.0f}" width="{cw - 144:.0f}" height="{rh:.0f}" font-size="{size}" color="{p["ink"]}" vertical-align="middle" line-height="1.18">{x(v)}</text>')
     return out
 
 

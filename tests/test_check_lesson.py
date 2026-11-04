@@ -174,6 +174,20 @@ class GateTests(unittest.TestCase):
         errs, _, _ = gate.check(self.root, "L99")
         self.assertIn("deck title 'Tiêu đề cũ' differs from the lesson title", errs)
 
+    def test_a_lesson_dated_from_2026_11_04_needs_every_source_as_a_hyperlink(self):
+        """CLAUDE.md (owner, 2026-11-04): the reader must be able to open each source at once."""
+        newer = LESSON.replace("date: 2026-10-20", "date: 2026-11-04")
+        errs, _ = self.run_gate(lesson=newer)
+        self.assertTrue(any(e.startswith("reference S1 must be a hyperlink") for e in errs), errs)
+        linked = newer
+        for k, line in enumerate(REFS, 1):
+            url = line.rsplit(", ", 1)[1]
+            linked = linked.replace(line, f"- [S{k}] [Nguồn {k}]({url})")
+        errs, _ = self.run_gate(lesson=linked)
+        self.assertFalse(any("must be a hyperlink" in e for e in errs), errs)
+        errs, _ = self.run_gate(lesson=LESSON)  # the older lesson keeps its plain urls
+        self.assertFalse(any("must be a hyperlink" in e for e in errs), errs)
+
     def test_a_tone_must_be_light_or_dark(self):
         errs, _ = self.run_gate(self.mutated(4, tone="ligt"))
         self.assertIn("tone 'ligt' is not light or dark: Ba bước", errs)

@@ -29,6 +29,8 @@ BULLETS = {"card-grid": (1, 4), "flow": (1, 5), "two-column-comparison": (2, 6),
            "references": (1, 18)}
 HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
+LINK_FROM = "2026-11-04"  # lessons dated from here on write every source as a hyperlink (CLAUDE.md, owner 2026-11-04)
+MDLINK = re.compile(r"\[[^\]\n]+\]\((https?://[^)\s]+)\)")
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
 URL = re.compile(r"https?://[^\s/$.?#][^\s]*\.[^\s]+|https?://localhost\S*", re.I)
@@ -140,6 +142,9 @@ def check(root, lid):
     errs += [f"bibliography line is not '- [Sn] text': {l.strip()[:60]}" for l in reflist.splitlines()
              if l.strip() and not re.fullmatch(r"- \[S\d+\] \S.*", l)]
     refs = dict(found)
+    if fm and DATE.fullmatch(meta.get("date", "")) and meta["date"] >= LINK_FROM:
+        errs += [f"reference {k} must be a hyperlink '- [{k}] [text](https://...)' (parentheses in the url written %28 %29): {r.strip()[:50]}"
+                 for k, r in refs.items() if not MDLINK.search(r)]
     errs += [f"reference label {k} is used twice" for k in sorted({k for k, _ in found if [j for j, _ in found].count(k) > 1})]
     used = set(CITE.findall(text))
     if used - set(refs): errs.append(f"cited but not listed: {sorted(used - set(refs))}")

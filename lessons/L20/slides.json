@@ -92,10 +92,10 @@
       ],
       "bullets": [
         "Reticle limit: diện tích tối đa máy quang khắc phơi sáng trong một lần",
-        "Muốn mạch lớn hơn thì phải chia thành nhiều die rồi đóng gói chung",
+        "Cách phổ biến để có mạch lớn hơn: chia thành nhiều die rồi đóng gói chung",
         "Blackwell: hai die, mỗi die sát giới hạn này, ghép thành một GPU"
       ],
-      "notes": "Mạch được in lên wafer bằng ánh sáng đi qua một khuôn gọi là reticle. Máy chỉ phơi sáng được một vùng giới hạn mỗi lần, khoảng 858 mm², nên một die nguyên khối không thể lớn hơn mức đó. Để có tổng diện tích silicon lớn hơn, cách duy nhất là chia mạch thành nhiều die rồi đóng gói chung, tức là chiplet. NVIDIA nói GPU Blackwell có hai die, mỗi die đạt giới hạn reticle. Chuẩn UCIe cũng nêu ngay từ bản 1.0 mục tiêu cho phép bộ xử lý lớn hơn kích thước reticle tối đa. Con số 858 mm² là trần phổ biến, các nguồn khác nhau có thể làm tròn khác nhau.",
+      "notes": "Mạch được in lên wafer bằng ánh sáng đi qua một khuôn gọi là reticle. Máy chỉ phơi sáng được một vùng giới hạn mỗi lần, khoảng 858 mm², nên một die làm theo cách thông thường (một lần phơi sáng) không vượt mức đó. Để có tổng diện tích silicon lớn hơn, cách phổ biến là chia mạch thành nhiều die rồi đóng gói chung, tức là chiplet. Đây không phải trần tuyệt đối: có kỹ thuật ghép nối các vùng phơi sáng và chip cỡ cả wafer, nhưng bài không đi sâu. NVIDIA nói GPU Blackwell có hai die, mỗi die đạt giới hạn reticle. Chuẩn UCIe cũng nêu ngay từ bản 1.0 mục tiêu cho phép bộ xử lý lớn hơn kích thước reticle tối đa. Con số 858 mm² là trần phổ biến, các nguồn khác nhau có thể làm tròn khác nhau.",
       "layout": "one-big-number",
       "tone": "light"
     },
@@ -155,17 +155,18 @@
       "sources": [
         "S2",
         "S3",
-        "S5"
+        "S5",
+        "S7"
       ],
       "bullets": [
         "Là gì: mảnh chip nhỏ, một nhóm chức năng rõ ràng",
         "Ví dụ: AMD gọi CCD và IOD, Intel gọi tile",
-        "Đừng hiểu nhầm: chiplet không dùng riêng lẻ, cần đóng gói chung"
+        "Lưu ý: nhiều chiplet không dùng riêng được, nhưng M1 Max là chip hoàn chỉnh"
       ],
-      "notes": "Chiplet là một mạch tích hợp nhỏ có một nhóm chức năng được xác định rõ, và nhiều chiplet được ghép trên một interposer trong cùng một package để tạo thành bộ xử lý. Từ này do giáo sư John Wawrzynek ở Đại học California, Berkeley đặt năm 2006. Các hãng có tên gọi riêng: AMD gọi mảnh lõi là CCD và mảnh vào ra là IOD; Intel gọi là tile. Ví dụ của người viết: chiplet giống các công trình trong một khu phố. Chỗ dễ nhầm: bạn không cắm một chiplet vào bo mạch như một con chip riêng; nó luôn đi trong một gói cùng các mảnh khác.",
+      "notes": "Chiplet là một mạch tích hợp nhỏ có một nhóm chức năng được xác định rõ, và nhiều chiplet được ghép trên một interposer trong cùng một package để tạo thành bộ xử lý. Từ này do giáo sư John Wawrzynek ở Đại học California, Berkeley đặt năm 2006. Các hãng có tên gọi riêng: AMD gọi mảnh lõi là CCD và mảnh vào ra là IOD; Intel gọi là tile. Ví dụ của người viết: chiplet giống các công trình trong một khu phố. Chỗ dễ nhầm: nhiều chiplet, như CCD của AMD, không dùng riêng được vì thiếu phần liên lạc ra ngoài; nhưng không phải mọi die trong kiến trúc chiplet đều vậy: hai die của Apple M1 Ultra là hai chip M1 Max hoàn chỉnh.",
       "layout": "explainer",
       "tone": "light",
-      "body": "**Chiplet** là mạch tích hợp rất nhỏ với một nhóm chức năng rõ ràng; nhiều chiplet được ghép trên một **interposer** (tấm trung gian) trong một package để tạo thành bộ xử lý [S2]. Từ này do John Wawrzynek, Đại học California, Berkeley, đặt năm 2006 [S2]. AMD gọi mảnh lõi là **CCD** và mảnh vào ra là **IOD** [S3]; Intel gọi mỗi mảnh là **tile** [S5]."
+      "body": "**Chiplet** là mạch tích hợp rất nhỏ với một nhóm chức năng rõ ràng; nhiều chiplet được ghép trên một **interposer** (tấm trung gian) trong một package để tạo thành bộ xử lý [S2]. Từ này do John Wawrzynek, Đại học California, Berkeley, đặt năm 2006 [S2]. AMD gọi mảnh lõi là **CCD** và mảnh vào ra là **IOD** [S3]; Intel gọi mỗi mảnh là **tile** [S5]. Nhiều chiplet không chạy riêng được, nhưng hai die của M1 Ultra là chip M1 Max hoàn chỉnh [S7]."
     },
     {
       "title": "Chip nguyên khối và chip chiplet",

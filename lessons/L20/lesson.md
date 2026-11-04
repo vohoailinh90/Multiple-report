@@ -14,7 +14,7 @@ Bài viết cho người **không học điện**. Mọi thuật ngữ kỹ thu�
 
 Chiplet là một mảnh chip nhỏ, mỗi mảnh làm một nhóm việc rõ ràng; nhiều chiplet được ghép trên một tấm nền trong cùng một vỏ để cùng hoạt động như một bộ xử lý lớn [S2]. Hãy hình dung **một khu phố thay vì một tòa nhà chọc trời** (Ví dụ của người viết): thay vì xây mọi thứ vào một khối duy nhất, người ta xây nhiều công trình chuyên dụng rồi nối chúng bằng đường lớn và cầu.
 
-Vì sao làm vậy? Có bốn lý do chính. Một, máy in mạch của nhà máy chip chỉ phơi sáng được một vùng tối đa khoảng 858 mm² mỗi lần, nên chip nguyên khối không thể lớn hơn mức đó [S12]. Hai, chip càng lớn thì càng dễ dính một lỗi chế tạo làm hỏng cả con, nên tỷ lệ chip dùng được (yield) giảm [S11]. Ba, bài báo của AMD năm 2021 cho biết tiến bộ về công nghệ chế tạo đã chậm lại còn chi phí tăng, nên chia nhỏ là cách tiếp tục tăng sức mạnh [S13]. Bốn, không phải phần nào của chip cũng cần công nghệ mới nhất và đắt nhất; phần vào ra dữ liệu có thể làm bằng công nghệ cũ hơn, rẻ hơn [S3].
+Vì sao làm vậy? Có bốn lý do chính. Một, máy in mạch của nhà máy chip chỉ phơi sáng được một vùng tối đa khoảng 858 mm² mỗi lần, nên một chip nguyên khối làm theo cách thông thường (một lần phơi sáng) không vượt mức đó [S12]; có kỹ thuật ghép nối các vùng phơi sáng để vượt qua, nhưng bài không đi sâu (xem mục chưa chắc chắn). Hai, chip càng lớn thì càng dễ dính một lỗi chế tạo làm hỏng cả con, nên tỷ lệ chip dùng được (yield) giảm [S11]. Ba, bài báo của AMD năm 2021 cho biết tiến bộ về công nghệ chế tạo đã chậm lại còn chi phí tăng, nên chia nhỏ là cách tiếp tục tăng sức mạnh [S13]. Bốn, không phải phần nào của chip cũng cần công nghệ mới nhất và đắt nhất; phần vào ra dữ liệu có thể làm bằng công nghệ cũ hơn, rẻ hơn [S3].
 
 Chiplet đã có mặt khắp nơi. Vi xử lý AMD Ryzen 3000 (tháng 7 năm 2019) ghép các mảnh lõi với một mảnh vào ra [S3]. Intel Core Ultra thế hệ Meteor Lake (tháng 12 năm 2023) có bốn "tile" chế tạo ở hai hãng khác nhau [S5]. Apple M1 Ultra (2022) ghép hai chip M1 Max thành một [S7]. GPU Blackwell của NVIDIA (2024) ghép hai die cỡ giới hạn máy in mạch, tổng 208 tỷ transistor [S8]. Cái giá phải trả là nhiệt, độ phức tạp khi nối các mảnh và nhu cầu có chuẩn chung cho mảnh của nhiều hãng khác nhau [S2]; chuẩn UCIe sinh ra để giải bài toán cuối [S1].
 
@@ -40,7 +40,7 @@ Ví dụ của người viết: tấm wafer giống một khay bánh quy lớn, 
 
 ## Vì sao phải chia chip thành nhiều mảnh
 
-**Lý do 1: giới hạn kích thước của máy in mạch.** Mạch được in lên wafer bằng ánh sáng đi qua một khuôn gọi là reticle (mặt nạ quang khắc). Máy chỉ phơi sáng được một vùng giới hạn trong mỗi lần: mức trần này gọi là **reticle limit** (giới hạn khuôn), khoảng 858 mm² [S12]. Nếu muốn mạch lớn hơn, nhà sản xuất phải chia mạch thành nhiều die nhỏ hơn, gọi là chiplet, rồi đóng gói chúng chung với nhau [S12]. NVIDIA cho biết GPU Blackwell có hai die, mỗi die ở sát giới hạn này, ghép thành một GPU duy nhất [S8]. Chuẩn UCIe cũng nêu từ phiên bản 1.0 rằng nó cho phép tạo bộ xử lý lớn hơn kích thước reticle tối đa [S1].
+**Lý do 1: giới hạn kích thước của máy in mạch.** Mạch được in lên wafer bằng ánh sáng đi qua một khuôn gọi là reticle (mặt nạ quang khắc). Máy chỉ phơi sáng được một vùng giới hạn trong mỗi lần: mức trần này gọi là **reticle limit** (giới hạn khuôn), khoảng 858 mm² [S12]. Nguồn nêu cách làm phổ biến khi muốn mạch lớn hơn mức đó: chia mạch thành nhiều die nhỏ hơn, gọi là chiplet, rồi đóng gói chúng chung với nhau [S12]. Đây là giới hạn của một lần phơi sáng chứ không phải trần tuyệt đối của mọi cách chế tạo: có kỹ thuật ghép nối các vùng phơi sáng (reticle stitching) và có chip cỡ cả wafer, nhưng đó là hướng khác và bài không đọc nguồn về chúng. NVIDIA cho biết GPU Blackwell có hai die, mỗi die ở sát giới hạn này, ghép thành một GPU duy nhất [S8]. Chuẩn UCIe cũng nêu từ phiên bản 1.0 rằng nó cho phép tạo bộ xử lý lớn hơn kích thước reticle tối đa [S1].
 
 **Lý do 2: yield, tỷ lệ chip dùng được.** Yield là phần trăm die chạy đúng trên mỗi wafer. Một "lỗi sát thủ" (killer defect) là một hạt bụi hay khuyết tật đủ nhỏ để làm hỏng hoàn toàn die mà nó rơi vào [S11]. Die nhỏ có diện tích bé hơn nên ít khả năng dính lỗi hơn; một wafer cho ra nhiều die nhỏ hơn, mà cả wafer được xử lý và tính giá như nhau, nên die nhỏ rẻ hơn [S11]. Nguồn nêu ví dụ từ các chip thử nghiệm 5 nm của TSMC: yield trung bình khoảng 80% với die 17,92 mm², nhưng chỉ còn 32% khi die 100 mm² [S11]. Đây là chip thử nghiệm, không phải con số của một sản phẩm bán ra, nhưng nó cho thấy chiều hướng rất rõ: tăng diện tích thì yield giảm nhanh.
 
@@ -50,7 +50,7 @@ Ví dụ của người viết: tấm wafer giống một khay bánh quy lớn, 
 
 **Lý do 4: không phải phần nào cũng cần công nghệ mới nhất.** Lõi tính toán hưởng lợi nhiều nhất từ công nghệ mới, còn các mạch vào ra dữ liệu (nói chuyện với bộ nhớ, ổ cứng, cổng USB) thì kém lợi hơn, nên làm ở công nghệ cũ hơn cho rẻ. AMD làm đúng như vậy: mảnh lõi 7 nm, mảnh vào ra 12 nm hoặc 14 nm [S3][S4]. Intel cũng dùng cho tấm nền Foveros của Meteor Lake một công nghệ cũ giá rẻ vì tấm này chỉ cần dẫn tín hiệu giữa các mảnh, không chạy logic phức tạp [S5].
 
-Suy luận của người viết: bốn lý do cộng hưởng. Một mình giới hạn 858 mm² đã buộc chip cực lớn như GPU cho AI phải chia nhỏ; một mình yield và chi phí đã đủ khiến chip máy tính thông thường nên chia nhỏ.
+Suy luận của người viết: bốn lý do cộng hưởng. Một mình giới hạn 858 mm² của một lần phơi sáng đã khiến các hãng chọn chia nhỏ những chip cực lớn như GPU cho AI (không phải cách duy nhất, nhưng là cách các sản phẩm trong bài chọn); một mình yield và chi phí đã đủ khiến chip máy tính thông thường nên chia nhỏ.
 
 ## Chiplet là gì
 
@@ -58,7 +58,7 @@ Suy luận của người viết: bốn lý do cộng hưởng. Một mình gi�
 
 Ví dụ của người viết: nếu chip nguyên khối là một tòa nhà chọc trời, nơi bếp, kho, phòng họp và thang máy đều phải xây cùng một lúc bằng cùng một vật liệu, thì chiplet là một khu phố. Mỗi công trình chuyên dụng được xây ở xưởng phù hợp rồi nối bằng đường đi. Muốn thêm kho thì thêm một công trình, không phải đập xây lại cả tòa nhà.
 
-**Chiplet khác "chip" thường ở chỗ nào?** Chiplet không dùng được một mình: nó thiếu phần liên lạc với bên ngoài hoặc thiếu một phần chức năng, nên cần được đóng gói cùng các chiplet khác. Các hãng có tên gọi riêng: AMD gọi mảnh lõi là CCD (Core Complex Die) và mảnh vào ra là IOD (I/O Die) [S3]; Intel gọi là **tile** (ô) [S5]. Bài này dùng "chiplet" và "tile" như nhau khi nói chung.
+**Chiplet khác "chip" thường ở chỗ nào?** Nhiều chiplet không dùng được một mình: chiplet lõi CCD của AMD, chẳng hạn, thiếu phần liên lạc với bên ngoài nên phải đóng gói cùng mảnh vào ra [S3]. Nhưng đó không phải đặc điểm bắt buộc của mọi die trong kiến trúc chiplet: hai die ghép thành Apple M1 Ultra là hai chip M1 Max, vốn là những chip hoàn chỉnh [S7]. Các hãng có tên gọi riêng: AMD gọi mảnh lõi là CCD (Core Complex Die) và mảnh vào ra là IOD (I/O Die) [S3]; Intel gọi là **tile** (ô) [S5]. Bài này dùng "chiplet" và "tile" như nhau khi nói chung.
 
 **Chip nguyên khối và chip chiplet.** Chip nguyên khối (monolithic die) đặt mọi chức năng lên một die duy nhất: đơn giản để ghép nối bên trong nhưng bị giới hạn kích thước và chịu yield thấp nếu lớn. Chip chiplet chia chức năng ra nhiều die, mỗi die chọn công nghệ riêng và được kiểm tra trước khi ghép; đổi lại, phải nối các die bằng các đường rất dày và nhanh [S2].
 
@@ -219,6 +219,7 @@ Cân nhắc tổng thể: chiplet đổi các khó khăn của việc làm một
 - **Nút công nghệ của die I/O.** Wikipedia ghi Ryzen 3000 dùng die I/O 12 nm của GlobalFoundries, EPYC Rome dùng bản 14 nm [S3][S4]; ảnh hồng ngoại Ryzen 5 3600 trên Commons có tên tệp ghi 12 nm nhưng mô tả ghi 14 nm [S16]. Bài dùng số của Wikipedia và không khẳng định thêm.
 - **Meteor Lake:** nguồn lệch nhau về vị trí bộ xử lý thần kinh (NPU) nên bài không nêu. Wikipedia ghi kích thước tile tính toán 69,67 mm² ở bảng và 73,87 mm² ở phần chữ [S5]; bài không dùng số này.
 - **Không có nguồn đọc được** cho: yield thật của sản phẩm cụ thể, chi phí đóng gói, mức hao thêm diện tích do phần nối, chuỗi cung ứng đóng gói. Các ý này nếu có là Suy luận của người viết.
+- **Giới hạn reticle:** con số khoảng 858 mm² là mức của một lần phơi sáng [S12]. Người đánh giá chỉ ra rằng có cách vượt qua (ghép nối các vùng phơi sáng, chip cỡ cả wafer của Cerebras); bài ghi nhận điều này nhưng chưa đọc nguồn về các cách đó nên không nêu số liệu hay đưa vào danh mục nguồn.
 - **Ảnh minh họa:** ảnh wafer là loại vi xử lý SPARC cũ [S18], dùng để minh họa khái niệm wafer và die, không phải wafer của chip hiện đại. Các ảnh Ryzen, Fiji và Tesla P100 là sản phẩm thật nhưng thuộc các thế hệ khác nhau.
 
 ## Điều cần nhớ

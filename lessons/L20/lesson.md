@@ -251,21 +251,21 @@ Cân nhắc tổng thể: chiplet đổi các khó khăn của việc làm một
 
 ## Nguồn tham khảo
 
-- [S1] UCIe Consortium, UCIe Specification (các phiên bản 1.0 đến 3.0), trang thông số chuẩn, đọc 2026-11-04, https://www.uciexpress.org/specification
-- [S2] Wikipedia, Chiplet, đọc 2026-11-04, https://en.wikipedia.org/wiki/Chiplet
-- [S3] Wikipedia, Zen 2 (AMD), đọc 2026-11-04, https://en.wikipedia.org/wiki/Zen_2
-- [S4] Wikipedia, Epyc (AMD), đọc 2026-11-04, https://en.wikipedia.org/wiki/Epyc
-- [S5] Wikipedia, Meteor Lake (Intel), đọc 2026-11-04, https://en.wikipedia.org/wiki/Meteor_Lake
-- [S6] Intel Foundry, Advanced Packaging (EMIB, Foveros), đọc 2026-11-04, https://www.intel.com/content/www/us/en/foundry/packaging.html
-- [S7] Apple Newsroom, Apple unveils M1 Ultra, 2022, https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/
-- [S8] NVIDIA Newsroom, NVIDIA Blackwell Platform Arrives to Power a New Era of Computing, 2024-03-18, https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing
-- [S9] Wikipedia, AMD Instinct (dòng MI300), đọc 2026-11-04, https://en.wikipedia.org/wiki/AMD_Instinct
-- [S10] Wikipedia, High Bandwidth Memory, đọc 2026-11-04, https://en.wikipedia.org/wiki/High_Bandwidth_Memory
-- [S11] Wikipedia, Semiconductor device fabrication yield (mục yield), đọc 2026-11-04, https://en.wikipedia.org/wiki/Yield_(semiconductor)
-- [S12] EngineerFix, What Are the Key Dimensions of a Semiconductor Die? (reticle limit), đọc 2026-11-04, https://engineerfix.com/what-are-the-key-dimensions-of-a-semiconductor-die/
-- [S13] Naffziger và cộng sự, Pioneering Chiplet Technology and Design for the AMD EPYC and Ryzen Processor Families, ISCA 2021, https://doi.org/10.1109/ISCA52012.2021.00014
-- [S14] Tom's Hardware, AMD Ryzen 7 5800X3D Review: 3D V-Cache Powers a New Gaming Champion, 2022, https://tomshardware.com/reviews/amd-ryzen-7-5800x3d-review
-- [S15] HPCwire, Universal Chiplet Interconnect Express industry consortium forms to drive chiplet ecosystem, 2022-03-02, https://www.hpcwire.com/2022/03/02/universal-chiplet-interconnect-express-industry-consortium-forms-to-drive-chiplet-ecosystem/
-- [S16] Fritzchens Fritz, AMD Ryzen 5 3600 (Matisse) package, ảnh hồng ngoại, CC0, Wikimedia Commons (cùng loạt ảnh gồm die CCD và die IOD), https://commons.wikimedia.org/wiki/File:AMD@7nm(12nmIO)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062_DSCx2@Infrared.jpg
-- [S17] Fritzchens Fritz, Nvidia Tesla P100 (GP100) HBM stack, mặt cắt có ghi chú, CC0, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx11_HBM-Stack_notes.jpg
-- [S18] Ploum's (Wikipedia tiếng Pháp), Microprocesseurs sur une tranche de silicium, phạm vi công cộng, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Microprocesseurs_sur_une_tranche_de_silicium.JPG
+- [S1] [UCIe Consortium, UCIe Specification (các phiên bản 1.0 đến 3.0), trang thông số chuẩn, đọc 2026-11-04](https://www.uciexpress.org/specification)
+- [S2] [Wikipedia, Chiplet, đọc 2026-11-04](https://en.wikipedia.org/wiki/Chiplet)
+- [S3] [Wikipedia, Zen 2 (AMD), đọc 2026-11-04](https://en.wikipedia.org/wiki/Zen_2)
+- [S4] [Wikipedia, Epyc (AMD), đọc 2026-11-04](https://en.wikipedia.org/wiki/Epyc)
+- [S5] [Wikipedia, Meteor Lake (Intel), đọc 2026-11-04](https://en.wikipedia.org/wiki/Meteor_Lake)
+- [S6] [Intel Foundry, Advanced Packaging (EMIB, Foveros), đọc 2026-11-04](https://www.intel.com/content/www/us/en/foundry/packaging.html)
+- [S7] [Apple Newsroom, Apple unveils M1 Ultra, 2022](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/)
+- [S8] [NVIDIA Newsroom, NVIDIA Blackwell Platform Arrives to Power a New Era of Computing, 2024-03-18](https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing)
+- [S9] [Wikipedia, AMD Instinct (dòng MI300), đọc 2026-11-04](https://en.wikipedia.org/wiki/AMD_Instinct)
+- [S10] [Wikipedia, High Bandwidth Memory, đọc 2026-11-04](https://en.wikipedia.org/wiki/High_Bandwidth_Memory)
+- [S11] [Wikipedia, Semiconductor device fabrication yield (mục yield), đọc 2026-11-04](https://en.wikipedia.org/wiki/Yield_%28semiconductor%29)
+- [S12] [EngineerFix, What Are the Key Dimensions of a Semiconductor Die? (reticle limit), đọc 2026-11-04](https://engineerfix.com/what-are-the-key-dimensions-of-a-semiconductor-die/)
+- [S13] [Naffziger và cộng sự, Pioneering Chiplet Technology and Design for the AMD EPYC and Ryzen Processor Families, ISCA 2021](https://doi.org/10.1109/ISCA52012.2021.00014)
+- [S14] [Tom's Hardware, AMD Ryzen 7 5800X3D Review: 3D V-Cache Powers a New Gaming Champion, 2022](https://tomshardware.com/reviews/amd-ryzen-7-5800x3d-review)
+- [S15] [HPCwire, Universal Chiplet Interconnect Express industry consortium forms to drive chiplet ecosystem, 2022-03-02](https://www.hpcwire.com/2022/03/02/universal-chiplet-interconnect-express-industry-consortium-forms-to-drive-chiplet-ecosystem/)
+- [S16] [Fritzchens Fritz, AMD Ryzen 5 3600 (Matisse) package, ảnh hồng ngoại, CC0, Wikimedia Commons (cùng loạt ảnh gồm die CCD và die IOD)](https://commons.wikimedia.org/wiki/File:AMD@7nm%2812nmIO%29@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062_DSCx2@Infrared.jpg)
+- [S17] [Fritzchens Fritz, Nvidia Tesla P100 (GP100) HBM stack, mặt cắt có ghi chú, CC0, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx11_HBM-Stack_notes.jpg)
+- [S18] [Ploum's (Wikipedia tiếng Pháp), Microprocesseurs sur une tranche de silicium, phạm vi công cộng, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microprocesseurs_sur_une_tranche_de_silicium.JPG)

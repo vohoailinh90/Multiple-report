@@ -103,6 +103,25 @@ class GenTests(unittest.TestCase):
         self.assertEqual(len(xs), 2)
         self.assertNotIn("Nguồn: [", markup, "the sources slide does not cite itself")
 
+    def test_a_source_with_a_link_in_lesson_md_is_drawn_as_a_hyperlink(self):
+        """CLAUDE.md: every source is a hyperlink; the sources slide reads the urls from `- [S1] [text](url)` lines."""
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        (root / "lessons" / "L98").mkdir(parents=True)
+        (root / "lessons" / "L98" / "lesson.md").write_text(
+            "## Nguồn tham khảo\n- [S1] [Một nguồn](https://example.org/a%28b%29)\n- [S2] Hai, 2001, https://example.org/2\n",
+            encoding="utf-8")
+        slide = {"title": "Nguồn", "section": "Nguồn tham khảo", "sources": [], "bullets": ["S1: Một nguồn", "S2: Hai"],
+                 "notes": "", "layout": "references", "tone": "dark"}
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+        before = gen.ROOT
+        gen.ROOT = root
+        self.addCleanup(setattr, gen, "ROOT", before)
+        markup = gen.page("L98", 1, {}, path)
+        ET.fromstring(markup)
+        self.assertEqual(re.findall(r'<a href="([^"]+)"', markup), ["https://example.org/a%28b%29"])
+
     def test_a_long_deck_keeps_the_footer_out_of_the_logo_corner(self):
         root = Path(tempfile.mkdtemp())
         self.addCleanup(shutil.rmtree, root, True)

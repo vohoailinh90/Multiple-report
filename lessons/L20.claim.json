@@ -1,7 +1,8 @@
 {
   "claimed_at": "2026-11-04T04:55:00Z",
-  "heartbeat_at": "2026-11-04T04:55:00Z",
+  "done_at": "2026-11-04T05:02:44Z",
+  "heartbeat_at": "2026-11-04T05:02:44Z",
   "id": "L20",
   "owner": "claude/laughing-planck-mpiq79",
-  "status": "doing"
+  "status": "done"
 }

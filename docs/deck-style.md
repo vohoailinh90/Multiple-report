@@ -56,7 +56,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `explainer` | cột trái ~65% là đoạn `body` (cỡ 30–38, giãn dòng 1,35, vạch màu bên trái, `**từ khoá**` tô màu khái niệm, `[Sn]` màu chữ phụ); cột phải 2–3 thẻ lấy từ `bullets` dạng `Nhãn: nội dung` (Ở đâu / Làm gì / Đừng hiểu nhầm) |
 | `profile-card` | thẻ hồ sơ: lưới 2×2 (4 mục) hoặc 3 cột (3, 5, 6 mục) lấy từ `facts`, nhãn màu khái niệm cỡ 28, chữ 28–34; không vẽ `bullets` |
 | `annotated-figure` | như `figure` (khung hình rộng 980) nhưng cột phải là tối đa 3 thẻ chú giải ngắn (≤ 70 ký tự) và một khối nền nhạt chứa `body` 40–70 chữ |
-| `references` | slide nguồn: mỗi nguồn một thẻ `S1` + tên rút gọn (≤ 110 ký tự), **tên là hyperlink** (underline, màu nhấn) tới URL trong `lesson.md` (`- [S1] [tên](URL)`; luật CLAUDE.md 2026-11-04); một cột đến 6 nguồn, hai cột đến 18 |
+| `references` | slide nguồn: mỗi nguồn một thẻ `S1` + tên rút gọn (≤ 110 ký tự), **tên là hyperlink** (underline, màu nhấn) tới URL trong `lesson.md` (`- [S1] [tên](URL)`; luật CLAUDE.md 2026-11-04); một cột đến 6 nguồn, hai cột đến 18; bài có nhiều hơn 18 nguồn dùng nhiều slide `references` liên tiếp ở cuối ("Nguồn tham khảo (1/2)", "(2/2)"), mỗi slide ≤ 18 thẻ |
 
 ## Quy trình
 

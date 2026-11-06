@@ -228,8 +228,23 @@ class GateTests(unittest.TestCase):
         self.assertIn("the last slide of a deep lesson must use the references layout", self.run_gate(lookup)[0])
         shallow = {k: v for k, v in EXPECTED.items() if k not in ("section_min_slides", "section_min_exempt")}
         self.assertEqual(self.run_gate(lookup, shallow)[0], [], "older lessons may end on any layout in the sources section")
-        early = self.mutated(4, layout="references", bullets=["S1: a"])
+        early = self.mutated(3, layout="references", bullets=["S1: a"])  # a references slide followed by a content slide
         self.assertIn("a references slide must be the last slide", self.run_gate(early)[0])
+
+    def test_a_long_source_list_may_span_two_references_slides_at_the_end(self):
+        """gen.references draws up to 18 sources, so a lesson with more continues on a second references slide."""
+        part1 = self.mutated(5, bullets=[f"S{k}: nguồn {k}" for k in range(1, 4)])
+        part2 = {**part1[5], "title": "Nguồn tham khảo (tiếp)", "bullets": ["S4: nguồn 4", "S5: nguồn 5"]}
+        two = part1 + [part2]
+        self.assertEqual(self.run_gate(two)[0], [], "two references slides that together list every source pass")
+        missing = part1 + [{**part2, "bullets": ["S4: nguồn 4"]}]
+        self.assertTrue(any(e.startswith("references slide lists") for e in self.run_gate(missing)[0]))
+        light = part1 + [{**part2, "tone": "light"}]
+        self.assertIn("every references slide must have the dark tone", self.run_gate(light)[0])
+        not_last = part1[:5] + [part2, part1[5]]
+        self.assertEqual(self.run_gate(not_last)[0], [], "the order of the two source slides is theirs to choose")
+        gap = part1[:5] + [part1[5], {**part1[4], "section": "Nguồn tham khảo"}, part2]
+        self.assertIn("a references slide must be the last slide", self.run_gate(gap)[0], "a content slide may not sit between them")
 
     def test_a_slide_missing_a_renderer_field_is_reported_not_crashed(self):
         """A profile-card without bullets, or a slide without sources, used to pass the gate and fail in gen.py."""

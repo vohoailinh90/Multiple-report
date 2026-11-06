@@ -422,7 +422,7 @@
       ],
       "layout": "one-big-number",
       "tone": "dark",
-      "notes": "Độ bền SSD thường ghi dưới hai dạng. TBW là tổng số terabyte được phép ghi trước khi hết bảo hành về độ bền. DWPD là số lần có thể ghi đầy toàn bộ ổ mỗi ngày trong thời gian bảo hành. Nguồn lấy ví dụ Samsung 970 EVO 1 TB có độ bền 600 TBW, và TBW bằng số chu kỳ ghi xóa nhân dung lượng, nên ổ 1 TB ứng với 600 chu kỳ. Người viết tự tính với giả định bảo hành 5 năm: 600 TB chia cho 1 TB nhân 365 ngày nhân 5 năm bằng khoảng 0,33 lần ghi đầy ổ mỗi ngày, tức khoảng 330 GB ghi mỗi ngày. Chỗ dễ nhầm: số 5 năm là giả định của người viết, thời hạn bảo hành thực tế do hãng quy định."
+      "notes": "Độ bền SSD thường ghi dưới hai dạng. TBW là tổng số terabyte được phép ghi trước khi hết bảo hành về độ bền. DWPD là số lần có thể ghi đầy toàn bộ ổ mỗi ngày trong thời gian bảo hành. Nguồn lấy ví dụ Samsung 970 EVO 1 TB có độ bền 600 TBW, và lưu ý TBW đo lượng dữ liệu máy chủ ghi, không quy đổi thẳng ra chu kỳ ghi xóa của ô nhớ vì bộ điều khiển có thể ghi vào NAND nhiều hơn (khuếch đại ghi). Người viết tự tính với giả định bảo hành 5 năm: 600 TB chia cho 1 TB nhân 365 ngày nhân 5 năm bằng khoảng 0,33 lần ghi đầy ổ mỗi ngày, tức khoảng 330 GB ghi mỗi ngày. Chỗ dễ nhầm: số 5 năm là giả định của người viết, thời hạn bảo hành thực tế do hãng quy định."
     },
     {
       "title": "Ổ người dùng và ổ doanh nghiệp: cùng NAND, khác mục đích",

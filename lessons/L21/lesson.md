@@ -56,7 +56,7 @@ Có hai cách nối SSD với máy. **SATA** là giao diện thiết kế từ t
 
 **PCIe** nâng tốc độ mỗi thế hệ gấp đôi. PCIe 7.0 chạy 128 GT/s mỗi làn mỗi chiều, gấp đôi PCIe 6.0 và gấp bốn PCIe 5.0 [S11]. Người viết tự tính từ tỷ lệ này: PCIe 6.0 là 64 GT/s và PCIe 5.0 là 32 GT/s mỗi làn; với bốn làn (x4), băng thông tối đa mỗi chiều khoảng 4, 8, 16 và 32 GB/s cho PCIe 3.0, 4.0, 5.0 và 6.0 (đổi GT/s sang GB/s bằng cách chia 8 rồi nhân bốn làn), chưa trừ chi phí giao thức; ổ thực tế luôn thấp hơn. Micron 6600 ION là ổ doanh nghiệp PCIe 5.0 x4 công bố đọc tuần tự 13.700 MB/s [S13], tức khoảng 23 lần giới hạn 600 MB/s của SATA (tự tính). Micron 9650 dùng giao diện PCIe 6.0 x4 và NVMe 2.0, công bố đọc tuần tự đến 28.000 MB/s và ghi 14.000 MB/s, là SSD PCIe 6.0 đầu tiên vào sản xuất hàng loạt, dành cho trung tâm dữ liệu [S12]. Bài chưa có nguồn cho ổ PCIe 6.0 dành cho người dùng cá nhân.
 
-**Độ bền** của SSD thường ghi trên bảng thông số dưới hai dạng: **TBW** (terabytes written, tổng số terabyte được phép ghi) hoặc **DWPD** (drive writes per day, số lần ghi đầy ổ mỗi ngày) [S4]. Ví dụ trong nguồn: Samsung 970 EVO 1 TB có độ bền 600 TBW; TBW bằng số chu kỳ ghi xóa nhân dung lượng, nên 1 TB ứng với 600 chu kỳ [S4]. Người viết tự tính với giả định bảo hành 5 năm: 600 TB chia cho (1 TB nhân 365 ngày nhân 5 năm) khoảng 0,33 lần ghi đầy ổ mỗi ngày, tức DWPD khoảng 0,33.
+**Độ bền** của SSD thường ghi trên bảng thông số dưới hai dạng: **TBW** (terabytes written, tổng số terabyte được phép ghi) hoặc **DWPD** (drive writes per day, số lần ghi đầy ổ mỗi ngày) [S4]. Ví dụ trong nguồn: Samsung 970 EVO 1 TB có độ bền 600 TBW; TBW đo lượng dữ liệu mà máy chủ ghi vào ổ, không quy đổi thẳng ra số chu kỳ ghi xóa của ô nhớ, vì bộ điều khiển có thể ghi vào NAND nhiều hơn lượng dữ liệu máy chủ gửi (khuếch đại ghi, write amplification) [S4]. Người viết tự tính với giả định bảo hành 5 năm: 600 TB chia cho (1 TB nhân 365 ngày nhân 5 năm) khoảng 0,33 lần ghi đầy ổ mỗi ngày, tức DWPD khoảng 0,33.
 
 Cuối cùng là khác biệt giữa **ổ người dùng** (consumer) và **ổ doanh nghiệp** (enterprise, datacenter). Người viết tóm theo hướng sử dụng thực tế: ổ doanh nghiệp thường có độ bền DWPD cao hơn, hiệu năng ổn định khi tải nặng, nhiều dạng cắm nóng như U.2 hay EDSFF [S10], và dung lượng cực lớn: Micron 6600 ION đạt 245,76 TB bằng NAND QLC, giao diện PCIe 5.0 x4, bắt đầu giao ngày 5/5/2026 [S13]. Các tính năng khác như bảo vệ dữ liệu khi mất điện đột ngột là kiến thức nền của người viết, không kèm nguồn riêng.
 
@@ -106,7 +106,7 @@ Bảng dưới là bản tổng hợp từ các mục trên, mọi số là số
 
 Hướng dẫn chọn theo nhu cầu (suy luận của người viết từ các đặc tính trên):
 - **PC văn phòng:** một SSD SATA hoặc NVMe 500 GB đến 1 TB và 16 GB RAM là đủ; không cần ổ nhanh nhất.
-- **Laptop:** SSD NVMe M.2 hoặc LPDDR gắn sẵn; ưu tiên tiết kiệm pin.
+- **Laptop:** SSD NVMe M.2 cho lưu trữ; RAM LPDDR gắn sẵn hoặc DDR5 SO-DIMM; ưu tiên tiết kiệm pin.
 - **Gaming:** SSD NVMe PCIe 4.0 hoặc 5.0 cho tải game; RAM DDR5; GPU có GDDR riêng.
 - **Workstation:** RAM lớn có thể có ECC, SSD NVMe nhanh cho dự án đang làm, HDD cho kho dữ liệu cũ.
 - **NAS:** ổ HDD CMR dung lượng lớn; thêm một SSD làm bộ đệm nếu cần.

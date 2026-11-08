@@ -1,0 +1,42 @@
+{
+  "id": "L20",
+  "title": "Chiplet là gì: những mảnh chip nhỏ ghép thành một bộ xử lý lớn",
+  "topic": "ky-thuat",
+  "sections": [
+    "Tóm tắt nhanh",
+    "Nền tảng: chip, wafer và die",
+    "Vì sao phải chia chip thành nhiều mảnh",
+    "Chiplet là gì",
+    "Chiplet gồm những mảnh nào",
+    "Cách ghép các mảnh: đóng gói 2D, 2.5D và 3D",
+    "Cách các mảnh nói chuyện: UCIe và các chuẩn nối",
+    "Công dụng: chiplet giúp được gì",
+    "HBM: bộ nhớ xếp tầng cạnh chip",
+    "Ứng dụng thực tế: máy tính và laptop",
+    "Ứng dụng thực tế: AI và trung tâm dữ liệu",
+    "Thách thức và cái giá của chiplet",
+    "Tương lai của chiplet",
+    "Điểm chưa chắc chắn và hạn chế của dữ liệu",
+    "Điều cần nhớ",
+    "Thuật ngữ Việt-Anh",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://www.uciexpress.org/specification",
+    "https://en.wikipedia.org/wiki/Chiplet",
+    "https://www.intel.com/content/www/us/en/foundry/packaging.html",
+    "https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing"
+  ],
+  "key_terms": ["chiplet", "die", "wafer", "interposer", "UCIe", "HBM", "TSV", "hybrid bonding", "reticle", "858", "yield", "Moore", "Foveros", "EMIB", "CoWoS", "Meteor Lake", "Blackwell", "M1 Ultra", "3D V-Cache", "Ryzen", "EPYC"],
+  "min_words": 4800,
+  "max_words": 14000,
+  "min_citations": 45,
+  "min_independent_sources": 14,
+  "min_layouts": 10,
+  "section_min_slides": 3,
+  "section_min_exempt": ["Tóm tắt nhanh", "Điểm chưa chắc chắn và hạn chế của dữ liệu", "Điều cần nhớ", "Thuật ngữ Việt-Anh", "Nguồn tham khảo"],
+  "notes_words": [80, 200],
+  "min_images": 6,
+  "language": "vi",
+  "slides": {"min": 38, "max": 55}
+}

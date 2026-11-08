@@ -29,6 +29,8 @@ BULLETS = {"card-grid": (1, 4), "flow": (1, 5), "two-column-comparison": (2, 6),
            "references": (1, 18)}
 HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
+LINK_FROM = "2026-11-04"  # lessons dated from here on write every source as a hyperlink (CLAUDE.md, owner 2026-11-04)
+MDLINK = re.compile(r"\[[^\]\n]+\]\((https?://[^)\s]+)\)")
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
 URL = re.compile(r"https?://[^\s/$.?#][^\s]*\.[^\s]+|https?://localhost\S*", re.I)
@@ -140,6 +142,9 @@ def check(root, lid):
     errs += [f"bibliography line is not '- [Sn] text': {l.strip()[:60]}" for l in reflist.splitlines()
              if l.strip() and not re.fullmatch(r"- \[S\d+\] \S.*", l)]
     refs = dict(found)
+    if fm and DATE.fullmatch(meta.get("date", "")) and meta["date"] >= LINK_FROM:
+        errs += [f"reference {k} must be a hyperlink '- [{k}] [text](https://...)' (parentheses in the url written %28 %29): {r.strip()[:50]}"
+                 for k, r in refs.items() if not MDLINK.search(r)]
     errs += [f"reference label {k} is used twice" for k in sorted({k for k, _ in found if [j for j, _ in found].count(k) > 1})]
     used = set(CITE.findall(text))
     if used - set(refs): errs.append(f"cited but not listed: {sorted(used - set(refs))}")
@@ -197,12 +202,14 @@ def check(root, lid):
     if S and "section_min_slides" in ex and S[-1]["layout"] != "references":  # lessons of the deep standard list their sources in full
         errs.append("the last slide of a deep lesson must use the references layout")
     if S and S[-1]["tone"] != "dark": errs.append("the last slide (sources) must have the dark tone (docs/deck-style.md)")
-    if any(s["layout"] == "references" for s in S[:-1]): errs.append("a references slide must be the last slide")
+    tail = next((k for k, s in enumerate(reversed(S)) if s["layout"] != "references"), len(S))  # references slides, counted from the end
+    if sum(s["layout"] == "references" for s in S) != tail: errs.append("a references slide must be the last slide")
+    if any(s["layout"] == "references" and s["tone"] != "dark" for s in S): errs.append("every references slide must have the dark tone")
     if not (ex["slides"]["min"] <= len(S) <= ex["slides"]["max"]): errs.append(f"slide count {len(S)}")
     lay = [s["layout"] for s in S]; tone = [s["tone"] for s in S]
     errs += [f"tone {t!r} is not light or dark: {s['title']}" for s, t in zip(S, tone) if t not in TONES]
     if len(set(lay)) < ex.get("min_layouts", 5): errs.append(f"layout kinds {len(set(lay))}")
-    if any(a == b for a, b in zip(lay, lay[1:])): errs.append("adjacent layout")
+    if any(a == b != "references" for a, b in zip(lay, lay[1:])): errs.append("adjacent layout")  # a long source list may span two references slides
     heavy = [i for i in range(len(lay) - 2) if set(lay[i:i + 3]) <= HEAVY]
     if heavy: errs.append(f"three text-heavy slides in a row from slide {heavy[0] + 1}")
     run, prev = 1, "dark"  # the cover is dark
@@ -219,6 +226,7 @@ def check(root, lid):
             if not any(s.get("body") or s.get("facts") for s in mine): warn.append(f"section without explainer/profile-card: {sec}")
     lo_hi = ex.get("notes_words")
     figures = 0
+    ref_labels = []  # labels drawn by all the references slides together
     for s in S:
         name, L = s["title"], s["layout"]
         bl = s.get("bullets", [])
@@ -228,11 +236,9 @@ def check(root, lid):
         if not lo <= len(bl) <= hi: errs.append(f"{L} draws {lo}-{hi} bullets, found {len(bl)}: {name}")
         if L == "references":
             errs += [f"reference>110: {b}" for b in bl if len(b) > 110]
-            labels = [b.split(": ", 1)[0] if ": " in b else b for b in bl]  # the card label is what gen.split_kv puts before ": "
+            ref_labels += [b.split(": ", 1)[0] if ": " in b else b for b in bl]  # the card label is what gen.split_kv puts before ": "
             errs += [f"reference card has no text after its label: {b}" for b in bl if ": " in b and not b.split(": ", 1)[1].strip()]
             errs += [f"reference card has no ': ' after its label: {b}" for b in bl if ": " not in b]
-            if sorted(labels) != sorted(refs):
-                errs.append(f"references slide lists {sorted(labels)}, the reference list has {sorted(refs)}")
         else:
             errs += [f"bullet>160: {b}" for b in bl if len(b) > 160]
         if L == "annotated-figure": errs += [f"gloss>70: {b}" for b in bl if len(b) > 70]
@@ -272,6 +278,8 @@ def check(root, lid):
             errs += [f"slide text cites {k} but its sources omit it: {name}" for k in sorted(set(CITE.findall(drawn)) - set(s.get("sources", [])))]
         if lo_hi and s["section"] != "Nguồn tham khảo" and not lo_hi[0] <= words(s.get("notes", "")) <= lo_hi[1]:
             warn.append(f"notes {words(s.get('notes', ''))} words: {name}")
+    if ref_labels and sorted(ref_labels) != sorted(refs):
+        errs.append(f"references slide lists {sorted(ref_labels)}, the reference list has {sorted(refs)}")
     over_errs, over_warn = overflow(root, lid, S, sl_path)
     errs += over_errs; warn += over_warn
     if figures < ex.get("min_images", 0): warn.append(f"{figures} figures < {ex['min_images']}")

@@ -8,7 +8,7 @@ Thư viện kiến thức dài hạn về Freud, Adler và Jung bằng tiếng V
 | [Alfred Adler](02-Alfred-Adler/README.md) | [Curriculum](02-Alfred-Adler/curriculum.md) | 18 | 0 |
 | [Carl Gustav Jung](03-Carl-Gustav-Jung/README.md) | [Curriculum](03-Carl-Gustav-Jung/curriculum.md) | 24 | 0 |
 
-**Hiện tại: Phase 1 — Knowledge Architecture, chờ duyệt.** Đây là kế hoạch 60 bài, chưa phải 60 bài đã viết.
+**Hiện tại:** kiến trúc trong PR #35 còn mở; người dùng đã yêu cầu bài mẫu và ba phiên song song. Có bản mẫu F01 để xem, các bài khác theo trạng thái điều phối; chưa tuyên bố hoàn thành curriculum.
 
 - [Chuẩn bài học, bằng chứng và kiểm tra](STANDARDS.md).
 - [Hệ thống thiết kế Moda](DESIGN-SYSTEM.md).
@@ -17,3 +17,7 @@ Thư viện kiến thức dài hạn về Freud, Adler và Jung bằng tiếng V
 - [Nhật ký phản biện](REVIEW.md).
 
 Đọc theo thứ tự trong mỗi curriculum; dùng bài tổng quan [L15](../lessons/L15/lesson.md) làm cầu nối tùy chọn. Không chuyển hoặc sửa bài L15 trong Phase 1. Các link tới bài cụ thể chỉ xuất hiện sau khi bài được tạo. Không dùng nội dung để tự chẩn đoán hoặc thay thế trị liệu.
+
+- [Toàn bộ chương trình thực thi](PROGRAM.md).
+- [Bài mẫu F01](01-Sigmund-Freud/lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md).
+- [Điều phối ba phiên](COORDINATION.md).

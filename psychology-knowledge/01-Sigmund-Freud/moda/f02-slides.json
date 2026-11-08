@@ -1,0 +1,958 @@
+{
+  "title": "F02 · Conscious, Preconscious và Unconscious",
+  "subtitle": "Bài học chi tiết theo chuẩn F01 v4: khái niệm, cơ chế đề xuất, ví dụ và bằng chứng",
+  "status": "drafted",
+  "review_status": "pending",
+  "visual_status": "verified",
+  "design_system": {
+    "reference": "f01-report-v4.json",
+    "style": "Academic Editorial · Psychology Textbook · Modern Minimalism",
+    "accent": "#7A2038",
+    "background": "#FAF8F4",
+    "text": "#20242A",
+    "font_family": "Noto Sans",
+    "icons": "Tiết chế, có chức năng; không dùng icon não để định vị mô hình",
+    "image_assets": [
+      {
+        "key": "freud",
+        "filename": "freud-halberstadt-1921.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sigmund_Freud%2C_by_Max_Halberstadt.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt.jpg",
+        "credit": "Max Halberstadt, khoảng 1921 · Public domain · Wikimedia Commons",
+        "file_id": "file_5FWKYXJ5T5956T7WDB8TNJ5Q7T"
+      },
+      {
+        "key": "dreams",
+        "filename": "die-traumdeutung-title.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Die_Traumdeutung.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Die_Traumdeutung.jpg",
+        "credit": "Sigmund Freud, trang tên Die Traumdeutung · Public domain theo Commons; bản quét không rõ nguồn",
+        "file_id": "file_1MCE0GM1T296K8C2V25K9GMSVT"
+      },
+      {
+        "id": "stock_unsplash_vZJdYl5JVXY",
+        "name": "person using laptop",
+        "mime_type": "image/jpeg",
+        "url": "https://images.unsplash.com/photo-1508780709619-79562169bc64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjM3NDV8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGtleWJvYXJkJTIwdHlwaW5nfGVufDB8fHx8MTc5MjgyMjM5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "thumb_url": "https://images.unsplash.com/photo-1508780709619-79562169bc64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjM3NDV8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGtleWJvYXJkJTIwdHlwaW5nfGVufDB8fHx8MTc5MjgyMjM5Mnww&ixlib=rb-4.1.0&q=80&w=200",
+        "width": 5472,
+        "height": 3648,
+        "match_type": "stock",
+        "attribution": {
+          "photographer": "Kaitlyn Baker",
+          "photographer_url": "https://unsplash.com/@kaitlynbaker?utm_source=moda&utm_medium=referral",
+          "source": "Unsplash"
+        },
+        "licensing_status": "Moda stock library / Unsplash attribution supplied by connector; illustrative photograph, not participant or clinical record."
+      }
+    ],
+    "image_note": "Chưa chọn ảnh tư liệu/stock. Không có source URL, credit hoặc licensing giả. Nếu thêm ảnh, phiên chính kiểm nguồn, credit và licensing_status trước khi dùng.",
+    "rendered_fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    }
+  },
+  "source_lesson": "../lessons/02-conscious-preconscious-unconscious.md",
+  "slides": [
+    {
+      "title": "Một điều chưa được ý thức\ncó nhất thiết bị dồn nén?",
+      "section": "F02 · CONSCIOUS / PRECONSCIOUS / UNCONSCIOUS",
+      "body": "Bài học đi từ ba cách gọi quen thuộc tới hai câu hỏi khác nhau: điều gì đang được nhận biết, và vì sao một điều chưa được nhận biết? Ta sẽ đọc mô hình Freud trong bối cảnh lịch sử, phân biệt nó với nghiên cứu nhận thức, rồi thử phân tích ba ví dụ và một case giả định. Mục tiêu là hiểu rõ lý thuyết và giữ kết luận trong phạm vi bằng chứng.",
+      "nodes": [
+        [
+          "Ba khái niệm",
+          "Conscious · Preconscious · Unconscious"
+        ],
+        [
+          "Hai câu hỏi",
+          "Trạng thái hiện tại và cơ chế được đề xuất."
+        ],
+        [
+          "Một kỷ luật",
+          "Không đi từ thiếu báo cáo tới kết luận dồn nén."
+        ]
+      ],
+      "layout": "cover",
+      "source": "F02 · Câu hỏi trung tâm",
+      "note": "Không dùng để tự chẩn đoán hoặc tìm lại ký ức bị cho là dồn nén.",
+      "visual_brief": "Editorial cover; headline Burgundy lớn, ba từ xếp theo nhịp chữ; không hình tảng băng hoặc tỷ lệ phần trăm. Icon sách mở nhỏ, có nhãn."
+    },
+    {
+      "title": "Sau bài này, bạn cần làm được gì?",
+      "section": "A · LEARNING OBJECTIVES",
+      "body": "Bạn cần phân biệt các miền theo khả năng nhận biết, giải thích sự khác nhau giữa nghĩa mô tả và nghĩa động lực, theo dõi cơ chế mà Freud đề xuất. Khi đọc nghiên cứu hiện đại, hãy kiểm tra định nghĩa và phép đo thay vì chỉ nhìn từ unconscious. Cuối cùng, bạn cần biết vì sao một câu trả lời “không biết” chưa xác định được nguyên nhân của hành vi.",
+      "nodes": [
+        [
+          "Phân biệt",
+          "Trạng thái, truy cập và cơ chế."
+        ],
+        [
+          "Đối chiếu",
+          "Freud với cognitive nonconscious."
+        ],
+        [
+          "Đánh giá",
+          "Phép đo, nguồn và giới hạn kết luận."
+        ]
+      ],
+      "layout": "route",
+      "source": "F02 · A",
+      "note": "Đọc F01 trước; F03 sẽ giải thích id–ego–superego.",
+      "visual_brief": "Lộ trình ba chặng có số; icon nhãn phân biệt/đối chiếu/đánh giá, không trang trí bằng não."
+    },
+    {
+      "title": "1900: từ giấc mơ tới mô hình hệ thống",
+      "section": "B · HISTORICAL BACKGROUND",
+      "body": "Chương VII của The Interpretation of Dreams dùng các hệ thống có quan hệ khác nhau với khả năng trở thành ý thức. Đây là cách tổ chức một mô hình tâm lý, không bản đồ giải phẫu. Bản HTML mang niên đại tác phẩm gốc 1900 nhưng có các lớp sửa và chú thích; chưa được phép gán mọi câu trong bản đọc cho nguyên bản đầu tiên.",
+      "nodes": [
+        [
+          "Tác phẩm",
+          "The Interpretation of Dreams"
+        ],
+        [
+          "Mô hình",
+          "Các hệ Pcs/Ucs và quan hệ truy cập."
+        ],
+        [
+          "Nguồn",
+          "Đọc đúng đoạn, giữ giới hạn ấn bản."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Chương VII, phần B",
+      "note": "Không dùng từ “1900” như ngày mọi thành phần của học thuyết được hoàn thiện.",
+      "visual_brief": "Timeline một mốc chính và dải chú thích ấn bản; nếu cần ảnh trang sách, chỉ dùng khi phiên chính kiểm đúng ảnh và quyền. Hiện chưa chọn ảnh."
+    },
+    {
+      "title": "1912: một từ có ba cách dùng",
+      "section": "B · LÀM RÕ THUẬT NGỮ",
+      "body": "Trong A Note on the Unconscious in Psycho-Analysis, Freud phân biệt dùng unconscious để mô tả trạng thái, để nói về quan hệ động lực và để chỉ một hệ thống. Bản tiếng Anh lịch sử dùng foreconscious, tương ứng cách gọi preconscious hiện nay. Khi đổi nghĩa mà không nói rõ, một dữ kiện đơn giản về điều chưa được chú ý có thể bị dùng để bảo vệ một giả thuyết cơ chế mạnh hơn.",
+      "nodes": [
+        [
+          "Mô tả",
+          "Hiện không được nhận biết."
+        ],
+        [
+          "Động lực",
+          "Mô hình đề xuất có lực ngăn."
+        ],
+        [
+          "Hệ thống",
+          "Một loại hoạt động với quy tắc riêng trong mô hình."
+        ]
+      ],
+      "layout": "layers",
+      "source": "[S2] Tr. 312–318",
+      "note": "Bản phần tháng 11/1912; bìa tập gộp mang 1913. OCR có lỗi, không dùng quote nguyên văn.",
+      "visual_brief": "Ba dải ngang ghi tên nghĩa; không vẽ tầng dọc như độ sâu não; nhãn “ba nghĩa” ở cạnh."
+    },
+    {
+      "title": "Conscious: đang được nhận biết",
+      "section": "C · CORE THEORY",
+      "body": "Khi bạn nhận ra mình đang đọc một câu hoặc cảm thấy ngạc nhiên, đó là ví dụ dễ hiểu về trải nghiệm đang được ý thức. Nhãn conscious không đồng nghĩa bạn hiểu đầy đủ mọi nguyên nhân của trải nghiệm. Biết “tôi đang lo” và biết chính xác điều gì tạo ra nỗi lo là hai mức thông tin khác nhau. Bài học giữ riêng trải nghiệm được báo cáo và lời giải thích về trải nghiệm ấy.",
+      "nodes": [
+        [
+          "Trải nghiệm",
+          "Tôi nhận ra mình đang đọc."
+        ],
+        [
+          "Báo cáo",
+          "Tôi có thể nói điều đang nhận thấy."
+        ],
+        [
+          "Chưa đủ",
+          "Tôi chưa chắc biết toàn bộ nguyên nhân."
+        ]
+      ],
+      "layout": "focus",
+      "source": "[S2] Tr. 312–313; ví dụ do bài xây dựng",
+      "note": "Không dùng conscious như thang xếp hạng đạo đức hay thông minh.",
+      "visual_brief": "Khung trải nghiệm hiện tại và khung giải thích nằm cạnh nhau, gắn nhãn phân biệt; icon mắt tối giản."
+    },
+    {
+      "title": "Preconscious: có thể được gọi lại",
+      "section": "C · KHẢ NĂNG TRUY CẬP",
+      "body": "Bạn không nghĩ tới tên trường tiểu học trong lúc mua hàng, nhưng có thể nhớ ra khi được hỏi. Ví dụ minh họa chất liệu ngoài chú ý hiện tại nhưng có thể trở thành ý thức trong điều kiện phù hợp. Nó không có nghĩa mọi ký ức được cất nguyên vẹn và luôn gọi lại dễ. Nếu chưa nhớ được, ta cần tìm hiểu điều kiện truy cập thay vì lập tức gán dồn nén.",
+      "nodes": [
+        [
+          "Ngoài chú ý",
+          "Tên trường không hiện diện lúc đầu."
+        ],
+        [
+          "Gợi nhắc",
+          "Một câu hỏi đổi hướng chú ý."
+        ],
+        [
+          "Được nhận biết",
+          "Bạn nhớ và có thể kiểm lại."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1–S2] Pcs/foreconscious; ví dụ minh họa",
+      "note": "Mũi tên mô tả ví dụ truy cập, không phải sơ đồ thần kinh trí nhớ.",
+      "visual_brief": "Ba nút gợi nhắc → gọi lại → nhận biết; dùng nét liền cho chuỗi ví dụ, footer “không phải mọi quên lãng đều là dồn nén”."
+    },
+    {
+      "title": "Unconscious theo nghĩa động lực",
+      "section": "C · GIẢ THUYẾT VỀ LỰC NGĂN",
+      "body": "Trong nghĩa động lực, mô hình không chỉ nói rằng một chất liệu chưa được nhận biết. Nó đề xuất rằng có lực ngăn chất liệu ấy trở thành ý thức dù nó được giả định vẫn hoạt động. Đây là phần thêm của lý thuyết, cần bằng chứng riêng khi áp dụng cho một trường hợp. Không thể nhìn một sự im lặng rồi mặc nhiên biết người ấy đang che giấu mong muốn nào.",
+      "nodes": [
+        [
+          "Chất liệu",
+          "Được giả định đang hoạt động."
+        ],
+        [
+          "Lực ngăn",
+          "Một cơ chế được học thuyết đề xuất."
+        ],
+        [
+          "Cần kiểm",
+          "Vì sao tin có chất liệu và lực ấy?"
+        ]
+      ],
+      "layout": "hypothesis",
+      "source": "[S2] Tr. 315–316 · [S3] A dynamic unconscious",
+      "note": "Luôn ghi “mô hình đề xuất”, không ghi “khoa học chứng minh” trên sơ đồ.",
+      "visual_brief": "Đường đứt qua nhãn “lực ngăn được giả định”; không hình ổ khóa bí mật làm ngụ ý ta biết chắc nội dung."
+    },
+    {
+      "title": "Ba miền không phải ba loại người",
+      "section": "C · BẢNG PHÂN BIỆT",
+      "body": "Conscious, preconscious và unconscious giúp mô tả quan hệ giữa chất liệu tâm lý và khả năng nhận biết trong mô hình. Chúng không phân chia người thành cao cấp hay thấp cấp, tỉnh thức hay sai lầm. Bảng đúng cần giữ ba cột: hiện được biết không, có thể được gọi lại ra sao và mô hình có thêm giả thuyết lực ngăn không. Mỗi câu hỏi cho một thông tin khác nhau.",
+      "nodes": [
+        [
+          "Conscious",
+          "Đang nhận biết."
+        ],
+        [
+          "Preconscious",
+          "Chưa hiện diện; có thể được gọi lại."
+        ],
+        [
+          "Dynamic unconscious",
+          "Giả thuyết về sự ngăn khỏi ý thức."
+        ]
+      ],
+      "layout": "matrix",
+      "source": "[S1–S3] · F02 C",
+      "note": "Các hàng là khái niệm; không đánh dấu chẩn đoán cho người đọc.",
+      "visual_brief": "Bảng ba hàng, cột “hiện tại / truy cập / giả thuyết”; Burgundy chỉ ở header, nội dung nền trung tính."
+    },
+    {
+      "title": "Unconscious không chỉ là một kho ký ức",
+      "section": "C · QUY TẮC TRONG MÔ HÌNH",
+      "body": "Freud Museum mô tả unconscious như hệ thống với quy tắc được lý thuyết gán cho nó, trong đó có condensation và displacement. Bài này chỉ định vị các thuật ngữ: nhiều liên hệ có thể được diễn giải hội tụ trong một biểu hiện, hoặc trọng tâm được chuyển sang một liên hệ khác. Mô tả quy tắc lý thuyết và chứng minh nó trong một trường hợp là hai công việc riêng.",
+      "nodes": [
+        [
+          "Condensation",
+          "Nhiều liên hệ → một biểu hiện trong diễn giải."
+        ],
+        [
+          "Displacement",
+          "Chuyển trọng tâm sang liên hệ khác."
+        ],
+        [
+          "Chưa chứng minh",
+          "Một liên tưởng không tự xác nhận cơ chế."
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S3] Characteristics of the unconscious",
+      "note": "Các sơ đồ chỉ minh họa thuật ngữ; F09 sẽ nghiên cứu sâu giấc mơ.",
+      "visual_brief": "Hai mini-diagram hội tụ và chuyển trọng tâm, đều có caption “trong mô hình Freud”; không vẽ biểu tượng giấc mơ có nghĩa cố định."
+    },
+    {
+      "title": "Đừng ghép conscious = ego, unconscious = id",
+      "section": "C · RANH GIỚI VỚI F03",
+      "body": "Mô hình địa hình hỏi về quan hệ với ý thức và khả năng truy cập. Mô hình cấu trúc sẽ được học ở F03 và dùng các thuật ngữ id, ego, superego. Không được tạo bảng tương ứng một–một chỉ dựa vào sự quen thuộc của từ ngữ. Cần đọc từng mô hình trong đúng văn bản và mục đích giải thích của nó trước khi nối chúng lại.",
+      "nodes": [
+        [
+          "Địa hình",
+          "Quan hệ với nhận biết và truy cập."
+        ],
+        [
+          "Cấu trúc",
+          "Id, ego, superego ở bài F03."
+        ],
+        [
+          "Lỗi thường gặp",
+          "Ép hai bộ từ thành ba cặp tương đương."
+        ]
+      ],
+      "layout": "compare",
+      "source": "F02 · C; đối chiếu văn bản cấu trúc dành cho F03",
+      "note": "Đây là ranh giới học tập; không thêm sơ đồ ego chỉ có phần ý thức.",
+      "visual_brief": "Hai cột riêng với dấu “không tương ứng một–một”; không dùng vòng tròn giao nhau chưa có dữ kiện từ F03."
+    },
+    {
+      "title": "Đường 1: một thông tin được gọi lại",
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "body": "Ví dụ về tên giáo viên có ba bước: câu hỏi hướng chú ý, người được hỏi tìm lại một cái tên, rồi có thể nói và kiểm lại. Chuỗi giúp hình dung việc đưa thông tin vào nhận biết mà chưa cần giả thuyết xung đột. Nếu không nhớ, câu trả lời chỉ cho biết kết quả trong điều kiện ấy. Một lần thất bại chưa xác định nội dung bị loại khỏi ý thức vì lý do gì.",
+      "nodes": [
+        [
+          "1 · Gợi nhắc",
+          "Tên giáo viên cũ là gì?"
+        ],
+        [
+          "2 · Gọi lại",
+          "Một cái tên xuất hiện."
+        ],
+        [
+          "3 · Đối chiếu",
+          "Kiểm lại với nguồn khác khi cần."
+        ]
+      ],
+      "layout": "steps",
+      "source": "F02 · D · Ví dụ do bài xây dựng",
+      "note": "Không hứa trí nhớ là bản sao chính xác hoặc có thể khôi phục mọi thông tin.",
+      "visual_brief": "Ba bước đơn giản với icon câu hỏi, chữ, kiểm tra; nhãn “ví dụ truy cập thông thường”."
+    },
+    {
+      "title": "Đường 2: chuỗi động lực được đề xuất",
+      "section": "D · MÔ HÌNH GIẢ ĐỊNH",
+      "body": "Mô hình đề xuất một ý nghĩ khó chấp nhận gặp lực ngăn khỏi ý thức, nhưng vẫn có ảnh hưởng gián tiếp. Nhà diễn giải tìm liên hệ và hình thành giả thuyết về nội dung ấy. Từ đó còn phải hỏi dữ liệu nào phân biệt giả thuyết với thiếu chú ý, thói quen hoặc bối cảnh. Đi từ biểu hiện tới cơ chế không phải một phép đọc ý nghĩ tự động.",
+      "nodes": [
+        [
+          "Nội dung",
+          "Được giả định khó chấp nhận."
+        ],
+        [
+          "Ngăn và ảnh hưởng",
+          "Chưa được biết nhưng được giả định còn tác động."
+        ],
+        [
+          "Diễn giải và kiểm",
+          "Tìm dữ kiện và khả năng thay thế."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S2–S3] · F02 D",
+      "note": "Mũi tên đứt = quan hệ được học thuyết đề xuất.",
+      "visual_brief": "Flow năm bước gộp thành ba nhóm; mỗi nhóm có 1–2 dòng mô tả, nhãn giả thuyết xuyên suốt, tránh chữ quá nhỏ."
+    },
+    {
+      "title": "Đồng ý và phản đối không thể cùng tự động xác nhận",
+      "section": "D · GIỮ GIẢ THUYẾT CÓ THỂ SỬA",
+      "body": "Nếu người ấy đồng ý, ta không được xem sự đồng ý là toàn bộ bằng chứng. Nếu người ấy phản đối, ta cũng không được mặc định đó là resistance chứng minh diễn giải đúng. Một giả thuyết hữu ích phải cho biết dữ liệu nào sẽ làm nó yếu đi hoặc cần sửa. Không giữ điều kiện ấy, lời giải thích dễ trở thành câu chuyện có thể bao phủ mọi kết quả.",
+      "nodes": [
+        [
+          "Suy vòng tròn",
+          "Đồng ý cũng đúng; phản đối cũng đúng."
+        ],
+        [
+          "Phép kiểm tốt hơn",
+          "Nêu điều gì khiến mình đổi ý."
+        ],
+        [
+          "Tôn trọng",
+          "Người đối thoại có quyền không đồng ý."
+        ]
+      ],
+      "layout": "compare",
+      "source": "F02 · D · Phản biện phương pháp của bài",
+      "note": "Đừng dùng “chưa nhận ra” làm cách vô hiệu hóa tiếng nói của người khác.",
+      "visual_brief": "Một vòng kín minh họa lỗi, cạnh đó là mũi tên rẽ sang “sửa giả thuyết”; cần ghi vòng là lỗi suy luận, không cơ chế tâm trí."
+    },
+    {
+      "title": "Ví dụ 1: Minh nhớ ra tên bạn cũ",
+      "section": "E · REAL-LIFE EXAMPLES 1/3",
+      "body": "Minh không nghĩ đến người bạn thời tiểu học khi đang mua hàng; được hỏi thì nhớ ra ngay. Ta dùng đây làm minh họa tiền ý thức. Nếu Minh không nhớ, cũng chỉ biết rằng việc truy cập chưa thành công trong tình huống này. Một câu chuyện về mâu thuẫn bị dồn nén cần bằng chứng khác, không được tự điền vào khoảng trống của trí nhớ.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Không nghĩ tới → được hỏi → nhớ ra."
+        ],
+        [
+          "Minh họa",
+          "Ngoài chú ý nhưng có thể được gọi lại."
+        ],
+        [
+          "Không suy",
+          "Không nhớ = có xung đột bị giấu."
+        ]
+      ],
+      "layout": "example",
+      "source": "F02 · E1 · Tình huống giả định",
+      "note": "Cho học viên tự phân biệt điều quan sát và điều thêm vào.",
+      "visual_brief": "Cảnh bằng thẻ tên/câu hỏi, không dùng ảnh người thật hay minh họa khuôn mặt có vẻ bệnh lý."
+    },
+    {
+      "title": "Ví dụ 2: gõ được nhưng khó đọc thành lời",
+      "section": "E · REAL-LIFE EXAMPLES 2/3",
+      "body": "Hương gõ chuỗi ký tự quen thuộc nhưng phải hình dung lại thao tác mới đọc từng ký tự. Đây là khác biệt giữa thực hiện và diễn đạt. Ta có thể hỏi vai trò của thói quen hoặc gợi ý bàn phím, nhưng tình huống không phải phép đo chuẩn về implicit memory. Một thao tác quen không xác nhận rằng có một mong muốn bị lực chống đối giữ ngoài ý thức.",
+      "nodes": [
+        [
+          "Thực hiện",
+          "Gõ được chuỗi quen."
+        ],
+        [
+          "Diễn đạt",
+          "Cần tưởng tượng lại thao tác."
+        ],
+        [
+          "Giải thích",
+          "Đặt giả thuyết, chưa gán cơ chế."
+        ]
+      ],
+      "layout": "compare",
+      "source": "F02 · E2 · Tình huống giả định",
+      "note": "Không đưa ví dụ thành bài test khả năng vô thức của người xem.",
+      "visual_brief": "Hai panel bàn phím và lời nói với caption; icon keyboard và speech ở mức chức năng, không ảnh mật khẩu thật."
+    },
+    {
+      "title": "Ví dụ 3: Quân không nói trong cuộc họp",
+      "section": "E · REAL-LIFE EXAMPLES 3/3",
+      "body": "Quân có ghi chú nhưng không góp ý trước người có thẩm quyền. Có thể đặt giả thuyết giằng co muốn được công nhận và sợ bị phản đối. Cũng có thể cuộc họp thiếu thời gian hoặc môi trường thực sự trừng phạt phản biện. Nếu Quân biết mình đang lo mất việc, không thể gọi toàn bộ động cơ ấy là hoàn toàn không ý thức. Bối cảnh không được biến mất sau một nhãn.",
+      "nodes": [
+        [
+          "Bên trong",
+          "Giằng co được giả định."
+        ],
+        [
+          "Bối cảnh",
+          "Thời gian, quyền lực, an toàn."
+        ],
+        [
+          "Cần hỏi",
+          "Quân đã biết gì và muốn chia sẻ gì?"
+        ]
+      ],
+      "layout": "context-map",
+      "source": "F02 · E3 · Tình huống giả định",
+      "note": "Không dùng biểu hiện im lặng để chẩn đoán.",
+      "visual_brief": "Bản đồ cá nhân trong cuộc họp, ba nhánh nguyên nhân cạnh tranh, không mũi tên một chiều từ gia đình tới hành vi."
+    },
+    {
+      "title": "Case Linh: ta thật sự có dữ liệu gì?",
+      "section": "F · CASE STUDY 1/3",
+      "body": "Linh, 29 tuổi, bốn lần không nêu phản biện đã chuẩn bị trong cuộc họp với giám đốc. Sau đó Linh nói không biết vì sao mình im. Đây là ca do bài dựng để học suy luận, không hồ sơ lâm sàng. Dữ liệu chỉ là chênh lệch giữa chuẩn bị và phát biểu cùng một báo cáo tự hiểu biết; chưa có thông tin về sức khỏe, quan hệ gia đình hoặc điều kiện cuộc họp.",
+      "nodes": [
+        [
+          "Dữ kiện 1",
+          "Có ghi chú chuẩn bị."
+        ],
+        [
+          "Dữ kiện 2",
+          "Không phát biểu bốn lần."
+        ],
+        [
+          "Dữ kiện 3",
+          "Báo cáo “không biết vì sao”."
+        ]
+      ],
+      "layout": "case",
+      "source": "F02 · F · Ca giả định",
+      "note": "Không thêm tiểu sử hoặc chẩn đoán cho Linh.",
+      "visual_brief": "Hồ sơ tối giản chỉ ba dữ kiện; ghi CA GIẢ ĐỊNH ở tiêu đề và footer, icon tệp nhỏ."
+    },
+    {
+      "title": "Bốn giả thuyết, bốn hướng thu thập thông tin",
+      "section": "F · CASE STUDY 2/3",
+      "body": "Thiếu cơ hội nói cần kiểm bằng cách phân lượt và thời lượng. Lo hậu quả đã biết cần hỏi tự nguyện điều Linh dự đoán. Khó gọi lại ý kiến cần xem vai trò của giấy nhắc hay văn bản. Giằng co chưa rõ cần tìm hiểu mẫu tình huống và cách Linh mô tả. Mỗi giả thuyết có câu hỏi riêng; không phải đặt bốn nhãn khác nhau cho cùng một kết luận có sẵn.",
+      "nodes": [
+        [
+          "Cơ hội",
+          "Ai có lượt và ai bị ngắt?"
+        ],
+        [
+          "Hậu quả",
+          "Linh dự đoán điều gì?"
+        ],
+        [
+          "Truy cập",
+          "Giấy nhắc có làm khác?"
+        ],
+        [
+          "Giằng co",
+          "Linh hiểu mẫu hình ra sao?"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "F02 · F · Bảng giả thuyết",
+      "note": "Các câu hỏi là minh họa nghiên cứu, không quy trình trị liệu.",
+      "visual_brief": "Bảng 4 hàng “giả thuyết / thông tin phân biệt”; font lớn, không thêm cột test tâm lý."
+    },
+    {
+      "title": "Điều gì sẽ khiến ta sửa cách hiểu?",
+      "section": "F · CASE STUDY 3/3",
+      "body": "Nếu có bằng chứng Linh từng bị cắt thưởng vì phản biện, giả thuyết không có lý do bên ngoài phải sửa. Nếu Linh nói rõ mình sợ mất việc, cách gọi toàn bộ động cơ là không ý thức phải thu hẹp. Ta vẫn có thể chưa hiểu đầy đủ hành vi. Kết luận vừa phải là chưa đủ cơ sở gán cơ chế dồn nén, đồng thời giữ quyền Linh được kể hoặc không kể.",
+      "nodes": [
+        [
+          "Thông tin mới",
+          "Có hậu quả bên ngoài được chứng thực."
+        ],
+        [
+          "Sửa giả thuyết",
+          "Không chỉ tìm nguyên nhân trong cá nhân."
+        ],
+        [
+          "Kết luận giới hạn",
+          "Chưa xác định cơ chế dồn nén."
+        ]
+      ],
+      "layout": "decision-tree",
+      "source": "F02 · F · Phân tích của bài",
+      "note": "Không kết luận điều trị hoặc chẩn đoán từ case.",
+      "visual_brief": "Cây quyết định rẽ sang “sửa/thu hẹp”, tránh nhánh đồng ý/không đồng ý đều quay về dồn nén."
+    },
+    {
+      "title": "Cognitive nonconscious: cùng từ, khác phép kiểm",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Nghiên cứu nhận thức đặt câu hỏi về quá trình và thông tin không được nhận biết bằng những thao tác đo cụ thể. Vô thức động lực thêm giả thuyết về nội dung và lực chống đối. Do đó, bằng chứng về một ảnh hưởng ngoài nhận biết không tự chứng minh một mong muốn bị dồn nén. Cần xem nghiên cứu thật sự đo cái gì, trong nhiệm vụ nào, trước khi nối nó với lý thuyết lịch sử.",
+      "nodes": [
+        [
+          "Nhận thức",
+          "Quá trình và thông tin được đo."
+        ],
+        [
+          "Động lực",
+          "Nội dung và lực chống đối được đề xuất."
+        ],
+        [
+          "Không tương đương",
+          "Cần bằng chứng cho phần cơ chế thêm vào."
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S4] Kihlstrom (1987), trang đầu/abstract",
+      "note": "S4 mới đọc trang đầu và abstract; không trình bày toàn bộ tổng quan đã được thẩm định.",
+      "visual_brief": "Hai cột có cầu nối mang nhãn “cần bằng chứng riêng”, không vẽ một cột đổi tên thành cột kia."
+    },
+    {
+      "title": "Một câu hỏi hồi tưởng chưa đo hết awareness",
+      "section": "G · CHẤT LƯỢNG PHÉP ĐO",
+      "body": "Newell và Shanks nhấn mạnh đánh giá nhận biết cần đáng tin cậy, liên quan tới thông tin đang xét, đúng thời điểm và đủ nhạy. Nếu hỏi quá muộn hoặc hỏi điều không đúng với thông tin ảnh hưởng hành vi, kết quả âm tính có thể không giải quyết câu hỏi nghiên cứu. Phê bình phép đo cũng không cho phép kết luận ngược rằng mọi quyết định đều có ý thức.",
+      "nodes": [
+        [
+          "Đúng thông tin",
+          "Câu hỏi liên quan nhiệm vụ."
+        ],
+        [
+          "Đúng thời điểm",
+          "Không chỉ hồi tưởng rất muộn."
+        ],
+        [
+          "Đủ chất lượng",
+          "Tin cậy và nhạy với nhận biết."
+        ]
+      ],
+      "layout": "checklist",
+      "source": "[S5] Mục 1.2 và Table 1",
+      "note": "Bài đọc các đoạn phương pháp, chưa đọc toàn bộ review.",
+      "visual_brief": "Bốn ô Reliability/Relevance/Immediacy/Sensitivity kèm bản dịch ngắn; không hiển thị như chứng nhận cho mọi nhiệm vụ."
+    },
+    {
+      "title": "Review 2024: chủ quan và khách quan có thể khác nhau",
+      "section": "G · NGUỒN HIỆN ĐẠI 1/2",
+      "body": "Kiefer và Kammer phân biệt báo cáo trải nghiệm thị giác với độ chính xác phát hiện hay phân loại kích thích. Review mô tả cả hội tụ lẫn khác biệt tùy nhiệm vụ và điều kiện, không trao ưu thế tuyệt đối cho một kiểu đo. Vì thế, cần hỏi hai phép đo đang nhắm tới nội dung gì và được thực hiện ra sao thay vì chọn phép đo phù hợp sẵn với kết luận mình thích.",
+      "nodes": [
+        [
+          "Chủ quan",
+          "Người ấy báo trải nghiệm thế nào?"
+        ],
+        [
+          "Khách quan",
+          "Phát hiện/phân loại chính xác tới đâu?"
+        ],
+        [
+          "Quan hệ",
+          "Phụ thuộc điều kiện, không một quy luật đơn giản."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S6] Kiefer & Kammer (2024), DOI 10.5334/joc.381",
+      "note": "Đã đọc abstract và các đoạn mục 1–2, 4–5; không tái kiểm từng nghiên cứu gốc.",
+      "visual_brief": "Hai cột phương pháp cùng ba ví dụ quan hệ chỉ ở mức khái niệm; không vẽ đường số liệu như dữ liệu thật."
+    },
+    {
+      "title": "Review 2025 chất vấn một kết luận cụ thể",
+      "section": "G · NGUỒN HIỆN ĐẠI 2/2",
+      "body": "Hernández-Gutiérrez và cộng sự xem xét masked syntactic priming, không toàn bộ đời sống tâm trí. Abstract báo cáo những vấn đề về lực thống kê, nhận biết cao hơn ngẫu nhiên và độ tin cậy có thể làm yếu các kết luận trước. Bài này đã đọc abstract và phần khái quát, chưa thẩm định mọi kết quả. Không được biến phê bình một nhiệm vụ thành lời khẳng định không có xử lý không ý thức nào.",
+      "nodes": [
+        [
+          "Phạm vi",
+          "Masked syntactic priming."
+        ],
+        [
+          "Vấn đề",
+          "Phép đo và sức mạnh suy luận."
+        ],
+        [
+          "Giới hạn",
+          "Không phán quyết toàn bộ unconscious."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S7] Hernández-Gutiérrez et al. (2025), DOI 10.5334/joc.419",
+      "note": "Không đưa effect size vì chưa thẩm định bảng phân tích; lần tìm lại PMC gặp CAPTCHA.",
+      "visual_brief": "Thẻ nghiên cứu gồm câu hỏi, phương pháp tổng hợp và phạm vi; không biểu đồ số liệu hoặc con dấu bác bỏ Freud."
+    },
+    {
+      "title": "Một thí nghiệm cần hai phép kiểm riêng",
+      "section": "G · MINH HỌA PHƯƠNG PHÁP",
+      "body": "Giả sử ký hiệu rất nhanh đứng trước một kích thích khác. Nhiệm vụ chính hỏi ký hiệu đầu có làm đổi phản ứng không; phép thử nhận biết hỏi người tham gia có thông tin gì về nó. Một hiệu ứng ở nhiệm vụ chính cùng kết quả không có ý nghĩa ở phép thử nhận biết chưa tự giải quyết quan hệ ấy. Phải xét độ bất định và cách đo, không chỉ đối chiếu hai nhãn có/không.",
+      "nodes": [
+        [
+          "Nhiệm vụ chính",
+          "Có thay đổi phản ứng?"
+        ],
+        [
+          "Nhận biết",
+          "Có thông tin về ký hiệu?"
+        ],
+        [
+          "Suy luận",
+          "Hai kết quả cần được so sánh đúng cách."
+        ]
+      ],
+      "layout": "parallel-flow",
+      "source": "F02 · G · Ví dụ tự tạo, dựa vấn đề phương pháp [S5–S7]",
+      "note": "Không dùng con số minh họa như kết quả nghiên cứu thật.",
+      "visual_brief": "Hai luồng song song từ cùng kích thích; nối về ô “đánh giá suy luận”, không hợp nhất thành nhân quả dồn nén."
+    },
+    {
+      "title": "Loại claim quyết định loại bằng chứng cần có",
+      "section": "G · EVIDENCE MAP",
+      "body": "Văn bản gốc có thể xác nhận tác giả dùng một thuật ngữ như thế nào. Nghiên cứu nhiệm vụ có thể đánh giá một hiệu ứng trong điều kiện xác định. Cơ chế động lực cần bằng chứng cho chính nội dung và lực được đề xuất, không chỉ việc người tham gia chưa báo cáo nhận biết. Giữ ba mức này riêng giúp ta vừa học lịch sử chính xác vừa tránh vay bằng chứng từ một lĩnh vực để xác nhận lĩnh vực khác.",
+      "nodes": [
+        [
+          "Lịch sử từ ngữ",
+          "Đọc văn bản và locator."
+        ],
+        [
+          "Hiệu ứng nhiệm vụ",
+          "Thiết kế và phép đo."
+        ],
+        [
+          "Cơ chế động lực",
+          "Bằng chứng riêng, loại trừ giải thích cạnh tranh."
+        ]
+      ],
+      "layout": "layers",
+      "source": "F02 · G · Claim ledger",
+      "note": "Các nhãn trong bài không phải GRADE; không gán “mạnh” chung cho toàn tác giả.",
+      "visual_brief": "Ba tầng claim–nguồn–giới hạn, không dùng màu đỏ/xanh để xếp hạng trường phái."
+    },
+    {
+      "title": "Ứng dụng 1: hỏi từ “vô thức” đang mang nghĩa nào",
+      "section": "H · PRACTICAL APPLICATIONS",
+      "body": "Khi một nội dung phổ thông nói vô thức tạo ra hành vi, hãy hỏi tác giả đang nói không được nhận biết, khó diễn đạt hay bị dồn nén. Các cách dùng không tự tương đương. Kiểm xem nghĩa có đổi giữa phần mô tả và phần kết luận không. Đây là thực hành đọc lập luận, không công cụ tự phân tích bệnh lý hoặc phát hiện ý nghĩ bí mật của người khác.",
+      "nodes": [
+        [
+          "Từ ngữ",
+          "Tác giả định nghĩa ra sao?"
+        ],
+        [
+          "Dữ kiện",
+          "Điều gì thực sự được đo/kể?"
+        ],
+        [
+          "Kết luận",
+          "Có thêm một cơ chế chưa được kiểm không?"
+        ]
+      ],
+      "layout": "route",
+      "source": "F02 · H · Hướng dẫn suy luận của bài",
+      "note": "Không dùng checklist để chẩn đoán bản thân hay người khác.",
+      "visual_brief": "Ba câu hỏi dạng thẻ đọc sách; icon dấu hỏi cùng phong cách Noto Sans, không emoji lặp."
+    },
+    {
+      "title": "Ứng dụng 2: quan sát, giả thuyết, khả năng thay thế",
+      "section": "H · GIAO TIẾP VÀ TỰ PHẢN TƯ",
+      "body": "Khi ghi lại một tình huống, hãy tách điều mình thấy, cách mình giải thích và những khả năng khác. Khi hỏi người khác, để họ có quyền mô tả theo cách riêng hoặc từ chối. “Bạn hiểu chuyện ấy ra sao?” khác với “Bạn đang dồn nén điều gì?”. Những gợi ý này nhằm hạn chế nhảy kết luận và tôn trọng giao tiếp, không phải phương pháp trị liệu được kiểm định trong bài.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Tôi thấy hoặc nghe điều gì?"
+        ],
+        [
+          "Giả thuyết",
+          "Tôi đang thêm lời giải thích nào?"
+        ],
+        [
+          "Thay thế",
+          "Điều gì khác cũng giải thích được?"
+        ]
+      ],
+      "layout": "cards",
+      "source": "F02 · H · Ứng dụng có điều kiện",
+      "note": "Không ép truy tìm một biến cố gốc hoặc ký ức chưa được biết.",
+      "visual_brief": "Ba cột sổ ghi chép với dòng mẫu; minh họa vector, không ảnh người bệnh."
+    },
+    {
+      "title": "Bản đồ tổng hợp: khả năng truy cập và cơ chế",
+      "section": "I · VISUAL EXPLANATION",
+      "body": "Bản đồ cần giữ riêng trạng thái đang được nhận biết, khả năng gọi lại trong điều kiện phù hợp và giả thuyết bị ngăn khỏi ý thức. Bên cạnh là hai loại câu hỏi nghiên cứu: quá trình nào ngoài nhận biết theo phép đo, và nội dung nào được giả định bị chống đối. Không đặt chúng vào một chiếc tảng băng với tỷ lệ tùy ý. Đây là bản đồ khái niệm, không giải phẫu.",
+      "nodes": [
+        [
+          "Truy cập",
+          "Hiện biết / có thể gọi lại."
+        ],
+        [
+          "Động lực",
+          "Thêm giả thuyết về lực ngăn."
+        ],
+        [
+          "Đối chiếu",
+          "Không suy hai loại unconscious là một."
+        ]
+      ],
+      "layout": "concept-map",
+      "source": "[S1–S7] · F02 I",
+      "note": "Nét đứt: quan hệ khái niệm hoặc giả thuyết; không biểu thị tỷ lệ hay vị trí não.",
+      "visual_brief": "Hai panel: truy cập và câu hỏi nghiên cứu; mũi tên động lực nét đứt, có legend; không vẽ kích thước phần ngầm."
+    },
+    {
+      "title": "Điều bản đồ không cho phép suy ra",
+      "section": "I · CHỐNG HIỂU SAI SƠ ĐỒ",
+      "body": "Một sơ đồ gọn có thể khiến ta tưởng các miền là nơi chứa đồ cố định, hoặc mức độ lớn nhỏ biểu thị tỷ lệ tâm trí. Không có dữ liệu như vậy trong bài. Mũi tên trên bản đồ chỉ mô tả quan hệ khái niệm hoặc cơ chế được đề xuất, không chứng minh nhân quả. Người đọc cần thấy nhãn giả thuyết, nguồn và điều sơ đồ bỏ qua ngay trên cùng hình.",
+      "nodes": [
+        [
+          "Không là",
+          "Ba ngăn não hoặc ba loại người."
+        ],
+        [
+          "Không có",
+          "Tỷ lệ 90%/95% hoặc diện tích định lượng."
+        ],
+        [
+          "Phải có",
+          "Chú giải, nguồn và giới hạn."
+        ]
+      ],
+      "layout": "contrast",
+      "source": "F02 · I · Quy tắc diễn đạt hình",
+      "note": "Đọc sơ đồ cùng chú giải và bằng chứng của từng khẳng định.",
+      "visual_brief": "Ba ô “không là / không có / phải có”; dùng icon chức năng tiết chế, không dấu cấm to chiếm nội dung."
+    },
+    {
+      "title": "Tám điểm cần nhớ trước khi học F03",
+      "section": "J · KEY TAKEAWAYS",
+      "body": "Không đang nghĩ tới một điều chưa có nghĩa bị dồn nén. Tiền ý thức mô tả khả năng truy cập trong điều kiện phù hợp. Unconscious có nhiều nghĩa trong Freud; mô hình địa hình không tương ứng một–một với id–ego–superego. Báo cáo không biết chưa xác định nguyên nhân. Nghiên cứu nhận thức không tự xác nhận cơ chế động lực. Cuối cùng, cần kiểm phép đo và tôn trọng quyền của người được hỏi.",
+      "nodes": [
+        [
+          "Khái niệm",
+          "Phân biệt trạng thái, truy cập và lực ngăn."
+        ],
+        [
+          "Bằng chứng",
+          "Đọc đúng đối tượng và chất lượng phép đo."
+        ],
+        [
+          "Thực hành",
+          "Tách quan sát/diễn giải; không áp đặt."
+        ]
+      ],
+      "layout": "summary",
+      "source": "F02 · J · Tám takeaways trong bài",
+      "note": "Tám điểm được nhóm thành khái niệm, bằng chứng và thực hành.",
+      "visual_brief": "Editorial recap ba nhóm với số nhỏ 1–8 bên cạnh ý; không nhồi tám thẻ nội dung dài vào một trang."
+    },
+    {
+      "title": "Câu 1 · Nhớ ngay tên trường cũ minh họa gì?",
+      "section": "K · KNOWLEDGE CHECK 1/5",
+      "body": "Bạn đang mua hàng, không nghĩ tới trường tiểu học; được hỏi thì nhớ ra tên ngay. Trong khung bài này, đó là ví dụ minh họa tiền ý thức: ngoài chú ý lúc đầu nhưng được gọi lại trong điều kiện phù hợp. Nó không chứng minh mọi ký ức đều chính xác hoặc toàn bộ mô hình Freud là đúng. Đáp án cần giải thích phạm vi, không chỉ chọn một từ.",
+      "nodes": [
+        [
+          "Câu hỏi",
+          "Khái niệm nào phù hợp?"
+        ],
+        [
+          "Đáp án",
+          "Preconscious."
+        ],
+        [
+          "Lý do",
+          "Có thể gọi lại, chưa cần giả thuyết lực ngăn."
+        ]
+      ],
+      "layout": "question",
+      "source": "F02 · K1",
+      "note": "Cho người học trả lời trước rồi mới đọc đáp án; bản tĩnh vẫn phải có giải thích đầy đủ.",
+      "visual_brief": "Question panel và answer panel; icon dấu hỏi nhỏ, không emoji đánh giá người học."
+    },
+    {
+      "title": "Câu 2 · Mọi điều không biết đều là dynamic unconscious?",
+      "section": "K · KNOWLEDGE CHECK 2/5",
+      "body": "Không. Mô tả một điều chưa được nhận biết chưa cho biết vì sao nó ở ngoài nhận biết. Nghĩa động lực thêm giả thuyết về lực ngăn và xung đột. Để dùng nghĩa này cho một trường hợp, cần dữ kiện cho phần cơ chế thêm vào. Lỗi phổ biến là đổi nghĩa của từ unconscious giữa phần quan sát và kết luận nhưng không nhận ra bước nhảy đó.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Chưa được nhận biết."
+        ],
+        [
+          "Phần thêm",
+          "Lực ngăn và xung đột."
+        ],
+        [
+          "Cần chứng cứ",
+          "Không thể suy phần thêm chỉ từ nhãn."
+        ]
+      ],
+      "layout": "question",
+      "source": "F02 · K2 · [S2–S3]",
+      "note": "Nêu rõ đây là khác biệt nghĩa, không phủ nhận trải nghiệm không hiểu mình.",
+      "visual_brief": "Hai tầng câu trả lời “mô tả / cơ chế”, dùng đường đứt giữa chúng có nhãn cần kiểm."
+    },
+    {
+      "title": "Câu 3 · Không kể được quy luật nghĩa là không nhận biết?",
+      "section": "K · KNOWLEDGE CHECK 3/5",
+      "body": "Chưa đủ. Câu hỏi có thể không nhắm đúng thông tin, quá khó diễn đạt hoặc được hỏi sau khi người ấy đã quên. Cần đánh giá độ nhạy, tính liên quan, thời điểm và độ tin cậy của phép đo. Nhưng giới hạn ấy cũng không tự cho phép kết luận ngược rằng người tham gia chắc chắn có nhận biết. Một kết luận khoa học cần dựa vào thiết kế và độ bất định của dữ liệu.",
+      "nodes": [
+        [
+          "Chưa đủ",
+          "Một báo cáo âm tính."
+        ],
+        [
+          "Kiểm phép đo",
+          "Đúng thông tin, thời điểm, độ nhạy."
+        ],
+        [
+          "Tránh đảo chiều",
+          "Chưa biết không có nghĩa chắc có."
+        ]
+      ],
+      "layout": "question",
+      "source": "F02 · K3 · [S5–S6]",
+      "note": "Không biến phê bình phép đo thành khẳng định tất cả ý thức hoặc tất cả vô thức.",
+      "visual_brief": "Ba bước kiểm câu trả lời, nhấn hai hướng suy quá mức đối xứng."
+    },
+    {
+      "title": "Câu 4 · Điều gì khiến cách hiểu về Linh phải sửa?",
+      "section": "K · KNOWLEDGE CHECK 4/5",
+      "body": "Nếu Linh nói rõ mình sợ mất việc và thông tin đó phù hợp với hậu quả có thật trong tổ chức, ta phải thu hẹp cách gọi toàn bộ động cơ là không ý thức. Điều đó không giải quyết mọi yếu tố hành vi, nhưng thay đổi phần đã được biết. Cách giải thích tốt phải sửa theo dữ kiện, không dùng từ resistance để giữ nguyên mọi kết luận ban đầu.",
+      "nodes": [
+        [
+          "Dữ kiện mới",
+          "Linh nhận biết một nỗi lo cụ thể."
+        ],
+        [
+          "Điều cần sửa",
+          "Không gọi toàn bộ động cơ là không ý thức."
+        ],
+        [
+          "Điều còn mở",
+          "Có thể chưa hiểu hết hành vi."
+        ]
+      ],
+      "layout": "question",
+      "source": "F02 · K4 · Ca giả định",
+      "note": "Giữ tiếng nói của Linh như dữ kiện, không vật cản của diễn giải.",
+      "visual_brief": "Cây trước/sau dữ kiện mới; mũi tên dẫn tới giả thuyết thu hẹp, không dấu chẩn đoán."
+    },
+    {
+      "title": "Câu 5 · Implicit memory đã xác nhận dồn nén chưa?",
+      "section": "K · KNOWLEDGE CHECK 5/5",
+      "body": "Chưa. Một hiệu ứng trong nhiệm vụ trí nhớ và một cơ chế giữ nội dung ngoài ý thức là hai đối tượng kiểm tra khác nhau. Cùng có từ unconscious không làm chúng tương đương. Muốn bảo vệ cơ chế động lực, phải chỉ ra bằng chứng cho nội dung, sự ngăn khỏi ý thức và vai trò nhân quả được đề xuất, đồng thời cân nhắc giải thích cạnh tranh.",
+      "nodes": [
+        [
+          "Hiệu ứng",
+          "Có thể được đo trong nhiệm vụ."
+        ],
+        [
+          "Cơ chế",
+          "Cần phép kiểm riêng."
+        ],
+        [
+          "Kết luận",
+          "Không xác nhận chỉ nhờ cùng tên gọi."
+        ]
+      ],
+      "layout": "question",
+      "source": "F02 · K5 · [S4] và phân tích của bài",
+      "note": "Không khẳng định một nghiên cứu về trí nhớ đã kiểm tra mọi giả thuyết Freud.",
+      "visual_brief": "Hai hộp effect/mechanism ngăn bằng khoảng trắng; cầu nối “bằng chứng riêng” thay dấu bằng."
+    },
+    {
+      "title": "Nguồn lịch sử: văn bản nào, đoạn nào?",
+      "section": "L · REFERENCES 1/2",
+      "body": "S1 là chương VII của The Interpretation of Dreams qua bản HTML York, đã đọc các đoạn Pcs/Ucs nhưng chưa kiểm ấn bản nền toàn trang. S2 là A Note on the Unconscious in Psycho-Analysis, bản OCR lịch sử tr.312–318, có lỗi chữ nên không trích nguyên văn. S3 là nguồn giải thích của Freud Museum, giúp định vị thuật ngữ, không bằng chứng thực nghiệm độc lập cho cơ chế.",
+      "nodes": [
+        [
+          "S1",
+          "Dreams VII · phần B · Pcs/Ucs."
+        ],
+        [
+          "S2",
+          "Note (1912) · tr.312–318."
+        ],
+        [
+          "S3",
+          "Freud Museum · dynamic unconscious."
+        ]
+      ],
+      "layout": "refs",
+      "source": "F02 · L · S1–S3; URL đầy đủ trong bài và research log",
+      "note": "Không gán số trang Standard Edition cho bản khác đang đọc.",
+      "visual_brief": "Trang nguồn rõ tác giả/tác phẩm/locator/trạng thái đọc; icon sách nhỏ; không dùng ảnh scan như có quyền đã duyệt."
+    },
+    {
+      "title": "Nguồn hiện đại và giới hạn của bản nháp",
+      "section": "L · REFERENCES 2/2",
+      "body": "S4 Kihlstrom1987 mới đọc trang đầu và abstract. S5 Newell–Shanks2014 đọc các đoạn phương pháp. S6 Kiefer–Kammer2024 đọc các đoạn về phép đo; S7 Hernández-Gutiérrez et al.2025 đọc abstract và khái quát. Đây là khảo sát phục vụ giảng dạy, không tổng quan hệ thống cập nhật toàn bộ lĩnh vực. Bài và slide còn chờ review độc lập; bản trình bày đã được dựng trên Moda theo mẫu F01 v4.",
+      "nodes": [
+        [
+          "Nguồn",
+          "S4–S7 có mức truy cập khác nhau."
+        ],
+        [
+          "Trạng thái",
+          "Đã dựng Moda; review học thuật còn chờ."
+        ],
+        [
+          "Bài tiếp",
+          "F03 · Id, Ego và Superego."
+        ]
+      ],
+      "layout": "refs",
+      "source": "F02 · L · S4–S7; f02-research.md",
+      "note": "Ảnh tư liệu và stock có credit; mức đọc nguồn học thuật được ghi trong research log.",
+      "visual_brief": "Nguồn ở hai cột gọn; footer trạng thái draft. Burgundy nhất quán, chừa URL dài trong handout/source ledger thay vì chữ nhỏ."
+    }
+  ],
+  "canvas_ref": "cvs_3FR4RFGPBC8H3BKY1TNKNHQHJB",
+  "canvas_url": "https://moda.app/canvas/6fc130f8-596c-4446-b9f8-3aaceb1bc64b?source=agent",
+  "exports": {
+    "pptx": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "5103b04a-7925-4a3c-b7b1-843a76a136ab",
+      "url": "https://assets-cdn.moda.app/mcp-exports/6fc130f8-596c-4446-b9f8-3aaceb1bc64b/vcrdt-198d7ebd445879f015eeff7785be5240/pptx-r2-f0-w1-all.pptx?Expires=1824358837&KeyName=mpwa&Signature=rQWtiGYYEnVApo9ZzZih1neRfQg",
+      "format": "pptx",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": []
+    },
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "ad2fbb84-a746-42bd-a827-b09589d4c31b",
+      "url": "https://assets-cdn.moda.app/mcp-exports/6fc130f8-596c-4446-b9f8-3aaceb1bc64b/vcrdt-198d7ebd445879f015eeff7785be5240/pdf-r3-f0-w1-all.pdf?Expires=1824358811&KeyName=mpwa&Signature=5fEFgUJy6JKocj9PPBzEQjaz2PM",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    }
+  },
+  "presentation_status": "exported",
+  "production_notes": [
+    "Changed script Noto Sans brief to approved F01 Be Vietnam Pro/Bricolage Grotesque typography.",
+    "Slide37 production status updated; conceptual bodies1–36 unchanged.",
+    "Removed production-only visible notes on slides28–30, retained conceptual explanations.",
+    "Slide8 rendered as real comparison table, with explicit source-derived current-awareness/access/force columns.",
+    "Slide16 uses parallel hypotheses without arrows implying internal factors cause organizational context.",
+    "Moved sources/footer within page after screenshot check.",
+    "References include a clickable GitHub source-log link."
+  ]
+}

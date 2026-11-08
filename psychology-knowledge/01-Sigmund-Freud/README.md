@@ -2,7 +2,7 @@
 
 Psychoanalysis — Phân tâm học. Nhánh học thuật tiếng Việt kèm thuật ngữ tiếng Anh; đọc lý thuyết trong bối cảnh lịch sử và đối chiếu bằng chứng hiện đại.
 
-**Trạng thái:** kiến trúc đề xuất; 0/18 bài hoàn thành. Chưa có bài học hoặc canvas được tạo.
+**Trạng thái:** có [bài mẫu F01](lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md) để người dùng xem; chưa duyệt mẫu, chưa tính complete. [F02](lessons/02-conscious-preconscious-unconscious.md) đã có bản nháp, chưa review độc lập/Moda.
 
 Đọc [quy chuẩn chung](../STANDARDS.md), rồi theo [curriculum và danh sách bài](curriculum.md). Mỗi chủ đề sẽ có một file riêng trong `lessons/`; chỉ thêm liên kết bài khi file thực sự tồn tại.
 

@@ -21,3 +21,7 @@ Trước khi thiết kế: đọc `moda-core`, `diagram`, `markup`, `design-qual
 Quy trình cho mỗi bài: nội dung được nghiên cứu → brief xác định điểm khó và bằng chứng → nodes/edges/nhãn → tạo canvas → đối chiếu học thuật → xem screenshot cuối → sửa nếu có lỗi → xuất và tải → kiểm bản xuất → nhúng vào bài → ghi metadata. Mỗi bài tối thiểu một hình; bài có nhiều mô hình bổ sung hình đối chiếu. Dùng connector neo, không ghép mũi tên thủ công có thể lệch khi sửa.
 
 Nếu xuất không được, giữ URL canvas thật và trạng thái canvas-only; nếu chưa có canvas ghi blocked cùng nguyên nhân. Không thay bằng ảnh tự dựng rồi ghi là Moda. Ngày và trạng thái review chỉ ghi khi đã thực hiện. Các bản xuất lưu trong `visuals/` của đúng tác giả, metadata trong `moda/` tương ứng.
+
+## Cập nhật bài mẫu 2026-10-24
+
+F01 đã tạo canvas, áp markup, xem screenshot và export PNG thành công trên Moda. Người dùng chọn không tạo brand kit, dùng palette hiện có. Workspace không kết nối được proxy để tải PNG; đã lưu screenshot JPEG thật làm preview, xem metadata F01. Nhận định “chưa tạo canvas” ở đoạn kiểm tra Phase 1 phía trên chỉ ghi trạng thái lịch sử lúc PR #35 được lập.

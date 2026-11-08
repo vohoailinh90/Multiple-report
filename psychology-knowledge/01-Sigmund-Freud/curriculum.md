@@ -36,3 +36,8 @@ Có thể đọc F16 sau F05; F17 sau F10. F18 kết nối A18 và J24. F14 cầ
 ## Batch sau khi kiến trúc được duyệt
 
 Mỗi PR nội dung gồm 2–3 bài liên tiếp hoặc nhóm có phụ thuộc rõ, kèm nguồn, bảng kiểm chứng và ít nhất một sơ đồ mỗi bài. Mỗi batch phải qua reviewer trước khi mở rộng; chỉ tăng số bài khi chiều sâu và kiểm chứng đạt chuẩn. Tất cả bài hiện ở trạng thái **planned**, chưa tạo file tiêu đề/placeholder.
+
+## Tiến độ batch mẫu
+
+- [F01 — bài mẫu](lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md): đã viết, có canvas/preview; chờ người dùng xem và quy trình review ghi trong hồ sơ.
+- [F02 — bản nháp](lessons/02-conscious-preconscious-unconscious.md): phiên Freud đã bàn giao, chưa review độc lập/Moda, chưa complete.

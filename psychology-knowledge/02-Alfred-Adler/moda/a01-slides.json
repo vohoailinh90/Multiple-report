@@ -1,0 +1,1019 @@
+{
+  "title": "A01 · Cuộc đời Adler và khác biệt với Freud",
+  "subtitle": "Individual Psychology · Bản học chi tiết theo mẫu F01 v4 · Kịch bản chờ review và Moda",
+  "lesson_id": "A01",
+  "status": "drafted",
+  "review_status": "pending",
+  "visual_status": "not-started",
+  "format_reference": "../../01-Sigmund-Freud/moda/f01-report-v4.json",
+  "style": {
+    "canvas": [
+      1920,
+      1080
+    ],
+    "direction": "Academic Editorial / Psychology Textbook / Scientific Infographics / Modern Minimalism",
+    "palette": {
+      "accent": "#126B60",
+      "deep": "#123D38",
+      "background": "#F5F0E6",
+      "text": "#202A27",
+      "soft": "#D9E8DF",
+      "muted": "#59746B"
+    },
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "font_notes": "Theo mẫu F01v4, kiểm tiếng Việt thực tế khi dựng.",
+    "icon_tint": "#568E80",
+    "emoji_headers": {
+      "A": "🎯",
+      "B": "🕰️",
+      "C": "🧠",
+      "D": "⚙️",
+      "E": "💬",
+      "F": "📋",
+      "G": "🔬",
+      "H": "🧭",
+      "I": "🗺️",
+      "J": "💡",
+      "K": "❓",
+      "L": "📚"
+    },
+    "icon_notes": "Icon chức năng như target/archive/community/compass/handshake/gear/ruler; emoji chỉ định hướng đầu mục và được user duyệt trong mẫu. Không giả định mọifont export render emoji giống nhau.",
+    "diagram_notes": "Sơ đồ dùng connector neo. Mũi tên lý thuyết phải có nhãn; không vẽ giải phẫu, không dùng graph số liệu không nguồn."
+  },
+  "slides": [
+    {
+      "title": "Adler: năng lực, chỗ đứng\nvà quan hệ cộng đồng",
+      "section": "A01 · BẢN HỌC CHI TIẾT",
+      "body": "Vì sao cần hỏi một hành vi đang hướng tới điều gì, ngoài việc tìm nó bắt nguồn từ đâu? Bài học đặt Adler vào lịch sử y học và phân tâm học, giải thích quan điểm chỉnh thể, hướng đích và social interest. Ba ví dụ cùng một ca giả định giúp luyện suy luận. Đánh giá hiện đại giữ riêng lý thuyết, dữ liệu quan sát và hiệu quả trị liệu; không dùng thứ tự sinh để đoán một người.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Từ bác sĩ Vienna đến trường phái riêng."
+        ],
+        [
+          "Cách hiểu",
+          "Chỉnh thể, mục tiêu, quan hệ."
+        ],
+        [
+          "Giới hạn",
+          "Giả thuyết cần dữ kiện phân biệt."
+        ]
+      ],
+      "layout": "cover",
+      "source": "A01 · Toàn bài",
+      "note": "Draft để review; chưa có canvas/export.",
+      "visual_brief": "Bìa editorial nền deep teal #123D38, chữ cream, ký hiệu A01 lớn. Dùng typography khi ảnh Adler chưa được xác minh provenance; không dựng chân dung AI. Icon sách nhỏ; ảnh Adler candidate-HOLD chỉ được thay vào sau kiểm quyền và nhận diện."
+    },
+    {
+      "title": "🎯 Sau bài này, bạn cần làm được gì?",
+      "section": "A · LEARNING OBJECTIVES",
+      "body": "Bạn cần định vị các mốc Adler và sự tách nhóm năm 1911; giải thích individual theo nghĩa chỉnh thể trong bối cảnh; phân biệt phát triển năng lực với thống trị. Khi đối chiếu Freud, hãy chỉ rõ tác phẩm và giai đoạn thay vì dùng khẩu hiệu. Kỹ năng cuối cùng là nhận ra một diễn giải đang vượt dữ kiện, nhất là khi dùng vị trí sinh hoặc một hành vi đơn lẻ để kết luận nhân cách.",
+      "nodes": [
+        [
+          "Định vị",
+          "Ai, lúc nào, trong bối cảnh nào?"
+        ],
+        [
+          "Giải thích",
+          "Khái niệm và cơ chế được đề xuất."
+        ],
+        [
+          "Đánh giá",
+          "Nguồn, phép đo, giả thuyết thay thế."
+        ]
+      ],
+      "layout": "route",
+      "source": "A01 · A",
+      "note": "Tài liệu giáo dục, không tự chẩn đoán hoặc thay thế trị liệu.",
+      "visual_brief": "Ba chặng đường đọc đi lên nhẹ như mẫu F01v4; icon target và emoji🎯 giữ riêng text. Teal accent cho ba nhãn, không icon trang trí lấn sơ đồ."
+    },
+    {
+      "title": "🕰️ 1870–1911: bác sĩ và bước phân hóa",
+      "section": "B · HISTORICAL BACKGROUND",
+      "body": "Adler sinh tại Vienna năm 1870, nhận bằng y khoa năm 1895. Công trình năm 1907 về thiếu hụt của cơ quan tạo một điểm xuất phát cho câu hỏi bù trừ. Ông tách khỏi Freud năm 1911 khi phát triển cách tiếp cận riêng. Những mốc này định vị quá trình tư tưởng; chúng không chứng minh động cơ cá nhân hoặc cho phép suy học thuyết chỉ từ chuyện tuổi thơ của tác giả.",
+      "nodes": [
+        [
+          "1870 / 1895",
+          "Sinh ở Vienna; nhận bằng y khoa."
+        ],
+        [
+          "1907",
+          "Công trình về Organminderwertigkeit."
+        ],
+        [
+          "1911",
+          "Tách khỏi nhóm Freud."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Horn, Biografie và Werke",
+      "note": "Không gộp mốc rời nhóm với mọi mốc thành lập/đổi tên hội.",
+      "visual_brief": "Dòng thời gian ba điểm; nối bằng đường không đầu mũi tên nhân quả. Ảnh Adler chưa rõ quyền thay bằng thẻ tên; không dùng ngày upload portrait làm năm tác phẩm."
+    },
+    {
+      "title": "Giáo dục và cộng đồng đi vào chương trình",
+      "section": "B · LỊCH SỬ 1920–1937",
+      "body": "Trang lịch sử Đại học Vienna ghi nhận hoạt động Adler liên quan cải cách giáo dục trong thập niên 1920. Menschenkenntnis xuất bản năm 1927, được biết bằng tên tiếng Anh Understanding Human Nature. Ông mất ở Aberdeen năm 1937. Thực hành giáo dục cho thấy phạm vi quan tâm vượt khỏi một phòng trị liệu; còn việc những cách tiếp cận ấy hiệu quả ra sao vẫn là câu hỏi nghiên cứu riêng.",
+      "nodes": [
+        [
+          "1920s",
+          "Giáo dục và tư vấn nuôi dạy."
+        ],
+        [
+          "1927",
+          "Menschenkenntnis."
+        ],
+        [
+          "1937",
+          "Qua đời tại Aberdeen."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] Biografie/Werke · [S7] Thư mục",
+      "note": "Chưa khẳng định một năm chính xác cho mọi cơ sở tư vấn.",
+      "visual_brief": "Timeline thứ hai đổi hướng dọc với icon school/community. Có ô nhỏ “lịch sử ảnh hưởng ≠ bằng chứng hiệu quả”; không chart số liệu không nguồn."
+    },
+    {
+      "title": "1911 không chỉ là chuyện thầy trò bất hòa",
+      "section": "B · ĐỌC LỊCH SỬ TƯ TƯỞNG",
+      "body": "Chuyện kể “học trò chống thầy” dễ nhớ nhưng thiếu những câu hỏi học thuật. Hai hệ thống chọn điều gì làm đơn vị giải thích, hỏi về động lực ra sao và lấy dữ liệu nào để khái quát? Sự kiện tách nhóm có thể xác nhận mà không cần đoán toàn bộ tâm lý tác giả. Một trường phái cũng thay đổi qua thời gian; không nên gộp các từ Adler dùng ở nhiều giai đoạn thành một nghĩa bất biến.",
+      "nodes": [
+        [
+          "Sự kiện",
+          "Rời nhóm năm 1911."
+        ],
+        [
+          "Câu hỏi tư tưởng",
+          "Đơn vị, động lực, phương pháp."
+        ],
+        [
+          "Điều chưa biết",
+          "Không suy hết động cơ cá nhân."
+        ]
+      ],
+      "layout": "layers",
+      "source": "[S1–S2] Lịch sử và nguồn diễn giải",
+      "note": "Đây là khung đọc của bài, không một kết luận tâm lý về Adler/Freud.",
+      "visual_brief": "Ba tầng tư liệu–câu hỏi–giới hạn; dùng hồ sơ mở và icon archive. Không dùng sơ đồ đối đầu hai chân dung như trận thắng/thua."
+    },
+    {
+      "title": "Một nguồn nói gì, và ta thực sự đã đọc gì?",
+      "section": "B · NGUỒN VÀ KHOẢNG CÁCH",
+      "body": "Nguồn đại học giúp định vị lịch sử. Boeree trình bày một cách hiểu theo trường phái. Các tuyển trích Stein chứa Adler lẫn tác giả về sau, nên phải giữ nhãn người nói. Chương Mind and Body đọc được qua bản chép, chưa đối chiếu bản in; metadata năm trên trang còn bất nhất. Việc nguồn có URL hoặc mang tên tác giả chưa đồng nghĩa ta đã đọc đúng toàn văn và ấn bản.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Đại học Vienna: Biografie/Werke."
+        ],
+        [
+          "Qua trung gian",
+          "Boeree; Stein; bản chép Ch 2."
+        ],
+        [
+          "Cần phân biệt",
+          "Tác giả, biên tập, bản dịch, năm."
+        ]
+      ],
+      "layout": "ledger",
+      "source": "[S1–S4], [S8] · a01-research.md",
+      "note": "Không nhận đã đối chiếu nguyên bản Adler khi chưa thực hiện.",
+      "visual_brief": "Ledger ba cột loại nguồn–đã đọc–chưa biết; icon magnifying-glass. Nhãn trạng thái bằng chữ, không chỉ màu; chân trang link research log."
+    },
+    {
+      "title": "🧠 Individual: một chỉnh thể trong hoàn cảnh",
+      "section": "C · CORE THEORY 1",
+      "body": "Individual Psychology thường được giải thích theo nghĩa không chia cắt. Cách suy nghĩ, cảm xúc và hành động cần được xem trong một mẫu hình sống, cùng môi trường quan hệ. Vì thế, gọi một học sinh “lười” trước khi biết nhiệm vụ, lớp học và nguồn lực là quá sớm. Tuy nhiên, thêm bối cảnh chưa tự làm giả thuyết đúng; người quan sát vẫn có thể chọn lọc những chi tiết hợp câu chuyện mình đã tin.",
+      "nodes": [
+        [
+          "Con người",
+          "Suy nghĩ, cảm xúc, hành động."
+        ],
+        [
+          "Quan hệ",
+          "Gia đình, lớp, công việc."
+        ],
+        [
+          "Hoàn cảnh",
+          "Yêu cầu và nguồn lực thực tế."
+        ]
+      ],
+      "layout": "concentric",
+      "source": "[S2] Theory · [S1] Biografie",
+      "note": "Holism là định hướng xem xét, chưa là công thức nhân quả.",
+      "visual_brief": "Ba vùng lồng nhau bằng nhãn rõ, không vẽ não như vị trí tâm trí. Người ở tâm, quan hệ và hoàn cảnh bao quanh; icon person/community."
+    },
+    {
+      "title": "Mục tiêu tổ chức hiện tại, không kéo ngược thời gian",
+      "section": "C · CORE THEORY 2",
+      "body": "Cách hỏi hướng đích xem hành vi đang phục vụ hình dung nào về an toàn, năng lực hoặc chỗ đứng. Mục tiêu có thể chưa được người ấy phát biểu rõ. Ta không cần giả định tương lai tác động ngược thời gian: chính hình dung đang có hôm nay mới là điều cần khảo sát. Nếu chỉ suy mục tiêu từ kết quả rồi luôn bảo nó đúng, ta đang giải thích sau sự kiện thay vì kiểm tra.",
+      "nodes": [
+        [
+          "Hiện tại",
+          "Hình dung điều quan trọng."
+        ],
+        [
+          "Lựa chọn",
+          "Chiến lược có thể theo đuổi."
+        ],
+        [
+          "Cần kiểm",
+          "Lời kể và dữ kiện cạnh tranh."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S2] Lifestyle and Teleology · [S8] Ch 2",
+      "note": "Không được khẳng định biết “mục tiêu thật” bất chấp lời người ấy.",
+      "visual_brief": "Flow ba khối; một nhánh chặn mũi tên ngược từ “tương lai” về “quá khứ”. Nhãn “mô hình diễn giải”, icon compass; không dùng thời gian như lực vật lý."
+    },
+    {
+      "title": "Vượt khó khác với vượt lên trên người khác",
+      "section": "C · CORE THEORY 3",
+      "body": "Trong tài liệu được tuyển, Adler phân biệt một hướng cải thiện tình thế với sự theo đuổi ưu thế cá nhân bằng cách đặt người khác dưới mình. Bởi vậy, superiority không có một cách dịch giản đơn cho mọi đoạn văn. Hai người cùng chăm chỉ có thể hướng tới học kỹ năng hoặc giữ vị trí không ai vượt. Chỉ từ giờ làm việc, ta chưa biết họ thuộc hướng nào; cần bối cảnh và lời giải thích.",
+      "nodes": [
+        [
+          "Phát triển năng lực",
+          "Học, giải quyết vấn đề, hợp tác."
+        ],
+        [
+          "Ưu thế cá nhân",
+          "Giá trị gắn với việc đứng trên."
+        ],
+        [
+          "Giữ mở",
+          "Cùng hành vi có nhiều mục tiêu."
+        ]
+      ],
+      "layout": "fork",
+      "source": "[S3] Phần Alfred Adler; trích đoạn qua trung gian",
+      "note": "Không coi mọi thành tích là bù trừ hoặc mọi cạnh tranh là bệnh lý.",
+      "visual_brief": "Nhánh đôi từ một hành vi trung tính; nhãn “khả năng A/B”, không đỏ/xanh đạo đức. Icon tool vs podium chỉ để phân biệt khái niệm, không chẩn đoán."
+    },
+    {
+      "title": "Social interest không phải mức độ hoạt náo",
+      "section": "C · CORE THEORY 4",
+      "body": "Social interest, Gemeinschaftsgefühl, đặt câu hỏi cá nhân sống cùng và đóng góp với người khác ra sao. Người ít nói có thể hợp tác tốt; người nói năng tự tin có thể không làm phần việc chung. Vì vậy, không đồng nhất khái niệm này với hướng ngoại. Cũng không lấy khó khăn hòa nhập trong một môi trường phân biệt đối xử làm bằng chứng người ấy thiếu giá trị hoặc thiếu quan tâm xã hội.",
+      "nodes": [
+        [
+          "Hợp tác",
+          "Quan tâm nhiệm vụ và người khác."
+        ],
+        [
+          "Hướng ngoại",
+          "Một cách biểu hiện khác, không tương đương."
+        ],
+        [
+          "Hoàn cảnh",
+          "Môi trường có cho phép tham gia?"
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S2] Social Interest · [S4] Alfred Adler",
+      "note": "Không dùng social interest làm nhãn kết tội người gặp khó khăn.",
+      "visual_brief": "Hai thẻ “ít nói/hợp tác” và “nói nhiều/chưa hợp tác”, thêm dải bối cảnh. Icon handshake; emoji🫱🏻‍🫲🏽 nếu font hỗ trợ, không thay nội dung chữ."
+    },
+    {
+      "title": "Một chương Adler đọc được cũng cần được phản biện",
+      "section": "C · PRIMARY TEXT, QUA BẢN CHÉP",
+      "body": "Chương Mind and Body đặt tương tác thân–tâm và hướng đích ở trung tâm, nhưng còn đưa các khẳng định rất rộng về cảm xúc và phong cách sống. Đọc lịch sử trung thực không chỉ chọn những câu nghe hiện đại. Các phát biểu đó là lập trường tác giả trong văn bản đang đọc, chưa phải kết quả thực nghiệm. Không được chuyển chúng thành lời buộc tội rằng người bị lo âu đang cố ý thao túng người khác.",
+      "nodes": [
+        [
+          "Văn bản",
+          "Thân–tâm, mục tiêu, phong cách."
+        ],
+        [
+          "Phạm vi rộng",
+          "Khẳng định về cảm xúc cần kiểm."
+        ],
+        [
+          "Ranh giới",
+          "Chức năng giả định ≠ cố ý."
+        ]
+      ],
+      "layout": "balance",
+      "source": "[S8] Mind and Body, selected-chapter-text-read",
+      "note": "Metadata trang chép không nhất quán1931/1932/1933; không tự gán ấn bản/trang in.",
+      "visual_brief": "Bố cục cân bằng “đọc sát văn bản / đánh giá độc lập”; icon document-check. Không trích dài; badge “bản chép qua trung gian”, không ảnh sách giả."
+    },
+    {
+      "title": "Adler và Freud: đổi trọng tâm câu hỏi",
+      "section": "C · SO SÁNH CÓ PHẠM VI",
+      "body": "Một trọng tâm Adlerian là xem hành vi trong mẫu hình mục tiêu và quan hệ. Một trọng tâm của Freud Lecture II năm 1910 là xung đột, dồn nén và sự chống cự khi chất liệu trở lại ý thức. Đây là so sánh hai trọng tâm được chọn, không toàn bộ hai tác giả. Không được từ đó nói Adler bỏ quá khứ hoặc Freud không quan tâm đời sống hiện tại và quan hệ.",
+      "nodes": [
+        [
+          "Adler",
+          "Hành vi đang hướng tới điều gì?"
+        ],
+        [
+          "Freud, Lecture II",
+          "Xung đột và chất liệu khó ý thức?"
+        ],
+        [
+          "Cả hai",
+          "Giả thuyết vẫn cần đánh giá."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "[S1–S4], [S8] Adler · [S5] Freud Lecture II",
+      "note": "Không bảng xếp hạng đúng/sai; không vẽ hai chân dung đối địch.",
+      "visual_brief": "Ma trận2 cột cùng kích thước, chân dung Freud asset-freud nếu cần ở cột phải, Adler typography ở trái đến khi ảnh rõ quyền. Cột cuối “điều không thể suy”."
+    },
+    {
+      "title": "⚙️ Bản đồ cơ chế: từ khó khăn đến phản hồi",
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "body": "Chuỗi giảng dạy gồm gặp nhiệm vụ, gán ý nghĩa, hình thành hướng tìm an toàn hoặc chỗ đứng, chọn chiến lược và nhận phản hồi. Đường trở lại là xem xét giả thuyết theo dữ kiện mới. Mỗi mũi tên là một quan hệ được mô hình đề xuất, không một cơ chế sinh học đã xác nhận. Cần giữ các yếu tố kỹ năng, nguồn lực và môi trường bên cạnh, thay vì chỉ tìm niềm tin cá nhân.",
+      "nodes": [
+        [
+          "1–2",
+          "Nhiệm vụ → ý nghĩa được gán."
+        ],
+        [
+          "3–4",
+          "Mục tiêu giả định → chiến lược."
+        ],
+        [
+          "5–6",
+          "Phản hồi → xem xét lại."
+        ]
+      ],
+      "layout": "mechanism",
+      "source": "A01 · D · Tổng hợp giảng dạy, nền [S3–S4], [S8]",
+      "note": "Không phải sơ đồ nguyên văn hoặc một mô hình thực nghiệm đã kiểm.",
+      "visual_brief": "Flow chính với vòng phản hồi neo; một lane song song “kỹ năng/nguồn lực/hoàn cảnh”. Tất cả mũi tên gắn nhãn mô hình; icon gear⚙️."
+    },
+    {
+      "title": "Bước 1–2: một khó khăn, hai cách gán nghĩa",
+      "section": "D · NHIỆM VỤ VÀ TỰ ĐÁNH GIÁ",
+      "body": "Một nhiệm vụ chưa làm được có thể được hiểu là thiếu kỹ năng cụ thể hoặc là nguy cơ bị mất tôn trọng. Hai cách hiểu dẫn tới các câu hỏi khác nhau. Nhưng người quan sát không thể thay lời người ấy bằng một câu chuyện sẵn. Hãy tách điều xảy ra, điều người ấy nói và điều ta suy. Cũng cần xem nhiệm vụ có rõ ràng, phù hợp năng lực và nguồn lực hay không.",
+      "nodes": [
+        [
+          "Sự kiện",
+          "Chưa làm được nhiệm vụ."
+        ],
+        [
+          "Ý nghĩa A",
+          "Kỹ năng này cần học."
+        ],
+        [
+          "Ý nghĩa B",
+          "Sai đồng nghĩa mất giá trị."
+        ]
+      ],
+      "layout": "branch",
+      "source": "A01 · D1–D2 · Minh họa của bài",
+      "note": "Hai nhánh là ví dụ, không đầy đủ mọi khả năng.",
+      "visual_brief": "Một khối sự kiện rẽ hai nhánh ý nghĩa; thêm khung bối cảnh dưới. Node suy luận nét đứt, quan sát nét liền, có chú giải."
+    },
+    {
+      "title": "Bước 3–4: từ hướng tìm an toàn đến chiến lược",
+      "section": "D · MỤC TIÊU VÀ CÁCH ỨNG PHÓ",
+      "body": "Cá nhân có thể tìm chỗ đứng bằng học thêm, xin hỗ trợ, kiểm soát mọi việc hoặc tránh bị đánh giá. Danh sách này mở ra khả năng, không phân loại người thành những kiểu bệnh. Một chiến lược chỉ được hiểu trong quan hệ cụ thể. Nếu bị đánh giá thiếu công bằng, rút lui có thể liên quan điều kiện thật chứ không chỉ một niềm tin sai hoặc mong muốn tránh trách nhiệm.",
+      "nodes": [
+        [
+          "Học thêm",
+          "Tăng năng lực."
+        ],
+        [
+          "Xin hỗ trợ",
+          "Chia sẻ nhiệm vụ."
+        ],
+        [
+          "Tránh/kiểm soát",
+          "Cần hỏi bối cảnh và tác dụng."
+        ]
+      ],
+      "layout": "cards",
+      "source": "A01 · D3–D4 · Mô hình đề xuất",
+      "note": "Không kết luận động cơ từ hình thức chiến lược.",
+      "visual_brief": "Ba thẻ cùng màu trung tính, không trục “lành/bệnh”; icon book/help/settings. Mũi tên từ mục tiêu ghi “có thể”."
+    },
+    {
+      "title": "Bước 5–6: phản hồi có thể giữ hoặc đổi chiến lược",
+      "section": "D · VÒNG PHẢN HỒI",
+      "body": "Né nhiệm vụ có thể giúp bớt lo ngay nhưng cũng giảm cơ hội học. Nếu một điều kiện thay đổi làm hành vi thay đổi, đó là dữ liệu để sửa cách hiểu. Ví dụ, học sinh tham gia khi yêu cầu rõ hơn khiến giải thích về nhiệm vụ đáng chú ý hơn câu chuyện “em muốn chống giáo viên”. Không cần giữ giả thuyết hướng đích bằng mọi giá; chính khả năng sửa mới giúp nó hữu ích.",
+      "nodes": [
+        [
+          "Ngắn hạn",
+          "Phản hồi sau một lựa chọn."
+        ],
+        [
+          "Dài hơn",
+          "Cơ hội học và tham gia."
+        ],
+        [
+          "Dữ kiện mới",
+          "Sửa giả thuyết khi điều kiện đổi."
+        ]
+      ],
+      "layout": "loop",
+      "source": "A01 · D5–D6 · Suy luận giảng dạy",
+      "note": "Không trình bày vòng này như kết quả của thí nghiệm đã thực hiện.",
+      "visual_brief": "Vòng ba khối anchored-connectors, chỗ rẽ sang “dữ kiện chống lại”. Nét đứt cho giả thuyết, không vòng tự xác nhận."
+    },
+    {
+      "title": "Khi “mục tiêu bí mật” làm giả thuyết không thể sai",
+      "section": "D · PHẢN BIỆN PHƯƠNG PHÁP",
+      "body": "Nếu thành công được gọi là đạt mục tiêu, còn thất bại luôn được gọi là âm thầm đạt một mục tiêu khác, mô hình có thể giải thích mọi kết quả sau sự kiện. Hãy nói trước dữ kiện nào khiến mình đổi ý. Lời phủ nhận của người được hỏi cần được tôn trọng, không tự biến thành bằng chứng họ thiếu hiểu biết về bản thân. Suy luận hướng đích là lời mời tìm hiểu, không giấy phép áp đặt.",
+      "nodes": [
+        [
+          "Dễ mắc",
+          "Giải thích được mọi kết quả."
+        ],
+        [
+          "Câu hỏi kiểm",
+          "Điều gì khiến mình đổi ý?"
+        ],
+        [
+          "Nguyên tắc",
+          "Giữ lời người ấy và giải thích khác."
+        ]
+      ],
+      "layout": "decision",
+      "source": "A01 · D · Phản biện phương pháp của bài",
+      "note": "Không gán sự chống đối hay gian dối khi một người không đồng ý.",
+      "visual_brief": "Cây quyết định: dữ kiện ủng hộ/không ủng hộ→giữ tạm/sửa; không mọi nhánh quay lại cùng kết luận. Icon split-path."
+    },
+    {
+      "title": "💬 Ví dụ 1: Hà ngại phát âm ngoại ngữ",
+      "section": "E · TÌNH HUỐNG GIẢ ĐỊNH 1",
+      "body": "Hà chưa quen một âm mới và im lặng khi đến lượt nói. Có thể em cần hướng dẫn kỹ thuật; cũng có thể em coi sai phát âm là sẽ bị xem thường. Một lần im lặng chưa đủ xác định cách hiểu nào, càng chưa đủ gọi inferiority complex. Câu hỏi nên phân biệt kỹ năng còn thiếu, cảm giác trong tình huống và đánh giá toàn thể giá trị bản thân.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Im lặng khi phát âm."
+        ],
+        [
+          "Cần hỏi",
+          "Khó ở kỹ thuật hay sợ đánh giá?"
+        ],
+        [
+          "Tránh kết luận",
+          "Một lần im lặng ≠ complex."
+        ]
+      ],
+      "layout": "example",
+      "source": "A01 · E1 · Do bài tạo",
+      "note": "Không dùng khuôn phản hồi như lời hứa trị liệu.",
+      "visual_brief": "Thẻ tình huống với icon microphone, hai speech-bubbles gợi câu hỏi, nhãn “giả định”. Không ảnh người thật làm Hà."
+    },
+    {
+      "title": "Ví dụ 2: Minh luôn nhận thêm việc",
+      "section": "E · TÌNH HUỐNG GIẢ ĐỊNH 2",
+      "body": "Cùng hành vi làm thêm có thể gắn với học kỹ năng, hỗ trợ nhóm, thu nhập hoặc nỗi lo bị bỏ lại. Cũng có thể áp lực quản lý làm lựa chọn thiếu tự nguyện. Hãy hỏi việc nhận thêm giúp Minh đạt điều gì và điều gì làm việc từ chối khó. Không được biến hoàn cảnh lao động bất công thành lỗi niềm tin cá nhân chỉ vì ta thích một mô hình giải thích tâm lý.",
+      "nodes": [
+        [
+          "Có thể có lợi",
+          "Học, giúp nhóm, thu nhập."
+        ],
+        [
+          "Có thể có sức ép",
+          "Sợ bị bỏ lại; quản lý ép."
+        ],
+        [
+          "Câu hỏi",
+          "Mức tự nguyện và điều kiện thật?"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "A01 · E2 · Do bài tạo",
+      "note": "Không đoán động cơ từ số giờ làm việc.",
+      "visual_brief": "Swimlane lời người lao động–điều kiện tổ chức; icon briefcase. Dùng các nhánh “có thể”, không mind-reading hoặc thang tự ti."
+    },
+    {
+      "title": "Ví dụ 3: hai anh em và khuôn thứ tự sinh",
+      "section": "E · TÌNH HUỐNG GIẢ ĐỊNH 3",
+      "body": "Chị cả đặt vé cho chuyến đi còn em út ít phát biểu. Khuôn “con đầu lãnh đạo, con út lệ thuộc” nghe hợp nhưng chị có thể chỉ giàu kinh nghiệm đặt vé, còn em đang xử lý một việc khác. Vai trò gia đình có thể đáng hỏi, nhưng thứ tự sinh chưa thay lời kể và dữ kiện nhiệm vụ. Hãy tìm phân chia trách nhiệm thực tế trước khi kể một câu chuyện về nhân cách.",
+      "nodes": [
+        [
+          "Biểu hiện",
+          "Một người chủ động, một người im."
+        ],
+        [
+          "Giải thích khác",
+          "Kinh nghiệm và việc đang làm."
+        ],
+        [
+          "Bài học",
+          "Vị trí sinh không mô tả sẵn."
+        ]
+      ],
+      "layout": "sequence",
+      "source": "A01 · E3 · Do bài tạo",
+      "note": "Không dùng thứ tự sinh như định mệnh tính cách.",
+      "visual_brief": "Hai nhân vật biểu tượng có nhãn vai trong chuyến đi, không emoji trẻ sơ sinh. Chuyển từ “khuôn nhanh” sang “câu hỏi dữ kiện”."
+    },
+    {
+      "title": "📋 Case An: giữ dữ kiện hẹp trước khi diễn giải",
+      "section": "F · CASE STUDY 1",
+      "body": "An, 15 tuổi làm bài ở nhà nhưng ít nộp phần phải trình bày trước lớp. Trong nhóm, em sửa tài liệu kỹ nhưng không nhận phần nói. An bảo “phải chắc hoàn toàn mới dám lên”. Lớp hay cười khi bạn nói nhầm. Ca hoàn toàn giả định để luyện lập giả thuyết; không đủ thông tin chẩn đoán. Mô tả đúng là tránh một loại nhiệm vụ, không phải “lười mọi thứ”.",
+      "nodes": [
+        [
+          "Có làm",
+          "Chuẩn bị và sửa tài liệu."
+        ],
+        [
+          "Chưa làm",
+          "Trình bày trước lớp."
+        ],
+        [
+          "Bối cảnh",
+          "Lớp trêu khi nói sai."
+        ]
+      ],
+      "layout": "dossier",
+      "source": "A01 · F · Ca giả định, không nghiên cứu công bố",
+      "note": "Không ảnh học sinh thật; không đặt nhãn bệnh.",
+      "visual_brief": "Hồ sơ3 khối dữ kiện/lời kể/bối cảnh; emoji📋 và icon file. Ghi “giả định” nổi rõ và tách lời An khỏi suy luận."
+    },
+    {
+      "title": "Case An: giữ ít nhất hai giả thuyết cạnh tranh",
+      "section": "F · CASE STUDY 2",
+      "body": "Một giả thuyết Adlerian là An bảo vệ chỗ đứng bằng cách tránh nguy cơ bị xem là kém. Khả năng khác là em thiếu kỹ năng nói, chưa hiểu tiêu chí hoặc bị trêu thật. Câu “phải chắc hoàn toàn” gợi một tiêu chuẩn đáng hỏi, chưa chứng minh mọi lĩnh vực đời sống đều bị nó chi phối. Cần ghi rõ bằng chứng đang có và điều mỗi giả thuyết còn cần biết.",
+      "nodes": [
+        [
+          "Hướng đích",
+          "Tránh mất chỗ đứng?"
+        ],
+        [
+          "Kỹ năng/nhiệm vụ",
+          "Thiếu luyện hoặc tiêu chí mơ hồ?"
+        ],
+        [
+          "Môi trường",
+          "Bị trêu hoặc thiếu an toàn?"
+        ]
+      ],
+      "layout": "matrix",
+      "source": "A01 · F2–F4 · Phân tích của bài",
+      "note": "Không gán mục tiêu với sự chắc chắn chỉ từ một câu kể.",
+      "visual_brief": "Ma trận giả thuyết–dữ kiện cần–điều phản bác. Ba hàng ngang bằng; mục tiêu không được đặt cột “nguyên nhân thật”."
+    },
+    {
+      "title": "Case An: tìm điều kiện phân biệt và sửa cách hiểu",
+      "section": "F · CASE STUDY 3",
+      "body": "Hỏi An muốn hỗ trợ gì, rồi xem việc tiêu chí rõ, nói trong nhóm nhỏ hoặc lớp chấm dứt trêu chọc có làm mức tham gia đổi không. Đây là hỗ trợ giáo dục có đồng thuận, không một thí nghiệm trị liệu. Nếu tham gia tăng khi lớp an toàn hơn, trọng tâm phải gồm môi trường. Nếu chưa tăng, hãy tiếp tục tìm hiểu; đừng kết luận An không muốn hợp tác hoặc đang thắng một cuộc đấu quyền lực.",
+      "nodes": [
+        [
+          "Đồng thuận",
+          "Hỏi loại hỗ trợ An muốn."
+        ],
+        [
+          "Điều kiện đổi",
+          "Tiêu chí, quy mô, an toàn lớp."
+        ],
+        [
+          "Kết luận đổi",
+          "Giả thuyết theo dữ kiện mới."
+        ]
+      ],
+      "layout": "decision",
+      "source": "A01 · F5–F6 · Phân tích của bài",
+      "note": "Khó khăn kéo dài có thể cần trao đổi với chuyên môn phù hợp.",
+      "visual_brief": "Cây kiểm tra điều kiện→quan sát→sửa; nhánh chưa đổi dẫn “tìm thêm”, không “xác nhận chống đối”. Icon classroom-check."
+    },
+    {
+      "title": "🔬 Rohrer 2015: một phép kiểm về thứ tự sinh",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Nghiên cứu dùng ba panel quốc gia và so sánh trong gia đình lẫn giữa gia đình. Tác giả không tìm thấy hiệu ứng thứ tự sinh đối với các nét rộng được nêu như hướng ngoại, ổn định cảm xúc, dễ chịu, tận tâm và trí tưởng tượng; miền trí tuệ có kết quả khác. Điều được đánh giá là khẳng định cụ thể bằng phép đo cụ thể, không mọi quan hệ gia đình hay toàn bộ Adler.",
+      "nodes": [
+        [
+          "Dữ liệu",
+          "Ba panel Mỹ, Anh, Đức."
+        ],
+        [
+          "Thiết kế",
+          "Trong và giữa gia đình."
+        ],
+        [
+          "Phạm vi",
+          "Nét rộng nêu trong nghiên cứu."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S6] Abstract và trang14224–14225",
+      "note": "Chưa tái phân tích dữ liệu hoặc kiểm đầy đủ phụ lục.",
+      "visual_brief": "Infographic phương pháp2 thiết kế; không biểu đồ effect size vì bài chưa trích số. Nhãn “nghiên cứu quan sát”, icon test-tube🔬."
+    },
+    {
+      "title": "Ashton & Lee 2025: thêm kết quả cần đối chiếu",
+      "section": "G · BẰNG CHỨNG TRÁI CHIỀU",
+      "body": "Abstract được lập chỉ mục của nghiên cứu HEXACO báo liên hệ giữa vị trí sinh, số anh chị em và một số chiều, đặc biệt Honesty–Humility và Agreeableness. Khác biệt theo vị trí nhỏ hơn khi xem trong cùng quy mô anh chị em. Ở bài này chỉ kiểm metadata và trích đoạn abstract, chưa đọc được toàn văn. Vì vậy, không đưa một đánh giá đầy đủ về chất lượng hoặc dùng kết quả để đoán từng người.",
+      "nodes": [
+        [
+          "Thông tin mới",
+          "Liên hệ trong một số chiều HEXACO."
+        ],
+        [
+          "Cần tách",
+          "Vị trí sinh và số anh chị em."
+        ],
+        [
+          "Mức đã đọc",
+          "Metadata và abstract excerpts."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S9] PNAS 122(1),e2416709121 · online 23-12-2024",
+      "note": "Không effect size, không gọi toàn văn đã kiểm; PMC CAPTCHA/PNAS cookie.",
+      "visual_brief": "Hai lane “kết quả abstract / giới hạn truy cập”. Không chart số, không “nghiên cứu mới chứng minh Adler đúng”. Nhãn trạng thái chữ rõ."
+    },
+    {
+      "title": "Vì sao không kết luận theo khẩu hiệu từ hai nghiên cứu?",
+      "section": "G · PHÉP ĐO VÀ MẪU",
+      "body": "Không tìm thấy một hiệu ứng không có nghĩa gia đình hoàn toàn không quan trọng. Có liên hệ trung bình cũng không biến vị trí sinh thành quy luật nhân cách. Hai nghiên cứu dùng thang đo, mẫu và cách phân tích khác nhau; HEXACO Agreeableness không tự tương đương Big Five Agreeableness. Cần đọc toàn bộ nghiên cứu, xét quy mô gia đình và các giải thích thay thế trước khi đánh giá mâu thuẫn nằm ở đâu.",
+      "nodes": [
+        [
+          "Construct",
+          "Thang đo có cùng nội dung?"
+        ],
+        [
+          "Sample",
+          "Mẫu có tương đương?"
+        ],
+        [
+          "Design",
+          "Biến và cách so sánh giống?"
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S6–S9] + phân tích phương pháp của bài",
+      "note": "S6/S9 không phải phép kiểm toàn bộ Individual Psychology.",
+      "visual_brief": "Thẻ2 nghiên cứu ở trên, ba câu hỏi nối xuống; không bảng thắng/thua. Dùng icon ruler/persons/filter; nhãn “association≠causation”."
+    },
+    {
+      "title": "Ba cấp bằng chứng cần được giữ riêng",
+      "section": "G · LỊCH SỬ, LÝ THUYẾT, CAN THIỆP",
+      "body": "Một nguồn xác nhận Adler đã viết điều gì không chứng minh cơ chế ấy đúng. Một nghiên cứu về hợp tác hoặc mục tiêu không tự xác nhận toàn bộ Individual Psychology. Một can thiệp có kết quả tốt cũng cần biết cho ai, so với gì và thành tố nào đang được kiểm. A01 chưa tổng quan hiệu quả Adlerian psychotherapy; nó giữ trọng tâm lịch sử, khái niệm và một ví dụ về kiểm chứng.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Tác giả nói/gia nhập/viết gì?"
+        ],
+        [
+          "Lý thuyết",
+          "Khái niệm đo và phản chứng ra sao?"
+        ],
+        [
+          "Can thiệp",
+          "Kết quả nào, cho ai, đối chứng gì?"
+        ]
+      ],
+      "layout": "layers",
+      "source": "A01 · G · Khung đánh giá của bài",
+      "note": "Không tuyên bố hiệu quả trị liệu từ sức hấp dẫn của ý tưởng.",
+      "visual_brief": "Ba tầng không tự nối thành mũi tên xác nhận. Icon archive/ruler/clinical-chart; màu trung tính, một accent teal cho câu hỏi trung tâm."
+    },
+    {
+      "title": "🧭 Vận dụng: hỏi thêm thay cho gắn nhãn",
+      "section": "H · PRACTICAL APPLICATIONS 1",
+      "body": "Thay “bạn muốn hơn thua” bằng “điều gì quan trọng với bạn ở đây?”. Tách một kỹ năng đang thiếu khỏi giá trị của con người. Mỗi lần giải thích mục tiêu, giữ ít nhất một khả năng khác và một dữ kiện có thể khiến mình đổi ý. Đây là những giới hạn giao tiếp thận trọng, không lời hứa trị liệu bằng vài câu khích lệ hoặc quyền tự phân tích người thân.",
+      "nodes": [
+        [
+          "Câu hỏi mở",
+          "Điều gì quan trọng với bạn?"
+        ],
+        [
+          "Phân biệt",
+          "Nhiệm vụ khác giá trị bản thân."
+        ],
+        [
+          "Tính sửa được",
+          "Còn khả năng nào khác?"
+        ]
+      ],
+      "layout": "dialogue",
+      "source": "A01 · H · Vận dụng có điều kiện",
+      "note": "Cho phép người khác không trả lời và không đồng ý.",
+      "visual_brief": "Speech bubbles2 bên đối thoại, icon compass🧭. Không dàn “câu đúng/câu chữa khỏi”; note quyền từ chối ở footer."
+    },
+    {
+      "title": "Vận dụng: tâm lý cá nhân không xóa điều kiện thật",
+      "section": "H · PRACTICAL APPLICATIONS 2",
+      "body": "Khi công việc quá tải, lớp học thiếu an toàn hoặc một người bị phân biệt đối xử, giải thích bằng niềm tin cá nhân là chưa đủ. Hãy kiểm yêu cầu, nguồn lực và mức tự nguyện cùng với trải nghiệm chủ quan. Chọn mục tiêu là một phần của việc hiểu, không lý do để quy trách nhiệm mọi khó khăn cho người đang chịu nó. Điều kiện xã hội và lựa chọn cá nhân cần được xem cùng nhau.",
+      "nodes": [
+        [
+          "Cá nhân",
+          "Trải nghiệm và mục tiêu được kể."
+        ],
+        [
+          "Quan hệ",
+          "Phản ứng của người xung quanh."
+        ],
+        [
+          "Điều kiện",
+          "Nguồn lực, quyền, yêu cầu thực tế."
+        ]
+      ],
+      "layout": "swimlane",
+      "source": "A01 · H · Phân tích giáo dục/giao tiếp",
+      "note": "Không xem bất công như lỗi phong cách sống của nạn nhân.",
+      "visual_brief": "Ba swimlane đồng cấp; icon person/handshake/building. Không dùng hình não ở mọi lane; minh họa hệ thống bằng vector có nhãn."
+    },
+    {
+      "title": "🗺️ Cùng một hành vi, nhiều câu hỏi",
+      "section": "I · VISUAL EXPLANATION",
+      "body": "Sơ đồ tổng hợp đặt một hành vi ở giữa: phía trên hỏi nó diễn ra trong nhiệm vụ và điều kiện nào; phía dưới hỏi cá nhân gán ý nghĩa, hướng tới điều gì và nhận phản hồi ra sao. Có một nhánh dành cho kỹ năng và nguồn lực để tránh giải thích tâm lý duy nhất. Đây là bản đồ đặt câu hỏi, không mô hình chẩn đoán hay cơ chế đã được kiểm nghiệm.",
+      "nodes": [
+        [
+          "Hành vi quan sát",
+          "Không tự cho biết động cơ."
+        ],
+        [
+          "Các câu hỏi",
+          "Ý nghĩa, mục tiêu, quan hệ."
+        ],
+        [
+          "Nhánh thay thế",
+          "Kỹ năng và hoàn cảnh."
+        ]
+      ],
+      "layout": "branch",
+      "source": "A01 · I/D · Khung giảng dạy; nền [S1–S4],[S8]",
+      "note": "Hiện mới có script; phiên chính còn dựng, kiểm và xuất Moda.",
+      "visual_brief": "Sơ đồ hub-and-spoke có thứ bậc rõ, ít giao cắt. Tất cả nhánh giả thuyết nét đứt, quan sát nét liền, chú giải và alt text mô tả quan hệ."
+    },
+    {
+      "title": "💡 Tám ý cần giữ sau bài học",
+      "section": "J · KEY TAKEAWAYS",
+      "body": "Adler đi từ y học tới trường phái riêng trong một tiến trình lịch sử. Individual nói về chỉnh thể trong bối cảnh; hướng đích mở câu hỏi nhưng không cho quyền đoán chắc động cơ. Vượt khó khác thống trị, social interest khác hoạt náo. Khi so sánh Freud phải ghi phạm vi văn bản. Bằng chứng thứ tự sinh phụ thuộc phép đo và thiết kế; lịch sử, cơ chế và trị liệu cần các phép kiểm khác nhau.",
+      "nodes": [
+        [
+          "Định vị",
+          "Lịch sử + chỉnh thể."
+        ],
+        [
+          "Hiểu đúng",
+          "Mục tiêu + cộng đồng, không áp đặt."
+        ],
+        [
+          "Đánh giá",
+          "Phạm vi + phép đo + giới hạn."
+        ]
+      ],
+      "layout": "takeaways",
+      "source": "A01 · J",
+      "note": "Bản bài có8 ý; trên slide nhóm3 cụm để đọc rõ.",
+      "visual_brief": "Nhóm8 ý thành3 cụm, icon lightbulb💡. Không thu chữ nhỏ để chứa hết văn; notes ghi nguyên8 ý trong bài nếu dựng cần."
+    },
+    {
+      "title": "❓ 1. Individual có nghĩa là không cần xã hội?",
+      "section": "K · KNOWLEDGE CHECK 1",
+      "body": "Không. Cách đặt tên nhấn mạnh sự thống nhất của con người, còn môi trường quan hệ vẫn thuộc cách hiểu. Một người không được giải thích đủ bằng cách tách riêng suy nghĩ, cảm xúc và hành vi khỏi nhiệm vụ và hoàn cảnh. Lỗi thường gặp là đọc chữ “cá nhân” như cá nhân chủ nghĩa rồi bỏ qua vị trí của cộng đồng trong hệ thống đang học.",
+      "nodes": [
+        [
+          "Trả lời",
+          "Không."
+        ],
+        [
+          "Lý do",
+          "Chỉnh thể vẫn nằm trong quan hệ."
+        ],
+        [
+          "Lỗi dễ mắc",
+          "Cá nhân=người cô lập."
+        ]
+      ],
+      "layout": "question",
+      "source": "A01 · K1 · [S2]",
+      "note": "Cho người học tự trả lời trước khi hiện phần giải thích.",
+      "visual_brief": "Question panel có nút tiết lộ đáp án trong cấu trúc, không animation giả; emoji❓text, icon people. Bản tĩnh chia question/answer bằng khoảng trắng."
+    },
+    {
+      "title": "2. Tách Freud năm 1911 có nghĩa bỏ quá khứ?",
+      "section": "K · KNOWLEDGE CHECK 2",
+      "body": "Không. Một sự kiện lịch sử không tự xác định nội dung mọi khái niệm. Hỏi về hướng tới hiện tại khác với phủ nhận ý nghĩa trải nghiệm trước đây. Tương tự, một đoạn Freud về xung đột không đại diện toàn bộ Freud. Khi so sánh, cần chỉ tác phẩm, giai đoạn và điều đang được đánh giá thay vì lập bảng hai khẩu hiệu tuyệt đối.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Tách nhóm năm 1911."
+        ],
+        [
+          "Không suy được",
+          "Adler phủ nhận toàn bộ quá khứ."
+        ],
+        [
+          "Cách kiểm",
+          "Đọc đúng tác phẩm và giai đoạn."
+        ]
+      ],
+      "layout": "comparison",
+      "source": "A01 · K2 · [S1–S2],[S5]",
+      "note": "Không trộn lịch sử quan hệ với kết luận lý thuyết.",
+      "visual_brief": "Hai mệnh đề một đường “không suy ra”; icon calendar/document. Dùng ảnh Freud asset-freud nhỏ chỉ nhận diện, không thay bằng chứng văn bản."
+    },
+    {
+      "title": "3. Chăm chỉ có chứng minh muốn thống trị không?",
+      "section": "K · KNOWLEDGE CHECK 3",
+      "body": "Không. Cùng hành vi có thể gắn với học kỹ năng, hỗ trợ nhóm, thu nhập, sợ đánh giá hoặc áp lực tổ chức. Đặt một giả thuyết mục tiêu vẫn cần lời kể và bối cảnh để phân biệt. Ngay khi một cách hiểu có vẻ hợp, ta phải cho phép dữ kiện mới sửa nó. Không nên gán mong muốn ưu thế chỉ vì số giờ làm việc hoặc thành tích cao.",
+      "nodes": [
+        [
+          "Một biểu hiện",
+          "Làm việc chăm chỉ."
+        ],
+        [
+          "Nhiều khả năng",
+          "Học, giúp, tiền, sức ép."
+        ],
+        [
+          "Kết luận",
+          "Chưa biết mục tiêu chắc chắn."
+        ]
+      ],
+      "layout": "example",
+      "source": "A01 · K3/E2 · Tình huống của bài",
+      "note": "Không dùng câu hỏi làm test nhân cách.",
+      "visual_brief": "Một node công việc rẽ4 khả năng ngắn; icon briefcase. Trả lời nổi rõ “chưa đủ dữ kiện”, không thang điểm."
+    },
+    {
+      "title": "4. Điều gì làm giả thuyết về An yếu đi?",
+      "section": "K · KNOWLEDGE CHECK 4",
+      "body": "Nếu An tham gia khi tiêu chí rõ hơn hoặc lớp chấm dứt trêu chọc, giải thích về nhiệm vụ hay an toàn xã hội trở nên đáng chú ý. Điều đó làm giả thuyết “em muốn chống giáo viên” yếu đi, thay vì tự xác nhận nó dưới một tên mới. Một mô hình có ích phải cho phép kết quả khiến ta sửa cách hiểu, không biến mọi phản ứng thành bằng chứng cùng một chiều.",
+      "nodes": [
+        [
+          "Điều kiện đổi",
+          "Rõ tiêu chí, an toàn hơn."
+        ],
+        [
+          "Quan sát mới",
+          "Mức tham gia tăng."
+        ],
+        [
+          "Sửa cách hiểu",
+          "Xem lại câu chuyện chống đối."
+        ]
+      ],
+      "layout": "decision",
+      "source": "A01 · K4/F · Ca giả định",
+      "note": "Không suy đã chứng minh một nguyên nhân duy nhất.",
+      "visual_brief": "Cây điều kiện→kết quả→sửa, có nhánh “chưa biết”. Icon checklist; không ảnh người thật bị gán là An."
+    },
+    {
+      "title": "5. Không thấy hiệu ứng có nghĩa gia đình vô nghĩa?",
+      "section": "K · KNOWLEDGE CHECK 5",
+      "body": "Không. Thứ tự sinh, nét được đo, quan hệ gia đình và toàn bộ lý thuyết là những đối tượng khác nhau. Kết luận phải gắn với mẫu, phép đo và thiết kế. Nghiên cứu HEXACO sau đó còn nhắc cần đối chiếu construct và quy mô gia đình; có liên hệ trung bình cũng không đủ đoán từng người. Cả phủ định tuyệt đối lẫn công thức tính cách theo vị trí sinh đều vượt dữ kiện.",
+      "nodes": [
+        [
+          "Giữ phạm vi",
+          "Đúng biến, thang đo và mẫu."
+        ],
+        [
+          "Giữ cập nhật",
+          "Đối chiếu nghiên cứu khác."
+        ],
+        [
+          "Giữ cá nhân",
+          "Không dự đoán từ trung bình nhóm."
+        ]
+      ],
+      "layout": "balance",
+      "source": "A01 · K5/G · [S6],[S9]",
+      "note": "S9 chỉ đọc metadata/abstract excerpts, chưa đánh giá toàn văn.",
+      "visual_brief": "Cân hai lỗi “không ảnh hưởng gì / quyết định mọi người”; ở giữa “đánh giá đúng claim”. Icon balance/ruler, không chart effect sizes."
+    },
+    {
+      "title": "📚 Nguồn lịch sử và văn bản: đọc theo khoảng cách",
+      "section": "L · REFERENCES 1",
+      "body": "Nguồn lịch sử chính là Đại học Vienna. Khái niệm được đọc qua Boeree, tuyển trích Stein và một chương Adler ở bản chép điện tử; mức trung gian phải được giữ rõ. Cột Freud chỉ dựa Lecture II năm 1910. Thư mục Understanding Human Nature mới đối chiếu tên/năm, không phải đã đọc sách. Bài và research log cung cấp URL, locator và giới hạn để reviewer kiểm lại.",
+      "nodes": [
+        [
+          "[S1–S2]",
+          "Lịch sử đại học; nguồn diễn giải."
+        ],
+        [
+          "[S3–S5]",
+          "Tuyển trích Adler; văn bản Freud."
+        ],
+        [
+          "[S7–S8]",
+          "Thư mục; Ch 2 qua bản chép."
+        ]
+      ],
+      "layout": "references",
+      "source": "A01 · L · S1–S5,S7–S8",
+      "note": "Xem References trong bài, không nhận đã kiểm nguyên bản Đức.",
+      "visual_brief": "Thẻ nguồn có link thật trong presenter notes/metadata; icon books📚. Không nhét cả9URL vào một slide bằng chữ nhỏ."
+    },
+    {
+      "title": "Nguồn thực nghiệm, ảnh và phần việc còn lại",
+      "section": "L · REFERENCES 2 / BÀN GIAO",
+      "body": "S6 đọc abstract và hai trang đầu; S9 mới kiểm metadata và trích đoạn abstract. Chúng không tạo thành systematic review. Ảnh Freud có trang mô tả và nhãn quyền đã đọc; một số ảnh Adler có provenance hoặc quyền tác phẩm nền chưa rõ nên giữ ứng viên, không tự dùng. Tiếp theo là review nội dung, giải quyết ảnh, dựng Moda, kiểm screenshot và bản xuất trước khi báo bài hoàn thành.",
+      "nodes": [
+        [
+          "Nguồn khoa học",
+          "[S6]2015; [S9]2025 có giới hạn đọc."
+        ],
+        [
+          "Ảnh thật",
+          "URL+credit+licensing_status, không giả."
+        ],
+        [
+          "Chưa hoàn thành",
+          "Review, canvas, bản xuất."
+        ]
+      ],
+      "layout": "closing",
+      "source": "A01 · L · a01-research.md · assets metadata",
+      "note": "Drafted / review pending / visual not-started.",
+      "visual_brief": "Closing nền deep teal, ba bước next cùng nhiều khoảng trắng. Ảnh chỉ minh họa nhận diện, không bằng chứng nhân quả. Footer metadata assets rõ trạng tháihold."
+    }
+  ],
+  "assets": [
+    {
+      "key": "asset-freud",
+      "kind": "historical-photo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sigmund_Freud%2C_by_Max_Halberstadt.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt.jpg",
+      "credit": "Max Halberstadt, khoảng1921 · Wikimedia Commons",
+      "licensing_status": "Commons Summary/Licensing đã đọc2026-10-24: PD-old-80-expired và PD-US-expired; không khẳng định clearance mọi lãnh thổ.",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "dimensions": [
+        2193,
+        3180
+      ],
+      "usage_status": "source-cleared-as-declared; main-agent-to-inspect-image-before-crop",
+      "suggested_slides": [
+        12,
+        33
+      ],
+      "caption": "Sigmund Freud, chân dung Max Halberstadt, khoảng1921.",
+      "warning": "Ảnh nhận diện tác giả, không xác nhận nội dung học thuyết; chưa tải/đưa vào canvas phiên này."
+    },
+    {
+      "key": "asset-adler-drawing-candidate",
+      "kind": "portrait-drawing-candidate",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Adler.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alfred_Adler.jpg",
+      "credit": "Họa sĩ gốc không xác định; nguồn trang ghi Sonoma University; upload Ixitixel, chuyển Commons bởi Obersachse.",
+      "licensing_status": "Commons gắn PD-self; log nguồn gốc ghi anonymous, quyền của uploader đối với tác phẩm nền chưa được xác minh độc lập.",
+      "license_url": null,
+      "dimensions": [
+        572,
+        641
+      ],
+      "usage_status": "HOLD-provenance-review; do-not-render-until-resolved",
+      "suggested_slides": [
+        1,
+        3
+      ],
+      "caption": "Tranh chì mô tả Alfred Adler; không xác định ngày sáng tác.",
+      "warning": "26-05-2008 là ngày upload, không phải năm vẽ; không gọi uploader là họa sĩ."
+    },
+    {
+      "key": "asset-adler-arrival-candidate",
+      "kind": "historical-photo-candidate",
+      "url": "https://www.loc.gov/item/2002735769/",
+      "source_url": "https://www.loc.gov/item/2002735769/",
+      "credit": "Library of Congress, item2002735769; nhiếp ảnh gia chưa kiểm được.",
+      "licensing_status": "Chỉ metadata tìm kiếm; trang item403. Quyền và direct-image URL chưa kiểm.",
+      "license_url": null,
+      "dimensions": null,
+      "usage_status": "HOLD-do-not-render-until-rights-and-source-read",
+      "suggested_slides": [
+        1,
+        4
+      ],
+      "caption": "Alfred Adler đến New York trên S.S.Statendam,1933, theo metadata LOC.",
+      "warning": "URL là trang nguồn, không bịaURL tệp ảnh."
+    }
+  ],
+  "source_policy": "[S1]–[S9] ánh xạ tới mụcL bài A01; source đọc qua trung gian và chưa full-text phải ghi trên slide liên quan. Không claim nghiên cứu mới xác nhận toàn Adler.",
+  "production_notes": [
+    "Đây là kịch bản, chưa gọi Moda/tải ảnh/export.",
+    "Cover typography là phương án mặc định đến khi ảnh Adler resolved. Không dùng ảnh candidate-HOLD để lấp yêu cầu cóảnh.",
+    "Body đủ giải thích như mẫu F01v4; nếu tràn khi dựng, tách trang hoặc rút câu sau kiểm học thuật, không tự thu chữ xuống khó đọc.",
+    "Không dùng ảnh sinh viên thật cho caseAn hoặc vídụ; nhân vật là giả định.",
+    "Không có biểu đồ effect-size vì bài chưa trích nguồn đủ locator cho bảngsố.",
+    "Các nhãn layout là mô tả ý định bố cục, không lời khẳng định công cụ renderer đã hỗ trợ 27 loại; phiên chính ánh xạ thành Moda layout phù hợp và kiểm hình."
+  ],
+  "checks": {
+    "slide_count": 38,
+    "required_fields_present": true,
+    "knowledge_check_slides": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "independent_review": "pending",
+    "rendered_canvas_review": "not-started",
+    "export_review": "not-started",
+    "academic_sources_declared": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6",
+      "S7",
+      "S8",
+      "S9"
+    ],
+    "body_word_units_range": [
+      69,
+      83
+    ]
+  }
+}

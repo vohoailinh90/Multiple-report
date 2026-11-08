@@ -1,0 +1,1073 @@
+{
+  "title": "F01 · Visual edition v4 — ảnh tư liệu và icon",
+  "version": 4,
+  "canvas_ref": "cvs_2KN5EQ3MQG809TTV3XA9QZ3417",
+  "canvas_url": "https://moda.app/canvas/53a95d71-d2f0-4013-ad6c-7d526ff19027?source=agent",
+  "base_canvas_ref": "cvs_0PE5Q2YKVA9VNV2NCE5XYRWQNK",
+  "slides": [
+    {
+      "title": "Freud: từ lịch sử lâm sàng\nđến học thuyết về tâm trí",
+      "section": "F01 · BẢN HỌC CHI TIẾT",
+      "body": "Một cách lắng nghe người bệnh đã trở thành một học thuyết như thế nào? Bản trình bày này đi theo nội dung bài F01 trên PR: bối cảnh, khái niệm, cơ chế được đề xuất, ba ví dụ, ca Anna O., đánh giá khoa học và ứng dụng. Mỗi sơ đồ đi kèm giải thích; các giả thuyết lịch sử được giữ riêng với kết quả thực nghiệm.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Ai làm gì, ở thời điểm nào?"
+        ],
+        [
+          "Cơ chế",
+          "Từng bước suy luận của học thuyết."
+        ],
+        [
+          "Kiểm chứng",
+          "Bằng chứng cho phép kết luận tới đâu?"
+        ]
+      ],
+      "layout": "cover",
+      "source": "Bài F01 trên PR #36 · Phiên bản mở rộng",
+      "note": ""
+    },
+    {
+      "title": "Lộ trình học và điều bạn cần làm được",
+      "section": "A · LEARNING OBJECTIVES",
+      "body": "Sau bài này, bạn cần giải thích được vấn đề lâm sàng thúc đẩy Freud đổi phương pháp; phân biệt đóng góp của Charcot, Breuer và Freud; mô tả bước chuyển từ thôi miên sang liên tưởng tự do. Quan trọng hơn, bạn phải tách dữ kiện quan sát, giả thuyết cơ chế và kết luận hiệu quả điều trị khi đọc một ca bệnh. Không cần chấp nhận hoặc phủ nhận toàn bộ Freud để đánh giá từng khẳng định.",
+      "nodes": [
+        [
+          "01 · Định vị",
+          "Bối cảnh và đường đi lịch sử."
+        ],
+        [
+          "02 · Giải thích",
+          "Khái niệm → cơ chế → tình huống."
+        ],
+        [
+          "03 · Đánh giá",
+          "Nguồn → giới hạn → kết luận."
+        ]
+      ],
+      "layout": "route",
+      "source": "F01 · A",
+      "note": "Hysteria là thuật ngữ lịch sử. Bài học không dùng để tự chẩn đoán hoặc thay thế đánh giá chuyên môn."
+    },
+    {
+      "title": "Vấn đề khởi đầu: đau khổ có thật, lời giải chưa đủ",
+      "section": "B · HISTORICAL BACKGROUND",
+      "body": "Freud có nền đào tạo y khoa và thần kinh học. Cuối thế kỷ XIX, ông chuyển dần sang tìm ý nghĩa tâm lý của các hiện tượng không dễ giải thích bằng cách nhìn tổn thương thần kinh lúc đó. Một triệu chứng khó giải thích không làm đau khổ của người bệnh trở nên kém thật. Nhưng việc lắng nghe trải nghiệm và việc xác định cơ chế gây triệu chứng là hai công việc khác nhau.",
+      "nodes": [
+        [
+          "Trải nghiệm",
+          "Người bệnh mô tả điều đang xảy ra."
+        ],
+        [
+          "Khoảng trống",
+          "Bác sĩ chưa giải thích được đầy đủ."
+        ],
+        [
+          "Câu hỏi mới",
+          "Trải nghiệm ấy có ý nghĩa gì?"
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S1] LOC, phần mở đầu · [S5] USHMM",
+      "note": "Không suy triệu chứng cơ thể là “do tâm lý” chỉ vì chưa có lời giải thích."
+    },
+    {
+      "title": "Hai câu hỏi cần được giữ riêng",
+      "section": "B · HAI CẤP ĐỘ TÌM HIỂU",
+      "body": "Câu hỏi “Có thể lắng nghe điều gì từ trải nghiệm người bệnh?” mở ra hướng tìm hiểu cảm xúc, quan hệ và ý nghĩa chủ quan. Câu hỏi “Cơ chế nào gây ra triệu chứng?” đòi dữ liệu có thể phân biệt các giả thuyết. Một cuộc trò chuyện có giá trị với người bệnh không tự chứng minh cách giải thích nhân quả của bác sĩ. Hai mục tiêu có thể hỗ trợ nhau nhưng không thay thế tiêu chuẩn của nhau.",
+      "nodes": [
+        [
+          "Lắng nghe",
+          "Tìm hiểu điều người ấy trải nghiệm và coi là quan trọng."
+        ],
+        [
+          "Giải thích nhân quả",
+          "Kiểm tra điều gì tạo ra hoặc duy trì biểu hiện."
+        ]
+      ],
+      "layout": "compare",
+      "source": "F01 · B · Phân tích phương pháp",
+      "note": ""
+    },
+    {
+      "title": "1880–1895: nguồn gốc của một hướng thực hành",
+      "section": "B · TIMELINE 1",
+      "body": "Ca Anna O. được Breuer điều trị trong giai đoạn 1880–1882, sau đó trở thành tư liệu quan trọng trong câu chuyện nguồn gốc. Freud học với Charcot ở Paris năm 1885–1886, tiếp xúc nghiên cứu hysteria và thôi miên. Năm 1895, Breuer và Freud xuất bản Studies on Hysteria. Các mốc này cho thấy học thuyết hình thành từ nhiều đóng góp, không phải một phát hiện duy nhất của riêng Freud.",
+      "nodes": [
+        [
+          "1880–1882",
+          "Breuer điều trị Anna O."
+        ],
+        [
+          "1885–1886",
+          "Freud học với Charcot."
+        ],
+        [
+          "1895",
+          "Studies on Hysteria ra đời."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S1] LOC · [S2–S3] Freud, Lectures I–II",
+      "note": ""
+    },
+    {
+      "title": "1899–1939: sách, truyền bá và bối cảnh lịch sử",
+      "section": "B · TIMELINE 2",
+      "body": "The Interpretation of Dreams hoàn thành năm 1899 nhưng mang niên đại xuất bản 1900; cần phân biệt diễn biến thực tế với niên đại thư mục. Bài giảng Clark diễn ra năm 1909 và được xuất bản tiếng Anh năm 1910. Sách Freud bị Đức Quốc xã đốt năm 1933; nhà ông bị lục soát sau khi Áo bị sáp nhập năm 1938. Freud mất năm 1939. Đây là bản đồ định hướng, không phải toàn bộ tiểu sử.",
+      "nodes": [
+        [
+          "1899 / 1900",
+          "Phân biệt thời điểm và niên đại sách."
+        ],
+        [
+          "1909 / 1910",
+          "Phân biệt bài giảng và bản xuất bản."
+        ],
+        [
+          "1933–1939",
+          "Đặt tác giả trong lịch sử xã hội."
+        ]
+      ],
+      "layout": "timeline",
+      "source": "[S5–S7] USHMM · Harvard CHSI · Fancher",
+      "note": ""
+    },
+    {
+      "title": "Charcot, Breuer, Freud: không gộp ba vai trò",
+      "section": "B · ĐÓNG GÓP VÀ NGUỒN",
+      "body": "Charcot tạo một bối cảnh nghiên cứu hysteria và thôi miên mà Freud tiếp xúc. Breuer đem lại kinh nghiệm điều trị quan trọng và đồng tác giả công trình năm 1895. Freud phát triển hệ thống khái niệm và kỹ thuật tiếp theo. Còn người bệnh, người phiên dịch, người biên tập và tổ chức truyền bá cũng thuộc lịch sử này. Nguồn do tác giả kể lại cần được đối chiếu vì nó đã lựa chọn sự kiện và cách tổ chức câu chuyện.",
+      "nodes": [
+        [
+          "Charcot",
+          "Bối cảnh nghiên cứu tại Paris."
+        ],
+        [
+          "Breuer",
+          "Điều trị Anna O.; công trình chung."
+        ],
+        [
+          "Freud",
+          "Khái niệm và kỹ thuật tiếp theo."
+        ]
+      ],
+      "layout": "cards",
+      "source": "[S1–S3] LOC · Freud (1910)",
+      "note": "Không đọc bài giảng 1910 như thể nó đã chứa toàn bộ các phát triển sau của Freud."
+    },
+    {
+      "title": "Ba công việc có ba tiêu chuẩn đánh giá",
+      "section": "C · CORE THEORY",
+      "body": "Có thể đọc phân tâm học qua ba công việc: tạo giả thuyết về tâm trí; thu thập và diễn giải chất liệu trải nghiệm; can thiệp trong quan hệ trị liệu. Chúng liên hệ nhưng không có cùng phép kiểm. Một cách diễn giải có thể giàu ý nghĩa mà chưa là cơ chế phổ quát. Người bệnh cải thiện cũng chưa cho biết thành tố nào tạo ra thay đổi. Đây là khung phân tích của bài F01, không phải định nghĩa được trích nguyên văn Freud.",
+      "nodes": [
+        [
+          "Học thuyết",
+          "Giả thuyết có giải thích dữ kiện không?"
+        ],
+        [
+          "Diễn giải",
+          "Ý nghĩa được hình thành từ nguồn nào?"
+        ],
+        [
+          "Can thiệp",
+          "Kết quả đổi ra sao, so với điều gì?"
+        ]
+      ],
+      "layout": "layers",
+      "source": "F01 · C · Khung phân tích của bài",
+      "note": ""
+    },
+    {
+      "title": "“Có ý nghĩa” chưa bằng “đã biết nguyên nhân”",
+      "section": "C · TỪ BIỂU HIỆN ĐẾN DIỄN GIẢI",
+      "body": "Trong hệ thống Freud đang hình thành, biểu hiện được đặt trong quan hệ với cảm xúc, ký ức và xung đột của người trải nghiệm. Ví dụ, một người khó nói trước cấp trên có thể kể lịch sử từng bị phê bình. Mối liên hệ đó đáng khám phá, nhưng chưa chứng minh lịch sử ấy là nguyên nhân duy nhất. Cần giữ riêng điều được kể, ý nghĩa người ấy nhận thấy và suy luận nhân quả của người quan sát.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Khó nói trước cấp trên."
+        ],
+        [
+          "Liên hệ",
+          "Kể chuyện từng bị phê bình."
+        ],
+        [
+          "Cần kiểm",
+          "Còn yếu tố nào giải thích được?"
+        ]
+      ],
+      "layout": "flow",
+      "source": "F01 · C · Ví dụ minh họa của bài",
+      "note": ""
+    },
+    {
+      "title": "Từ catharsis đến liên tưởng tự do",
+      "section": "C · SỰ THAY ĐỔI PHƯƠNG PHÁP",
+      "body": "Lecture I kể việc Breuer sử dụng thôi miên và lời kể gắn với cảm xúc. Lecture II mô tả khó khăn khi Freud không thôi miên được mọi người và chuyển sang làm việc trong trạng thái thức. Từ trở ngại khi nói hoặc nhớ, ông suy ra resistance và repression. Lecture III trình bày cách để người bệnh nói ra ý nghĩ xuất hiện thay vì chỉ chọn điều hợp lý. Bỏ thôi miên không tự loại bỏ ảnh hưởng của người hỏi.",
+      "nodes": [
+        [
+          "Cathartic method",
+          "Lời kể và cảm xúc trong bối cảnh thôi miên."
+        ],
+        [
+          "Khó khăn thực hành",
+          "Không thôi miên được mọi người."
+        ],
+        [
+          "Free association",
+          "Nói ý nghĩ xuất hiện, bớt lựa chọn."
+        ]
+      ],
+      "layout": "route",
+      "source": "[S2–S4] Freud, Lectures I–III",
+      "note": "Điểm chuyển là loại câu hỏi được đặt ra, không phải công thức “nói ra là khỏi”."
+    },
+    {
+      "title": "Bản đồ cơ chế: năm bước được học thuyết đề xuất",
+      "section": "D · PSYCHOLOGICAL MECHANISM",
+      "body": "Chuỗi này tái dựng mô hình xung đột ban đầu để giảng dạy: một chất liệu khó chấp nhận nảy sinh; xuất hiện sức ép né tránh; mô hình giả định chất liệu tiếp tục ảnh hưởng ngoài nhận biết; người phân tích tìm biểu hiện gián tiếp; đối thoại được kỳ vọng làm rõ ý nghĩa. Mỗi mũi tên là quan hệ trong mô hình, không phải cơ chế sinh học đã được xác nhận. Các bước cần được kiểm tra riêng.",
+      "nodes": [
+        [
+          "1–2",
+          "Chất liệu khó chấp nhận → sức ép né tránh."
+        ],
+        [
+          "3–4",
+          "Ảnh hưởng ngoài nhận biết → biểu hiện gián tiếp."
+        ],
+        [
+          "5",
+          "Khám phá và kiểm tra ý nghĩa."
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S3–S4] Freud, Lectures II–III",
+      "note": "Mô hình đề xuất ≠ cơ chế thực nghiệm đã xác nhận."
+    },
+    {
+      "title": "Bước 1–3: từ xung đột đến ảnh hưởng ngoài nhận biết",
+      "section": "D · PHÂN TÍCH TỪNG BƯỚC",
+      "body": "Một mong muốn, cảm xúc hoặc ý nghĩ có thể xung đột với điều người ấy cho phép mình cảm thấy. Trong mô hình, việc nhận biết hay biểu lộ chất liệu bị hình dung là gây khó chịu; loại khỏi ý thức không nhất thiết là quyết định có chủ ý. Bước tiếp theo giả định chất liệu chưa mất đi dù không được nhận biết trực tiếp. Chính bước suy này cần kiểm chứng: không thể chỉ quan sát sự im lặng rồi kết luận có dồn nén.",
+      "nodes": [
+        [
+          "Xung đột",
+          "Ý nghĩ và điều được phép cảm thấy không khớp."
+        ],
+        [
+          "Né tránh",
+          "Nhận biết hoặc nói ra bị hình dung là khó chịu."
+        ],
+        [
+          "Giả định tiếp theo",
+          "Chất liệu vẫn ảnh hưởng dù không được nhận biết."
+        ]
+      ],
+      "layout": "steps",
+      "source": "[S3–S4] Mô hình lịch sử · F01 D",
+      "note": ""
+    },
+    {
+      "title": "Bước 4–5: tìm liên hệ và kiểm tra cách hiểu",
+      "section": "D · BIỂU HIỆN VÀ ĐỐI THOẠI",
+      "body": "Người phân tích tìm liên hệ qua lời kể, sự lặp lại hoặc chỗ nói khó khăn. Tuy nhiên, việc chọn liên hệ nào đã là diễn giải, không phải quan sát thuần túy. Đối thoại được kỳ vọng làm rõ mối liên hệ, nhưng cách hiểu được chấp nhận chưa chứng minh ký ức chính xác hoặc cơ chế đúng. Một câu chuyện thuyết phục vẫn phải được phân biệt với kết luận đã loại trừ các cách giải thích cạnh tranh.",
+      "nodes": [
+        [
+          "Biểu hiện",
+          "Lời kể, lặp lại, chỗ khó nói."
+        ],
+        [
+          "Diễn giải",
+          "Người quan sát chọn một mối liên hệ."
+        ],
+        [
+          "Kiểm tra",
+          "Còn dữ kiện nào khiến cách hiểu đổi?"
+        ]
+      ],
+      "layout": "flow",
+      "source": "[S3–S4] Mô hình lịch sử · F01 D",
+      "note": ""
+    },
+    {
+      "title": "Nguy cơ suy luận vòng tròn",
+      "section": "D · KHI GIẢ THUYẾT KHÔNG THỂ SAI",
+      "body": "Nếu đồng ý được xem là “đã tìm đúng”, còn phản đối lại bị gọi “đang chống cự”, mọi phản ứng đều bị biến thành bằng chứng ủng hộ. Khi đó, diễn giải gần như không thể sai. Cách khắc phục là nói rõ dữ liệu nào khiến mình sửa giả thuyết và giữ các cách giải thích thay thế. Sự không đồng ý là dữ kiện cần hiểu; nó không cho phép phủ nhận tiếng nói của người bệnh.",
+      "nodes": [
+        [
+          "Đồng ý",
+          "Không tự chứng minh cơ chế."
+        ],
+        [
+          "Phản đối",
+          "Không tự chứng minh resistance."
+        ],
+        [
+          "Tiêu chuẩn tốt hơn",
+          "Nêu điều kiện để sửa giả thuyết."
+        ]
+      ],
+      "layout": "compare",
+      "source": "F01 · D · Phản biện phương pháp",
+      "note": ""
+    },
+    {
+      "title": "Ví dụ 1: Mai chưa trả lời tin nhắn",
+      "section": "E · REAL-LIFE EXAMPLES",
+      "body": "Mai chưa trả lời lời mời họp của người từng chê mình. Có thể Mai vừa muốn tham gia vừa ngại bị đánh giá. Nhưng điện thoại tắt thông báo hoặc công việc quá tải cũng là những khả năng phù hợp. Dữ kiện hiện có chỉ là tin nhắn chưa được trả lời. Chưa biết Mai đọc chưa, đang bận không và cảm thấy gì. Vì thế, hỏi hoàn cảnh và cảm giác hợp lý hơn khẳng định Mai dồn nén thù ghét.",
+      "nodes": [
+        [
+          "Quan sát",
+          "Tin nhắn chưa được trả lời."
+        ],
+        [
+          "Giả thuyết A",
+          "Ngại bị đánh giá."
+        ],
+        [
+          "Giả thuyết B",
+          "Tắt thông báo hoặc quá tải."
+        ]
+      ],
+      "layout": "example",
+      "source": "F01 · E1 · Tình huống giả định",
+      "note": "Câu hỏi mở cần thêm dữ kiện; một hành vi không đủ để suy động cơ."
+    },
+    {
+      "title": "Ví dụ 2: Nam đổi chủ đề khi nhắc thất bại",
+      "section": "E · REAL-LIFE EXAMPLES",
+      "body": "Nam nói dài về kỹ thuật nhưng đổi chủ đề khi được hỏi lần thuyết trình không thành công. Có thể Nam tránh cảm giác xấu hổ; cũng có thể anh không muốn nói chuyện riêng tại công việc hoặc thấy câu hỏi không liên quan. Trước khi gọi đó là resistance, cần xem anh có quyền từ chối không, mục tiêu cuộc nói chuyện là gì và mẫu hình có lặp lại trong bối cảnh phù hợp không.",
+      "nodes": [
+        [
+          "Cách hỏi tôn trọng",
+          "“Bạn có muốn nói thêm về chuyện đó không?”"
+        ],
+        [
+          "Cách hỏi áp đặt",
+          "“Bạn đang chống cự.”"
+        ],
+        [
+          "Điều cần xét",
+          "Bối cảnh, mục tiêu, quyền từ chối."
+        ]
+      ],
+      "layout": "compare",
+      "source": "F01 · E2 · Tình huống giả định",
+      "note": "Không biến thuật ngữ lâm sàng thành nhãn trong giao tiếp thường ngày."
+    },
+    {
+      "title": "Ví dụ 3: Lan thấy nhẹ nhõm sau khi kể chuyện",
+      "section": "E · REAL-LIFE EXAMPLES",
+      "body": "Lan nhẹ nhõm sau khi kể giai đoạn chăm sóc người thân. Có thể Lan nhận diện cảm xúc vốn khó nói; cũng có thể có người lắng nghe, thêm hỗ trợ thực tế hoặc căng thẳng tự giảm theo thời gian. Đây là các giả thuyết minh họa, không phải kết quả thí nghiệm. Trải nghiệm có ích vẫn đáng trân trọng khi cơ chế chưa rõ; không dùng nó làm lý do ép người khác kể chuyện đau buồn.",
+      "nodes": [
+        [
+          "Báo cáo",
+          "Lan nói mình thấy nhẹ nhõm."
+        ],
+        [
+          "Chưa xác định",
+          "Thành tố nào tạo ra thay đổi?"
+        ],
+        [
+          "Cần tránh",
+          "Ép kể chuyện hoặc tìm biến cố bị quên."
+        ]
+      ],
+      "layout": "flow",
+      "source": "F01 · E3 · Tình huống giả định",
+      "note": ""
+    },
+    {
+      "title": "Anna O.: ai điều trị, ai kể lại?",
+      "section": "F · CASE STUDY 1/3",
+      "body": "Anna O. là tên ca bệnh của Bertha Pappenheim, người do Breuer điều trị. Lecture I là Freud kể lại việc điều trị ấy, không phải báo cáo Freud trực tiếp điều trị ca này. Dữ liệu đến với ta qua câu chuyện đã được tác giả lựa chọn và tổ chức. Vì vậy, trước khi đánh giá ca, cần xác định khoảng cách từ người trải nghiệm đến người quan sát, người kể và người đọc ngày nay.",
+      "nodes": [
+        [
+          "Pappenheim",
+          "Người trải nghiệm đau khổ."
+        ],
+        [
+          "Breuer",
+          "Người trực tiếp điều trị."
+        ],
+        [
+          "Freud → người đọc",
+          "Kể lại → diễn giải tư liệu."
+        ]
+      ],
+      "layout": "route",
+      "source": "[S1] LOC, Anna O. · [S2] Freud, Lecture I",
+      "note": ""
+    },
+    {
+      "title": "Đọc ca bệnh theo năm thao tác",
+      "section": "F · CASE STUDY 2/3",
+      "body": "Trước hết, hỏi ca đang giúp hiểu nguồn gốc phương pháp hay chứng minh hiệu quả toàn học thuyết. Tiếp theo, tách triệu chứng được báo cáo khỏi cơ chế được diễn giải. Sau đó kiểm quan hệ thời gian: thay đổi sau cuộc trò chuyện chưa loại trừ thôi miên, kỳ vọng hoặc quan hệ chăm sóc. Cuối cùng, đối chiếu nguồn và giữ kết luận trong phạm vi tư liệu. Đây là kiểm suy luận, không chẩn đoán hồi cứu Pappenheim.",
+      "nodes": [
+        [
+          "1 · Câu hỏi",
+          "Nguồn gốc hay hiệu quả?"
+        ],
+        [
+          "2–3 · Phân tích",
+          "Mô tả/cơ chế; thời gian/nhân quả."
+        ],
+        [
+          "4–5 · Kết luận",
+          "Đối chiếu nguồn; giới hạn phạm vi."
+        ]
+      ],
+      "layout": "steps",
+      "source": "F01 · F · Dựa trên [S1–S2]",
+      "note": ""
+    },
+    {
+      "title": "Giá trị lịch sử không xóa giới hạn của ca",
+      "section": "F · CASE STUDY 3/3",
+      "body": "Library of Congress lưu ý kết quả điều trị không thành công như Breuer và Freud từng trình bày. Điều này khiến lời khẳng định “chữa khỏi” cần được đọc thận trọng. Bài F01 không tái lập toàn bộ hồ sơ và không gán chẩn đoán hiện đại cho Pappenheim. Thiếu so sánh đáng tin, theo dõi chuẩn hóa và đánh giá độc lập, ta không biết đủ điều gì sẽ xảy ra nếu không có can thiệp.",
+      "nodes": [
+        [
+          "Có thể kết luận",
+          "Ca có giá trị trong lịch sử talking cure."
+        ],
+        [
+          "Chưa thể kết luận",
+          "Một cơ chế phổ quát đã được xác nhận."
+        ],
+        [
+          "Còn thiếu",
+          "So sánh, theo dõi, đánh giá độc lập."
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S1] LOC, “Although Breuer’s treatment…” · F01 F",
+      "note": ""
+    },
+    {
+      "title": "Bốn loại khẳng định cần bốn phép kiểm",
+      "section": "G · MODERN SCIENTIFIC PERSPECTIVE",
+      "body": "Một tác phẩm có thể xác nhận Freud đã nói gì, nhưng không tự xác nhận ý tưởng ấy đúng. Báo cáo ca có thể ghi thay đổi, nhưng chưa xác định nguyên nhân. Nghiên cứu so sánh kiểm kết quả can thiệp, còn cơ chế cần phép đo độc lập, thứ tự thời gian và giả thuyết cạnh tranh. Khi đổi loại khẳng định, phải đổi loại bằng chứng; không dùng một nguồn thuận lợi để trả lời mọi câu hỏi.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Văn bản, ấn bản và đoạn."
+        ],
+        [
+          "Kết quả",
+          "Theo dõi và nghiên cứu so sánh."
+        ],
+        [
+          "Cơ chế",
+          "Đo độc lập và kiểm giải thích khác."
+        ]
+      ],
+      "layout": "layers",
+      "source": "F01 · G · Khung phương pháp của bài",
+      "note": ""
+    },
+    {
+      "title": "Cochrane 2014 đã nghiên cứu điều gì?",
+      "section": "G · BẰNG CHỨNG ĐIỀU TRỊ",
+      "body": "Bài F01 đọc bản tóm tắt chính thức review Abbass và cộng sự (2014), gồm phương pháp, kết quả và kết luận. Review tổng hợp 33 nghiên cứu với 2.173 người trưởng thành, so sánh trị liệu tâm động học ngắn hạn với chờ điều trị, chăm sóc thông thường hoặc tiếp xúc tối thiểu. Đối tượng là kết quả của can thiệp được nghiên cứu, không phải một phép kiểm trực tiếp cho mọi giả thuyết Freud.",
+      "nodes": [
+        [
+          "33",
+          "Nghiên cứu được tổng hợp."
+        ],
+        [
+          "2.173",
+          "Người trưởng thành tham gia."
+        ],
+        [
+          "Đối chứng",
+          "Chờ / thông thường / tiếp xúc tối thiểu."
+        ]
+      ],
+      "layout": "evidence",
+      "source": "[S9] Abbass et al., Cochrane (2014) · CD004687.pub4",
+      "note": ""
+    },
+    {
+      "title": "Kết quả cần đọc cùng độ bất định",
+      "section": "G · KẾT QUẢ VÀ GIỚI HẠN",
+      "body": "Nhiều nhóm kết quả cải thiện hơn ở ngắn và trung hạn; một số kết quả dài hạn không còn ý nghĩa thống kê. Chất lượng nghiên cứu không đồng đều, dị biệt đáng kể và cách thực hiện trị liệu khác nhau. Vì thế, không suy review đã chứng minh vượt trội so với mọi trị liệu tích cực. Bài chưa đọc toàn bộ báo cáo hoặc tái kiểm từng thử nghiệm; dữ liệu này không là tổng quan cập nhật tới 2026.",
+      "nodes": [
+        [
+          "Hỗ trợ",
+          "Nhiều kết quả ngắn và trung hạn tốt hơn."
+        ],
+        [
+          "Giới hạn",
+          "Chất lượng, dị biệt, một số kết quả dài hạn."
+        ],
+        [
+          "Không ngoại suy",
+          "Không chứng minh mọi cơ chế hoặc mọi so sánh."
+        ]
+      ],
+      "layout": "compare",
+      "source": "[S9] Tóm tắt chính thức Cochrane: Main results / Conclusions",
+      "note": ""
+    },
+    {
+      "title": "Điều đã đọc, điều chưa đủ để kết luận",
+      "section": "G · TRẠNG THÁI NGUỒN",
+      "body": "Leichsenring và cộng sự (2023) có umbrella review về trị liệu tâm động học cho các rối loạn thường gặp. Trong bài F01, nguồn này mới kiểm metadata và trích đoạn abstract; toàn văn chưa truy cập thành công. Vì vậy, không đưa effect size, mức chắc chắn hay chỉ định điều trị từ đó. Tư liệu lịch sử giúp hiểu phát triển phương pháp; các vấn đề ký ức, vô thức nhận thức và phòng vệ cần nghiên cứu ở bài riêng.",
+      "nodes": [
+        [
+          "S1–S7",
+          "Các phần lịch sử và văn bản được ghi locator."
+        ],
+        [
+          "S8",
+          "Metadata/abstract trích đoạn; không kết luận hiệu quả."
+        ],
+        [
+          "S9",
+          "Đọc tóm tắt chính thức, chưa toàn review."
+        ]
+      ],
+      "layout": "cards",
+      "source": "F01 · G và L · Trạng thái truy cập của bài gốc",
+      "note": ""
+    },
+    {
+      "title": "Vận dụng: từ gán nhãn sang đặt câu hỏi",
+      "section": "H · PRACTICAL APPLICATIONS 1/2",
+      "body": "Khi gặp một khẳng định tâm lý phổ thông, hãy viết lại thành câu có thể kiểm tra: hành vi nào, điều kiện nào và dữ liệu nào phân biệt với thiếu chú ý. Trong giao tiếp, dùng câu hỏi mở về bối cảnh và ý nghĩa, cho phép người khác không trả lời. Gắn nhãn repression hoặc resistance có thể làm người hỏi chiếm quyền diễn giải trải nghiệm thay vì thực sự tìm hiểu.",
+      "nodes": [
+        [
+          "Khẳng định rộng",
+          "“Mọi quên lãng đều có động cơ.”"
+        ],
+        [
+          "Câu hỏi cụ thể",
+          "Quên gì, lúc nào, còn giải thích nào?"
+        ],
+        [
+          "Giao tiếp",
+          "Hỏi mở và giữ quyền từ chối."
+        ]
+      ],
+      "layout": "route",
+      "source": "F01 · H1–H2",
+      "note": ""
+    },
+    {
+      "title": "Vận dụng trong học tập và tự phản tư",
+      "section": "H · PRACTICAL APPLICATIONS 2/2",
+      "body": "Khi dạy học, đặt cột “nguồn nói gì” cạnh cột “ta kết luận gì” để tìm chỗ chuyện kể biến thành tuyên bố nhân quả. Khi đọc nghiên cứu trị liệu, phân biệt mô hình cổ điển, phương pháp được nghiên cứu và nhóm người thực sự tham gia. Khi tự phản tư, có thể ghi điều nhận thấy cùng vài giải thích thay thế; không cần ép tìm ký ức gốc hay một động cơ bí mật cho mọi hành vi.",
+      "nodes": [
+        [
+          "Dạy học",
+          "Nguồn nói gì ≠ ta kết luận gì."
+        ],
+        [
+          "Đọc nghiên cứu",
+          "Mô hình, can thiệp, mẫu nghiên cứu."
+        ],
+        [
+          "Tự phản tư",
+          "Ghi nhận và giữ nhiều khả năng."
+        ]
+      ],
+      "layout": "cards",
+      "source": "F01 · H3–H5",
+      "note": "Tài liệu giáo dục; không tự chẩn đoán, truy tìm ký ức dồn nén hoặc thay thế trị liệu."
+    },
+    {
+      "title": "Bản đồ tổng hợp: lịch sử → lý thuyết → đánh giá",
+      "section": "I · VISUAL EXPLANATION",
+      "body": "Dòng thời gian cho biết ý tưởng xuất hiện và thay đổi khi nào. Sơ đồ cơ chế trình bày quan hệ mà học thuyết đề xuất. Sơ đồ kiểm chứng đặt câu hỏi loại dữ liệu nào có thể ủng hộ hoặc khiến ta sửa cách hiểu. Không được đọc dòng thời gian như chứng minh học thuyết ngày càng đúng, hoặc đọc một mũi tên lý thuyết như quan hệ nhân quả đã xác nhận.",
+      "nodes": [
+        [
+          "Lịch sử",
+          "Định vị người, tác phẩm, phương pháp."
+        ],
+        [
+          "Mô hình",
+          "Nêu giả định và quan hệ đề xuất."
+        ],
+        [
+          "Kiểm chứng",
+          "Xét nguồn, đối chứng và giới hạn."
+        ]
+      ],
+      "layout": "flow",
+      "source": "F01 · I · Sơ đồ tái cấu trúc từ bài gốc",
+      "note": "Mũi tên chỉ trình tự tìm hiểu, không biểu thị cơ chế khoa học đã được xác nhận."
+    },
+    {
+      "title": "Tám điểm cần nhớ trước khi sang F02",
+      "section": "J · KEY TAKEAWAYS",
+      "body": "Freud xuất phát từ y học; học thuyết hình thành qua quá trình nhiều đóng góp. Anna O. do Breuer điều trị, được Freud kể lại. Chuyển phương pháp không tự loại bỏ ảnh hưởng người hỏi. Quan sát, diễn giải và kiểm chứng là ba công việc khác nhau. Đồng ý hay phản đối không tự quyết định cơ chế đúng. Hiệu quả trị liệu không xác nhận mọi giả thuyết Freud. Học lịch sử giúp hỏi tốt hơn, không trao quyền chẩn đoán người khác.",
+      "nodes": [
+        [
+          "1–3 · Lịch sử",
+          "Nguồn y học; nhiều đóng góp; đúng vai ca bệnh."
+        ],
+        [
+          "4–6 · Suy luận",
+          "Ảnh hưởng người hỏi; tách ba tầng; không vòng tròn."
+        ],
+        [
+          "7–8 · Ứng dụng",
+          "Outcome khác mechanism; hỏi trước khi gán nhãn."
+        ]
+      ],
+      "layout": "summary",
+      "source": "F01 · J · Tám ý được nhóm lại để dễ nhớ",
+      "note": ""
+    },
+    {
+      "title": "Câu 1 · Ai trực tiếp điều trị Anna O.?",
+      "section": "K · KNOWLEDGE CHECK",
+      "body": "Đáp án: Josef Breuer. Freud là đồng tác giả công trình và người kể lại ca trong bài giảng đang đọc. Điểm cần hiểu không chỉ là nhớ một tên người: nhầm người kể với người trực tiếp quan sát làm ta đánh giá sai khoảng cách giữa nguồn và dữ kiện. Khi đọc một ca, hãy xác định ai trải nghiệm, ai quan sát, ai ghi lại và ta đang đọc bản nào.",
+      "nodes": [
+        [
+          "Câu trả lời",
+          "Breuer trực tiếp điều trị."
+        ],
+        [
+          "Lý do",
+          "Freud kể lại trong nguồn đang học."
+        ],
+        [
+          "Áp dụng",
+          "Luôn lập chuỗi nguồn của ca bệnh."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1–S2] · F01 K1",
+      "note": ""
+    },
+    {
+      "title": "Câu 2 · Vì sao không nói “phát hiện vô thức năm 1900”?",
+      "section": "K · KNOWLEDGE CHECK",
+      "body": "Câu đó gộp lịch sử một khái niệm rộng vào một tác giả và một mốc sách. Tư liệu đặt Freud trong truyền thống nhiều người quan tâm tới đời sống ngoài ý thức; sách về giấc mơ là một bước phát triển cụ thể. Cách viết chính xác hơn là nêu tác phẩm, phiên bản ý tưởng và phạm vi khẳng định. Cũng cần phân biệt năm hoàn thành 1899 và niên đại sách 1900.",
+      "nodes": [
+        [
+          "Vấn đề",
+          "Một mốc sách bị biến thành toàn lịch sử."
+        ],
+        [
+          "Cách sửa",
+          "Nêu tác phẩm và phiên bản khái niệm."
+        ],
+        [
+          "Cần nhớ",
+          "Ảnh hưởng lịch sử khác tính đúng khoa học."
+        ]
+      ],
+      "layout": "question",
+      "source": "[S1, S6] · F01 K2",
+      "note": ""
+    },
+    {
+      "title": "Câu 3 · Nhẹ nhõm sau trò chuyện chứng minh điều gì?",
+      "section": "K · KNOWLEDGE CHECK",
+      "body": "“Người ấy báo thấy nhẹ nhõm” là mô tả sát dữ kiện hơn “ký ức dồn nén đã được giải phóng”. Câu thứ hai thêm một cơ chế chưa đo. Muốn xác định cơ chế, cần phân biệt với các khả năng như hỗ trợ xã hội hoặc thay đổi hoàn cảnh. Điều này không phủ nhận lợi ích người ấy trải nghiệm; nó giữ kết luận đúng phạm vi thông tin hiện có.",
+      "nodes": [
+        [
+          "Dữ kiện",
+          "Báo cáo nhẹ nhõm."
+        ],
+        [
+          "Bước suy thêm",
+          "Gán một cơ chế cụ thể."
+        ],
+        [
+          "Cần dữ liệu",
+          "Phân biệt các giải thích cạnh tranh."
+        ]
+      ],
+      "layout": "question",
+      "source": "F01 K3 · Ví dụ phương pháp",
+      "note": ""
+    },
+    {
+      "title": "Câu 4 · Nếu mọi phản đối đều là resistance?",
+      "section": "K · KNOWLEDGE CHECK",
+      "body": "Giả thuyết có thể trở nên không sửa được: cả đồng ý lẫn phản đối đều được dùng làm bằng chứng ủng hộ. Người nghiên cứu cần chỉ rõ dữ kiện nào sẽ khiến mình đổi cách giải thích. Đồng thời, quyền không đồng ý của người bệnh phải được tôn trọng. Thuật ngữ resistance có vị trí trong mô hình lịch sử, nhưng không thể trở thành cách làm mọi diễn giải của người hỏi tự động đúng.",
+      "nodes": [
+        [
+          "Sai lầm",
+          "Mọi phản ứng đều xác nhận cùng giả thuyết."
+        ],
+        [
+          "Tiêu chuẩn",
+          "Có dữ liệu khiến giả thuyết phải đổi."
+        ],
+        [
+          "Đạo đức",
+          "Không tước quyền không đồng ý."
+        ]
+      ],
+      "layout": "question",
+      "source": "F01 K4 · Phản biện phương pháp",
+      "note": ""
+    },
+    {
+      "title": "Câu 5 · Hiệu quả trị liệu xác nhận Oedipus complex?",
+      "section": "K · KNOWLEDGE CHECK",
+      "body": "Chưa. Kết quả của một gói can thiệp và tính đúng của một cơ chế cụ thể là hai đối tượng kiểm tra khác nhau. Cũng phải đọc thiết kế, mẫu nghiên cứu, đối chứng và độ chắc chắn trước khi nói review thực sự kết luận gì. Trong bài này, S8 chưa đọc được toàn văn; S9 được phân tích ở mức tóm tắt chính thức. Không dùng chúng để tự suy ra xác nhận Oedipus complex.",
+      "nodes": [
+        [
+          "Outcome",
+          "Gói can thiệp có giúp nhóm người này?"
+        ],
+        [
+          "Mechanism",
+          "Cơ chế cụ thể có thực sự hoạt động?"
+        ],
+        [
+          "Kết luận",
+          "Cần phép kiểm phù hợp từng câu hỏi."
+        ]
+      ],
+      "layout": "question",
+      "source": "F01 K5 · [S8–S9]",
+      "note": ""
+    },
+    {
+      "title": "Nguồn gốc, lịch sử và cách truy locator",
+      "section": "L · REFERENCES 1/2",
+      "body": "Các locator trong bài gốc là tên mục và câu mở đoạn của bản HTML đã đọc, không giả làm số trang bản in. S1: Library of Congress, The Individual: Therapy. S2–S4: Freud (1910), The Origin and Development of Psychoanalysis, Lectures I–III, bản York University. S5: Holocaust Encyclopedia, Sigmund Freud. S6: Harvard CHSI, The Interpretation of Dreams. S7: Fancher, Introduction to Freud (1910). Trạng thái truy cập chi tiết nằm trong research log F01.",
+      "nodes": [
+        [
+          "LOC",
+          "loc.gov/exhibits/freud/freud02.html"
+        ],
+        [
+          "Freud · York",
+          "psychclassics.yorku.ca/Freud/Origin/"
+        ],
+        [
+          "Bài gốc",
+          "PR #36: mục L và f01-research.md"
+        ]
+      ],
+      "layout": "refs",
+      "source": "F01 · L · Nguồn S1–S7",
+      "note": ""
+    },
+    {
+      "title": "Nguồn nghiên cứu, giới hạn và bài tiếp theo",
+      "section": "L · REFERENCES 2/2",
+      "body": "S8: Leichsenring và cộng sự (2023), World Psychiatry, DOI 10.1002/wps.21104; bài gốc chỉ kiểm metadata và trích đoạn abstract. S9: Abbass và cộng sự (2014), Cochrane, DOI 10.1002/14651858.CD004687.pub4; đã đọc tóm tắt chính thức, chưa toàn review. Bản slide này bám bài F01 trên PR, không là tổng quan hệ thống mới. Tiếp theo đọc F02 về conscious, preconscious và unconscious để phân biệt các nghĩa của “vô thức”.",
+      "nodes": [
+        [
+          "Giới hạn",
+          "Mức đọc nguồn khác nhau; xem ledger."
+        ],
+        [
+          "Bài tiếp",
+          "F02: Conscious / Preconscious / Unconscious."
+        ],
+        [
+          "Cách đọc",
+          "Giữ câu hỏi, nguồn và kết luận cùng nhau."
+        ]
+      ],
+      "layout": "refs",
+      "source": "F01 · L · Nguồn S8–S9",
+      "note": ""
+    }
+  ],
+  "layouts": [
+    "cover",
+    "roadmap",
+    "lead",
+    "comparison",
+    "timeline",
+    "vertical",
+    "profiles",
+    "branch",
+    "flow",
+    "staircase",
+    "mechanism",
+    "numbered",
+    "flow",
+    "decision",
+    "example",
+    "dialogue",
+    "sequence",
+    "dossier",
+    "numbered",
+    "ledger",
+    "matrix",
+    "data",
+    "balance",
+    "ledger",
+    "staircase",
+    "profiles",
+    "branch",
+    "takeaways",
+    "question",
+    "comparison",
+    "example",
+    "decision",
+    "balance",
+    "references",
+    "closing"
+  ],
+  "base_markup": [
+    "<content><background fill=\"#23191F\"/><rectangle  x=\"1260\" y=\"0\" width=\"660\" height=\"1080\" fill=\"#7A2038\" corner-radius=\"0\"/><text x=\"80\" y=\"65\" width=\"1140\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#EAB6C8\">F01 / PSYCHOLOGY KNOWLEDGE</text><text x=\"80\" y=\"230\" width=\"1110\" height=\"300\" font-family=\"Bricolage Grotesque\" font-size=\"100\" font-weight=\"700\" color=\"#F5F0E6\">Freud và sự ra đời&#10;của phân tâm học</text><text x=\"80\" y=\"610\" width=\"1100\" height=\"270\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#D3C3CB\">Một cách lắng nghe người bệnh đã trở thành một học thuyết như thế nào? Bản trình bày này đi theo nội dung bài F01 trên PR: bối cảnh, khái niệm, cơ chế được đề xuất, ba ví dụ, ca Anna O., đánh giá khoa học và ứng dụng. Mỗi sơ đồ đi kèm giải thích; các giả thuyết lịch sử được giữ riêng với kết quả thực nghiệm.</text><text x=\"1340\" y=\"105\" width=\"500\" height=\"155\" font-family=\"Bricolage Grotesque\" font-size=\"126\" font-weight=\"700\" color=\"#F5F0E6\">01</text><text x=\"1340\" y=\"310\" width=\"480\" height=\"320\" font-family=\"Bricolage Grotesque\" font-size=\"48\" font-weight=\"700\" color=\"#F5F0E6\">LỊCH SỬ&#10;CƠ CHẾ&#10;BẰNG CHỨNG</text><text x=\"1340\" y=\"780\" width=\"480\" height=\"160\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#F1D3DE\">Bài mẫu để duyệt&#10;Editorial Learning · v3</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">A · LEARNING OBJECTIVES</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Lộ trình học và điều bạn cần làm được</text><rectangle name=\"n0\" x=\"80\" y=\"310\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"108\" y=\"338\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">01 · Định vị</text><text x=\"108\" y=\"435\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Bối cảnh và đường đi lịch sử.</text><rectangle name=\"n1\" x=\"670\" y=\"340\" width=\"545\" height=\"255\" fill=\"#E5CCD5\" corner-radius=\"18\"/><text x=\"698\" y=\"368\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">02 · Giải thích</text><text x=\"698\" y=\"465\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Khái niệm → cơ chế → tình huống.</text><rectangle name=\"n2\" x=\"1260\" y=\"370\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"1288\" y=\"398\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">03 · Đánh giá</text><text x=\"1288\" y=\"495\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Nguồn → giới hạn → kết luận.</text><connector from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><connector from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Sau bài này, bạn cần giải thích được vấn đề lâm sàng thúc đẩy Freud đổi phương pháp; phân biệt đóng góp của Charcot, Breuer và Freud; mô tả bước chuyển từ thôi miên sang liên tưởng tự do. Quan trọng hơn, bạn phải tách dữ kiện quan sát, giả thuyết cơ chế và kết luận hiệu quả điều trị khi đọc một ca bệnh. Không cần chấp nhận hoặc phủ nhận toàn bộ Freud để đánh giá từng khẳng định.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Hysteria là thuật ngữ lịch sử. Bài học không dùng để tự chẩn đoán hoặc thay thế đánh giá chuyên môn.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · A</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 02/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · HISTORICAL BACKGROUND</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Vấn đề khởi đầu: đau khổ có thật, lời giải chưa đủ</text><text x=\"80\" y=\"325\" width=\"670\" height=\"245\" font-family=\"Bricolage Grotesque\" font-size=\"96\" font-weight=\"700\" color=\"#7A2038\">Đau khổ&#10;có thật.</text><text x=\"85\" y=\"630\" width=\"660\" height=\"180\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#241C20\">Chưa giải thích được không có nghĩa trải nghiệm không đáng được lắng nghe.</text><text x=\"880\" y=\"335\" width=\"930\" height=\"510\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#241C20\">Freud có nền đào tạo y khoa và thần kinh học. Cuối thế kỷ XIX, ông chuyển dần sang tìm ý nghĩa tâm lý của các hiện tượng không dễ giải thích bằng cách nhìn tổn thương thần kinh lúc đó. Một triệu chứng khó giải thích không làm đau khổ của người bệnh trở nên kém thật. Nhưng việc lắng nghe trải nghiệm và việc xác định cơ chế gây triệu chứng là hai công việc khác nhau.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Không suy triệu chứng cơ thể là “do tâm lý” chỉ vì chưa có lời giải thích.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1] LOC, phần mở đầu · [S5] USHMM</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 03/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · HAI CẤP ĐỘ TÌM HIỂU</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Hai câu hỏi cần được giữ riêng</text><rectangle  x=\"80\" y=\"310\" width=\"850\" height=\"340\" fill=\"#7A2038\" corner-radius=\"0\"/><text x=\"110\" y=\"345\" width=\"790\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#FFFFFF\">Lắng nghe</text><text x=\"110\" y=\"465\" width=\"790\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FFFFFF\">Tìm hiểu điều người ấy trải nghiệm và coi là quan trọng.</text><rectangle  x=\"965\" y=\"310\" width=\"850\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"995\" y=\"345\" width=\"790\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Giải thích nhân quả</text><text x=\"995\" y=\"465\" width=\"790\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Kiểm tra điều gì tạo ra hoặc duy trì biểu hiện.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Câu hỏi “Có thể lắng nghe điều gì từ trải nghiệm người bệnh?” mở ra hướng tìm hiểu cảm xúc, quan hệ và ý nghĩa chủ quan. Câu hỏi “Cơ chế nào gây ra triệu chứng?” đòi dữ liệu có thể phân biệt các giả thuyết. Một cuộc trò chuyện có giá trị với người bệnh không tự chứng minh cách giải thích nhân quả của bác sĩ. Hai mục tiêu có thể hỗ trợ nhau nhưng không thay thế tiêu chuẩn của nhau.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · B · Phân tích phương pháp</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 04/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · TIMELINE 1</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">1880–1895: nguồn gốc của một hướng thực hành</text><line x1=\"125\" y1=\"420\" x2=\"1720\" y2=\"420\" stroke=\"#C7B7A8\" stroke-width=\"4\"/><ellipse  x=\"110\" y=\"408\" width=\"24\" height=\"24\" fill=\"#7A2038\"/><text x=\"85\" y=\"310\" width=\"545\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"48\" font-weight=\"700\" color=\"#7A2038\">1880–1882</text><text x=\"85\" y=\"485\" width=\"545\" height=\"150\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#241C20\">Breuer điều trị Anna O.</text><ellipse  x=\"700\" y=\"408\" width=\"24\" height=\"24\" fill=\"#7A2038\"/><text x=\"675\" y=\"310\" width=\"545\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"48\" font-weight=\"700\" color=\"#7A2038\">1885–1886</text><text x=\"675\" y=\"485\" width=\"545\" height=\"150\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#241C20\">Freud học với Charcot.</text><ellipse  x=\"1290\" y=\"408\" width=\"24\" height=\"24\" fill=\"#7A2038\"/><text x=\"1265\" y=\"310\" width=\"545\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"48\" font-weight=\"700\" color=\"#7A2038\">1895</text><text x=\"1265\" y=\"485\" width=\"545\" height=\"150\" font-family=\"Be Vietnam Pro\" font-size=\"36\" font-weight=\"400\" color=\"#241C20\">Studies on Hysteria ra đời.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Ca Anna O. được Breuer điều trị trong giai đoạn 1880–1882, sau đó trở thành tư liệu quan trọng trong câu chuyện nguồn gốc. Freud học với Charcot ở Paris năm 1885–1886, tiếp xúc nghiên cứu hysteria và thôi miên. Năm 1895, Breuer và Freud xuất bản Studies on Hysteria. Các mốc này cho thấy học thuyết hình thành từ nhiều đóng góp, không phải một phát hiện duy nhất của riêng Freud.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1] LOC · [S2–S3] Freud, Lectures I–II</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 05/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · TIMELINE 2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">1899–1939: sách, truyền bá và bối cảnh lịch sử</text><line x1=\"255\" y1=\"330\" x2=\"255\" y2=\"845\" stroke=\"#C9B9AA\" stroke-width=\"3\"/><ellipse  x=\"243\" y=\"338\" width=\"24\" height=\"24\" fill=\"#7A2038\"/><text x=\"310\" y=\"320\" width=\"580\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">1899 / 1900</text><text x=\"310\" y=\"390\" width=\"580\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Phân biệt thời điểm và niên đại sách.</text><ellipse  x=\"243\" y=\"518\" width=\"24\" height=\"24\" fill=\"#7A2038\"/><text x=\"310\" y=\"500\" width=\"580\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">1909 / 1910</text><text x=\"310\" y=\"570\" width=\"580\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Phân biệt bài giảng và bản xuất bản.</text><ellipse  x=\"243\" y=\"698\" width=\"24\" height=\"24\" fill=\"#7A2038\"/><text x=\"310\" y=\"680\" width=\"580\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">1933–1939</text><text x=\"310\" y=\"750\" width=\"580\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Đặt tác giả trong lịch sử xã hội.</text><text x=\"1000\" y=\"330\" width=\"810\" height=\"570\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">The Interpretation of Dreams hoàn thành năm 1899 nhưng mang niên đại xuất bản 1900; cần phân biệt diễn biến thực tế với niên đại thư mục. Bài giảng Clark diễn ra năm 1909 và được xuất bản tiếng Anh năm 1910. Sách Freud bị Đức Quốc xã đốt năm 1933; nhà ông bị lục soát sau khi Áo bị sáp nhập năm 1938. Freud mất năm 1939. Đây là bản đồ định hướng, không phải toàn bộ tiểu sử.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S5–S7] USHMM · Harvard CHSI · Fancher</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 06/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · ĐÓNG GÓP VÀ NGUỒN</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Charcot, Breuer, Freud: không gộp ba vai trò</text><text x=\"80\" y=\"300\" width=\"540\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"76\" font-weight=\"700\" color=\"#9B714F\">01</text><text x=\"80\" y=\"420\" width=\"540\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Charcot</text><text x=\"80\" y=\"525\" width=\"540\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Bối cảnh nghiên cứu tại Paris.</text><line x1=\"635\" y1=\"320\" x2=\"635\" y2=\"640\" stroke=\"#9B714F\" stroke-width=\"1\"/><text x=\"670\" y=\"300\" width=\"540\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"76\" font-weight=\"700\" color=\"#9B714F\">02</text><text x=\"670\" y=\"420\" width=\"540\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Breuer</text><text x=\"670\" y=\"525\" width=\"540\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Điều trị Anna O.; công trình chung.</text><line x1=\"1225\" y1=\"320\" x2=\"1225\" y2=\"640\" stroke=\"#9B714F\" stroke-width=\"1\"/><text x=\"1260\" y=\"300\" width=\"540\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"76\" font-weight=\"700\" color=\"#9B714F\">03</text><text x=\"1260\" y=\"420\" width=\"540\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Freud</text><text x=\"1260\" y=\"525\" width=\"540\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Khái niệm và kỹ thuật tiếp theo.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Charcot tạo một bối cảnh nghiên cứu hysteria và thôi miên mà Freud tiếp xúc. Breuer đem lại kinh nghiệm điều trị quan trọng và đồng tác giả công trình năm 1895. Freud phát triển hệ thống khái niệm và kỹ thuật tiếp theo. Còn người bệnh, người phiên dịch, người biên tập và tổ chức truyền bá cũng thuộc lịch sử này. Nguồn do tác giả kể lại cần được đối chiếu vì nó đã lựa chọn sự kiện và cách tổ chức câu chuyện.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Không đọc bài giảng 1910 như thể nó đã chứa toàn bộ các phát triển sau của Freud.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1–S3] LOC · Freud (1910)</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 07/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">C · CORE THEORY</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Ba công việc có ba tiêu chuẩn đánh giá</text><rectangle name=\"root\" x=\"80\" y=\"385\" width=\"410\" height=\"190\" fill=\"#7A2038\" corner-radius=\"14\"/><text x=\"110\" y=\"420\" width=\"350\" height=\"120\" font-family=\"Bricolage Grotesque\" font-size=\"39\" font-weight=\"700\" color=\"#FFFFFF\">Cần đánh giá&#10;điều gì?</text><rectangle name=\"b0\" x=\"725\" y=\"290\" width=\"1085\" height=\"110\" fill=\"#3A2A34\" corner-radius=\"12\"/><text x=\"755\" y=\"315\" width=\"315\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Học thuyết</text><text x=\"1090\" y=\"310\" width=\"680\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#F5F0E6\">Giả thuyết có giải thích dữ kiện không?</text><rectangle name=\"b1\" x=\"725\" y=\"420\" width=\"1085\" height=\"110\" fill=\"#3A2A34\" corner-radius=\"12\"/><text x=\"755\" y=\"445\" width=\"315\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Diễn giải</text><text x=\"1090\" y=\"440\" width=\"680\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#F5F0E6\">Ý nghĩa được hình thành từ nguồn nào?</text><rectangle name=\"b2\" x=\"725\" y=\"550\" width=\"1085\" height=\"110\" fill=\"#3A2A34\" corner-radius=\"12\"/><text x=\"755\" y=\"575\" width=\"315\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Can thiệp</text><text x=\"1090\" y=\"570\" width=\"680\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#F5F0E6\">Kết quả đổi ra sao, so với điều gì?</text><connector from=\"@root:right\" to=\"@b0:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><connector from=\"@root:right\" to=\"@b1:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><connector from=\"@root:right\" to=\"@b2:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Có thể đọc phân tâm học qua ba công việc: tạo giả thuyết về tâm trí; thu thập và diễn giải chất liệu trải nghiệm; can thiệp trong quan hệ trị liệu. Chúng liên hệ nhưng không có cùng phép kiểm. Một cách diễn giải có thể giàu ý nghĩa mà chưa là cơ chế phổ quát. Người bệnh cải thiện cũng chưa cho biết thành tố nào tạo ra thay đổi. Đây là khung phân tích của bài F01, không phải định nghĩa được trích nguyên văn Freud.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · C · Khung phân tích của bài</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 08/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">C · TỪ BIỂU HIỆN ĐẾN DIỄN GIẢI</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">“Có ý nghĩa” chưa bằng “đã biết nguyên nhân”</text><rectangle name=\"n0\" x=\"80\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"108\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Dữ kiện</text><text x=\"108\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Khó nói trước cấp trên.</text><rectangle name=\"n1\" x=\"670\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E5CCD5\" corner-radius=\"18\"/><text x=\"698\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Liên hệ</text><text x=\"698\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Kể chuyện từng bị phê bình.</text><rectangle name=\"n2\" x=\"1260\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"1288\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Cần kiểm</text><text x=\"1288\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Còn yếu tố nào giải thích được?</text><connector from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><connector from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Trong hệ thống Freud đang hình thành, biểu hiện được đặt trong quan hệ với cảm xúc, ký ức và xung đột của người trải nghiệm. Ví dụ, một người khó nói trước cấp trên có thể kể lịch sử từng bị phê bình. Mối liên hệ đó đáng khám phá, nhưng chưa chứng minh lịch sử ấy là nguyên nhân duy nhất. Cần giữ riêng điều được kể, ý nghĩa người ấy nhận thấy và suy luận nhân quả của người quan sát.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · C · Ví dụ minh họa của bài</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 09/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">C · SỰ THAY ĐỔI PHƯƠNG PHÁP</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Từ catharsis đến liên tưởng tự do</text><text x=\"80\" y=\"285\" width=\"520\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"65\" font-weight=\"700\" color=\"#9B714F\">01</text><rectangle  x=\"80\" y=\"390\" width=\"540\" height=\"210\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"105\" y=\"410\" width=\"490\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Cathartic method</text><text x=\"105\" y=\"495\" width=\"490\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Lời kể và cảm xúc trong bối cảnh thôi miên.</text><text x=\"670\" y=\"330\" width=\"520\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"65\" font-weight=\"700\" color=\"#9B714F\">02</text><rectangle  x=\"670\" y=\"435\" width=\"540\" height=\"210\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"695\" y=\"455\" width=\"490\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Khó khăn thực hành</text><text x=\"695\" y=\"540\" width=\"490\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Không thôi miên được mọi người.</text><text x=\"1260\" y=\"375\" width=\"520\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"65\" font-weight=\"700\" color=\"#9B714F\">03</text><rectangle  x=\"1260\" y=\"480\" width=\"540\" height=\"210\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"1285\" y=\"500\" width=\"490\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Free association</text><text x=\"1285\" y=\"585\" width=\"490\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Nói ý nghĩ xuất hiện, bớt lựa chọn.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Lecture I kể việc Breuer sử dụng thôi miên và lời kể gắn với cảm xúc. Lecture II mô tả khó khăn khi Freud không thôi miên được mọi người và chuyển sang làm việc trong trạng thái thức. Từ trở ngại khi nói hoặc nhớ, ông suy ra resistance và repression. Lecture III trình bày cách để người bệnh nói ra ý nghĩ xuất hiện thay vì chỉ chọn điều hợp lý. Bỏ thôi miên không tự loại bỏ ảnh hưởng của người hỏi.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Điểm chuyển là loại câu hỏi được đặt ra, không phải công thức “nói ra là khỏi”.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S2–S4] Freud, Lectures I–III</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 10/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">D · PSYCHOLOGICAL MECHANISM</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Bản đồ cơ chế: năm bước được học thuyết đề xuất</text><text x=\"95\" y=\"300\" width=\"290\" height=\"110\" font-family=\"Bricolage Grotesque\" font-size=\"90\" font-weight=\"700\" color=\"#EAB6C8\">1</text><rectangle name=\"m0\" x=\"80\" y=\"455\" width=\"310\" height=\"190\" fill=\"#523443\" corner-radius=\"16\"/><text x=\"104\" y=\"488\" width=\"262\" height=\"135\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Chất liệu khó&#10;chấp nhận</text><text x=\"450\" y=\"300\" width=\"290\" height=\"110\" font-family=\"Bricolage Grotesque\" font-size=\"90\" font-weight=\"700\" color=\"#DCAF8A\">2</text><rectangle name=\"m1\" x=\"435\" y=\"455\" width=\"310\" height=\"190\" fill=\"#3A2A34\" corner-radius=\"16\"/><text x=\"459\" y=\"488\" width=\"262\" height=\"135\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Sức ép&#10;né tránh</text><text x=\"805\" y=\"300\" width=\"290\" height=\"110\" font-family=\"Bricolage Grotesque\" font-size=\"90\" font-weight=\"700\" color=\"#EAB6C8\">3</text><rectangle name=\"m2\" x=\"790\" y=\"455\" width=\"310\" height=\"190\" fill=\"#523443\" corner-radius=\"16\"/><text x=\"814\" y=\"488\" width=\"262\" height=\"135\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Ảnh hưởng ngoài&#10;nhận biết</text><text x=\"1160\" y=\"300\" width=\"290\" height=\"110\" font-family=\"Bricolage Grotesque\" font-size=\"90\" font-weight=\"700\" color=\"#DCAF8A\">4</text><rectangle name=\"m3\" x=\"1145\" y=\"455\" width=\"310\" height=\"190\" fill=\"#3A2A34\" corner-radius=\"16\"/><text x=\"1169\" y=\"488\" width=\"262\" height=\"135\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Biểu hiện&#10;gián tiếp</text><text x=\"1515\" y=\"300\" width=\"290\" height=\"110\" font-family=\"Bricolage Grotesque\" font-size=\"90\" font-weight=\"700\" color=\"#EAB6C8\">5</text><rectangle name=\"m4\" x=\"1500\" y=\"455\" width=\"310\" height=\"190\" fill=\"#523443\" corner-radius=\"16\"/><text x=\"1524\" y=\"488\" width=\"262\" height=\"135\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Khám phá và&#10;kiểm tra ý nghĩa</text><connector from=\"@m0:right\" to=\"@m1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#EAB6C8\" stroke-width=\"3\"/><connector from=\"@m1:right\" to=\"@m2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#EAB6C8\" stroke-width=\"3\"/><connector from=\"@m2:right\" to=\"@m3:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#EAB6C8\" stroke-width=\"3\"/><connector from=\"@m3:right\" to=\"@m4:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#EAB6C8\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Chuỗi này tái dựng mô hình xung đột ban đầu để giảng dạy: một chất liệu khó chấp nhận nảy sinh; xuất hiện sức ép né tránh; mô hình giả định chất liệu tiếp tục ảnh hưởng ngoài nhận biết; người phân tích tìm biểu hiện gián tiếp; đối thoại được kỳ vọng làm rõ ý nghĩa. Mỗi mũi tên là quan hệ trong mô hình, không phải cơ chế sinh học đã được xác nhận. Các bước cần được kiểm tra riêng.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#D3C3CB\">Mô hình đề xuất ≠ cơ chế thực nghiệm đã xác nhận.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">[S3–S4] Freud, Lectures II–III</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 11/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">D · PHÂN TÍCH TỪNG BƯỚC</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Bước 1–3: từ xung đột đến ảnh hưởng ngoài nhận biết</text><rectangle  x=\"80\" y=\"300\" width=\"1730\" height=\"100\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"110\" y=\"320\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">01 / Xung đột</text><text x=\"610\" y=\"318\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Ý nghĩ và điều được phép cảm thấy không khớp.</text><rectangle  x=\"80\" y=\"420\" width=\"1730\" height=\"100\" fill=\"#E5CCD5\" corner-radius=\"0\"/><text x=\"110\" y=\"440\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">02 / Né tránh</text><text x=\"610\" y=\"438\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Nhận biết hoặc nói ra bị hình dung là khó chịu.</text><rectangle  x=\"80\" y=\"540\" width=\"1730\" height=\"100\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"110\" y=\"560\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">03 / Giả định tiếp theo</text><text x=\"610\" y=\"558\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Chất liệu vẫn ảnh hưởng dù không được nhận biết.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Một mong muốn, cảm xúc hoặc ý nghĩ có thể xung đột với điều người ấy cho phép mình cảm thấy. Trong mô hình, việc nhận biết hay biểu lộ chất liệu bị hình dung là gây khó chịu; loại khỏi ý thức không nhất thiết là quyết định có chủ ý. Bước tiếp theo giả định chất liệu chưa mất đi dù không được nhận biết trực tiếp. Chính bước suy này cần kiểm chứng: không thể chỉ quan sát sự im lặng rồi kết luận có dồn nén.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S3–S4] Mô hình lịch sử · F01 D</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 12/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">D · BIỂU HIỆN VÀ ĐỐI THOẠI</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Bước 4–5: tìm liên hệ và kiểm tra cách hiểu</text><rectangle name=\"n0\" x=\"80\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"108\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Biểu hiện</text><text x=\"108\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Lời kể, lặp lại, chỗ khó nói.</text><rectangle name=\"n1\" x=\"670\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E5CCD5\" corner-radius=\"18\"/><text x=\"698\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Diễn giải</text><text x=\"698\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Người quan sát chọn một mối liên hệ.</text><rectangle name=\"n2\" x=\"1260\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"1288\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Kiểm tra</text><text x=\"1288\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Còn dữ kiện nào khiến cách hiểu đổi?</text><connector from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><connector from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Người phân tích tìm liên hệ qua lời kể, sự lặp lại hoặc chỗ nói khó khăn. Tuy nhiên, việc chọn liên hệ nào đã là diễn giải, không phải quan sát thuần túy. Đối thoại được kỳ vọng làm rõ mối liên hệ, nhưng cách hiểu được chấp nhận chưa chứng minh ký ức chính xác hoặc cơ chế đúng. Một câu chuyện thuyết phục vẫn phải được phân biệt với kết luận đã loại trừ các cách giải thích cạnh tranh.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S3–S4] Mô hình lịch sử · F01 D</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 13/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">D · KHI GIẢ THUYẾT KHÔNG THỂ SAI</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Nguy cơ suy luận vòng tròn</text><rectangle name=\"hyp\" x=\"80\" y=\"385\" width=\"480\" height=\"175\" fill=\"#523443\" corner-radius=\"14\"/><text x=\"110\" y=\"417\" width=\"420\" height=\"105\" font-family=\"Bricolage Grotesque\" font-size=\"39\" font-weight=\"700\" color=\"#F5F0E6\">Cách hiểu đã&#10;được kiểm tra?</text><rectangle name=\"q0\" x=\"815\" y=\"290\" width=\"995\" height=\"105\" fill=\"#3A2A34\" corner-radius=\"10\"/><text x=\"845\" y=\"308\" width=\"350\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Đồng ý</text><text x=\"1210\" y=\"305\" width=\"565\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#F5F0E6\">Không tự chứng minh cơ chế.</text><rectangle name=\"q1\" x=\"815\" y=\"415\" width=\"995\" height=\"105\" fill=\"#3A2A34\" corner-radius=\"10\"/><text x=\"845\" y=\"433\" width=\"350\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Phản đối</text><text x=\"1210\" y=\"430\" width=\"565\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#F5F0E6\">Không tự chứng minh resistance.</text><rectangle name=\"q2\" x=\"815\" y=\"540\" width=\"995\" height=\"105\" fill=\"#3A2A34\" corner-radius=\"10\"/><text x=\"845\" y=\"558\" width=\"350\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Tiêu chuẩn tốt hơn</text><text x=\"1210\" y=\"555\" width=\"565\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#F5F0E6\">Nêu điều kiện để sửa giả thuyết.</text><connector from=\"@hyp:right\" to=\"@q0:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><connector from=\"@hyp:right\" to=\"@q1:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><connector from=\"@hyp:right\" to=\"@q2:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Nếu đồng ý được xem là “đã tìm đúng”, còn phản đối lại bị gọi “đang chống cự”, mọi phản ứng đều bị biến thành bằng chứng ủng hộ. Khi đó, diễn giải gần như không thể sai. Cách khắc phục là nói rõ dữ liệu nào khiến mình sửa giả thuyết và giữ các cách giải thích thay thế. Sự không đồng ý là dữ kiện cần hiểu; nó không cho phép phủ nhận tiếng nói của người bệnh.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · D · Phản biện phương pháp</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 14/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">E · REAL-LIFE EXAMPLES</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Ví dụ 1: Mai chưa trả lời tin nhắn</text><rectangle name=\"obs\" x=\"80\" y=\"375\" width=\"510\" height=\"200\" fill=\"#E5CCD5\" corner-radius=\"16\"/><text x=\"110\" y=\"397\" width=\"450\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#7A2038\">Quan sát</text><text x=\"110\" y=\"480\" width=\"450\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Tin nhắn chưa được trả lời.</text><rectangle name=\"alt1\" x=\"900\" y=\"310\" width=\"910\" height=\"155\" fill=\"#E8DED1\" corner-radius=\"16\"/><text x=\"930\" y=\"330\" width=\"850\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Giả thuyết A</text><text x=\"930\" y=\"395\" width=\"850\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Ngại bị đánh giá.</text><connector from=\"@obs:right\" to=\"@alt1:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><rectangle name=\"alt2\" x=\"900\" y=\"505\" width=\"910\" height=\"155\" fill=\"#E8DED1\" corner-radius=\"16\"/><text x=\"930\" y=\"525\" width=\"850\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Giả thuyết B</text><text x=\"930\" y=\"590\" width=\"850\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Tắt thông báo hoặc quá tải.</text><connector from=\"@obs:right\" to=\"@alt2:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Mai chưa trả lời lời mời họp của người từng chê mình. Có thể Mai vừa muốn tham gia vừa ngại bị đánh giá. Nhưng điện thoại tắt thông báo hoặc công việc quá tải cũng là những khả năng phù hợp. Dữ kiện hiện có chỉ là tin nhắn chưa được trả lời. Chưa biết Mai đọc chưa, đang bận không và cảm thấy gì. Vì thế, hỏi hoàn cảnh và cảm giác hợp lý hơn khẳng định Mai dồn nén thù ghét.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Câu hỏi mở cần thêm dữ kiện; một hành vi không đủ để suy động cơ.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · E1 · Tình huống giả định</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 15/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">E · REAL-LIFE EXAMPLES</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Ví dụ 2: Nam đổi chủ đề khi nhắc thất bại</text><rectangle  x=\"80\" y=\"310\" width=\"1125\" height=\"110\" fill=\"#E8DED1\" corner-radius=\"22\"/><text x=\"108\" y=\"325\" width=\"365\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"31\" font-weight=\"700\" color=\"#7A2038\">Cách hỏi tôn trọng</text><text x=\"500\" y=\"325\" width=\"670\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">“Bạn có muốn nói thêm về chuyện đó không?”</text><rectangle  x=\"680\" y=\"435\" width=\"1125\" height=\"110\" fill=\"#E5CCD5\" corner-radius=\"22\"/><text x=\"708\" y=\"450\" width=\"365\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"31\" font-weight=\"700\" color=\"#7A2038\">Cách hỏi áp đặt</text><text x=\"1100\" y=\"450\" width=\"670\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">“Bạn đang chống cự.”</text><rectangle  x=\"80\" y=\"570\" width=\"1730\" height=\"95\" fill=\"#E8DED1\" corner-radius=\"22\"/><text x=\"108\" y=\"585\" width=\"365\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"31\" font-weight=\"700\" color=\"#7A2038\">Điều cần xét</text><text x=\"500\" y=\"585\" width=\"1275\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Bối cảnh, mục tiêu, quyền từ chối.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Nam nói dài về kỹ thuật nhưng đổi chủ đề khi được hỏi lần thuyết trình không thành công. Có thể Nam tránh cảm giác xấu hổ; cũng có thể anh không muốn nói chuyện riêng tại công việc hoặc thấy câu hỏi không liên quan. Trước khi gọi đó là resistance, cần xem anh có quyền từ chối không, mục tiêu cuộc nói chuyện là gì và mẫu hình có lặp lại trong bối cảnh phù hợp không.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Không biến thuật ngữ lâm sàng thành nhãn trong giao tiếp thường ngày.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · E2 · Tình huống giả định</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 16/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">E · REAL-LIFE EXAMPLES</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Ví dụ 3: Lan thấy nhẹ nhõm sau khi kể chuyện</text><rectangle name=\"n0\" x=\"80\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"108\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Báo cáo</text><text x=\"108\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Lan nói mình thấy nhẹ nhõm.</text><rectangle name=\"n1\" x=\"670\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E5CCD5\" corner-radius=\"18\"/><text x=\"698\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Chưa xác định</text><text x=\"698\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Thành tố nào tạo ra thay đổi?</text><rectangle name=\"n2\" x=\"1260\" y=\"350\" width=\"545\" height=\"255\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"1288\" y=\"378\" width=\"489\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Cần tránh</text><text x=\"1288\" y=\"475\" width=\"489\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Ép kể chuyện hoặc tìm biến cố bị quên.</text><connector from=\"@n0:right\" to=\"@n1:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><connector from=\"@n1:right\" to=\"@n2:left\" routing=\"straight\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Lan nhẹ nhõm sau khi kể giai đoạn chăm sóc người thân. Có thể Lan nhận diện cảm xúc vốn khó nói; cũng có thể có người lắng nghe, thêm hỗ trợ thực tế hoặc căng thẳng tự giảm theo thời gian. Đây là các giả thuyết minh họa, không phải kết quả thí nghiệm. Trải nghiệm có ích vẫn đáng trân trọng khi cơ chế chưa rõ; không dùng nó làm lý do ép người khác kể chuyện đau buồn.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · E3 · Tình huống giả định</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 17/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">F · CASE STUDY 1/3</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Anna O.: ai điều trị, ai kể lại?</text><rectangle  x=\"0\" y=\"285\" width=\"580\" height=\"675\" fill=\"#7A2038\" corner-radius=\"0\"/><text x=\"65\" y=\"320\" width=\"460\" height=\"287\" font-family=\"Bricolage Grotesque\" font-size=\"118\" font-weight=\"700\" color=\"#FFFFFF\">ANNA&#10;O.</text><text x=\"65\" y=\"650\" width=\"460\" height=\"200\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5DFE7\">Bertha Pappenheim&#10;Breuer điều trị;&#10;Freud kể lại.</text><text x=\"660\" y=\"320\" width=\"1150\" height=\"330\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Anna O. là tên ca bệnh của Bertha Pappenheim, người do Breuer điều trị. Lecture I là Freud kể lại việc điều trị ấy, không phải báo cáo Freud trực tiếp điều trị ca này. Dữ liệu đến với ta qua câu chuyện đã được tác giả lựa chọn và tổ chức. Vì vậy, trước khi đánh giá ca, cần xác định khoảng cách từ người trải nghiệm đến người quan sát, người kể và người đọc ngày nay.</text><text x=\"660\" y=\"690\" width=\"330\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#EAB6C8\">Pappenheim</text><text x=\"1030\" y=\"690\" width=\"780\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Người trải nghiệm đau khổ.</text><text x=\"660\" y=\"770\" width=\"330\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#EAB6C8\">Breuer</text><text x=\"1030\" y=\"770\" width=\"780\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Người trực tiếp điều trị.</text><text x=\"660\" y=\"850\" width=\"330\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#EAB6C8\">Freud → người đọc</text><text x=\"1030\" y=\"850\" width=\"780\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Kể lại → diễn giải tư liệu.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">[S1] LOC, Anna O. · [S2] Freud, Lecture I</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 18/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">F · CASE STUDY 2/3</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Đọc ca bệnh theo năm thao tác</text><rectangle  x=\"80\" y=\"300\" width=\"1730\" height=\"100\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"110\" y=\"320\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">1 · Câu hỏi</text><text x=\"610\" y=\"318\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Nguồn gốc hay hiệu quả?</text><rectangle  x=\"80\" y=\"420\" width=\"1730\" height=\"100\" fill=\"#E5CCD5\" corner-radius=\"0\"/><text x=\"110\" y=\"440\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">2–3 · Phân tích</text><text x=\"610\" y=\"438\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Mô tả/cơ chế; thời gian/nhân quả.</text><rectangle  x=\"80\" y=\"540\" width=\"1730\" height=\"100\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"110\" y=\"560\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">4–5 · Kết luận</text><text x=\"610\" y=\"558\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Đối chiếu nguồn; giới hạn phạm vi.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Trước hết, hỏi ca đang giúp hiểu nguồn gốc phương pháp hay chứng minh hiệu quả toàn học thuyết. Tiếp theo, tách triệu chứng được báo cáo khỏi cơ chế được diễn giải. Sau đó kiểm quan hệ thời gian: thay đổi sau cuộc trò chuyện chưa loại trừ thôi miên, kỳ vọng hoặc quan hệ chăm sóc. Cuối cùng, đối chiếu nguồn và giữ kết luận trong phạm vi tư liệu. Đây là kiểm suy luận, không chẩn đoán hồi cứu Pappenheim.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · F · Dựa trên [S1–S2]</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 19/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">F · CASE STUDY 3/3</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Giá trị lịch sử không xóa giới hạn của ca</text><rectangle  x=\"80\" y=\"300\" width=\"1730\" height=\"100\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"110\" y=\"320\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Có thể kết luận</text><text x=\"610\" y=\"318\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Ca có giá trị trong lịch sử talking cure.</text><rectangle  x=\"80\" y=\"420\" width=\"1730\" height=\"100\" fill=\"#E5CCD5\" corner-radius=\"0\"/><text x=\"110\" y=\"440\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Chưa thể kết luận</text><text x=\"610\" y=\"438\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Một cơ chế phổ quát đã được xác nhận.</text><rectangle  x=\"80\" y=\"540\" width=\"1730\" height=\"100\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"110\" y=\"560\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Còn thiếu</text><text x=\"610\" y=\"558\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">So sánh, theo dõi, đánh giá độc lập.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Library of Congress lưu ý kết quả điều trị không thành công như Breuer và Freud từng trình bày. Điều này khiến lời khẳng định “chữa khỏi” cần được đọc thận trọng. Bài F01 không tái lập toàn bộ hồ sơ và không gán chẩn đoán hiện đại cho Pappenheim. Thiếu so sánh đáng tin, theo dõi chuẩn hóa và đánh giá độc lập, ta không biết đủ điều gì sẽ xảy ra nếu không có can thiệp.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1] LOC, “Although Breuer’s treatment…” · F01 F</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 20/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Bricolage Grotesque\" font-size=\"26\" font-weight=\"700\" color=\"#7A2038\">G · MODERN SCIENTIFIC PERSPECTIVE</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#7A2038\">Bốn loại khẳng định cần bốn phép kiểm</text><rectangle x=\"80\" y=\"290\" width=\"1730\" height=\"78\" fill=\"#E8DED1\"/><text x=\"110\" y=\"306\" width=\"470\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Lịch sử</text><text x=\"610\" y=\"306\" width=\"1150\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Văn bản gốc, đúng ấn bản và đoạn.</text><rectangle x=\"80\" y=\"380\" width=\"1730\" height=\"78\" fill=\"#E5CCD5\"/><text x=\"110\" y=\"396\" width=\"470\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Báo cáo ca</text><text x=\"610\" y=\"396\" width=\"1150\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Thay đổi được ghi nhận; chưa xác định nguyên nhân.</text><rectangle x=\"80\" y=\"470\" width=\"1730\" height=\"78\" fill=\"#E8DED1\"/><text x=\"110\" y=\"486\" width=\"470\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Hiệu quả can thiệp</text><text x=\"610\" y=\"486\" width=\"1150\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Nghiên cứu so sánh và tổng hợp chất lượng.</text><rectangle x=\"80\" y=\"560\" width=\"1730\" height=\"78\" fill=\"#E5CCD5\"/><text x=\"110\" y=\"576\" width=\"470\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Cơ chế</text><text x=\"610\" y=\"576\" width=\"1150\" height=\"55\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Đo độc lập, thứ tự thời gian, giả thuyết cạnh tranh.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Một tác phẩm có thể xác nhận Freud đã nói gì, nhưng không tự xác nhận ý tưởng ấy đúng. Báo cáo ca có thể ghi thay đổi, nhưng chưa xác định nguyên nhân. Nghiên cứu so sánh kiểm kết quả can thiệp, còn cơ chế cần phép đo độc lập, thứ tự thời gian và giả thuyết cạnh tranh. Khi đổi loại khẳng định, phải đổi loại bằng chứng; không dùng một nguồn thuận lợi để trả lời mọi câu hỏi.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#241C20\">F01 · G · Khung phương pháp của bài</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#241C20\">F01 · Editorial Learning · 21/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">G · BẰNG CHỨNG ĐIỀU TRỊ</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Cochrane 2014 đã nghiên cứu điều gì?</text><rectangle  x=\"80\" y=\"300\" width=\"525\" height=\"360\" fill=\"#7A2038\" corner-radius=\"20\"/><text x=\"110\" y=\"325\" width=\"465\" height=\"162\" font-family=\"Bricolage Grotesque\" font-size=\"132\" font-weight=\"700\" color=\"#FFFFFF\">33</text><text x=\"115\" y=\"510\" width=\"460\" height=\"85\" font-family=\"Be Vietnam Pro\" font-size=\"42\" font-weight=\"400\" color=\"#FFFFFF\">nghiên cứu</text><text x=\"680\" y=\"305\" width=\"1050\" height=\"133\" font-family=\"Bricolage Grotesque\" font-size=\"108\" font-weight=\"700\" color=\"#EAB6C8\">2.173</text><text x=\"690\" y=\"445\" width=\"1020\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"39\" font-weight=\"400\" color=\"#F5F0E6\">người trưởng thành</text><rectangle  x=\"680\" y=\"540\" width=\"1130\" height=\"115\" fill=\"#3A2A34\" corner-radius=\"14\"/><text x=\"710\" y=\"560\" width=\"1070\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Chờ / thông thường / tiếp xúc tối thiểu.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Bài F01 đọc bản tóm tắt chính thức review Abbass và cộng sự (2014), gồm phương pháp, kết quả và kết luận. Review tổng hợp 33 nghiên cứu với 2.173 người trưởng thành, so sánh trị liệu tâm động học ngắn hạn với chờ điều trị, chăm sóc thông thường hoặc tiếp xúc tối thiểu. Đối tượng là kết quả của can thiệp được nghiên cứu, không phải một phép kiểm trực tiếp cho mọi giả thuyết Freud.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">[S9] Abbass et al., Cochrane (2014) · CD004687.pub4</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 22/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">G · KẾT QUẢ VÀ GIỚI HẠN</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Kết quả cần đọc cùng độ bất định</text><rectangle  x=\"80\" y=\"310\" width=\"555\" height=\"340\" fill=\"#7A2038\" corner-radius=\"0\"/><text x=\"110\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#FFFFFF\">Hỗ trợ</text><text x=\"110\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FFFFFF\">Nhiều kết quả ngắn và trung hạn tốt hơn.</text><rectangle  x=\"670\" y=\"310\" width=\"555\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"700\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Giới hạn</text><text x=\"700\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Chất lượng, dị biệt, một số kết quả dài hạn.</text><rectangle  x=\"1260\" y=\"310\" width=\"555\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"1290\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Không ngoại suy</text><text x=\"1290\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Không chứng minh mọi cơ chế hoặc mọi so sánh.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Nhiều nhóm kết quả cải thiện hơn ở ngắn và trung hạn; một số kết quả dài hạn không còn ý nghĩa thống kê. Chất lượng nghiên cứu không đồng đều, dị biệt đáng kể và cách thực hiện trị liệu khác nhau. Vì thế, không suy review đã chứng minh vượt trội so với mọi trị liệu tích cực. Bài chưa đọc toàn bộ báo cáo hoặc tái kiểm từng thử nghiệm; dữ liệu này không là tổng quan cập nhật tới 2026.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S9] Tóm tắt chính thức Cochrane: Main results / Conclusions</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 23/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">G · TRẠNG THÁI NGUỒN</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Điều đã đọc, điều chưa đủ để kết luận</text><rectangle  x=\"80\" y=\"300\" width=\"1730\" height=\"100\" fill=\"#3A2A34\" corner-radius=\"0\"/><text x=\"110\" y=\"320\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#EAB6C8\">S1–S7</text><text x=\"610\" y=\"318\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Các phần lịch sử và văn bản được ghi locator.</text><rectangle  x=\"80\" y=\"420\" width=\"1730\" height=\"100\" fill=\"#523443\" corner-radius=\"0\"/><text x=\"110\" y=\"440\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#EAB6C8\">S8</text><text x=\"610\" y=\"438\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Metadata/abstract trích đoạn; không kết luận hiệu quả.</text><rectangle  x=\"80\" y=\"540\" width=\"1730\" height=\"100\" fill=\"#3A2A34\" corner-radius=\"0\"/><text x=\"110\" y=\"560\" width=\"430\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#EAB6C8\">S9</text><text x=\"610\" y=\"558\" width=\"1150\" height=\"75\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Đọc tóm tắt chính thức, chưa toàn review.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Leichsenring và cộng sự (2023) có umbrella review về trị liệu tâm động học cho các rối loạn thường gặp. Trong bài F01, nguồn này mới kiểm metadata và trích đoạn abstract; toàn văn chưa truy cập thành công. Vì vậy, không đưa effect size, mức chắc chắn hay chỉ định điều trị từ đó. Tư liệu lịch sử giúp hiểu phát triển phương pháp; các vấn đề ký ức, vô thức nhận thức và phòng vệ cần nghiên cứu ở bài riêng.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · G và L · Trạng thái truy cập của bài gốc</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 24/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">H · PRACTICAL APPLICATIONS 1/2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Vận dụng: từ gán nhãn sang đặt câu hỏi</text><text x=\"80\" y=\"285\" width=\"520\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"65\" font-weight=\"700\" color=\"#9B714F\">01</text><rectangle  x=\"80\" y=\"390\" width=\"540\" height=\"210\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"105\" y=\"410\" width=\"490\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Khẳng định rộng</text><text x=\"105\" y=\"495\" width=\"490\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">“Mọi quên lãng đều có động cơ.”</text><text x=\"670\" y=\"330\" width=\"520\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"65\" font-weight=\"700\" color=\"#9B714F\">02</text><rectangle  x=\"670\" y=\"435\" width=\"540\" height=\"210\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"695\" y=\"455\" width=\"490\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Câu hỏi cụ thể</text><text x=\"695\" y=\"540\" width=\"490\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Quên gì, lúc nào, còn giải thích nào?</text><text x=\"1260\" y=\"375\" width=\"520\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"65\" font-weight=\"700\" color=\"#9B714F\">03</text><rectangle  x=\"1260\" y=\"480\" width=\"540\" height=\"210\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"1285\" y=\"500\" width=\"490\" height=\"80\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Giao tiếp</text><text x=\"1285\" y=\"585\" width=\"490\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Hỏi mở và giữ quyền từ chối.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Khi gặp một khẳng định tâm lý phổ thông, hãy viết lại thành câu có thể kiểm tra: hành vi nào, điều kiện nào và dữ liệu nào phân biệt với thiếu chú ý. Trong giao tiếp, dùng câu hỏi mở về bối cảnh và ý nghĩa, cho phép người khác không trả lời. Gắn nhãn repression hoặc resistance có thể làm người hỏi chiếm quyền diễn giải trải nghiệm thay vì thực sự tìm hiểu.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · H1–H2</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 25/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">H · PRACTICAL APPLICATIONS 2/2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Vận dụng trong học tập và tự phản tư</text><text x=\"80\" y=\"300\" width=\"540\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"76\" font-weight=\"700\" color=\"#9B714F\">01</text><text x=\"80\" y=\"420\" width=\"540\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Dạy học</text><text x=\"80\" y=\"525\" width=\"540\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Nguồn nói gì ≠ ta kết luận gì.</text><line x1=\"635\" y1=\"320\" x2=\"635\" y2=\"640\" stroke=\"#9B714F\" stroke-width=\"1\"/><text x=\"670\" y=\"300\" width=\"540\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"76\" font-weight=\"700\" color=\"#9B714F\">02</text><text x=\"670\" y=\"420\" width=\"540\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Đọc nghiên cứu</text><text x=\"670\" y=\"525\" width=\"540\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Mô hình, can thiệp, mẫu nghiên cứu.</text><line x1=\"1225\" y1=\"320\" x2=\"1225\" y2=\"640\" stroke=\"#9B714F\" stroke-width=\"1\"/><text x=\"1260\" y=\"300\" width=\"540\" height=\"100\" font-family=\"Bricolage Grotesque\" font-size=\"76\" font-weight=\"700\" color=\"#9B714F\">03</text><text x=\"1260\" y=\"420\" width=\"540\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Tự phản tư</text><text x=\"1260\" y=\"525\" width=\"540\" height=\"130\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Ghi nhận và giữ nhiều khả năng.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Khi dạy học, đặt cột “nguồn nói gì” cạnh cột “ta kết luận gì” để tìm chỗ chuyện kể biến thành tuyên bố nhân quả. Khi đọc nghiên cứu trị liệu, phân biệt mô hình cổ điển, phương pháp được nghiên cứu và nhóm người thực sự tham gia. Khi tự phản tư, có thể ghi điều nhận thấy cùng vài giải thích thay thế; không cần ép tìm ký ức gốc hay một động cơ bí mật cho mọi hành vi.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Tài liệu giáo dục; không tự chẩn đoán, truy tìm ký ức dồn nén hoặc thay thế trị liệu.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · H3–H5</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 26/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">I · VISUAL EXPLANATION</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Bản đồ tổng hợp: lịch sử → lý thuyết → đánh giá</text><rectangle name=\"root\" x=\"80\" y=\"385\" width=\"410\" height=\"190\" fill=\"#E5CCD5\" corner-radius=\"14\"/><text x=\"110\" y=\"420\" width=\"350\" height=\"110\" font-family=\"Bricolage Grotesque\" font-size=\"39\" font-weight=\"700\" color=\"#241C20\">Từ câu hỏi&#10;đến kết luận</text><rectangle name=\"b0\" x=\"725\" y=\"290\" width=\"1085\" height=\"110\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"755\" y=\"315\" width=\"315\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Lịch sử</text><text x=\"1090\" y=\"310\" width=\"680\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Định vị người, tác phẩm, phương pháp.</text><rectangle name=\"b1\" x=\"725\" y=\"420\" width=\"1085\" height=\"110\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"755\" y=\"445\" width=\"315\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Mô hình</text><text x=\"1090\" y=\"440\" width=\"680\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Nêu giả định và quan hệ đề xuất.</text><rectangle name=\"b2\" x=\"725\" y=\"550\" width=\"1085\" height=\"110\" fill=\"#E8DED1\" corner-radius=\"12\"/><text x=\"755\" y=\"575\" width=\"315\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Kiểm chứng</text><text x=\"1090\" y=\"570\" width=\"680\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"30\" font-weight=\"400\" color=\"#241C20\">Xét nguồn, đối chứng và giới hạn.</text><connector from=\"@root:right\" to=\"@b0:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><connector from=\"@root:right\" to=\"@b1:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><connector from=\"@root:right\" to=\"@b2:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Dòng thời gian cho biết ý tưởng xuất hiện và thay đổi khi nào. Sơ đồ cơ chế trình bày quan hệ mà học thuyết đề xuất. Sơ đồ kiểm chứng đặt câu hỏi loại dữ liệu nào có thể ủng hộ hoặc khiến ta sửa cách hiểu. Không được đọc dòng thời gian như chứng minh học thuyết ngày càng đúng, hoặc đọc một mũi tên lý thuyết như quan hệ nhân quả đã xác nhận.</text><text x=\"85\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"23\" font-weight=\"400\" color=\"#635B56\">Mũi tên chỉ các hướng tìm hiểu, không biểu thị cơ chế khoa học đã được xác nhận.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · I · Sơ đồ tái cấu trúc từ bài gốc</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 27/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">J · KEY TAKEAWAYS</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Tám điểm cần nhớ trước khi sang F02</text><text x=\"80\" y=\"290\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">01</text><text x=\"195\" y=\"295\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Freud xuất phát từ y học.</text><text x=\"80\" y=\"395\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">02</text><text x=\"195\" y=\"400\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Nhiều đóng góp hình thành học thuyết.</text><text x=\"80\" y=\"500\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">03</text><text x=\"195\" y=\"505\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Anna O. do Breuer điều trị.</text><text x=\"80\" y=\"605\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">04</text><text x=\"195\" y=\"610\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Đổi phương pháp chưa loại bỏ ám thị.</text><text x=\"975\" y=\"290\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">05</text><text x=\"1090\" y=\"295\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Tách quan sát, diễn giải, kiểm chứng.</text><text x=\"975\" y=\"395\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">06</text><text x=\"1090\" y=\"400\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Đồng ý/phản đối chưa xác nhận cơ chế.</text><text x=\"975\" y=\"500\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">07</text><text x=\"1090\" y=\"505\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Hiệu quả trị liệu khác đúng học thuyết.</text><text x=\"975\" y=\"605\" width=\"90\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#DCAF8A\">08</text><text x=\"1090\" y=\"610\" width=\"735\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">Lắng nghe không là quyền chẩn đoán.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Freud xuất phát từ y học; học thuyết hình thành qua quá trình nhiều đóng góp. Anna O. do Breuer điều trị, được Freud kể lại. Chuyển phương pháp không tự loại bỏ ảnh hưởng người hỏi. Quan sát, diễn giải và kiểm chứng là ba công việc khác nhau. Đồng ý hay phản đối không tự quyết định cơ chế đúng. Hiệu quả trị liệu không xác nhận mọi giả thuyết Freud. Học lịch sử giúp hỏi tốt hơn, không trao quyền chẩn đoán người khác.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · J · Tám ý được nhóm lại để dễ nhớ</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 28/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">K · KNOWLEDGE CHECK</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Câu 1 · Ai trực tiếp điều trị Anna O.?</text><text x=\"80\" y=\"300\" width=\"420\" height=\"200\" font-family=\"Bricolage Grotesque\" font-size=\"145\" font-weight=\"700\" color=\"#7A2038\">Q1</text><text x=\"80\" y=\"555\" width=\"520\" height=\"140\" font-family=\"Bricolage Grotesque\" font-size=\"50\" font-weight=\"700\" color=\"#241C20\">Ai điều trị?&#10;Ai kể lại?</text><rectangle  x=\"710\" y=\"310\" width=\"1100\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"18\"/><text x=\"750\" y=\"340\" width=\"1020\" height=\"260\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Đáp án: Josef Breuer. Freud là đồng tác giả công trình và người kể lại ca trong bài giảng đang đọc. Điểm cần hiểu không chỉ là nhớ một tên người: nhầm người kể với người trực tiếp quan sát làm ta đánh giá sai khoảng cách giữa nguồn và dữ kiện. Khi đọc một ca, hãy xác định ai trải nghiệm, ai quan sát, ai ghi lại và ta đang đọc bản nào.</text><text x=\"80\" y=\"760\" width=\"530\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Câu trả lời</text><text x=\"80\" y=\"835\" width=\"530\" height=\"115\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#241C20\">Breuer trực tiếp điều trị.</text><text x=\"670\" y=\"760\" width=\"530\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Lý do</text><text x=\"670\" y=\"835\" width=\"530\" height=\"115\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#241C20\">Freud kể lại trong nguồn đang học.</text><text x=\"1260\" y=\"760\" width=\"530\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#7A2038\">Áp dụng</text><text x=\"1260\" y=\"835\" width=\"530\" height=\"115\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#241C20\">Luôn lập chuỗi nguồn của ca bệnh.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1–S2] · F01 K1</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 29/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">K · KNOWLEDGE CHECK</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Câu 2 · Vì sao không nói “phát hiện vô thức năm 1900”?</text><rectangle  x=\"80\" y=\"310\" width=\"555\" height=\"340\" fill=\"#7A2038\" corner-radius=\"0\"/><text x=\"110\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#FFFFFF\">Vấn đề</text><text x=\"110\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FFFFFF\">Một mốc sách bị biến thành toàn lịch sử.</text><rectangle  x=\"670\" y=\"310\" width=\"555\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"700\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Cách sửa</text><text x=\"700\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Nêu tác phẩm và phiên bản khái niệm.</text><rectangle  x=\"1260\" y=\"310\" width=\"555\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"1290\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Cần nhớ</text><text x=\"1290\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Ảnh hưởng lịch sử khác tính đúng khoa học.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Câu đó gộp lịch sử một khái niệm rộng vào một tác giả và một mốc sách. Tư liệu đặt Freud trong truyền thống nhiều người quan tâm tới đời sống ngoài ý thức; sách về giấc mơ là một bước phát triển cụ thể. Cách viết chính xác hơn là nêu tác phẩm, phiên bản ý tưởng và phạm vi khẳng định. Cũng cần phân biệt năm hoàn thành 1899 và niên đại sách 1900.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1, S6] · F01 K2</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 30/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">K · KNOWLEDGE CHECK</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Câu 3 · Nhẹ nhõm sau trò chuyện chứng minh điều gì?</text><rectangle name=\"obs\" x=\"80\" y=\"375\" width=\"510\" height=\"200\" fill=\"#E5CCD5\" corner-radius=\"16\"/><text x=\"110\" y=\"397\" width=\"450\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"38\" font-weight=\"700\" color=\"#7A2038\">Dữ kiện</text><text x=\"110\" y=\"480\" width=\"450\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Báo cáo nhẹ nhõm.</text><rectangle name=\"alt1\" x=\"900\" y=\"310\" width=\"910\" height=\"155\" fill=\"#E8DED1\" corner-radius=\"16\"/><text x=\"930\" y=\"330\" width=\"850\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Bước suy thêm</text><text x=\"930\" y=\"395\" width=\"850\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Gán một cơ chế cụ thể.</text><connector from=\"@obs:right\" to=\"@alt1:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><rectangle name=\"alt2\" x=\"900\" y=\"505\" width=\"910\" height=\"155\" fill=\"#E8DED1\" corner-radius=\"16\"/><text x=\"930\" y=\"525\" width=\"850\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"35\" font-weight=\"700\" color=\"#7A2038\">Cần dữ liệu</text><text x=\"930\" y=\"590\" width=\"850\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Phân biệt các giải thích cạnh tranh.</text><connector from=\"@obs:right\" to=\"@alt2:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#9B714F\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">“Người ấy báo thấy nhẹ nhõm” là mô tả sát dữ kiện hơn “ký ức dồn nén đã được giải phóng”. Câu thứ hai thêm một cơ chế chưa đo. Muốn xác định cơ chế, cần phân biệt với các khả năng như hỗ trợ xã hội hoặc thay đổi hoàn cảnh. Điều này không phủ nhận lợi ích người ấy trải nghiệm; nó giữ kết luận đúng phạm vi thông tin hiện có.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 K3 · Ví dụ phương pháp</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 31/35</text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">K · KNOWLEDGE CHECK</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Câu 4 · Nếu mọi phản đối đều là resistance?</text><rectangle name=\"hyp\" x=\"80\" y=\"385\" width=\"480\" height=\"175\" fill=\"#523443\" corner-radius=\"14\"/><text x=\"110\" y=\"417\" width=\"420\" height=\"105\" font-family=\"Bricolage Grotesque\" font-size=\"39\" font-weight=\"700\" color=\"#F5F0E6\">Một giả thuyết&#10;có thể sai không?</text><rectangle name=\"q0\" x=\"815\" y=\"290\" width=\"995\" height=\"105\" fill=\"#3A2A34\" corner-radius=\"10\"/><text x=\"845\" y=\"308\" width=\"350\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Sai lầm</text><text x=\"1210\" y=\"305\" width=\"565\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#F5F0E6\">Mọi phản ứng đều xác nhận cùng giả thuyết.</text><rectangle name=\"q1\" x=\"815\" y=\"415\" width=\"995\" height=\"105\" fill=\"#3A2A34\" corner-radius=\"10\"/><text x=\"845\" y=\"433\" width=\"350\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Tiêu chuẩn</text><text x=\"1210\" y=\"430\" width=\"565\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#F5F0E6\">Có dữ liệu khiến giả thuyết phải đổi.</text><rectangle name=\"q2\" x=\"815\" y=\"540\" width=\"995\" height=\"105\" fill=\"#3A2A34\" corner-radius=\"10\"/><text x=\"845\" y=\"558\" width=\"350\" height=\"65\" font-family=\"Bricolage Grotesque\" font-size=\"33\" font-weight=\"700\" color=\"#EAB6C8\">Đạo đức</text><text x=\"1210\" y=\"555\" width=\"565\" height=\"80\" font-family=\"Be Vietnam Pro\" font-size=\"29\" font-weight=\"400\" color=\"#F5F0E6\">Không tước quyền không đồng ý.</text><connector from=\"@hyp:right\" to=\"@q0:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><connector from=\"@hyp:right\" to=\"@q1:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><connector from=\"@hyp:right\" to=\"@q2:left\" routing=\"elbowed\" arrow-end=\"triangle\" stroke=\"#DCAF8A\" stroke-width=\"3\"/><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#F5F0E6\">Giả thuyết có thể trở nên không sửa được: cả đồng ý lẫn phản đối đều được dùng làm bằng chứng ủng hộ. Người nghiên cứu cần chỉ rõ dữ kiện nào sẽ khiến mình đổi cách giải thích. Đồng thời, quyền không đồng ý của người bệnh phải được tôn trọng. Thuật ngữ resistance có vị trí trong mô hình lịch sử, nhưng không thể trở thành cách làm mọi diễn giải của người hỏi tự động đúng.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 K4 · Phản biện phương pháp</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 32/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">K · KNOWLEDGE CHECK</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Câu 5 · Hiệu quả trị liệu xác nhận Oedipus complex?</text><rectangle  x=\"80\" y=\"310\" width=\"555\" height=\"340\" fill=\"#7A2038\" corner-radius=\"0\"/><text x=\"110\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#FFFFFF\">Outcome</text><text x=\"110\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#FFFFFF\">Gói can thiệp có giúp nhóm người này?</text><rectangle  x=\"670\" y=\"310\" width=\"555\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"700\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Mechanism</text><text x=\"700\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Cơ chế cụ thể có thực sự hoạt động?</text><rectangle  x=\"1260\" y=\"310\" width=\"555\" height=\"340\" fill=\"#E8DED1\" corner-radius=\"0\"/><text x=\"1290\" y=\"345\" width=\"495\" height=\"95\" font-family=\"Bricolage Grotesque\" font-size=\"40\" font-weight=\"700\" color=\"#7A2038\">Kết luận</text><text x=\"1290\" y=\"465\" width=\"495\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">Cần phép kiểm phù hợp từng câu hỏi.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Chưa. Kết quả của một gói can thiệp và tính đúng của một cơ chế cụ thể là hai đối tượng kiểm tra khác nhau. Cũng phải đọc thiết kế, mẫu nghiên cứu, đối chứng và độ chắc chắn trước khi nói review thực sự kết luận gì. Trong bài này, S8 chưa đọc được toàn văn; S9 được phân tích ở mức tóm tắt chính thức. Không dùng chúng để tự suy ra xác nhận Oedipus complex.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 K5 · [S8–S9]</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 33/35</text></content>",
+    "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">L · REFERENCES 1/2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Nguồn gốc, lịch sử và cách truy locator</text><text x=\"80\" y=\"315\" width=\"1040\" height=\"560\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#241C20\">Các locator trong bài gốc là tên mục và câu mở đoạn của bản HTML đã đọc, không giả làm số trang bản in. S1: Library of Congress, The Individual: Therapy. S2–S4: Freud (1910), The Origin and Development of Psychoanalysis, Lectures I–III, bản York University. S5: Holocaust Encyclopedia, Sigmund Freud. S6: Harvard CHSI, The Interpretation of Dreams. S7: Fancher, Introduction to Freud (1910). Trạng thái truy cập chi tiết nằm trong research log F01.</text><text x=\"1220\" y=\"315\" width=\"590\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">LOC</text><text x=\"1220\" y=\"390\" width=\"590\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#241C20\">loc.gov/exhibits/freud/freud02.html</text><text x=\"1220\" y=\"495\" width=\"590\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Freud · York</text><text x=\"1220\" y=\"570\" width=\"590\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#241C20\">psychclassics.yorku.ca/Freud/Origin/</text><text x=\"1220\" y=\"675\" width=\"590\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#7A2038\">Bài gốc</text><text x=\"1220\" y=\"750\" width=\"590\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#241C20\">PR #36: mục L và f01-research.md</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · L · Nguồn S1–S7</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Editorial Learning · 34/35</text><text x=\"80\" y=\"940\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"24\" color=\"#7A2038\" format=\"html\"><p><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/sample-and-coordination/psychology-knowledge/01-Sigmund-Freud/lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md\">Đọc bài F01 và truy toàn bộ nguồn, locator, mức truy cập trên GitHub</a></p></text></content>",
+    "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">L · REFERENCES 2/2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Nguồn nghiên cứu, giới hạn và bài tiếp theo</text><text x=\"80\" y=\"315\" width=\"1040\" height=\"560\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#F5F0E6\">S8: Leichsenring và cộng sự (2023), World Psychiatry, DOI 10.1002/wps.21104; bài gốc chỉ kiểm metadata và trích đoạn abstract. S9: Abbass và cộng sự (2014), Cochrane, DOI 10.1002/14651858.CD004687.pub4; đã đọc tóm tắt chính thức, chưa toàn review. Bản slide này bám bài F01 trên PR, không là tổng quan hệ thống mới. Tiếp theo đọc F02 về conscious, preconscious và unconscious để phân biệt các nghĩa của “vô thức”.</text><text x=\"1220\" y=\"315\" width=\"590\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#EAB6C8\">Giới hạn</text><text x=\"1220\" y=\"390\" width=\"590\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Mức đọc nguồn khác nhau; xem ledger.</text><text x=\"1220\" y=\"495\" width=\"590\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#EAB6C8\">Bài tiếp</text><text x=\"1220\" y=\"570\" width=\"590\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">F02: Conscious / Preconscious / Unconscious.</text><text x=\"1220\" y=\"675\" width=\"590\" height=\"55\" font-family=\"Bricolage Grotesque\" font-size=\"36\" font-weight=\"700\" color=\"#EAB6C8\">Cách đọc</text><text x=\"1220\" y=\"750\" width=\"590\" height=\"110\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Giữ câu hỏi, nguồn và kết luận cùng nhau.</text><text x=\"80\" y=\"1010\" width=\"1680\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · L · Nguồn S8–S9</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Editorial Learning · 35/35</text><text x=\"80\" y=\"940\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"24\" color=\"#EAB6C8\" format=\"html\"><p><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/sample-and-coordination/psychology-knowledge/01-Sigmund-Freud/lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md\">Đọc bài F01 và truy toàn bộ nguồn, locator, mức truy cập trên GitHub</a></p></text></content>"
+  ],
+  "replacements": {
+    "0": "<content><background fill=\"#23191F\"/><rectangle x=\"1260\" y=\"0\" width=\"660\" height=\"1080\" fill=\"#7A2038\"/><text x=\"80\" y=\"65\" width=\"1140\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#EAB6C8\">📚 F01 / PSYCHOLOGY KNOWLEDGE</text><text x=\"80\" y=\"230\" width=\"1110\" height=\"300\" font-family=\"Bricolage Grotesque\" font-size=\"100\" font-weight=\"700\" color=\"#F5F0E6\">Freud và sự ra đời&#10;của phân tâm học</text><text x=\"80\" y=\"610\" width=\"1100\" height=\"270\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#D3C3CB\">Một cách lắng nghe người bệnh đã trở thành một học thuyết như thế nào? Bản trình bày này đi theo nội dung bài F01 trên PR: bối cảnh, khái niệm, cơ chế được đề xuất, ba ví dụ, ca Anna O., đánh giá khoa học và ứng dụng. Mỗi sơ đồ đi kèm giải thích; các giả thuyết lịch sử được giữ riêng với kết quả thực nghiệm.</text><image name=\"photo-freud\" x=\"1310\" y=\"90\" width=\"550\" height=\"745\" src=\"file_5FWKYXJ5T5956T7WDB8TNJ5Q7T\" fit=\"contain\"/><text x=\"1315\" y=\"865\" width=\"535\" height=\"115\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#FFFFFF\">Sigmund Freud&#10;Max Halberstadt, khoảng 1921</text><text x=\"1315\" y=\"990\" width=\"535\" height=\"60\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#F5DFE7\">Public domain · Wikimedia Commons</text></content>",
+    "2": "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · HISTORICAL BACKGROUND</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Vấn đề khởi đầu: đau khổ có thật, lời giải chưa đủ</text><image name=\"photo-lecture\" x=\"80\" y=\"300\" width=\"690\" height=\"475\" src=\"file_4JTGNGNH0M9329FSYBMFWWBVH4\" fit=\"contain\"/><text x=\"80\" y=\"795\" width=\"700\" height=\"105\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">André Brouillet, Une leçon clinique à la Salpêtrière (1887). Tranh lịch sử, không phải ảnh ca bệnh.</text><text x=\"880\" y=\"325\" width=\"930\" height=\"550\" font-family=\"Be Vietnam Pro\" font-size=\"35\" font-weight=\"400\" color=\"#241C20\">Freud có nền đào tạo y khoa và thần kinh học. Cuối thế kỷ XIX, ông chuyển dần sang tìm ý nghĩa tâm lý của các hiện tượng không dễ giải thích bằng cách nhìn tổn thương thần kinh lúc đó. Một triệu chứng khó giải thích không làm đau khổ của người bệnh trở nên kém thật. Nhưng việc lắng nghe trải nghiệm và việc xác định cơ chế gây triệu chứng là hai công việc khác nhau.</text><text x=\"80\" y=\"940\" width=\"1715\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">Ảnh tác phẩm: Grook Da Oger / Commons · Public domain (PD-Art). Không dùng để xác nhận cơ chế.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1] LOC, phần mở đầu · [S5] USHMM</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Visual Edition · 03/35</text></content>",
+    "4": "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · TIMELINE 1</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">1880–1895: nguồn gốc của một hướng thực hành</text><image name=\"photo-breuer\" x=\"80\" y=\"305\" width=\"200\" height=\"290\" src=\"file_5H56NPH6BY98N9P9EH5YVDAAT5\" fit=\"contain\"/><text x=\"310\" y=\"345\" width=\"320\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">1880–1882</text><text x=\"310\" y=\"455\" width=\"320\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Breuer điều trị Anna O.</text><image name=\"photo-charcot\" x=\"670\" y=\"305\" width=\"200\" height=\"290\" src=\"file_7N4SWK7FSA83ASD8EZNC8ZHBAG\" fit=\"contain\"/><text x=\"900\" y=\"345\" width=\"320\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">1885–1886</text><text x=\"900\" y=\"455\" width=\"320\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Freud học với Charcot.</text><image name=\"photo-freud\" x=\"1260\" y=\"305\" width=\"200\" height=\"290\" src=\"file_5FWKYXJ5T5956T7WDB8TNJ5Q7T\" fit=\"contain\"/><text x=\"1490\" y=\"345\" width=\"320\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">1895</text><text x=\"1490\" y=\"455\" width=\"320\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Studies on Hysteria ra đời.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Ca Anna O. được Breuer điều trị trong giai đoạn 1880–1882, sau đó trở thành tư liệu quan trọng trong câu chuyện nguồn gốc. Freud học với Charcot ở Paris năm 1885–1886, tiếp xúc nghiên cứu hysteria và thôi miên. Năm 1895, Breuer và Freud xuất bản Studies on Hysteria. Các mốc này cho thấy học thuyết hình thành từ nhiều đóng góp, không phải một phát hiện duy nhất của riêng Freud.</text><text x=\"80\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">Chân dung minh họa nhân vật: NLM/NIH; tác giả không rõ (Breuer); Max Halberstadt (Freud) · Public domain / Commons</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1] LOC · [S2–S3] Freud, Lectures I–II</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Visual Edition · 05/35</text></content>",
+    "5": "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · TIMELINE 2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">1899–1939: sách, truyền bá và bối cảnh lịch sử</text><image name=\"photo-dreams\" x=\"80\" y=\"300\" width=\"255\" height=\"310\" src=\"file_1MCE0GM1T296K8C2V25K9GMSVT\" fit=\"contain\"/><image name=\"photo-clark\" x=\"405\" y=\"300\" width=\"500\" height=\"310\" src=\"file_2D40DN42749NV9C4BYZXPGDAKG\" fit=\"contain\"/><text x=\"80\" y=\"635\" width=\"800\" height=\"75\" font-family=\"Bricolage Grotesque\" font-size=\"29\" font-weight=\"700\" color=\"#7A2038\">📖 1899/1900 · Trang tên Die Traumdeutung</text><text x=\"80\" y=\"725\" width=\"800\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"29\" font-weight=\"700\" color=\"#7A2038\">🏛️ 1909/1910 · Clark: bài giảng và bản xuất bản</text><text x=\"80\" y=\"815\" width=\"800\" height=\"70\" font-family=\"Bricolage Grotesque\" font-size=\"29\" font-weight=\"700\" color=\"#7A2038\">🕰️ 1933–1939 · Bối cảnh lịch sử cuối đời</text><text x=\"1000\" y=\"330\" width=\"810\" height=\"570\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#241C20\">The Interpretation of Dreams hoàn thành năm 1899 nhưng mang niên đại xuất bản 1900; cần phân biệt diễn biến thực tế với niên đại thư mục. Bài giảng Clark diễn ra năm 1909 và được xuất bản tiếng Anh năm 1910. Sách Freud bị Đức Quốc xã đốt năm 1933; nhà ông bị lục soát sau khi Áo bị sáp nhập năm 1938. Freud mất năm 1939. Đây là bản đồ định hướng, không phải toàn bộ tiểu sử.</text><text x=\"80\" y=\"940\" width=\"1730\" height=\"50\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">Hình: Freud, trang tên sách; ảnh Clark University (1909), tác giả không rõ · Public domain theo Commons</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S5–S7] USHMM · Harvard CHSI · Fancher</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Visual Edition · 06/35</text></content>",
+    "6": "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">B · ĐÓNG GÓP VÀ NGUỒN</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Charcot, Breuer, Freud: không gộp ba vai trò</text><image name=\"photo-charcot\" x=\"80\" y=\"300\" width=\"200\" height=\"305\" src=\"file_7N4SWK7FSA83ASD8EZNC8ZHBAG\" fit=\"contain\"/><text x=\"305\" y=\"335\" width=\"320\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Charcot</text><text x=\"305\" y=\"450\" width=\"320\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Bối cảnh nghiên cứu tại Paris.</text><image name=\"photo-breuer\" x=\"670\" y=\"300\" width=\"200\" height=\"305\" src=\"file_5H56NPH6BY98N9P9EH5YVDAAT5\" fit=\"contain\"/><text x=\"895\" y=\"335\" width=\"320\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Breuer</text><text x=\"895\" y=\"450\" width=\"320\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Điều trị Anna O.; công trình chung.</text><image name=\"photo-freud\" x=\"1260\" y=\"300\" width=\"200\" height=\"305\" src=\"file_5FWKYXJ5T5956T7WDB8TNJ5Q7T\" fit=\"contain\"/><text x=\"1485\" y=\"335\" width=\"320\" height=\"90\" font-family=\"Bricolage Grotesque\" font-size=\"43\" font-weight=\"700\" color=\"#7A2038\">Freud</text><text x=\"1485\" y=\"450\" width=\"320\" height=\"145\" font-family=\"Be Vietnam Pro\" font-size=\"31\" font-weight=\"400\" color=\"#241C20\">Khái niệm và kỹ thuật tiếp theo.</text><text x=\"90\" y=\"735\" width=\"1720\" height=\"205\" font-family=\"Be Vietnam Pro\" font-size=\"32\" font-weight=\"400\" color=\"#241C20\">Charcot tạo một bối cảnh nghiên cứu hysteria và thôi miên mà Freud tiếp xúc. Breuer đem lại kinh nghiệm điều trị quan trọng và đồng tác giả công trình năm 1895. Freud phát triển hệ thống khái niệm và kỹ thuật tiếp theo. Còn người bệnh, người phiên dịch, người biên tập và tổ chức truyền bá cũng thuộc lịch sử này. Nguồn do tác giả kể lại cần được đối chiếu vì nó đã lựa chọn sự kiện và cách tổ chức câu chuyện.</text><text x=\"80\" y=\"955\" width=\"1730\" height=\"43\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">Hình: NLM/NIH (Charcot); tác giả không rõ (Breuer, 1897); Max Halberstadt (Freud, khoảng 1921) · Public domain / Commons</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">[S1–S3] LOC · Freud (1910)</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Visual Edition · 07/35</text></content>",
+    "17": "<content><background fill=\"#23191F\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#EAB6C8\">F · CASE STUDY 1/3</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#F5F0E6\">Anna O.: ai điều trị, ai kể lại?</text><rectangle x=\"0\" y=\"285\" width=\"580\" height=\"675\" fill=\"#7A2038\"/><image name=\"photo-anna\" x=\"60\" y=\"325\" width=\"460\" height=\"405\" src=\"file_2HXK3XQT5S9HQB6FPMWE38811B\" fit=\"contain\"/><text x=\"60\" y=\"755\" width=\"460\" height=\"105\" font-family=\"Bricolage Grotesque\" font-size=\"29\" font-weight=\"700\" color=\"#FFFFFF\">Bertha Pappenheim&#10;Chân dung công bố năm 1909</text><text x=\"60\" y=\"875\" width=\"460\" height=\"65\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#F5DFE7\">Public domain · Commons</text><text x=\"660\" y=\"320\" width=\"1150\" height=\"330\" font-family=\"Be Vietnam Pro\" font-size=\"34\" font-weight=\"400\" color=\"#F5F0E6\">Anna O. là tên ca bệnh của Bertha Pappenheim, người do Breuer điều trị. Lecture I là Freud kể lại việc điều trị ấy, không phải báo cáo Freud trực tiếp điều trị ca này. Dữ liệu đến với ta qua câu chuyện đã được tác giả lựa chọn và tổ chức. Vì vậy, trước khi đánh giá ca, cần xác định khoảng cách từ người trải nghiệm đến người quan sát, người kể và người đọc ngày nay.</text><text x=\"660\" y=\"690\" width=\"330\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#EAB6C8\">Pappenheim</text><text x=\"1030\" y=\"690\" width=\"780\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Người trải nghiệm đau khổ.</text><text x=\"660\" y=\"770\" width=\"330\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#EAB6C8\">Breuer</text><text x=\"1030\" y=\"770\" width=\"780\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Người trực tiếp điều trị.</text><text x=\"660\" y=\"850\" width=\"330\" height=\"60\" font-family=\"Bricolage Grotesque\" font-size=\"30\" font-weight=\"700\" color=\"#EAB6C8\">Freud → người đọc</text><text x=\"1030\" y=\"850\" width=\"780\" height=\"70\" font-family=\"Be Vietnam Pro\" font-size=\"28\" font-weight=\"400\" color=\"#F5F0E6\">Kể lại → diễn giải tư liệu.</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">[S1] LOC, Anna O. · [S2] Freud, Lecture I</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#D3C3CB\">F01 · Visual Edition · 18/35</text></content>",
+    "33": "<content><background fill=\"#F5F0E6\"/><text x=\"80\" y=\"50\" width=\"1730\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"26\" font-weight=\"400\" color=\"#7A2038\">L · REFERENCES 1/2</text><text x=\"80\" y=\"120\" width=\"1760\" height=\"150\" font-family=\"Bricolage Grotesque\" font-size=\"60\" font-weight=\"700\" color=\"#241C20\">Nguồn gốc, lịch sử và cách truy locator</text><text x=\"80\" y=\"315\" width=\"1040\" height=\"560\" font-family=\"Be Vietnam Pro\" font-size=\"33\" font-weight=\"400\" color=\"#241C20\">Các locator trong bài gốc là tên mục và câu mở đoạn của bản HTML đã đọc, không giả làm số trang bản in. S1: Library of Congress, The Individual: Therapy. S2–S4: Freud (1910), The Origin and Development of Psychoanalysis, Lectures I–III, bản York University. S5: Holocaust Encyclopedia, Sigmund Freud. S6: Harvard CHSI, The Interpretation of Dreams. S7: Fancher, Introduction to Freud (1910). Trạng thái truy cập chi tiết nằm trong research log F01.</text><image name=\"photo-dreams\" x=\"1210\" y=\"300\" width=\"270\" height=\"355\" src=\"file_1MCE0GM1T296K8C2V25K9GMSVT\" fit=\"contain\"/><image name=\"photo-clark\" x=\"1510\" y=\"300\" width=\"320\" height=\"355\" src=\"file_2D40DN42749NV9C4BYZXPGDAKG\" fit=\"contain\"/><text x=\"1210\" y=\"700\" width=\"615\" height=\"160\" font-family=\"Bricolage Grotesque\" font-size=\"32\" font-weight=\"700\" color=\"#7A2038\">Từ văn bản đến tư liệu lịch sử:&#10;đọc đúng nguồn, đúng bối cảnh,&#10;đúng giới hạn.</text><text x=\"1210\" y=\"890\" width=\"610\" height=\"90\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">Hình: trang tên sách và ảnh Clark 1909 · Commons, Public domain</text><text x=\"80\" y=\"1010\" width=\"1700\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · L · Nguồn S1–S7</text><text x=\"80\" y=\"1050\" width=\"1650\" height=\"30\" font-family=\"Be Vietnam Pro\" font-size=\"22\" font-weight=\"400\" color=\"#635B56\">F01 · Visual Edition · 34/35</text><text x=\"80\" y=\"940\" width=\"1100\" height=\"45\" font-family=\"Be Vietnam Pro\" font-size=\"24\" color=\"#7A2038\" format=\"html\"><a href=\"https://github.com/vohoailinh90/Multiple-report/blob/psychology/sample-and-coordination/psychology-knowledge/01-Sigmund-Freud/lessons/01-cuoc-doi-va-lich-su-phan-tam-hoc.md\">Đọc bài F01 và truy nguồn đầy đủ trên GitHub</a></text></content>"
+  },
+  "assets": [
+    {
+      "key": "freud",
+      "filename": "freud-halberstadt-1921.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sigmund_Freud%2C_by_Max_Halberstadt.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt.jpg",
+      "credit": "Max Halberstadt, khoảng 1921 · Public domain · Wikimedia Commons",
+      "file_id": "file_5FWKYXJ5T5956T7WDB8TNJ5Q7T"
+    },
+    {
+      "key": "charcot",
+      "filename": "charcot-nlm.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jean-Martin_Charcot.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Martin_Charcot.jpg",
+      "credit": "NLM/NIH, nhiếp ảnh gia không rõ · Public domain · Wikimedia Commons",
+      "file_id": "file_7N4SWK7FSA83ASD8EZNC8ZHBAG"
+    },
+    {
+      "key": "breuer",
+      "filename": "breuer-1897.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Josef_Breuer%2C_1897.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Josef_Breuer,_1897.jpg",
+      "credit": "Tác giả không rõ, 1897 · Public domain theo Commons; bản nhỏ 287×397",
+      "file_id": "file_5H56NPH6BY98N9P9EH5YVDAAT5"
+    },
+    {
+      "key": "anna",
+      "filename": "bertha-pappenheim-1909.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bertha_Pappenheim_%28Who%27s_who_at_the_3d_Intl_Congress_of_Women%2C_1909%29.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Bertha_Pappenheim_(Who's_who_at_the_3d_Intl_Congress_of_Women,_1909).png",
+      "credit": "Who's who… International Congress of Women (1909), tác giả ảnh không rõ · Public domain · Commons",
+      "file_id": "file_2HXK3XQT5S9HQB6FPMWE38811B"
+    },
+    {
+      "key": "dreams",
+      "filename": "die-traumdeutung-title.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Die_Traumdeutung.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Die_Traumdeutung.jpg",
+      "credit": "Sigmund Freud, trang tên Die Traumdeutung · Public domain theo Commons; bản quét không rõ nguồn",
+      "file_id": "file_1MCE0GM1T296K8C2V25K9GMSVT"
+    },
+    {
+      "key": "lecture",
+      "filename": "brouillet-salpetriere-1887.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Une_le%C3%A7on_clinique_%C3%A0_la_Salp%C3%AAtri%C3%A8re_02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Une_leçon_clinique_à_la_Salpêtrière_02.jpg",
+      "credit": "André Brouillet, 1887; ảnh Grook Da Oger · PD-Art / Public domain · Commons",
+      "file_id": "file_4JTGNGNH0M9329FSYBMFWWBVH4"
+    },
+    {
+      "key": "clark",
+      "filename": "freud-clark-1909.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Freud_at_Clark_University_in_1909.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Freud_at_Clark_University_in_1909.jpg",
+      "credit": "Clark University, 1909 · Tác giả ảnh không rõ · Public domain (US) · Commons",
+      "file_id": "file_2D40DN42749NV9C4BYZXPGDAKG"
+    }
+  ],
+  "icons": [
+    {
+      "page": "p_b",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_4SMGS8AGCK87ZA0NV9R006HCTQ\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_h",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_k",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1881SV0MYX8JESXSGWTS5WK868\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_o",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_3CBM9EFFMM9S3RTFXGKGF8R551\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_r",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_4SMGS8AGCK87ZA0NV9R006HCTQ\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_u",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_v",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_y",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_4SMGS8AGCK87ZA0NV9R006HCTQ\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_aa",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_4SMGS8AGCK87ZA0NV9R006HCTQ\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_ac",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_0JWW76B1Z09EJVST4KKNV3GPZH\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_ah",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1TVBZCK3T69D1TFS0K248B2A2K\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    },
+    {
+      "page": "p_ai",
+      "markup": "<content><image x=\"1740\" y=\"46\" width=\"56\" height=\"56\" src=\"file_1TVBZCK3T69D1TFS0K248B2A2K\" fit=\"contain\"/></content>",
+      "committed": true,
+      "warnings": []
+    }
+  ],
+  "icon_tint": "#B56D84",
+  "emoji_headers": {
+    "A": "🎯",
+    "B": "🕰️",
+    "C": "🧠",
+    "D": "⚙️",
+    "E": "💬",
+    "F": "📋",
+    "G": "🔬",
+    "H": "🧭",
+    "I": "🗺️",
+    "J": "💡",
+    "K": "❓",
+    "L": "📚"
+  },
+  "verification": {
+    "photo_pages_screenshot_reviewed": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      18,
+      34
+    ],
+    "icon_pages_screenshot_reviewed": [
+      8,
+      15,
+      18
+    ],
+    "approved_body_text_preserved": true,
+    "limitations": [
+      "Emoji appearance depends on export font rendering.",
+      "Commons licensing recorded from source pages; no claim of universal jurisdiction clearance.",
+      "Book scan provenance unspecified on Commons."
+    ]
+  },
+  "exports": {
+    "pdf": {
+      "operation": "export.status",
+      "status": "complete",
+      "committed": true,
+      "task_id": "f362492c-03e9-4b7b-b945-c2376b63a7dc",
+      "url": "https://assets-cdn.moda.app/mcp-exports/53a95d71-d2f0-4013-ad6c-7d526ff19027/vcrdt-9402ea7fa96cfedeb6b00e01c3159bbb/pdf-r3-f0-w1-all.pdf?Expires=1824345876&KeyName=mpwa&Signature=aIGNLcxFDoHXxgnp9_XoBaiBUE0",
+      "format": "pdf",
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "warnings": [
+        {
+          "code": "pdf_page_rasterized",
+          "message": "1 page(s) shipped as pixels rather than a text layer (). Everything on them is visible and their hyperlinks still work, but their text is not selectable or searchable."
+        }
+      ]
+    },
+    "pptx": {
+      "operation": "export",
+      "status": "complete",
+      "committed": true,
+      "url": "https://assets-cdn.moda.app/mcp-exports/53a95d71-d2f0-4013-ad6c-7d526ff19027/vcrdt-9e8af293ac2d4158ce26d9a9ed58fa79/pptx-r2-f0-w1-all.pptx?Expires=1824345846&KeyName=mpwa&Signature=lBEL4a7lWWJfCIbddQ_Ysq-aEVg",
+      "format": "pptx",
+      "warnings": [],
+      "usage": {
+        "class": "deterministic",
+        "metered_credits": 0
+      },
+      "editor_url": "https://moda.app/canvas/53a95d71-d2f0-4013-ad6c-7d526ff19027?source=agent",
+      "suggested_actions": [
+        "Give the user the download link — it is short-lived; re-export if it expires.",
+        "To show the design inline in the conversation, use canvas_screenshot — the download link is the deliverable, not a preview."
+      ]
+    }
+  },
+  "review": {
+    "reviewer": "sample_review",
+    "result": "No serious findings",
+    "body_preservation": "35 of 35 unchanged versus v3; seven photo page replacement markup bodies preserved.",
+    "limitations": [
+      "Reviewer did not independently verify Commons licenses.",
+      "Reviewer did not inspect rendered exports; main agent inspected photo pages and representative icon pages."
+    ]
+  }
+}

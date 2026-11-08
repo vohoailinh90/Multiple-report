@@ -29,3 +29,7 @@ Sau duyệt Phase 1 mới nghiên cứu/viết batch Freud F01–F03. Mỗi PR g
 - Nguồn nền có trạng thái truy cập trung thực; chưa coi metadata là đọc toàn văn.
 - Reviewer độc lập kiểm kiến trúc và phản hồi findings; kiểm repo bình thường vẫn chạy.
 - PR để mở cho người dùng, chưa bắt đầu Phase 2.
+
+## Yêu cầu tiếp theo sau PR kiến trúc
+
+Người dùng đã yêu cầu ghi toàn bộ chương trình, một bài mẫu rồi ba phiên Codex đồng thời. Đang thực hiện theo [PROGRAM](PROGRAM.md) và [COORDINATION](COORDINATION.md), thay điểm chờ Phase 2 trong phạm vi batch mẫu/ba bản nháp này. PR #35 vẫn chưa merge; không suy yêu cầu mới thành quyền tự merge hoặc duyệt chất lượng mẫu.

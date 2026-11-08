@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-08
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # J05 — Collective Unconscious: vô thức tập thể, giả thuyết và giới hạn
 
@@ -143,7 +143,7 @@ Dưới đây là chuỗi *lập luận* của Jung trong văn bản, không ph�
 
 ## I. Visual Explanation — Từ "không có nền cá nhân" đến hai giải thích
 
-**Trạng thái: not-started.** Chưa dựng canvas Moda. Brief để dựng deck sau khi bài được duyệt: [kịch bản slide](../moda/j05-slides.json).
+**Trạng thái: exported.** Đã dựng [canvas Moda 30 trang](https://moda.app/canvas/1819ab5b-56b7-450f-abcc-5337b65181e5?source=agent) và lưu bản [PowerPoint](../visuals/j05.pptx) (chữ sửa được). [Kịch bản slide](../moda/j05-slides.json) · [Metadata và giới hạn](../moda/j05-report-v1.json).
 
 **Brief cho hình chính:** từ trái sang phải. Ô "Mô-típ giống nhau ở nhiều nơi (quan sát)" đi vào hai nhánh nét đứt gắn nhãn "giả thuyết": nhánh trên "Tiềm năng thừa kế hình dung (Jung, tr. 410)", nhánh dưới "Truyền văn hóa, hoàn cảnh chung, thiên lệch nhận thức". Bên dưới, một dải ghi: "Chưa phân biệt được bằng quan sát duy nhất".
 

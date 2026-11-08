@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-08
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # F06 — Dồn nén (repression) và ký ức
 
@@ -155,7 +155,7 @@ Sơ đồ so sánh bốn trường hợp thường bị gộp lại (xem mục I
 
 ## I. Visual Explanation — Bốn thứ hay bị gộp thành "dồn nén"
 
-**Trạng thái: not-started.** Chưa dựng canvas Moda. Brief để dựng deck sau khi bài được duyệt: [kịch bản slide](../moda/f06-slides.json).
+**Trạng thái: exported.** Đã dựng [canvas Moda 30 trang](https://moda.app/canvas/46859ee1-667e-4370-868b-ddce58560d7d?source=agent) và lưu bản [PowerPoint](../visuals/f06.pptx) (chữ sửa được). [Kịch bản slide](../moda/f06-slides.json) · [Metadata và giới hạn](../moda/f06-report-v1.json).
 
 **Brief cho hình chính:** bảng bốn cột (dồn nén theo Freud, suppression, quên thông thường, dựng lại/gợi ý) với ba hàng: "Ai làm, có biết không", "Ký ức còn ở đâu", "Đo được ở đâu". Dòng chú thích dưới đáy: "Khoảng trống ký ức ≠ sang chấn bị dồn nén".
 

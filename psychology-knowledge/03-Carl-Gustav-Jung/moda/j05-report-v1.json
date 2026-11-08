@@ -1,0 +1,43 @@
+{
+ "lesson_id": "J05",
+ "version": 1,
+ "produced_at": "2026-11-08",
+ "producer": "phiên Claude chính",
+ "deck_status": "exported-native-pptx",
+ "academic_review_status": "pending",
+ "visual_status": "exported",
+ "canvas_ref": "cvs_0R36NNPNNQ8M7TQK2K6YV530F5",
+ "canvas_url": "https://moda.app/canvas/1819ab5b-56b7-450f-abcc-5337b65181e5?source=agent",
+ "page_count": 30,
+ "source_script": "j05-slides.json",
+ "source_lesson": "../lessons/05-collective-unconscious.md",
+ "brand_kit_id": null,
+ "design_system": {
+  "page_size": [
+   1920,
+   1080
+  ],
+  "fonts": {
+   "heading": "Bricolage Grotesque",
+   "body": "Be Vietnam Pro"
+  },
+  "accent": "indigo #493C89"
+ },
+ "construction": "canvas_create (không brand kit) rồi canvas_edit dựng từng trang bằng chương trình; trang 2 là mục lục, mỗi trang có nhãn chương",
+ "exports": {
+  "pptx": {
+   "path": "../visuals/j05.pptx",
+   "format": "pptx",
+   "page_count": 30,
+   "sha256": "6ea24c36624831c30ad1bad708172090c295792a45b3a8460a6620414d68cdca",
+   "size_bytes": 193845,
+   "hyperlinks_on_sources_slide": 6
+  }
+ },
+ "limits": [
+  "Chưa xem từng trang một: đã chụp một số trang mỗi deck, không phát hiện lỗi nghiêm trọng",
+  "Slide dựng từ kịch bản rút gọn, câu chữ đơn giản hóa; chưa phản biện học thuật",
+  "Sơ đồ là thẻ, không có mũi tên nối",
+  "Không có ảnh tư liệu"
+ ]
+}

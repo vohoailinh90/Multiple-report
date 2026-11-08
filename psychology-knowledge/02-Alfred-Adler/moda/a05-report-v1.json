@@ -1,0 +1,43 @@
+{
+ "lesson_id": "A05",
+ "version": 1,
+ "produced_at": "2026-11-08",
+ "producer": "phiên Claude chính",
+ "deck_status": "exported-native-pptx",
+ "academic_review_status": "pending",
+ "visual_status": "exported",
+ "canvas_ref": "cvs_2PXXHQXJNQ88MTHVZK0CRS52WN",
+ "canvas_url": "https://moda.app/canvas/56ef637e-cab7-4229-a8ef-f30331928b95?source=agent",
+ "page_count": 29,
+ "source_script": "a05-slides.json",
+ "source_lesson": "../lessons/05-striving-for-superiority.md",
+ "brand_kit_id": null,
+ "design_system": {
+  "page_size": [
+   1920,
+   1080
+  ],
+  "fonts": {
+   "heading": "Bricolage Grotesque",
+   "body": "Be Vietnam Pro"
+  },
+  "accent": "teal #126B60"
+ },
+ "construction": "canvas_create (không brand kit) rồi canvas_edit dựng từng trang bằng chương trình; trang 2 là mục lục, mỗi trang có nhãn chương",
+ "exports": {
+  "pptx": {
+   "path": "../visuals/a05.pptx",
+   "format": "pptx",
+   "page_count": 29,
+   "sha256": "9fbcb843eca9518e6060ce588ad56dfd602f71f387f666612a6d596e422391f2",
+   "size_bytes": 190050,
+   "hyperlinks_on_sources_slide": 5
+  }
+ },
+ "limits": [
+  "Chưa xem từng trang một: đã chụp một số trang mỗi deck, không phát hiện lỗi nghiêm trọng",
+  "Slide dựng từ kịch bản rút gọn, câu chữ đơn giản hóa; chưa phản biện học thuật",
+  "Sơ đồ là thẻ, không có mũi tên nối",
+  "Không có ảnh tư liệu"
+ ]
+}

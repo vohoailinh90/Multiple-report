@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-08
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # A05 — Striving for Superiority: nỗ lực vươn lên
 
@@ -146,7 +146,7 @@ Hai hướng của mục tiêu (bước 4) có thể tóm gọn trong bảng h�
 
 ## I. Visual Explanation — Hai hướng của một nỗ lực
 
-**Trạng thái: not-started.** Chưa dựng canvas Moda. Brief để dựng deck sau khi bài được duyệt: [kịch bản slide](../moda/a05-slides.json).
+**Trạng thái: exported.** Đã dựng [canvas Moda 29 trang](https://moda.app/canvas/56ef637e-cab7-4229-a8ef-f30331928b95?source=agent) và lưu bản [PowerPoint](../visuals/a05.pptx) (chữ sửa được). [Kịch bản slide](../moda/a05-slides.json) · [Metadata và giới hạn](../moda/a05-report-v1.json).
 
 **Brief cho hình chính:** từ trái sang phải. Ô "Cảm giác thiếu hụt (điểm xuất phát)" đi vào ô "Mục tiêu hướng tới vị trí tốt hơn (hư cấu định hướng)". Từ đó chia hai nhánh nét đứt gắn nhãn "giả thuyết": nhánh trên "Hướng năng lực và đóng góp (tình cảm xã hội cao)", nhánh dưới "Hướng thống trị, giữ khoảng cách (tình cảm xã hội thấp)". Một dải dưới đáy: "Hai hành vi giống nhau có thể do hai mục tiêu khác nhau (S1, tr. 82)".
 

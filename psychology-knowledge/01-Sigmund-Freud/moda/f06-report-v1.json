@@ -1,0 +1,43 @@
+{
+ "lesson_id": "F06",
+ "version": 1,
+ "produced_at": "2026-11-08",
+ "producer": "phiên Claude chính",
+ "deck_status": "exported-native-pptx",
+ "academic_review_status": "pending",
+ "visual_status": "exported",
+ "canvas_ref": "cvs_26GPFE2SKY8DR8D2YXSSC5C3BX",
+ "canvas_url": "https://moda.app/canvas/46859ee1-667e-4370-868b-ddce58560d7d?source=agent",
+ "page_count": 30,
+ "source_script": "f06-slides.json",
+ "source_lesson": "../lessons/06-repression-va-ky-uc.md",
+ "brand_kit_id": null,
+ "design_system": {
+  "page_size": [
+   1920,
+   1080
+  ],
+  "fonts": {
+   "heading": "Bricolage Grotesque",
+   "body": "Be Vietnam Pro"
+  },
+  "accent": "burgundy #7A2038"
+ },
+ "construction": "canvas_create (không brand kit) rồi canvas_edit dựng từng trang bằng chương trình; trang 2 là mục lục, mỗi trang có nhãn chương",
+ "exports": {
+  "pptx": {
+   "path": "../visuals/f06.pptx",
+   "format": "pptx",
+   "page_count": 30,
+   "sha256": "b63b116a3653b9a116a6675727752a6d9b07118106a7f6101ff60c229cf627db",
+   "size_bytes": 194422,
+   "hyperlinks_on_sources_slide": 10
+  }
+ },
+ "limits": [
+  "Chưa xem từng trang một: đã chụp một số trang mỗi deck, không phát hiện lỗi nghiêm trọng",
+  "Slide dựng từ kịch bản rút gọn, câu chữ đơn giản hóa; chưa phản biện học thuật",
+  "Sơ đồ là thẻ, không có mũi tên nối",
+  "Không có ảnh tư liệu"
+ ]
+}

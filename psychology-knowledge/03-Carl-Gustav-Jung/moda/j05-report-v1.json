@@ -29,8 +29,8 @@
    "path": "../visuals/j05.pptx",
    "format": "pptx",
    "page_count": 30,
-   "sha256": "e41ca5cd647d13060a0794931f5007ea10e6b10847af2c65afebe1ac0380e908",
-   "size_bytes": 193905,
+   "sha256": "90cdbefca59567b08d633347516545df47319aa74f60e917a7160d0f85c08b4e",
+   "size_bytes": 193624,
    "hyperlinks_on_sources_slide": 6
   }
  },
@@ -38,6 +38,7 @@
   "Chưa xem từng trang một: đã chụp một số trang mỗi deck, không phát hiện lỗi nghiêm trọng",
   "Slide dựng từ kịch bản rút gọn, câu chữ đơn giản hóa; chưa phản biện học thuật",
   "Sơ đồ là thẻ, không có mũi tên nối",
-  "Không có ảnh tư liệu"
+  "Không có ảnh tư liệu",
+  "Đã bỏ emoji khỏi nhãn chương: PowerPoint trên Windows đổi cả dòng chứa emoji sang font không có chữ tiếng Việt nên chữ bị lỗi. Chữ thân dùng font mặc định của PowerPoint (sans-serif), tiêu đề dùng Bricolage Grotesque ExtraBold (máy chưa cài font này sẽ thấy font thay thế)."
  ]
 }

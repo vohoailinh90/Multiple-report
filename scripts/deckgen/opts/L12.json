@@ -11,16 +11,16 @@
  "big": {},
  "actors": {},
  "mark": {
-  "1": "đo được gì, và chưa đo được gì",
-  "17": "đang có tranh luận công khai",
-  "21": "nhạy cảm quá mức với phần thưởng",
-  "38": "chưa đủ để kết luận cơ chế",
-  "41": "nguyên nhân, hậu quả hay chỉ đi kèm",
-  "43": "không phải lời khuyên y tế hay tâm lý"
+  "2": "đo được gì, và chưa đo được gì",
+  "18": "đang có tranh luận công khai",
+  "22": "nhạy cảm quá mức với phần thưởng",
+  "39": "chưa đủ để kết luận cơ chế",
+  "42": "nguyên nhân, hậu quả hay chỉ đi kèm",
+  "44": "không phải lời khuyên y tế hay tâm lý"
  },
  "center": {
-  "10": "Vỏ trước trán giữa",
-  "30": "Mạch PTSD"
+  "11": "Vỏ trước trán giữa",
+  "31": "Mạch PTSD"
  },
  "concepts": [
   "hạnh nhân",

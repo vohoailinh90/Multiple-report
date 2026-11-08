@@ -3,6 +3,23 @@
   "subtitle": "Chín vùng nhiệt độ, từ -5°C đến trên 450°C: trạng thái, chất, phản ứng và ý nghĩa với DNOx",
   "slides": [
     {
+      "title": "Mục lục",
+      "bullets": [
+        "Tóm tắt, bản đồ và nền tảng: tóm tắt điều hành, bản đồ nhiệt độ từ -5°C đến 450°C, AdBlue và các chất",
+        "Vùng A đến C, dưới 70°C: đóng băng và rã đông, bảo quản, nóng nhẹ",
+        "Vùng D đến F, 70°C đến 250°C: nước bay hơi và urea nóng chảy, urea bắt đầu phân hủy, chuyển hóa mạnh",
+        "Vùng G đến I, trên 250°C: cặn bền, cặn phân hủy chậm, trên 450°C",
+        "Giọt phun, so sánh và ứng dụng: giọt phun, bám tường và Leidenfrost; so sánh các nguồn; ứng dụng cho DNOx",
+        "Hạn chế, ghi nhớ và thuật ngữ: điểm chưa chắc chắn, điều cần nhớ, lưu ý, thuật ngữ Việt-Anh-Nhật"
+      ],
+      "notes": "Trang này là bản đồ của cả bài, để bạn biết trước các chương lớn trước khi đi vào chi tiết. Bài chia thành 6 chương. Chương 1, Tóm tắt, bản đồ và nền tảng: tóm tắt điều hành, bản đồ nhiệt độ từ -5°C đến 450°C, AdBlue và các chất. Chương 2, Vùng A đến C, dưới 70°C: đóng băng và rã đông, bảo quản, nóng nhẹ. Chương 3, Vùng D đến F, 70°C đến 250°C: nước bay hơi và urea nóng chảy, urea bắt đầu phân hủy, chuyển hóa mạnh. Chương 4, Vùng G đến I, trên 250°C: cặn bền, cặn phân hủy chậm, trên 450°C. Chương 5, Giọt phun, so sánh và ứng dụng: giọt phun, bám tường và Leidenfrost; so sánh các nguồn; ứng dụng cho DNOx. Chương 6, Hạn chế, ghi nhớ và thuật ngữ: điểm chưa chắc chắn, điều cần nhớ, lưu ý, thuật ngữ Việt-Anh-Nhật. Mỗi trang sau có nhãn chương ở đầu trang, cùng màu với số chương ở đây. Muốn tìm lại một ý, nhìn nhãn chương rồi lần theo mục lục này.",
+      "section": "Tóm tắt điều hành",
+      "sources": [],
+      "layout": "contents",
+      "tone": "light",
+      "chapter": "Mục lục"
+    },
+    {
       "title": "Bảy ý chính: bốn ý đầu",
       "section": "Tóm tắt điều hành",
       "sources": [
@@ -20,7 +37,8 @@
         "Khi nóng: nước bay 20–100°C, urea nóng chảy 132–133°C, phân hủy 120–230°C [S3][S11]",
         "Trên ~133°C: urea thành NH3 + HNCO và biuret; 190–360°C thành cyanuric acid, ammelide [S3][S4]"
       ],
-      "notes": "Bốn ý đầu đi theo trục nhiệt độ từ lạnh đến nóng. Một: AdBlue là hỗn hợp eutectic, nên có một điểm kết tinh khá rõ quanh âm mười một độ rưỡi, và đá chiếm thể tích hơn lỏng khoảng bảy phần trăm. Hai: bảo quản có hai giới hạn, trên hai mươi lăm độ và dưới âm năm độ. Ba: khi nóng, nước bay trước rồi urea nóng chảy và phân hủy; các con số lấy từ phân tích nhiệt và nghiên cứu trong bài. Bốn: từ khoảng một trăm ba mươi ba độ urea tách NH3 và HNCO, đồng thời sinh biuret, sau đó thành cyanuric acid và ammelide. Mỗi ý có nhãn nguồn trong bài học."
+      "notes": "Bốn ý đầu đi theo trục nhiệt độ từ lạnh đến nóng. Một: AdBlue là hỗn hợp eutectic, nên có một điểm kết tinh khá rõ quanh âm mười một độ rưỡi, và đá chiếm thể tích hơn lỏng khoảng bảy phần trăm. Hai: bảo quản có hai giới hạn, trên hai mươi lăm độ và dưới âm năm độ. Ba: khi nóng, nước bay trước rồi urea nóng chảy và phân hủy; các con số lấy từ phân tích nhiệt và nghiên cứu trong bài. Bốn: từ khoảng một trăm ba mươi ba độ urea tách NH3 và HNCO, đồng thời sinh biuret, sau đó thành cyanuric acid và ammelide. Mỗi ý có nhãn nguồn trong bài học.",
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Ba ý còn lại: cặn, DNOx, hạn chế",
@@ -38,7 +56,8 @@
         "DNOx: ngưỡng cắt phun 200–250°C, hệ tốt từ ~180°C; giọt nhỏ, mixer, sưởi, xả [S13]",
         "Hạn chế: một số mốc chưa có nguồn đọc được (Leidenfrost, NH3 trên 450°C, rã đông)"
       ],
-      "notes": "Ba ý còn lại nối hóa học với việc thiết kế hệ thống. Cặn không hình thành trong dòng khí mà trên thành, khi giọt tạo thành màng lỏng. Nghiên cứu quang học cho thấy cặn có thể hình thành tới nhiệt độ Leidenfrost. Biểu đồ cho thấy trên bốn trăm độ gần như hết cặn, nhưng báo cáo FVV tìm thấy phần dư chịu nhiệt tới bảy trăm độ, nên đừng coi bốn trăm độ là xóa cặn. Với DNOx, ngưỡng cắt phun thường hai trăm đến hai trăm năm mươi độ, hệ thiết kế tốt có thể phun từ khoảng một trăm tám mươi độ. Cuối cùng là hạn chế: bài ghi rõ chỗ nào chưa xác nhận được."
+      "notes": "Ba ý còn lại nối hóa học với việc thiết kế hệ thống. Cặn không hình thành trong dòng khí mà trên thành, khi giọt tạo thành màng lỏng. Nghiên cứu quang học cho thấy cặn có thể hình thành tới nhiệt độ Leidenfrost. Biểu đồ cho thấy trên bốn trăm độ gần như hết cặn, nhưng báo cáo FVV tìm thấy phần dư chịu nhiệt tới bảy trăm độ, nên đừng coi bốn trăm độ là xóa cặn. Với DNOx, ngưỡng cắt phun thường hai trăm đến hai trăm năm mươi độ, hệ thiết kế tốt có thể phun từ khoảng một trăm tám mươi độ. Cuối cùng là hạn chế: bài ghi rõ chỗ nào chưa xác nhận được.",
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Bản đồ chín vùng từ -5°C đến trên 450°C",
@@ -65,7 +84,8 @@
           "credit": "Tự vẽ từ các nguồn của bài [S3][S4][S5][S6][S11]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Chín vùng trong một bảng",
@@ -86,7 +106,8 @@
         "E–F (130 đến 250°C): Urea phân hủy, biuret rồi cặn [S3]",
         "G–I (trên 250°C): Cặn bền rồi phân hủy chậm [S4]"
       ],
-      "notes": "Bảng này gom chín vùng thành sáu hàng để dễ nhớ. Hai cột cho thấy trạng thái và ý nghĩa với DNOx. Vùng A hại vì đóng băng và giãn nở, vùng B là vùng bình yên, vùng C hại nhẹ vì thủy phân chậm làm hạn dùng ngắn đi. Vùng D bắt đầu thành vấn đề nếu nước bay hơi trên thành ống và urea kết tinh. Vùng E và F là nơi hóa học diễn ra mạnh. Vùng G đến I là nơi cặn bền nhất nằm và rồi dần biến mất. Hãy nhớ đây là cách chia của bài, không phải chuẩn của nhà sản xuất."
+      "notes": "Bảng này gom chín vùng thành sáu hàng để dễ nhớ. Hai cột cho thấy trạng thái và ý nghĩa với DNOx. Vùng A hại vì đóng băng và giãn nở, vùng B là vùng bình yên, vùng C hại nhẹ vì thủy phân chậm làm hạn dùng ngắn đi. Vùng D bắt đầu thành vấn đề nếu nước bay hơi trên thành ống và urea kết tinh. Vùng E và F là nơi hóa học diễn ra mạnh. Vùng G đến I là nơi cặn bền nhất nằm và rồi dần biến mất. Hãy nhớ đây là cách chia của bài, không phải chuẩn của nhà sản xuất.",
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Sáu mốc nhiệt độ cần nhớ",
@@ -107,7 +128,8 @@
         "250°C: cyanuric acid bắt đầu phân hủy [S4]",
         "360°C: ammelide bắt đầu phân hủy [S4]"
       ],
-      "notes": "Sáu mốc này là khung xương của bài. Âm mười một độ rưỡi là điểm kết tinh theo Cefic. Hai mươi lăm độ là giới hạn bảo quản kéo dài. Một trăm ba mươi hai đến ba mươi ba độ là điểm nóng chảy của urea, cũng là điểm khởi đầu biểu đồ của L17. Một trăm chín mươi đến một trăm chín mươi ba độ là nơi biuret có vẻ chảy rồi đông lại, thực ra là hỗn hợp eutectic với urea. Hai trăm năm mươi độ là lúc cyanuric acid bắt đầu phân hủy theo báo cáo FVV, và ba trăm sáu mươi độ là lúc ammelide bắt đầu phân hủy. Mọi mốc đều có nguồn và điều kiện thí nghiệm riêng."
+      "notes": "Sáu mốc này là khung xương của bài. Âm mười một độ rưỡi là điểm kết tinh theo Cefic. Hai mươi lăm độ là giới hạn bảo quản kéo dài. Một trăm ba mươi hai đến ba mươi ba độ là điểm nóng chảy của urea, cũng là điểm khởi đầu biểu đồ của L17. Một trăm chín mươi đến một trăm chín mươi ba độ là nơi biuret có vẻ chảy rồi đông lại, thực ra là hỗn hợp eutectic với urea. Hai trăm năm mươi độ là lúc cyanuric acid bắt đầu phân hủy theo báo cáo FVV, và ba trăm sáu mươi độ là lúc ammelide bắt đầu phân hủy. Mọi mốc đều có nguồn và điều kiện thí nghiệm riêng.",
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "AdBlue và hai bước tạo NH3",
@@ -125,7 +147,8 @@
         "Đừng hiểu nhầm: urea không tự khử NOx"
       ],
       "notes": "AdBlue là nước có 32,5% urea, theo chuẩn ISO 22241, và nhãn hiệu AdBlue thuộc hiệp hội ô tô Đức VDA. Điều kỹ sư hay nghĩ sai là urea tự khử NOx. Thật ra urea chỉ là kho chứa NH3. Nhiệt của ống xả bẻ urea thành NH3 và HNCO, rồi HNCO gặp nước thành thêm NH3 và CO2. Ở dạng khí tinh khiết bước đầu thu nhiệt, nhưng trong SCR các chất rất loãng nên cân bằng nghiêng về sản phẩm, theo luận án Bernhard. Chỗ dễ nhầm: urea không biến hết thành NH3. Phần HNCO không kịp gặp nước sẽ ghép thành chất rắn, và đó là chuyện của cả bài.",
-      "body": "AdBlue là dung dịch **urea** 32,5% trong nước theo chuẩn ISO 22241; nhãn hiệu AdBlue thuộc VDA [S6][S7]. Urea không tự khử NOx mà tạo **NH3** qua hai bước: nhiệt phân CO(NH2)2 thành NH3 và HNCO, rồi **thủy phân** HNCO với nước thành NH3 và CO2 [S5]. Ở dạng khí tinh khiết bước đầu thu nhiệt, nhưng trong SCR các chất rất loãng nên cân bằng nghiêng về sản phẩm [S5]. Phần HNCO không kịp thủy phân là nguyên liệu của cặn."
+      "body": "AdBlue là dung dịch **urea** 32,5% trong nước theo chuẩn ISO 22241; nhãn hiệu AdBlue thuộc VDA [S6][S7]. Urea không tự khử NOx mà tạo **NH3** qua hai bước: nhiệt phân CO(NH2)2 thành NH3 và HNCO, rồi **thủy phân** HNCO với nước thành NH3 và CO2 [S5]. Ở dạng khí tinh khiết bước đầu thu nhiệt, nhưng trong SCR các chất rất loãng nên cân bằng nghiêng về sản phẩm [S5]. Phần HNCO không kịp thủy phân là nguyên liệu của cặn.",
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Một cụm SCR thật",
@@ -150,7 +173,8 @@
           "credit": "z22, CC BY-SA 3.0, Wikimedia Commons (Hino Standardized SCR Unit) [S18]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Bốn chất chính: ai là ai",
@@ -176,7 +200,8 @@
           "credit": "Wikimedia Commons, public domain: Urea-2D.png; Biuret_struct.svg; Ammelide.png; Cyanuric_acid.svg [S18]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Bốn chất như bốn nhân vật",
@@ -194,7 +219,8 @@
         "Cyanuric acid: màu tím; thăng hoa/phân hủy từ 250–300°C [S3][S4]",
         "Ammelide: màu đỏ; bền, bắt đầu phân hủy ~360°C [S4]"
       ],
-      "notes": "Bốn thẻ này giữ màu cố định xuyên suốt bài và deck. Urea hồng là nguyên liệu. Biuret xanh lá là trạm trung gian, sinh ra khi hai urea ghép nhau. Cyanuric acid tím là cặn chính, thăng hoa hoặc phân hủy từ khoảng hai trăm năm mươi đến ba trăm độ tùy điều kiện. Ammelide đỏ bền nhất, bắt đầu phân hủy từ khoảng ba trăm sáu mươi độ. Khi đọc các slide sau, chỉ cần nhìn màu là biết đang nói chất nào. Các mốc nhiệt độ là mốc từ thí nghiệm gia nhiệt và có thể lệch trong thí nghiệm khác, như phần so sánh nguồn sẽ cho thấy."
+      "notes": "Bốn thẻ này giữ màu cố định xuyên suốt bài và deck. Urea hồng là nguyên liệu. Biuret xanh lá là trạm trung gian, sinh ra khi hai urea ghép nhau. Cyanuric acid tím là cặn chính, thăng hoa hoặc phân hủy từ khoảng hai trăm năm mươi đến ba trăm độ tùy điều kiện. Ammelide đỏ bền nhất, bắt đầu phân hủy từ khoảng ba trăm sáu mươi độ. Khi đọc các slide sau, chỉ cần nhìn màu là biết đang nói chất nào. Các mốc nhiệt độ là mốc từ thí nghiệm gia nhiệt và có thể lệch trong thí nghiệm khác, như phần so sánh nguồn sẽ cho thấy.",
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Chuỗi phản ứng từ urea đến cặn",
@@ -219,7 +245,8 @@
           "credit": "Tự vẽ từ Tischer 2019, Bernhard 2012, Zhu 2023 [S3][S5][S8]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Tóm tắt, bản đồ và nền tảng"
     },
     {
       "title": "Vùng A: lạnh, kết tinh và đông đặc",
@@ -255,7 +282,8 @@
           "label": "Ý nghĩa với DNOx",
           "text": "Hại: hệ không phun được, giãn nở phá phần cứng [S13]"
         }
-      ]
+      ],
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Thang đóng băng của AdBlue",
@@ -281,7 +309,8 @@
           "credit": "Tự vẽ từ Cefic, OCI, DieselNet [S6][S7][S13]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Rã đông: biện pháp có số và chưa có số",
@@ -299,7 +328,8 @@
         "Chưa có số: Thời gian rã đông (EU yêu cầu ước lượng, mô phỏng CFD [S15]); hành vi dưới -11,5°C; công suất sưởi: CHƯA XÁC NHẬN",
         "Quan hệ: thiếu số không có nghĩa là thiếu vấn đề; kỹ sư cần số của chính hệ thống"
       ],
-      "notes": "Vùng lạnh có hai loại thông tin. Loại có nguồn: DieselNet nói bình, ống và bơm đều cần sưởi, và khi tắt máy phải xả dung dịch hoặc có thiết kế chịu băng. Cefic cảnh báo cuộn sưởi tiếp xúc trực tiếp có thể gây quá nhiệt cục bộ làm tăng sinh NH3 và CO2. Bosch ghi bộ lọc Denoxtronic chịu băng nhờ phần tử bù có thể nén. Loại chưa có số: thời gian rã đông, công suất sưởi, hành vi ở âm hai mươi hay âm ba mươi độ. Daimler Trucks mô phỏng rã đông bằng CFD nhưng trang tóm tắt không có số phút. Bài ghi đúng như vậy, không điền số."
+      "notes": "Vùng lạnh có hai loại thông tin. Loại có nguồn: DieselNet nói bình, ống và bơm đều cần sưởi, và khi tắt máy phải xả dung dịch hoặc có thiết kế chịu băng. Cefic cảnh báo cuộn sưởi tiếp xúc trực tiếp có thể gây quá nhiệt cục bộ làm tăng sinh NH3 và CO2. Bosch ghi bộ lọc Denoxtronic chịu băng nhờ phần tử bù có thể nén. Loại chưa có số: thời gian rã đông, công suất sưởi, hành vi ở âm hai mươi hay âm ba mươi độ. Daimler Trucks mô phỏng rã đông bằng CFD nhưng trang tóm tắt không có số phút. Bài ghi đúng như vậy, không điền số.",
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Vùng B: dung dịch lỏng bình yên",
@@ -316,7 +346,8 @@
         "Đừng hiểu nhầm: không phản ứng đáng kể, nhưng vẫn có hạn dùng"
       ],
       "notes": "Đây là vùng bảo quản bình thường. Dung dịch lỏng, trong suốt, không màu, tan trong nước không giới hạn, mùi không hoặc nhẹ như amoniac. Độ nhớt khoảng 1,4 mPa·s và nhiệt dung riêng khoảng 3,40 kJ/(kg·K) ở 25°C. Cefic khuyên tránh bảo quản kéo dài trên 25°C và dưới -5°C. Thép carbon, đồng, nhôm, kẽm không dùng được khi tiếp xúc trực tiếp vì phản ứng với NH3. Bình ngoài trời cần cách nhiệt và tránh nắng trực tiếp. Vùng B là vùng lợi: giữ hệ trong đó khi có thể.",
-      "body": "Vùng **bảo quản** thật sự là -5 đến 30°C. Dung dịch lỏng, trong suốt, độ nhớt khoảng 1,4 mPa·s ở 25°C [S6]. Cefic khuyên tránh để lâu trên 25°C và dưới -5°C; bình ngoài trời cần cách nhiệt, tránh nắng trực tiếp [S6]. Thép carbon, đồng, nhôm và kẽm không dùng được khi tiếp xúc trực tiếp vì phản ứng với **NH3**; thép không gỉ và nhựa không phụ gia thì dùng được [S6]."
+      "body": "Vùng **bảo quản** thật sự là -5 đến 30°C. Dung dịch lỏng, trong suốt, độ nhớt khoảng 1,4 mPa·s ở 25°C [S6]. Cefic khuyên tránh để lâu trên 25°C và dưới -5°C; bình ngoài trời cần cách nhiệt, tránh nắng trực tiếp [S6]. Thép carbon, đồng, nhôm và kẽm không dùng được khi tiếp xúc trực tiếp vì phản ứng với **NH3**; thép không gỉ và nhựa không phụ gia thì dùng được [S6].",
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Hạn dùng giảm khi nóng",
@@ -341,7 +372,8 @@
           "credit": "Tự vẽ từ Cefic và OCI [S6][S7]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Đặc tả chất lượng của một nhà cung cấp",
@@ -359,7 +391,8 @@
         "Chất không tan: tối đa 20 mg/kg [S7]",
         "Nhiệt độ phân hủy ghi: 100°C (không rõ phương pháp) [S7]"
       ],
-      "notes": "Đây là các giới hạn chính theo đặc tả OCI năm 2024, dựa trên ISO 22241-2:2019. Dải urea hẹp từ 31,8 đến 33,2 phần trăm là cách giữ dung dịch gần thành phần eutectic. Biuret có mặt trong danh sách vì nó là sản phẩm phụ của urea nóng, tối đa 0,3 phần trăm. Độ kiềm tính theo NH3 tối đa 0,2 phần trăm. Đặc tả còn ghi nhiệt độ phân hủy 100 độ, thấp hơn nhiều so với các phép đo khác trong bài, và không nói phương pháp, nên bài ghi chưa xác nhận. Đừng dùng con số này như một mốc hóa học."
+      "notes": "Đây là các giới hạn chính theo đặc tả OCI năm 2024, dựa trên ISO 22241-2:2019. Dải urea hẹp từ 31,8 đến 33,2 phần trăm là cách giữ dung dịch gần thành phần eutectic. Biuret có mặt trong danh sách vì nó là sản phẩm phụ của urea nóng, tối đa 0,3 phần trăm. Độ kiềm tính theo NH3 tối đa 0,2 phần trăm. Đặc tả còn ghi nhiệt độ phân hủy 100 độ, thấp hơn nhiều so với các phép đo khác trong bài, và không nói phương pháp, nên bài ghi chưa xác nhận. Đừng dùng con số này như một mốc hóa học.",
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Vùng C: nóng nhẹ, thủy phân chậm",
@@ -376,7 +409,8 @@
         "Đừng hiểu nhầm: chậm không có nghĩa là bằng 0"
       ],
       "notes": "Vùng C là vùng nóng nhẹ, nơi vấn đề không phải phản ứng ở ống xả mà là tuổi thọ bảo quản. Khi bình ở trên hai mươi lăm độ kéo dài, urea thủy phân chậm thành NH3 và CO2, làm tăng áp trong thùng kín và rút ngắn hạn dùng. Phản ứng rất chậm: ở trung bình ba mươi đến ba mươi lăm độ dung dịch vẫn dùng được sáu đến mười hai tháng. Thùng có lỗ thông cho khí thoát nhưng cũng cho nước bay, làm nồng độ tăng. Chỗ dễ nhầm: chậm không có nghĩa là bằng không. Cuộn sưởi tiếp xúc trực tiếp có thể quá nhiệt cục bộ và làm tăng sinh NH3.",
-      "body": "Bảo quản kéo dài trên 25°C khiến **urea** thủy phân thành **NH3** và CO2, làm tăng áp trong thùng kín và rút ngắn hạn dùng [S6]. Phản ứng rất chậm: ở trung bình 30–35°C dung dịch vẫn dùng được 6–12 tháng [S6]. Thùng có lỗ thông cho khí thoát nhưng cũng làm nước bay hơi, nồng độ tăng [S6]. Cuộn sưởi tiếp xúc trực tiếp có thể gây quá nhiệt cục bộ và tăng sinh NH3 [S6]."
+      "body": "Bảo quản kéo dài trên 25°C khiến **urea** thủy phân thành **NH3** và CO2, làm tăng áp trong thùng kín và rút ngắn hạn dùng [S6]. Phản ứng rất chậm: ở trung bình 30–35°C dung dịch vẫn dùng được 6–12 tháng [S6]. Thùng có lỗ thông cho khí thoát nhưng cũng làm nước bay hơi, nồng độ tăng [S6]. Cuộn sưởi tiếp xúc trực tiếp có thể gây quá nhiệt cục bộ và tăng sinh NH3 [S6].",
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Từ nóng bình đến áp suất",
@@ -392,7 +426,8 @@
         "Sinh NH3 và CO2",
         "Thùng kín tăng áp, hạn dùng ngắn đi"
       ],
-      "notes": "Chuỗi bốn bước này mô tả điều gì xảy ra khi bình bị nóng kéo dài. Bước một là nhiệt độ trung bình trên hai mươi lăm độ. Bước hai là urea thủy phân chậm. Bước ba là sinh NH3 và CO2, hai chất khí. Bước bốn là thùng kín bị tăng áp và hạn dùng ngắn đi. Cefic cũng lưu ý nếu có cháy, thùng AdBlue cần làm mát bằng nước để tránh tăng áp và vỡ, vì ở nhiệt độ cao nó phân hủy nhanh thành CO2 và NH3. Đây là chuyện quản lý bảo quản, không phải chuyện phản ứng ở ống xả."
+      "notes": "Chuỗi bốn bước này mô tả điều gì xảy ra khi bình bị nóng kéo dài. Bước một là nhiệt độ trung bình trên hai mươi lăm độ. Bước hai là urea thủy phân chậm. Bước ba là sinh NH3 và CO2, hai chất khí. Bước bốn là thùng kín bị tăng áp và hạn dùng ngắn đi. Cefic cũng lưu ý nếu có cháy, thùng AdBlue cần làm mát bằng nước để tránh tăng áp và vỡ, vì ở nhiệt độ cao nó phân hủy nhanh thành CO2 và NH3. Đây là chuyện quản lý bảo quản, không phải chuyện phản ứng ở ống xả.",
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Nơi gặp vùng C trong xe",
@@ -407,7 +442,8 @@
         "Ống sưởi: nhiệt độ cao cục bộ khi sưởi (suy luận)",
         "Cuộn sưởi: tránh quá nhiệt cục bộ [S6]"
       ],
-      "notes": "Ba nơi này là nơi kỹ sư có thể gặp vùng C. Bình trong xe đậu nắng hoặc đặt gần nguồn nóng, đó là suy luận của người viết. Ống sưởi và cuộn sưởi là nơi nhiệt độ cục bộ có thể cao hơn nhiệt độ bình; riêng chuyện cuộn sưởi quá nhiệt cục bộ thì Cefic đã cảnh báo. Mốc 70 độ tạo biuret chỉ thấy trong một số tài liệu nhà cung cấp mà bài chưa xác nhận được, nên không dùng. Việc nên làm: bóng râm, cách nhiệt, vật liệu phù hợp và sưởi có kiểm soát nhiệt độ cục bộ."
+      "notes": "Ba nơi này là nơi kỹ sư có thể gặp vùng C. Bình trong xe đậu nắng hoặc đặt gần nguồn nóng, đó là suy luận của người viết. Ống sưởi và cuộn sưởi là nơi nhiệt độ cục bộ có thể cao hơn nhiệt độ bình; riêng chuyện cuộn sưởi quá nhiệt cục bộ thì Cefic đã cảnh báo. Mốc 70 độ tạo biuret chỉ thấy trong một số tài liệu nhà cung cấp mà bài chưa xác nhận được, nên không dùng. Việc nên làm: bóng râm, cách nhiệt, vật liệu phù hợp và sưởi có kiểm soát nhiệt độ cục bộ.",
+      "chapter": "Vùng A đến C, dưới 70°C"
     },
     {
       "title": "Vùng D: nước bay hơi, urea kết tinh",
@@ -443,7 +479,8 @@
           "label": "Ý nghĩa với DNOx",
           "text": "Hại nếu xảy ra trên thành: cặn urea ở khí ~150°C [S4]"
         }
-      ]
+      ],
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Ba việc xảy ra trong vùng D",
@@ -461,7 +498,8 @@
         "Urea nóng chảy: 132°C (Tischer) hoặc 133°C (DSC của Bernhard) [S3][S5]",
         "Hơi urea: ~120°C đủ để thăng hoa lượng cần cho SCR, nhưng SCR 120°C không khả thi [S5]"
       ],
-      "notes": "Bốn việc này diễn ra gần như cùng lúc nhưng có thứ tự. Nước bay hơi trước, trong phân tích nhiệt khoảng hai mươi đến một trăm độ. Urea cô đặc lại và kết tinh, nhất là dưới bốn trăm độ khi nước bay nhanh làm urea dồn vào lõi giọt. Urea tinh thể nóng chảy ở một trăm ba mươi hai hoặc ba mươi ba độ, tùy phép đo. Bernhard còn tính rằng khoảng một trăm hai mươi độ đã đủ để lượng urea cần thiết thăng hoa nếu phân hủy và khử NOx hoàn toàn, nhưng động học không cho phép SCR chạy ở nhiệt độ đó, nên một phần urea có thể tới xúc tác dưới dạng hơi."
+      "notes": "Bốn việc này diễn ra gần như cùng lúc nhưng có thứ tự. Nước bay hơi trước, trong phân tích nhiệt khoảng hai mươi đến một trăm độ. Urea cô đặc lại và kết tinh, nhất là dưới bốn trăm độ khi nước bay nhanh làm urea dồn vào lõi giọt. Urea tinh thể nóng chảy ở một trăm ba mươi hai hoặc ba mươi ba độ, tùy phép đo. Bernhard còn tính rằng khoảng một trăm hai mươi độ đã đủ để lượng urea cần thiết thăng hoa nếu phân hủy và khử NOx hoàn toàn, nhưng động học không cho phép SCR chạy ở nhiệt độ đó, nên một phần urea có thể tới xúc tác dưới dạng hơi.",
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Cặn urea ở khí ~150°C",
@@ -475,7 +513,8 @@
         "96,6% urea trong cặn lớn nhất của thử nghiệm FVV ở khí ~150°C [S4]",
         "AdBlue thường không phun dưới 180°C; nhưng khởi động và tắt máy vẫn có rủi ro [S4]"
       ],
-      "notes": "Con số 96,6 phần trăm đến từ phân tích HPLC cặn ở điểm vận hành OP 0 của báo cáo FVV, nơi khí chỉ khoảng một trăm năm mươi độ. Đó là điểm có cặn nhiều nhất về thể tích và khối lượng, chủ yếu là tinh thể urea, với rất ít biuret và triuret. Báo cáo nói rõ một trăm năm mươi độ không thuộc vùng ứng dụng SCR vì AdBlue thường không được phun dưới một trăm tám mươi độ, nhưng nó cho thấy rủi ro cặn nặng ở khởi động và tắt máy. Cặn thường hình cánh cung ở mép màng lỏng phía hạ lưu, nơi bay hơi mạnh nhất."
+      "notes": "Con số 96,6 phần trăm đến từ phân tích HPLC cặn ở điểm vận hành OP 0 của báo cáo FVV, nơi khí chỉ khoảng một trăm năm mươi độ. Đó là điểm có cặn nhiều nhất về thể tích và khối lượng, chủ yếu là tinh thể urea, với rất ít biuret và triuret. Báo cáo nói rõ một trăm năm mươi độ không thuộc vùng ứng dụng SCR vì AdBlue thường không được phun dưới một trăm tám mươi độ, nhưng nó cho thấy rủi ro cặn nặng ở khởi động và tắt máy. Cặn thường hình cánh cung ở mép màng lỏng phía hạ lưu, nơi bay hơi mạnh nhất.",
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Vùng E: urea nóng chảy rồi phân hủy",
@@ -493,7 +532,8 @@
         "Đừng hiểu nhầm: NH3 không phải tất cả; một phần thành chất rắn"
       ],
       "notes": "Vùng E là nơi urea bắt đầu biến đổi. Tischer ghi phân hủy bắt đầu cùng lúc với nóng chảy ở khoảng một trăm ba mươi hai độ, và trong khoảng một trăm bốn mươi đến một trăm tám mươi độ tốc độ tăng gần như tuyến tính. Urea tách thành NH3 và HNCO, đồng thời hai urea ghép thành biuret. Cefic đặt ngưỡng thủy phân trong ống xả quanh một trăm tám mươi độ. Chỗ dễ nhầm: NH3 không phải là tất cả, phần HNCO không kịp gặp nước sẽ ghép thành biuret. Và phân hủy xảy ra ở mặt phân cách khí lỏng nên điều kiện thí nghiệm ảnh hưởng đến mốc. Chi tiết từng điểm đo của biểu đồ xem L17.",
-      "body": "Tischer ghi sự khởi đầu phân hủy **urea** cùng với nóng chảy ở 132°C; trong khoảng 140–180°C tốc độ biểu kiến tăng gần tuyến tính [S3]. Urea tách thành **NH3** và HNCO, và hai urea ghép thành **biuret** cộng NH3 [S3]. Cefic đặt ngưỡng thủy phân trong ống xả quanh 180°C [S6]. Biểu đồ S1 ở 190°C cho urea ~46%, biuret ~28% và tổng ~77% [S1]."
+      "body": "Tischer ghi sự khởi đầu phân hủy **urea** cùng với nóng chảy ở 132°C; trong khoảng 140–180°C tốc độ biểu kiến tăng gần tuyến tính [S3]. Urea tách thành **NH3** và HNCO, và hai urea ghép thành **biuret** cộng NH3 [S3]. Cefic đặt ngưỡng thủy phân trong ống xả quanh 180°C [S6]. Biểu đồ S1 ở 190°C cho urea ~46%, biuret ~28% và tổng ~77% [S1].",
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Biểu đồ vẽ lại ở vùng 130–190°C",
@@ -518,7 +558,8 @@
           "credit": "Tự vẽ lại từ số đọc của biểu đồ S1 (±2%), xem L17 [S1]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Mốc nhiệt độ trong vùng E",
@@ -537,7 +578,8 @@
         "185°C: urea thành biuret rồi cyanuric acid (mô phỏng) [S4]",
         "dưới 200°C: cặn chủ yếu là urea [S4]"
       ],
-      "notes": "Năm mốc này cho thấy vùng E không có một ranh giới sắc nét. Nóng chảy và bắt đầu phân hủy cùng ở khoảng một trăm ba mươi hai độ. Từ một trăm bốn mươi đến một trăm tám mươi độ tốc độ tăng gần tuyến tính, và phân hủy xảy ra ở mặt phân cách khí lỏng nên kích thước chén thí nghiệm ảnh hưởng đến tốc độ. Cefic đặt ngưỡng thủy phân trong ống xả khoảng một trăm tám mươi độ. Mô phỏng của FVV thấy ở một trăm tám mươi lăm độ urea thành biuret rồi cyanuric acid. Và cặn lấy ở dưới hai trăm độ chủ yếu vẫn là urea."
+      "notes": "Năm mốc này cho thấy vùng E không có một ranh giới sắc nét. Nóng chảy và bắt đầu phân hủy cùng ở khoảng một trăm ba mươi hai độ. Từ một trăm bốn mươi đến một trăm tám mươi độ tốc độ tăng gần tuyến tính, và phân hủy xảy ra ở mặt phân cách khí lỏng nên kích thước chén thí nghiệm ảnh hưởng đến tốc độ. Cefic đặt ngưỡng thủy phân trong ống xả khoảng một trăm tám mươi độ. Mô phỏng của FVV thấy ở một trăm tám mươi lăm độ urea thành biuret rồi cyanuric acid. Và cặn lấy ở dưới hai trăm độ chủ yếu vẫn là urea.",
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Vùng F: biuret chuyển thành cặn",
@@ -555,7 +597,8 @@
         "Đừng hiểu nhầm: biuret không 'nóng chảy' thật, mà tạo eutectic với urea"
       ],
       "notes": "Vùng F là nơi biuret, chất trung gian, biến thành cặn thật. Điểm hay bị hiểu nhầm là biuret nóng chảy ở khoảng một trăm chín mươi ba độ. Tischer cho thấy đó là điểm hỗn hợp eutectic của biuret lỏng với urea, và mẫu chảy rồi đông lại trong khoảng một trăm chín mươi ba đến hai trăm ba mươi độ. Ở hai trăm hai mươi lăm độ mẫu của Schaber thành chất rắn dính; triuret phân hủy hoàn toàn quanh hai trăm ba mươi độ; ở hai trăm năm mươi độ cyanuric acid là thành phần chính. Cặn lấy từ thử nghiệm ở khoảng hai trăm độ còn chứa ammelide. Ví dụ của người viết: biuret như bột nhào đang đông thành vữa.",
-      "body": "Ở 192,5°C một hỗn hợp **eutectic** của biuret lỏng và urea trở nên thuận lợi, và đó là điểm nóng chảy biểu kiến của **biuret** [S3]. Ở 225°C mẫu của Schaber chuyển thành chất rắn dính [S3]. Triuret phân hủy hoàn toàn quanh 230°C [S3]. Ở 250°C **cyanuric acid** là thành phần chính, kèm ít ammelide [S3]; biuret và triuret phân hủy cho cyanuric acid và ammelide [S4]."
+      "body": "Ở 192,5°C một hỗn hợp **eutectic** của biuret lỏng và urea trở nên thuận lợi, và đó là điểm nóng chảy biểu kiến của **biuret** [S3]. Ở 225°C mẫu của Schaber chuyển thành chất rắn dính [S3]. Triuret phân hủy hoàn toàn quanh 230°C [S3]. Ở 250°C **cyanuric acid** là thành phần chính, kèm ít ammelide [S3]; biuret và triuret phân hủy cho cyanuric acid và ammelide [S4].",
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Biuret: chảy thật hay eutectic?",
@@ -571,7 +614,8 @@
         "Điều nguồn nói: 192,5°C là eutectic với urea; chảy rồi đông lại trong 193–230°C; có thể phân hủy sớm từ ~170°C khi khí quét mạnh [S3]",
         "Hệ quả: Mốc phụ thuộc điều kiện: độ loãng HNCO, hình học chén, tốc độ gia nhiệt [S3]"
       ],
-      "notes": "Đây là chỗ dễ nhầm nhất ở vùng F. Nhiều tài liệu nói biuret nóng chảy ở khoảng một trăm chín mươi ba độ. Tischer cho thấy đó không phải điểm nóng chảy của chất tinh khiết, mà là điểm hỗn hợp eutectic của biuret lỏng và urea, kèm ít triuret và HNCO khí, trở nên thuận lợi về nhiệt động. Mẫu chảy rồi đông lại trong khoảng một trăm chín mươi ba đến hai trăm ba mươi độ. Và vì cân bằng phụ thuộc độ loãng HNCO, biuret có thể bắt đầu phân hủy sớm tới một trăm bảy mươi độ khi khí quét mạnh. Bài học: mốc nhiệt độ luôn đi kèm điều kiện thí nghiệm."
+      "notes": "Đây là chỗ dễ nhầm nhất ở vùng F. Nhiều tài liệu nói biuret nóng chảy ở khoảng một trăm chín mươi ba độ. Tischer cho thấy đó không phải điểm nóng chảy của chất tinh khiết, mà là điểm hỗn hợp eutectic của biuret lỏng và urea, kèm ít triuret và HNCO khí, trở nên thuận lợi về nhiệt động. Mẫu chảy rồi đông lại trong khoảng một trăm chín mươi ba đến hai trăm ba mươi độ. Và vì cân bằng phụ thuộc độ loãng HNCO, biuret có thể bắt đầu phân hủy sớm tới một trăm bảy mươi độ khi khí quét mạnh. Bài học: mốc nhiệt độ luôn đi kèm điều kiện thí nghiệm.",
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Cặn thực tế ở 200–250°C",
@@ -596,7 +640,8 @@
           "credit": "Tự vẽ định tính từ FVV và Weeks [S4][S10]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Vùng D đến F, 70°C đến 250°C"
     },
     {
       "title": "Vùng G: cặn bền nhất",
@@ -632,7 +677,8 @@
           "label": "Ý nghĩa với DNOx",
           "text": "Hại vì độ bền của cặn, không vì khối lượng lớn nhất (tổng ~30% rồi ~8% trong S1); cần màng lỏng mới thành cặn"
         }
-      ]
+      ],
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Biểu đồ ở 275–350°C",
@@ -648,7 +694,8 @@
         "350°C: cyanuric acid ~2%, ammelide ~5,5%, tổng ~8% [S1]",
         "Sai số đọc hình: khoảng ±2% khối lượng [S1]"
       ],
-      "notes": "Ba điểm đo này lấy từ biểu đồ của chủ repo. Ở hai trăm bảy mươi lăm độ cyanuric acid đạt đỉnh khoảng hai mươi bốn phần trăm, ammelide khoảng năm rưỡi phần trăm, tổng chất rắn khoảng ba mươi phần trăm. Ở ba trăm hai mươi lăm độ cyanuric acid còn khoảng mười lăm phần trăm. Ở ba trăm năm mươi độ gần như chỉ còn ammelide, khoảng năm rưỡi phần trăm, và tổng khoảng tám phần trăm. Đây là bình hở, gia nhiệt chậm. Chi tiết xem L17. Khi so với cặn trong động cơ, nhớ rằng điều kiện khác hẳn."
+      "notes": "Ba điểm đo này lấy từ biểu đồ của chủ repo. Ở hai trăm bảy mươi lăm độ cyanuric acid đạt đỉnh khoảng hai mươi bốn phần trăm, ammelide khoảng năm rưỡi phần trăm, tổng chất rắn khoảng ba mươi phần trăm. Ở ba trăm hai mươi lăm độ cyanuric acid còn khoảng mười lăm phần trăm. Ở ba trăm năm mươi độ gần như chỉ còn ammelide, khoảng năm rưỡi phần trăm, và tổng khoảng tám phần trăm. Đây là bình hở, gia nhiệt chậm. Chi tiết xem L17. Khi so với cặn trong động cơ, nhớ rằng điều kiện khác hẳn.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Nhiệt độ cặn 'bay đi' không phải hằng số",
@@ -665,7 +712,8 @@
         "Trong động cơ, 335–425°C vẫn chủ yếu là cyanuric acid [S10]",
         "Biểu đồ bình hở cho cyanuric acid gần hết ở 350°C [S1]"
       ],
-      "notes": "Câu trên tóm tắt một cảnh báo quan trọng. Tischer cho thấy mô hình thăng hoa phải dịch khoảng bốn mươi độ về nhiệt độ thấp hơn khi dùng chén phẳng thay cho chén hình trụ, và với lớp cặn mỏng tốc độ thăng hoa tỷ lệ với kích thước lớp cặn. Trong biểu đồ bình hở cyanuric acid gần hết ở ba trăm năm mươi độ, nhưng cặn lấy từ động cơ ở ba trăm ba mươi lăm đến bốn trăm hai mươi lăm độ vẫn chủ yếu là cyanuric acid. Nguyên nhân có thể là màng lỏng, dòng khí và thời gian lưu khác nhau. Đây là suy luận của người viết."
+      "notes": "Câu trên tóm tắt một cảnh báo quan trọng. Tischer cho thấy mô hình thăng hoa phải dịch khoảng bốn mươi độ về nhiệt độ thấp hơn khi dùng chén phẳng thay cho chén hình trụ, và với lớp cặn mỏng tốc độ thăng hoa tỷ lệ với kích thước lớp cặn. Trong biểu đồ bình hở cyanuric acid gần hết ở ba trăm năm mươi độ, nhưng cặn lấy từ động cơ ở ba trăm ba mươi lăm đến bốn trăm hai mươi lăm độ vẫn chủ yếu là cyanuric acid. Nguyên nhân có thể là màng lỏng, dòng khí và thời gian lưu khác nhau. Đây là suy luận của người viết.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Vùng H: phản biện 'trên 400°C là sạch'",
@@ -684,7 +732,8 @@
         "Đừng hiểu nhầm: 400°C không xóa hết cặn"
       ],
       "notes": "Biểu đồ của chủ repo gợi ý trên bốn trăm độ gần như hết cặn, và nhiều người hiểu rằng đưa ống xả lên bốn trăm độ là sạch. Các nguồn mới cho thấy câu đó chỉ đúng một phần. Schaber cho ammelide, ammeline và melamine phân hủy dần trên ba trăm sáu mươi độ, ammelide hết ở sáu trăm độ. Báo cáo FVV tìm thấy phần dư chịu nhiệt tới bảy trăm độ, và trong một thí nghiệm tăng nhiệt thêm một trăm bốn mươi độ vẫn còn sáu mươi bốn phần trăm ammelide và ba mươi phần trăm ammeline. Kết luận của bài: bốn trăm độ giảm cặn, không xóa cặn. Suy luận này của người viết dựa trên số liệu FVV.",
-      "body": "Schaber cho **ammelide**, ammeline và melamine phân hủy dần trên 360°C, ammelide hết ở 600°C [S3]. Báo cáo FVV: ammelide bắt đầu phân hủy ở 360°C, còn biuret, triuret và ammelide để lại phần dư chịu nhiệt tới 700°C [S4]. Một thí nghiệm khác của FVV: tăng lưu lượng khí làm tấm nóng thêm khoảng 140°C, cặn phân hủy nhanh nhưng còn 64% ammelide và 30% ammeline [S4]. Vì vậy 400°C là nhiệt độ **giảm** cặn, không phải nhiệt độ **xóa** cặn [S4][S9]."
+      "body": "Schaber cho **ammelide**, ammeline và melamine phân hủy dần trên 360°C, ammelide hết ở 600°C [S3]. Báo cáo FVV: ammelide bắt đầu phân hủy ở 360°C, còn biuret, triuret và ammelide để lại phần dư chịu nhiệt tới 700°C [S4]. Một thí nghiệm khác của FVV: tăng lưu lượng khí làm tấm nóng thêm khoảng 140°C, cặn phân hủy nhanh nhưng còn 64% ammelide và 30% ammeline [S4]. Vì vậy 400°C là nhiệt độ **giảm** cặn, không phải nhiệt độ **xóa** cặn [S4][S9].",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Khối lượng còn lại gần 400°C",
@@ -703,7 +752,8 @@
         "Dong (qua Zhu 2023): 9,2% (nhiệt phân urea) [S8]",
         "FVV 2019: tới 10% chịu nhiệt trong cặn lấy từ thử nghiệm [S4]"
       ],
-      "notes": "Bốn nguồn cho bốn con số khác nhau cho phần khối lượng còn lại gần bốn trăm độ: khoảng hai phẩy năm phần trăm theo biểu đồ, một phẩy sáu bảy theo phân tích nhiệt dung dịch của Mazari, chín phẩy hai theo Dong qua Zhu, và tới mười phần trăm thành phần chịu nhiệt theo FVV. Chúng khác nhau vì chất liệu là urea nguyên chất, dung dịch hay cặn đã tạo trong thiết bị, vì tốc độ gia nhiệt, khối lượng mẫu và hình học chén. Đây không phải mâu thuẫn mà là minh họa cho việc mọi con số cần đi kèm điều kiện."
+      "notes": "Bốn nguồn cho bốn con số khác nhau cho phần khối lượng còn lại gần bốn trăm độ: khoảng hai phẩy năm phần trăm theo biểu đồ, một phẩy sáu bảy theo phân tích nhiệt dung dịch của Mazari, chín phẩy hai theo Dong qua Zhu, và tới mười phần trăm thành phần chịu nhiệt theo FVV. Chúng khác nhau vì chất liệu là urea nguyên chất, dung dịch hay cặn đã tạo trong thiết bị, vì tốc độ gia nhiệt, khối lượng mẫu và hình học chén. Đây không phải mâu thuẫn mà là minh họa cho việc mọi con số cần đi kèm điều kiện.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "64% ammelide + 30% ammeline",
@@ -717,7 +767,8 @@
         "Cặn còn lại sau khi tấm nóng thêm ~140°C và khí xả tăng mạnh [S4]",
         "Cặn chịu nhiệt: rủi ro tích lũy không thể tái sinh bằng nhiệt [S4]"
       ],
-      "notes": "Đây là kết quả của một thí nghiệm trong báo cáo FVV. Sau khi dừng phun AdBlue và tăng mạnh lưu lượng khí xả lên một nghìn kilôgam mỗi giờ, nhiệt độ tấm trong vùng cặn tăng thêm khoảng một trăm bốn mươi độ vì truyền nhiệt tốt hơn và không còn nước bay hơi. Cặn phân hủy nhanh, nhưng vẫn còn một lượng đáng kể, mà phân tích HPLC cho thấy là sáu mươi bốn phần trăm ammelide và ba mươi phần trăm ammeline. Báo cáo kết luận trái với tài liệu cho rằng nhiệt độ cao ít nguy hiểm, các thành phần này là rủi ro tích lũy khó tái sinh."
+      "notes": "Đây là kết quả của một thí nghiệm trong báo cáo FVV. Sau khi dừng phun AdBlue và tăng mạnh lưu lượng khí xả lên một nghìn kilôgam mỗi giờ, nhiệt độ tấm trong vùng cặn tăng thêm khoảng một trăm bốn mươi độ vì truyền nhiệt tốt hơn và không còn nước bay hơi. Cặn phân hủy nhanh, nhưng vẫn còn một lượng đáng kể, mà phân tích HPLC cho thấy là sáu mươi bốn phần trăm ammelide và ba mươi phần trăm ammeline. Báo cáo kết luận trái với tài liệu cho rằng nhiệt độ cao ít nguy hiểm, các thành phần này là rủi ro tích lũy khó tái sinh.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Vùng I: trên 450°C",
@@ -736,7 +787,8 @@
         "Đừng hiểu nhầm: 'gần như hết cặn' không phải 'không còn gì'"
       ],
       "notes": "Trên bốn trăm năm mươi độ biểu đồ cho tổng thu hồi khoảng một phần trăm, nên người ta hay nói gần như không còn cặn urea. Câu này đúng cho khối lượng chính. Nhưng Schaber ghi ammelide hết ở sáu trăm độ và ammeline ở bảy trăm độ, Eichelbaum ghi phân hủy hoàn toàn trên sáu trăm hai mươi lăm độ, và FVV ghi phần dư chịu nhiệt tới bảy trăm độ. Ngoài cặn, ở nhiệt độ cao còn chuyện NH3 có thể bị oxy hóa thành NO thay vì khử NOx; DieselNet nêu phản ứng nhưng không cho nhiệt độ, và bài ghi chưa xác nhận thay vì điền số. Vùng làm việc của từng xúc tác cũng chưa có số.",
-      "body": "Biểu đồ S1 cho tổng thu hồi ~1% ở 450°C [S1], nhưng Schaber ghi **ammelide** hết ở 600°C, ammeline ở 700°C [S3] và FVV ghi phần dư chịu nhiệt tới 700°C [S4]. Phản ứng phụ 4 NH3 + 5 O2 → 4 NO + 6 H2O biến chất khử thành NO [S14]. Nhiệt độ bắt đầu oxy hóa mạnh trên 450°C: **CHƯA XÁC NHẬN**."
+      "body": "Biểu đồ S1 cho tổng thu hồi ~1% ở 450°C [S1], nhưng Schaber ghi **ammelide** hết ở 600°C, ammeline ở 700°C [S3] và FVV ghi phần dư chịu nhiệt tới 700°C [S4]. Phản ứng phụ 4 NH3 + 5 O2 → 4 NO + 6 H2O biến chất khử thành NO [S14]. Nhiệt độ bắt đầu oxy hóa mạnh trên 450°C: **CHƯA XÁC NHẬN**.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Ba chuyện ngoài cặn ở hai đầu nhiệt độ",
@@ -751,7 +803,8 @@
         "Đầu lạnh: amoni nitrat dưới ~100–200°C; amoni sunfat dưới ~250°C [S14]",
         "ASC: oxy hóa NH3 dư sau SCR; NH3 thoát 10 ppm cho một số ứng dụng [S14]"
       ],
-      "notes": "Ba thẻ này nhắc rằng ngoài cặn urea còn có chuyện khác ở hai đầu nhiệt độ. Ở đầu nóng, NH3 có thể bị oxy hóa thành NO thay vì khử NOx; DieselNet nêu phản ứng nhưng không cho nhiệt độ, và bài không điền số. Ở đầu lạnh, amoni nitrat hình thành dưới khoảng một trăm đến hai trăm độ và amoni sunfat có thể làm xúc tác mất hoạt tính dưới khoảng hai trăm năm mươi độ. ASC là bộ xúc tác chặn NH3 dư đặt sau SCR; DieselNet nêu giới hạn mười ppm NH3 thoát cho một số ứng dụng di động. Vùng làm việc của từng loại xúc tác chưa có số trong nguồn tôi đọc."
+      "notes": "Ba thẻ này nhắc rằng ngoài cặn urea còn có chuyện khác ở hai đầu nhiệt độ. Ở đầu nóng, NH3 có thể bị oxy hóa thành NO thay vì khử NOx; DieselNet nêu phản ứng nhưng không cho nhiệt độ, và bài không điền số. Ở đầu lạnh, amoni nitrat hình thành dưới khoảng một trăm đến hai trăm độ và amoni sunfat có thể làm xúc tác mất hoạt tính dưới khoảng hai trăm năm mươi độ. ASC là bộ xúc tác chặn NH3 dư đặt sau SCR; DieselNet nêu giới hạn mười ppm NH3 thoát cho một số ứng dụng di động. Vùng làm việc của từng loại xúc tác chưa có số trong nguồn tôi đọc.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Trên 450°C: biết gì, chưa biết gì",
@@ -769,7 +822,8 @@
         "Chưa biết: Nhiệt độ NH3 oxy hóa mạnh; vùng làm việc xúc tác; ảnh hưởng thật đến hiệu suất: CHƯA XÁC NHẬN",
         "Cách xử lý: tra số của chính xúc tác và ASC đang dùng, không dùng số chung"
       ],
-      "notes": "Slide này tách rõ phần đã biết và chưa biết. Đã biết: tổng thu hồi còn khoảng một phần trăm ở bốn trăm năm mươi độ theo biểu đồ, ammelide hết ở sáu trăm độ và ammeline ở bảy trăm độ theo Schaber, phần dư chịu nhiệt tới bảy trăm độ theo FVV. Chưa biết: nhiệt độ bắt đầu oxy hóa NH3 mạnh, vùng làm việc của từng xúc tác, tác động thật đến hiệu suất. Bài không điền số cho những chỗ này. Việc nên làm là lấy số từ tài liệu của chính xúc tác và ASC đang dùng."
+      "notes": "Slide này tách rõ phần đã biết và chưa biết. Đã biết: tổng thu hồi còn khoảng một phần trăm ở bốn trăm năm mươi độ theo biểu đồ, ammelide hết ở sáu trăm độ và ammeline ở bảy trăm độ theo Schaber, phần dư chịu nhiệt tới bảy trăm độ theo FVV. Chưa biết: nhiệt độ bắt đầu oxy hóa NH3 mạnh, vùng làm việc của từng xúc tác, tác động thật đến hiệu suất. Bài không điền số cho những chỗ này. Việc nên làm là lấy số từ tài liệu của chính xúc tác và ASC đang dùng.",
+      "chapter": "Vùng G đến I, trên 250°C"
     },
     {
       "title": "Giọt AdBlue chạm thành ống",
@@ -789,7 +843,8 @@
         "Đừng hiểu nhầm: cặn không hình thành trong dòng khí"
       ],
       "notes": "Phần này giải thích vì sao cặn hình thành trên thành ống chứ không trong dòng khí. Nước bay hơi trước, và dưới bốn trăm độ nước bay nhanh làm urea dồn vào lõi giọt, tạo tinh thể rắn. Nghiên cứu quang học cho thấy cặn có thể hình thành tới nhiệt độ Leidenfrost, và tăng lượng phun chỉ làm dịch chỗ cặn. DieselNet nêu giọt dưới mười micromet có thể cần để giảm cặn, trong khi bộ phun hiện nay tạo giọt khoảng một trăm đến ba mươi micromet. Báo cáo FVV cho thấy cặn kết tinh ở mép màng lỏng, nơi bay hơi mạnh nhất. Chỗ dễ nhầm: giọt rất nóng không phải lúc nào cũng nguy hiểm hơn giọt hơi ấm.",
-      "body": "Nước bay hơi trước; dưới 400°C urea dồn vào lõi giọt và tạo **tinh thể** [S11]. Cặn có thể hình thành tới nhiệt độ **Leidenfrost**, và tăng lượng phun chỉ dịch chỗ cặn [S12]. DieselNet: giọt dưới 10 µm có thể cần để giảm cặn, trong khi bộ phun hiện nay cho giọt khoảng 100 đến 30 µm [S13]. Cặn kết tinh ở mép màng, nơi bay hơi mạnh nhất [S4]."
+      "body": "Nước bay hơi trước; dưới 400°C urea dồn vào lõi giọt và tạo **tinh thể** [S11]. Cặn có thể hình thành tới nhiệt độ **Leidenfrost**, và tăng lượng phun chỉ dịch chỗ cặn [S12]. DieselNet: giọt dưới 10 µm có thể cần để giảm cặn, trong khi bộ phun hiện nay cho giọt khoảng 100 đến 30 µm [S13]. Cặn kết tinh ở mép màng, nơi bay hơi mạnh nhất [S4].",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Hai chế độ: dưới và trên Leidenfrost",
@@ -813,7 +868,8 @@
           "credit": "Tự vẽ, ý từ Smith 2014 và FVV [S12][S4]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Số liệu từ thử nghiệm FVV",
@@ -829,7 +885,8 @@
         "Điểm vận hành 200–350°C: từ ngưỡng phun đến chế độ Leidenfrost [S4]",
         "Mô phỏng cho cặn chủ yếu biuret; cặn thật chủ yếu cyanuric acid [S4]"
       ],
-      "notes": "Bốn số liệu của báo cáo FVV làm rõ cơ chế. Một: cặn kết tinh ở mép phía hạ lưu của màng lỏng, nơi bay hơi mạnh nhất, và không có cặn rắn ngay vùng tia phun trong lúc phun. Hai: với tấm ban đầu khoảng ba trăm sáu mươi độ, cần tốc độ phun cao để làm tấm nguội xuống dưới nhiệt độ thành tới hạn; màng đầu tiên xuất hiện sau một trăm hai mươi giây và cặn đầu tiên sau một trăm chín mươi giây. Ba: các điểm vận hành của thử nghiệm động cơ phủ từ hai trăm đến ba trăm năm mươi độ. Bốn: mô phỏng và thực tế khác nhau, có thể do mô hình động học và thời gian mô phỏng chỉ hai trăm mười sáu giây."
+      "notes": "Bốn số liệu của báo cáo FVV làm rõ cơ chế. Một: cặn kết tinh ở mép phía hạ lưu của màng lỏng, nơi bay hơi mạnh nhất, và không có cặn rắn ngay vùng tia phun trong lúc phun. Hai: với tấm ban đầu khoảng ba trăm sáu mươi độ, cần tốc độ phun cao để làm tấm nguội xuống dưới nhiệt độ thành tới hạn; màng đầu tiên xuất hiện sau một trăm hai mươi giây và cặn đầu tiên sau một trăm chín mươi giây. Ba: các điểm vận hành của thử nghiệm động cơ phủ từ hai trăm đến ba trăm năm mươi độ. Bốn: mô phỏng và thực tế khác nhau, có thể do mô hình động học và thời gian mô phỏng chỉ hai trăm mười sáu giây.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Các mốc nhiệt độ theo nguồn",
@@ -858,7 +915,8 @@
           "credit": "Tự vẽ từ [S3][S4][S5][S6][S10][S11][S13]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Sáu mốc chính, nguồn và điều kiện",
@@ -880,7 +938,8 @@
         "Ammelide: bắt đầu ~360°C [S4]; hết 600°C (Schaber) [S3]",
         "Nước bay 20–100°C; urea phân hủy 120–230°C (TGA) [S11]"
       ],
-      "notes": "Bảng này gom các mốc chính với nguồn và điều kiện. Đóng băng: Cefic và Bosch ghi âm mười một độ rưỡi, DieselNet ghi âm mười một độ, OCI ghi khoảng âm mười một đến âm mười lăm độ. Nóng chảy urea: một trăm ba mươi hai độ theo phân tích nhiệt của Tischer, một trăm ba mươi ba độ theo DSC trong luận án Bernhard. Biuret: một trăm chín mươi hai độ rưỡi là điểm eutectic. Cyanuric acid: phân hủy bắt đầu hai trăm năm mươi đến sáu mươi độ theo FVV, thăng hoa trên ba trăm độ theo Tischer. Ammelide: ba trăm sáu mươi độ bắt đầu, sáu trăm độ hết. Điều kiện thí nghiệm khác nhau nên không so trực tiếp."
+      "notes": "Bảng này gom các mốc chính với nguồn và điều kiện. Đóng băng: Cefic và Bosch ghi âm mười một độ rưỡi, DieselNet ghi âm mười một độ, OCI ghi khoảng âm mười một đến âm mười lăm độ. Nóng chảy urea: một trăm ba mươi hai độ theo phân tích nhiệt của Tischer, một trăm ba mươi ba độ theo DSC trong luận án Bernhard. Biuret: một trăm chín mươi hai độ rưỡi là điểm eutectic. Cyanuric acid: phân hủy bắt đầu hai trăm năm mươi đến sáu mươi độ theo FVV, thăng hoa trên ba trăm độ theo Tischer. Ammelide: ba trăm sáu mươi độ bắt đầu, sáu trăm độ hết. Điều kiện thí nghiệm khác nhau nên không so trực tiếp.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Vì sao các nguồn lệch nhau",
@@ -900,7 +959,8 @@
         "Có hay không có nước: nước thủy phân HNCO nên giảm sản phẩm phụ [S3][S5]",
         "Chất đầu vào: urea nguyên chất, dung dịch hay cặn; màng lỏng trong động cơ [S4][S10][S11]"
       ],
-      "notes": "Bốn nhóm lý do này do chính các nguồn nêu. Một: tốc độ gia nhiệt và khối lượng mẫu. Hai: hình học chén và độ loãng của HNCO trong khí, vì cân bằng của biuret và cyanuric acid phụ thuộc vào đó; ví dụ sự thăng hoa của cyanuric acid lệch khoảng bốn mươi độ giữa chén phẳng và chén trụ. Ba: có hay không có nước, vì nước thủy phân HNCO nên giảm sản phẩm phụ. Bốn: chất đầu vào khác nhau, urea nguyên chất, dung dịch AdBlue hay cặn đã tạo, và thử nghiệm trên động cơ có màng lỏng, dòng khí và thời gian lưu riêng. Vì vậy hãy đọc mốc cùng điều kiện."
+      "notes": "Bốn nhóm lý do này do chính các nguồn nêu. Một: tốc độ gia nhiệt và khối lượng mẫu. Hai: hình học chén và độ loãng của HNCO trong khí, vì cân bằng của biuret và cyanuric acid phụ thuộc vào đó; ví dụ sự thăng hoa của cyanuric acid lệch khoảng bốn mươi độ giữa chén phẳng và chén trụ. Ba: có hay không có nước, vì nước thủy phân HNCO nên giảm sản phẩm phụ. Bốn: chất đầu vào khác nhau, urea nguyên chất, dung dịch AdBlue hay cặn đã tạo, và thử nghiệm trên động cơ có màng lỏng, dòng khí và thời gian lưu riêng. Vì vậy hãy đọc mốc cùng điều kiện.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Hệ DNOx: nhiệt độ từng bộ phận",
@@ -927,7 +987,8 @@
           "credit": "Tự vẽ từ [S4][S6][S13][S14][S16]",
           "url": "https://github.com/vohoailinh90/Multiple-report/tree/main/lessons/L18/images"
         }
-      ]
+      ],
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Khởi động lạnh: chuỗi sự kiện",
@@ -945,7 +1006,8 @@
         "Qua ngưỡng ~180–250°C: bắt đầu phun",
         "Tắt máy: xả hoặc chống băng"
       ],
-      "notes": "Bốn bước của một chu kỳ khởi động lạnh. Bước một: bình có thể còn đông hoặc chưa đủ lỏng nên cần sưởi. Bước hai: khi khí xả còn thấp, hệ chưa phun vì dưới ngưỡng, nên NOx chưa được xử lý bằng AdBlue. Bước ba: vượt ngưỡng, thường hai trăm đến hai trăm năm mươi độ, hệ tốt có thể từ khoảng một trăm tám mươi độ, hệ bắt đầu phun. Bước bốn: khi tắt máy, DieselNet nói phải xả dung dịch hoặc có thiết kế chịu băng. FVV nhấn mạnh khởi động và tắt máy là lúc rủi ro cặn nặng. Các giải pháp như nâng nhiệt khí xả thuộc kỹ thuật riêng của từng hãng và bài không mô tả."
+      "notes": "Bốn bước của một chu kỳ khởi động lạnh. Bước một: bình có thể còn đông hoặc chưa đủ lỏng nên cần sưởi. Bước hai: khi khí xả còn thấp, hệ chưa phun vì dưới ngưỡng, nên NOx chưa được xử lý bằng AdBlue. Bước ba: vượt ngưỡng, thường hai trăm đến hai trăm năm mươi độ, hệ tốt có thể từ khoảng một trăm tám mươi độ, hệ bắt đầu phun. Bước bốn: khi tắt máy, DieselNet nói phải xả dung dịch hoặc có thiết kế chịu băng. FVV nhấn mạnh khởi động và tắt máy là lúc rủi ro cặn nặng. Các giải pháp như nâng nhiệt khí xả thuộc kỹ thuật riêng của từng hãng và bài không mô tả.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Điều kiện dosing: ba lớp",
@@ -963,7 +1025,8 @@
         "Màng và mixer: không để màng đứng yên (suy luận từ [S4][S12])",
         "Làm sạch nhiệt: giảm cặn, không xóa hết [S4]"
       ],
-      "notes": "Bốn lớp này xếp từ cái người dùng thấy đến cái bên trong. Lớp nhiệt độ: cắt phun thường hai trăm đến hai trăm năm mươi độ, hệ thiết kế tốt có thể phun từ khoảng một trăm tám mươi độ, và FVV nói AdBlue thường không phun dưới một trăm tám mươi độ. Lớp giọt: giọt dưới mười micromet có thể cần để giảm cặn. Lớp màng và mixer: cặn kết tinh ở mép màng, nên mixer cần giúp giọt bay hơi nhanh; đây là suy luận của người viết từ hai nguồn. Lớp làm sạch nhiệt: tăng lưu lượng khí xả làm cặn phân hủy nhanh nhưng còn ammelide và ammeline, nên tái sinh chỉ giảm cặn."
+      "notes": "Bốn lớp này xếp từ cái người dùng thấy đến cái bên trong. Lớp nhiệt độ: cắt phun thường hai trăm đến hai trăm năm mươi độ, hệ thiết kế tốt có thể phun từ khoảng một trăm tám mươi độ, và FVV nói AdBlue thường không phun dưới một trăm tám mươi độ. Lớp giọt: giọt dưới mười micromet có thể cần để giảm cặn. Lớp màng và mixer: cặn kết tinh ở mép màng, nên mixer cần giúp giọt bay hơi nhanh; đây là suy luận của người viết từ hai nguồn. Lớp làm sạch nhiệt: tăng lưu lượng khí xả làm cặn phân hủy nhanh nhưng còn ammelide và ammeline, nên tái sinh chỉ giảm cặn.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Kiến thức chung và phần đặc thù từng hãng",
@@ -980,7 +1043,8 @@
         "Đặc thù từng hãng: Ngưỡng nhiệt chính xác, chiến lược nâng nhiệt, hiệu chỉnh vòi phun: không công bố; brochure Bosch chỉ nêu cấu hình sưởi và làm mát [S16]",
         "Quy tắc của bài: không suy đoán thông số nội bộ của Bosch hay hãng nào"
       ],
-      "notes": "Phần này tách hai loại thông tin theo yêu cầu của chủ repo. Kiến thức chung của ngành: ngưỡng cắt phun, nhu cầu sưởi và xả hay chống băng, cơ chế cặn ở mép màng và dưới Leidenfrost. Đặc thù từng hãng: ngưỡng nhiệt chính xác, chiến lược nâng nhiệt khí xả, hiệu chỉnh vòi phun, thời gian rã đông. Những thứ này không công bố; brochure Bosch tôi đọc là tài liệu hậu mãi, chỉ có cấu hình sưởi và làm mát, không có ngưỡng. Vì vậy bài không suy đoán thông số nội bộ của Bosch hay của hãng nào. Muốn số thật, hãy dùng tài liệu kỹ thuật của chính hệ thống."
+      "notes": "Phần này tách hai loại thông tin theo yêu cầu của chủ repo. Kiến thức chung của ngành: ngưỡng cắt phun, nhu cầu sưởi và xả hay chống băng, cơ chế cặn ở mép màng và dưới Leidenfrost. Đặc thù từng hãng: ngưỡng nhiệt chính xác, chiến lược nâng nhiệt khí xả, hiệu chỉnh vòi phun, thời gian rã đông. Những thứ này không công bố; brochure Bosch tôi đọc là tài liệu hậu mãi, chỉ có cấu hình sưởi và làm mát, không có ngưỡng. Vì vậy bài không suy đoán thông số nội bộ của Bosch hay của hãng nào. Muốn số thật, hãy dùng tài liệu kỹ thuật của chính hệ thống.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Các lỗi thực tế liên quan nhiệt độ",
@@ -999,7 +1063,8 @@
         "NH3 thoát: giới hạn 10 ppm; tỷ lệ NH3/NOx tốt 0,9–1 [S14]",
         "Bình quá nóng: tăng áp, hạn dùng ngắn đi [S6]"
       ],
-      "notes": "Bốn lỗi hay gặp, mỗi lỗi gắn với một vùng nhiệt độ. Đóng băng thuộc vùng A: không phun được và có thể hỏng phần cứng. Cặn và tắc thuộc vùng D đến H: cặn tạo ở nhiệt độ cao khó tái sinh. NH3 thoát liên quan đến vùng làm việc của xúc tác: DieselNet nêu giới hạn mười ppm cho một số ứng dụng di động, tỷ lệ NH3 trên NOx tốt từ không phẩy chín đến một, và dùng ASC khi cần từ một trở lên. Bình quá nóng thuộc vùng C: tăng áp và hạn dùng ngắn đi. Các lỗi này là danh sách chung, không phải chẩn đoán cho một xe cụ thể."
+      "notes": "Bốn lỗi hay gặp, mỗi lỗi gắn với một vùng nhiệt độ. Đóng băng thuộc vùng A: không phun được và có thể hỏng phần cứng. Cặn và tắc thuộc vùng D đến H: cặn tạo ở nhiệt độ cao khó tái sinh. NH3 thoát liên quan đến vùng làm việc của xúc tác: DieselNet nêu giới hạn mười ppm cho một số ứng dụng di động, tỷ lệ NH3 trên NOx tốt từ không phẩy chín đến một, và dùng ASC khi cần từ một trở lên. Bình quá nóng thuộc vùng C: tăng áp và hạn dùng ngắn đi. Các lỗi này là danh sách chung, không phải chẩn đoán cho một xe cụ thể.",
+      "chapter": "Giọt phun, so sánh và ứng dụng"
     },
     {
       "title": "Tám điểm chưa chắc chắn",
@@ -1021,7 +1086,8 @@
         "Cefic ghi hai con số cho giãn nở khi đông (7% và hệ số 1,05) [S6]",
         "Phân loại tốt hay xấu và bản đồ rủi ro là suy luận của bài"
       ],
-      "notes": "Sáu hàng này gom tám điểm chưa chắc chắn của bài. Tiêu chuẩn ISO 22241 và DIN 70070 là tài liệu trả phí, nên bài dùng hướng dẫn Cefic năm 2011, cũ hơn đặc tả ISO 22241-2 năm 2019 của OCI. Biểu đồ của chủ repo chưa rõ tác giả. Điều kiện thí nghiệm giữa các nguồn khác nhau. Có một loạt mốc chưa có nguồn đọc được và bài ghi chưa xác nhận thay vì điền số. Cefic ghi hai con số cho giãn nở. Và phần phân loại tốt hay xấu, bản đồ rủi ro là suy luận. Nguồn ngôn ngữ chủ yếu là tiếng Anh, có một báo cáo Đức Anh và một bài Nhật chỉ đọc tóm tắt."
+      "notes": "Sáu hàng này gom tám điểm chưa chắc chắn của bài. Tiêu chuẩn ISO 22241 và DIN 70070 là tài liệu trả phí, nên bài dùng hướng dẫn Cefic năm 2011, cũ hơn đặc tả ISO 22241-2 năm 2019 của OCI. Biểu đồ của chủ repo chưa rõ tác giả. Điều kiện thí nghiệm giữa các nguồn khác nhau. Có một loạt mốc chưa có nguồn đọc được và bài ghi chưa xác nhận thay vì điền số. Cefic ghi hai con số cho giãn nở. Và phần phân loại tốt hay xấu, bản đồ rủi ro là suy luận. Nguồn ngôn ngữ chủ yếu là tiếng Anh, có một báo cáo Đức Anh và một bài Nhật chỉ đọc tóm tắt.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Nguồn nào chỉ đọc tóm tắt",
@@ -1044,7 +1110,8 @@
         "Govindarajan 2024, Obuchi 2021: chỉ đọc trang tóm tắt [S15][S17]",
         "DieselNet: chỉ đọc phần xem trước công khai [S13][S14]"
       ],
-      "notes": "Bảng này liệt kê nguồn nào bài chỉ đọc một phần, để người đọc biết mức tin cậy. Kuntz, Weeks, Mazari, Smith, Govindarajan và Obuchi chỉ có trang tóm tắt; DieselNet chỉ có phần xem trước công khai. Con số lấy từ những phần đó đúng với những gì trang hiển thị, nhưng điều kiện thí nghiệm chi tiết thì không có. Nguồn đọc kỹ hơn là Tischer 2019, báo cáo FVV, luận án Bernhard, hướng dẫn Cefic, đặc tả OCI, Zhu 2023 và brochure Bosch. Ba luận án tiếng Đức xuất hiện trong tìm kiếm nhưng chưa mở đọc nên chưa dùng."
+      "notes": "Bảng này liệt kê nguồn nào bài chỉ đọc một phần, để người đọc biết mức tin cậy. Kuntz, Weeks, Mazari, Smith, Govindarajan và Obuchi chỉ có trang tóm tắt; DieselNet chỉ có phần xem trước công khai. Con số lấy từ những phần đó đúng với những gì trang hiển thị, nhưng điều kiện thí nghiệm chi tiết thì không có. Nguồn đọc kỹ hơn là Tischer 2019, báo cáo FVV, luận án Bernhard, hướng dẫn Cefic, đặc tả OCI, Zhu 2023 và brochure Bosch. Ba luận án tiếng Đức xuất hiện trong tìm kiếm nhưng chưa mở đọc nên chưa dùng.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Bài thà ghi 'chưa xác nhận' còn hơn điền số",
@@ -1059,7 +1126,8 @@
         "Nhãn: SỐ LIỆU TỪ NGUỒN, SUY LUẬN, CHƯA XÁC NHẬN",
         "Người dùng bài cần tự tra số của chính hệ thống"
       ],
-      "notes": "Đây là nguyên tắc làm việc của cả bài. Có ba nhãn: số liệu từ nguồn, suy luận của người viết và chưa xác nhận. Khi không đọc được nguồn cho một con số, ví dụ nhiệt độ Leidenfrost của dung dịch urea, nhiệt độ NH3 bị oxy hóa mạnh trên bốn trăm năm mươi độ hay thời gian rã đông, bài không điền số. Lý do là một con số sai nhưng nghe có vẻ chắc dễ gây hại hơn là một ô trống ghi rõ. Người dùng bài cần tự tra số của chính hệ thống mình đang thiết kế hoặc vận hành."
+      "notes": "Đây là nguyên tắc làm việc của cả bài. Có ba nhãn: số liệu từ nguồn, suy luận của người viết và chưa xác nhận. Khi không đọc được nguồn cho một con số, ví dụ nhiệt độ Leidenfrost của dung dịch urea, nhiệt độ NH3 bị oxy hóa mạnh trên bốn trăm năm mươi độ hay thời gian rã đông, bài không điền số. Lý do là một con số sai nhưng nghe có vẻ chắc dễ gây hại hơn là một ô trống ghi rõ. Người dùng bài cần tự tra số của chính hệ thống mình đang thiết kế hoặc vận hành.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Sáu điều cần nhớ",
@@ -1082,7 +1150,8 @@
         "Cặn là chuyện màng lỏng trên thành, tới nhiệt độ Leidenfrost; trên 400°C vẫn còn phần dư tới 700°C [S12][S4]",
         "Ngưỡng cắt phun 200–250°C, hệ tốt từ ~180°C [S13]"
       ],
-      "notes": "Sáu điều cần nhớ gom cả bài. Một: AdBlue là eutectic, kết tinh từ âm mười một độ rưỡi, nở khoảng bảy phần trăm, nên giữ từ âm năm đến hai mươi lăm độ. Hai: hạn dùng ba mươi sáu, mười tám, mười hai, sáu tháng theo nhiệt độ. Ba: nước bay, urea nóng chảy và phân hủy ở các mốc đã nêu. Bốn: biuret đỉnh quanh một trăm chín mươi độ, cyanuric acid trội từ hai trăm hai mươi lăm đến ba trăm hai mươi lăm độ, ammelide bền đến khoảng ba trăm sáu mươi độ. Năm: cặn là chuyện của màng lỏng trên thành, và bốn trăm độ không xóa hết cặn. Sáu: ngưỡng cắt phun hai trăm đến hai trăm năm mươi độ."
+      "notes": "Sáu điều cần nhớ gom cả bài. Một: AdBlue là eutectic, kết tinh từ âm mười một độ rưỡi, nở khoảng bảy phần trăm, nên giữ từ âm năm đến hai mươi lăm độ. Hai: hạn dùng ba mươi sáu, mười tám, mười hai, sáu tháng theo nhiệt độ. Ba: nước bay, urea nóng chảy và phân hủy ở các mốc đã nêu. Bốn: biuret đỉnh quanh một trăm chín mươi độ, cyanuric acid trội từ hai trăm hai mươi lăm đến ba trăm hai mươi lăm độ, ammelide bền đến khoảng ba trăm sáu mươi độ. Năm: cặn là chuyện của màng lỏng trên thành, và bốn trăm độ không xóa hết cặn. Sáu: ngưỡng cắt phun hai trăm đến hai trăm năm mươi độ.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Lưu ý khi dùng bài này",
@@ -1099,7 +1168,8 @@
         "Luôn theo tài liệu của nhà sản xuất; xử lý NH3 theo phiếu an toàn của nhà cung cấp [S6]",
         "Phần SUY LUẬN và CHƯA XÁC NHẬN chưa được nguồn nào xác nhận"
       ],
-      "notes": "Bài này tổng hợp từ nguồn công khai và có mục đích giáo dục kỹ thuật. Nó không phải hướng dẫn sửa chữa, thiết kế hay an toàn cho một hãng xe cụ thể; luôn theo tài liệu của nhà sản xuất. Con số lấy từ các thí nghiệm khác nhau, không thay được thử nghiệm trên hệ thống thật. NH3 và các sản phẩm phân hủy của urea có thể gây kích ứng, nên xử lý theo phiếu an toàn của nhà cung cấp. Và những phần ghi suy luận hoặc chưa xác nhận chưa được nguồn nào xác nhận; người đọc không nên dùng chúng như số liệu thiết kế."
+      "notes": "Bài này tổng hợp từ nguồn công khai và có mục đích giáo dục kỹ thuật. Nó không phải hướng dẫn sửa chữa, thiết kế hay an toàn cho một hãng xe cụ thể; luôn theo tài liệu của nhà sản xuất. Con số lấy từ các thí nghiệm khác nhau, không thay được thử nghiệm trên hệ thống thật. NH3 và các sản phẩm phân hủy của urea có thể gây kích ứng, nên xử lý theo phiếu an toàn của nhà cung cấp. Và những phần ghi suy luận hoặc chưa xác nhận chưa được nguồn nào xác nhận; người đọc không nên dùng chúng như số liệu thiết kế.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Thuật ngữ: urea và các chất",
@@ -1117,7 +1187,8 @@
         "ammeline: ammeline; アンメリン",
         "melamin: melamine; メラミン"
       ],
-      "notes": "Bảng thuật ngữ tra Việt, Anh, Nhật cho các chất. Chỉ ba thuật ngữ tiếng Nhật xuất hiện trong trang tóm tắt của bài JSAE là シアヌル酸, ビウレット và 高沸点副生物. Các từ còn lại là bảng tra của người viết và chưa được người bản ngữ kiểm tra, nên ghi chưa xác nhận. Cách đọc: ure là tên Việt của urea, axit cyanuric là tên Việt của cyanuric acid. Giữ tên tiếng Anh khi đọc tài liệu, vì phần lớn nguồn viết bằng tiếng Anh. Bài giữ màu nhất quán: urea hồng, biuret xanh lá, ammelide đỏ, cyanuric acid tím."
+      "notes": "Bảng thuật ngữ tra Việt, Anh, Nhật cho các chất. Chỉ ba thuật ngữ tiếng Nhật xuất hiện trong trang tóm tắt của bài JSAE là シアヌル酸, ビウレット và 高沸点副生物. Các từ còn lại là bảng tra của người viết và chưa được người bản ngữ kiểm tra, nên ghi chưa xác nhận. Cách đọc: ure là tên Việt của urea, axit cyanuric là tên Việt của cyanuric acid. Giữ tên tiếng Anh khi đọc tài liệu, vì phần lớn nguồn viết bằng tiếng Anh. Bài giữ màu nhất quán: urea hồng, biuret xanh lá, ammelide đỏ, cyanuric acid tím.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Thuật ngữ: phản ứng và hiện tượng",
@@ -1133,7 +1204,8 @@
         "cộng tinh: eutectic; 共晶",
         "thăng hoa: sublimation; 昇華"
       ],
-      "notes": "Bốn thuật ngữ về phản ứng và hiện tượng. Nhiệt phân là thermolysis, urea tách thành NH3 và HNCO khi nóng. Thủy phân là hydrolysis, HNCO gặp nước thành NH3 và CO2. Cộng tinh là eutectic, hỗn hợp đông đặc ở một nhiệt độ rõ, như AdBlue và hỗn hợp biuret với urea. Thăng hoa là sublimation, chất rắn chuyển thẳng thành khí, như cyanuric acid trên ba trăm độ. Các thuật ngữ tiếng Nhật là bảng tra của người viết, chưa được người bản ngữ kiểm tra. Tên tiếng Anh vẫn là cách an toàn nhất khi tra cứu tài liệu."
+      "notes": "Bốn thuật ngữ về phản ứng và hiện tượng. Nhiệt phân là thermolysis, urea tách thành NH3 và HNCO khi nóng. Thủy phân là hydrolysis, HNCO gặp nước thành NH3 và CO2. Cộng tinh là eutectic, hỗn hợp đông đặc ở một nhiệt độ rõ, như AdBlue và hỗn hợp biuret với urea. Thăng hoa là sublimation, chất rắn chuyển thẳng thành khí, như cyanuric acid trên ba trăm độ. Các thuật ngữ tiếng Nhật là bảng tra của người viết, chưa được người bản ngữ kiểm tra. Tên tiếng Anh vẫn là cách an toàn nhất khi tra cứu tài liệu.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Thuật ngữ: hệ thống và cặn",
@@ -1151,7 +1223,8 @@
         "cặn: deposit; 堆積物",
         "hiệu ứng Leidenfrost: Leidenfrost effect; ライデンフロスト効果"
       ],
-      "notes": "Sáu thuật ngữ cuối là về hệ thống và cặn. Dung dịch urea có nhiều tên: UWS, DEF, AdBlue, AUS 32. SCR là khử xúc tác chọn lọc. Amoniac, NH3, là chất khử. Axit isocyanic, HNCO, là chất trung gian rất hoạt động, nguồn gốc của hầu hết cặn. Cặn trong tài liệu kỹ thuật Anh là deposit. Hiệu ứng Leidenfrost là hiện tượng giọt nảy trên lớp hơi khi thành rất nóng. Các từ tiếng Nhật chưa được người bản ngữ kiểm tra. Bài JSAE dùng cụm 高沸点副生物 cho các sản phẩm phụ có nhiệt độ sôi cao như cyanuric acid và biuret."
+      "notes": "Sáu thuật ngữ cuối là về hệ thống và cặn. Dung dịch urea có nhiều tên: UWS, DEF, AdBlue, AUS 32. SCR là khử xúc tác chọn lọc. Amoniac, NH3, là chất khử. Axit isocyanic, HNCO, là chất trung gian rất hoạt động, nguồn gốc của hầu hết cặn. Cặn trong tài liệu kỹ thuật Anh là deposit. Hiệu ứng Leidenfrost là hiện tượng giọt nảy trên lớp hơi khi thành rất nóng. Các từ tiếng Nhật chưa được người bản ngữ kiểm tra. Bài JSAE dùng cụm 高沸点副生物 cho các sản phẩm phụ có nhiệt độ sôi cao như cyanuric acid và biuret.",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Nguồn tham khảo",
@@ -1179,7 +1252,8 @@
         "S17: Obuchi, Uchisawa, Suzuki, 2021, JSAE paper 122-21 (AIST)",
         "S18: Wikimedia Commons: cấu trúc bốn chất (public domain); ảnh Hino SCR Unit (CC BY-SA 3.0)"
       ],
-      "notes": "Các nguồn của bài. S1 là biểu đồ do chủ repo cung cấp. S2 Schaber 2004 chưa đọc bản gốc, trích qua tóm tắt của Tischer. S3 đến S8 là nguồn đọc kỹ nhất: Tischer, báo cáo FVV, luận án Bernhard, hướng dẫn Cefic, đặc tả OCI và Zhu. S9 đến S12, S15 và S17 chỉ đọc trang tóm tắt. S13 và S14 là DieselNet, chỉ đọc phần xem trước công khai. S16 là brochure hậu mãi của Bosch, không có ngưỡng nhiệt. S18 là Wikimedia Commons với giấy phép ghi trên hình. ISO 22241 và DIN 70070 là tài liệu trả phí và chưa đọc bản gốc."
+      "notes": "Các nguồn của bài. S1 là biểu đồ do chủ repo cung cấp. S2 Schaber 2004 chưa đọc bản gốc, trích qua tóm tắt của Tischer. S3 đến S8 là nguồn đọc kỹ nhất: Tischer, báo cáo FVV, luận án Bernhard, hướng dẫn Cefic, đặc tả OCI và Zhu. S9 đến S12, S15 và S17 chỉ đọc trang tóm tắt. S13 và S14 là DieselNet, chỉ đọc phần xem trước công khai. S16 là brochure hậu mãi của Bosch, không có ngưỡng nhiệt. S18 là Wikimedia Commons với giấy phép ghi trên hình. ISO 22241 và DIN 70070 là tài liệu trả phí và chưa đọc bản gốc.",
+      "chapter": "Nguồn tham khảo"
     }
   ]
 }

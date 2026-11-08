@@ -8,12 +8,21 @@
   "Adler: để làm gì",
   "Vô thức"
  ],
- "concepts": ["freud", "jung", "adler", "vô thức"],
+ "concepts": [
+  "freud",
+  "jung",
+  "adler",
+  "vô thức"
+ ],
  "mark": {
-  "1": "ba quan niệm khác nhau",
-  "10": "điều khó chịu",
-  "24": "bất toàn",
-  "37": "không phải lời khuyên y tế"
+  "2": "ba quan niệm khác nhau",
+  "11": "điều khó chịu",
+  "25": "bất toàn",
+  "38": "không phải lời khuyên y tế"
  },
- "center": {"7": "Cái tôi", "21": "Mục tiêu hư cấu", "35": "Ngôi nhà"}
+ "center": {
+  "8": "Cái tôi",
+  "22": "Mục tiêu hư cấu",
+  "36": "Ngôi nhà"
+ }
 }

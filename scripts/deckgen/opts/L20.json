@@ -15,18 +15,18 @@
   "hbm"
  ],
  "mark": {
-  "1": "ghép chung trong một vỏ",
-  "22": "nhiều hãng",
-  "42": "một tập mảnh chuyên dụng"
+  "2": "ghép chung trong một vỏ",
+  "23": "nhiều hãng",
+  "43": "một tập mảnh chuyên dụng"
  },
  "big": {
-  "5": "858 mm²",
-  "24": "12 × 8 = 96",
-  "33": "208 tỷ",
-  "36": "47 tile"
+  "6": "858 mm²",
+  "25": "12 × 8 = 96",
+  "34": "208 tỷ",
+  "37": "47 tile"
  },
  "center": {
-  "15": "Gói chiplet",
-  "35": "Gói chip AI"
+  "16": "Gói chiplet",
+  "36": "Gói chip AI"
  }
 }

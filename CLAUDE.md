@@ -44,7 +44,13 @@ lessons/README.md            mục lục, sinh bởi scripts/decks.py index
 - front matter `---` với `id`, `title`, `topic`, `date` (YYYY-MM-DD), rồi `# <title>`;
 - `topic` là một trong `than-kinh`, `nao-bo`, `triet-hoc`, `suc-khoe`, `quan-ly-du-an`, `ky-thuat`, `khac`;
 - các mục `## ` theo spec; bài sức khỏe (hoặc có nội dung y tế) có `## Lưu ý` (không phải lời khuyên y tế);
-  mục cuối luôn là `## Nguồn tham khảo` với mỗi nguồn một dòng `- [S1] tác giả, tên, năm, URL`;
+  mục cuối luôn là `## Nguồn tham khảo` với mỗi nguồn một dòng `- [S1] [tác giả, tên, năm](URL)`;
+- **mọi nguồn tham khảo phải là hyperlink** (chủ repo, 2026-11-04) để người đọc mở lên xác nhận ngay: dòng nguồn trong `lesson.md` viết dạng
+  liên kết Markdown `[tên nguồn](https://...)`, URL trỏ đúng trang chứa điều bài dựa vào (không phải trang chủ), đã mở thử được; dấu ngoặc trong
+  URL viết `%28` `%29`; ảnh trỏ tới trang tệp của ảnh (ví dụ trang File: trên Wikimedia Commons). Nguồn trả phí hoặc cần đăng nhập vẫn phải có
+  link (DOI hoặc trang nhà xuất bản) và ghi "trả phí" trong tên nguồn. Không có link mở được thì không dùng làm nguồn `[Sn]`. Slide nguồn của
+  deck cũng phải bấm được từng nguồn (`gen.py` tự lấy URL từ `lesson.md`; sau khi xuất PPTX, kiểm các liên kết còn trong file). Cổng
+  `check_lesson.py` bắt lỗi với bài có `date` từ 2026-11-04 trở đi; bài cũ hơn sửa dần khi có việc đụng tới;
 - tiếng Việt có dấu; thuật ngữ kèm tiếng Anh trong ngoặc lần đầu; trích dẫn `[S1]` ngay sau ý;
 - không bịa nguồn, số liệu, nghiên cứu, ngày tháng hay câu trích. Thiếu nguồn thì viết ý không kèm số liệu.
 
@@ -67,7 +73,7 @@ lấy từ deck System Design của tool-marketing-studio. Markup từng trang s
 
 1. `git pull`, rồi `python3 scripts/decks.py todo`: danh sách bài thiếu deck hoặc deck cũ. Làm tất cả.
 2. Mỗi bài: đọc `slides.json` (không thêm ý mới). Một canvas, bìa tối rồi mỗi phần tử một slide theo đúng `layout` và
-   `tone` của nó; nguồn `[S1]` ở chân slide. Logo Moda trên slide là chấp nhận được.
+   `tone` của nó; nguồn `[S1]` ở chân slide. Logo Moda trên slide là chấp nhận được. Slide nguồn: mỗi thẻ là liên kết bấm được tới URL của nguồn.
 3. Xem mọi slide (ba trang một lệnh chụp), sửa một lần. Xuất **PPTX** (không PNG), tải về `lessons/<id>/<id>.pptx`,
    rồi `python3 scripts/decks.py record <id> --canvas <URL>`.
 4. Hết bài: `python3 scripts/decks.py todo` không in gì; `python3 scripts/decks.py index`; commit

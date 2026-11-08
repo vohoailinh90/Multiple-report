@@ -4,7 +4,9 @@ Nhiều phiên Claude cùng làm trong repo này, mỗi phiên trong một conta
 Tài liệu này là luật và bảng giữ bài; công cụ là `scripts/claims.py`. Nghiên cứu nguồn gốc (cách tool-marketing-studio làm) nằm ở
 `docs/dieu-phoi-nhieu-phien.md`.
 
-**Quyết định của chủ repo (2026-10-21): tối đa 2 phiên viết chạy cùng lúc.** Phiên phản biện (chỉ đọc) không tính. Deck chỉ phiên điều phối dựng.
+**Quyết định của chủ repo: tối đa 3 phiên viết chạy cùng lúc** (2026-10-24; trước đó là 2, quyết định 2026-10-21). Phiên phản biện (chỉ đọc) không tính. Deck chỉ phiên điều phối dựng.
+
+**Mã bài** (2026-10-24): `L<nn>` là series chung; `F<nn>` (Freud), `A<nn>` (Adler), `J<nn>` (Jung) là giáo trình Freud–Adler–Jung. Cùng một luật và cùng một công cụ cho cả bốn tiền tố. `claims.py next` và `claim --new` chỉ cấp số `L`; mã `F`, `A`, `J` do điều phối chọn theo giáo trình, tạo `lessons/<id>.spec.md` và `expected.json` trước khi giao.
 
 ## Luật
 
@@ -18,7 +20,7 @@ Tài liệu này là luật và bảng giữ bài; công cụ là `scripts/claim
 4. **Phiên viết chỉ ghi trong `lessons/<id>/`** (và file khoá `lessons/<id>.claim.json`). Không sửa `expected.json`, `lessons/README.md`, `docs/`, `scripts/`,
    `CLAUDE.md`. Trước khi báo xong: `claims.py scope <id>` phải thoát 0.
 5. **Giữ nhịp tim.** Mỗi vài giờ và trước mỗi lần push: `claims.py touch --publish`. Khoá im quá **24 giờ** là "stale": ai cũng nhận lại được bằng
-   `claim <id> --take-stale`, và phiên cũ nếu tỉnh dậy thì thua (`verify` báo). Khoá của chính mình đã quá hạn thì `touch` không gia hạn được: `claim <id> --publish` lại, và chỉ được khi còn chỗ trong 2 phiên. Hạn 24 giờ do chủ repo chốt (2026-10-21); đổi `LEASE_HOURS` trong script nếu cần.
+   `claim <id> --take-stale`, và phiên cũ nếu tỉnh dậy thì thua (`verify` báo). Khoá của chính mình đã quá hạn thì `touch` không gia hạn được: `claim <id> --publish` lại, và chỉ được khi còn chỗ trong 3 phiên. Hạn 24 giờ do chủ repo chốt (2026-10-21); đổi `LEASE_HOURS` trong script nếu cần.
 6. **Xong thì `finish`.** `claims.py finish <id> --publish` (cần `lessons/<id>/lesson.md`), commit file khoá cùng bài. PR mang khoá `doing` sẽ bị
    `claims.py check --merge-ready` chặn (CI chạy lệnh này).
 7. **Bài đã viết xong muốn viết lại hoặc sửa** cần cờ `--rewrite` (điều phối bảo thì mới dùng). Bài đang có việc dở trên nhánh khác bị từ chối trừ khi
@@ -30,7 +32,7 @@ Tài liệu này là luật và bảng giữ bài; công cụ là `scripts/claim
 ## Bảng giữ bài
 
 Chỉ phiên điều phối sửa. Không ghi số đếm (số liệu lấy từ `claims.py status` và `decks.py todo`). `claims.py check` đọc bảng này: cột đúng tên, giá trị
-trong tập cho phép, và không quá 2 nhánh cùng ở `viết`/`sửa` với trạng thái `giao` hoặc `đang làm`.
+trong tập cho phép, và không quá 3 nhánh cùng ở `viết`/`sửa` với trạng thái `giao` hoặc `đang làm`.
 
 Việc: `viết`, `phản biện a`, `phản biện b`, `sửa`, `deck`. Trạng thái: `giao`, `đang làm`, `chờ phản biện`, `chờ PR`, `xong`.
 
@@ -58,7 +60,7 @@ Phiên viết:
 
 ```bash
 git fetch origin && git checkout -b claude/lesson-L17 origin/main
-python3 scripts/claims.py status                  # ai đang viết gì (tối đa 2), số kế tiếp
+python3 scripts/claims.py status                  # ai đang viết gì (tối đa 3), số kế tiếp
 python3 scripts/claims.py claim L17 --publish     # thoát 0 mới được viết
 # ... viết lessons/L17/ ...
 python3 scripts/claims.py touch --publish         # mỗi vài giờ và trước mỗi push
@@ -79,10 +81,10 @@ python3 scripts/claims.py claim L17 --take-stale --publish   # nhận lại bài
 
 ## Cái công cụ chặn, và cái nó không chặn
 
-Chặn: hai phiên viết cùng một bài; phiên thứ ba khi đã có hai phiên viết; cấp trùng số hiệu; viết đè bài đã có hoặc bài đang dở trên nhánh khác; khoá của
+Chặn: hai phiên viết cùng một bài; phiên thứ tư khi đã có ba phiên viết; cấp trùng số hiệu; viết đè bài đã có hoặc bài đang dở trên nhánh khác; khoá của
 phiên chết giữ bài mãi; phiên viết sửa file ngoài bài của nó; khoá `doing` lọt vào `main`.
 
 Không chặn: git không có compare-and-swap, nên hai phiên claim cùng lúc vẫn có thể cùng đẩy. Khi đó khoá có `claimed_at` sớm hơn thắng (hoà thì tên nhánh
 nhỏ hơn) và phiên thua thấy `verify` thoát 1: bỏ bài đó, `release`, không đẩy bản nháp. Việc thua chỉ mất việc của phiên thua, không bao giờ có hai bài
-trùng trên `main`. Công cụ cũng không giữ chỗ cho phản biện và deck (đã tách theo nhánh và theo luật 8); giới hạn 2 đếm theo nhánh có khoá `doing`, không
+trùng trên `main`. Công cụ cũng không giữ chỗ cho phản biện và deck (đã tách theo nhánh và theo luật 8); giới hạn 3 đếm theo nhánh có khoá `doing`, không
 đếm theo phiên.

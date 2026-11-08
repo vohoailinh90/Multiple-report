@@ -97,6 +97,30 @@ class GenTests(unittest.TestCase):
         self.assertIn("Reuptake inhibitor", drawn)
         self.assertIn("serotonin ở lại lâu hơn", drawn)
 
+    def contents_page(self, bullets):
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        slide = {"title": "Mục lục", "section": "Tóm tắt", "sources": [], "bullets": bullets, "notes": "",
+                 "layout": "contents", "tone": "light"}
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [slide]}), encoding="utf-8")
+        return gen.page("L98", 1, {}, path)
+
+    def test_contents_draws_one_numbered_card_per_chapter_in_one_or_two_columns(self):
+        four = [f"Chương {k}: ý chính của chương {k}" for k in range(1, 5)]
+        markup = self.contents_page(four)
+        ET.fromstring(markup)
+        self.assertEqual(gen.overflows(markup), [])
+        nums = [(x, t) for x, w, sz, t in texts(markup) if re.fullmatch(r"\d", t)]
+        self.assertEqual([t for _, t in nums], ["1", "2", "3", "4"])
+        self.assertEqual(len({x for x, _ in nums}), 1, "up to four chapters share one column")
+        for t in ("Chương 1", "ý chính của chương 4"):
+            self.assertIn(t, [txt for _, _, _, txt in texts(markup)])
+        eight = [f"Chương {k}: ý chính của chương {k}, đủ dài để chiếm hai dòng trong thẻ hẹp của cột đôi" for k in range(1, 9)]
+        markup = self.contents_page(eight)
+        self.assertEqual(gen.overflows(markup), [])
+        self.assertEqual(len({x for x, _, _, t in texts(markup) if re.fullmatch(r"\d", t)}), 2, "five or more chapters use two columns")
+
     def test_references_use_two_columns_beyond_six(self):
         markup = self.demo(5)
         xs = {x for x, _, _, t in texts(markup) if re.fullmatch(r"S\d+", t)}

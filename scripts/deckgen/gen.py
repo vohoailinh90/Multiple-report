@@ -524,8 +524,30 @@ def references(p, n, s, o):
     return out
 
 
+def contents(p, n, s, o):
+    """Mục lục (slide 2, ngay sau bìa): 3-8 chương, mỗi chương một thẻ 'Tên chương: ý chính'; một cột đến 4 chương, hai cột nếu nhiều hơn."""
+    bl = s["bullets"]; c = len(bl); out = []
+    cols = 1 if c <= 4 else 2
+    per = math.ceil(c / cols)
+    y0, h, gap = 270, 640, 14
+    cw = (1728 - 40 * (cols - 1)) / cols
+    rh = min(150, (h - gap * (per - 1)) / per)
+    for k, b in enumerate(bl):
+        a, _ = acc(p, n, k)
+        q, r = divmod(k, per)
+        xx = M + q * (cw + 40); yy = y0 + r * (rh + gap)
+        label, desc = split_kv(b)
+        tw = cw - 156
+        out.append(f'<text x="{xx:.0f}" y="{yy:.0f}" width="92" height="{rh:.0f}" font-family="Bricolage Grotesque" font-weight="800" font-size="{min(72, int(rh) - 20)}" color="{a}" vertical-align="middle" max-lines="1">{k + 1}</text>')
+        out.append(f'<rectangle x="{xx + 100:.0f}" y="{yy:.0f}" width="{cw - 100:.0f}" height="{rh:.0f}" corner-radius="20" fill="{p["card"]}"/>')
+        out.append(f'<rectangle x="{xx + 100:.0f}" y="{yy + 18:.0f}" width="8" height="{rh - 36:.0f}" corner-radius="4" fill="{a}"/>')
+        out.append(f'<text x="{xx + 128:.0f}" y="{yy + 10:.0f}" width="{tw:.0f}" height="44" font-weight="700" font-size="{fit(label or "", tw, 44, 34, 1.15, 26, 0.58)}" color="{p["ink"]}" vertical-align="middle" line-height="1.15" max-lines="1">{x(label or "")}</text>')
+        out.append(f'<text x="{xx + 128:.0f}" y="{yy + 56:.0f}" width="{tw:.0f}" height="{rh - 66:.0f}" font-size="{fit(desc, tw, rh - 66, 28, 1.2, FLOOR)}" color="{p["sub"]}" vertical-align="top" line-height="1.2">{x(desc)}</text>')
+    return out
+
+
 LAYOUTS = {"card-grid": card_grid, "flow": flow, "two-column-comparison": two_col, "lookup-table": lookup,
-           "numbered-rows": numbered, "layers": layers, "timeline": timeline, "references": references}
+           "numbered-rows": numbered, "layers": layers, "timeline": timeline, "references": references, "contents": contents}
 INDEXED = {"connection-diagram": connection, "one-big-number": big, "one-highlighted-sentence": highlight,
            "sequence-diagram": sequence, "figure": figure, "annotated-figure": annotated_figure,
            "explainer": explainer, "profile-card": profile_card}

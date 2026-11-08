@@ -1,0 +1,75 @@
+{
+  "id": "L21",
+  "title": "Bản đồ ổ đĩa và bộ nhớ máy tính: HDD, SSD, RAM, HBM và hơn thế nữa",
+  "topic": "ky-thuat",
+  "sections": [
+    "Bộ nhớ và lưu trữ: bức tranh chung",
+    "HDD: ổ đĩa cơ",
+    "SSD: nguyên lý và cấu tạo",
+    "SSD: loại cell và 3D NAND",
+    "SSD: giao tiếp, tốc độ và độ bền",
+    "Các loại lưu trữ khác",
+    "RAM: SRAM, DRAM và các module",
+    "HBM và CXL",
+    "So sánh và hướng dẫn chọn",
+    "Hiểu lầm thường gặp",
+    "Điều cần nhớ và độ chắc chắn của số liệu",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://www.tomshardware.com/pc-components/ram/jedec-finalizes-hbm4-memory-standard-with-major-bandwidth-and-efficiency-upgrades",
+    "https://www.storagereview.com/news/micron-9650-nvme-ssd-enters-mass-production-as-first-pcie-gen6-enterprise-ssd",
+    "https://www.techradar.com/pro/seagate-confirms-40tb-hard-drives-have-already-been-shipped-but-dont-expect-them-to-go-on-sale-till-2026",
+    "https://www.jedec.org/node/9631",
+    "https://www.tomshardware.com/pc-components/storage/fujifilm-to-begin-shipping-lto-ultrium-10-40tb-tape-cartridges-in-january-2026"
+  ],
+  "key_terms": [
+    "HDD",
+    "SSD",
+    "NAND",
+    "NVMe",
+    "SATA",
+    "PCIe",
+    "SLC",
+    "TLC",
+    "QLC",
+    "TBW",
+    "DWPD",
+    "DRAM",
+    "SRAM",
+    "DDR5",
+    "HBM",
+    "TSV",
+    "interposer",
+    "CXL",
+    "volatile",
+    "CMR",
+    "SMR",
+    "eMMC",
+    "UFS",
+    "LTO",
+    "ECC",
+    "Optane",
+    "controller"
+  ],
+  "min_words": 4000,
+  "max_words": 14000,
+  "min_citations": 30,
+  "min_independent_sources": 14,
+  "min_layouts": 10,
+  "section_min_slides": 3,
+  "section_min_exempt": [
+    "Điều cần nhớ và độ chắc chắn của số liệu",
+    "Nguồn tham khảo"
+  ],
+  "notes_words": [
+    80,
+    200
+  ],
+  "min_images": 20,
+  "language": "vi",
+  "slides": {
+    "min": 40,
+    "max": 50
+  }
+}

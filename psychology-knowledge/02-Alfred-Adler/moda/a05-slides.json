@@ -1,0 +1,635 @@
+{
+ "title": "A05 · Striving for Superiority — nỗ lực vươn lên",
+ "subtitle": "Một nỗ lực, hai hướng: đóng góp hoặc thống trị",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/05-striving-for-superiority.md",
+ "accent": "teal",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "A05 · VƯƠN LÊN",
+   "title": "Vươn lên\nhay thống trị?",
+   "body": "Bài đọc cách Adler nối nỗ lực vươn lên với cảm giác thiếu hụt, mục tiêu hư cấu và tình cảm xã hội, rồi hỏi nghiên cứu hiện đại kiểm được gì.",
+   "nodes": [
+    [
+     "Cảm giác thiếu hụt",
+     "Điểm xuất phát"
+    ],
+    [
+     "Tình cảm xã hội",
+     "Tiêu chí của Adler"
+    ]
+   ],
+   "source": "A05 · Câu hỏi trung tâm",
+   "right": "STRIVING FOR SUPERIORITY"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "title": "Bốn việc cần làm được sau bài",
+   "body": "Giải thích, phân biệt, phân tích, đánh giá.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Nguồn gốc nỗ lực vươn lên"
+    ],
+    [
+     "02 · Phân biệt",
+     "Đóng góp và thống trị"
+    ],
+    [
+     "03 · Phân tích",
+     "Ba giả thuyết"
+    ],
+    [
+     "04 · Đánh giá",
+     "Nghiên cứu lân cận"
+    ]
+   ],
+   "source": "A05 · A",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Hai văn bản dịch",
+   "body": "Understanding Human Nature (1927) và Practice and Theory of Individual Psychology (1925/1929). Cả hai là bản dịch tiếng Anh. [S1] [S2]",
+   "nodes": [
+    [
+     "1927",
+     "Wolfe"
+    ],
+    [
+     "1925",
+     "Radin"
+    ]
+   ],
+   "source": "[S1] [S2]",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Điều bài chưa đọc",
+   "body": "Tài liệu thập niên 1930 (Social Interest). Bài không khẳng định Adler chuyển nhấn từ superiority sang perfection.",
+   "nodes": [
+    [
+     "Đã đọc",
+     "1925, 1927"
+    ],
+    [
+     "Chưa đọc",
+     "1930s"
+    ]
+   ],
+   "source": "A05 · mục B",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Bắt đầu từ thiếu hụt",
+   "body": "Cảm giác thấp kém xác định mục tiêu; sự tìm kiếm chú ý bắt đầu từ những ngày đầu đời. [S1, tr. 72]",
+   "nodes": [
+    [
+     "Thiếu hụt",
+     "Điểm xuất phát"
+    ],
+    [
+     "Mục tiêu",
+     "Vị trí tốt hơn"
+    ]
+   ],
+   "source": "[S1] tr. 72",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Mục tiêu là hư cấu định hướng",
+   "body": "Như kinh tuyến chia trái đất: không thật nhưng hữu ích để định hướng. Adler nói nó còn khớp phần lớn sự thật; bài không kiểm điều này. [S1, tr. 72–73]",
+   "nodes": [
+    [
+     "Hư cấu",
+     "Điểm quy chiếu"
+    ],
+    [
+     "Heuristic",
+     "Hiểu hành vi"
+    ]
+   ],
+   "source": "[S1] tr. 72–73",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Tiêu chí: tình cảm xã hội",
+   "body": "Mức và chất lượng tình cảm xã hội giúp xác định mục tiêu thống trị; so mục tiêu cá nhân với lượng tình cảm xã hội. [S1, tr. 72]",
+   "nodes": [
+    [
+     "Tình cảm xã hội cao",
+     "Hướng đóng góp"
+    ],
+    [
+     "Thấp",
+     "Hướng thống trị"
+    ]
+   ],
+   "source": "[S1] tr. 72",
+   "arrows": "solid",
+   "hyp": "tiêu chí lý thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Tham vọng phi xã hội",
+   "body": "Không gây xung đột rõ rệt nhưng không mang lợi ích cho xã hội; chỉ số xã hội đo khoảng cách với đồng loại. [S1, tr. 76–77]",
+   "nodes": [
+    [
+     "Tham vọng",
+     "Phi xã hội"
+    ],
+    [
+     "Khoảng cách",
+     "Chỉ số xã hội"
+    ]
+   ],
+   "source": "[S1] tr. 76–77",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Khi nó quá mức",
+   "body": "Sợ không bao giờ bù được thì đòi bù quá mức; mức cực đoan Adler gọi là bệnh lý (phán đoán lý thuyết). Chi tiết ở A06. [S1, tr. 75–76]",
+   "nodes": [
+    [
+     "Bù trừ",
+     "Khôi phục cân bằng"
+    ],
+    [
+     "Bù quá mức",
+     "Cán cân nghiêng"
+    ]
+   ],
+   "source": "[S1] tr. 75–76",
+   "arrows": "dash",
+   "hyp": "bài A06"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Không phải lúc nào cũng ồn ào",
+   "body": "Trẻ có thể giấu thống trị dưới vẻ nhân hậu; hành vi giống nhau có thể do mục tiêu khác. [S1, tr. 74, 82]",
+   "nodes": [
+    [
+     "Giống nhau",
+     "Mục tiêu khác"
+    ],
+    [
+     "Khác nhau",
+     "Cùng mục tiêu"
+    ]
+   ],
+   "source": "[S1] tr. 74, 82",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều không được suy ra",
+   "body": "Mọi nỗ lực là thống trị; mục tiêu đo được; người thành đạt đang bù trừ; thống trị luôn dễ thấy.",
+   "nodes": [
+    [
+     "Không",
+     "Mọi nỗ lực"
+    ],
+    [
+     "Không",
+     "Đo được"
+    ],
+    [
+     "Không",
+     "Luôn dễ thấy"
+    ]
+   ],
+   "source": "A05 · mục C",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Chuỗi giả thuyết năm bước",
+   "body": "Thiếu hụt, mục tiêu, hằng số tự đánh giá, hai hướng, biểu hiện giống nhau. Phần lớn là suy luận. [S1]",
+   "nodes": [
+    [
+     "1",
+     "Thiếu hụt"
+    ],
+    [
+     "2",
+     "Mục tiêu"
+    ],
+    [
+     "3",
+     "Tự đánh giá"
+    ],
+    [
+     "4",
+     "Hai hướng"
+    ],
+    [
+     "5",
+     "Biểu hiện giống nhau"
+    ]
+   ],
+   "source": "[S1] tr. 72–82",
+   "arrows": "solid",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "title": "Hai hướng của một nỗ lực",
+   "body": "Năng lực và đóng góp với tình cảm xã hội cao; thống trị và giữ khoảng cách với tình cảm xã hội thấp.",
+   "nodes": [
+    [
+     "Thiếu hụt",
+     "Điểm xuất phát"
+    ],
+    [
+     "Mục tiêu",
+     "Hư cấu định hướng"
+    ],
+    [
+     "Hướng năng lực",
+     "Đóng góp"
+    ],
+    [
+     "Hướng thống trị",
+     "Khoảng cách"
+    ]
+   ],
+   "source": "A05 · mục D",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     560,
+     400,
+     400,
+     190,
+     1
+    ],
+    [
+     1040,
+     250,
+     400,
+     190,
+     0
+    ],
+    [
+     1040,
+     560,
+     400,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Sinh viên luyện thi",
+   "body": "Bù thiếu hụt thực, hợp tác, hướng năng lực. Giải thích thay thế: cần điểm xét nguyện vọng. Không cần khái niệm Adler.",
+   "nodes": [
+    [
+     "Adler",
+     "Đóng góp"
+    ],
+    [
+     "Thay thế",
+     "Mục tiêu học tập thường"
+    ]
+   ],
+   "source": "A05 · E",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Đồng nghiệp chen lời",
+   "body": "Gần mô tả hạ thấp người khác để nâng mình. Thay thế: áp lực KPI, văn hóa cạnh tranh. Cần xem mô thức qua nhiều bối cảnh. [S1, tr. 76]",
+   "nodes": [
+    [
+     "Adler",
+     "Khoảng cách"
+    ],
+    [
+     "Thay thế",
+     "KPI, văn hóa"
+    ]
+   ],
+   "source": "[S1] tr. 76",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Người luôn quá bận",
+   "body": "Ca của Adler: đạt ưu thế vô hại bằng cách đứng ngoài mọi chỉ trích. Thay thế: thật sự quá tải. Không có dữ liệu độc lập. [S1, tr. 83–85]",
+   "nodes": [
+    [
+     "Adler",
+     "Ưu thế vô hại"
+    ],
+    [
+     "Thay thế",
+     "Quá tải thật"
+    ]
+   ],
+   "source": "[S1] tr. 83–85",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ca giả định: Quang",
+   "body": "Trưởng nhóm mới làm khuya, sửa việc người khác, hai người xin chuyển. Bốn giải thích cạnh tranh; chưa thể nói 'muốn thống trị'. [S1]",
+   "nodes": [
+    [
+     "Biết",
+     "Làm khuya, sửa việc"
+    ],
+    [
+     "Chưa biết",
+     "Áp lực, lý do"
+    ]
+   ],
+   "source": "A05 · F",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Cách kiểm hợp lý",
+   "body": "Hỏi mở, thử giao việc kèm hướng dẫn, đối chiếu phản hồi. Không câu trả lời nào xác nhận lý thuyết.",
+   "nodes": [
+    [
+     "Hỏi",
+     "Câu mở"
+    ],
+    [
+     "Thử",
+     "Giao việc"
+    ],
+    [
+     "Đối chiếu",
+     "Phản hồi nhóm"
+    ]
+   ],
+   "source": "A05 · F",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Điều chưa tìm thấy",
+   "body": "Không thấy nghiên cứu kiểm trực tiếp khái niệm striving for superiority. Đây là giới hạn của tìm kiếm, không phải bằng chứng chống.",
+   "nodes": [
+    [
+     "Tìm thấy",
+     "Nghiên cứu lân cận"
+    ],
+    [
+     "Chưa thấy",
+     "Phép kiểm trực tiếp"
+    ]
+   ],
+   "source": "[a05-research]",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Dominance và prestige",
+   "body": "Hai chiến lược đều tăng ảnh hưởng; prestige được mến, dominance thì không. Tương đồng, không phải phép kiểm Adler. [S3]",
+   "nodes": [
+    [
+     "Dominance",
+     "Dùng sức mạnh"
+    ],
+    [
+     "Prestige",
+     "Chia sẻ chuyên môn"
+    ]
+   ],
+   "source": "[S3]",
+   "arrows": "dash",
+   "hyp": "tương đồng"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Nhu cầu năng lực và thang tự báo cáo",
+   "body": "SDT: năng lực, tự chủ, gắn kết. Vận động viên tự trọng cao hơn, ưu việt cao hơn. Không xác nhận bù trừ. [S4] [S5]",
+   "nodes": [
+    [
+     "SDT",
+     "Ba nhu cầu"
+    ],
+    [
+     "Khảo sát",
+     "Cắt ngang"
+    ]
+   ],
+   "source": "[S4] [S5]",
+   "arrows": "dash",
+   "hyp": "hạn chế"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Tự hỏi mình muốn gì; nhìn hành vi như câu hỏi; khích lệ tiến bộ cụ thể; không dán nhãn.",
+   "nodes": [
+    [
+     "Tự hỏi",
+     "Muốn gì?"
+    ],
+    [
+     "Nghe",
+     "Như câu hỏi"
+    ],
+    [
+     "Không",
+     "Dán nhãn"
+    ]
+   ],
+   "source": "A05 · H",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "title": "Một nỗ lực, hai hướng",
+   "body": "Hình chính: thiếu hụt, mục tiêu, hai nhánh nét đứt, dải nhắc hành vi giống nhau có thể do mục tiêu khác.",
+   "nodes": [
+    [
+     "Thiếu hụt",
+     "Điểm xuất phát"
+    ],
+    [
+     "Mục tiêu",
+     "Hư cấu"
+    ],
+    [
+     "Năng lực",
+     "Đóng góp"
+    ],
+    [
+     "Thống trị",
+     "Khoảng cách"
+    ]
+   ],
+   "source": "A05 · caption mục I",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     560,
+     400,
+     400,
+     190,
+     1
+    ],
+    [
+     1040,
+     250,
+     400,
+     190,
+     0
+    ],
+    [
+     1040,
+     560,
+     400,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "title": "Giữ lại bảy ý cốt lõi",
+   "body": "Bắt đầu từ thiếu hụt; mục tiêu là hư cấu; tiêu chí là tình cảm xã hội; hành vi giống nhau mục tiêu khác; chưa có phép kiểm trực tiếp; không dán nhãn.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc đúng văn bản"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "A05 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 1–2",
+   "body": "Tiêu chí tình cảm xã hội; dữ kiện cần thêm.",
+   "nodes": [
+    [
+     "Câu 1",
+     "Tiêu chí"
+    ],
+    [
+     "Câu 2",
+     "Dữ kiện"
+    ]
+   ],
+   "source": "[S1] · A05 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 3–5",
+   "body": "Vì sao Cheng không xác nhận Adler; điểm yếu bài viết vận động viên; phản hồi cho Quang.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Cheng 2013"
+    ],
+    [
+     "Câu 4",
+     "Khảo sát cắt ngang"
+    ],
+    [
+     "Câu 5",
+     "Phản hồi"
+    ]
+   ],
+   "source": "[S3] [S5] · A05 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn đã đọc",
+   "body": "Hai văn bản Adler đọc phần thân (OCR); ba nghiên cứu đọc abstract.",
+   "nodes": [
+    [
+     "S1",
+     "Understanding Human Nature"
+    ],
+    [
+     "S2",
+     "Practice and Theory"
+    ],
+    [
+     "S3–S5",
+     "Địa vị, SDT, khảo sát"
+    ]
+   ],
+   "source": "A05 · L"
+  },
+  {
+   "layout": "closing",
+   "section": "A05 · KẾT",
+   "title": "Hỏi về mục tiêu,\nđừng gán nhãn con người",
+   "body": "Đọc trước: A03 · A04. Đọc tiếp: A06.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "A03 · A04"
+    ],
+    [
+     "Đọc tiếp",
+     "A06"
+    ]
+   ],
+   "source": "A05 · drafted · review pending",
+   "right": "STRIVING FOR SUPERIORITY"
+  }
+ ]
+}

@@ -1,0 +1,637 @@
+{
+ "title": "J05 · Collective Unconscious — vô thức tập thể",
+ "subtitle": "Một quan sát, nhiều giải thích",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/05-collective-unconscious.md",
+ "accent": "indigo",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "J05 · VÔ THỨC TẬP THỂ",
+   "title": "Một quan sát,\nnhiều giải thích",
+   "body": "Bài đọc lập luận của Jung dẫn tới vô thức tập thể, lời giới hạn của chính ông, và điều khoa học hiện đại kiểm được.",
+   "nodes": [
+    [
+     "Quan sát",
+     "Mô-típ giống nhau"
+    ],
+    [
+     "Giả thuyết",
+     "Tiềm năng thừa kế"
+    ]
+   ],
+   "source": "J05 · Câu hỏi trung tâm",
+   "right": "COLLECTIVE UNCONSCIOUS"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "title": "Năm việc cần làm được sau bài",
+   "body": "Trình bày lập luận, phân biệt, nêu giải thích thay thế, đánh giá, phân tích tình huống.",
+   "nodes": [
+    [
+     "01 · Trình bày",
+     "Lập luận của Jung"
+    ],
+    [
+     "02 · Phân biệt",
+     "Khả năng và nội dung"
+    ],
+    [
+     "03 · Đánh giá",
+     "Nghiên cứu lân cận"
+    ]
+   ],
+   "source": "J05 · A",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Văn bản được đọc",
+   "body": "Collected Papers (Long, 1920), ch. XIV mục V, tr. 408–413. Không đọc CW 9i. [S1]",
+   "nodes": [
+    [
+     "Đã đọc",
+     "1920"
+    ],
+    [
+     "Chưa đọc",
+     "CW 9i"
+    ]
+   ],
+   "source": "[S1]",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Từ nào, và chưa có từ nào",
+   "body": "Văn bản dùng 'primordial images', 'impersonal/collective unconscious'. Từ 'archetype' chưa xuất hiện. [S1]",
+   "nodes": [
+    [
+     "Có",
+     "Primordial images"
+    ],
+    [
+     "Chưa có",
+     "Archetype"
+    ]
+   ],
+   "source": "[S1]",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Freud cũng có ý gần",
+   "body": "Primal phantasies có thể là sở hữu phát sinh loài; Freud tự nhận táo bạo. [S2, B23]",
+   "nodes": [
+    [
+     "Freud",
+     "Phylogenetic possession"
+    ],
+    [
+     "Jung",
+     "Lớp riêng của vô thức"
+    ]
+   ],
+   "source": "[S2] B23",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Bước 1: tưởng tượng không có nền cá nhân",
+   "body": "Chuyển di lúc đầu có nền ký ức cá nhân; sau đó hiện ra tưởng tượng phóng đại, không thấy nền cá nhân. [S1, tr. 408–409]",
+   "nodes": [
+    [
+     "Lúc đầu",
+     "Cha, mẹ, người tình"
+    ],
+    [
+     "Sau đó",
+     "Phù thủy, cứu tinh, hình thú"
+    ]
+   ],
+   "source": "[S1] tr. 408–409",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Bước 2: so với thần thoại",
+   "body": "Mô-típ hai mẹ của Leonardo; nhiều anh hùng có hai mẹ; Jung gọi là primordial image phổ biến. [S1, tr. 409–410]",
+   "nodes": [
+    [
+     "Ca",
+     "Leonardo"
+    ],
+    [
+     "Thần thoại",
+     "Anh hùng hai mẹ"
+    ]
+   ],
+   "source": "[S1] tr. 409–410",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Lời giới hạn của Jung",
+   "body": "Ông không khẳng định truyền biểu tượng, chỉ khả năng có biểu tượng; 'tiềm năng thừa kế'. [S1, tr. 410]",
+   "nodes": [
+    [
+     "Không khẳng định",
+     "Truyền biểu tượng"
+    ],
+    [
+     "Chỉ nói",
+     "Khả năng"
+    ]
+   ],
+   "source": "[S1] tr. 410",
+   "arrows": "solid",
+   "hyp": "điểm đọc kỹ"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Hai lớp của vô thức",
+   "body": "Cá nhân và phi cá nhân/tập thể; nội dung tập thể có thể thấy ở mọi người. [S1, tr. 410–411]",
+   "nodes": [
+    [
+     "Cá nhân",
+     "Ký ức riêng"
+    ],
+    [
+     "Tập thể",
+     "Phổ quát, hình ảnh nguyên sơ"
+    ]
+   ],
+   "source": "[S1] tr. 410–411",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Ví dụ của Jung: bảo toàn năng lượng",
+   "body": "Ý tưởng của Mayer được xem là primordial image; Jung tìm chứng trong tôn giáo động lực luận. Đây là suy luận từ lý thuyết. [S1, tr. 411–413]",
+   "nodes": [
+    [
+     "Ví dụ",
+     "Robert Mayer"
+    ],
+    [
+     "Bằng chứng",
+     "Tôn giáo động lực luận"
+    ]
+   ],
+   "source": "[S1] tr. 411–413",
+   "arrows": "dash",
+   "hyp": "suy luận"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều không được suy ra",
+   "body": "Không suy ra thừa kế biểu tượng; không suy ra mô-típ giống nhau là bằng chứng; không là vùng não; không mọi hình ảnh là tập thể.",
+   "nodes": [
+    [
+     "Không",
+     "Ký ức di truyền"
+    ],
+    [
+     "Không",
+     "Bằng chứng đủ"
+    ],
+    [
+     "Không",
+     "Vùng não"
+    ]
+   ],
+   "source": "J05 · mục C",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Chuỗi lập luận năm bước",
+   "body": "Quan sát lâm sàng, tưởng tượng phóng đại, so sánh thần thoại, suy ra tiềm năng thừa kế, phân biệt hai lớp. [S1]",
+   "nodes": [
+    [
+     "1",
+     "Chuyển di"
+    ],
+    [
+     "2",
+     "Tưởng tượng lạ"
+    ],
+    [
+     "3",
+     "So thần thoại"
+    ],
+    [
+     "4",
+     "Thừa kế?"
+    ],
+    [
+     "5",
+     "Hai lớp"
+    ]
+   ],
+   "source": "[S1] tr. 408–411",
+   "arrows": "solid",
+   "hyp": "lập luận"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "title": "Chỗ lập luận có thể trượt",
+   "body": "'Không có nền cá nhân' chưa đồng nghĩa 'do di truyền'; so sánh chọn lọc; ví dụ Mayer suy từ lý thuyết.",
+   "nodes": [
+    [
+     "Chưa tìm ra nền cá nhân",
+     "Quan sát"
+    ],
+    [
+     "Truyền văn hóa",
+     "Giải thích"
+    ],
+    [
+     "Hoàn cảnh chung",
+     "Giải thích"
+    ],
+    [
+     "Tiềm năng thừa kế",
+     "Giả thuyết Jung"
+    ]
+   ],
+   "source": "J05 · mục D",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     200,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     440,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     680,
+     400,
+     190,
+     1
+    ]
+   ]
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Mẹ kế trong truyện nhiều nơi",
+   "body": "Jung: hình ảnh nguyên sơ. Thay thế: truyền văn hóa, hoàn cảnh xã hội chung.",
+   "nodes": [
+    [
+     "Jung",
+     "Hình ảnh nguyên sơ"
+    ],
+    [
+     "Thay thế",
+     "Truyền, hoàn cảnh"
+    ]
+   ],
+   "source": "J05 · E",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Giấc mơ bay",
+   "body": "Phim, trải nghiệm, cảm giác cơ thể là nguồn cá nhân dễ có; muốn nghiêng về tập thể cần loại hết.",
+   "nodes": [
+    [
+     "Jung",
+     "Nếu không có nền"
+    ],
+    [
+     "Thay thế",
+     "Nguồn cá nhân"
+    ]
+   ],
+   "source": "J05 · E",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Phát hiện rắn nhanh",
+   "body": "Trẻ mầm non và người lớn phát hiện rắn nhanh hơn hoa, ếch, sâu bướm. Đo tốc độ chú ý, không đo biểu tượng. [S4]",
+   "nodes": [
+    [
+     "Đo",
+     "Tốc độ phát hiện"
+    ],
+    [
+     "Không đo",
+     "Hình ảnh thần thoại"
+    ]
+   ],
+   "source": "[S4]",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ca giả định: Thảo",
+   "body": "Giấc mơ lặp lại về người đàn bà trong giếng. Bốn giải thích cạnh tranh; chưa thể nói 'tập thể'. [S1]",
+   "nodes": [
+    [
+     "Biết",
+     "Giấc mơ lặp lại"
+    ],
+    [
+     "Chưa biết",
+     "Nguồn hình ảnh"
+    ]
+   ],
+   "source": "J05 · F",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Cách kiểm an toàn",
+   "body": "Ghi bối cảnh vài tuần; hỏi liên tưởng của chính cô trước; không dùng từ điển biểu tượng; tìm chuyên gia nếu khổ.",
+   "nodes": [
+    [
+     "Ghi",
+     "Bối cảnh"
+    ],
+    [
+     "Hỏi",
+     "Liên tưởng riêng"
+    ],
+    [
+     "Không",
+     "Từ điển biểu tượng"
+    ]
+   ],
+   "source": "J05 · F",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Khó khăn thao tác hóa",
+   "body": "Chưa có phép kiểm riêng cho dự đoán khác với giải thích thay thế. Không tìm thấy phép kiểm trực tiếp trong tìm kiếm của bài.",
+   "nodes": [
+    [
+     "Cần",
+     "Dự đoán có thể sai"
+    ],
+    [
+     "Hiện có",
+     "Chưa đủ"
+    ]
+   ],
+   "source": "[j05-research]",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Truyền văn hóa của truyện kể",
+   "body": "Phân tích phát sinh loài 58 truyện: hai kiểu truyện phân biệt được, quan hệ theo lịch sử. Nhóm truyện hẹp, không kiểm Jung. [S3]",
+   "nodes": [
+    [
+     "Phương pháp",
+     "Phát sinh loài"
+    ],
+    [
+     "Kết quả",
+     "Quan hệ lịch sử"
+    ]
+   ],
+   "source": "[S3]",
+   "arrows": "dash",
+   "hyp": "giải thích thay thế"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Thiên lệch chuẩn bị sẵn",
+   "body": "Mô-đun sợ tiến hóa; phát hiện rắn nhanh. Nghĩa hẹp, không về biểu tượng. [S4] [S5]",
+   "nodes": [
+    [
+     "Có",
+     "Thiên lệch hẹp"
+    ],
+    [
+     "Không",
+     "Kho biểu tượng"
+    ]
+   ],
+   "source": "[S4] [S5]",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Đọc lại từ bên trong truyền thống",
+   "body": "Hunt: hòa hợp nằm ở trí tưởng tượng nguyên mẫu hơn vô thức sinh học. Quan điểm có lập trường; abstract. [S6]",
+   "nodes": [
+    [
+     "Hunt",
+     "Trí tưởng tượng nguyên mẫu"
+    ],
+    [
+     "Ít",
+     "Vô thức sinh học"
+    ]
+   ],
+   "source": "[S6]",
+   "arrows": "dash",
+   "hyp": "có lập trường"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Dùng mô-típ giống nhau như câu hỏi; ghi liên tưởng của mình trước; tách ba tầng khi dạy; không gán vô thức tập thể cho người khác.",
+   "nodes": [
+    [
+     "Hỏi",
+     "Vì sao giống?"
+    ],
+    [
+     "Ghi",
+     "Liên tưởng riêng"
+    ],
+    [
+     "Không",
+     "Gán nhãn"
+    ]
+   ],
+   "source": "J05 · H",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "title": "Một quan sát, nhiều giải thích",
+   "body": "Hình chính: quan sát đi vào hai nhánh nét đứt: tiềm năng thừa kế và truyền văn hóa, hoàn cảnh chung.",
+   "nodes": [
+    [
+     "Mô-típ giống nhau",
+     "Quan sát"
+    ],
+    [
+     "Tiềm năng thừa kế",
+     "Jung, tr. 410"
+    ],
+    [
+     "Truyền, hoàn cảnh, thiên lệch",
+     "Thay thế"
+    ]
+   ],
+   "source": "J05 · caption mục I",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     250,
+     500,
+     190,
+     1
+    ],
+    [
+     640,
+     560,
+     500,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "Tưởng tượng không nền cá nhân; hai lớp; lời giới hạn của Jung; chưa có archetype; Freud cũng có ý gần; nhiều giải thích; bằng chứng hẹp; chưa đủ không là bác bỏ.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc đúng văn bản"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "J05 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 1–2",
+   "body": "Quan sát nào dẫn tới vô thức phi cá nhân; Jung khẳng định và không khẳng định gì.",
+   "nodes": [
+    [
+     "Câu 1",
+     "Quan sát"
+    ],
+    [
+     "Câu 2",
+     "Giới hạn"
+    ]
+   ],
+   "source": "[S1] · J05 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 3–5",
+   "body": "Hai giải thích thay thế; nghiên cứu rắn; ca Thảo.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Giải thích thay thế"
+    ],
+    [
+     "Câu 4",
+     "Rắn"
+    ],
+    [
+     "Câu 5",
+     "Ca Thảo"
+    ]
+   ],
+   "source": "[S3] [S4] [S5] · J05 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn đã đọc",
+   "body": "Hai văn bản gốc đọc phần thân; bốn nguồn hiện đại đọc abstract.",
+   "nodes": [
+    [
+     "S1",
+     "Jung 1920"
+    ],
+    [
+     "S2",
+     "Freud B23"
+    ],
+    [
+     "S3–S6",
+     "Hiện đại"
+    ]
+   ],
+   "source": "J05 · L"
+  },
+  {
+   "layout": "closing",
+   "section": "J05 · KẾT",
+   "title": "Giống nhau chưa phải\nbằng chứng của một kho chung",
+   "body": "Đọc trước: J02 · J03 · J04. Đọc tiếp: J06.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "J02–J04"
+    ],
+    [
+     "Đọc tiếp",
+     "J06"
+    ]
+   ],
+   "source": "J05 · drafted · review pending",
+   "right": "COLLECTIVE UNCONSCIOUS"
+  }
+ ]
+}

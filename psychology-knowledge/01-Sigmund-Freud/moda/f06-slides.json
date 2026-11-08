@@ -1,0 +1,651 @@
+{
+ "title": "F06 · Dồn nén (repression) và ký ức",
+ "subtitle": "Khoảng trống ký ức không phải bằng chứng của sang chấn bị dồn nén",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/06-repression-va-ky-uc.md",
+ "accent": "burgundy",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "F06 · DỒN NÉN / KÝ ỨC",
+   "title": "Không nhớ,\nCó phải bị dồn nén?",
+   "body": "Bài đọc điều Freud thật sự nói về dồn nén, tách nó khỏi suppression, quên thông thường và ký ức dựng lại, rồi hỏi nghiên cứu hiện đại kiểm được gì.",
+   "nodes": [
+    [
+     "Freud",
+     "Mô hình"
+    ],
+    [
+     "Phòng thí nghiệm",
+     "Né tránh có ý thức"
+    ]
+   ],
+   "source": "F06 · Câu hỏi trung tâm",
+   "right": "DỒN NÉN VÀ KÝ ỨC"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "title": "Ba việc cần làm được sau bài",
+   "body": "Giải thích, phân biệt, đánh giá bằng chứng.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Dồn nén theo Freud"
+    ],
+    [
+     "02 · Phân biệt",
+     "Bốn hiện tượng hay bị gộp"
+    ],
+    [
+     "03 · Đánh giá",
+     "Think/no-think và giới hạn"
+    ]
+   ],
+   "source": "F06 · A",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Một từ có trước Freud",
+   "body": "Erdelyi: Herbart dùng 'repression' cho sự ức chế không phòng vệ; Freud chuyển thành phòng vệ trước nội dung không chịu nổi. [S6]",
+   "nodes": [
+    [
+     "Herbart",
+     "Ức chế ý tưởng"
+    ],
+    [
+     "Freud",
+     "Ức chế phòng vệ"
+    ]
+   ],
+   "source": "[S6] abstract",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Văn bản được đọc",
+   "body": "Introductory Lectures (Riviere): bài giảng 18, 19, 21, 22, 23. Bài báo 1915 chưa đọc. [S1]",
+   "nodes": [
+    [
+     "Đã đọc",
+     "Bài giảng đại chúng"
+    ],
+    [
+     "Chưa đọc",
+     "Die Verdrängung 1915"
+    ]
+   ],
+   "source": "[S1]",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Cuộc chiến ký ức",
+   "body": "Otgaar và cộng sự: tranh luận vẫn còn; khái niệm dissociative amnesia được dùng thay cho dồn nén. Đây là một phía của tranh luận. [S7]",
+   "nodes": [
+    [
+     "Một phía",
+     "Hoài nghi"
+    ],
+    [
+     "Phía khác",
+     "Erdelyi, S6"
+    ]
+   ],
+   "source": "[S7] [S6]",
+   "arrows": "dash",
+   "hyp": "có lập trường"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Dồn nén bắt đầu từ kháng cự",
+   "body": "Bệnh nhân chống việc gỡ triệu chứng; Freud suy cùng lực ấy chặn nội dung vô thức, và gọi đó là dồn nén. [S1, B19]",
+   "nodes": [
+    [
+     "Kháng cự",
+     "Quan sát được"
+    ],
+    [
+     "Dồn nén",
+     "Suy luận"
+    ]
+   ],
+   "source": "[S1] B19",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Bác bỏ và dồn nén",
+   "body": "Bác bỏ: cái tôi biết, ký ức còn. Dồn nén: cái tôi không biết, nội dung giữ năng lượng. [S1, B19]",
+   "nodes": [
+    [
+     "Bác bỏ",
+     "Có sự biết"
+    ],
+    [
+     "Dồn nén",
+     "Không biết"
+    ]
+   ],
+   "source": "[S1] B19",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Người gác cửa",
+   "body": "Tiền sảnh vô thức, phòng khách tiền ý thức, người gác cửa ở ngưỡng. Freud tự nhận hình dung này thô và không chính xác. [S1, B19]",
+   "nodes": [
+    [
+     "Tiền sảnh",
+     "Vô thức"
+    ],
+    [
+     "Ngưỡng",
+     "Kiểm duyệt"
+    ],
+    [
+     "Phòng khách",
+     "Tiền ý thức"
+    ]
+   ],
+   "source": "[S1] B19",
+   "arrows": "solid",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Quên thời thơ ấu",
+   "body": "Freud: chứng quên thơ ấu là hệ quả của dồn nén. Phản biện: hiện tượng quên thơ ấu đã xác lập đủ giải thích. [S1, B21] [S7]",
+   "nodes": [
+    [
+     "Freud",
+     "Do dồn nén"
+    ],
+    [
+     "Phản biện",
+     "Quên thơ ấu"
+    ]
+   ],
+   "source": "[S1] B21 · [S7]",
+   "arrows": "dash",
+   "hyp": "hai cách đọc"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều không được suy ra",
+   "body": "Mọi khoảng trống do dồn nén; nội dung bị dồn nén luôn là sự kiện thật; dồn nén là cố ý. Freud nói cần chỉ dấu để xếp cảnh thơ ấu vào thực hay phantasy. [S1, B23]",
+   "nodes": [
+    [
+     "Không",
+     "Mọi khoảng trống"
+    ],
+    [
+     "Không",
+     "Luôn là thật"
+    ],
+    [
+     "Không",
+     "Cố ý"
+    ]
+   ],
+   "source": "[S1] B23",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Chuỗi giả thuyết bốn bước",
+   "body": "Xung động không chấp nhận được, bị chặn ở ngưỡng, hoạt động gián tiếp, kháng cự khi tiến gần. Chỉ bước cuối quan sát được. [S1]",
+   "nodes": [
+    [
+     "1",
+     "Không chấp nhận được"
+    ],
+    [
+     "2",
+     "Bị chặn"
+    ],
+    [
+     "3",
+     "Triệu chứng thay thế"
+    ],
+    [
+     "4",
+     "Kháng cự"
+    ]
+   ],
+   "source": "[S1] B19",
+   "arrows": "solid",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "title": "Bốn thứ hay bị gộp",
+   "body": "Dồn nén (không biết), suppression (biết, chủ động), quên thông thường (không ai làm), dựng lại hoặc gợi ý.",
+   "nodes": [
+    [
+     "Dồn nén",
+     "Cái tôi, không biết"
+    ],
+    [
+     "Suppression",
+     "Người đó biết"
+    ],
+    [
+     "Quên thường",
+     "Không ai làm"
+    ],
+    [
+     "Dựng lại",
+     "Gợi ý, xây dựng"
+    ]
+   ],
+   "source": "F06 · mục D",
+   "pos": [
+    [
+     80,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     520,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     960,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     1400,
+     300,
+     400,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Suppression và repression",
+   "body": "Erdelyi cho rằng tách hai khái niệm là phân biệt sai; bảng của bài là công cụ học tập, không là ranh giới chung. [S6]",
+   "nodes": [
+    [
+     "Cơ chế",
+     "Ức chế"
+    ],
+    [
+     "Mục đích",
+     "Phòng vệ hay không"
+    ]
+   ],
+   "source": "[S6]",
+   "arrows": "dash",
+   "hyp": "còn tranh luận"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Không nhớ trước ba tuổi",
+   "body": "Hai cách đọc: dồn nén (Freud) hoặc quên thời thơ ấu đã xác lập. [S1] [S7]",
+   "nodes": [
+    [
+     "Freud",
+     "Dồn nén"
+    ],
+    [
+     "Hiện đại",
+     "Quên thơ ấu"
+    ]
+   ],
+   "source": "[S1] [S7]",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Nghe bài hát, nhớ chuyện cũ",
+   "body": "Quên phụ thuộc gợi ý là giải thích đơn giản nhất; cần thêm dấu hiệu né tránh để nghiêng về dồn nén.",
+   "nodes": [
+    [
+     "Dồn nén?",
+     "Cần thêm dữ kiện"
+    ],
+    [
+     "Gợi ý",
+     "Giải thích thường gặp"
+    ]
+   ],
+   "source": "F06 · E",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Chủ động không nghĩ tới",
+   "body": "Tuấn biết mình né nên gần 'bác bỏ có ý thức'. Mờ nhạt có thể do quên thường.",
+   "nodes": [
+    [
+     "Biết",
+     "Gần suppression"
+    ],
+    [
+     "Mờ dần",
+     "Quên thường"
+    ]
+   ],
+   "source": "F06 · E",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ca giả định: Hà",
+   "body": "Phản ứng cơ thể ở nhà bà ngoại, mơ hồ về một mùa hè. Bốn giải thích cạnh tranh; chưa thể nói 'đã bị dồn nén'. [S1] [S7]",
+   "nodes": [
+    [
+     "Biết",
+     "Phản ứng, mơ hồ"
+    ],
+    [
+     "Chưa biết",
+     "Sự kiện, nguồn gốc"
+    ]
+   ],
+   "source": "F06 · F",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Cách kiểm an toàn",
+   "body": "Ghi điều chắc chắn, hỏi người thân bằng câu hỏi mở, không gợi nhớ bằng ám thị, tìm chuyên gia nếu khổ. [S8]",
+   "nodes": [
+    [
+     "Nên",
+     "Ghi điều chắc"
+    ],
+    [
+     "Không",
+     "Gợi nhớ dẫn dắt"
+    ],
+    [
+     "Khi khổ",
+     "Gặp chuyên gia"
+    ]
+   ],
+   "source": "[S8]",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Think/no-think",
+   "body": "Cố ngăn từ đi kèm xuất hiện trong ý thức thì lần nhớ lại sau đó khó hơn; cơ chế điều hành, không riêng sang chấn. [S2] [S3]",
+   "nodes": [
+    [
+     "Học cặp từ",
+     "Rồi né tránh"
+    ],
+    [
+     "Kiểm tra",
+     "Nhớ lại"
+    ]
+   ],
+   "source": "[S2] [S3]",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Tổng hợp và lặp lại",
+   "body": "Meta-analysis: hiệu ứng nhỏ-vừa, có thể thổi phồng. Lặp lại 2020 và 2023 không nhất quán. [S4] [S5] [S9]",
+   "nodes": [
+    [
+     "Meta",
+     "Nhỏ-vừa"
+    ],
+    [
+     "2020",
+     "Không với tín hiệu mới"
+    ],
+    [
+     "2023",
+     "Không lặp lại"
+    ]
+   ],
+   "source": "[S4] [S5] [S9]",
+   "arrows": "dash",
+   "hyp": "đang tranh luận"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Điều dù đúng vẫn không đủ",
+   "body": "Phòng thí nghiệm: cặp từ không liên quan, né theo chỉ dẫn, có ý thức. Không phải quên không biết, không phải sang chấn. [S7]",
+   "nodes": [
+    [
+     "Đo được",
+     "Né có ý thức"
+    ],
+    [
+     "Không đo",
+     "Sang chấn thật"
+    ]
+   ],
+   "source": "[S7]",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Ký ức dựng lại và ký ức sai",
+   "body": "Gợi ý làm biến dạng ký ức; cấy ký ức: 47% có ít nhiều trải nghiệm nhớ, khoảng 15% ký ức đầy đủ. [S8] [S10]",
+   "nodes": [
+    [
+     "47%",
+     "Trải nghiệm một phần"
+    ],
+    [
+     "15%",
+     "Ký ức đầy đủ"
+    ]
+   ],
+   "source": "[S8] [S10]",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Tự phản tư bằng câu hỏi đơn giản; tin người kể là mặc định; ký ức nặng cần chuyên gia; không tự gợi nhớ.",
+   "nodes": [
+    [
+     "Hỏi",
+     "Có giải thích đơn giản hơn?"
+    ],
+    [
+     "Nghe",
+     "Tin người kể"
+    ],
+    [
+     "Không",
+     "Tự đào bới"
+    ]
+   ],
+   "source": "F06 · H",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "title": "Bốn hiện tượng, ba hàng",
+   "body": "Bảng so sánh: ai làm, ký ức ở đâu, đo ở đâu. Khoảng trống ký ức không bằng sang chấn bị dồn nén.",
+   "nodes": [
+    [
+     "Dồn nén",
+     "Mô hình"
+    ],
+    [
+     "Suppression",
+     "Đo được"
+    ],
+    [
+     "Quên thường",
+     "Phổ biến"
+    ],
+    [
+     "Dựng lại",
+     "Đo được"
+    ]
+   ],
+   "source": "F06 · caption mục I",
+   "pos": [
+    [
+     80,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     520,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     960,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     1400,
+     300,
+     400,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "Dồn nén ngoài sự biết; gác cửa là mô hình; hai cách đọc quên thơ ấu; né tránh khác dồn nén; bằng chứng đang tranh luận; không suy sang chấn từ khoảng trống; không tự gợi nhớ.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc đúng văn bản"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "F06 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 1–2",
+   "body": "Bác bỏ và dồn nén; quên thời thơ ấu.",
+   "nodes": [
+    [
+     "Câu 1",
+     "Bác bỏ vs dồn nén"
+    ],
+    [
+     "Câu 2",
+     "Hai cách đọc"
+    ]
+   ],
+   "source": "[S1] [S7] · F06 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 3–5",
+   "body": "Think/no-think cho thấy gì; lập luận 'nhớ ra nghĩa là bị dồn nén'; ca Hà.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Giới hạn"
+    ],
+    [
+     "Câu 4",
+     "Lập luận"
+    ],
+    [
+     "Câu 5",
+     "Phản hồi"
+    ]
+   ],
+   "source": "[S2] [S9] [S8] · F06 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn đã đọc",
+   "body": "Mười nguồn; Introductory Lectures đọc theo bài giảng; tám nguồn khoa học đọc abstract, một nguồn đọc toàn văn bản mở.",
+   "nodes": [
+    [
+     "S1",
+     "Gutenberg #75810"
+    ],
+    [
+     "S2–S5",
+     "Think/no-think"
+    ],
+    [
+     "S6–S10",
+     "Tranh luận và ký ức sai"
+    ]
+   ],
+   "source": "F06 · L"
+  },
+  {
+   "layout": "closing",
+   "section": "F06 · KẾT",
+   "title": "Khoảng trống ký ức\nkhông phải bằng chứng",
+   "body": "Đọc trước: F02, F05. Đọc tiếp: F07.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "F02 · F05"
+    ],
+    [
+     "Đọc tiếp",
+     "F07"
+    ]
+   ],
+   "source": "F06 · drafted · review pending",
+   "right": "DỒN NÉN, ĐÚNG NGHĨA"
+  }
+ ]
+}

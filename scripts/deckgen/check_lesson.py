@@ -221,6 +221,29 @@ def check(root, lid):
         errs += [f"contents entry must read 'Tên chương: ý chính': {b}" for b in S[0]["bullets"]
                  if ": " not in b or not all(part.strip() for part in b.split(": ", 1))]
         if S[0]["sources"]: errs.append("the contents slide cites no source")
+    need_ch = bool(fm and DATE.fullmatch(meta.get("date", "")) and meta["date"] >= TOC_FROM)
+    if need_ch or any("chapter" in s for s in S):  # every slide names the chapter it belongs to (CLAUDE.md, owner 2026-11-08)
+        labels = [b.split(": ", 1)[0] for b in S[0]["bullets"]] if toc == [0] else []
+        errs += [f"slide {i} needs a non-blank text chapter: {s['title']}" for i, s in enumerate(S, 1)
+                 if not (isinstance(s.get("chapter"), str) and s["chapter"].strip())]
+        if all(isinstance(s.get("chapter"), str) and s["chapter"].strip() for s in S):
+            if len(set(labels)) != len(labels): errs.append("contents chapters must have distinct names")
+            errs += [f"contents chapter name longer than 60 characters: {l}" for l in labels if len(l) > 60]
+            rank = {l: k for k, l in enumerate(labels)}
+            seen, last = {}, -1
+            for s in S:
+                ch, sec = s["chapter"], s["section"]
+                if s["layout"] == "contents":
+                    if ch != "Mục lục": errs.append(f"the contents slide's chapter is 'Mục lục', found {ch!r}")
+                    continue
+                if sec == "Nguồn tham khảo":
+                    if ch != "Nguồn tham khảo": errs.append(f"the sources slides' chapter is 'Nguồn tham khảo', found {ch!r}: {s['title']}")
+                    continue
+                if ch not in rank: errs.append(f"chapter {ch!r} is not a chapter of the contents slide: {s['title']}"); continue
+                if seen.setdefault(sec, ch) != ch: errs.append(f"section {sec!r} is split between chapters {seen[sec]!r} and {ch!r}")
+                if rank[ch] < last: errs.append(f"chapters out of order at: {s['title']}")
+                last = max(last, rank[ch])
+            errs += [f"contents chapter has no slide: {l}" for l in labels if l not in {s["chapter"] for s in S}]
     heavy = [i for i in range(len(lay) - 2) if set(lay[i:i + 3]) <= HEAVY]
     if heavy: errs.append(f"three text-heavy slides in a row from slide {heavy[0] + 1}")
     run, prev = 1, "dark"  # the cover is dark

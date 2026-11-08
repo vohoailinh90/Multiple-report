@@ -67,6 +67,10 @@ Trong `slides.json` đó là slide đầu tiên: `layout` `contents`, `title` đ
 của bài; không cần liệt kê từng mục `##`, và không kể mục `Nguồn tham khảo`), `tone` `light`. Slide này tính vào `slides.min/max` của `expected.json`
 nhưng không tính vào `section_min_slides`. Cổng `check_lesson.py` bắt buộc với bài có `date` từ 2026-11-08 trở đi; deck cũ hơn thêm mục lục khi có việc đụng
 tới (xem `docs/deck-style.md`). Mục lục phải khớp bài: phản biện kiểm từng chương có thật và đúng thứ tự.
+**Nhãn chương trên từng trang (chủ repo, 2026-11-08):** mỗi slide ghi trang này thuộc chương nào. Trong `slides.json` mỗi slide có thêm trường `chapter`:
+đúng tên một chương ở slide mục lục (phần trước dấu `: ` của gạch), `Mục lục` cho chính slide mục lục, `Nguồn tham khảo` cho các slide nguồn. Một mục `##` chỉ nằm trong
+một chương, các chương xuất hiện đúng thứ tự mục lục và chương nào cũng có slide. Deck vẽ nhãn `CHƯƠNG k · tên chương` ở đầu slide, trên tiêu đề, cùng màu với số k
+trên mục lục. Cổng bắt buộc với bài có `date` từ 2026-11-08 trở đi (cùng ngưỡng với mục lục).
 Slide giải thích dùng `body`; slide sơ đồ (`flow`, `card-grid`, `layers`...) vẫn dùng gạch ngắn (≤ 160 ký tự, ≤ 6 gạch; layout
 `references` ≤ 18 nguồn). `notes` là lời giảng 80–200 chữ: ví dụ, chỗ dễ nhầm. Mỗi mục `## ` có ít nhất một slide; bài theo chuẩn
 đào sâu (`docs/ban-giao-mo-rong-noi-dung.md`, mục 3) có ít nhất ba slide mỗi mục nội dung. `lessons/<id>.spec.md` là spec của bài

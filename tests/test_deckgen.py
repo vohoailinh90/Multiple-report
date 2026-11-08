@@ -121,6 +121,24 @@ class GenTests(unittest.TestCase):
         self.assertEqual(gen.overflows(markup), [])
         self.assertEqual(len({x for x, _, _, t in texts(markup) if re.fullmatch(r"\d", t)}), 2, "five or more chapters use two columns")
 
+    def test_a_slide_shows_its_chapter_above_the_title_in_the_colour_of_its_number_on_the_contents_slide(self):
+        root = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, root, True)
+        toc = {"title": "Mục lục", "section": "A", "sources": [], "notes": "", "layout": "contents", "tone": "light", "chapter": "Mục lục",
+               "bullets": ["Nền tảng: a", "Chiplet là gì: b", "Kết: c"]}
+        card = {"title": "Một slide", "section": "B", "sources": [], "bullets": ["x", "y"], "notes": "", "layout": "card-grid",
+                "tone": "light", "chapter": "Chiplet là gì"}
+        plain = {**card, "tone": "dark", "title": "Không chương"}
+        plain.pop("chapter")
+        path = root / "slides.json"
+        path.write_text(json.dumps({"title": "t", "subtitle": "s", "slides": [toc, card, plain]}), encoding="utf-8")
+        tag = [(y, c, t) for y, c, t in re.findall(r'<text x="96" y="(\d+)"[^>]*color="(#\w+)"[^>]*>(CHƯƠNG[^<]*|Mục lục)</text>',
+                                                 gen.page("L98", 2, {}, path))]
+        self.assertEqual(tag, [("24", gen.acc(gen.LIGHT, 98, 1)[0], "CHƯƠNG 2 · Chiplet là gì")])
+        self.assertEqual(gen.overflows(gen.page("L98", 2, {}, path)), [])
+        self.assertNotIn("y=\"24\"", gen.page("L98", 1, {}, path), "the contents slide is titled Mục lục: no label above it")
+        self.assertNotIn("CHƯƠNG", gen.page("L98", 3, {}, path), "a slide without a chapter draws no label (older decks)")
+
     def test_references_use_two_columns_beyond_six(self):
         markup = self.demo(5)
         xs = {x for x, _, _, t in texts(markup) if re.fullmatch(r"S\d+", t)}

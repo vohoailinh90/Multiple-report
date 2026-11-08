@@ -80,6 +80,21 @@ def title(p, text, y=72, w=1728, h=190):
             f'font-size="{size}" color="{p["ink"]}" line-height="1.08" max-lines="2" vertical-align="top">{x(text)}</text>')
 
 
+def chapter_tag(p, n, s, d):
+    """Nhãn chương ở đầu slide (trên tiêu đề): 'CHƯƠNG k · tên' cùng màu với số k của slide mục lục.
+    Slide mục lục và slide nguồn không vẽ nhãn: tiêu đề của chúng đã là tên chương."""
+    ch = s.get("chapter")
+    if not ch or ch in ("Mục lục", "Nguồn tham khảo"):
+        return []
+    toc = next((z for z in d["slides"] if z.get("layout") == "contents"), None)
+    labels = [split_kv(b)[0] for b in toc["bullets"]] if toc else []
+    if ch not in labels:
+        return []
+    k = labels.index(ch)
+    colour, text = acc(p, n, k)[0], f"CHƯƠNG {k + 1} · {ch}"
+    return [f'<text x="{M}" y="24" width="1728" height="40" font-weight="700" font-size="26" color="{colour}" vertical-align="middle" max-lines="1">{x(text)}</text>']
+
+
 def footer(p, lid, i, total):
     red = RED_LIGHT if p is LIGHT else RED_DARK
     ink = p["ink"]
@@ -601,7 +616,7 @@ def page(lid, i, o, slides=None):
     else:
         s = {**d["slides"][i - 1], "_lid": lid}
         p = pal(s["tone"])
-        body = [f'<background fill="{p["bg"]}"/>', title(p, s["title"])]
+        body = [f'<background fill="{p["bg"]}"/>', *chapter_tag(p, n, s, d), title(p, s["title"])]
         lay = s["layout"]
         if lay in LAYOUTS:
             body += LAYOUTS[lay](p, n, s, o)

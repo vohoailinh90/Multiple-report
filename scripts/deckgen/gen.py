@@ -5,9 +5,12 @@ usage: gen.py <lesson-id> <page 0..N> [--opts file.json] [--slides file.json]
 page 0 is the cover, pages 1..N follow slides.json. Prints the <content>...</content> markup.
 --slides reads another slides.json (the demo deck in tests/fixtures/deckgen/). Images are placed by <lesson id>/<file> from file_ids.json.
 opts file: {"topic_label": "...", "question": "...", "motif": "...", "big": {"3": "86 tỷ"},
-            "actors": {"6": ["A","B","C"]}, "mark": {"5": "có hoặc không"}, "concepts": ["hạnh nhân", ...]}
+            "actors": {"6": ["A","B","C"]}, "mark": {"5": "có hoặc không"}, "concepts": ["hạnh nhân", ...],
+            "concept_colors": {"urea": ["#E91EC8 on light", "#FF4FD8 on dark"]}}
 "concepts" gives each concept its colour (concept k takes accent (n + k) mod 4); a **term** in a body that names
 a concept is drawn in that colour, any other **term** in the slide's first accent.
+"concept_colors" (optional) fixes a concept's colour to one taken from a source chart: a body term, a figure gloss label or a cover
+card whose text contains the key (lower case) is drawn in [light, dark] instead of the accent.
 """
 import json, math, re, sys
 from xml.sax.saxutils import escape
@@ -96,12 +99,27 @@ def split_kv(b):
     return None, b
 
 
+CONCEPT_COLORS = {}  # set by page() from opts["concept_colors"]
+
+
+def pick(p, text, default):
+    """The source-chart colour of the concept `text` names (opts concept_colors), else `default`."""
+    t = text.lower()
+    for key, (light, dark) in CONCEPT_COLORS.items():
+        if key in t:
+            return light if p is LIGHT else dark
+    return default
+
+
 def rich(text, p, n, a, o):
     """Body text as Moda html: **term** in its concept colour, [Sn] in the secondary colour, blank line = paragraph."""
     concepts = [c.lower() for c in o.get("concepts", [])]
 
     def colour(term):
         t = term.lower()
+        fixed = pick(p, t, None)
+        if fixed:
+            return fixed
         for k, c in enumerate(concepts):
             if c in t or t in c:
                 return acc(p, n, k)[0]
@@ -380,6 +398,8 @@ def gloss(p, a, b, rx, yy, rw, ch):
            f'<rectangle x="{rx}" y="{yy:.0f}" width="12" height="{ch:.0f}" corner-radius="6" fill="{a}"/>']
     kk, v = split_kv(b)
     if kk:
+        a = pick(p, kk, a)
+        out[1] = f'<rectangle x="{rx}" y="{yy:.0f}" width="12" height="{ch:.0f}" corner-radius="6" fill="{a}"/>'
         out.append(f'<text x="{rx + 36}" y="{yy + 10:.0f}" width="{rw - 56}" height="{ch * 0.4:.0f}" font-weight="800" font-size="{fit(kk, rw - 56, ch * 0.4, 30, 1.0, FLOOR, 0.6)}" color="{a}" vertical-align="middle" max-lines="1">{x(kk)}</text>')
         out.append(f'<text x="{rx + 36}" y="{yy + ch * 0.4:.0f}" width="{rw - 56}" height="{ch * 0.56:.0f}" font-weight="600" font-size="{fit(v, rw - 56, ch * 0.56, 34, 1.15, FLOOR, 0.57)}" color="{p["ink"]}" vertical-align="middle" line-height="1.15">{x(v)}</text>')
     else:
@@ -461,6 +481,23 @@ def profile_card(p, n, s, o, idx):
     return out
 
 
+REF_LINE = re.compile(r"^- \[(S\d+)\] (.+)$", re.M)
+REF_LINK = re.compile(r"\]\((https?://[^)\s]+)\)")
+
+
+def ref_urls(lid):
+    """{'S1': url} read from the `## Nguồn tham khảo` lines of lessons/<lid>/lesson.md written as `- [S1] [text](url)`."""
+    path = ROOT / "lessons" / str(lid) / "lesson.md"
+    if not path.is_file():
+        return {}
+    found = {}
+    for label, rest in REF_LINE.findall(path.read_text(encoding="utf-8")):
+        m = REF_LINK.search(rest)
+        if m:
+            found[label] = m.group(1)
+    return found
+
+
 def references(p, n, s, o):
     """Danh sách nguồn (tối đa 18): một cột nếu ≤ 6, hai cột nếu nhiều hơn; 'S1: ...' cho nhãn màu."""
     bl = s["bullets"]; c = len(bl); out = []
@@ -469,6 +506,7 @@ def references(p, n, s, o):
     y0, h, gap = 270, 650, 12
     cw = (1728 - 40 * (cols - 1)) / cols
     rh = min(140, (h - gap * (per - 1)) / per)
+    urls = ref_urls(s.get("_lid"))  # a source with a link in lesson.md is drawn as a clickable link (CLAUDE.md: every source is a hyperlink)
     for k, b in enumerate(bl):
         a, t = acc(p, n, k)
         q, r = divmod(k, per)
@@ -476,7 +514,13 @@ def references(p, n, s, o):
         kk, v = split_kv(b)
         out.append(f'<rectangle x="{xx:.0f}" y="{yy:.0f}" width="{cw:.0f}" height="{rh:.0f}" corner-radius="16" fill="{p["card"]}"/>')
         out.append(f'<text x="{xx + 24:.0f}" y="{yy:.0f}" width="92" height="{rh:.0f}" font-weight="800" font-size="26" color="{a}" vertical-align="middle" max-lines="1">{x(kk or str(k + 1))}</text>')
-        out.append(f'<text x="{xx + 120:.0f}" y="{yy:.0f}" width="{cw - 144:.0f}" height="{rh:.0f}" font-size="{fit(v, cw - 144, rh - 12, 28, 1.18, FLOOR)}" color="{p["ink"]}" vertical-align="middle" line-height="1.18">{x(v)}</text>')
+        size = fit(v, cw - 144, rh - 12, 28, 1.18, FLOOR)
+        link = urls.get(kk or "")
+        if link:
+            out.append(f'<text x="{xx + 120:.0f}" y="{yy:.0f}" width="{cw - 144:.0f}" height="{rh:.0f}" format="html" font-size="{size}" color="{p["ink"]}" vertical-align="middle" line-height="1.18">'
+                       f'<p><a href="{x(link)}" style="color: {a}; text-decoration: underline">{x(v)}</a></p></text>')
+        else:
+            out.append(f'<text x="{xx + 120:.0f}" y="{yy:.0f}" width="{cw - 144:.0f}" height="{rh:.0f}" font-size="{size}" color="{p["ink"]}" vertical-align="middle" line-height="1.18">{x(v)}</text>')
     return out
 
 
@@ -516,7 +560,7 @@ def cover(lid, d, o, total):
     cards = o.get("cards", [])
     cw = (1728 - 28 * (len(cards) - 1)) / max(len(cards), 1)
     for k, c in enumerate(cards):
-        a = p["acc"][(n + k) % 4]
+        a = pick(p, c, p["acc"][(n + k) % 4])
         xx = M + k * (cw + 28)
         out.append(f'<rectangle x="{xx:.0f}" y="780" width="{cw:.0f}" height="170" corner-radius="28" fill="{p["card"]}" stroke="{a}" stroke-width="4"/>')
         out.append(f'<text x="{xx + 28:.0f}" y="780" width="{cw - 56:.0f}" height="170" font-weight="700" font-size="{fit(c, cw - 56, 160, 34, 1.15, 24, 0.58)}" color="{p["ink"]}" vertical-align="middle" line-height="1.15" max-lines="3">{x(c)}</text>')
@@ -528,6 +572,8 @@ def page(lid, i, o, slides=None):
     d = json.loads(path.read_text(encoding="utf-8"))
     total = len(d["slides"]) + 1
     n = int(lid[1:])
+    CONCEPT_COLORS.clear()
+    CONCEPT_COLORS.update({k.lower(): v for k, v in o.get("concept_colors", {}).items()})
     if i == 0:
         body = cover(lid, d, o, total)
     else:

@@ -1,0 +1,48 @@
+{
+ "topic_label": "Kỹ thuật · Bài L18",
+ "motif": "dots",
+ "question": "AdBlue ở từng nhiệt độ từ -5°C đến trên 450°C là gì, và có lợi hay hại cho DNOx?",
+ "cards": [
+  "Urea",
+  "Biuret",
+  "Ammelide",
+  "Cyanuric acid"
+ ],
+ "concepts": [
+  "urea",
+  "biuret",
+  "ammelide",
+  "cyanuric"
+ ],
+ "mark": {
+  "31": "lệch khoảng 40 K",
+  "51": "CHƯA XÁC NHẬN",
+  "53": "không phải tài liệu sửa chữa"
+ },
+ "concept_colors": {
+  "urea": [
+   "#E91EC8",
+   "#FF4FD8"
+  ],
+  "biuret": [
+   "#1B8A1B",
+   "#4CD964"
+  ],
+  "ammelide": [
+   "#E60000",
+   "#FF5C5C"
+  ],
+  "cyanuric": [
+   "#7B1FA2",
+   "#C084FF"
+  ],
+  "total": [
+   "#1A237E",
+   "#8FA2FF"
+  ]
+ },
+ "big": {
+  "22": "96,6%",
+  "34": "64% + 30%"
+ }
+}

@@ -64,7 +64,8 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 Từ 2026-11-08 mọi deck mới có trang mục lục ở trang 2 (luật của chủ repo, `CLAUDE.md`). Nó là slide đầu tiên của `slides.json`
 (layout `contents`, tiêu đề `Mục lục`, `section` là mục `##` đầu tiên, không nguồn). Mỗi gạch là một chương lớn của bài: nhóm các mục `##`
 liền nhau (bài 15–20 mục `##` chỉ gom thành 5–8 chương), theo đúng thứ tự trong bài, kèm một câu nói chương đó trả lời điều gì. Chỉ dùng điều bài đã nói, không thêm
-ý mới. Thêm mục lục làm dời chân trang của mọi slide sau, nên deck cũ (trước 2026-11-08) chỉ thêm khi dựng lại cả deck trên canvas mới.
+ý mới. Mỗi slide sau bìa còn mang nhãn chương (trường `chapter`): `CHƯƠNG k · tên chương`, cỡ 26 đậm, y=24 ngay trên tiêu đề, màu của số k trên mục lục
+(slide mục lục và slide nguồn không vẽ nhãn, vì tiêu đề của chúng đã là tên chương). Slide không có `chapter` (deck cũ) không vẽ nhãn. Thêm mục lục làm dời chân trang của mọi slide sau, nên deck cũ (trước 2026-11-08) chỉ thêm khi dựng lại cả deck trên canvas mới.
 
 ## Quy trình
 

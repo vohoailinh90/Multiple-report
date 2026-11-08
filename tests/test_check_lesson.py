@@ -90,14 +90,62 @@ class GateTests(unittest.TestCase):
     def with_toc(self, **changes):
         return [{**self.TOC, **changes}, *SLIDES]
 
+    CHAPTERS = {"Tóm tắt": "Mở đầu", "Hạnh nhân": "Hạnh nhân", "Kết luận": "Kết", "Nguồn tham khảo": "Nguồn tham khảo"}
+
+    def new_lesson(self):
+        """(lesson, slides, expected) of a lesson dated 2026-11-08: contents slide first, every slide naming its chapter."""
+        lesson = re.sub(r"^- \[(S\d+)\] (.+), (https://\S+)$", r"- [\1] [\2](\3)",  # sources are hyperlinks from 2026-11-04
+                        LESSON.replace("date: 2026-10-20", "date: 2026-11-08"), flags=re.M)
+        lesson = lesson.replace("## Nguồn tham khảo", f"## Kết luận\n\n{FILLER} [S1].\n\n## Nguồn tham khảo")
+        conclusion = {"title": "Điều cần nhớ", "section": "Kết luận", "sources": ["S1"], "bullets": ["một", "hai"], "notes": "n",
+                      "layout": "card-grid", "tone": "light"}
+        toc = {**self.TOC, "bullets": ["Mở đầu: bài nói về điều gì", "Hạnh nhân: vị trí và vai trò", "Kết: điều cần nhớ"]}
+        slides = [toc, *SLIDES[:-1], conclusion, SLIDES[-1]]
+        slides = [{**sl, "chapter": "Mục lục" if sl["layout"] == "contents" else self.CHAPTERS[sl["section"]]} for sl in slides]
+        expected = {**EXPECTED, "sections": ["Tóm tắt", "Hạnh nhân", "Kết luận", "Nguồn tham khảo"],
+                    "section_min_exempt": ["Tóm tắt", "Kết luận", "Nguồn tham khảo"]}
+        return lesson, slides, expected
+
+    def gate_new(self, mutate=None):
+        lesson, slides, expected = self.new_lesson()
+        if mutate:
+            mutate(slides)
+        return self.run_gate(slides, expected, lesson)
+
     def test_a_lesson_from_2026_11_08_needs_a_contents_slide_as_slide_one(self):
         """CLAUDE.md (owner, 2026-11-08): page 2 of the deck, right after the cover, is the table of contents."""
-        new = re.sub(r"^- \[(S\d+)\] (.+), (https://\S+)$", r"- [\1] [\2](\3)",  # sources are hyperlinks from 2026-11-04
-                     LESSON.replace("date: 2026-10-20", "date: 2026-11-08"), flags=re.M)
-        errs, _ = self.run_gate(lesson=new)
+        self.assertEqual(self.gate_new(), ([], []))
+        errs, _ = self.gate_new(lambda sl: sl.pop(0))
         self.assertTrue(any(e.startswith("slide 1 must be the contents slide") for e in errs), errs)
-        self.assertEqual(self.run_gate(self.with_toc(), lesson=new), ([], []))
-        self.assertEqual(self.run_gate(lesson=new.replace("date: 2026-11-08", "date: 2026-11-07"))[0], [], "older lessons are exempt")
+        lesson, slides, expected = self.new_lesson()
+        older = lesson.replace("date: 2026-11-08", "date: 2026-11-07")
+        plain = [{k: v for k, v in sl.items() if k != "chapter"} for sl in slides[1:]]
+        self.assertEqual(self.run_gate(plain, expected, older)[0], [], "older lessons need neither contents nor chapters")
+
+    def test_every_slide_of_a_new_lesson_names_its_chapter(self):
+        """Owner, 2026-11-08: each page says which chapter of the contents slide it belongs to."""
+        errs, _ = self.gate_new(lambda sl: sl[2].pop("chapter"))
+        self.assertTrue(any("needs a non-blank text chapter" in e for e in errs), errs)
+        errs, _ = self.gate_new(lambda sl: sl[2].update(chapter="Chương lạ"))
+        self.assertTrue(any("is not a chapter of the contents slide" in e for e in errs), errs)
+        errs, _ = self.gate_new(lambda sl: sl[2].update(chapter="Kết"))  # a slide of section Hạnh nhân in the Kết chapter
+        self.assertTrue(any("is split between chapters" in e or "out of order" in e for e in errs), errs)
+        errs, _ = self.gate_new(lambda sl: sl[0].update(chapter="Mở đầu"))
+        self.assertTrue(any("chapter is 'Mục lục'" in e for e in errs), errs)
+        errs, _ = self.gate_new(lambda sl: sl[-1].update(chapter="Kết"))
+        self.assertTrue(any("chapter is 'Nguồn tham khảo'" in e for e in errs), errs)
+
+    def test_chapters_follow_the_contents_in_order_and_each_has_a_slide(self):
+        def swap(sl):  # the Kết slide moves to the front chapter's place: section order breaks too, chapters must also report it
+            sl[1].update(chapter="Kết")
+        errs, _ = self.gate_new(swap)
+        self.assertTrue(any("out of order" in e or "split" in e for e in errs), errs)
+        def empty(sl):
+            sl[0]["bullets"] = ["Mở đầu: a", "Hạnh nhân: b", "Kết: c", "Phụ: d"]
+        errs, _ = self.gate_new(empty)
+        self.assertIn("contents chapter has no slide: Phụ", errs)
+        errs, _ = self.gate_new(lambda sl: sl[0].update(bullets=["Mở đầu: a", "Mở đầu: b", "Kết: c"]))
+        self.assertIn("contents chapters must have distinct names", errs)
 
     def test_the_contents_slide_is_slide_one_titled_muc_luc_in_the_first_section(self):
         misplaced = [*SLIDES[:1], self.TOC, *SLIDES[1:]]

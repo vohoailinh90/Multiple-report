@@ -2067,16 +2067,20 @@
   },
   "exports": {
     "pptx": {
-      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-a03/psychology-knowledge/02-Alfred-Adler/visuals/a03.pptx",
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/main/psychology-knowledge/02-Alfred-Adler/visuals/a03.pptx",
       "path": "../visuals/a03.pptx",
       "format": "pptx",
-      "status": "compatibility-built",
-      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "status": "native-rebuilt",
+      "producer": "Moda PPTX export of a rebuilt canvas (markup from this report), then font names set to Arial and embedded fonts removed",
+      "canvas_url": "https://moda.app/canvas/eb6252a7-418b-4fc8-9dbc-0b407d621c14?source=agent",
       "page_count": 36,
-      "sha256": "588f671155aefa903444029c490737b246a25047bdad98814c389857df80fb3d",
-      "size_bytes": 2746907,
+      "sha256": "0b95739c60d402a0a3935705981a0612478ebb1bba740cceb67198d094d6ef3b",
+      "size_bytes": 193581,
       "warnings": [
-        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+        "Canvas gốc (canvas_url ở đầu file) thuộc tài khoản Moda khác nên không mở được; canvas trên được dựng lại từ markup đã lưu trong file này.",
+        "Canvas dùng Be Vietnam Pro và Bricolage Grotesque; trong PPTX tên font được đổi sang Arial và bỏ font nhúng để iPhone/PowerPoint không phải thay font. Cỡ chữ và vị trí giữ nguyên. Theme/master vẫn khai báo Calibri làm font mặc định, nhưng mọi run chữ trên slide đều ghi Arial.",
+        "Bản xuất gói miễn phí mang dấu moda.app ở mỗi trang.",
+        "Đã mở bằng LibreOffice (36 trang) và xem trang 1, 11, 22, 31, 32, 36: không thấy chữ bị che hay tràn. Chưa mở thử trên iPhone hay Microsoft PowerPoint."
       ]
     },
     "pdf": {
@@ -2095,6 +2099,19 @@
       "status": "exported",
       "warnings": [],
       "acceptance_status": "unverified-native-export"
+    },
+    "pptx_image_edition_replaced": {
+      "url": "https://github.com/vohoailinh90/Multiple-report/raw/refs/heads/psychology/lesson-a03/psychology-knowledge/02-Alfred-Adler/visuals/a03.pptx",
+      "path": "../visuals/a03.pptx",
+      "format": "pptx",
+      "status": "compatibility-built",
+      "producer": "local packaging of genuine Moda page captures; not native Moda PPTX exporter",
+      "page_count": 36,
+      "sha256": "588f671155aefa903444029c490737b246a25047bdad98814c389857df80fb3d",
+      "size_bytes": 2746907,
+      "warnings": [
+        "Image-based compatibility edition: visible text is not editable or searchable. Source image resolution is 1000x562 pixels. Tested with LibreOffice; iPhone and Microsoft PowerPoint were not tested."
+      ]
     }
   },
   "limitations": [

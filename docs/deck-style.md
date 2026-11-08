@@ -24,7 +24,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
   `Multiple-report · L00 · 03/11`. **Để trống góc dưới bên phải** (logo Moda nằm ở đó khi xuất). Deck dài hơn 40 trang thì chấm
   xích lại gần nhau để nhãn không chạm góc đó.
 - Bìa (tối): nhãn chủ đề viết hoa giãn chữ, tiêu đề, câu hỏi mở bài, mỗi khái niệm chính một thẻ bo tròn viền màu của nó.
-  Slide cuối là nguồn tham khảo, nền tối.
+  **Trang 2 là mục lục** (chủ repo, 2026-11-08; layout `contents`, nền sáng): xem mục "Trang mục lục" bên dưới. Slide cuối là nguồn tham khảo, nền tối.
 - Chữ: tiếng Việt có dấu. Chủ repo đã bỏ luật "một slide đọc trong 5 giây" (2026-10-20) cho mọi layout: slide được nhiều
   chữ, miễn đọc được. Slide giải thích mang đoạn `body` 60–110 chữ; gạch đầu dòng ≤ 160 ký tự, ≤ 6 gạch.
   Chỉ dùng nội dung của `slides.json`; không thêm số liệu, ví dụ hay khẳng định.
@@ -56,7 +56,15 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 | `explainer` | cột trái ~65% là đoạn `body` (cỡ 30–38, giãn dòng 1,35, vạch màu bên trái, `**từ khoá**` tô màu khái niệm, `[Sn]` màu chữ phụ); cột phải 2–3 thẻ lấy từ `bullets` dạng `Nhãn: nội dung` (Ở đâu / Làm gì / Đừng hiểu nhầm) |
 | `profile-card` | thẻ hồ sơ: lưới 2×2 (4 mục) hoặc 3 cột (3, 5, 6 mục) lấy từ `facts`, nhãn màu khái niệm cỡ 28, chữ 28–34; không vẽ `bullets` |
 | `annotated-figure` | như `figure` (khung hình rộng 980) nhưng cột phải là tối đa 3 thẻ chú giải ngắn (≤ 70 ký tự) và một khối nền nhạt chứa `body` 40–70 chữ |
+| `contents` | mục lục (trang 2, ngay sau bìa): 3–8 chương, mỗi chương một thẻ có số lớn màu khái niệm, tên chương đậm và ý chính bên dưới, lấy từ `bullets` dạng `Tên chương: ý chính`; một cột đến 4 chương, hai cột nếu nhiều hơn; không có dòng `Nguồn:` |
 | `references` | slide nguồn: mỗi nguồn một thẻ `S1` + tên rút gọn (≤ 110 ký tự), **tên là hyperlink** (underline, màu nhấn) tới URL trong `lesson.md` (`- [S1] [tên](URL)`; luật CLAUDE.md 2026-11-04); một cột đến 6 nguồn, hai cột đến 18; bài có nhiều hơn 18 nguồn dùng nhiều slide `references` liên tiếp ở cuối ("Nguồn tham khảo (1/2)", "(2/2)"), mỗi slide ≤ 18 thẻ |
+
+## Trang mục lục
+
+Từ 2026-11-08 mọi deck mới có trang mục lục ở trang 2 (luật của chủ repo, `CLAUDE.md`). Nó là slide đầu tiên của `slides.json`
+(layout `contents`, tiêu đề `Mục lục`, `section` là mục `##` đầu tiên, không nguồn). Mỗi gạch là một chương lớn của bài: nhóm các mục `##`
+liền nhau (bài 15–20 mục `##` chỉ gom thành 5–8 chương), theo đúng thứ tự trong bài, kèm một câu nói chương đó trả lời điều gì. Chỉ dùng điều bài đã nói, không thêm
+ý mới. Thêm mục lục làm dời chân trang của mọi slide sau, nên deck cũ (trước 2026-11-08) chỉ thêm khi dựng lại cả deck trên canvas mới.
 
 ## Quy trình
 

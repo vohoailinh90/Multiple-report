@@ -20,16 +20,17 @@ TOPICS = {"than-kinh", "nao-bo", "triet-hoc", "suc-khoe", "quan-ly-du-an", "ky-t
 OLD = {"sequence-diagram", "flow", "two-column-comparison", "lookup-table", "card-grid", "numbered-rows",
        "connection-diagram", "layers", "timeline", "one-big-number", "one-highlighted-sentence", "figure"}
 BODY = {"explainer": (40, 130, 60, 110), "annotated-figure": (30, 80, 40, 70)}  # hard lo, hard hi, target lo, target hi
-LAYOUTS = OLD | set(BODY) | {"profile-card", "references"}
+LAYOUTS = OLD | set(BODY) | {"profile-card", "references", "contents"}
 # bullets each renderer in gen.py draws without crashing or dropping content: (min, max)
 BULLETS = {"card-grid": (1, 4), "flow": (1, 5), "two-column-comparison": (2, 6), "lookup-table": (1, 6),
            "numbered-rows": (1, 6), "layers": (1, 6), "timeline": (1, 6), "connection-diagram": (1, 4),
            "one-big-number": (1, 3), "one-highlighted-sentence": (1, 4), "sequence-diagram": (1, 6),
            "figure": (1, 4), "explainer": (0, 3), "annotated-figure": (0, 3), "profile-card": (0, 0),
-           "references": (1, 18)}
+           "references": (1, 18), "contents": (3, 8)}
 HEAVY = {"explainer", "profile-card", "annotated-figure"}  # at most two of these in a row (handoff 6.2: interleave with diagrams)
 TEXTBOOK = "rotel.pressbooks.pub"
 LINK_FROM = "2026-11-04"  # lessons dated from here on write every source as a hyperlink (CLAUDE.md, owner 2026-11-04)
+TOC_FROM = "2026-11-08"  # lessons dated from here on open with a contents slide as slide 1, page 2 of the deck (CLAUDE.md, owner 2026-11-08)
 MDLINK = re.compile(r"\[[^\]\n]+\]\((https?://[^)\s]+)\)")
 CITE = re.compile(r"\[(S\d+)\]")
 TONES = {"light", "dark"}
@@ -210,6 +211,16 @@ def check(root, lid):
     errs += [f"tone {t!r} is not light or dark: {s['title']}" for s, t in zip(S, tone) if t not in TONES]
     if len(set(lay)) < ex.get("min_layouts", 5): errs.append(f"layout kinds {len(set(lay))}")
     if any(a == b != "references" for a, b in zip(lay, lay[1:])): errs.append("adjacent layout")  # a long source list may span two references slides
+    toc = [i for i, L in enumerate(lay) if L == "contents"]
+    if toc and toc != [0]: errs.append("the contents slide must be slide 1 (page 2 of the deck, right after the cover) and appear once")
+    if not toc and fm and DATE.fullmatch(meta.get("date", "")) and meta["date"] >= TOC_FROM:
+        errs.append("slide 1 must be the contents slide (layout contents, title Mục lục): the deck's page 2 summarises the lesson's big chapters")
+    if toc == [0]:
+        if S[0]["title"] != "Mục lục": errs.append(f"the contents slide is titled 'Mục lục', found {S[0]['title']!r}")
+        if secs and S[0]["section"] != secs[0]: errs.append(f"the contents slide belongs to the first section ({secs[0]}), found {S[0]['section']!r}")
+        errs += [f"contents entry must read 'Tên chương: ý chính': {b}" for b in S[0]["bullets"]
+                 if ": " not in b or not all(part.strip() for part in b.split(": ", 1))]
+        if S[0]["sources"]: errs.append("the contents slide cites no source")
     heavy = [i for i in range(len(lay) - 2) if set(lay[i:i + 3]) <= HEAVY]
     if heavy: errs.append(f"three text-heavy slides in a row from slide {heavy[0] + 1}")
     run, prev = 1, "dark"  # the cover is dark
@@ -221,7 +232,7 @@ def check(root, lid):
         exempt = set(ex.get("section_min_exempt", []))
         for sec in secs:
             if sec in exempt: continue
-            mine = [s for s in S if s["section"] == sec]
+            mine = [s for s in S if s["section"] == sec and s["layout"] != "contents"]
             if len(mine) < ex["section_min_slides"]: errs.append(f"section has {len(mine)} slides: {sec}")
             if not any(s.get("body") or s.get("facts") for s in mine): warn.append(f"section without explainer/profile-card: {sec}")
     lo_hi = ex.get("notes_words")

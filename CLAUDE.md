@@ -61,6 +61,12 @@ thêm hai trường tuỳ chọn:
 - `facts`: mảng 3–6 cặp `{"label", "text"}` (nhãn ≤ 40, chữ ≤ 160 ký tự) cho layout `profile-card` (thẻ hồ sơ của một bộ phận,
   chất dẫn truyền hay cảm xúc).
 
+**Trang mục lục (chủ repo, 2026-11-08):** trang 2 của mọi deck, ngay sau bìa, là slide mục lục để người xem nắm khái quát các chương lớn của bài.
+Trong `slides.json` đó là slide đầu tiên: `layout` `contents`, `title` đúng `Mục lục`, `section` là mục `##` đầu tiên của bài, `sources` rỗng,
+`bullets` 3–8 gạch dạng `Tên chương: ý chính` (≤ 160 ký tự, không `[Sn]`), mỗi gạch là một chương lớn (một nhóm mục `##` liền nhau, theo đúng thứ tự
+của bài; không cần liệt kê từng mục `##`, và không kể mục `Nguồn tham khảo`), `tone` `light`. Slide này tính vào `slides.min/max` của `expected.json`
+nhưng không tính vào `section_min_slides`. Cổng `check_lesson.py` bắt buộc với bài có `date` từ 2026-11-08 trở đi; deck cũ hơn thêm mục lục khi có việc đụng
+tới (xem `docs/deck-style.md`). Mục lục phải khớp bài: phản biện kiểm từng chương có thật và đúng thứ tự.
 Slide giải thích dùng `body`; slide sơ đồ (`flow`, `card-grid`, `layers`...) vẫn dùng gạch ngắn (≤ 160 ký tự, ≤ 6 gạch; layout
 `references` ≤ 18 nguồn). `notes` là lời giảng 80–200 chữ: ví dụ, chỗ dễ nhầm. Mỗi mục `## ` có ít nhất một slide; bài theo chuẩn
 đào sâu (`docs/ban-giao-mo-rong-noi-dung.md`, mục 3) có ít nhất ba slide mỗi mục nội dung. `lessons/<id>.spec.md` là spec của bài

@@ -33,7 +33,7 @@ Số nguồn dùng: 6; đọc phần thân: 2 (S1, S2 một phần); abstract: 4
 
 | Claim ID | Khẳng định và nguồn | Loại | Mức hỗ trợ | Giới hạn/thu hẹp |
 |---|---|---|---|---|
-| J05-C01 | Chuyển di lúc đầu có nền cá nhân; sau đó xuất hiện ảo tưởng phóng đại không có nền cá nhân, S1 tr. 408–409 | Văn bản gốc | Mạnh cho nội dung văn bản | Là báo cáo lâm sàng của Jung, không kiểm độc lập |
+| J05-C01 | Chuyển di lúc đầu có nền cá nhân; sau đó xuất hiện tưởng tượng phóng đại không có nền cá nhân, S1 tr. 408–409 | Văn bản gốc | Mạnh cho nội dung văn bản | Là báo cáo lâm sàng của Jung, không kiểm độc lập |
 | J05-C02 | Ví dụ hai mẹ (Leonardo) và "primordial image", S1 tr. 409–410 | Văn bản gốc | Mạnh cho nội dung văn bản | Không đánh giá phần Freud về Leonardo |
 | J05-C03 | Jung không khẳng định truyền biểu tượng, chỉ khả năng; "tiềm năng thừa kế", S1 tr. 410 | Văn bản gốc | Mạnh cho nội dung văn bản | Chỉ đoạn này; chưa đọc phát biểu sau |
 | J05-C04 | Phân biệt vô thức cá nhân và phi cá nhân/tập thể, S1 tr. 410–411 | Văn bản gốc | Mạnh cho nội dung văn bản | Khái niệm, không phát hiện thực nghiệm |

@@ -44,7 +44,7 @@ Adler mở mục bằng lập luận: chính cảm giác thấp kém, không đ�
 
 ### 2. Mục tiêu là một "hư cấu" định hướng
 
-Adler viết rằng ta định hướng theo một điểm cố định do ta tạo ra, không thật sự tồn tại, như các đường kinh tuyến chia trái đất. Mục đích của giả định ấy là giúp định hướng trong hỗn loạn của tồn tại và xếp các cảm giác, cảm xúc theo một điểm quy chiếu. [S1, tr. 72–73] Ông gọi cách nhìn này là một hệ thống heuristic: hiểu hành vi như thể một chòm quan hệ cuối cùng được tạo ra dưới ảnh hưởng của nỗ lực hướng tới một mục tiêu nhất định. Ông cũng nói kinh nghiệm cho thấy giả định mục tiêu "không chỉ là hư cấu tiện lợi" mà khớp phần lớn với sự thật. [S1, tr. 73] **Đây là khẳng định của Adler; bài không kiểm nó** (xem mục G).
+Adler viết rằng ta định hướng theo một điểm cố định do ta tạo ra, không thật sự tồn tại, như các đường kinh tuyến chia trái đất. Mục đích của giả định ấy là giúp định hướng trong hỗn loạn của tồn tại và xếp các cảm giác, cảm xúc theo một điểm quy chiếu. [S1, tr. 72–73] Ông gọi đây là một cách tiếp cận mang tính phỏng đoán có ích (heuristic): một giả định giúp tìm hiểu hành vi, trong đó ta thử xem các hành vi của một người liên hệ với nhau như những cách cùng hướng tới một mục tiêu. Vì vậy "hư cấu" ở đây là công cụ để diễn giải, không có nghĩa là người đó bịa chuyện. Ông cũng nói kinh nghiệm cho thấy giả định mục tiêu "không chỉ là hư cấu tiện lợi" mà khớp phần lớn với sự thật. [S1, tr. 73] **Đây là khẳng định của Adler; bài không kiểm nó** (xem mục G).
 
 ### 3. Tiêu chí: tình cảm xã hội
 

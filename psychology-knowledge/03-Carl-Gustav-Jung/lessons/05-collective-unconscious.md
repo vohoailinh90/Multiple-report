@@ -43,13 +43,13 @@ Trong *Introductory Lectures* (Bài giảng 23), Freud cho rằng những "prima
 
 ## C. Core Theory — Khái niệm theo văn bản đã đọc
 
-### 1. Khởi điểm: những ảo tưởng không có nền ký ức cá nhân
+### 1. Khởi điểm: những tưởng tượng (phantasy) không có nền ký ức cá nhân
 
-Jung bắt đầu từ chuyển di (transference) trong phân tích. Ông viết chuyển di là sự chiếu nội dung vô thức lên nhà phân tích; lúc đầu nội dung là "bề mặt" (như người tình, cha, mẹ), có nền là ký ức cá nhân. [S1, tr. 408–409] Nhưng rồi xuất hiện những ảo tưởng khác "phóng đại, không thể có": nhà phân tích hiện lên như phù thủy, kẻ tội phạm quỷ quái, cứu tinh, đôi khi mang hình thú. [S1, tr. 409] Điều làm ông chú ý là với dạng chiếu này **không có nền ký ức cá nhân**, và có khi không tìm được cơ sở dù cha mẹ không hề tạo cớ. [S1, tr. 409]
+Jung bắt đầu từ chuyển di (transference) trong phân tích. Ông viết chuyển di là sự chiếu nội dung vô thức lên nhà phân tích; lúc đầu nội dung là "bề mặt" (như người tình, cha, mẹ), có nền là ký ức cá nhân. [S1, tr. 408–409] Nhưng rồi xuất hiện những tưởng tượng (phantasy) khác "phóng đại, không thể có": nhà phân tích hiện lên như phù thủy, kẻ tội phạm quỷ quái, cứu tinh, đôi khi mang hình thú. [S1, tr. 409] Cần đọc cho đúng: Jung nói rõ nhà phân tích không hiện ra trước ý thức của bệnh nhân dưới những hình dạng ấy; chính những tưởng tượng nổi lên trong đầu bệnh nhân mô tả ông như vậy. Đó là hình ảnh trong trí tưởng tượng, không phải điều bệnh nhân nhìn thấy. [S1, tr. 409] Điều làm ông chú ý là với dạng chiếu này **không có nền ký ức cá nhân**, và có khi không tìm được cơ sở dù cha mẹ không hề tạo cớ. [S1, tr. 409]
 
 ### 2. So sánh với mô-típ thần thoại
 
-Jung đưa ví dụ "hai người mẹ" của Leonardo da Vinci mà Freud đã bàn; ông cho rằng mô-típ ấy có thật trong trường hợp Leonardo nhưng cũng là một mô-típ thần thoại: nhiều anh hùng truyền thuyết có hai mẹ, và ảo tưởng này "không dựa trên sự thật hiển nhiên là anh hùng có hai mẹ" mà là một "primordial image" phổ biến. [S1, tr. 409–410] Ông còn nói các bệnh nhân rối loạn tâm thần có thể tạo ra những hình ảnh và liên tưởng trùng với bản thảo cổ. [S1, tr. 410]
+Jung đưa ví dụ "hai người mẹ" của Leonardo da Vinci mà Freud đã bàn; ông cho rằng mô-típ ấy có thật trong trường hợp Leonardo nhưng cũng là một mô-típ thần thoại: nhiều anh hùng truyền thuyết có hai mẹ, và tưởng tượng này "không dựa trên sự thật hiển nhiên là anh hùng có hai mẹ" mà là một "primordial image" phổ biến. [S1, tr. 409–410] Ông còn nói các bệnh nhân rối loạn tâm thần có thể tạo ra những hình ảnh và liên tưởng trùng với bản thảo cổ. [S1, tr. 410]
 
 ### 3. Lời giới hạn của chính Jung
 
@@ -77,8 +77,8 @@ Dưới đây là chuỗi *lập luận* của Jung trong văn bản, không ph�
 | Bước | Nội dung | Loại | Kiểm được không? |
 |---|---|---|---|
 | 1 | Trong phân tích, chuyển di lúc đầu có nền ký ức cá nhân. [S1, tr. 408–409] | Quan sát lâm sàng do Jung báo cáo | Không kiểm độc lập được từ văn bản này. |
-| 2 | Sau đó xuất hiện ảo tưởng "phóng đại" (phù thủy, cứu tinh, thú) không có nền ký ức cá nhân. [S1, tr. 409] | Quan sát lâm sàng | "Không có nền ký ức cá nhân" khó chứng minh: chỉ chứng minh được là *chưa tìm ra*. |
-| 3 | Ảo tưởng ấy giống mô-típ thần thoại (hai mẹ, ...). [S1, tr. 409–410] | So sánh chọn lọc | Phụ thuộc cách chọn ví dụ và cách gọi là "giống". |
+| 2 | Sau đó xuất hiện tưởng tượng "phóng đại" (phù thủy, cứu tinh, thú) không có nền ký ức cá nhân. [S1, tr. 409] | Quan sát lâm sàng | "Không có nền ký ức cá nhân" khó chứng minh: chỉ chứng minh được là *chưa tìm ra*. |
+| 3 | Tưởng tượng ấy giống mô-típ thần thoại (hai mẹ, ...). [S1, tr. 409–410] | So sánh chọn lọc | Phụ thuộc cách chọn ví dụ và cách gọi là "giống". |
 | 4 | Suy ra "tiềm năng được thừa kế" để có hình ảnh như vậy. [S1, tr. 410] | Suy luận | Cần giả định về cơ chế di truyền; văn bản không nêu bằng chứng. |
 | 5 | Phân biệt vô thức cá nhân và tập thể. [S1, tr. 410–411] | Kết luận khái niệm | Không phải phát hiện thực nghiệm. |
 
@@ -98,7 +98,7 @@ Dưới đây là chuỗi *lập luận* của Jung trong văn bản, không ph�
 
 **Dữ kiện giả định:** Phong kể mơ thấy mình bay lơ lửng qua thung lũng.
 
-**Đọc theo Jung:** nếu ảo tưởng không có nền cá nhân, có thể xem là "hình ảnh nguyên sơ".
+**Đọc theo Jung:** nếu tưởng tượng không có nền cá nhân, có thể xem là "hình ảnh nguyên sơ".
 
 **Giải thích thay thế:** Phong vừa xem phim về bay; có trải nghiệm nhảy cầu thang thời bé; thông tin hằng ngày về bay lượn; giấc mơ bay phổ biến vì cơ thể cảm nhận chuyển động. Muốn nghiêng về vô thức tập thể cần chứng minh *không có nguồn cá nhân nào* và loại các giải thích khác, điều rất khó.
 
@@ -124,7 +124,7 @@ Dưới đây là chuỗi *lập luận* của Jung trong văn bản, không ph�
 
 ## G. Modern Scientific Perspective — Phần được kiểm và phần chưa
 
-**Khó khăn lớn nhất là thao tác hóa.** Để kiểm "vô thức tập thể", cần nói rõ nó dự đoán điều gì mà các giải thích thay thế không dự đoán. Trong văn bản đã đọc, bước chuyển từ "không tìm thấy nền ký ức cá nhân" sang "tiềm năng được thừa kế" chưa kèm bất kỳ phép kiểm nào; chính Jung rút lại vào "khả năng". [S1, tr. 410] Bài không tìm thấy, trong tìm kiếm của mình, nghiên cứu thực nghiệm kiểm trực tiếp khái niệm này như Jung phát biểu (xem [j05-research.md](../references/j05-research.md)); đó là giới hạn của một tìm kiếm phục vụ giảng dạy, không phải bằng chứng chống.
+**Khó khăn lớn nhất là thao tác hóa.** Để kiểm "vô thức tập thể", cần nói rõ nó dự đoán điều gì mà các giải thích thay thế không dự đoán. Trong văn bản đã đọc, bước chuyển từ "không tìm thấy nền ký ức cá nhân" sang "tiềm năng được thừa kế" chưa kèm bất kỳ phép kiểm nào; Jung phân biệt việc thừa kế biểu tượng có sẵn với việc thừa kế khả năng tạo ra biểu tượng, nhưng vẫn khẳng định tiềm năng thừa kế ấy mà không nêu cách kiểm. [S1, tr. 410] Bài không tìm thấy, trong tìm kiếm của mình, nghiên cứu thực nghiệm kiểm trực tiếp khái niệm này như Jung phát biểu (xem [j05-research.md](../references/j05-research.md)); đó là giới hạn của một tìm kiếm phục vụ giảng dạy, không phải bằng chứng chống.
 
 **Giải thích bằng truyền văn hóa.** Tehrani (2013) dùng phương pháp phát sinh loài (cladistic, Bayesian, mạng) trên 58 truyện kể để phân tích mối quan hệ giữa hai kiểu truyện quốc tế ("Cô bé quàng khăn đỏ" ATU 333 và "Sói và bầy dê con" ATU 123); kết quả cho thấy hai kiểu có thể phân biệt, và nhiều truyện châu Phi và Đông Á có thể được xếp là biến thể hoặc pha trộn của chúng, dựa trên quan hệ lịch sử giữa các phiên bản. [S3, abstract] Điều này cho thấy với ít nhất một nhóm truyện, sự giống nhau giữa các nơi có thể được mô hình hóa như *truyền và biến đổi theo lịch sử*. Nó **không** chứng minh mọi mô-típ phổ quát đều do truyền văn hóa, và cũng không kiểm vô thức tập thể; nó chỉ cho thấy một giải thích thay thế có thể đo được.
 
@@ -153,7 +153,7 @@ Dưới đây là chuỗi *lập luận* của Jung trong văn bản, không ph�
 
 ## J. Key Takeaways — Tám điểm cần nhớ
 
-1. Jung đi tới vô thức tập thể từ những ảo tưởng trong chuyển di không có nền ký ức cá nhân. [S1, tr. 409]
+1. Jung đi tới vô thức tập thể từ những tưởng tượng trong chuyển di không có nền ký ức cá nhân. [S1, tr. 409]
 2. Ông phân biệt lớp cá nhân và lớp "phi cá nhân/tập thể" của vô thức. [S1, tr. 410–411]
 3. Chính Jung nói không khẳng định sự truyền biểu tượng, chỉ "khả năng" có biểu tượng. [S1, tr. 410]
 4. Trong văn bản đã đọc, "archetype" chưa xuất hiện; dùng "primordial images".
@@ -166,7 +166,7 @@ Dưới đây là chuỗi *lập luận* của Jung trong văn bản, không ph�
 
 ### 1. Jung dựa vào quan sát nào để tách "vô thức phi cá nhân"?
 
-**Đáp án:** các ảo tưởng chuyển di "phóng đại" (phù thủy, cứu tinh, hình thú) không có nền ký ức cá nhân, giống mô-típ thần thoại (S1, tr. 409–411). Lỗi thường gặp: nói ông dựa vào đo đạc hay thí nghiệm.
+**Đáp án:** các tưởng tượng chuyển di "phóng đại" (phù thủy, cứu tinh, hình thú) không có nền ký ức cá nhân, giống mô-típ thần thoại (S1, tr. 409–411). Lỗi thường gặp: nói ông dựa vào đo đạc hay thí nghiệm.
 
 ### 2. Jung khẳng định điều gì, và không khẳng định điều gì, về sự thừa kế?
 

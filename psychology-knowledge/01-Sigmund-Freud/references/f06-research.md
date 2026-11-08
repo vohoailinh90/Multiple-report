@@ -46,7 +46,7 @@ Số nguồn dùng: 10; full/phần thân: 2 (S1 một phần, S7); abstract: 8.
 | F06-C04 | Freud xem quên thời thơ ấu là hệ quả của dồn nén, S1 B18, B21 | Văn bản gốc | Mạnh cho nội dung văn bản | Là khẳng định của Freud, không phải kết luận khoa học |
 | F06-C05 | Dồn nén khác hồi quy; không liên hệ nội tại với tính dục ở đoạn đó, S1 B22 | Văn bản gốc | Mạnh cho nội dung văn bản | Chỉ đoạn nêu |
 | F06-C06 | Freud nói không thể xếp một số cảnh thơ ấu vào thực hay phantasy khi chưa đủ chỉ dấu; "psychical reality", S1 B23 | Văn bản gốc | Mạnh cho nội dung văn bản | Không dùng để kết luận về một ca cụ thể |
-| F06-C07 | Anderson & Green 2001: né tránh làm nhớ lại khó hơn, tăng theo số lần, S2 | Thực nghiệm (abstract) | Hạn chế→Vừa (xem C09) | Từ vô nghĩa, né có ý thức |
+| F06-C07 | Anderson & Green 2001: né tránh làm nhớ lại khó hơn, tăng theo số lần, S2 | Thực nghiệm (abstract) | Hạn chế→Vừa (xem C09) | Cặp từ không liên quan, né theo chỉ dẫn |
 | F06-C08 | Cơ chế qua ức chế ở vỏ não trước trán ngoài-bên, S3 | Tổng quan (abstract) | Hạn chế | Chưa đọc thân bài |
 | F06-C09 | Meta-analysis 25 nghiên cứu: SIF nhỏ-vừa ở người khỏe, có thể thổi phồng, S4; lặp lại không nhất quán, S5, S9 | Tổng hợp + lặp lại | Hạn chế, đang tranh luận | Không đưa kết luận chắc |
 | F06-C10 | Think/no-think không đo quên không biết và không đo sang chấn, S7 + suy luận của bài | Biên tập | Hạn chế | Là suy luận kết hợp, không là phát hiện đơn lẻ |

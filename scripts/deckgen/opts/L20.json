@@ -1,0 +1,32 @@
+{
+ "topic_label": "Kỹ thuật · Bài L20",
+ "motif": "grid",
+ "question": "Vì sao các hãng chip ghép nhiều mảnh nhỏ thay vì làm một chip khổng lồ, và điều đó đổi gì cho máy tính và AI?",
+ "cards": [
+  "Chiplet",
+  "Interposer",
+  "UCIe",
+  "HBM"
+ ],
+ "concepts": [
+  "chiplet",
+  "interposer",
+  "ucie",
+  "hbm"
+ ],
+ "mark": {
+  "1": "ghép chung trong một vỏ",
+  "22": "nhiều hãng",
+  "42": "một tập mảnh chuyên dụng"
+ },
+ "big": {
+  "5": "858 mm²",
+  "24": "12 × 8 = 96",
+  "33": "208 tỷ",
+  "36": "47 tile"
+ },
+ "center": {
+  "15": "Gói chiplet",
+  "35": "Gói chip AI"
+ }
+}

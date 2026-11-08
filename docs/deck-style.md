@@ -10,7 +10,7 @@ phần thay đổi là layout, nhịp sáng tối và ý tưởng hình ảnh c�
 - Canvas `1920x1080`, category `slides`, **không brand kit** (`skip_brand_kit=true`), không sinh ảnh bằng máy. Hình có giấy phép lấy từ giáo trình
   (layout `figure`, bên dưới) được phép; mỗi hình phải có dòng tín dụng.
   Tên canvas: `Multiple-report · <id> · <tiêu đề>`. Gửi link editor ngay khi canvas có.
-- Font: **Bricolage Grotesque** 800 cho tiêu đề và số lớn, **Be Vietnam Pro** cho mọi chữ khác. Cỡ: tiêu đề bìa 108,
+- Font: **Bricolage Grotesque** 800 cho tiêu đề và số lớn, **Arial** cho mọi chữ khác (chủ repo, 2026-11-08: Be Vietnam Pro làm PowerPoint hiển thị sai dấu tiếng Việt; hằng `BODY_FONT` trong `gen.py`; deck dựng trước ngày đó dùng Be Vietnam Pro, được dựng lại khi thêm mục lục). Cỡ: tiêu đề bìa 108,
   tiêu đề slide 56–76, thân 34–40, đoạn `body` của slide giải thích 30–38, chữ trong thẻ hồ sơ 28–34, nhãn 22–28; không gì dưới 22.
   `gen.py` tự hạ cỡ chữ theo độ dài (hàm `fit`), không xuống dưới mức sàn của từng ô.
 - Màu nền sáng: kem `#F3EEE3`, mực `#14161C`, thẻ `#E8E0CF`, thẻ sơ đồ `#FBF8F2` (viền `#DDD5C1`), chữ phụ `#6B6A66`.

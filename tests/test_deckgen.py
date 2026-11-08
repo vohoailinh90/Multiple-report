@@ -121,6 +121,15 @@ class GenTests(unittest.TestCase):
         self.assertEqual(gen.overflows(markup), [])
         self.assertEqual(len({x for x, _, _, t in texts(markup) if re.fullmatch(r"\d", t)}), 2, "five or more chapters use two columns")
 
+    def test_body_text_is_arial_and_titles_keep_bricolage_but_the_japanese_deck_keeps_noto(self):
+        """Owner, 2026-11-08: Arial for body, labels and sources so PowerPoint shows Vietnamese diacritics; docs/deck-style.md."""
+        markup = gen.page("L20", 1, opts("L20"))
+        self.assertTrue(markup.startswith('<content font-family="Arial">'))
+        self.assertNotIn("Be Vietnam Pro", markup)
+        self.assertIn('font-family="Bricolage Grotesque"', markup)
+        ja = load("gen_ja")
+        self.assertTrue(ja.page(1).startswith('<content font-family="Noto Sans JP">'))
+
     def test_a_slide_shows_its_chapter_above_the_title_in_the_colour_of_its_number_on_the_contents_slide(self):
         root = Path(tempfile.mkdtemp())
         self.addCleanup(shutil.rmtree, root, True)

@@ -42,7 +42,7 @@ OPTS = json.loads((ROOT / "scripts/deckgen/opts/L17.ja.json").read_text(encoding
 SL = ROOT / "lessons/L17/slides.ja.json"
 def page(i):
     m = g.page("L17", i, OPTS, str(SL))
-    m = m.replace('font-family="Bricolage Grotesque"', 'font-family="Noto Sans JP"').replace('<content font-family="Be Vietnam Pro">', '<content font-family="Noto Sans JP">')
+    m = m.replace('font-family="Bricolage Grotesque"', 'font-family="Noto Sans JP"').replace(f'<content font-family="{g.BODY_FONT}">', '<content font-family="Noto Sans JP">')
     return m.replace("Nguồn:", "出典:").replace("Hình:", "図:")
 if __name__ == "__main__":
     if sys.argv[1] == "check":

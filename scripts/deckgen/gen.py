@@ -22,6 +22,7 @@ LIGHT = dict(bg="#F3EEE3", ink="#14161C", card="#E8E0CF", diag="#FBF8F2", diagli
 DARK = dict(bg="#14161C", ink="#F3EEE3", card="#1E212B", diag="#1E212B", diagline="#2C3040", sub="#9AA0B5",
             acc=["#7C93FF", "#FFB454", "#3DD6A0", "#FF6A4D"], tint=["#262C4A", "#4A3A22", "#1C4236", "#4A2A24"])
 RED_LIGHT, RED_DARK = "#E8472B", "#FF6A4D"
+BODY_FONT = "Arial"  # chữ thân, nhãn, nguồn: PowerPoint hiển thị đúng dấu tiếng Việt (chủ repo, 2026-11-08); tiêu đề giữ Bricolage Grotesque
 M = 96  # margin
 FLOOR = 22  # deck-style: nothing smaller
 CITE = re.compile(r"(\[S\d+\](?:\s*\[S\d+\])*)")
@@ -627,7 +628,7 @@ def page(lid, i, o, slides=None):
         if s["sources"] and s["section"] != "Nguồn tham khảo":
             body.append(f'<text x="{M}" y="944" width="1728" height="36" font-size="24" color="{p["sub"]}" max-lines="1">Nguồn: {x(" ".join("[" + z + "]" for z in s["sources"]))}</text>')
         body.append(footer(p, lid, i, total))
-    return '<content font-family="Be Vietnam Pro">\n' + "\n".join(body) + "\n</content>"
+    return f'<content font-family="{BODY_FONT}">\n' + "\n".join(body) + "\n</content>"
 
 
 def overflows(markup):

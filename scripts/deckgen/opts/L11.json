@@ -10,23 +10,69 @@
  ],
  "big": {},
  "actors": {
-  "12": ["Người học", "Gợi ý", "Ký ức"],
-  "24": ["Thí nghiệm", "Chuột", "Vỏ infralimbic"]
+  "13": [
+   "Người học",
+   "Gợi ý",
+   "Ký ức"
+  ],
+  "25": [
+   "Thí nghiệm",
+   "Chuột",
+   "Vỏ infralimbic"
+  ]
  },
  "pairs": {
-  "12": [[1, 2], [1, 2], [0, 2], [0, 2]],
-  "24": [[0, 1], [0, 1], [0, 2], [2, 1], [0, 2]]
+  "13": [
+   [
+    1,
+    2
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    0,
+    2
+   ],
+   [
+    0,
+    2
+   ]
+  ],
+  "25": [
+   [
+    0,
+    1
+   ],
+   [
+    0,
+    1
+   ],
+   [
+    0,
+    2
+   ],
+   [
+    2,
+    1
+   ],
+   [
+    0,
+    2
+   ]
+  ]
  },
  "mark": {
-  "1": "nhớ rõ chưa chắc là nhớ đúng",
-  "19": "chủ yếu điều chỉnh độ mạnh củng cố",
-  "28": "Dập tắt không phải xóa",
-  "34": "bằng chứng còn tranh luận",
-  "39": "không bảo đảm nhất quán",
-  "45": "ba thứ khác nhau"
+  "2": "nhớ rõ chưa chắc là nhớ đúng",
+  "20": "chủ yếu điều chỉnh độ mạnh củng cố",
+  "29": "Dập tắt không phải xóa",
+  "35": "bằng chứng còn tranh luận",
+  "40": "không bảo đảm nhất quán",
+  "46": "ba thứ khác nhau"
  },
  "center": {
-  "26": "Hạnh nhân và vmPFC"
+  "27": "Hạnh nhân và vmPFC"
  },
  "concepts": [
   "hạnh nhân",

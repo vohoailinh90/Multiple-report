@@ -5,6 +5,7 @@ from __future__ import annotations
 import copy
 import importlib.util
 import json
+import re
 import shutil
 import tempfile
 import unittest
@@ -82,6 +83,46 @@ class GateTests(unittest.TestCase):
                 continue
             with self.subTest(lesson=lid):
                 self.assertEqual(gate.check(ROOT, lid)[0], [])
+
+    TOC = {"title": "Mục lục", "section": "Tóm tắt", "sources": [], "notes": "n", "layout": "contents", "tone": "light",
+           "bullets": ["Mở đầu: bài nói về điều gì", "Hạnh nhân: vị trí và vai trò", "Nguồn: chỗ đọc tiếp"]}
+
+    def with_toc(self, **changes):
+        return [{**self.TOC, **changes}, *SLIDES]
+
+    def test_a_lesson_from_2026_11_08_needs_a_contents_slide_as_slide_one(self):
+        """CLAUDE.md (owner, 2026-11-08): page 2 of the deck, right after the cover, is the table of contents."""
+        new = re.sub(r"^- \[(S\d+)\] (.+), (https://\S+)$", r"- [\1] [\2](\3)",  # sources are hyperlinks from 2026-11-04
+                     LESSON.replace("date: 2026-10-20", "date: 2026-11-08"), flags=re.M)
+        errs, _ = self.run_gate(lesson=new)
+        self.assertTrue(any(e.startswith("slide 1 must be the contents slide") for e in errs), errs)
+        self.assertEqual(self.run_gate(self.with_toc(), lesson=new), ([], []))
+        self.assertEqual(self.run_gate(lesson=new.replace("date: 2026-11-08", "date: 2026-11-07"))[0], [], "older lessons are exempt")
+
+    def test_the_contents_slide_is_slide_one_titled_muc_luc_in_the_first_section(self):
+        misplaced = [*SLIDES[:1], self.TOC, *SLIDES[1:]]
+        self.assertTrue(any("must be slide 1" in e for e in self.run_gate(misplaced)[0]))
+        twice = [self.TOC, *self.with_toc()]
+        self.assertTrue(any("must be slide 1" in e for e in self.run_gate(twice)[0]))
+        self.assertTrue(any("titled 'Mục lục'" in e for e in self.run_gate(self.with_toc(title="Nội dung"))[0]))
+        self.assertTrue(any("first section" in e for e in self.run_gate(self.with_toc(section="Hạnh nhân"))[0]))
+        self.assertTrue(any("cites no source" in e for e in self.run_gate(self.with_toc(sources=["S1"]))[0]))
+
+    def test_a_contents_slide_lists_three_to_eight_chapters_with_a_label_each(self):
+        errs, _ = self.run_gate(self.with_toc(bullets=["Một: a", "Hai: b"]))
+        self.assertIn("contents draws 3-8 bullets, found 2: Mục lục", errs)
+        errs, _ = self.run_gate(self.with_toc(bullets=[f"Chương {k}: ý {k}" for k in range(9)]))
+        self.assertIn("contents draws 3-8 bullets, found 9: Mục lục", errs)
+        errs, _ = self.run_gate(self.with_toc(bullets=["Một: a", "Hai: b", "chỉ có tên"]))
+        self.assertIn("contents entry must read 'Tên chương: ý chính': chỉ có tên", errs)
+
+    def test_the_contents_slide_does_not_count_towards_its_section_minimum(self):
+        slides = [*self.with_toc()]
+        slides[1] = {**slides[1], "section": "Tóm tắt"}
+        errs, _ = self.run_gate(slides, {**EXPECTED, "section_min_slides": 2, "section_min_exempt": ["Nguồn tham khảo"]})
+        self.assertNotIn("section has 2 slides: Tóm tắt", errs, "contents + one slide would pass if it were counted, 3 here")
+        errs, _ = self.run_gate(self.with_toc(), {**EXPECTED, "section_min_slides": 2, "section_min_exempt": ["Nguồn tham khảo"]})
+        self.assertIn("section has 1 slides: Tóm tắt", errs)
 
     def test_an_explainer_needs_a_body_within_bounds(self):
         self.assertIn("explainer needs a body: Hạnh nhân là gì", self.run_gate(self.mutated(1, body=None))[0])

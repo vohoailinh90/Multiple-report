@@ -1,0 +1,591 @@
+{
+ "title": "A04 · Inferiority Complex",
+ "subtitle": "Mẫu hình nản chí, không phải nhãn chẩn đoán",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/04-inferiority-complex.md",
+ "accent": "teal",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "A04 · MẶC CẢM TỰ TI",
+   "title": "Mặc cảm tự ti\nkhác gì cảm giác thấp kém?",
+   "body": "Ai cũng có lúc thấy mình thua kém. Bài học đọc từng chỗ cụm “inferiority complex” xuất hiện trong một sách của Adler, nhận ra rằng cụm này ít được định nghĩa hơn ta tưởng, rồi hỏi nghiên cứu hiện đại đo được phần nào. Đây là thuật ngữ lịch sử, không phải chẩn đoán.",
+   "nodes": [
+    [
+     "Cảm giác chung",
+     "Điểm xuất phát của mọi trẻ"
+    ],
+    [
+     "Complex",
+     "Ít định nghĩa, nhiều cách dùng"
+    ]
+   ],
+   "source": "A04 · Câu hỏi trung tâm",
+   "right": "ĐỌC ĐÚNG VĂN BẢN"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "title": "Đọc văn bản, kiểm cách suy luận",
+   "body": "Bạn cần chỉ ra Adler viết gì về cảm giác thấp kém và về complex kèm trang đã đọc, phân biệt điều văn bản nói với suy luận của bài, phân tích một tình huống bằng nhiều giả thuyết, và đánh giá điều nghiên cứu hiện đại đo được.",
+   "nodes": [
+    [
+     "01 · Chỉ ra",
+     "Trang đã đọc"
+    ],
+    [
+     "02 · Phân biệt",
+     "Văn bản và suy luận"
+    ],
+    [
+     "03 · Đánh giá",
+     "Điều đo được"
+    ]
+   ],
+   "arrows": "solid",
+   "source": "A04 · A"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Cụm từ xuất hiện ít hơn ta tưởng",
+   "body": "Trong bản OCR Understanding Human Nature, “inferiority complex” số ít xuất hiện bốn lần (tr. 75, 114, 174, 224), số nhiều một lần (tr. 166). “Superiority complex” không có trong cuốn này. Đây là đếm trên OCR, chỉ về cuốn sách này, không về mọi tác phẩm của Adler.",
+   "nodes": [
+    [
+     "Có",
+     "Bốn lần số ít, một lần số nhiều"
+    ],
+    [
+     "Không có",
+     "Superiority complex"
+    ]
+   ],
+   "source": "[S1] tr. 75, 114, 166, 174, 224"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Chương V không định nghĩa “complex”",
+   "body": "Chương V, trang 69 đến 90, nói nhiều về cảm giác thấp kém và nỗ lực được công nhận nhưng không đưa định nghĩa hình thức cho “complex”. Vì vậy mọi phân biệt giữa cảm giác và complex là cách đọc nhiều chỗ lại với nhau, bài đánh dấu là suy luận.",
+   "nodes": [
+    [
+     "Văn bản",
+     "Không định nghĩa hình thức"
+    ],
+    [
+     "Bài này",
+     "Suy luận, có đánh dấu"
+    ]
+   ],
+   "source": "[S1] chương V"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "“Complex” cho nhiều mẫu hình khác",
+   "body": "Adler còn dùng “deprecation complex” cho khuynh hướng hạ giá người khác để tạo cảm giác vượt trội (tr. 199) và “sickness complex” cho việc học cách ốm để đạt điều mình muốn (tr. 201). Ở đó “complex” gần với mẫu hình quen thuộc để đạt mục tiêu.",
+   "nodes": [
+    [
+     "Deprecation complex",
+     "Hạ giá người khác"
+    ],
+    [
+     "Sickness complex",
+     "Học cách ốm để đạt mục đích"
+    ]
+   ],
+   "source": "[S1] tr. 199, 201"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Cảm giác thấp kém là điểm xuất phát chung",
+   "body": "Adler viết mọi đứa trẻ ở vị thế thấp: yếu và phụ thuộc, nên đầu đời nào cũng ít nhiều có cảm giác thấp kém. Ông gọi nó là động lực và điểm xuất phát của mọi nỗ lực của trẻ, quyết định cách trẻ tìm bình an và an toàn.",
+   "nodes": [
+    [
+     "Mọi đứa trẻ",
+     "Yếu và phụ thuộc"
+    ],
+    [
+     "Cảm giác",
+     "Động lực xuất phát"
+    ]
+   ],
+   "source": "[S1] tr. 70"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều quyết định là diễn giải",
+   "body": "Khiếm khuyết thực của trẻ không là thước đo mức nặng của cảm giác thấp kém, vì cảm giác ấy phụ thuộc nhiều vào cách trẻ diễn giải. Cách diễn giải thay đổi từng ngày rồi cố kết thành một hằng số tự đánh giá, định hướng các khuynh hướng bù trừ.",
+   "nodes": [
+    [
+     "Khiếm khuyết thật",
+     "Không đủ để đo"
+    ],
+    [
+     "Diễn giải",
+     "Cố kết thành hằng số"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "cơ chế theo Adler",
+   "source": "[S1] tr. 74–75"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Khi nào thành vấn đề",
+   "body": "Adler nêu hai yếu tố có thể phá khả năng được giáo dục: cảm giác thấp kém bị cường độ hóa và chưa giải quyết, và một mục tiêu đòi thống trị người khác. Trẻ như vậy diễn giải mọi trải nghiệm như một thất bại.",
+   "nodes": [
+    [
+     "Cường độ hóa",
+     "Chưa giải quyết"
+    ],
+    [
+     "Mục tiêu thống trị",
+     "Hơn là an toàn"
+    ]
+   ],
+   "source": "[S1] tr. 70"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Ba chỗ “complex” xuất hiện",
+   "body": "Tr. 75: tâm hồn cố hết sức làm chủ inferiority complex, như tim phì đại khi suy yếu. Tr. 174: người bi quan đã có complex do trải nghiệm thơ ấu. Tr. 224: khoảng cách giữa người đó và mục tiêu quá cao thể hiện dưới dạng complex.",
+   "nodes": [
+    [
+     "Tr. 75",
+     "Làm chủ complex"
+    ],
+    [
+     "Tr. 174",
+     "Gốc ở thơ ấu"
+    ],
+    [
+     "Tr. 224",
+     "Khoảng cách với mục tiêu"
+    ]
+   ],
+   "source": "[S1] tr. 75, 174–175, 224"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Cách đọc của bài: ba bậc",
+   "body": "Suy luận để học, không để đo: bậc một là cảm giác thấp kém thông thường (tr. 70); bậc hai là cảm giác bị cường độ hóa chưa giải quyết (tr. 70, 75); bậc ba là complex, khi nó cố kết thành lập trường thường trực. Văn bản không nêu tiêu chí chuyển bậc.",
+   "nodes": [
+    [
+     "Bậc 1",
+     "Cảm giác thông thường"
+    ],
+    [
+     "Bậc 2",
+     "Cường độ hóa"
+    ],
+    [
+     "Bậc 3",
+     "Lập trường thường trực"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "suy luận của bài",
+   "source": "[S1] tr. 70, 75, 174, 224"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều khái niệm không cho phép suy ra",
+   "body": "Không là chẩn đoán: chương V không có tiêu chí lâm sàng. Không đồng nghĩa nhút nhát: cảm giác bị cường độ hóa còn có thể sinh tham vọng thống trị phóng đại. Không đo bằng khiếm khuyết thật. Không giải thích mọi thất bại.",
+   "nodes": [
+    [
+     "Không là",
+     "Chẩn đoán"
+    ],
+    [
+     "Không chỉ là",
+     "Nhút nhát"
+    ]
+   ],
+   "source": "[S1] tr. 70, 74–76"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Từ điều kiện nền tới cảm giác",
+   "body": "Chuỗi tái dựng từ văn bản: trẻ yếu và phụ thuộc, có thể thêm khiếm khuyết hoặc cách đối xử của người lớn (bị coi như đồ chơi, bị chế nhạo, bị nói dối). Cảm giác thấp kém xuất hiện, rồi trẻ diễn giải. Đây không phải cơ chế phát triển đã xác nhận.",
+   "nodes": [
+    [
+     "Điều kiện nền",
+     "Yếu, đối xử của người lớn"
+    ],
+    [
+     "Cảm giác",
+     "Điểm xuất phát"
+    ],
+    [
+     "Diễn giải",
+     "Có thể sai"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "chuỗi giả thuyết",
+   "source": "[S1] tr. 69–75"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Từ diễn giải tới bù trừ",
+   "body": "Diễn giải cố kết thành hằng số tự đánh giá, rồi định hướng bù trừ: khôi phục thăng bằng, hoặc bù trừ quá mức nhắm tới thống trị. Nếu người đó đối đầu thế giới, cảm giác bất an được củng cố. Chỗ kiểm: diễn giải khác khiếm khuyết khách quan.",
+   "nodes": [
+    [
+     "Hằng số",
+     "Tự đánh giá"
+    ],
+    [
+     "Bù trừ",
+     "Cân bằng hoặc quá mức"
+    ],
+    [
+     "Vòng phản hồi",
+     "Đối đầu, bất an"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "giả thuyết",
+   "source": "[S1] tr. 72, 75, 76"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ca lịch sử: người rút khỏi giao tiếp",
+   "body": "Adler kể về một người đàn ông bị cười nhạo ở trường tới mười tám tuổi, dần rút khỏi giao tiếp, với complex sâu đi cùng tham vọng vô hạn. Chỉ có lời kể một phía của Adler; sang chấn do trừng phạt cũng có thể góp phần. Dùng để hiểu cách Adler lập luận.",
+   "nodes": [
+    [
+     "Đọc theo Adler",
+     "Hai mặt cùng một gốc"
+    ],
+    [
+     "Giới hạn",
+     "Một nguồn, không kiểm độc lập"
+    ]
+   ],
+   "source": "[S1] tr. 113–115"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 2: sinh viên né phát biểu",
+   "body": "Phong luôn ngồi cuối lớp, không giơ tay dù biết câu trả lời. Giả thuyết: cảm giác thấp kém cố kết khiến Phong né so sánh. Giải thích khác: lo âu xã hội, từng bị chê, ngôn ngữ chưa vững, mệt. Hỏi Phong né ở mọi nơi hay chỉ trong lớp này.",
+   "nodes": [
+    [
+     "Đọc theo mô hình",
+     "Hằng số tự đánh giá"
+    ],
+    [
+     "Giải thích thay thế",
+     "Lo âu xã hội, từng bị chê"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S1] tr. 74–75"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 3: nhân viên khoe khoang",
+   "body": "Dũng hay nhắc thành tích, chê đồng nghiệp, không chịu nhờ ai. Theo Adler có thể là bù trừ quá mức: ông gọi khuynh hướng chê bai là deprecation complex, nỗ lực tạo cảm giác vượt trội. Giải thích khác: văn hóa cạnh tranh, năng lực thật. Không suy ra tự ti ẩn từ khoe khoang.",
+   "nodes": [
+    [
+     "Đọc theo Adler",
+     "Bù trừ quá mức"
+    ],
+    [
+     "Giải thích thay thế",
+     "Văn hóa, năng lực thật"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S1] tr. 76, 199"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ca giả định: Hà và buổi bảo vệ",
+   "body": "Hà chưa gửi bản nháp đồ án dù đã làm xong, nói “chắc chẳng ai thấy hay”, hỏi có nên bỏ chương cuối. Điều biết được là hành vi; “mặc cảm tự ti” mới là diễn giải. Giả thuyết Adler: hằng số tự đánh giá thấp khiến Hà đoán trước thất bại.",
+   "nodes": [
+    [
+     "Quan sát",
+     "Chưa gửi, muốn bỏ chương"
+    ],
+    [
+     "Nhãn",
+     "Diễn giải, chưa phải đo"
+    ]
+   ],
+   "source": "Ca giả định do bài thiết kế"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ba giải thích và một bước nhỏ",
+   "body": "Ba cách giải thích có thể cùng tồn tại: chương cuối còn yếu, quá tải và thiếu ngủ, hoặc phản hồi gay gắt trước đây. Bước kiểm hợp lý, đảo ngược được: gửi phần đã làm cho người tin cậy và xem phản hồi. Chưa kết luận Hà có complex.",
+   "nodes": [
+    [
+     "Chương còn yếu",
+     "Thật sự cần sửa"
+    ],
+    [
+     "Quá tải",
+     "Thiếu ngủ"
+    ],
+    [
+     "Phản hồi cũ",
+     "Gay gắt"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "ba lời giải cạnh tranh",
+   "source": "Ca giả định · [S1]"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Ba khảo sát bằng bảng hỏi",
+   "body": "734 học sinh Trung Quốc: sợ bị đánh giá tiêu cực là trung gian giữa cảm giác thấp kém và lo âu xã hội. 443 sinh viên Thổ Nhĩ Kỳ: cảm giác thấp kém liên hệ với nghiện internet. 197 vận động viên và 198 người khác: vận động viên ít cảm giác thấp kém hơn.",
+   "nodes": [
+    [
+     "Li và cộng sự 2022",
+     "734 học sinh"
+    ],
+    [
+     "Çimşir 2023",
+     "443 sinh viên"
+    ],
+    [
+     "Stoyanova 2025",
+     "197 và 198 người"
+    ]
+   ],
+   "source": "[S3] · [S4] · [S5] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Đọc đúng ba khảo sát",
+   "body": "Theo abstract, cả ba là khảo sát hoặc so sánh nhóm bằng bảng tự báo cáo, không nêu theo dõi dọc. Dự báo và trung gian là thuật ngữ thống kê, không phải nhân quả. Tên thang như “inferiority complex scale” không bảo đảm đo đúng cấu trúc của Adler.",
+   "nodes": [
+    [
+     "Là gì",
+     "Tương quan, tự báo cáo"
+    ],
+    [
+     "Không là",
+     "Nhân quả, đo cấu trúc Adler"
+    ]
+   ],
+   "source": "[S3] · [S4] · [S5]"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Lòng tự trọng: họ hàng gần",
+   "body": "Phân tích gộp dữ liệu dọc: lòng tự trọng thấp dự báo trầm cảm (β = −0,16) mạnh hơn chiều ngược (−0,08); với lo âu hai chiều gần cân bằng. Tổng quan khác: lòng tự trọng tăng tới đỉnh khoảng 50–60 tuổi. Chồng lấn với cảm giác thấp kém, nhưng không đồng nhất.",
+   "nodes": [
+    [
+     "Sowislo và Orth 2013",
+     "77 và 18 nghiên cứu dọc"
+    ],
+    [
+     "Orth và Robins 2014",
+     "Phát triển lòng tự trọng"
+    ]
+   ],
+   "source": "[S6] · [S7] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Cùng một cụm từ, nghĩa khác",
+   "body": "Moritz và cộng sự (2006) nhắc rằng trong lý thuyết hoang tưởng bị hại, inferiority complex từng chỉ lòng tự trọng ngầm thấp. Mẫu nhỏ, kết quả ủng hộ một phần. Mọi lời “nghiên cứu cho thấy mặc cảm tự ti” cần hỏi: nghĩa nào, đo bằng gì.",
+   "nodes": [
+    [
+     "Nghĩa khác",
+     "Lòng tự trọng ngầm"
+    ],
+    [
+     "Kết luận",
+     "Ủng hộ một phần"
+    ]
+   ],
+   "source": "[S8] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Tự phản tư: tôi đang so mình với ai, điều tôi kể với mình về kết quả là gì, có cách đọc khác không? Với trẻ: chú ý cách phản hồi, ghi nhận nỗ lực cụ thể, giao việc vừa sức; không nói “con mặc cảm”. Không dùng để chẩn đoán.",
+   "nodes": [
+    [
+     "Tự hỏi",
+     "So với ai, kể gì với mình"
+    ],
+    [
+     "Với trẻ",
+     "Phản hồi cụ thể, vừa sức"
+    ]
+   ],
+   "source": "Ứng dụng đề xuất của bài · chưa kiểm nghiệm"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "title": "Thang từ cảm giác đến mẫu hình",
+   "body": "Ba bậc nối từ trái sang phải: cảm giác thông thường, cảm giác cường độ hóa, mẫu hình cố định gọi là complex. Ô diễn giải ở trên nối nét đứt xuống các bậc. Ranh giới giữa bậc hai và ba là suy luận của bài, không phải tiêu chí chẩn đoán.",
+   "nodes": [
+    [
+     "Diễn giải của người trong cuộc",
+     "Tr. 74–75 · giả thuyết"
+    ],
+    [
+     "Bậc 1 · Cảm giác thấp kém",
+     "Chung cho mọi trẻ (tr. 70)"
+    ],
+    [
+     "Bậc 2 · Cường độ hóa",
+     "Chưa giải quyết (tr. 70, 75)"
+    ],
+    [
+     "Bậc 3 · Complex",
+     "Lập trường thường trực"
+    ]
+   ],
+   "pos": [
+    [
+     500,
+     280,
+     900,
+     110,
+     2
+    ],
+    [
+     80,
+     470,
+     470,
+     150,
+     0
+    ],
+    [
+     670,
+     470,
+     470,
+     150,
+     1
+    ],
+    [
+     1260,
+     470,
+     500,
+     150,
+     2
+    ]
+   ],
+   "edges": [
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     3,
+     1
+    ],
+    [
+     0,
+     2,
+     1
+    ]
+   ],
+   "source": "[S1] · caption A04 · mục I"
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "1. Cảm giác thấp kém là điểm xuất phát chung của mọi trẻ.\n2. Mức nặng phụ thuộc diễn giải, không chỉ khiếm khuyết.\n3. “Inferiority complex” xuất hiện ít và không có định nghĩa; “superiority complex” không có trong cuốn này.\n4. Ba bậc là suy luận của bài.\n5. Tự ti có thể trông như tham vọng thống trị.\n6. Khảo sát hiện đại cho thấy liên hệ, qua bảng tự báo cáo.\n7. Thang hiện đại không kiểm diễn giải của Adler.\n8. Đây là thuật ngữ lịch sử, không phải chẩn đoán.",
+   "nodes": [],
+   "source": "A04 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 1–3: định nghĩa, diễn giải, khoe khoang",
+   "body": "Câu 1: chương V có định nghĩa hình thức cho complex không? Không; cụm xuất hiện ở tr. 75, 114, 174, 224 mà không có tiêu chí. Câu 2: cùng khiếm khuyết, hai mức tự ti khác nhau, Adler giải thích sao? Do diễn giải. Câu 3: đồng nghiệp hay khoe có tự ti ẩn không? Không thể kết luận.",
+   "nodes": [
+    [
+     "Câu 1–2",
+     "Định nghĩa và diễn giải"
+    ],
+    [
+     "Câu 3",
+     "Không suy động cơ"
+    ]
+   ],
+   "source": "[S1] tr. 74–76 · A04 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 4–5: khảo sát và ca của Hà",
+   "body": "Câu 4: khảo sát thấy điểm thấp kém cao thì lo âu xã hội cao; kết luận nào thiếu cơ sở? “Tự ti gây lo âu” và “Adler được xác nhận”, vì chỉ là tự báo cáo một thời điểm. Câu 5: với Hà, một bước nhỏ đảo ngược được, giữ ba giả thuyết, không gán nhãn.",
+   "nodes": [
+    [
+     "Câu 4",
+     "Dự báo khác nhân quả"
+    ],
+    [
+     "Câu 5",
+     "Bước nhỏ, giữ giả thuyết"
+    ]
+   ],
+   "source": "[S3] · A04 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn và mức truy cập",
+   "body": "S1: Adler 1927, Understanding Human Nature, bản OCR Internet Archive; đọc chương V tr. 69–90 và tìm cụm từ trên toàn văn bản. S2: bài Proc R Soc Med 1927, chỉ metadata. S3–S6, S8: abstract qua Europe PMC; S7: abstract qua Crossref. Chưa nguồn hiện đại nào đọc toàn văn; Adlerpedia không dùng.",
+   "nodes": [
+    [
+     "S1 · S2",
+     "Gốc: OCR, chỉ metadata"
+    ],
+    [
+     "S3 – S8",
+     "Hiện đại: abstract"
+    ]
+   ],
+   "source": "A04 · L · nguồn đầy đủ trong bài"
+  },
+  {
+   "layout": "closing",
+   "section": "A04 · KẾT",
+   "title": "Hỏi về diễn giải,\nđừng gán nhãn con người",
+   "body": "Cảm giác thấp kém là chung; complex là cách gọi ít định nghĩa. Đọc đúng trang giúp tránh trích một định nghĩa không tồn tại. Đọc tiếp A05 về nỗ lực vượt trội và A06 về bù trừ. Bản nháp chờ phản biện học thuật độc lập.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "A03 · cảm giác thấp kém"
+    ],
+    [
+     "Đọc tiếp",
+     "A05 · A06 · A07"
+    ]
+   ],
+   "source": "A04 · drafted · review pending",
+   "right": "ĐỌC ĐÚNG TRANG"
+  }
+ ]
+}

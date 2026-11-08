@@ -1,0 +1,68 @@
+{
+  "lesson_id": "A04",
+  "title": "A04 · Inferiority Complex",
+  "version": 1,
+  "produced_at": "2026-11-08",
+  "producer": "phiên Claude chính",
+  "deck_status": "exported-native-pptx",
+  "academic_review_status": "pending",
+  "visual_status": "exported",
+  "canvas_ref": "cvs_5AZZCHQ3G0995ASCNM604CH2VK",
+  "canvas_url": "https://moda.app/canvas/aaffd91b-8e00-4a4a-acb2-b43008c88b73?source=agent",
+  "page_count": 29,
+  "source_script": "a04-slides.json",
+  "source_lesson": "../lessons/04-inferiority-complex.md",
+  "reference_style": "F01 v4 (khung thẻ, mũi tên neo, kicker emoji); màu theo DESIGN-SYSTEM",
+  "brand_kit_id": null,
+  "brand_kit_note": "Không gắn brand kit: repo đã chọn dùng bảng màu riêng của từng nhà (COORDINATION/DESIGN-SYSTEM); canvas mở trong Moda với ô brand kit trống.",
+  "design_system": {
+    "page_size": [
+      1920,
+      1080
+    ],
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "accent": "teal #126B60",
+    "palette": {
+      "dark": "#12262A",
+      "paper": "#F2F5F0",
+      "rose": "#CFE5E0"
+    },
+    "emoji_headers": "A–L bằng ký tự Unicode",
+    "icons": "không dùng; biểu tượng sách ở góc phải đã gỡ để đồng nhất"
+  },
+  "construction": "toàn bộ bằng hai chương trình canvas_edit (trang 1–14 và 15–29); sửa một mũi tên của sơ đồ trang 24",
+  "exports": {
+    "pptx": {
+      "path": "../visuals/a04.pptx",
+      "format": "pptx",
+      "status": "native-moda-export",
+      "page_count": 29,
+      "sha256": "122cf65c2766d939f49c82e235bd2e1aaa953621f2901b7f909bd8c716251e1c",
+      "size_bytes": 309330,
+      "warnings": [],
+      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF.",
+      "hyperlinks": "8 liên kết ngoài trên các slide nguồn (L), đã kiểm trong ppt/slides/_rels sau khi xuất; mỗi nguồn [Sn] có một liên kết bấm được tới URL ghi ở mục L của bài"
+    }
+  },
+  "verification": {
+    "pptx_integrity": "zip hợp lệ, đủ 29 slide; có phông Be Vietnam Pro và Bricolage Grotesque",
+    "render_check": "Mở bằng LibreOffice, chuyển PDF đủ 29 trang, ghép thành ba tờ thumbnail (36 dpi) và xem toàn bộ 29 trang; trang sơ đồ xem ở độ phân giải cao hơn",
+    "moda_screenshots": "trang 1, 24, 25 xem ảnh chụp Moda từng trang",
+    "limits": "Thumbnail độ phân giải thấp không bắt được lỗi chữ nhỏ bị cắt; chưa mở bằng PowerPoint hay iPhone; PPTX native của các deck khác trong series từng bị báo ẩn chữ và đổi phông trên iPhone nên cần kiểm riêng."
+  },
+  "adjustments": "Kịch bản ban đầu có 31 slide; gộp hai slide nguồn thành một và bỏ một slide mở đầu mục G để vừa 29 trang đã tạo. Sau review: slide nguồn thêm liên kết bấm được cho từng nguồn, xuất lại PPTX.",
+  "excluded_assets": [
+    {
+      "kind": "ảnh tư liệu, chân dung, stock",
+      "reason": "Không có ảnh nào được kiểm giấy phép; deck chỉ dùng hình khối và sơ đồ vector tự vẽ"
+    }
+  ],
+  "limitations": [
+    "Nội dung học thuật chưa có phản biện độc lập (xem research ledger).",
+    "Mỗi slide mang một đoạn body 40–65 chữ; không có ghi chú người thuyết trình.",
+    "Kịch bản slide rút từ bài; mọi nguồn và mức truy cập nằm trong mục L và file research."
+  ]
+}

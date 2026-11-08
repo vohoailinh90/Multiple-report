@@ -1,0 +1,610 @@
+{
+ "title": "F05 · Xung đột nội tâm và cơ chế phòng vệ",
+ "subtitle": "Phòng vệ là tên chung, dồn nén chỉ là một cách",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/05-conflict-defense-mechanisms.md",
+ "accent": "burgundy",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "F05 · XUNG ĐỘT / PHÒNG VỆ",
+   "title": "Phòng vệ là gì,\nvà dồn nén là gì?",
+   "body": "Freud dùng từ \"phòng vệ\" hai lần, cách nhau ba mươi năm, với hai nghĩa khác nhau. Bài học đọc cả hai văn bản, tách điều Freud viết khỏi điều nghiên cứu hiện đại đã kiểm, và nhắc rằng không ai nên bị dán nhãn \"đang phòng vệ\".",
+   "nodes": [
+    [
+     "1894",
+     "Nỗ lực ý chí có động cơ"
+    ],
+    [
+     "1926",
+     "Tên chung cho nhiều kỹ thuật"
+    ]
+   ],
+   "source": "F05 · Câu hỏi trung tâm",
+   "right": "MỘT TỪ, HAI LỚP NGHĨA"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "title": "Đọc khái niệm, kiểm cách suy luận",
+   "body": "Bạn cần giải thích phòng vệ như một khái niệm đã đổi nghĩa, phân biệt dồn nén với các kỹ thuật khác, và phân tích một tình huống bằng nhiều giả thuyết. Cuối bài, bạn đánh giá điều nghiên cứu đã kiểm và điều chưa kiểm được.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Phòng vệ 1894 và 1926"
+    ],
+    [
+     "02 · Phân tích",
+     "Tình huống, nhiều giả thuyết"
+    ],
+    [
+     "03 · Đánh giá",
+     "Bằng chứng và giới hạn"
+    ]
+   ],
+   "arrows": "solid",
+   "source": "F05 · A"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "1894: phòng vệ là việc người bệnh làm",
+   "body": "Freud đặt tên \"hysteria phòng vệ\" cho nhóm bệnh nhân mà sự chia tách ý thức do nỗ lực ý chí có động cơ gây ra. Ví dụ mở đầu rất đời thường: cô gia sư yêu chủ nhà rồi quyết gạt tình cảm ấy vì nó trái lòng tự trọng. Freud nói gạt ý nghĩ chưa phải bệnh lý.",
+   "nodes": [
+    [
+     "Hysteria phòng vệ",
+     "Có động cơ tìm ra được"
+    ],
+    [
+     "Ví dụ mở đầu",
+     "Cô gia sư gạt tình cảm"
+    ]
+   ],
+   "source": "[S1] tr. 60–62"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Biến ý nghĩ mạnh thành ý nghĩ yếu",
+   "body": "Cái tôi không xóa được dấu vết ký ức và cảm xúc, nhưng có thể làm yếu ý nghĩ bằng cách rút phần cảm xúc, tức \"lượng kích thích\" gắn với nó. Phần kích thích tách ra phải dùng ở nơi khác. Văn bản không đưa đơn vị đo cho lượng này.",
+   "nodes": [
+    [
+     "Ý nghĩ mạnh",
+     "Còn gắn cảm xúc"
+    ],
+    [
+     "Ý nghĩ yếu",
+     "Cảm xúc bị rút"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "giả thuyết 1894",
+   "source": "[S1] tr. 63"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "1926: một tên chung, một cách cụ thể",
+   "body": "Freud nhắc lại chính mình: ông dùng \"phòng vệ\" từ đầu sự nghiệp, sau đổi sang \"dồn nén\", quan hệ hai từ chưa xác định. Giờ ông đề nghị phòng vệ là tên chung cho mọi kỹ thuật của cái tôi trong xung đột, còn dồn nén là một phương pháp cụ thể.",
+   "nodes": [
+    [
+     "Phòng vệ",
+     "Tên chung"
+    ],
+    [
+     "Dồn nén",
+     "Một phương pháp"
+    ]
+   ],
+   "source": "[S2] mục \"Repression and Defense\""
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Xung đột là điều kiện, phòng vệ là đáp ứng",
+   "body": "Trong mô hình 1926, cái tôi chịu đòi hỏi của bản năng, của lương tâm và của thế giới. Khi thấy một đòi hỏi bản năng nguy hiểm, nó có thể đưa tín hiệu đau để chặn tiến trình bên trong. Thứ tự là: có xung đột giả định, rồi mới có phòng vệ.",
+   "nodes": [
+    [
+     "Xung đột",
+     "Điều kiện giả định"
+    ],
+    [
+     "Tín hiệu",
+     "Cái tôi báo nguy"
+    ],
+    [
+     "Phòng vệ",
+     "Kỹ thuật đáp ứng"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "quan hệ trong mô hình · giả thuyết",
+   "source": "[S2] mục II"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Dồn nén chỉ là một kỹ thuật",
+   "body": "Ở hysteria, nội dung bị quên và bị chặn khỏi ký ức. Ở loạn thần kinh ám ảnh cưỡng bức, sự kiện không bị quên mà bị cô lập khỏi cảm xúc và liên tưởng. Vì vậy Freud thu hẹp \"dồn nén\" và dùng \"phòng vệ\" cho cả họ kỹ thuật.",
+   "nodes": [
+    [
+     "Hysteria",
+     "Nội dung bị chặn khỏi ký ức"
+    ],
+    [
+     "Ám ảnh cưỡng bức",
+     "Nội dung còn đó nhưng bị cô lập"
+    ]
+   ],
+   "source": "[S2] \"Repression and Defense\" · VI"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Xóa bỏ: làm như chưa từng xảy ra",
+   "body": "Trong xóa bỏ, hành động thứ hai làm như thể hành động thứ nhất chưa xảy ra. Freud phân biệt biện pháp phòng ngừa hợp lý với xóa bỏ phi lý kiểu phép thuật, và nói xóa bỏ có chuyển dần sang bình thường. Ông không đưa số liệu về tần suất.",
+   "nodes": [
+    [
+     "Phòng ngừa",
+     "Làm để điều xấu khỏi xảy ra"
+    ],
+    [
+     "Xóa bỏ",
+     "Làm để như chưa xảy ra"
+    ]
+   ],
+   "source": "[S2] mục VI"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Hình thành phản ứng: dịu dàng quá mức",
+   "body": "Hình thành phản ứng là dồn nén thực hiện bằng cách tăng một xu hướng đối nghịch trong cái tôi. Dấu hiệu Freud cho phép dùng là mức quá đáng và tính cưỡng bức của sự dịu dàng, không phải chỉ việc người ta tử tế. Ví dụ đời thường là của bài, không phải của Freud.",
+   "nodes": [
+    [
+     "Xung động bị che",
+     "Giả thuyết"
+    ],
+    [
+     "Xu hướng đối nghịch",
+     "Quá đáng, cưỡng bức"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "giả thuyết",
+   "source": "[S2] mục IV"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Dung hòa và những điều không suy ra",
+   "body": "Freud mô tả một số triệu chứng hysteria như thỏa hiệp giữa đòi thỏa mãn và đòi trừng phạt, và nói cần kiểm xem mọi triệu chứng có vậy không. Phòng vệ không đồng nghĩa nói dối hay bệnh lý: Freud nói rõ ông không khẳng định gạt ý nghĩ là bệnh lý.",
+   "nodes": [
+    [
+     "Dung hòa",
+     "Một lớp triệu chứng"
+    ],
+    [
+     "Không suy ra",
+     "Nói dối hay bệnh lý"
+    ]
+   ],
+   "source": "[S2] mục III · [S1] tr. 62"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Từ xung đột tới kết quả",
+   "body": "Chuỗi giả thuyết: một đòi hỏi bản năng xuất hiện, xung đột được nhận diện, một kỹ thuật phòng vệ được dùng, rồi cảm xúc gắn với nội dung phải đi nơi khác. Đây là tái dựng để học, không phải cơ chế tâm lý hay thần kinh đã xác nhận.",
+   "nodes": [
+    [
+     "Đòi hỏi",
+     "Chưa hợp với cái tôi"
+    ],
+    [
+     "Xung đột",
+     "Tín hiệu báo nguy"
+    ],
+    [
+     "Phòng vệ",
+     "Dồn nén, cô lập, xóa bỏ"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "chuỗi giả thuyết",
+   "source": "[S1] tr. 63 · [S2] II–VI"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Kết quả, vòng phản hồi và chỗ kiểm",
+   "body": "Kết quả có thể là một dung hòa (triệu chứng, tính cách phản ứng, nghi thức) hoặc một thích nghi suôn sẻ. Triệu chứng lại bị cái tôi xử lý tiếp. Chỉ bước chọn kỹ thuật có phép kiểm yếu; các bước xung đột và tín hiệu hầu như chưa có phép kiểm riêng.",
+   "nodes": [
+    [
+     "Kết quả",
+     "Dung hòa hoặc thích nghi"
+    ],
+    [
+     "Vòng phản hồi",
+     "Cuộc chiến phòng vệ thứ hai"
+    ],
+    [
+     "Chỗ kiểm",
+     "Dấu hiệu độc lập"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "giả thuyết",
+   "source": "[S2] mục III"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 1: cô gia sư gạt tình cảm",
+   "body": "Theo mô hình 1894, đó là phòng vệ có chủ đích: nỗ lực gạt ý nghĩ là hành động có động cơ rõ. Giải thích thay thế đơn giản hơn là một quyết định thực tế để giữ nghề, không cần xung đột vô thức. Phần thuộc lý thuyết của Freud là điều xảy ra sau đó với cảm xúc.",
+   "nodes": [
+    [
+     "Đọc theo mô hình",
+     "Phòng vệ có chủ đích"
+    ],
+    [
+     "Giải thích thay thế",
+     "Quyết định thực tế"
+    ]
+   ],
+   "source": "[S1] tr. 62"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 2: quá lịch sự với đồng nghiệp",
+   "body": "Hạnh luôn khen đồng nghiệp hay chê dự án của chị, nhưng mệt sau mỗi lần gặp. Giả thuyết hình thành phản ứng cần dấu hiệu độc lập của cảm xúc bị che. Văn hóa công sở, mong giữ quan hệ hoặc ngại xung đột cũng giải thích được; một hành vi lịch sự chưa đủ để chọn.",
+   "nodes": [
+    [
+     "Đọc theo mô hình",
+     "Hình thành phản ứng"
+    ],
+    [
+     "Giải thích thay thế",
+     "Lịch sự, ngại xung đột"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S2] mục IV"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 3: rửa tay sau khi nói xấu bạn",
+   "body": "Hình ảnh gần với xóa bỏ: hành động thứ hai làm như thể hành động thứ nhất không xảy ra, và Freud nói điều này có thể chuyển dần sang bình thường. Giải thích khác là thói quen vệ sinh hoặc nghi thức chuyển việc. Nếu chiếm nhiều thời gian và gây khổ, cần gặp người có chuyên môn.",
+   "nodes": [
+    [
+     "Đọc theo mô hình",
+     "Gần với xóa bỏ"
+    ],
+    [
+     "Giải thích thay thế",
+     "Thói quen, nghi thức"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S2] mục VI"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ca giả định: Mai nói mình \"hoàn toàn ổn\"",
+   "body": "Mai cười, đổi chủ đề khi nhắc chuyện em trai được cho tiền mua nhà, nhận giúp em chuyển nhà, nhưng gần đây quên lịch họp và cáu với nhân viên. Điều biết được là hành vi; \"phủ nhận\" hay \"dời đích\" mới là diễn giải, chưa phải quan sát.",
+   "nodes": [
+    [
+     "Quan sát",
+     "Nói ổn, quên lịch, cáu"
+    ],
+    [
+     "Nhãn",
+     "Diễn giải, chưa phải đo"
+    ]
+   ],
+   "source": "Ca giả định do bài thiết kế"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Giữ ba lời giải cùng trên bàn",
+   "body": "Giả thuyết theo mô hình: có xung đột và một phòng vệ. Giải thích khác: quá tải công việc làm Mai cáu và quên. Hoặc Mai bận tâm nhưng chủ động không làm to chuyện để giữ hòa khí. Ba cách có thể cùng tồn tại; cần hỏi mở, đối chiếu thời điểm, không đoán.",
+   "nodes": [
+    [
+     "Phòng vệ",
+     "Giả thuyết của mô hình"
+    ],
+    [
+     "Quá tải",
+     "Công việc"
+    ],
+    [
+     "Chủ động nén",
+     "Giữ hòa khí"
+    ]
+   ],
+   "source": "Ca giả định · [S2]",
+   "arrows": "dash",
+   "hyp": "ba lời giải cạnh tranh"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Văn bản gốc nói gì, nghiên cứu kiểm gì",
+   "body": "S1 và S2 cho thấy khái niệm phòng vệ đổi nghĩa và khác nhau giữa 1894 với 1926. Chúng không là bằng chứng rằng chuỗi giả thuyết xảy ra. Nghiên cứu hiện đại kiểm từng cơ chế riêng bằng thiết kế của tâm lý xã hội, không kiểm cả mô hình xung đột.",
+   "nodes": [
+    [
+     "Văn bản gốc",
+     "Freud nói gì"
+    ],
+    [
+     "Nghiên cứu",
+     "Từng cơ chế riêng"
+    ]
+   ],
+   "source": "[S1] · [S2] · [S3]"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Baumeister 1998: ba cơ chế được ủng hộ",
+   "body": "Tổng quan tường thuật về bảy cơ chế: hình thành phản ứng, cô lập và phủ nhận được chứng minh khá đầy đủ; xóa bỏ ghi nhận nhưng không bảo vệ; phóng chiếu có thể là sản phẩm phụ; dời đích không được hỗ trợ; không thấy bằng chứng thăng hoa. Bài này mới đọc abstract.",
+   "nodes": [
+    [
+     "Được ủng hộ",
+     "Phản ứng, cô lập, phủ nhận"
+    ],
+    [
+     "Yếu hoặc không",
+     "Dời đích, thăng hoa"
+    ]
+   ],
+   "source": "[S3] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Đo phòng vệ bằng quan sát viên",
+   "body": "DMRS-Q gồm 150 mục, 30 cơ chế, 7 mức phòng vệ, cho điểm chức năng phòng vệ chung. Đây là bài mô tả phương pháp với kiểm định sơ bộ; chính bài ghi rằng huấn luyện người chấm tốn thời gian. Phiên này chưa đọc nguyên văn phần kết quả nên không đưa số độ tin cậy.",
+   "nodes": [
+    [
+     "Công cụ",
+     "DMRS-Q"
+    ],
+    [
+     "Mức bằng chứng",
+     "Sơ bộ"
+    ]
+   ],
+   "source": "[S4] Abstract, Introduction"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Hiệu quả trị liệu không xác nhận cơ chế",
+   "body": "Một thí điểm 30 người thấy phòng vệ cải thiện cùng triệu chứng, nhưng nhân quả chưa xác lập và cả ba nhánh đều được trị liệu. Tổng quan cho thấy trị liệu tâm động học có hiệu quả. Hiệu quả của một phương pháp không chứng minh từng cơ chế lý thuyết đứng sau nó.",
+   "nodes": [
+    [
+     "Có hỗ trợ",
+     "Hiệu quả chung"
+    ],
+    [
+     "Chưa chứng minh",
+     "Từng cơ chế"
+    ]
+   ],
+   "source": "[S5] · [S6] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Tự phản tư: tôi cảm thấy gì, điều gì khiến tôi khó nói, có cách đáp ứng nào khác? Giao tiếp: mô tả điều quan sát và hỏi mở thay vì nói \"bạn đang phủ nhận\". Không dùng khái niệm để chẩn đoán người khác hay thay đánh giá lâm sàng.",
+   "nodes": [
+    [
+     "Tự hỏi",
+     "Cảm thấy gì, khó nói gì"
+    ],
+    [
+     "Với người khác",
+     "Hỏi mở, không gán nhãn"
+    ]
+   ],
+   "source": "Ứng dụng đề xuất của bài · chưa kiểm nghiệm"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "title": "Xung đột, phòng vệ, dung hòa",
+   "body": "Hai đòi hỏi cùng đi vào cái tôi trong xung đột; từ đó ba nhánh phòng vệ nét đứt, gắn nhãn giả thuyết, dẫn tới dung hòa. Dải dưới nhắc rằng hành vi quan sát được có nhiều giải thích. Sơ đồ không đo năng lượng hay vị trí não.",
+   "nodes": [
+    [
+     "Đòi hỏi bản năng",
+     "Giả thuyết"
+    ],
+    [
+     "Đòi hỏi lương tâm",
+     "Giả thuyết"
+    ],
+    [
+     "Cái tôi · xung đột",
+     "Điểm gặp"
+    ],
+    [
+     "Phòng vệ",
+     "Dồn nén, cô lập, xóa bỏ, phản ứng"
+    ],
+    [
+     "Dung hòa",
+     "Một lớp triệu chứng"
+    ]
+   ],
+   "source": "[S2] · caption F05 · mục I",
+   "pos": [
+    [
+     80,
+     300,
+     440,
+     130,
+     0
+    ],
+    [
+     80,
+     470,
+     440,
+     130,
+     0
+    ],
+    [
+     640,
+     360,
+     380,
+     190,
+     1
+    ],
+    [
+     1100,
+     360,
+     380,
+     190,
+     2
+    ],
+    [
+     1560,
+     360,
+     280,
+     190,
+     1
+    ]
+   ],
+   "edges": [
+    [
+     0,
+     2,
+     0
+    ],
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     3,
+     1
+    ],
+    [
+     3,
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "1. Phòng vệ đổi nghĩa từ 1894 sang 1926. 2. Dồn nén chỉ là một kỹ thuật. 3. Cô lập, xóa bỏ, hình thành phản ứng khác dồn nén. 4. Dung hòa là cách đọc một lớp triệu chứng. 5. Phòng vệ không là nói dối hay bệnh lý. 6. Nghiên cứu ủng hộ một số cơ chế, yếu với cơ chế khác. 7. Hiệu quả trị liệu không xác nhận cơ chế. 8. Luôn giữ giả thuyết thay thế.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc đúng văn bản"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "F05 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 1–2: tên chung và dấu hiệu độc lập",
+   "body": "Câu 1: năm 1926 Freud đề nghị quan hệ nào giữa phòng vệ và dồn nén? Đáp án: phòng vệ là tên chung, dồn nén là một phương pháp cụ thể. Câu 2: người luôn nhẹ nhàng với người họ đang giận cần thêm dữ kiện nào để cân nhắc hình thành phản ứng? Cần dấu hiệu độc lập và các giải thích thay thế.",
+   "nodes": [
+    [
+     "Câu 1",
+     "Tên chung và cụ thể"
+    ],
+    [
+     "Câu 2",
+     "Dấu hiệu độc lập"
+    ]
+   ],
+   "source": "[S2] mục IV · F05 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 3–5: bằng chứng và ca của Mai",
+   "body": "Câu 3: \"nghiên cứu đã chứng minh mọi cơ chế\" sai ở đâu? Kết quả khác nhau theo cơ chế. Câu 4: tiến bộ sau trị liệu có xác nhận Freud không? Không, hiệu quả không xác nhận cơ chế. Câu 5: với Mai, nêu điều quan sát và hỏi mở, không gán nhãn; gợi ý người có chuyên môn nếu Mai khổ nhiều.",
+   "nodes": [
+    [
+     "Câu 3–4",
+     "Từng cơ chế, không suy"
+    ],
+    [
+     "Câu 5",
+     "Hỏi mở, không nhãn"
+    ]
+   ],
+   "source": "[S3] · [S5] · [S6] · F05 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn gốc đã đọc đúng phần",
+   "body": "S1: Freud, 1894, \"The Defence Neuro-Psychoses\", bản Rickman 1924, Freud Edition, tr. 60–63. S2: Freud, 1926, Inhibition, Symptom and Anxiety, bản Clark 1927, Gutenberg, các mục II, III, IV, VI, \"Repression and Defense\". Không đọc toàn sách.",
+   "nodes": [
+    [
+     "S1",
+     "freudedition.net · tr. 60–63"
+    ],
+    [
+     "S2",
+     "gutenberg.org #79835"
+    ]
+   ],
+   "source": "F05 · L · nguồn đầy đủ trong bài"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn hiện đại và mức truy cập",
+   "body": "S3 Baumeister và cộng sự 1998 và S6 Shedler 2010: abstract. S4 Di Giuseppe và Perry 2021: abstract, giới thiệu, bảng 1. S5 Perry và cộng sự 2025: abstract. S7 Bargh và Morsella 2008: phần thân bản tác giả. Chưa nguồn nào được đọc toàn văn.",
+   "nodes": [
+    [
+     "S3 · S5 · S6",
+     "Abstract"
+    ],
+    [
+     "S4 · S7",
+     "Đọc một phần"
+    ]
+   ],
+   "source": "F05 · L · mức truy cập"
+  },
+  {
+   "layout": "closing",
+   "section": "F05 · KẾT",
+   "title": "Hỏi về cơ chế,\nđừng gán nhãn con người",
+   "body": "Một hành vi hiếm khi đủ để chọn một cơ chế. Hiểu phòng vệ đúng nghĩa giúp đọc Freud chính xác hơn; kiểm giả thuyết giúp biết lúc nào cần lời giải khác. Đọc tiếp F06 về dồn nén và ký ức. Bản nháp chờ phản biện học thuật độc lập.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "F02 · F03 · F04"
+    ],
+    [
+     "Đọc tiếp",
+     "F06 · dồn nén và ký ức"
+    ]
+   ],
+   "source": "F05 · drafted · review pending",
+   "right": "PHÒNG VỆ, ĐÚNG NGHĨA"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+  "lesson_id": "F05",
+  "title": "F05 · Xung đột nội tâm và cơ chế phòng vệ",
+  "version": 1,
+  "produced_at": "2026-11-08",
+  "producer": "phiên Claude chính",
+  "deck_status": "exported-native-pptx",
+  "academic_review_status": "pending",
+  "visual_status": "exported",
+  "canvas_ref": "cvs_48FYY62XNP857BZ1RAY8AXW82Q",
+  "canvas_url": "https://moda.app/canvas/887fbc61-76b6-414e-bf87-0af215de2057?source=agent",
+  "page_count": 29,
+  "source_script": "f05-slides.json",
+  "source_lesson": "../lessons/05-conflict-defense-mechanisms.md",
+  "reference_style": "F01 v4 (khung thẻ, mũi tên neo, kicker emoji); màu theo DESIGN-SYSTEM",
+  "brand_kit_id": null,
+  "brand_kit_note": "Không gắn brand kit: repo đã chọn dùng bảng màu riêng của từng nhà (COORDINATION/DESIGN-SYSTEM); canvas mở trong Moda với ô brand kit trống.",
+  "design_system": {
+    "page_size": [
+      1920,
+      1080
+    ],
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "accent": "burgundy #7A2038",
+    "palette": {
+      "dark": "#23191F",
+      "paper": "#F5F0E6",
+      "rose": "#EADDE0"
+    },
+    "emoji_headers": "A–L bằng ký tự Unicode",
+    "icons": "không dùng; biểu tượng sách ở góc phải đã gỡ để đồng nhất"
+  },
+  "construction": "pages 1–15 bằng canvas_apply_markup; pages 16–29 bằng chương trình canvas_edit; sau đó sửa nhỏ (nét đứt, nhãn sơ đồ trang 23)",
+  "exports": {
+    "pptx": {
+      "path": "../visuals/f05.pptx",
+      "format": "pptx",
+      "status": "native-moda-export",
+      "page_count": 29,
+      "sha256": "d728ef264ba0e9e91c6b2f81a0c16525addd69dddf650b2c5eb3dca4507332ac",
+      "size_bytes": 311011,
+      "warnings": [],
+      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF.",
+      "hyperlinks": "7 liên kết ngoài trên các slide nguồn (L), đã kiểm trong ppt/slides/_rels sau khi xuất; mỗi nguồn [Sn] có một liên kết bấm được tới URL ghi ở mục L của bài"
+    }
+  },
+  "verification": {
+    "pptx_integrity": "zip hợp lệ, đủ 29 slide; có phông Be Vietnam Pro và Bricolage Grotesque",
+    "render_check": "Mở bằng LibreOffice, chuyển PDF đủ 29 trang, ghép thành ba tờ thumbnail (36 dpi) và xem toàn bộ 29 trang; trang sơ đồ xem ở độ phân giải cao hơn",
+    "moda_screenshots": "trang 1, 2, 12, 15, 16, 17, 18, 23, 24, 26, 27, 28, 29 xem ảnh chụp Moda từng trang",
+    "limits": "Thumbnail độ phân giải thấp không bắt được lỗi chữ nhỏ bị cắt; chưa mở bằng PowerPoint hay iPhone; PPTX native của các deck khác trong series từng bị báo ẩn chữ và đổi phông trên iPhone nên cần kiểm riêng."
+  },
+  "adjustments": "Slide 17 thêm hai mũi tên nét đứt và nhãn 'ba lời giải cạnh tranh'; slide 23 rút nhãn node 'Đòi hỏi lương tâm' sau khi render LibreOffice thấy nhãn dài che dòng mô tả. Sau review: slide nguồn thêm liên kết bấm được cho từng nguồn, xuất lại PPTX.",
+  "excluded_assets": [
+    {
+      "kind": "ảnh tư liệu, chân dung, stock",
+      "reason": "Không có ảnh nào được kiểm giấy phép; deck chỉ dùng hình khối và sơ đồ vector tự vẽ"
+    }
+  ],
+  "limitations": [
+    "Nội dung học thuật chưa có phản biện độc lập (xem research ledger).",
+    "Mỗi slide mang một đoạn body 40–65 chữ; không có ghi chú người thuyết trình.",
+    "Kịch bản slide rút từ bài; mọi nguồn và mức truy cập nằm trong mục L và file research."
+  ]
+}

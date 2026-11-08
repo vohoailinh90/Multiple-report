@@ -55,6 +55,19 @@ class GenTests(unittest.TestCase):
                     sizes = [size for _, _, size, _ in texts(markup)]
                     self.assertGreaterEqual(min(sizes), 22)
 
+    def test_page_indexed_options_point_at_slides_that_use_them(self):
+        """opts keys `big`, `mark`, `center`, `actors`, `pairs` are page numbers: adding a slide (the contents slide) shifts them all."""
+        uses = {"big": "one-big-number", "mark": "one-highlighted-sentence", "center": "connection-diagram",
+                "actors": "sequence-diagram", "pairs": "sequence-diagram"}
+        for path in sorted((ROOT / "scripts" / "deckgen" / "opts").glob("L??.json")):  # L17.ja.json belongs to slides.ja.json, a deck of its own
+            lid, o = path.stem, json.loads(path.read_text(encoding="utf-8"))
+            slides = json.loads((ROOT / "lessons" / lid / "slides.json").read_text(encoding="utf-8"))["slides"]
+            for key, layout in uses.items():
+                for page in o.get(key, {}):
+                    with self.subTest(lesson=lid, option=key, page=page):
+                        self.assertTrue(page.isdigit() and 1 <= int(page) <= len(slides), "no such page")
+                        self.assertEqual(slides[int(page) - 1]["layout"], layout)
+
     def test_no_text_is_estimated_to_overflow_its_box(self):
         """gen.fit sizes every long text to its box; a layout with a box too small for its text fails here, not on Moda."""
         pages = [("T00", i, json.loads((FIX / "opts.json").read_text(encoding="utf-8")), FIX / "slides.json") for i in range(1, 6)]

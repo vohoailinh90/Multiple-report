@@ -2,13 +2,32 @@
  "topic_label": "Mạng xã hội · Bài L06",
  "motif": "feed",
  "question": "Mạng xã hội có “thao túng” não không?",
- "cards": ["Cơ chế nền", "Thí nghiệm, quan sát", "Tác hại: còn chưa rõ", "Cách tự kiểm"],
- "concepts": ["hệ thưởng", "chú ý", "lượt thích", "fMRI", "lan truyền", "đạo đức", "cảm xúc", "suy luận"],
- "big": {"22": "563.312", "30": "0,4%"},
- "mark": {
-  "1": "tính năng “tận dụng” nó phần lớn là suy luận",
-  "20": "mỗi lần cuộn",
-  "39": "không phải lời khuyên y tế"
+ "cards": [
+  "Cơ chế nền",
+  "Thí nghiệm, quan sát",
+  "Tác hại: còn chưa rõ",
+  "Cách tự kiểm"
+ ],
+ "concepts": [
+  "hệ thưởng",
+  "chú ý",
+  "lượt thích",
+  "fMRI",
+  "lan truyền",
+  "đạo đức",
+  "cảm xúc",
+  "suy luận"
+ ],
+ "big": {
+  "23": "563.312",
+  "31": "0,4%"
  },
- "center": {"4": "Mạng xã hội"}
+ "mark": {
+  "2": "tính năng “tận dụng” nó phần lớn là suy luận",
+  "21": "mỗi lần cuộn",
+  "40": "không phải lời khuyên y tế"
+ },
+ "center": {
+  "5": "Mạng xã hội"
+ }
 }

@@ -3,6 +3,21 @@
  "subtitle": "Sức khỏe · Bài L12",
  "slides": [
   {
+   "title": "Mục lục",
+   "bullets": [
+    "Rối loạn tâm lý ở mức cơ chế: rối loạn tâm lý là gì và bài này không làm gì",
+    "Trầm cảm và lưỡng cực: vùng não được đo thấy gì, giả thuyết monoamine, nhạy cảm với phần thưởng",
+    "Lo âu và PTSD: hạnh nhân, vỏ trước trán và GABA; ký ức sang chấn, hải mã và noradrenaline",
+    "Điều trị, hiểu lầm và lưu ý: các cách điều trị tác động vào mạch nào, hiểu lầm thường gặp, điều cần nhớ"
+   ],
+   "notes": "Trang này là bản đồ của cả bài, để bạn biết trước các chương lớn trước khi đi vào chi tiết. Bài chia thành 4 chương. Chương 1, Rối loạn tâm lý ở mức cơ chế: rối loạn tâm lý là gì và bài này không làm gì. Chương 2, Trầm cảm và lưỡng cực: vùng não được đo thấy gì, giả thuyết monoamine, nhạy cảm với phần thưởng. Chương 3, Lo âu và PTSD: hạnh nhân, vỏ trước trán và GABA; ký ức sang chấn, hải mã và noradrenaline. Chương 4, Điều trị, hiểu lầm và lưu ý: các cách điều trị tác động vào mạch nào, hiểu lầm thường gặp, điều cần nhớ. Mỗi trang sau có nhãn chương ở đầu trang, cùng màu với số chương ở đây. Muốn tìm lại một ý, nhìn nhãn chương rồi lần theo mục lục này.",
+   "section": "Tóm tắt",
+   "sources": [],
+   "layout": "contents",
+   "tone": "light",
+   "chapter": "Mục lục"
+  },
+  {
    "title": "Câu hỏi của bài",
    "section": "Tóm tắt",
    "sources": [
@@ -14,7 +29,8 @@
    "bullets": [
     "Khi nói não của người trầm cảm, lo âu hay sang chấn “khác”, người ta thật sự đo được gì, và chưa đo được gì?"
    ],
-   "notes": "Mở bài bằng câu hỏi thay vì kết luận. Người nghe thường đã gặp những câu như “não người trầm cảm hoạt động kém” hay “hạnh nhân của người lo âu quá nhạy”. Bài này đi hỏi ngược lại: câu đó dựa trên phép đo nào, đo ở ai, và chứng minh được điều gì. Câu trả lời ngắn mà bài sẽ chứng minh dần: phần lớn là đo ở nhóm người đã có chẩn đoán, cho thấy mô hình chung chứ không chẩn đoán một người, và thường chưa cho biết cái gì có trước. Nhắc rằng bài nói ở mức cơ chế, không phải hướng dẫn nhận biết hay xử trí; mục Lưu ý ở cuối nói rõ điều đó."
+   "notes": "Mở bài bằng câu hỏi thay vì kết luận. Người nghe thường đã gặp những câu như “não người trầm cảm hoạt động kém” hay “hạnh nhân của người lo âu quá nhạy”. Bài này đi hỏi ngược lại: câu đó dựa trên phép đo nào, đo ở ai, và chứng minh được điều gì. Câu trả lời ngắn mà bài sẽ chứng minh dần: phần lớn là đo ở nhóm người đã có chẩn đoán, cho thấy mô hình chung chứ không chẩn đoán một người, và thường chưa cho biết cái gì có trước. Nhắc rằng bài nói ở mức cơ chế, không phải hướng dẫn nhận biết hay xử trí; mục Lưu ý ở cuối nói rõ điều đó.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Bốn nhóm, một cách đọc",
@@ -32,7 +48,8 @@
     "Lo âu: hạnh nhân, vỏ trước trán và GABA",
     "PTSD: hải mã, hạnh nhân và noradrenaline"
    ],
-   "notes": "Đây là bản đồ của bài. Bốn nhóm được viết theo cùng một khung: định nghĩa làm việc, vùng hoặc mạch được liên hệ, chất dẫn truyền được nghiên cứu, di truyền và môi trường, mức bằng chứng, và điều đừng hiểu nhầm. Khung cố định giúp so sánh: muốn biết nhóm nào có bằng chứng mạnh hơn thì nhìn cùng một ô ở mỗi thẻ. Chỗ dễ nhầm: các nhóm có phần chồng nhau, ví dụ hạnh nhân xuất hiện ở cả bốn, nhưng điều đó không có nghĩa hạnh nhân là nguyên nhân chung. Phần điều trị được gom riêng ở mục 8 theo nhóm và cơ chế."
+   "notes": "Đây là bản đồ của bài. Bốn nhóm được viết theo cùng một khung: định nghĩa làm việc, vùng hoặc mạch được liên hệ, chất dẫn truyền được nghiên cứu, di truyền và môi trường, mức bằng chứng, và điều đừng hiểu nhầm. Khung cố định giúp so sánh: muốn biết nhóm nào có bằng chứng mạnh hơn thì nhìn cùng một ô ở mỗi thẻ. Chỗ dễ nhầm: các nhóm có phần chồng nhau, ví dụ hạnh nhân xuất hiện ở cả bốn, nhưng điều đó không có nghĩa hạnh nhân là nguyên nhân chung. Phần điều trị được gom riêng ở mục 8 theo nhóm và cơ chế.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Ba nhãn mức chắc chắn",
@@ -47,7 +64,8 @@
     "Giả thuyết hoặc đang tranh luận: có nguồn, nói rõ ai tranh luận",
     "Suy luận của người viết: không gắn nguồn như thể nguồn đã nói"
    ],
-   "notes": "Giải thích cách đọc nhãn trước khi vào nội dung. Giáo khoa nghĩa là sách giáo trình và nguồn độc lập đồng thuận. Giả thuyết hoặc đang tranh luận nghĩa là có nguồn, nhưng chưa đủ để coi là chắc; bài sẽ nói ai tranh luận, ví dụ giả thuyết serotonin. Suy luận của người viết là ý nối của người viết, như nhận xét về giả dược, và không được hiểu như điều nguồn đã nói. Ví dụ của người viết cũng được gắn nhãn riêng. Chỗ dễ nhầm: một ý có trích dẫn vẫn có thể là giả thuyết; chữ trong ngoặc vuông chỉ cho biết nguồn nói gì, không phải mức chắc chắn."
+   "notes": "Giải thích cách đọc nhãn trước khi vào nội dung. Giáo khoa nghĩa là sách giáo trình và nguồn độc lập đồng thuận. Giả thuyết hoặc đang tranh luận nghĩa là có nguồn, nhưng chưa đủ để coi là chắc; bài sẽ nói ai tranh luận, ví dụ giả thuyết serotonin. Suy luận của người viết là ý nối của người viết, như nhận xét về giả dược, và không được hiểu như điều nguồn đã nói. Ví dụ của người viết cũng được gắn nhãn riêng. Chỗ dễ nhầm: một ý có trích dẫn vẫn có thể là giả thuyết; chữ trong ngoặc vuông chỉ cho biết nguồn nói gì, không phải mức chắc chắn.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Bốn điều kiện của một rối loạn tâm lý",
@@ -63,7 +81,8 @@
     "Đừng hiểu nhầm: buồn sau mất mát là phản ứng được mong đợi"
    ],
    "notes": "Điểm cần nhấn là điều kiện thứ tư. Nhiều người nghĩ cứ buồn sâu hay lo nhiều là rối loạn; định nghĩa của APA yêu cầu đủ bốn điều kiện, và loại trừ phản ứng được mong đợi trước một sự kiện, như đau buồn sau khi người thân qua đời. Ví dụ trong giáo trình về điều kiện ba: nỗi sợ xã hội nặng đến mức người đó tránh mọi tình huống xã hội, kể cả đi học hay xin việc. Mức chắc chắn: định nghĩa này là giáo khoa. Chỗ dễ nhầm: định nghĩa mô tả điều kiện chung, không phải bảng tự kiểm tra; việc áp dụng thuộc về người có chuyên môn.",
-   "body": "Hội Tâm thần Hoa Kỳ (APA) mô tả **rối loạn tâm lý** (psychological disorder) bằng bốn điều kiện: rối loạn đáng kể trong suy nghĩ, cảm xúc và hành vi; phản ánh một trục trặc sinh học, tâm lý hoặc phát triển; gây đau khổ hoặc suy giảm chức năng đáng kể; và không phải phản ứng được mong đợi hay được văn hóa chấp nhận [S1]. Ví dụ trong giáo trình: buồn sâu sau khi người thân qua đời là phản ứng được mong đợi, nên tự nó không báo hiệu một rối loạn [S1]. Giáo trình nhìn rối loạn qua quan điểm **sinh học, tâm lý, xã hội**."
+   "body": "Hội Tâm thần Hoa Kỳ (APA) mô tả **rối loạn tâm lý** (psychological disorder) bằng bốn điều kiện: rối loạn đáng kể trong suy nghĩ, cảm xúc và hành vi; phản ánh một trục trặc sinh học, tâm lý hoặc phát triển; gây đau khổ hoặc suy giảm chức năng đáng kể; và không phải phản ứng được mong đợi hay được văn hóa chấp nhận [S1]. Ví dụ trong giáo trình: buồn sâu sau khi người thân qua đời là phản ứng được mong đợi, nên tự nó không báo hiệu một rối loạn [S1]. Giáo trình nhìn rối loạn qua quan điểm **sinh học, tâm lý, xã hội**.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Hai hệ phân loại và một hạn chế",
@@ -78,7 +97,8 @@
     "ICD-11 (WHO): chủ yếu để so sánh số liệu bệnh tật toàn cầu",
     "Hạn chế: người có triệu chứng rất khác nhau có thể nhận cùng một chẩn đoán, và ngược lại"
    ],
-   "notes": "Hai hệ phân loại có mục đích hơi khác nhau. DSM-5-TR của APA là công cụ chẩn đoán chính trong giáo trình; ICD-11 của WHO chủ yếu giúp so sánh số liệu bệnh tật giữa các nước, dù cũng dùng trong y tế. Giáo trình nêu một hạn chế của việc chẩn đoán dựa trên triệu chứng: những người có biểu hiện rất khác nhau có thể cùng một nhãn, và những người rất giống nhau có thể khác nhãn. Đó là một lý do các nhà khoa học xem yếu tố sinh học có giúp hiểu và phân loại rối loạn hay không. Mức chắc chắn: giáo khoa. Chỗ dễ nhầm: nhãn chẩn đoán là một công cụ, không phải một loại bệnh duy nhất với một cơ chế duy nhất."
+   "notes": "Hai hệ phân loại có mục đích hơi khác nhau. DSM-5-TR của APA là công cụ chẩn đoán chính trong giáo trình; ICD-11 của WHO chủ yếu giúp so sánh số liệu bệnh tật giữa các nước, dù cũng dùng trong y tế. Giáo trình nêu một hạn chế của việc chẩn đoán dựa trên triệu chứng: những người có biểu hiện rất khác nhau có thể cùng một nhãn, và những người rất giống nhau có thể khác nhãn. Đó là một lý do các nhà khoa học xem yếu tố sinh học có giúp hiểu và phân loại rối loạn hay không. Mức chắc chắn: giáo khoa. Chỗ dễ nhầm: nhãn chẩn đoán là một công cụ, không phải một loại bệnh duy nhất với một cơ chế duy nhất.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Ba con số, ba quần thể",
@@ -95,7 +115,8 @@
     "Toàn cầu 2023: ước tính 5,2% người trưởng thành bị trầm cảm (WHO)",
     "Đây là ước tính cho quần thể, không phải xác suất của một người"
    ],
-   "notes": "Một slide số liệu duy nhất cho cả bài, kèm quần thể để khỏi hiểu nhầm. Hai nguồn đo ở hai nơi, hai thời điểm và hai phương pháp, nên không đặt cạnh nhau như một so sánh. Số liệu Hoa Kỳ của Kessler đến từ khảo sát quốc gia dùng bộ phỏng vấn chuẩn của WHO; số WHO là ước tính toàn cầu cho trầm cảm. Ví dụ cách đọc: 28,8% nghĩa là ước tính tỷ lệ người từng đáp ứng tiêu chí trong đời ở mẫu Hoa Kỳ, không có nghĩa mỗi người có 28,8% nguy cơ. Chỗ dễ nhầm: tuổi khởi phát trung vị là một con số trung bình của nhóm, không phải tuổi mà một người sẽ bắt đầu."
+   "notes": "Một slide số liệu duy nhất cho cả bài, kèm quần thể để khỏi hiểu nhầm. Hai nguồn đo ở hai nơi, hai thời điểm và hai phương pháp, nên không đặt cạnh nhau như một so sánh. Số liệu Hoa Kỳ của Kessler đến từ khảo sát quốc gia dùng bộ phỏng vấn chuẩn của WHO; số WHO là ước tính toàn cầu cho trầm cảm. Ví dụ cách đọc: 28,8% nghĩa là ước tính tỷ lệ người từng đáp ứng tiêu chí trong đời ở mẫu Hoa Kỳ, không có nghĩa mỗi người có 28,8% nguy cơ. Chỗ dễ nhầm: tuổi khởi phát trung vị là một con số trung bình của nhóm, không phải tuổi mà một người sẽ bắt đầu.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Đọc một phát hiện chụp não",
@@ -113,7 +134,8 @@
     "Chưa biết: nguyên nhân, hậu quả hay đi kèm",
     "Không dùng để chẩn đoán một người"
    ],
-   "notes": "Quy tắc đọc cho cả bài. Mỗi lần bài nói một vùng não hoạt động mạnh hơn hay yếu hơn, hãy đọc theo năm bước này. Ví dụ của người viết: chiều cao trung bình của hai đội bóng có thể khác nhau, nhưng biết một người cao không cho biết người đó chơi đội nào; phát hiện ở nhóm cũng vậy. Shin và Liberzon nêu rõ câu hỏi mở: các bất thường chức năng là dấu hiệu mắc phải của rối loạn hay là yếu tố dễ tổn thương có từ trước. Chỗ dễ nhầm: khi giáo trình ghi phát hiện đổi sau điều trị, đó vẫn là quan hệ đi kèm ở nhóm, chưa phải bằng chứng cơ chế."
+   "notes": "Quy tắc đọc cho cả bài. Mỗi lần bài nói một vùng não hoạt động mạnh hơn hay yếu hơn, hãy đọc theo năm bước này. Ví dụ của người viết: chiều cao trung bình của hai đội bóng có thể khác nhau, nhưng biết một người cao không cho biết người đó chơi đội nào; phát hiện ở nhóm cũng vậy. Shin và Liberzon nêu rõ câu hỏi mở: các bất thường chức năng là dấu hiệu mắc phải của rối loạn hay là yếu tố dễ tổn thương có từ trước. Chỗ dễ nhầm: khi giáo trình ghi phát hiện đổi sau điều trị, đó vẫn là quan hệ đi kèm ở nhóm, chưa phải bằng chứng cơ chế.",
+   "chapter": "Rối loạn tâm lý ở mức cơ chế"
   },
   {
    "title": "Trầm cảm: thẻ hồ sơ",
@@ -151,7 +173,8 @@
      "label": "Đừng hiểu nhầm",
      "text": "Hoạt động thấp là tương quan, chưa chứng minh nguyên nhân; không phải chẩn đoán cá nhân [S2]"
     }
-   ]
+   ],
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Vỏ trước trán hoạt động thấp, hạnh nhân quá mức",
@@ -167,7 +190,8 @@
     "Đừng hiểu nhầm: tương quan, chưa phải nhân quả"
    ],
    "notes": "Hai phát hiện của giáo trình, đều ở nhóm. Một: PET cho thấy vỏ trước trán hoạt động thấp bất thường ở người trầm cảm, và mức bất thường ở phần bên, ổ mắt và giữa-dưới thường tương quan với độ nặng. Hai: hạnh nhân hoạt động quá mức, và ở người đáp ứng với thuốc chống trầm cảm thì mức đó giảm; còn khi hạnh nhân vẫn quá hoạt động dù đã điều trị thì thường dự báo tái phát. Ví dụ để nhớ chữ tương quan: nhiệt độ trong phòng và số người mặc áo ấm cùng đổi, nhưng áo không làm lạnh phòng. Mức chắc chắn: giáo khoa ở mức mô tả nhóm; hướng nhân quả chưa rõ.",
-   "body": "Giáo trình viết rằng ở nhóm người trầm cảm, các nghiên cứu PET cho thấy hoạt động thấp bất thường ở **vỏ trước trán** (prefrontal cortex), vùng liên quan kiểm soát nhận thức, ra quyết định, lập kế hoạch và điều hòa cảm xúc [S2]. Mức bất thường ở phần bên, ổ mắt và giữa-dưới thường **tương quan** với độ nặng của trầm cảm [S2]. Ở **hạnh nhân**, những người đáp ứng với thuốc chống trầm cảm cho thấy bớt hoạt động quá mức, còn hoạt động quá mức kéo dài dù đã điều trị thường dự báo tái phát [S2]. Tất cả đều là đo ở nhóm."
+   "body": "Giáo trình viết rằng ở nhóm người trầm cảm, các nghiên cứu PET cho thấy hoạt động thấp bất thường ở **vỏ trước trán** (prefrontal cortex), vùng liên quan kiểm soát nhận thức, ra quyết định, lập kế hoạch và điều hòa cảm xúc [S2]. Mức bất thường ở phần bên, ổ mắt và giữa-dưới thường **tương quan** với độ nặng của trầm cảm [S2]. Ở **hạnh nhân**, những người đáp ứng với thuốc chống trầm cảm cho thấy bớt hoạt động quá mức, còn hoạt động quá mức kéo dài dù đã điều trị thường dự báo tái phát [S2]. Tất cả đều là đo ở nhóm.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Mạch khí sắc: vỏ trước trán giữa nối tới",
@@ -183,7 +207,8 @@
     "Đồi thị và vùng dưới đồi",
     "Thân não"
    ],
-   "notes": "Sơ đồ theo tổng quan của Price và Drevets: một hệ thống nối vỏ trước trán giữa với hạnh nhân, thể vân bụng, đồi thị, vùng dưới đồi và thân não. Theo họ, dữ liệu người từ chụp cấu trúc, chụp chức năng, tổn thương và mô học cho thấy hệ thống này liên quan trung tâm đến rối loạn khí sắc. Chỗ dễ nhầm: đây là mạch đi kèm ở nhóm, không phải một vùng gây ra trầm cảm. Ví dụ của người viết: một sơ đồ tàu điện nối nhiều ga cho thấy đường đi, không cho biết ga nào làm tàu trễ. Mức chắc chắn: tổng quan, ở mức mô tả."
+   "notes": "Sơ đồ theo tổng quan của Price và Drevets: một hệ thống nối vỏ trước trán giữa với hạnh nhân, thể vân bụng, đồi thị, vùng dưới đồi và thân não. Theo họ, dữ liệu người từ chụp cấu trúc, chụp chức năng, tổn thương và mô học cho thấy hệ thống này liên quan trung tâm đến rối loạn khí sắc. Chỗ dễ nhầm: đây là mạch đi kèm ở nhóm, không phải một vùng gây ra trầm cảm. Ví dụ của người viết: một sơ đồ tàu điện nối nhiều ga cho thấy đường đi, không cho biết ga nào làm tàu trễ. Mức chắc chắn: tổng quan, ở mức mô tả.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Các cấu trúc trong mạch cảm xúc",
@@ -213,7 +238,8 @@
      "credit": "Wikimedia, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 19 (chương 2.6)",
      "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-brain/"
     }
-   ]
+   ],
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Ba mức bằng chứng ở trầm cảm",
@@ -230,7 +256,8 @@
     "Mô tả nhóm: vùng điều hòa khí sắc nhỏ hơn, ít khớp thần kinh hơn [S8]",
     "Chưa rõ: các thay đổi là nguyên nhân, hệ quả hay thứ đi cùng"
    ],
-   "notes": "Xếp các phát hiện theo tầng. Tầng trên cùng chắc nhất: mô tả nhóm trong giáo trình. Tầng hai: phát hiện đổi theo điều trị, ở nhóm. Tầng ba: Duman và Aghajanian tóm tắt rằng nghiên cứu cơ bản và lâm sàng cho thấy trầm cảm liên quan đến vùng điều hòa khí sắc và nhận thức nhỏ hơn và ít khớp thần kinh hơn, và thuốc chống trầm cảm có thể chặn hoặc đảo ngược các thiếu hụt này; phần tóm tắt không nêu rõ loài, nên cần đọc nguồn gốc trước khi áp cho người. Tầng dưới cùng là điều chưa biết, và đó là điều bài muốn người học nhớ. Di truyền khoảng 40% và nguy cơ cao hơn 1,5–3 lần khi có người nhà từng bị là ước tính cho quần thể."
+   "notes": "Xếp các phát hiện theo tầng. Tầng trên cùng chắc nhất: mô tả nhóm trong giáo trình. Tầng hai: phát hiện đổi theo điều trị, ở nhóm. Tầng ba: Duman và Aghajanian tóm tắt rằng nghiên cứu cơ bản và lâm sàng cho thấy trầm cảm liên quan đến vùng điều hòa khí sắc và nhận thức nhỏ hơn và ít khớp thần kinh hơn, và thuốc chống trầm cảm có thể chặn hoặc đảo ngược các thiếu hụt này; phần tóm tắt không nêu rõ loài, nên cần đọc nguồn gốc trước khi áp cho người. Tầng dưới cùng là điều chưa biết, và đó là điều bài muốn người học nhớ. Di truyền khoảng 40% và nguy cơ cao hơn 1,5–3 lần khi có người nhà từng bị là ước tính cho quần thể.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Giả thuyết monoamine: các mốc trong tài liệu",
@@ -251,7 +278,8 @@
     "2022: Moncrieff và cộng sự, tổng quan hệ thống về giả thuyết serotonin [S5]",
     "2023: Jauhar, Cowen, Browning tóm tắt lại bằng chứng [S6]"
    ],
-   "notes": "Dòng thời gian này chỉ là các mốc của nguồn đã đọc, không phải toàn bộ lịch sử. Mốc đầu là chuyện tình cờ giáo trình kể: thuốc dùng cho bệnh nhân lao làm tâm trạng trầm của họ cải thiện, dẫn tới ý rằng serotonin và noradrenaline thấp góp phần vào trầm cảm. Các mốc sau là những cách nhìn thêm hoặc đặt câu hỏi: giả thuyết sinh khớp thần kinh, bàn về độ trễ, tổng quan hệ thống của Moncrieff, và tổng quan tường thuật của Jauhar, Cowen và Browning. Giáo trình tự nói cơ chế chính xác vẫn đang được nghiên cứu. Hồ sơ serotonin xem ở L03. Mức chắc chắn: các mốc là có thật; cách đọc chúng đang tranh luận."
+   "notes": "Dòng thời gian này chỉ là các mốc của nguồn đã đọc, không phải toàn bộ lịch sử. Mốc đầu là chuyện tình cờ giáo trình kể: thuốc dùng cho bệnh nhân lao làm tâm trạng trầm của họ cải thiện, dẫn tới ý rằng serotonin và noradrenaline thấp góp phần vào trầm cảm. Các mốc sau là những cách nhìn thêm hoặc đặt câu hỏi: giả thuyết sinh khớp thần kinh, bàn về độ trễ, tổng quan hệ thống của Moncrieff, và tổng quan tường thuật của Jauhar, Cowen và Browning. Giáo trình tự nói cơ chế chính xác vẫn đang được nghiên cứu. Hồ sơ serotonin xem ở L03. Mức chắc chắn: các mốc là có thật; cách đọc chúng đang tranh luận.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Độ trễ vài tuần: điều chưa giải thích hết",
@@ -269,7 +297,8 @@
     "Đừng hiểu nhầm: giáo trình tự nói cơ chế chưa rõ"
    ],
    "notes": "Chỗ này giáo trình tự thừa nhận giới hạn: cơ chế tác dụng chính xác của SSRI chưa rõ. Harmer, Duman và Cowen viết rằng cách giải thích chỉ dựa trên chất dẫn truyền gặp thách thức, vì thuốc tác dụng chậm và vì cần giải thích sao thay đổi hóa học lại đảo ngược được nhiều triệu chứng khác nhau. Họ nêu hai hướng, thay đổi sớm trong xử lý cảm xúc và xã hội, và tính dẻo thần kinh, rồi bàn xem chúng bổ sung hay khác nhau. Duman và Aghajanian đề xuất giả thuyết sinh khớp thần kinh. Cả ba đều là giả thuyết. Chỗ dễ nhầm: độ trễ không chứng minh hướng nào đúng.",
-   "body": "Giáo trình nói cơ chế tác dụng chính xác của **SSRI** chưa rõ [S2]. Harmer, Duman và Cowen viết rằng một cách giải thích chỉ dựa trên chất dẫn truyền bị thách thức bởi **độ trễ lâm sàng** của hầu hết thuốc và bởi việc cần giải thích vì sao thay đổi hóa học đảo ngược được nhiều triệu chứng khác nhau [S7]. Họ nêu hai hướng giả thuyết: thay đổi sớm trong xử lý cảm xúc và xã hội, và **tính dẻo thần kinh** [S7]. Duman và Aghajanian đề xuất giả thuyết sinh khớp thần kinh [S8]."
+   "body": "Giáo trình nói cơ chế tác dụng chính xác của **SSRI** chưa rõ [S2]. Harmer, Duman và Cowen viết rằng một cách giải thích chỉ dựa trên chất dẫn truyền bị thách thức bởi **độ trễ lâm sàng** của hầu hết thuốc và bởi việc cần giải thích vì sao thay đổi hóa học đảo ngược được nhiều triệu chứng khác nhau [S7]. Họ nêu hai hướng giả thuyết: thay đổi sớm trong xử lý cảm xúc và xã hội, và **tính dẻo thần kinh** [S7]. Duman và Aghajanian đề xuất giả thuyết sinh khớp thần kinh [S8].",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Giáo trình và tổng quan 2022",
@@ -286,7 +315,8 @@
     "Điều tổng quan 2022 thấy: không có bằng chứng nhất quán cho serotonin hoạt động hay nồng độ thấp ở trầm cảm [S5]",
     "Mức chắc chắn: giả thuyết đang tranh luận, bài không phân xử [S6]"
    ],
-   "notes": "Đặt hai phía cạnh nhau mà không phân xử. Giáo trình mô tả lịch sử và hướng nghiên cứu: serotonin và noradrenaline thấp từ lâu được ghi nhận là yếu tố góp phần, nhưng cơ chế chính xác vẫn đang nghiên cứu. Moncrieff và cộng sự báo cáo rằng các mảng bằng chứng về serotonin không cho thấy mối liên hệ nhất quán với trầm cảm. Hai câu này nói về hai thứ hơi khác nhau, nên ghi đúng chữ của từng bên là cách công bằng nhất. Chỗ dễ nhầm: không có chỗ nào ở đây nói rằng thuốc không có tác dụng. Mức chắc chắn: thuốc làm đổi hoạt động chất dẫn truyền là giáo khoa; trầm cảm do thiếu serotonin là giả thuyết đang tranh luận."
+   "notes": "Đặt hai phía cạnh nhau mà không phân xử. Giáo trình mô tả lịch sử và hướng nghiên cứu: serotonin và noradrenaline thấp từ lâu được ghi nhận là yếu tố góp phần, nhưng cơ chế chính xác vẫn đang nghiên cứu. Moncrieff và cộng sự báo cáo rằng các mảng bằng chứng về serotonin không cho thấy mối liên hệ nhất quán với trầm cảm. Hai câu này nói về hai thứ hơi khác nhau, nên ghi đúng chữ của từng bên là cách công bằng nhất. Chỗ dễ nhầm: không có chỗ nào ở đây nói rằng thuốc không có tác dụng. Mức chắc chắn: thuốc làm đổi hoạt động chất dẫn truyền là giáo khoa; trầm cảm do thiếu serotonin là giả thuyết đang tranh luận.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Phạm vi kết luận của Moncrieff và cộng sự",
@@ -302,7 +332,8 @@
     "Đừng hiểu nhầm: không bàn việc thuốc có tác dụng hay không"
    ],
    "notes": "Điều quan trọng là đọc đúng phạm vi. Bài tổng quan hỏi: trầm cảm có gắn với nồng độ hay hoạt động serotonin thấp hơn không. Họ tìm tài liệu đến tháng 12 năm 2020 và gộp 17 nghiên cứu theo năm mảng. Kết luận của họ nói về giả thuyết serotonin thấp. Họ không hỏi thuốc chống trầm cảm có tác dụng hay không, nên ta không suy diễn hộ điều đó. Họ cũng nêu giới hạn: nhiều nghiên cứu gộp được xếp chất lượng thấp theo AMSTAR-2. Mức chắc chắn: đây là tổng quan hệ thống đã công bố, và nó đang được bàn luận.",
-   "body": "Moncrieff và cộng sự gộp 17 nghiên cứu về năm mảng bằng chứng về serotonin, từ nồng độ trong dịch cơ thể đến thụ thể, chất vận chuyển, thí nghiệm làm giảm nguyên liệu tạo serotonin và gen liên quan [S5]. Họ kết luận không có bằng chứng nhất quán cho **serotonin thấp** gây trầm cảm [S5]. Câu hỏi của họ là về giả thuyết, không phải liệu thuốc chống trầm cảm có tác dụng hay không; họ loại trầm cảm lưỡng cực và lưu ý nhiều nghiên cứu gộp có chất lượng thấp theo thang AMSTAR-2 [S5]."
+   "body": "Moncrieff và cộng sự gộp 17 nghiên cứu về năm mảng bằng chứng về serotonin, từ nồng độ trong dịch cơ thể đến thụ thể, chất vận chuyển, thí nghiệm làm giảm nguyên liệu tạo serotonin và gen liên quan [S5]. Họ kết luận không có bằng chứng nhất quán cho **serotonin thấp** gây trầm cảm [S5]. Câu hỏi của họ là về giả thuyết, không phải liệu thuốc chống trầm cảm có tác dụng hay không; họ loại trầm cảm lưỡng cực và lưu ý nhiều nghiên cứu gộp có chất lượng thấp theo thang AMSTAR-2 [S5].",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Có tranh luận",
@@ -316,7 +347,8 @@
    "bullets": [
     "Giả thuyết serotonin thấp đang có tranh luận công khai trong tài liệu; bài không phân xử, ai cần chi tiết nên đọc nguồn gốc."
    ],
-   "notes": "Slide này chốt thái độ của bài. Sau bài của Moncrieff, các tạp chí đăng thêm bình luận và phản hồi; ví dụ đã đọc là tổng quan tường thuật của Jauhar, Cowen và Browning, mở đầu bằng việc ghi nhận rằng một số tác giả nghi ngờ giá trị của giả thuyết rồi tóm tắt lại bằng chứng. Phần tóm tắt của bài đó không nêu kết luận, nên bài này dừng ở đây. Nếu người nghe hỏi bên nào đúng, câu trả lời trung thực là: người học nên đọc nguồn gốc của cả hai bên. Mức chắc chắn: giả thuyết đang tranh luận. Chỗ dễ nhầm: tranh luận về một giả thuyết hóa học không đồng nghĩa với kết luận về bất cứ phương pháp điều trị nào."
+   "notes": "Slide này chốt thái độ của bài. Sau bài của Moncrieff, các tạp chí đăng thêm bình luận và phản hồi; ví dụ đã đọc là tổng quan tường thuật của Jauhar, Cowen và Browning, mở đầu bằng việc ghi nhận rằng một số tác giả nghi ngờ giá trị của giả thuyết rồi tóm tắt lại bằng chứng. Phần tóm tắt của bài đó không nêu kết luận, nên bài này dừng ở đây. Nếu người nghe hỏi bên nào đúng, câu trả lời trung thực là: người học nên đọc nguồn gốc của cả hai bên. Mức chắc chắn: giả thuyết đang tranh luận. Chỗ dễ nhầm: tranh luận về một giả thuyết hóa học không đồng nghĩa với kết luận về bất cứ phương pháp điều trị nào.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Rối loạn lưỡng cực: thẻ hồ sơ",
@@ -354,7 +386,8 @@
      "label": "Đừng hiểu nhầm",
      "text": "Di truyền cao không có nghĩa chỉ do sinh học: diễn biến thay đổi nhiều [S2]"
     }
-   ]
+   ],
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "fMRI ở lưỡng cực: kết quả không nhất quán",
@@ -370,7 +403,8 @@
     "Đừng hiểu nhầm: kết quả đổi theo giai đoạn bệnh, cỡ mẫu, kích thích"
    ],
    "notes": "Phần này cần giữ nguyên chữ của giáo trình. Nhiều nghiên cứu fMRI ở lưỡng cực tập trung vào xử lý cảm xúc, và các vùng xử lý cảm xúc được kích hoạt khác với nhóm khỏe mạnh, nhưng kết quả không nhất quán. Ba lý do: thử ở các giai đoạn bệnh khác nhau, mẫu nhỏ, và kích thích trong phòng thí nghiệm có thể không đủ mạnh. Ví dụ của người viết: đo huyết áp một người lúc nghỉ và lúc vừa chạy xong sẽ ra hai kết quả khác nhau; nếu gộp hai lúc vào một nhóm thì kết quả của nhóm sẽ lẫn. Chỗ dễ nhầm: không nhất quán không có nghĩa là không có gì; nó có nghĩa phép đo chưa ổn định.",
-   "body": "Nhiều nghiên cứu fMRI ở **rối loạn lưỡng cực** tập trung vào xử lý cảm xúc, và các vùng xử lý cảm xúc được kích hoạt khác với nhóm khỏe mạnh [S2]. Nhưng kết quả **không nhất quán** [S2]. Giáo trình nêu ba lý do: người tham gia được thử ở các giai đoạn bệnh khác nhau (hưng cảm, trầm cảm, giữa các giai đoạn), mẫu nhỏ, và kích thích trong phòng thí nghiệm có thể không đủ mạnh để gây đáp ứng não rõ [S2]."
+   "body": "Nhiều nghiên cứu fMRI ở **rối loạn lưỡng cực** tập trung vào xử lý cảm xúc, và các vùng xử lý cảm xúc được kích hoạt khác với nhóm khỏe mạnh [S2]. Nhưng kết quả **không nhất quán** [S2]. Giáo trình nêu ba lý do: người tham gia được thử ở các giai đoạn bệnh khác nhau (hưng cảm, trầm cảm, giữa các giai đoạn), mẫu nhỏ, và kích thích trong phòng thí nghiệm có thể không đủ mạnh để gây đáp ứng não rõ [S2].",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Mô hình mạch của Phillips và Swartz",
@@ -387,7 +421,8 @@
     "Cấu trúc: chất xám giảm ở trước trán, thái dương, hạnh nhân, hải mã",
     "Mức chắc chắn: mô hình tổng hợp, giả thuyết"
    ],
-   "notes": "Đọc từ trên xuống. Phillips và Swartz tổng hợp các nghiên cứu fMRI, thể tích, hình ảnh khuếch tán và trạng thái nghỉ, rồi đề xuất nhìn lưỡng cực như rối loạn song song ở mạch xử lý và điều hòa cảm xúc, cùng mạch thưởng bên trái hoạt động quá mức. Hệ quả hành vi họ mô tả gồm cảm xúc dễ đổi, khó điều hòa và nhạy cảm với phần thưởng. Về cấu trúc, họ nêu chất xám giảm ở vỏ trước trán, vỏ thái dương, hạnh nhân và hải mã, và chất trắng nối trước trán với vùng dưới vỏ giảm chỉ số nguyên vẹn. Họ cũng nhận có nhiều hạn chế. Mức chắc chắn: đây là mô hình, ở mức giả thuyết có ủng hộ."
+   "notes": "Đọc từ trên xuống. Phillips và Swartz tổng hợp các nghiên cứu fMRI, thể tích, hình ảnh khuếch tán và trạng thái nghỉ, rồi đề xuất nhìn lưỡng cực như rối loạn song song ở mạch xử lý và điều hòa cảm xúc, cùng mạch thưởng bên trái hoạt động quá mức. Hệ quả hành vi họ mô tả gồm cảm xúc dễ đổi, khó điều hòa và nhạy cảm với phần thưởng. Về cấu trúc, họ nêu chất xám giảm ở vỏ trước trán, vỏ thái dương, hạnh nhân và hải mã, và chất trắng nối trước trán với vùng dưới vỏ giảm chỉ số nguyên vẹn. Họ cũng nhận có nhiều hạn chế. Mức chắc chắn: đây là mô hình, ở mức giả thuyết có ủng hộ.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Nhạy cảm với phần thưởng: giả thuyết của giáo trình",
@@ -400,7 +435,8 @@
    "bullets": [
     "Giả thuyết giáo trình nêu: sau khi đạt một mục tiêu, người có lưỡng cực có thể có thêm triệu chứng hưng cảm, gợi ý nhạy cảm quá mức với phần thưởng."
    ],
-   "notes": "Ý này dễ bị kể quá tay, nên ghi nhãn rõ. Giáo trình nêu một quan sát: sau sự kiện căng thẳng nặng, người có lưỡng cực có nguy cơ tái phát cao hơn; điều thú vị là sự kiện tích cực, như đạt một mục tiêu mong muốn, cũng có thể đi cùng thêm triệu chứng hưng cảm, theo các nghiên cứu của Johnson và cộng sự. Từ đó giáo trình viết rằng các phát hiện gợi ý họ có thể nhạy cảm quá mức với phần thưởng. Đây là giả thuyết giáo trình nêu, không phải điều đã chứng minh. Chỗ dễ nhầm: đạt mục tiêu không bị coi là nguy hiểm, và slide không nói người đọc nên tránh điều gì. Hệ thưởng xem ở L05."
+   "notes": "Ý này dễ bị kể quá tay, nên ghi nhãn rõ. Giáo trình nêu một quan sát: sau sự kiện căng thẳng nặng, người có lưỡng cực có nguy cơ tái phát cao hơn; điều thú vị là sự kiện tích cực, như đạt một mục tiêu mong muốn, cũng có thể đi cùng thêm triệu chứng hưng cảm, theo các nghiên cứu của Johnson và cộng sự. Từ đó giáo trình viết rằng các phát hiện gợi ý họ có thể nhạy cảm quá mức với phần thưởng. Đây là giả thuyết giáo trình nêu, không phải điều đã chứng minh. Chỗ dễ nhầm: đạt mục tiêu không bị coi là nguy hiểm, và slide không nói người đọc nên tránh điều gì. Hệ thưởng xem ở L05.",
+   "chapter": "Trầm cảm và lưỡng cực"
   },
   {
    "title": "Lo âu: thẻ hồ sơ",
@@ -440,7 +476,8 @@
      "label": "Đừng hiểu nhầm",
      "text": "Hạnh nhân mạnh hơn chưa rõ là hậu quả hay yếu tố có từ trước [S12]"
     }
-   ]
+   ],
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Mô hình hai chiều: hạnh nhân và vỏ trước trán",
@@ -457,7 +494,8 @@
     "Đừng hiểu nhầm: mô hình, không phải một nút lo âu"
    ],
    "notes": "Hình dung hai chiều tín hiệu. Từ dưới lên: hạnh nhân báo có kích thích có thể đe dọa. Từ trên xuống: vỏ trước trán báo mức nổi bật cảm xúc của kích thích và kiểm soát hạnh nhân. Ví dụ của người viết: một chiếc báo động và một người bảo vệ; báo động kêu quá nhạy hoặc người bảo vệ nghe quá yếu đều làm cảnh báo kéo dài. Ví dụ chỉ để nhớ cấu trúc mô hình. Giáo trình ghi nhóm có rối loạn lo âu cho thấy hạnh nhân đáp ứng mạnh hơn và hoạt hóa trước trán giảm. Mức chắc chắn: mô hình giáo trình nêu, đo ở nhóm. Chỗ dễ nhầm: hạnh nhân không phải nút lo âu duy nhất; mạch gồm nhiều vùng.",
-   "body": "Giáo trình mô tả mạch của lo âu có hai chiều: tín hiệu **từ dưới lên** của hạnh nhân báo có kích thích có thể đe dọa, và kiểm soát **từ trên xuống** của vỏ trước trán báo mức nổi bật cảm xúc của kích thích [S3] [S13]. Nhóm có rối loạn lo âu cho thấy **hạnh nhân** đáp ứng mạnh hơn và hoạt hóa trước trán giảm [S3]. Đây là mô hình, và các phát hiện là đo ở nhóm. Chi tiết về hạnh nhân xem L07, mạch sợ xem L09."
+   "body": "Giáo trình mô tả mạch của lo âu có hai chiều: tín hiệu **từ dưới lên** của hạnh nhân báo có kích thích có thể đe dọa, và kiểm soát **từ trên xuống** của vỏ trước trán báo mức nổi bật cảm xúc của kích thích [S3] [S13]. Nhóm có rối loạn lo âu cho thấy **hạnh nhân** đáp ứng mạnh hơn và hoạt hóa trước trán giảm [S3]. Đây là mô hình, và các phát hiện là đo ở nhóm. Chi tiết về hạnh nhân xem L07, mạch sợ xem L09.",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Từ hạnh nhân tới cơ thể",
@@ -473,7 +511,8 @@
     "Phản ứng cơ thể trong cơn hoảng loạn",
     "Bằng chứng: kích thích nhân trung tâm ở động vật tạo hành vi liên quan hoảng loạn"
    ],
-   "notes": "Sơ đồ theo giáo trình: nhân trung tâm của hạnh nhân nối với cấu trúc thân não điều khiển hoạt động tự động như hô hấp và nhịp tim, và được cho là tham gia kích hoạt cơn hoảng loạn. Bằng chứng giáo trình dẫn ở đây là nghiên cứu trên động vật: kích thích nhân trung tâm bằng điện hay thuốc tạo ra hành vi liên quan đến hoảng loạn. Cần nói rõ điều này khi đọc: kết quả từ động vật, mô tả hành vi, không phải đo trực tiếp trải nghiệm của người. Mức chắc chắn: giáo trình nêu cơ chế; bằng chứng trực tiếp là từ động vật. Chỗ dễ nhầm: sơ đồ không nói cơn hoảng loạn của người bắt đầu từ đâu."
+   "notes": "Sơ đồ theo giáo trình: nhân trung tâm của hạnh nhân nối với cấu trúc thân não điều khiển hoạt động tự động như hô hấp và nhịp tim, và được cho là tham gia kích hoạt cơn hoảng loạn. Bằng chứng giáo trình dẫn ở đây là nghiên cứu trên động vật: kích thích nhân trung tâm bằng điện hay thuốc tạo ra hành vi liên quan đến hoảng loạn. Cần nói rõ điều này khi đọc: kết quả từ động vật, mô tả hành vi, không phải đo trực tiếp trải nghiệm của người. Mức chắc chắn: giáo trình nêu cơ chế; bằng chứng trực tiếp là từ động vật. Chỗ dễ nhầm: sơ đồ không nói cơn hoảng loạn của người bắt đầu từ đâu.",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Hai nhánh hệ thần kinh tự chủ",
@@ -497,7 +536,8 @@
      "credit": "OpenStax, giấy phép theo sách CC BY-NC-SA; Hove & Martinez, Hình 4 (chương 2)",
      "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/the-peripheral-nervous-system/"
     }
-   ]
+   ],
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Điều đo được ở nhóm: hạnh nhân và đảo",
@@ -514,7 +554,8 @@
     "Đừng hiểu nhầm: hướng nhân quả chưa rõ"
    ],
    "notes": "Meta-phân tích là cách gộp nhiều nghiên cứu nhỏ để thấy hình mẫu chung. Etkin và Wager gộp các nghiên cứu fMRI và PET ở PTSD, lo âu xã hội và ám sợ cụ thể: hạnh nhân và thùy đảo hoạt động mạnh hơn nhóm so sánh khi xử lý kích thích cảm xúc tiêu cực, và hình mẫu tương tự thấy ở người khỏe mạnh khi học sợ có điều kiện. Sự tăng này thấy thường hơn ở lo âu xã hội và ám sợ cụ thể so với PTSD. Shin và Liberzon nêu điều chưa biết: đó là dấu hiệu mắc phải hay yếu tố dễ tổn thương có từ trước. Chỗ dễ nhầm: nhóm có chẩn đoán trung bình hoạt động mạnh hơn không có nghĩa mọi người đều như vậy.",
-   "body": "Etkin và Wager gộp các nghiên cứu fMRI và PET về PTSD, lo âu xã hội và ám sợ cụ thể: ở cả ba nhóm, **hạnh nhân** và **thùy đảo** hoạt động mạnh hơn nhóm so sánh khi xử lý kích thích cảm xúc tiêu cực, và hình mẫu tương tự thấy ở người khỏe mạnh khi học sợ có điều kiện [S11]. Mức tăng thấy thường hơn ở lo âu xã hội và ám sợ cụ thể so với PTSD [S11]. Shin và Liberzon nêu câu hỏi mở: đây là dấu hiệu mắc phải hay yếu tố dễ tổn thương có từ trước [S12]."
+   "body": "Etkin và Wager gộp các nghiên cứu fMRI và PET về PTSD, lo âu xã hội và ám sợ cụ thể: ở cả ba nhóm, **hạnh nhân** và **thùy đảo** hoạt động mạnh hơn nhóm so sánh khi xử lý kích thích cảm xúc tiêu cực, và hình mẫu tương tự thấy ở người khỏe mạnh khi học sợ có điều kiện [S11]. Mức tăng thấy thường hơn ở lo âu xã hội và ám sợ cụ thể so với PTSD [S11]. Shin và Liberzon nêu câu hỏi mở: đây là dấu hiệu mắc phải hay yếu tố dễ tổn thương có từ trước [S12].",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "GABA: giả thuyết và hai cách diễn đạt",
@@ -530,7 +571,8 @@
     "Gauthier và Nuss: mạng hạnh nhân có nơron trung gian ức chế dùng GABA; đổi chất điều biến hay thụ thể GABA-A có thể giảm ức chế [S13]",
     "Mức chắc chắn: giả thuyết; bằng chứng giáo trình dẫn là từ động vật"
    ],
-   "notes": "Hai nguồn, cùng hướng giả thuyết. Giáo trình: nghiên cứu về chất dẫn truyền trong mạch lo âu tập trung vào GABA; ức chế GABA không đủ có thể làm hạnh nhân quá hoạt động; ở động vật, tiêm chất kích hoạt thụ thể GABA vào hạnh nhân giảm thước đo sợ và lo âu. Gauthier và Nuss mô tả mạng hạnh nhân gồm nơron trung gian ức chế dùng GABA, và đề xuất rằng thay đổi chất điều biến nội sinh hoặc thành phần dưới đơn vị của thụ thể GABA-A có thể làm giảm ức chế ở trạng thái lo âu bệnh lý, trong đó có neurosteroid. Chỗ dễ nhầm: đây là cơ chế đề xuất, không phải kết luận; kết quả tiêm vào hạnh nhân là từ động vật. Hồ sơ GABA xem L03."
+   "notes": "Hai nguồn, cùng hướng giả thuyết. Giáo trình: nghiên cứu về chất dẫn truyền trong mạch lo âu tập trung vào GABA; ức chế GABA không đủ có thể làm hạnh nhân quá hoạt động; ở động vật, tiêm chất kích hoạt thụ thể GABA vào hạnh nhân giảm thước đo sợ và lo âu. Gauthier và Nuss mô tả mạng hạnh nhân gồm nơron trung gian ức chế dùng GABA, và đề xuất rằng thay đổi chất điều biến nội sinh hoặc thành phần dưới đơn vị của thụ thể GABA-A có thể làm giảm ức chế ở trạng thái lo âu bệnh lý, trong đó có neurosteroid. Chỗ dễ nhầm: đây là cơ chế đề xuất, không phải kết luận; kết quả tiêm vào hạnh nhân là từ động vật. Hồ sơ GABA xem L03.",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "PTSD: thẻ hồ sơ",
@@ -569,7 +611,8 @@
      "label": "Đừng hiểu nhầm",
      "text": "Hải mã nhỏ chưa được chứng minh là gây PTSD; hầu hết người trải qua điều nguy hiểm không phát triển PTSD [S4] [S18]"
     }
-   ]
+   ],
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Tiêu chí chẩn đoán đúng như giáo trình",
@@ -586,7 +629,8 @@
     "Đừng hiểu nhầm: không phải mọi biến cố buồn"
    ],
    "notes": "Đây là chỗ hay bị nói sai nhất. Giáo trình nhấn mạnh: chẩn đoán PTSD đòi hỏi phơi nhiễm với việc chết hoặc đe dọa chết, chấn thương nặng hoặc bạo lực tình dục; tiêu chí chặt này khác quan niệm sai rằng căng thẳng nhẹ hơn, như một lần chia tay không bạo lực, cũng gây PTSD. NIMH nêu rằng nhiều người có phản ứng ban đầu như lo, buồn, giận, nhưng hầu hết hồi phục và hầu hết không phát triển PTSD. Ví dụ của người viết: một người kể bài thi trượt mà vẫn nghĩ về nó cả tuần là phản ứng thường gặp, không thuộc tiêu chí này. Chỗ dễ nhầm: slide không phải bảng tự đối chiếu; việc áp dụng tiêu chí thuộc về người có chuyên môn.",
-   "body": "Giáo trình nói chẩn đoán **PTSD** đòi hỏi người đó đã bị phơi nhiễm với việc chết hoặc đe dọa chết, chấn thương nặng hoặc bạo lực tình dục [S4]. Tiêu chí chặt này khác quan niệm sai rằng căng thẳng nhẹ hơn, như một lần chia tay không bạo lực, cũng gây PTSD [S4]. Triệu chứng thuộc vài nhóm và phải kéo dài; việc áp dụng tiêu chí thuộc về người có chuyên môn [S4]. NIMH nêu: hầu hết người có phản ứng ban đầu đều hồi phục, và hầu hết không phát triển PTSD [S18]. Ở Hoa Kỳ, khoảng 6% người lớn mắc PTSD trong đời [S4]."
+   "body": "Giáo trình nói chẩn đoán **PTSD** đòi hỏi người đó đã bị phơi nhiễm với việc chết hoặc đe dọa chết, chấn thương nặng hoặc bạo lực tình dục [S4]. Tiêu chí chặt này khác quan niệm sai rằng căng thẳng nhẹ hơn, như một lần chia tay không bạo lực, cũng gây PTSD [S4]. Triệu chứng thuộc vài nhóm và phải kéo dài; việc áp dụng tiêu chí thuộc về người có chuyên môn [S4]. NIMH nêu: hầu hết người có phản ứng ban đầu đều hồi phục, và hầu hết không phát triển PTSD [S18]. Ở Hoa Kỳ, khoảng 6% người lớn mắc PTSD trong đời [S4].",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Mô hình mạch PTSD của Rauch và cộng sự",
@@ -601,7 +645,8 @@
     "Vỏ trước trán: yếu, khó dập tắt sợ",
     "Hải mã: yếu, khó nhận biết bối cảnh an toàn"
    ],
-   "notes": "Rauch, Shin và Phelps đề xuất mô hình này dựa trên nghiên cứu học sợ ở loài gặm nhấm: PTSD đặc trưng bởi hạnh nhân đáp ứng quá mức, chức năng vỏ trước trán yếu, và chức năng hải mã yếu. Họ giải thích: hạnh nhân quá mức nghĩa là học liên kết sợ và biểu hiện sợ nhiều hơn; vỏ trước trán yếu nghĩa là khó dập tắt sợ và khó kìm sự chú ý tới kích thích sang chấn; hải mã yếu nghĩa là khó nhận biết bối cảnh an toàn và khó học, nhớ tường thuật. Họ cũng ghi các nghiên cứu hình ảnh chưa chủ yếu dùng bài học sợ và dập tắt trực tiếp. Mức chắc chắn: mô hình đề xuất. Ký ức sợ và dập tắt xem L11."
+   "notes": "Rauch, Shin và Phelps đề xuất mô hình này dựa trên nghiên cứu học sợ ở loài gặm nhấm: PTSD đặc trưng bởi hạnh nhân đáp ứng quá mức, chức năng vỏ trước trán yếu, và chức năng hải mã yếu. Họ giải thích: hạnh nhân quá mức nghĩa là học liên kết sợ và biểu hiện sợ nhiều hơn; vỏ trước trán yếu nghĩa là khó dập tắt sợ và khó kìm sự chú ý tới kích thích sang chấn; hải mã yếu nghĩa là khó nhận biết bối cảnh an toàn và khó học, nhớ tường thuật. Họ cũng ghi các nghiên cứu hình ảnh chưa chủ yếu dùng bài học sợ và dập tắt trực tiếp. Mức chắc chắn: mô hình đề xuất. Ký ức sợ và dập tắt xem L11.",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Các vùng thường liên quan đến PTSD",
@@ -626,7 +671,8 @@
      "credit": "Wikipedia, giấy phép theo sách CC BY; Hove & Martinez, Hình 9 (chương 12.6)",
      "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/post-traumatic-stress-disorder/"
     }
-   ]
+   ],
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Giả thuyết noradrenaline và hải mã",
@@ -642,7 +688,8 @@
     "Chuyển sang cấu trúc ký ức cảm xúc như hạnh nhân",
     "AURORA: hải mã đáp ứng đe dọa yếu hơn ở người có triệu chứng nặng hơn"
    ],
-   "notes": "Sơ đồ theo giáo trình. Clewett và Murty, trong một tổng quan gần đây, đề xuất rằng kích thích do đe dọa làm tăng noradrenaline, chuyển xử lý thông tin khỏi hải mã sang cấu trúc ký ức cảm xúc như hạnh nhân. Bước cuối là phát hiện của AURORA, một nghiên cứu theo dõi bệnh nhân chấn thương sau khi đến khoa cấp cứu: người có triệu chứng PTSD nặng hơn cho thấy hải mã đáp ứng yếu hơn với đe dọa. Đề xuất và phát hiện ăn khớp, nhưng giáo trình chỉ viết là gợi ý. Mức chắc chắn: giả thuyết. Chỗ dễ nhầm: hoạt động hải mã giảm khi bị đe dọa là phát hiện đi kèm; sơ đồ nối hai bước là mô hình giải thích, không phải chuỗi đã chứng minh."
+   "notes": "Sơ đồ theo giáo trình. Clewett và Murty, trong một tổng quan gần đây, đề xuất rằng kích thích do đe dọa làm tăng noradrenaline, chuyển xử lý thông tin khỏi hải mã sang cấu trúc ký ức cảm xúc như hạnh nhân. Bước cuối là phát hiện của AURORA, một nghiên cứu theo dõi bệnh nhân chấn thương sau khi đến khoa cấp cứu: người có triệu chứng PTSD nặng hơn cho thấy hải mã đáp ứng yếu hơn với đe dọa. Đề xuất và phát hiện ăn khớp, nhưng giáo trình chỉ viết là gợi ý. Mức chắc chắn: giả thuyết. Chỗ dễ nhầm: hoạt động hải mã giảm khi bị đe dọa là phát hiện đi kèm; sơ đồ nối hai bước là mô hình giải thích, không phải chuỗi đã chứng minh.",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Nghiên cứu AURORA: điều giáo trình mô tả",
@@ -658,7 +705,8 @@
     "Đừng hiểu nhầm: chưa chứng minh nguyên nhân"
    ],
    "notes": "Slide kể đúng điều giáo trình mô tả, không hơn. AURORA là nghiên cứu nhiều trung tâm, theo dõi não và nhận thức của bệnh nhân chấn thương trong một năm sau khi đến khoa cấp cứu. Trong một nghiên cứu (Tanriverdi và cộng sự, 2022), người có triệu chứng PTSD nặng hơn cho thấy hải mã đáp ứng với đe dọa yếu hơn, mạnh nhất ở người có phản xạ giật mình do sợ lớn hơn, một dấu hiệu của giải phóng noradrenaline do kích thích. Giáo trình viết điều này gợi ý kích thích do đe dọa quá mức có thể chuyển hướng xử lý khỏi hải mã. Chữ gợi ý là chữ cần giữ. Ký ức sợ và tái củng cố xem L11.",
-   "body": "AURORA là nghiên cứu nhiều trung tâm, theo dõi não và nhận thức của bệnh nhân chấn thương trong một năm sau khi đến khoa cấp cứu [S4]. Trong một nghiên cứu (Tanriverdi và cộng sự, 2022), người có triệu chứng PTSD nặng hơn cho thấy đáp ứng **hải mã** với đe dọa yếu hơn, mạnh nhất ở người có phản xạ giật mình do sợ lớn hơn, dấu hiệu của giải phóng noradrenaline [S4]. Giáo trình viết rằng điều này **gợi ý** kích thích do đe dọa quá mức có thể chuyển hướng xử lý khỏi hải mã [S4]."
+   "body": "AURORA là nghiên cứu nhiều trung tâm, theo dõi não và nhận thức của bệnh nhân chấn thương trong một năm sau khi đến khoa cấp cứu [S4]. Trong một nghiên cứu (Tanriverdi và cộng sự, 2022), người có triệu chứng PTSD nặng hơn cho thấy đáp ứng **hải mã** với đe dọa yếu hơn, mạnh nhất ở người có phản xạ giật mình do sợ lớn hơn, dấu hiệu của giải phóng noradrenaline [S4]. Giáo trình viết rằng điều này **gợi ý** kích thích do đe dọa quá mức có thể chuyển hướng xử lý khỏi hải mã [S4].",
+   "chapter": "Lo âu và PTSD"
   },
   {
    "title": "Nhóm tác động, đích trong mạch, rối loạn được nghiên cứu",
@@ -678,7 +726,8 @@
     "CBT và phơi nhiễm: nhận thức, hạnh nhân, dập tắt sợ; trầm cảm, lo âu, PTSD [S2] [S3] [S4]",
     "Sốc điện (ECT), kích thích não sâu (DBS), kích thích từ xuyên sọ (rTMS): mạch viền–vỏ, trước trán; trầm cảm kháng điều trị [S2]"
    ],
-   "notes": "Bảng chỉ nói nhóm tác động vào đâu, không có cột liều hay khuyến nghị, và không xếp hạng nhóm nào. Đọc từng hàng từ trái sang phải: nhóm, đích trong mạch, rối loạn được nghiên cứu. Chữ được nghiên cứu là cố ý: nó mô tả đối tượng nghiên cứu của giáo trình, không phải lời chỉ định. Với thuốc, chỉ gọi tên nhóm, như giáo trình dùng. Với ECT, DBS, rTMS, đích là mạch viền–vỏ hoặc vỏ trước trán theo cơ chế được đề xuất. Chỗ dễ nhầm: một hàng không nói phương pháp đó dùng cho ai hay khi nào; điều đó thuộc về quyết định lâm sàng của chuyên gia."
+   "notes": "Bảng chỉ nói nhóm tác động vào đâu, không có cột liều hay khuyến nghị, và không xếp hạng nhóm nào. Đọc từng hàng từ trái sang phải: nhóm, đích trong mạch, rối loạn được nghiên cứu. Chữ được nghiên cứu là cố ý: nó mô tả đối tượng nghiên cứu của giáo trình, không phải lời chỉ định. Với thuốc, chỉ gọi tên nhóm, như giáo trình dùng. Với ECT, DBS, rTMS, đích là mạch viền–vỏ hoặc vỏ trước trán theo cơ chế được đề xuất. Chỗ dễ nhầm: một hàng không nói phương pháp đó dùng cho ai hay khi nào; điều đó thuộc về quyết định lâm sàng của chuyên gia.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Thuốc: thu hồi, phân hủy và ức chế",
@@ -695,7 +744,8 @@
     "Chỉ nêu cơ chế: không so sánh, không khuyến nghị"
    ],
    "notes": "Slide chỉ nêu cơ chế. SSRI chặn thu hồi serotonin; thuốc ba vòng chặn thu hồi cả serotonin và noradrenaline; MAOI chặn enzyme monoamine oxidase vốn dọn bớt noradrenaline, serotonin và dopamine. Với lo âu, benzodiazepine gắn vào thụ thể GABA-A, làm ion chloride vào nơron, màng tế bào tăng phân cực nên nơron khó phát xung hơn; nhờ vậy hạnh nhân đáp ứng ít hơn với kích thích khó chịu. Nhóm ổn định khí sắc theo giáo trình làm giảm dẫn truyền kích thích và tăng dẫn truyền ức chế. Chỗ dễ nhầm: cơ chế trên synapse đã rõ, nhưng vì sao điều đó giảm triệu chứng, nhất là vì sao cần vài tuần, thì chưa rõ.",
-   "body": "Theo giáo trình, **SSRI** chặn thu hồi serotonin; thuốc ba vòng chặn thu hồi cả serotonin và noradrenaline; **MAOI** chặn enzyme monoamine oxidase vốn dọn bớt noradrenaline, serotonin và dopamine [S2]. Với lo âu, nhóm **benzodiazepine** gắn vào thụ thể GABA-A, làm ion chloride vào nơron, khiến nơron khó phát xung hơn và giảm đáp ứng của hạnh nhân với kích thích khó chịu [S3]. Nhóm ổn định khí sắc làm giảm dẫn truyền kích thích và tăng dẫn truyền ức chế [S2]. Bài chỉ nêu cơ chế."
+   "body": "Theo giáo trình, **SSRI** chặn thu hồi serotonin; thuốc ba vòng chặn thu hồi cả serotonin và noradrenaline; **MAOI** chặn enzyme monoamine oxidase vốn dọn bớt noradrenaline, serotonin và dopamine [S2]. Với lo âu, nhóm **benzodiazepine** gắn vào thụ thể GABA-A, làm ion chloride vào nơron, khiến nơron khó phát xung hơn và giảm đáp ứng của hạnh nhân với kích thích khó chịu [S3]. Nhóm ổn định khí sắc làm giảm dẫn truyền kích thích và tăng dẫn truyền ức chế [S2]. Bài chỉ nêu cơ chế.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Liệu pháp tâm lý và phơi nhiễm",
@@ -713,7 +763,8 @@
     "Can thiệp tái củng cố: kết hợp phơi nhiễm với một thuốc lúc nhắc lại ký ức; còn nghiên cứu (xem L11) [S4]",
     "Chất gây ảo giác kết hợp liệu pháp tâm lý: đang được nghiên cứu [S2] [S4]"
    ],
-   "notes": "Bốn thẻ, đều ở mức cơ chế được đề xuất và mức bằng chứng. CBT tập trung vào tam giác suy nghĩ, hành vi, cảm xúc; giáo trình dẫn một nghiên cứu cho thấy ở lo âu CBT có thể giảm hoạt hóa quá mức của hạnh nhân. Phơi nhiễm đưa người ta đến dấu hiệu gắn với ký ức sang chấn nhằm dập tắt liên kết sợ. Can thiệp tái củng cố kết hợp phơi nhiễm với một loại thuốc dùng ngay lúc nhắc lại ký ức; bài không nêu tên thuốc và mức bằng chứng ở người xem L11. Chất gây ảo giác kết hợp liệu pháp tâm lý chỉ được ghi là đang nghiên cứu, không nêu kết quả hay tình trạng. Chỗ dễ nhầm: không thẻ nào là khuyến nghị."
+   "notes": "Bốn thẻ, đều ở mức cơ chế được đề xuất và mức bằng chứng. CBT tập trung vào tam giác suy nghĩ, hành vi, cảm xúc; giáo trình dẫn một nghiên cứu cho thấy ở lo âu CBT có thể giảm hoạt hóa quá mức của hạnh nhân. Phơi nhiễm đưa người ta đến dấu hiệu gắn với ký ức sang chấn nhằm dập tắt liên kết sợ. Can thiệp tái củng cố kết hợp phơi nhiễm với một loại thuốc dùng ngay lúc nhắc lại ký ức; bài không nêu tên thuốc và mức bằng chứng ở người xem L11. Chất gây ảo giác kết hợp liệu pháp tâm lý chỉ được ghi là đang nghiên cứu, không nêu kết quả hay tình trạng. Chỗ dễ nhầm: không thẻ nào là khuyến nghị.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Kích thích não: cơ chế được đề xuất",
@@ -729,7 +780,8 @@
     "Đừng hiểu nhầm: mô tả cơ chế, không khuyến nghị"
    ],
    "notes": "Giáo trình đặt kích thích não vào bối cảnh trầm cảm kháng điều trị, định nghĩa là ít nhất hai lần thử thuốc thất bại. ECT: dòng điện qua não người được gây mê để gây một cơn co giật; một phân tích gộp ghi giảm triệu chứng rõ rệt, cơ chế chưa được hiểu rõ, nhưng ECT đổi nồng độ chất dẫn truyền, như tăng glutamate, và có thể làm gián đoạn rồi nối lại mạch thần kinh. DBS cấy điện cực để làm gián đoạn mạch viền–vỏ. rTMS dùng xung từ trên da đầu để khử cực nơron ở vỏ trước trán, điều biến mạch điều hòa cảm xúc. Chỗ dễ nhầm: slide không nói ai nên dùng phương pháp nào.",
-   "body": "Với trầm cảm kháng điều trị, giáo trình mô tả **liệu pháp sốc điện** (ECT): dòng điện qua não người được gây mê để gây một cơn co giật; một phân tích gộp ghi giảm triệu chứng rõ rệt, nhưng cơ chế “chưa được hiểu rõ” [S2]. ECT đổi nồng độ chất dẫn truyền (như tăng glutamate) và có thể làm gián đoạn rồi nối lại mạch thần kinh [S2]. **DBS** cấy điện cực để làm gián đoạn mạch viền–vỏ; **rTMS** dùng xung từ trên da đầu để khử cực nơron ở vỏ trước trán [S2]."
+   "body": "Với trầm cảm kháng điều trị, giáo trình mô tả **liệu pháp sốc điện** (ECT): dòng điện qua não người được gây mê để gây một cơn co giật; một phân tích gộp ghi giảm triệu chứng rõ rệt, nhưng cơ chế “chưa được hiểu rõ” [S2]. ECT đổi nồng độ chất dẫn truyền (như tăng glutamate) và có thể làm gián đoạn rồi nối lại mạch thần kinh [S2]. **DBS** cấy điện cực để làm gián đoạn mạch viền–vỏ; **rTMS** dùng xung từ trên da đầu để khử cực nơron ở vỏ trước trán [S2].",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Giả dược cũng đổi hạnh nhân",
@@ -742,7 +794,8 @@
    "bullets": [
     "Giả dược cũng làm giảm lo âu ở một số người, đi kèm giảm hoạt hóa hạnh nhân: thấy hạnh nhân đổi chưa đủ để kết luận cơ chế (suy luận của người viết)."
    ],
-   "notes": "Slide này nối một quan sát có nguồn với một suy luận của người viết, và hai phần được ghi riêng. Quan sát của giáo trình, dẫn nghiên cứu của Petrovic và cộng sự: khi người tham gia tin mình đã dùng thuốc chống lo âu, một số người có đáp ứng lo âu thấp hơn với ảnh cảm xúc; đáp ứng giả dược đi kèm giảm hoạt hóa hạnh nhân và tăng hoạt hóa hệ điều biến gồm vỏ vòng đai trước và vỏ trước trán. Suy luận của người viết: vì kỳ vọng cũng đi cùng thay đổi ở mạch, thấy hạnh nhân đổi khi điều trị chưa đủ để kết luận về cơ chế riêng của một phương pháp. Chỗ dễ nhầm: slide không nói giả dược thay được phương pháp nào."
+   "notes": "Slide này nối một quan sát có nguồn với một suy luận của người viết, và hai phần được ghi riêng. Quan sát của giáo trình, dẫn nghiên cứu của Petrovic và cộng sự: khi người tham gia tin mình đã dùng thuốc chống lo âu, một số người có đáp ứng lo âu thấp hơn với ảnh cảm xúc; đáp ứng giả dược đi kèm giảm hoạt hóa hạnh nhân và tăng hoạt hóa hệ điều biến gồm vỏ vòng đai trước và vỏ trước trán. Suy luận của người viết: vì kỳ vọng cũng đi cùng thay đổi ở mạch, thấy hạnh nhân đổi khi điều trị chưa đủ để kết luận về cơ chế riêng của một phương pháp. Chỗ dễ nhầm: slide không nói giả dược thay được phương pháp nào.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Năm hiểu lầm và điều nguồn nói",
@@ -766,7 +819,8 @@
     "Hải mã nhỏ gây PTSD: đi kèm; giáo trình không nói nó gây PTSD [S4]",
     "Mọi biến cố buồn đều gây PTSD: tiêu chí cần phơi nhiễm theo định nghĩa; hầu hết không phát triển PTSD [S4] [S18]"
    ],
-   "notes": "Năm hiểu lầm, mỗi cái đã nói ở mục tương ứng, gom lại kèm nguồn. Với mỗi hiểu lầm, hãy chỉ ra phần đúng của nó: ảnh chụp não thật sự cho thấy khác biệt ở nhóm; serotonin thật sự được nghiên cứu nhiều; hạnh nhân quả thật hoạt động mạnh hơn ở nhóm lo âu; hải mã quả thật nhỏ hơn ở nhóm PTSD; sang chấn nặng quả thật làm tăng nguy cơ. Điểm sai nằm ở bước nhảy từ đi kèm sang nguyên nhân hoặc từ nhóm sang cá nhân. Mức chắc chắn: ghi đúng theo nguồn; riêng cách gom thành năm hiểu lầm là của người viết."
+   "notes": "Năm hiểu lầm, mỗi cái đã nói ở mục tương ứng, gom lại kèm nguồn. Với mỗi hiểu lầm, hãy chỉ ra phần đúng của nó: ảnh chụp não thật sự cho thấy khác biệt ở nhóm; serotonin thật sự được nghiên cứu nhiều; hạnh nhân quả thật hoạt động mạnh hơn ở nhóm lo âu; hải mã quả thật nhỏ hơn ở nhóm PTSD; sang chấn nặng quả thật làm tăng nguy cơ. Điểm sai nằm ở bước nhảy từ đi kèm sang nguyên nhân hoặc từ nhóm sang cá nhân. Mức chắc chắn: ghi đúng theo nguồn; riêng cách gom thành năm hiểu lầm là của người viết.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Phần đúng và chỗ nhảy",
@@ -784,7 +838,8 @@
     "Đừng hiểu nhầm: đi kèm chưa phải gây ra"
    ],
    "notes": "Mỗi hiểu lầm ở slide trước có một phần đúng, và đó là lý do nó dễ tin. Hạnh nhân quả thật hoạt động mạnh hơn ở nhóm lo âu theo phân tích gộp của Etkin và Wager. Hải mã quả thật nhỏ hơn ở nhóm PTSD theo giáo trình. Phơi nhiễm sang chấn nặng quả thật là điều kiện của chẩn đoán PTSD. Chỗ sai nằm ở bước nhảy từ đi kèm sang nguyên nhân, hoặc từ nhóm sang cá nhân; bước nhảy này là nhận xét của người viết, không phải điều nguồn nói. Ví dụ để nhớ: biết trung bình chiều cao của hai đội không cho biết một người thuộc đội nào. Chỗ dễ nhầm: đi kèm không vô ích, nó là manh mối cho nghiên cứu tiếp.",
-   "body": "Mỗi hiểu lầm có một phần đúng: **hạnh nhân** quả thật hoạt động mạnh hơn ở nhóm lo âu [S11]; **hải mã** quả thật nhỏ hơn ở nhóm PTSD [S4]; phơi nhiễm sang chấn nặng quả thật là điều kiện của chẩn đoán PTSD [S4]. Giáo trình cũng ghi phát hiện về não ở lưỡng cực còn không nhất quán [S2]. Chỗ sai nằm ở bước nhảy từ đi kèm sang nguyên nhân, hoặc từ nhóm sang cá nhân (suy luận của người viết)."
+   "body": "Mỗi hiểu lầm có một phần đúng: **hạnh nhân** quả thật hoạt động mạnh hơn ở nhóm lo âu [S11]; **hải mã** quả thật nhỏ hơn ở nhóm PTSD [S4]; phơi nhiễm sang chấn nặng quả thật là điều kiện của chẩn đoán PTSD [S4]. Giáo trình cũng ghi phát hiện về não ở lưỡng cực còn không nhất quán [S2]. Chỗ sai nằm ở bước nhảy từ đi kèm sang nguyên nhân, hoặc từ nhóm sang cá nhân (suy luận của người viết).",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Đi kèm chưa phải gây ra",
@@ -797,7 +852,8 @@
    "bullets": [
     "Một phát hiện ở nhóm không cho biết vùng ấy là nguyên nhân, hậu quả hay chỉ đi kèm."
    ],
-   "notes": "Câu chốt của cả bài, nhắc lại ở mục hiểu lầm. Shin và Liberzon nêu thẳng câu hỏi mở: các bất thường chức năng ở rối loạn lo âu là dấu hiệu mắc phải hay yếu tố dễ tổn thương có từ trước. Ví dụ của người viết: nhiệt độ trong phòng và số người mặc áo ấm cùng đổi, nhưng áo không làm lạnh phòng. Khi một phát hiện đổi sau điều trị, người ta dễ kết luận vùng đó là nguyên nhân; thực ra đó vẫn là đi kèm ở nhóm. Mức chắc chắn: câu này là quy tắc đọc của bài, dựa trên điều nguồn nêu là chưa biết. Chỗ dễ nhầm: đi kèm không có nghĩa vô ích; nó là manh mối cho nghiên cứu tiếp, chỉ chưa phải kết luận."
+   "notes": "Câu chốt của cả bài, nhắc lại ở mục hiểu lầm. Shin và Liberzon nêu thẳng câu hỏi mở: các bất thường chức năng ở rối loạn lo âu là dấu hiệu mắc phải hay yếu tố dễ tổn thương có từ trước. Ví dụ của người viết: nhiệt độ trong phòng và số người mặc áo ấm cùng đổi, nhưng áo không làm lạnh phòng. Khi một phát hiện đổi sau điều trị, người ta dễ kết luận vùng đó là nguyên nhân; thực ra đó vẫn là đi kèm ở nhóm. Mức chắc chắn: câu này là quy tắc đọc của bài, dựa trên điều nguồn nêu là chưa biết. Chỗ dễ nhầm: đi kèm không có nghĩa vô ích; nó là manh mối cho nghiên cứu tiếp, chỉ chưa phải kết luận.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Điều cần nhớ",
@@ -823,7 +879,8 @@
     "Lưỡng cực: fMRI cảm xúc chưa nhất quán; GABA ức chế không đủ là giả thuyết",
     "PTSD cần phơi nhiễm theo tiêu chí; hải mã nhỏ hơn là quan hệ đi kèm"
    ],
-   "notes": "Năm ý để mang đi. Một: đo ở nhóm, không chẩn đoán cá nhân. Hai: mẫu chung giữa ba rối loạn, kèm lời nhắc rằng việc gộp thành một mẫu là cách tóm tắt của người viết. Ba: giả thuyết serotonin đang có tranh luận, nên không có ý nào ở đây phân xử. Bốn: lưỡng cực và lo âu, mỗi bên có một giả thuyết cần nhớ nhãn của nó. Năm: PTSD có tiêu chí chặt và hải mã nhỏ hơn chỉ đi kèm. Ví dụ để tự kiểm: nghe một tin nói não người lo âu bất thường, hãy hỏi đo ở nhóm nào, so với ai, tại lúc nào, và có cho biết nguyên nhân không. Chỗ dễ nhầm: ý thứ hai không nói hạnh nhân là trung tâm của mọi rối loạn."
+   "notes": "Năm ý để mang đi. Một: đo ở nhóm, không chẩn đoán cá nhân. Hai: mẫu chung giữa ba rối loạn, kèm lời nhắc rằng việc gộp thành một mẫu là cách tóm tắt của người viết. Ba: giả thuyết serotonin đang có tranh luận, nên không có ý nào ở đây phân xử. Bốn: lưỡng cực và lo âu, mỗi bên có một giả thuyết cần nhớ nhãn của nó. Năm: PTSD có tiêu chí chặt và hải mã nhỏ hơn chỉ đi kèm. Ví dụ để tự kiểm: nghe một tin nói não người lo âu bất thường, hãy hỏi đo ở nhóm nào, so với ai, tại lúc nào, và có cho biết nguyên nhân không. Chỗ dễ nhầm: ý thứ hai không nói hạnh nhân là trung tâm của mọi rối loạn.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Lưu ý",
@@ -834,7 +891,8 @@
    "bullets": [
     "Bài này nhằm hiểu cơ chế, không phải lời khuyên y tế hay tâm lý, và không dùng để tự chẩn đoán."
    ],
-   "notes": "Đọc nguyên văn mục Lưu ý của bài. Bài nhằm hiểu cơ chế; không phải lời khuyên y tế hay tâm lý và không dùng để tự chẩn đoán. Phần lớn phát hiện nêu ở đây là đo ở nhóm người, một số đến từ động vật, nên không áp trực tiếp cho một người cụ thể. Các nhóm thuốc và liệu pháp chỉ được nêu để mô tả mạch; không tự dùng, tự đổi hay tự ngừng thuốc. Nếu có triệu chứng kéo dài, hoặc có ý nghĩ tự làm hại mình hay người khác, hãy tìm trợ giúp từ bác sĩ, chuyên gia tâm lý hoặc đường dây hỗ trợ khẩn cấp tại nơi bạn sống. Nếu đang gặp nguy hiểm ngay lập tức, hãy gọi số cấp cứu tại nơi bạn sống. Giữ giọng bình tĩnh khi đọc, và dừng lại để hỏi xem có ai cần thêm thông tin."
+   "notes": "Đọc nguyên văn mục Lưu ý của bài. Bài nhằm hiểu cơ chế; không phải lời khuyên y tế hay tâm lý và không dùng để tự chẩn đoán. Phần lớn phát hiện nêu ở đây là đo ở nhóm người, một số đến từ động vật, nên không áp trực tiếp cho một người cụ thể. Các nhóm thuốc và liệu pháp chỉ được nêu để mô tả mạch; không tự dùng, tự đổi hay tự ngừng thuốc. Nếu có triệu chứng kéo dài, hoặc có ý nghĩ tự làm hại mình hay người khác, hãy tìm trợ giúp từ bác sĩ, chuyên gia tâm lý hoặc đường dây hỗ trợ khẩn cấp tại nơi bạn sống. Nếu đang gặp nguy hiểm ngay lập tức, hãy gọi số cấp cứu tại nơi bạn sống. Giữ giọng bình tĩnh khi đọc, và dừng lại để hỏi xem có ai cần thêm thông tin.",
+   "chapter": "Điều trị, hiểu lầm và lưu ý"
   },
   {
    "title": "Nguồn tham khảo",
@@ -881,7 +939,8 @@
     "S17: WHO, Depressive disorder (depression)",
     "S18: NIMH, Post-Traumatic Stress Disorder"
    ],
-   "notes": "Đường dẫn đầy đủ của 18 nguồn nằm ở mục Nguồn tham khảo của lesson.md. Bốn nguồn đầu là bốn chương của giáo trình Hove và Martinez, cũng là nền của bài. Mười bốn nguồn còn lại là nguồn độc lập: các bài báo khoa học đã kiểm qua Crossref và tóm tắt trên Europe PMC, bài của Moncrieff và cộng sự đọc cả phần thảo luận, cùng trang thông tin của WHO và NIMH. Khi giảng, nhắc người nghe rằng hình lấy từ giáo trình mang giấy phép riêng ghi dưới hình, và rằng mọi nguồn đều nên được mở ra đọc lại nếu cần chi tiết."
+   "notes": "Đường dẫn đầy đủ của 18 nguồn nằm ở mục Nguồn tham khảo của lesson.md. Bốn nguồn đầu là bốn chương của giáo trình Hove và Martinez, cũng là nền của bài. Mười bốn nguồn còn lại là nguồn độc lập: các bài báo khoa học đã kiểm qua Crossref và tóm tắt trên Europe PMC, bài của Moncrieff và cộng sự đọc cả phần thảo luận, cùng trang thông tin của WHO và NIMH. Khi giảng, nhắc người nghe rằng hình lấy từ giáo trình mang giấy phép riêng ghi dưới hình, và rằng mọi nguồn đều nên được mở ra đọc lại nếu cần chi tiết.",
+   "chapter": "Nguồn tham khảo"
   }
  ]
 }

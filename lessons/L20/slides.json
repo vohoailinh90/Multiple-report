@@ -3,6 +3,22 @@
   "subtitle": "Kỹ thuật · Bài L20",
   "slides": [
     {
+      "title": "Mục lục",
+      "bullets": [
+        "Tóm tắt và nền tảng: chip, wafer, die và vì sao phải chia chip thành nhiều mảnh",
+        "Chiplet và cách ghép: chiplet là gì, gồm những mảnh nào, ghép 2D, 2.5D, 3D và nói chuyện qua UCIe",
+        "Công dụng và ứng dụng: chiplet giúp được gì, HBM, máy tính, AI và trung tâm dữ liệu",
+        "Thách thức và tương lai: cái giá của chiplet và hướng đi sắp tới",
+        "Hạn chế, ghi nhớ và thuật ngữ: điểm chưa chắc chắn của dữ liệu, điều cần nhớ, thuật ngữ Việt-Anh"
+      ],
+      "notes": "Trang này là bản đồ của cả bài, để bạn biết trước các chương lớn trước khi đi vào chi tiết. Bài chia thành 5 chương. Chương 1, Tóm tắt và nền tảng: chip, wafer, die và vì sao phải chia chip thành nhiều mảnh. Chương 2, Chiplet và cách ghép: chiplet là gì, gồm những mảnh nào, ghép 2D, 2.5D, 3D và nói chuyện qua UCIe. Chương 3, Công dụng và ứng dụng: chiplet giúp được gì, HBM, máy tính, AI và trung tâm dữ liệu. Chương 4, Thách thức và tương lai: cái giá của chiplet và hướng đi sắp tới. Chương 5, Hạn chế, ghi nhớ và thuật ngữ: điểm chưa chắc chắn của dữ liệu, điều cần nhớ, thuật ngữ Việt-Anh. Mỗi trang sau có nhãn chương ở đầu trang, cùng màu với số chương ở đây. Muốn tìm lại một ý, nhìn nhãn chương rồi lần theo mục lục này.",
+      "section": "Tóm tắt nhanh",
+      "sources": [],
+      "layout": "contents",
+      "tone": "light",
+      "chapter": "Mục lục"
+    },
+    {
       "title": "Chiplet: khu phố thay vì tòa nhà chọc trời",
       "section": "Tóm tắt nhanh",
       "sources": [
@@ -21,7 +37,8 @@
       ],
       "notes": "Đây là slide mở đầu cho cả bài, dành cho người không học điện. Cách nhớ dễ nhất là hình ảnh khu phố: thay vì xây một tòa nhà chọc trời chứa mọi thứ, người ta xây nhiều công trình chuyên dụng ở những xưởng phù hợp rồi nối bằng đường và cầu. Bốn lý do chính sẽ được giải thích ở các phần sau: giới hạn của máy in mạch, tỷ lệ chip dùng được, tiến bộ công nghệ chậm lại và chi phí tăng, và việc mỗi phần của chip có thể dùng công nghệ riêng. Chỗ dễ nhầm: chiplet không phải một loại chip mới hoàn toàn, mà là cách tổ chức và ghép các mảnh silicon.",
       "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Wafer: tấm silicon in hàng loạt các die",
@@ -46,7 +63,8 @@
           "credit": "Ploum's (Wikipedia tiếng Pháp), phạm vi công cộng, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:Microprocesseurs_sur_une_tranche_de_silicium.JPG"
         }
-      ]
+      ],
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Transistor, die, package: ba từ nền",
@@ -64,7 +82,8 @@
       "notes": "Ba từ này là nền cho phần còn lại. Transistor là công tắc điện cực nhỏ, bật là một và tắt là không; mọi phép tính của máy tính là hàng loạt công tắc như vậy. Die là mảnh silicon trần chứa mạch, còn package là phần vỏ và tấm nền bao quanh, nối die ra bo mạch chủ. Khi bạn mở nắp tản nhiệt của một bộ xử lý, thứ nằm trên tấm nền chính là die. Chỗ dễ nhầm: người ta hay gọi chung cả die lẫn bộ xử lý là chip, nhưng bài này phân biệt vì chiplet chính là nhiều die trong một package.",
       "layout": "explainer",
       "tone": "light",
-      "body": "Một **transistor** là công tắc điện cực nhỏ: bật là 1, tắt là 0. Một chip hiện đại chứa hàng tỷ công tắc, ví dụ M1 Ultra của Apple có 114 tỷ [S7] và GPU Blackwell của NVIDIA có 208 tỷ [S8]. Mỗi ô cắt khỏi **wafer** là một **die**: mảnh silicon trần chứa mạch. Die càng nhỏ thì một wafer cho ra càng nhiều die [S11]. Die được gắn lên tấm nền và bọc vỏ để thành **package**, tức bộ xử lý bạn cầm trên tay."
+      "body": "Một **transistor** là công tắc điện cực nhỏ: bật là 1, tắt là 0. Một chip hiện đại chứa hàng tỷ công tắc, ví dụ M1 Ultra của Apple có 114 tỷ [S7] và GPU Blackwell của NVIDIA có 208 tỷ [S8]. Mỗi ô cắt khỏi **wafer** là một **die**: mảnh silicon trần chứa mạch. Die càng nhỏ thì một wafer cho ra càng nhiều die [S11]. Die được gắn lên tấm nền và bọc vỏ để thành **package**, tức bộ xử lý bạn cầm trên tay.",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Từ wafer đến bộ xử lý: bốn tầng",
@@ -80,7 +99,8 @@
       ],
       "notes": "Slide này tóm tắt đường đi từ nguyên liệu đến sản phẩm theo bốn tầng. Tầng trên cùng là wafer, nơi mạch được in hàng loạt. Cắt wafer ra được die. Die được gắn lên tấm nền và bọc vỏ thành package. Package lắp lên bo mạch chủ chính là bộ xử lý bạn mua. Điều cần chú ý: chiplet làm thay đổi tầng thứ ba. Thay vì một die trong một package, ta có nhiều die trong một package, nên khâu đóng gói trở nên quan trọng hơn rất nhiều. Phần kiến thức nền này là của người viết, không kèm nguồn riêng.",
       "layout": "layers",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Giới hạn của máy in mạch: khoảng 858 mm²",
@@ -97,7 +117,8 @@
       ],
       "notes": "Mạch được in lên wafer bằng ánh sáng đi qua một khuôn gọi là reticle. Máy chỉ phơi sáng được một vùng giới hạn mỗi lần, khoảng 858 mm², nên một die làm theo cách thông thường (một lần phơi sáng) không vượt mức đó. Để có tổng diện tích silicon lớn hơn, cách phổ biến là chia mạch thành nhiều die rồi đóng gói chung, tức là chiplet. Đây không phải trần tuyệt đối: có kỹ thuật ghép nối các vùng phơi sáng và chip cỡ cả wafer, nhưng bài không đi sâu. NVIDIA nói GPU Blackwell có hai die, mỗi die đạt giới hạn reticle. Chuẩn UCIe cũng nêu ngay từ bản 1.0 mục tiêu cho phép bộ xử lý lớn hơn kích thước reticle tối đa. Con số 858 mm² là trần phổ biến, các nguồn khác nhau có thể làm tròn khác nhau.",
       "layout": "one-big-number",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Yield: chip càng lớn càng dễ hỏng",
@@ -113,7 +134,8 @@
       "notes": "Yield là phần trăm die chạy đúng trên mỗi wafer. Một lỗi sát thủ là khuyết tật đủ nhỏ nhưng làm hỏng hoàn toàn die mà nó rơi vào. Die nhỏ có diện tích bé nên ít khả năng dính lỗi; wafer được xử lý và tính giá nguyên tấm nên die nhỏ cũng rẻ hơn. Wikipedia nêu ví dụ chip thử nghiệm 5 nm của TSMC: khoảng 80% yield ở 17,92 mm² và 32% ở 100 mm². Hãy nhớ đây là chip thử nghiệm theo mô tả của nguồn, không phải yield của một sản phẩm bán ra, nhưng xu hướng thì rõ: diện tích tăng, yield giảm nhanh.",
       "layout": "explainer",
       "tone": "dark",
-      "body": "**Yield** là phần trăm die chạy đúng trên một wafer. Một **lỗi sát thủ** là hạt bụi hay khuyết tật đủ làm hỏng hoàn toàn die mà nó rơi vào [S11]. Die nhỏ có ít diện tích hơn nên ít dính lỗi hơn, và một wafer cho ra nhiều die hơn trong khi cả wafer tính giá như nhau [S11]. Với chip thử nghiệm 5 nm của TSMC, yield trung bình khoảng 80% ở 17,92 mm² và chỉ 32% ở 100 mm² [S11]."
+      "body": "**Yield** là phần trăm die chạy đúng trên một wafer. Một **lỗi sát thủ** là hạt bụi hay khuyết tật đủ làm hỏng hoàn toàn die mà nó rơi vào [S11]. Die nhỏ có ít diện tích hơn nên ít dính lỗi hơn, và một wafer cho ra nhiều die hơn trong khi cả wafer tính giá như nhau [S11]. Với chip thử nghiệm 5 nm của TSMC, yield trung bình khoảng 80% ở 17,92 mm² và chỉ 32% ở 100 mm² [S11].",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Ví dụ số giả định: 6 hạt bụi, 12 die hay 48 die",
@@ -128,7 +150,8 @@
       ],
       "notes": "Đây là ví dụ của người viết với số giả định, để bạn hình dung tại sao chia nhỏ giúp ích. Một wafer bị rơi sáu hạt bụi. Mỗi hạt bụi tối đa làm hỏng một die. Nếu wafer được cắt thành mười hai die lớn thì trường hợp xấu nhất mất sáu trên mười hai, chỉ còn một nửa. Nếu cắt thành bốn mươi tám die nhỏ thì cùng sáu hạt bụi chỉ làm mất tối đa sáu trên bốn mươi tám. Ý nghĩa với chiplet: một bộ xử lý ghép từ vài die nhỏ chỉ bỏ die hỏng, không phải bỏ cả khối lớn. Đừng dùng các con số này như dữ liệu thật.",
       "layout": "two-column-comparison",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Bốn lý do chia chip thành nhiều mảnh",
@@ -147,7 +170,8 @@
       ],
       "notes": "Bốn lý do này cộng hưởng. Một: giới hạn kích thước buộc chip cực lớn phải chia nhỏ. Hai: yield khiến chip lớn bình thường vừa đắt vừa hay hỏng. Ba: bài báo ISCA 2021 của AMD nói tiến bộ công nghệ chế tạo đã chậm lại còn chi phí tăng, nên ngành đi hướng khác với việc nhồi mọi thứ vào một die; bài này chỉ đọc được phần tóm tắt của bài báo đó. Bốn: lõi tính toán hưởng lợi nhiều nhất từ công nghệ mới, còn mạch vào ra có thể dùng công nghệ cũ rẻ hơn, như AMD làm. Đó là suy luận hợp lý chứ chưa có nguồn đo mức tiết kiệm.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Tóm tắt và nền tảng"
     },
     {
       "title": "Định nghĩa: chiplet là gì",
@@ -166,7 +190,8 @@
       "notes": "Chiplet là một mạch tích hợp nhỏ có một nhóm chức năng được xác định rõ, và nhiều chiplet được ghép trên một interposer trong cùng một package để tạo thành bộ xử lý. Từ này do giáo sư John Wawrzynek ở Đại học California, Berkeley đặt năm 2006. Các hãng có tên gọi riêng: AMD gọi mảnh lõi là CCD và mảnh vào ra là IOD; Intel gọi là tile. Ví dụ của người viết: chiplet giống các công trình trong một khu phố. Chỗ dễ nhầm: nhiều chiplet, như CCD của AMD, không dùng riêng được vì thiếu phần liên lạc ra ngoài; nhưng không phải mọi die trong kiến trúc chiplet đều vậy: hai die của Apple M1 Ultra là hai chip M1 Max hoàn chỉnh.",
       "layout": "explainer",
       "tone": "light",
-      "body": "**Chiplet** là mạch tích hợp rất nhỏ với một nhóm chức năng rõ ràng; nhiều chiplet được ghép trên một **interposer** (tấm trung gian) trong một package để tạo thành bộ xử lý [S2]. Từ này do John Wawrzynek, Đại học California, Berkeley, đặt năm 2006 [S2]. AMD gọi mảnh lõi là **CCD** và mảnh vào ra là **IOD** [S3]; Intel gọi mỗi mảnh là **tile** [S5]. Nhiều chiplet không chạy riêng được, nhưng hai die của M1 Ultra là chip M1 Max hoàn chỉnh [S7]."
+      "body": "**Chiplet** là mạch tích hợp rất nhỏ với một nhóm chức năng rõ ràng; nhiều chiplet được ghép trên một **interposer** (tấm trung gian) trong một package để tạo thành bộ xử lý [S2]. Từ này do John Wawrzynek, Đại học California, Berkeley, đặt năm 2006 [S2]. AMD gọi mảnh lõi là **CCD** và mảnh vào ra là **IOD** [S3]; Intel gọi mỗi mảnh là **tile** [S5]. Nhiều chiplet không chạy riêng được, nhưng hai die của M1 Ultra là chip M1 Max hoàn chỉnh [S7].",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Chip nguyên khối và chip chiplet",
@@ -181,7 +206,8 @@
       ],
       "notes": "Bảng so sánh này gói gọn đánh đổi của chiplet. Chip nguyên khối đặt mọi thứ trên một die, nên mạch bên trong dễ nối với nhau, nhưng bị trần kích thước reticle và yield giảm khi die lớn. Chip chiplet chia chức năng ra nhiều die: mỗi die chọn công nghệ chế tạo riêng, được thử trước khi ráp, nên cải thiện tỷ lệ sản phẩm cuối dùng được. Cái giá là phải nối các die bằng những đường dây cực dày và nhanh, và phải xử lý nhiệt cùng độ phức tạp đóng gói. Nguồn tổng quan nêu ba lợi ích: dùng lại thiết kế, tích hợp không đồng nhất và known good die.",
       "layout": "two-column-comparison",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Mốc thời gian: từ 2006 đến 2024",
@@ -207,7 +233,8 @@
       ],
       "notes": "Dòng thời gian cho thấy chiplet đi từ ý tưởng đến sản phẩm đại chúng khá nhanh. Từ chiplet được đặt tên năm 2006. HBM được chuẩn hóa năm 2013 và AMD Fiji ra mắt năm 2015 như GPU đầu tiên dùng HBM. Cầu nối EMIB của Intel sản xuất hàng loạt từ 2017, Foveros từ 2019, cùng năm AMD ra Ryzen 3000 và EPYC Rome. Năm 2022 có chuẩn UCIe và M1 Ultra, năm 2023 có Meteor Lake và MI300A, năm 2024 NVIDIA công bố Blackwell. Chỗ dễ nhầm: một số ý tưởng ghép nhiều chip đã có từ trước; mốc ở đây là các sản phẩm và chuẩn được nguồn nêu.",
       "layout": "timeline",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Ảnh thật: một gói AMD Ryzen có hai die",
@@ -232,7 +259,8 @@
           "credit": "Fritzchens Fritz, CC0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:AMD@7nm(12nmIO)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062_DSCx2@Infrared.jpg"
         }
-      ]
+      ],
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Hai mảnh, hai bộ mặt: lõi và vào ra",
@@ -261,7 +289,8 @@
           "credit": "Fritzchens Fritz, CC0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:AMD@7nm(12nmIO)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062_DSCx4@IOD_Infrared.jpg"
         }
-      ]
+      ],
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Các loại mảnh: làm gì, ví dụ ở đâu",
@@ -284,7 +313,8 @@
       ],
       "notes": "Bảng này liệt kê các loại mảnh thường gặp và vai trò của chúng. Mảnh tính toán chạy chương trình. Mảnh vào ra hay SoC nói chuyện với bộ nhớ và các cổng kết nối. Mảnh đồ họa tính hình ảnh và các phép toán song song. Mảnh nhớ đệm giữ dữ liệu dùng gần đây để lấy cho nhanh. Chồng HBM là bộ nhớ xếp tầng đặt sát bộ xử lý. Tấm nối gồm interposer, cầu EMIB hoặc tile nền Foveros, dẫn tín hiệu giữa các mảnh. Chỗ dễ nhầm: không phải sản phẩm nào cũng có đủ sáu loại; Ryzen 3000 chỉ có hai loại mảnh, còn GPU AI thường có nhiều hơn.",
       "layout": "lookup-table",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Một gói chiplet: mảnh nào nối với mảnh nào",
@@ -303,7 +333,8 @@
       ],
       "notes": "Sơ đồ này cho thấy một bộ xử lý chiplet như một mạng lưới. Ở giữa là gói chip. Quanh nó là bốn nhóm mảnh: mảnh tính toán, mảnh vào ra, nhớ đệm hoặc HBM, và tấm nối. Mọi mảnh đều phải liên lạc được với nhau nhanh qua tấm nối bên dưới. Tùy sản phẩm, số lượng mỗi nhóm khác nhau: Ryzen 3000 có hai nhóm, Meteor Lake có bốn tile cộng tile nền, Intel Data Center GPU Max có 47 tile hoạt động. Đây là sơ đồ minh họa của người viết dựa trên các sản phẩm đã đọc, không phải bản vẽ chính thức của hãng nào.",
       "layout": "connection-diagram",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Ba cách ghép: 2D, 2.5D và 3D",
@@ -322,7 +353,8 @@
       ],
       "notes": "Có ba cách ghép chính, và Intel còn kết hợp thành 3.5D. Cách 2D đặt các die cạnh nhau trên một tấm nền hữu cơ, tín hiệu đi qua dây trong tấm nền. Cách 2.5D vẫn đặt cạnh nhau nhưng bên dưới có interposer silicon hoặc cầu nối silicon với dây mịn hơn nhiều. Cách 3D xếp die chồng lên nhau, đường dây xuyên qua die bằng TSV. Intel EMIB 3.5D kết hợp cầu EMIB với xếp tầng Foveros. Ví dụ của người viết: 2D là cửa hàng cạnh nhau trên một con phố, 2.5D là cùng vỉa hè lát tinh xảo, 3D là trung tâm thương mại nhiều tầng.",
       "layout": "layers",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "2.5D thật: GPU Fiji và bốn chồng HBM",
@@ -346,7 +378,8 @@
           "credit": "C. Spille/pcgameshardware.de, CC BY-SA 4.0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:AMD_Fiji_GPU_package_with_GPU,_HBM_memory_and_interposer.jpg"
         }
-      ]
+      ],
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "3D: xếp tầng bằng TSV và hybrid bonding",
@@ -365,7 +398,8 @@
       "notes": "Khi xếp die lên nhau, đường dây phải xuyên qua die bằng các lỗ gọi là TSV. Intel Foveros Direct nối đồng với đồng, kỹ thuật gọi là hybrid bonding. AMD 3D V-Cache là ví dụ trên máy tính cá nhân: một mảnh nhớ đệm đặt lên mảnh lõi, và hệ điều hành thấy 96 MB L3 như một khối. Chuẩn UCIe-3D nhắm bước chân tiếp xúc từ 10 đến 25 micromet xuống còn 1 micromet hoặc nhỏ hơn. Chỗ dễ nhầm: nhiệt. Die dưới bị che bởi die trên, nên AMD lấp khoảng trống cạnh mảnh cache bằng silicon cấu trúc để dẫn nhiệt. Phần nhiệt được nói kỹ ở mục thách thức.",
       "layout": "explainer",
       "tone": "dark",
-      "body": "Khi xếp die lên nhau, dây dẫn xuyên qua die bằng **TSV** (lỗ dẫn xuyên silicon) [S10]. Intel **Foveros Direct** nối chiplet với die nền bằng liên kết đồng với đồng, gọi là **hybrid bonding** [S6]. AMD **3D V-Cache** đặt mảnh SRAM 64 MB lên mảnh lõi để thành 96 MB L3 mà hệ điều hành thấy như một khối [S14]. UCIe-3D nhắm bước chân từ 10 đến 25 µm xuống 1 µm hoặc nhỏ hơn [S1]."
+      "body": "Khi xếp die lên nhau, dây dẫn xuyên qua die bằng **TSV** (lỗ dẫn xuyên silicon) [S10]. Intel **Foveros Direct** nối chiplet với die nền bằng liên kết đồng với đồng, gọi là **hybrid bonding** [S6]. AMD **3D V-Cache** đặt mảnh SRAM 64 MB lên mảnh lõi để thành 96 MB L3 mà hệ điều hành thấy như một khối [S14]. UCIe-3D nhắm bước chân từ 10 đến 25 µm xuống 1 µm hoặc nhỏ hơn [S1].",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Công nghệ đóng gói theo từng hãng",
@@ -385,7 +419,8 @@
       ],
       "notes": "Mỗi hãng có tên riêng cho công nghệ đóng gói của mình, nên bảng này giúp bạn không lạc. Intel có EMIB, một cầu silicon nhúng trong tấm nền nối mép các die, sản xuất hàng loạt từ 2017, và Foveros-S dùng interposer silicon cỡ 4 lần reticle, sản xuất từ 2019. Foveros Direct 3D xếp tầng bằng liên kết đồng với đồng. EMIB 3.5D gộp hai kỹ thuật. TSMC có CoWoS và InFO, được AMD dùng cho MI300. Apple có UltraFusion nối hai die M1 Max qua interposer silicon. Chỗ dễ nhầm: đây là tên thương mại; về nguyên lý, phần lớn đều là 2.5D hoặc 3D như đã mô tả.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "UCIe: ổ cắm chuẩn cho chiplet",
@@ -404,7 +439,8 @@
       "notes": "Khi mọi mảnh do một hãng làm, hãng đó tự quy ước cách nối. Nhưng nếu muốn ráp mảnh của nhiều hãng, cần một ngôn ngữ chung, và đó là việc của UCIe, viết tắt của Universal Chiplet Interconnect Express. Chuẩn này định nghĩa lớp vật lý, giao thức và bộ phần mềm, xây trên nền PCIe và CXL, kèm kiểm thử tuân thủ. Nhóm doanh nghiệp công bố chuẩn tháng 3 năm 2022. Ví dụ của người viết: UCIe giống ổ cắm điện chuẩn, thiết bị của nhiều hãng cùng cắm được. Chỗ dễ nhầm: Apple và NVIDIA vẫn nêu liên kết riêng của họ, nên UCIe chưa phải duy nhất.",
       "layout": "explainer",
       "tone": "dark",
-      "body": "**UCIe** (Universal Chiplet Interconnect Express) định nghĩa lớp vật lý nối các die, các giao thức và bộ phần mềm, xây trên **PCIe** và **CXL**, kèm kiểm thử tuân thủ để chiplet của nhiều hãng ráp được vào một SoC [S1]. Chuẩn được một nhóm doanh nghiệp công bố tháng 3 năm 2022 [S15]. Nhiều hãng vẫn có liên kết riêng, như UltraFusion của Apple [S7] và liên kết 10 TB/s của NVIDIA [S8]."
+      "body": "**UCIe** (Universal Chiplet Interconnect Express) định nghĩa lớp vật lý nối các die, các giao thức và bộ phần mềm, xây trên **PCIe** và **CXL**, kèm kiểm thử tuân thủ để chiplet của nhiều hãng ráp được vào một SoC [S1]. Chuẩn được một nhóm doanh nghiệp công bố tháng 3 năm 2022 [S15]. Nhiều hãng vẫn có liên kết riêng, như UltraFusion của Apple [S7] và liên kết 10 TB/s của NVIDIA [S8].",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Các phiên bản UCIe từ 1.0 đến 3.0",
@@ -420,7 +456,8 @@
       ],
       "notes": "Bảng này tóm tắt bốn phiên bản theo trang của chuẩn UCIe. Bản 1.0 là nền tảng: lớp vật lý, giao thức, mô hình phần mềm và kiểm thử, cho phép chip lớn hơn kích thước reticle. Bản 1.1 mở rộng cơ chế tin cậy, thêm giám sát và sửa lỗi lúc chạy cho ô tô và hệ thống độ tin cậy cao, và thêm sơ đồ chân cho đóng gói rẻ hơn. Bản 2.0 thêm quản lý, kiểm thử, đo từ xa và 3D. Bản 3.0 thêm tốc độ 48 và 64 GT/s, gấp đôi 32 GT/s của 2.0. GT/s là số tỷ lần truyền dữ liệu mỗi giây trên mỗi đường. Trang chuẩn nói 3.0 tương thích ngược với các bản trước.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Chuẩn chung chỉ có giá trị khi nhiều hãng cùng dùng",
@@ -439,7 +476,8 @@
       ],
       "notes": "Slide này là suy luận của người viết, nên đọc cẩn thận. Nguồn tổng quan nói liên lạc băng thông cao giữa die của các nhà sản xuất khác nhau vẫn là bài toán chưa giải xong. UCIe nhắm giải bài toán đó. Nhưng các sản phẩm phổ biến nhất mà bài đọc được, từ AMD, Intel và Apple, đều ghép các mảnh do chính hãng đó thiết kế. Vì vậy ta chưa thể nói thị trường chiplet đa hãng đã thành hiện thực. Bài không có nguồn về tỷ lệ sản phẩm dùng UCIe, nên không đưa con số nào.",
       "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Chiplet và cách ghép"
     },
     {
       "title": "Sáu công dụng của chiplet",
@@ -481,7 +519,8 @@
           "label": "Phần mềm không đổi",
           "text": "Hệ điều hành thấy 96 MB L3 của 5800X3D như một khối [S14]"
         }
-      ]
+      ],
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Cùng một viên gạch: 12 × 8 = 96 lõi",
@@ -497,7 +536,8 @@
       ],
       "notes": "Đây là ví dụ rõ nhất về việc dùng lại cùng một mảnh. EPYC Genoa dùng tối đa 12 chiplet lõi, mỗi chiplet 8 lõi, cho tối đa 96 lõi. EPYC Rome dùng tối đa 8 chiplet lõi cho tối đa 64 lõi, cộng một die vào ra. Cùng kiểu viên gạch, chỉ đổi số lượng. Nguồn tổng quan nói chiplet cho phép dùng lại thiết kế trong nhiều thiết bị. Suy luận của người viết: nhờ vậy ra sản phẩm mới nhanh và rẻ hơn thiết kế lại chip lớn; bài không có nguồn đo mức tiết kiệm cụ thể.",
       "layout": "one-big-number",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Từ một mảnh đến cả dòng sản phẩm",
@@ -514,7 +554,8 @@
       ],
       "notes": "Dòng chảy này cho thấy cùng một ý tưởng được mở rộng thành nhiều sản phẩm. Một chiplet lõi Zen 2 có 8 lõi. Ryzen 9 3950X, bản desktop cao nhất ra tháng 11 năm 2019, có 16 lõi. EPYC Rome cho máy chủ có tối đa 8 chiplet lõi và 64 lõi mỗi ổ cắm. Thế hệ Genoa dùng Zen 4 với tối đa 12 chiplet lõi và 96 lõi. Lưu ý: Genoa dùng kiến trúc lõi mới hơn Zen 2, nên mỗi chiplet không hoàn toàn cùng loại với Rome; điểm cần rút ra là cách xây sản phẩm từ các mảnh, không phải so sánh lõi với lõi.",
       "layout": "flow",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "HBM: kho cao tầng cạnh nhà máy",
@@ -530,7 +571,8 @@
       "notes": "HBM là bộ nhớ DRAM xếp nhiều lớp theo chiều thẳng đứng, do Samsung, AMD và SK Hynix phát triển. Các lớp nối nhau bằng TSV và microbump, cả chồng nối với GPU hoặc CPU qua interposer. Vì sao cần HBM: bộ xử lý mạnh mà bộ nhớ trả dữ liệu chậm thì phải chờ. Ví dụ của người viết: bộ nhớ thường giống kho ở ngoại ô, xe tải chạy đường dài mỗi lần chở ít; HBM giống kho cao tầng ngay cạnh nhà máy với con đường cực rộng. Chỗ dễ nhầm: HBM nằm trong cùng package với bộ xử lý, khác với các thanh RAM cắm trên bo mạch chủ.",
       "layout": "explainer",
       "tone": "dark",
-      "body": "**HBM** (High Bandwidth Memory) là DRAM xếp nhiều lớp thẳng đứng, nối nhau bằng **TSV** và các chân microbump, rồi nối với GPU hoặc CPU qua interposer silicon [S10]. Xếp tầng và đặt sát bộ xử lý rút ngắn đường dữ liệu và cho phép bus rất rộng [S10]. Theo nguồn, HBM có băng thông cao hơn DDR4 hay GDDR5 với điện năng thấp hơn trong hình dạng nhỏ gọn hơn nhiều [S10]."
+      "body": "**HBM** (High Bandwidth Memory) là DRAM xếp nhiều lớp thẳng đứng, nối nhau bằng **TSV** và các chân microbump, rồi nối với GPU hoặc CPU qua interposer silicon [S10]. Xếp tầng và đặt sát bộ xử lý rút ngắn đường dữ liệu và cho phép bus rất rộng [S10]. Theo nguồn, HBM có băng thông cao hơn DDR4 hay GDDR5 với điện năng thấp hơn trong hình dạng nhỏ gọn hơn nhiều [S10].",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Mặt cắt thật của một chồng HBM",
@@ -554,7 +596,8 @@
           "credit": "Fritzchens Fritz, CC0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx11_HBM-Stack_notes.jpg"
         }
-      ]
+      ],
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "HBM trong ba con số",
@@ -570,7 +613,8 @@
       ],
       "notes": "Ba con số này giúp hình dung quy mô. Mỗi chồng HBM có giao diện 1024 bit; HBM4 nhân đôi lên 2048 bit. HBM3 đạt khoảng 819 gigabyte mỗi giây cho mỗi chồng, với tốc độ 6,4 gigabit mỗi giây trên mỗi chân. AMD Instinct MI300X có 192 gigabyte HBM3, bus 8192 bit và băng thông 5300 gigabyte mỗi giây, trong khi MI300A có 128 gigabyte. Gigabyte mỗi giây là đơn vị đo lượng dữ liệu chuyển trong một giây. Chỗ dễ nhầm: số của MI300 lấy từ bảng thông số trên Wikipedia, chưa đối chiếu với tài liệu của AMD.",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "AMD Ryzen và EPYC: người mở đường đại chúng",
@@ -606,7 +650,8 @@
           "label": "Động cơ",
           "text": "AMD: tiến bộ công nghệ chậm lại, chi phí tăng (ISCA 2021) [S13]"
         }
-      ]
+      ],
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Intel Meteor Lake: bốn tile, hai nhà máy",
@@ -623,7 +668,8 @@
       ],
       "notes": "Meteor Lake, thế hệ Core Ultra của Intel, là ví dụ rõ về việc dùng nhiều nhà máy cho một sản phẩm. Tile tính toán dùng công nghệ Intel 4, công nghệ Intel đầu tiên dùng quang khắc cực tím EUV. Tile đồ họa dùng N5 của TSMC. Tile SoC và tile IOE dùng N6 của TSMC. Tất cả đặt trên tile nền Foveros làm bằng công nghệ cũ rẻ Intel 22FFL, chỉ cần dẫn tín hiệu giữa các tile. Intel công bố ngày 19 tháng 9 và ra mắt ngày 14 tháng 12 năm 2023. Lưu ý: các nguồn lệch nhau về vị trí của bộ xử lý thần kinh, nên bài không nêu.",
       "layout": "lookup-table",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "3D V-Cache: xây thêm một tầng thay vì mở rộng sân",
@@ -639,7 +685,8 @@
       ],
       "notes": "AMD Ryzen 7 5800X3D có 96 MB bộ nhớ đệm L3. Con số này đến từ 32 MB sẵn trên mảnh lõi cộng một mảnh SRAM 64 MB xếp chồng lên trên. Hai mảnh nối bằng liên kết đồng trực tiếp và TSV. Phần trống bên cạnh mảnh cache được lấp bằng silicon cấu trúc để dẫn nhiệt ra tản nhiệt. Hệ điều hành thấy 96 MB như một khối, không cần cấu hình đặc biệt. Ví dụ của người viết: thay vì mở rộng ngôi nhà ra sân, họ xây thêm một tầng. Lưu ý: bài chỉ đọc được đoạn trích của bài đánh giá này qua kết quả tìm kiếm, nên các chi tiết cần đối chiếu thêm.",
       "layout": "layers",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Apple M1 Ultra: dán hai chip làm một",
@@ -654,7 +701,8 @@
       ],
       "notes": "Apple gọi công nghệ nối là UltraFusion. Hai die M1 Max được nối qua một interposer silicon với hơn 10.000 tín hiệu, cho băng thông giữa hai die 2,5 terabyte mỗi giây. Apple nói con số này cao hơn hơn 4 lần so với công nghệ kết nối nhiều chip hàng đầu, và so sánh với việc nối chip qua bo mạch chủ vốn có độ trễ cao hơn, băng thông thấp hơn và tốn điện hơn. Kết quả là SoC 114 tỷ transistor mà phần mềm coi như một chip. Lưu ý: đây là phát biểu của nhà sản xuất, bài chưa có đối chiếu độc lập.",
       "layout": "two-column-comparison",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "NVIDIA Blackwell: 208 tỷ transistor trong hai die",
@@ -669,7 +717,8 @@
       ],
       "notes": "NVIDIA công bố Blackwell ngày 18 tháng 3 năm 2024 tại hội nghị GTC. Theo NVIDIA, GPU có 208 tỷ transistor, chế tạo bằng quy trình TSMC 4NP tùy chỉnh, gồm hai die đạt giới hạn reticle ghép thành một GPU duy nhất, nối nhau bằng liên kết chip-to-chip 10 terabyte mỗi giây. Đây là minh họa mạnh cho lý do giới hạn kích thước: không thể in một die lớn như vậy nên phải ghép hai. Lưu ý: số liệu là của NVIDIA, bài chưa có kiểm chứng độc lập, và chưa có nguồn nói liên kết này có dùng UCIe hay không.",
       "layout": "one-big-number",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "AMD Instinct MI300: nhiều chiplet và HBM3",
@@ -702,7 +751,8 @@
           "label": "Ra mắt",
           "text": "MI300A: 6/12/2023 [S9]"
         }
-      ]
+      ],
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Chip AI: nhiều die tính toán cộng HBM",
@@ -719,7 +769,8 @@
       ],
       "notes": "Sơ đồ này gộp công thức chung của chip AI hiện nay: nhiều die tính toán cộng chồng HBM, tất cả nối qua interposer. Trong MI300A có die đồ họa XCD, die CPU Zen 4 và HBM3; MI300X có tám die XCD và HBM3. Công nghệ CoWoS của TSMC làm nhiệm vụ nối. Đây là suy luận của người viết từ các sản phẩm đã đọc: bài không có nguồn so sánh trực tiếp hiệu năng các chip này với một chip nguyên khối giả định, nên không khẳng định chiplet nhanh hơn bao nhiêu. Điều chắc chắn hơn: bộ nhớ lớn và băng thông cao là nhu cầu chính của chip AI, và HBM đáp ứng điều đó.",
       "layout": "connection-diagram",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Intel Data Center GPU Max: 47 tile, 5 công nghệ",
@@ -734,7 +785,8 @@
       ],
       "notes": "Intel Data Center GPU Max là ví dụ cực đoan: hơn 100 tỷ transistor, 47 tile hoạt động và 5 công nghệ chế tạo trong một gói, theo trang đóng gói của Intel. Nó dùng EMIB 3.5D, tức là kết hợp cầu nối EMIB giữa các tile cạnh nhau với xếp tầng Foveros giữa các tile chồng lên nhau. Điều này cho thấy chiplet cho phép trộn rất nhiều loại mảnh, mỗi loại ở nơi sản xuất phù hợp. Chỗ dễ nhầm: nhiều tile không có nghĩa là tốt hơn tự động; chi phí đóng gói và nhiệt tăng theo số mảnh, như mục thách thức sẽ nói.",
       "layout": "one-big-number",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Công dụng và ứng dụng"
     },
     {
       "title": "Bốn thách thức chính",
@@ -752,7 +804,8 @@
       ],
       "notes": "Bốn thách thức này là cái giá của chiplet. Một: đặt nhiều die sát nhau tạo mật độ công suất rất cao, đòi hỏi làm mát tiên tiến. Hai: liên lạc băng thông cao, đáng tin cậy giữa die của các hãng khác nhau vẫn là bài toán chưa giải xong; UCIe nhắm giải bài toán này nhưng mới ở bản 3.0. Ba: có rất nhiều biến thể đóng gói với bước chân tiếp xúc cực nhỏ, từ 25 đến 130 micromet và nhỏ hơn. Bốn là suy luận của người viết: phần nối tốn thêm diện tích và điện so với một die nguyên khối, nhưng bài không có số đo đã kiểm của mức hao thêm này.",
       "layout": "card-grid",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Thách thức và tương lai"
     },
     {
       "title": "Nhiệt: khi die này che die kia",
@@ -769,7 +822,8 @@
       "notes": "Nhiệt là thách thức được nguồn tổng quan nêu đầu tiên: nhiều die sát nhau trên một gói tạo mật độ công suất rất cao. Khi xếp tầng 3D, die ở dưới bị die ở trên che, nên đường tản nhiệt dài hơn. AMD xử lý bằng cách lấp khoảng trống cạnh mảnh cache bằng silicon cấu trúc, dẫn nhiệt lên tản nhiệt. Chỗ dễ nhầm: nhiệt phụ thuộc cách thiết kế cụ thể, không phải mọi chiplet đều nóng hơn chip nguyên khối; chiplet đặt cạnh nhau có thể tản nhiệt dễ hơn một khối xếp tầng. Bài không có nguồn so sánh nhiệt độ thực đo giữa hai cách.",
       "layout": "explainer",
       "tone": "dark",
-      "body": "Đặt nhiều die sát nhau trên một gói tạo **mật độ công suất** rất cao, đòi hỏi làm mát tiên tiến [S2]. Xếp tầng 3D khó hơn vì die dưới bị die trên che. Với 5800X3D, AMD lấp khoảng trống bên cạnh mảnh cache bằng **silicon cấu trúc** để dẫn nhiệt lên tản nhiệt [S14]. Bài không có số đo nhiệt độ thực tế để so sánh các cách ghép."
+      "body": "Đặt nhiều die sát nhau trên một gói tạo **mật độ công suất** rất cao, đòi hỏi làm mát tiên tiến [S2]. Xếp tầng 3D khó hơn vì die dưới bị die trên che. Với 5800X3D, AMD lấp khoảng trống bên cạnh mảnh cache bằng **silicon cấu trúc** để dẫn nhiệt lên tản nhiệt [S14]. Bài không có số đo nhiệt độ thực tế để so sánh các cách ghép.",
+      "chapter": "Thách thức và tương lai"
     },
     {
       "title": "Được gì, mất gì",
@@ -786,7 +840,8 @@
       ],
       "notes": "Slide này gói gọn đánh đổi. Ưu điểm: vượt trần kích thước 858 mm², ít hỏng hơn nhờ die nhỏ và known good die, mỗi phần dùng công nghệ phù hợp, dùng lại thiết kế. Nhược điểm: nhiệt, nối giữa các die, đóng gói phức tạp và phần nối tốn thêm diện tích, điện. Cân nhắc cuối: chiplet đổi các khó khăn của việc làm một die khổng lồ lấy các khó khăn của việc nối nhiều die. Với chip lớn nhất như Blackwell, cách đầu tiên không còn khả thi vì vượt trần reticle, nên ngành chọn cách thứ hai. Đây là nhận định của người viết dựa trên các nguồn đã đọc.",
       "layout": "two-column-comparison",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Thách thức và tương lai"
     },
     {
       "title": "Ba xu hướng đã thấy trong nguồn",
@@ -803,7 +858,8 @@
       ],
       "notes": "Ba xu hướng này đều có nguồn nêu. Một: nối nhanh hơn, với UCIe 3.0 đạt 48 và 64 GT/s và HBM4 nhân đôi bus lên 2048 bit. Hai: xếp chồng mịn hơn, với UCIe-3D nhắm bước chân 1 micromet hoặc nhỏ hơn bằng hybrid bonding, và Intel Foveros Direct dùng liên kết đồng với đồng. Ba: linh hoạt hơn, với Foveros-R dùng lớp đi dây thay interposer silicon cho khách hàng nhạy giá. Ranh giới: bài chỉ nêu những gì các nguồn đã công bố, không dự đoán thị phần hay thời điểm một công nghệ phổ biến.",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Thách thức và tương lai"
     },
     {
       "title": "Từ sản phẩm một hãng sang hệ sinh thái",
@@ -821,7 +877,8 @@
       ],
       "notes": "Slide này là suy luận của người viết. Hôm nay các sản phẩm phổ biến nhất ghép mảnh do chính một hãng thiết kế. UCIe được thiết kế để mảnh của nhiều hãng nói chung ngôn ngữ. Mục tiêu nêu ở trang chuẩn là cho phép chiplet của nhiều nhà cung cấp ráp vào một SoC. Nếu điều đó thành hiện thực, một nhà thiết kế nhỏ có thể mua sẵn chiplet đã kiểm tra thay vì tự thiết kế cả chip, như mua sẵn linh kiện để lắp máy. Bước cuối được ghi là chưa xác nhận vì không nguồn nào của bài cho biết điều đó đã xảy ra rộng rãi.",
       "layout": "flow",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Thách thức và tương lai"
     },
     {
       "title": "Chip sẽ giống một hệ sinh thái hơn là một khối",
@@ -838,7 +895,8 @@
       ],
       "notes": "Đây là câu kết của phần tương lai và là suy luận của người viết. Nếu mỗi chiplet là một công trình chuyên dụng, thì bộ xử lý tương lai giống một khu phố được quy hoạch hơn là một khối bê tông. Khâu đóng gói, nơi ghép và nối các mảnh, trở nên quan trọng ngang với khâu chế tạo từng mảnh. Các nguồn của bài cho thấy hướng đi này qua nhiều sản phẩm của nhiều hãng. Ranh giới: bài không dự báo thời điểm một công nghệ phổ biến, không dự báo thị phần, và không nêu giá. Muốn biết thêm, hãy đọc các trang chuẩn và trang công nghệ của hãng.",
       "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Thách thức và tương lai"
     },
     {
       "title": "Điểm chưa chắc chắn và hạn chế của dữ liệu",
@@ -860,7 +918,8 @@
       ],
       "notes": "Slide này liệt kê những chỗ bạn nên đọc với sự thận trọng. Số liệu sản phẩm lấy từ trang của hãng hoặc Wikipedia, không đối chiếu với tài liệu kỹ thuật gốc. Bài ISCA 2021 của AMD chỉ đọc phần tóm tắt. Bài đánh giá 5800X3D và tin HPCwire chỉ đọc đoạn trích trong kết quả tìm kiếm. Ví dụ yield với sáu hạt bụi là số giả định; 80% và 32% là chip thử nghiệm 5 nm theo Wikipedia. Nút công nghệ của die I/O: Wikipedia ghi 12 nm cho Ryzen 3000, ảnh trên Commons có mô tả ghi 14 nm. Ngoài ra bài không có nguồn cho yield thật của sản phẩm, chi phí đóng gói hay mức hao thêm của phần nối.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Sáu điều cần nhớ về chiplet",
@@ -887,7 +946,8 @@
       ],
       "notes": "Sáu điều này tóm tắt cả bài. Một: chiplet là mảnh chip nhỏ ghép chung trong một gói. Hai: ba lý do chính là trần 858 mm², yield của die lớn và công nghệ riêng cho mỗi phần. Ba: các mảnh gồm tính toán, vào ra, đồ họa, nhớ đệm, HBM và tấm nối. Bốn: ba kiểu ghép 2D, 2.5D và 3D. Năm: UCIe là chuẩn mở, hiện ở bản 3.0. Sáu: các hãng lớn đều đang dùng chiplet trong sản phẩm, còn cái giá là nhiệt, nối giữa các hãng và đóng gói phức tạp. Nếu chỉ nhớ một điều: chiplet là khu phố thay vì tòa nhà chọc trời.",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Thuật ngữ Việt-Anh",
@@ -910,7 +970,8 @@
       ],
       "notes": "Bảng thuật ngữ giúp bạn đọc tài liệu tiếng Anh sau này. Chiplet và tile là mảnh chip nhỏ. Die là mảnh silicon trần, wafer là tấm bán dẫn. Interposer là tấm trung gian nằm dưới các chiplet với dây mịn. Yield là tỷ lệ chip dùng được, reticle limit là giới hạn khuôn khoảng 858 mm². TSV là lỗ dẫn xuyên silicon, hybrid bonding là liên kết lai nối đồng với đồng. HBM là bộ nhớ băng thông cao, UCIe là chuẩn nối chiplet. Ngoài ra bạn sẽ gặp EMIB, Foveros của Intel và CoWoS, InFO của TSMC, đã nói ở phần đóng gói.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Hạn chế, ghi nhớ và thuật ngữ"
     },
     {
       "title": "Nguồn tham khảo",
@@ -957,7 +1018,8 @@
       ],
       "notes": "Slide cuối liệt kê mười tám nguồn của bài. Các nguồn S1 đến S12 là trang web đã đọc toàn văn hoặc phần liên quan; S13, S14 và S15 chỉ đọc được đoạn trích nên cần thận trọng; S16, S17 và S18 là ảnh trên Wikimedia Commons với giấy phép CC0 hoặc phạm vi công cộng. Ảnh gói GPU Fiji do C. Spille/pcgameshardware.de chụp, giấy phép CC BY-SA 4.0, được ghi nguồn ngay trên slide có ảnh. Ghi chú: số liệu sản phẩm lấy từ trang hãng hoặc Wikipedia, chưa đối chiếu tài liệu kỹ thuật gốc, như mục chưa chắc chắn đã nêu.",
       "layout": "references",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Nguồn tham khảo"
     }
   ]
 }

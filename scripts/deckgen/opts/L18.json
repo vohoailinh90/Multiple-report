@@ -15,9 +15,9 @@
   "cyanuric"
  ],
  "mark": {
-  "31": "lệch khoảng 40 K",
-  "51": "CHƯA XÁC NHẬN",
-  "53": "không phải tài liệu sửa chữa"
+  "32": "lệch khoảng 40 K",
+  "52": "CHƯA XÁC NHẬN",
+  "54": "không phải tài liệu sửa chữa"
  },
  "concept_colors": {
   "urea": [
@@ -42,7 +42,7 @@
   ]
  },
  "big": {
-  "22": "96,6%",
-  "34": "64% + 30%"
+  "23": "96,6%",
+  "35": "64% + 30%"
  }
 }

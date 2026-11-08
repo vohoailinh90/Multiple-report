@@ -9,25 +9,25 @@
   "Thuốc can thiệp ở synapse"
  ],
  "big": {
-  "8": "86 tỷ"
+  "9": "86 tỷ"
  },
  "actors": {
-  "19": [
+  "20": [
    "Nơron trước",
    "Khe synapse",
    "Nơron sau"
   ]
  },
  "mark": {
-  "29": "cộng mọi phiếu",
-  "37": "chưa chứng minh",
-  "43": "không phải lời khuyên y tế"
+  "30": "cộng mọi phiếu",
+  "38": "chưa chứng minh",
+  "44": "không phải lời khuyên y tế"
  },
  "center": {
-  "23": "Thụ thể"
+  "24": "Thụ thể"
  },
  "pairs": {
-  "19": [
+  "20": [
    [
     0,
     0

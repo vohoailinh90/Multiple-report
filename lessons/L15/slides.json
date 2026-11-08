@@ -3,6 +3,22 @@
   "subtitle": "Triết học · Bài L15",
   "slides": [
     {
+      "title": "Mục lục",
+      "bullets": [
+        "Bối cảnh chung: tóm tắt và bối cảnh của ba nhà tư tưởng",
+        "Freud, Jung và Adler: mỗi người một con đường vào vô thức",
+        "Ba triết học và quan hệ giữa ba người: ba cách nhìn về con người và quan hệ giữa Freud, Jung và Adler",
+        "So sánh: tám trục so sánh, bảng tóm tắt, hai tình huống và ba cách giải thích",
+        "Phê bình, ảnh hưởng và kết luận: hạn chế, ảnh hưởng đến ngày nay, hiểu lầm thường gặp, kết luận và lưu ý"
+      ],
+      "notes": "Trang này là bản đồ của cả bài, để bạn biết trước các chương lớn trước khi đi vào chi tiết. Bài chia thành 5 chương. Chương 1, Bối cảnh chung: tóm tắt và bối cảnh của ba nhà tư tưởng. Chương 2, Freud, Jung và Adler: mỗi người một con đường vào vô thức. Chương 3, Ba triết học và quan hệ giữa ba người: ba cách nhìn về con người và quan hệ giữa Freud, Jung và Adler. Chương 4, So sánh: tám trục so sánh, bảng tóm tắt, hai tình huống và ba cách giải thích. Chương 5, Phê bình, ảnh hưởng và kết luận: hạn chế, ảnh hưởng đến ngày nay, hiểu lầm thường gặp, kết luận và lưu ý. Mỗi trang sau có nhãn chương ở đầu trang, cùng màu với số chương ở đây. Muốn tìm lại một ý, nhìn nhãn chương rồi lần theo mục lục này.",
+      "section": "Tóm tắt",
+      "sources": [],
+      "layout": "contents",
+      "tone": "light",
+      "chapter": "Mục lục"
+    },
+    {
       "title": "Ba nhánh sông, ba quan niệm về con người",
       "section": "Tóm tắt",
       "sources": [
@@ -15,7 +31,8 @@
       ],
       "notes": "Phân tâm học do Freud lập ra. Jung gọi hệ thống của mình là tâm lý học phân tích, Adler là tâm lý học cá nhân. Cả ba là bác sĩ, nhưng học thuyết ngầm chứa nền triết học.",
       "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Bối cảnh chung"
     },
     {
       "title": "Bản đồ một phút",
@@ -30,7 +47,8 @@
       ],
       "notes": "Lý tưởng là cách bài tóm từ tác phẩm, không phải lời tự nhận của mỗi người.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Bối cảnh chung"
     },
     {
       "title": "Bối cảnh: ba dòng chảy quanh năm 1900",
@@ -45,7 +63,8 @@
       ],
       "notes": "Vienna và Zurich. Charcot cho thấy triệu chứng thể xác có thể do ý nghĩ gây ra.",
       "layout": "numbered-rows",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Bối cảnh chung"
     },
     {
       "title": "Ba xuất thân",
@@ -61,7 +80,8 @@
       ],
       "notes": "Cả ba học y. Họ là ba cái tên nổi tiếng nhất của tâm lý học chiều sâu (depth psychology).",
       "layout": "lookup-table",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Bối cảnh chung"
     },
     {
       "title": "Freud: hành trình",
@@ -81,7 +101,8 @@
       ],
       "notes": "Mẹ Amalia thường được kể là người vợ thứ ba của Jacob. Diễn giải theo tiểu sử: quan hệ với người cha để lại dấu vết trong lý thuyết.",
       "layout": "timeline",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Freud: từ khoa học tự nhiên đến phân tâm học",
@@ -100,7 +121,8 @@
       ],
       "notes": "Quyết định luận tâm lý: mọi ý nghĩ, giấc mơ, câu nói nhầm đều có nguyên nhân.",
       "layout": "flow",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Freud: bản đồ tâm trí",
@@ -117,7 +139,8 @@
       ],
       "notes": "Người cưỡi ngựa: con ngựa là cái nó, khỏe hơn người cưỡi. Cái tôi phục vụ ba ông chủ nên dễ rơi vào lo âu (diễn giải của bài). Vô thức không còn là một tầng riêng.",
       "layout": "connection-diagram",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Freud: libido, giai đoạn, bản năng chết",
@@ -136,7 +159,8 @@
       ],
       "notes": "Sơ đồ năm giai đoạn là cách giáo trình tóm lại. Ý \"kẹt\" ở một giai đoạn hầu như không được bằng chứng hiện đại ủng hộ (nhận định chung của bài).",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Freud: phòng vệ, giấc mơ, trị liệu",
@@ -153,7 +177,8 @@
       ],
       "notes": "Chuyển di vừa là sức cản vừa là công cụ chính. Khuôn khổ nhiều buổi mỗi tuần là khuôn khổ cổ điển về sau.",
       "layout": "card-grid",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Lý tưởng của Freud: sự thật",
@@ -171,7 +196,8 @@
       ],
       "notes": "Cách bài tóm. Văn minh đòi từ bỏ bản năng; sự gây hấn bị kìm lại thành cảm giác tội lỗi. Tôn giáo là ảo tưởng sinh từ ước muốn.",
       "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: hành trình",
@@ -192,7 +218,8 @@
       ],
       "notes": "Thí nghiệm liên tưởng từ dẫn tới khái niệm phức cảm. Theo tự truyện, nhân cách số 1 và số 2.",
       "layout": "timeline",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: học từ ai",
@@ -211,7 +238,8 @@
       ],
       "notes": "Diễn giải: Lãng mạn kết hợp cách Kant hiểu việc ta biết thế giới. Jung tự xem mình là nhà kinh nghiệm luận.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: ba lớp tâm hồn",
@@ -226,7 +254,8 @@
       ],
       "notes": "Nguyên mẫu là khuôn hình thức bẩm sinh để tạo hình ảnh; chính nguyên mẫu không quan sát được.",
       "layout": "layers",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: persona, bóng tối, Tự thể",
@@ -241,7 +270,8 @@
       ],
       "notes": "Anima và animus bị phê phán là gắn khuôn mẫu giới (diễn giải). Cái tôi giống nhạc công; Tự thể giống cả dàn nhạc.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: hai thái độ, bốn chức năng",
@@ -258,7 +288,8 @@
       ],
       "notes": "Thái độ: hướng nội, hướng ngoại. MBTI dựa trên ý tưởng này nhưng do Briggs và Myers phát triển.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: hai nửa đời người",
@@ -276,7 +307,8 @@
       ],
       "notes": "Cá thể hóa không phải chủ nghĩa cá nhân. Khoảng một phần ba ca của ông khổ vì vô nghĩa (nhận xét lâm sàng của riêng ông).",
       "layout": "flow",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Giấc mơ và tôn giáo: Freud và Jung",
@@ -295,7 +327,8 @@
       ],
       "notes": "Jung không tuyên bố Thượng đế có thật hay không; ông nói hình ảnh Thượng đế là thực tại tâm lý.",
       "layout": "two-column-comparison",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Jung: trị liệu và lý tưởng",
@@ -313,7 +346,8 @@
       ],
       "notes": "Cách bài tóm. Jung cảnh giác tâm lý đám đông nhưng đánh giá cao nghi lễ. Bị chỉ trích: khó kiểm chứng; tranh cãi chính trị thập niên 1930.",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Adler: hành trình",
@@ -334,7 +368,8 @@
       ],
       "notes": "Phòng tư vấn nuôi dạy trẻ ở Vienna mở từ khoảng 1919–1922, đóng năm 1934. Adler tự coi mình là đồng nghiệp, không phải học trò của Freud.",
       "layout": "timeline",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Adler: từ khiếm khuyết đến vươn lên",
@@ -354,7 +389,8 @@
       ],
       "notes": "Vaihinger: hư cấu hữu ích. Hoàn thiện không có nghĩa là không bao giờ sai mà là hướng về sự đầy đủ và đóng góp cộng đồng.",
       "layout": "flow",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Adler: mục tiêu hư cấu và lối sống",
@@ -373,7 +409,8 @@
       ],
       "notes": "Vô thức theo Adler là phần mục tiêu và lối sống ta chưa hiểu.",
       "layout": "connection-diagram",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Adler: cảm giác cộng đồng, ba nhiệm vụ",
@@ -391,7 +428,8 @@
       ],
       "notes": "Cảm giác cộng đồng: nhìn bằng mắt, nghe bằng tai, cảm bằng tim người khác. Các nhà Adler về sau thêm hai nhiệm vụ.",
       "layout": "card-grid",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Adler: gia đình và trị liệu",
@@ -409,7 +447,8 @@
       ],
       "notes": "Dreikurs phổ biến ý: đứa trẻ hư là đứa trẻ nản lòng, và bốn mục tiêu sai.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Lý tưởng của Adler: can đảm và hợp tác",
@@ -427,7 +466,8 @@
       ],
       "notes": "Cách bài tóm. Bị chỉ trích: khái niệm rộng khó đo; thứ tự sinh; phản kháng nam tính.",
       "layout": "one-highlighted-sentence",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Freud, Jung và Adler"
     },
     {
       "title": "Ba quan niệm về con người",
@@ -446,7 +486,8 @@
       ],
       "notes": "Bốn câu hỏi triết học và một câu hỏi về nghề chữa bệnh. Đây là tổng hợp của bài.",
       "layout": "lookup-table",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Ba triết học và quan hệ giữa ba người"
     },
     {
       "title": "Quan hệ và các mốc 1902–1914",
@@ -466,7 +507,8 @@
       ],
       "notes": "Năm có thể lệch theo nguồn. 13 giờ là theo lời kể của Jung.",
       "layout": "timeline",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Ba triết học và quan hệ giữa ba người"
     },
     {
       "title": "Hai cuộc chia tay",
@@ -485,7 +527,8 @@
       ],
       "notes": "Jung và Adler không cộng tác sâu. Jung cho rằng lý thuyết Freud hướng ngoại, lý thuyết Adler hướng nội.",
       "layout": "two-column-comparison",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Ba triết học và quan hệ giữa ba người"
     },
     {
       "title": "Tám trục: bốn trục đầu",
@@ -504,7 +547,8 @@
       ],
       "notes": "Cột: Freud, Jung, Adler.",
       "layout": "lookup-table",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "So sánh"
     },
     {
       "title": "Tám trục: bốn trục sau",
@@ -524,7 +568,8 @@
       ],
       "notes": "Mỗi thẻ gồm ba dòng: Freud, Jung, Adler.",
       "layout": "card-grid",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "So sánh"
     },
     {
       "title": "Bảng tóm tắt",
@@ -542,7 +587,8 @@
       ],
       "notes": "Bản đầy đủ nhiều hàng hơn nằm trong lesson.md.",
       "layout": "lookup-table",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "So sánh"
     },
     {
       "title": "Hai tình huống, ba cách giải thích",
@@ -555,7 +601,8 @@
       ],
       "notes": "Tình huống 1: sợ thất bại, né thử thách. Tình huống 2: nhường nhịn, không dám nói không với sếp. Ví dụ minh họa suy ra từ khái niệm, không phải ca bệnh; cả ba đọc từ bên trong người đó, không loại trừ sếp thật sự áp đặt.",
       "layout": "card-grid",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "So sánh"
     },
     {
       "title": "Phê bình: điều bị chỉ trích và điều còn lại",
@@ -577,7 +624,8 @@
       ],
       "notes": "Bên trái bị chỉ trích, bên phải còn giá trị. Bài không đo mức hiệu quả của trị liệu theo Jung hay Adler.",
       "layout": "two-column-comparison",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Phê bình, ảnh hưởng và kết luận"
     },
     {
       "title": "Ảnh hưởng đến ngày nay",
@@ -600,7 +648,8 @@
       ],
       "notes": "Mỗi ý hoặc có nguồn hoặc là diễn giải. Bài không đo mức ảnh hưởng lên văn học hay các liệu pháp khác.",
       "layout": "card-grid",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Phê bình, ảnh hưởng và kết luận"
     },
     {
       "title": "Hiểu lầm thường gặp",
@@ -621,7 +670,8 @@
       ],
       "notes": "Còn một câu hỏi tranh luận: Jung là nhà thần bí hay nhà khoa học?",
       "layout": "numbered-rows",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Phê bình, ảnh hưởng và kết luận"
     },
     {
       "title": "Giải thích trong hai phút: một ngôi nhà",
@@ -635,7 +685,8 @@
       ],
       "notes": "Hình ảnh chỉ gợi nhớ; không nói ai đi sâu hơn ai. Nền móng chung của Jung là thứ thừa hưởng, không phải cộng đồng của Adler.",
       "layout": "connection-diagram",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Phê bình, ảnh hưởng và kết luận"
     },
     {
       "title": "Nhớ mỗi người một câu",
@@ -650,7 +701,8 @@
       ],
       "notes": "Chúng không luôn tương thích và không có bằng chứng ngang nhau.",
       "layout": "layers",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Phê bình, ảnh hưởng và kết luận"
     },
     {
       "title": "Lưu ý",
@@ -663,7 +715,8 @@
       ],
       "notes": "Nhiều chi tiết tiểu sử dựa trên tự truyện và tiểu sử, cần đọc như diễn giải. Bài chưa đối chiếu từng chi tiết với bản gốc.",
       "layout": "one-highlighted-sentence",
-      "tone": "light"
+      "tone": "light",
+      "chapter": "Phê bình, ảnh hưởng và kết luận"
     },
     {
       "title": "Nguồn tham khảo",
@@ -739,7 +792,8 @@
       ],
       "notes": "Danh sách đầy đủ có tên sách, năm và URL ở mục Nguồn tham khảo của lesson.md.",
       "layout": "lookup-table",
-      "tone": "dark"
+      "tone": "dark",
+      "chapter": "Nguồn tham khảo"
     }
   ]
 }

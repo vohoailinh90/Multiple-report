@@ -3,6 +3,21 @@
   "subtitle": "Mỗi loại là gì, nằm ở đâu, bên trong có gì, vì sao nhanh hay chậm, đắt hay rẻ, và khi nào nên dùng. Số liệu tham khảo, tính đến 11/2026.",
   "slides": [
     {
+      "title": "Mục lục",
+      "bullets": [
+        "Bức tranh chung và ổ đĩa cơ: bộ nhớ và lưu trữ nói chung; HDD",
+        "SSD: nguyên lý và cấu tạo, loại cell và 3D NAND, giao tiếp, tốc độ và độ bền",
+        "Lưu trữ khác, RAM, HBM và CXL: các loại lưu trữ khác, SRAM, DRAM và module, HBM và CXL",
+        "So sánh và ghi nhớ: hướng dẫn chọn, hiểu lầm thường gặp, độ chắc chắn của số liệu"
+      ],
+      "notes": "Trang này là bản đồ của cả bài, để bạn biết trước các chương lớn trước khi đi vào chi tiết. Bài chia thành 4 chương. Chương 1, Bức tranh chung và ổ đĩa cơ: bộ nhớ và lưu trữ nói chung; HDD. Chương 2, SSD: nguyên lý và cấu tạo, loại cell và 3D NAND, giao tiếp, tốc độ và độ bền. Chương 3, Lưu trữ khác, RAM, HBM và CXL: các loại lưu trữ khác, SRAM, DRAM và module, HBM và CXL. Chương 4, So sánh và ghi nhớ: hướng dẫn chọn, hiểu lầm thường gặp, độ chắc chắn của số liệu. Mỗi trang sau có nhãn chương ở đầu trang, cùng màu với số chương ở đây. Muốn tìm lại một ý, nhìn nhãn chương rồi lần theo mục lục này.",
+      "section": "Bộ nhớ và lưu trữ: bức tranh chung",
+      "sources": [],
+      "layout": "contents",
+      "tone": "light",
+      "chapter": "Mục lục"
+    },
+    {
       "title": "Bộ nhớ là mặt bàn, lưu trữ là tủ hồ sơ và nhà kho",
       "section": "Bộ nhớ và lưu trữ: bức tranh chung",
       "sources": [
@@ -23,7 +38,8 @@
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
       ],
-      "notes": "Hãy hình dung CPU là một người làm việc trong văn phòng. RAM là mặt bàn: với tay là lấy được ngay, nhưng bàn nhỏ, và cuối ngày bàn được dọn sạch, tức mất điện là mất dữ liệu. SSD là tủ hồ sơ ngay cạnh bàn, lấy khá nhanh và cất lâu dài. HDD và băng từ là nhà kho: chứa rất nhiều, rẻ, nhưng đi lấy mất thời gian. Ví dụ này là của người viết để dễ nhớ. Chỗ dễ nhầm nhất: nhiều người gọi RAM là 'bộ nhớ' và gọi ổ đĩa cũng là 'bộ nhớ', nên tưởng chúng cùng loại. Thuật ngữ volatile nghĩa là mất dữ liệu khi mất điện; non-volatile là giữ được. HBM mà ta sẽ gặp ở phần sau cũng là bộ nhớ volatile, chỉ khác là nó nằm sát GPU."
+      "notes": "Hãy hình dung CPU là một người làm việc trong văn phòng. RAM là mặt bàn: với tay là lấy được ngay, nhưng bàn nhỏ, và cuối ngày bàn được dọn sạch, tức mất điện là mất dữ liệu. SSD là tủ hồ sơ ngay cạnh bàn, lấy khá nhanh và cất lâu dài. HDD và băng từ là nhà kho: chứa rất nhiều, rẻ, nhưng đi lấy mất thời gian. Ví dụ này là của người viết để dễ nhớ. Chỗ dễ nhầm nhất: nhiều người gọi RAM là 'bộ nhớ' và gọi ổ đĩa cũng là 'bộ nhớ', nên tưởng chúng cùng loại. Thuật ngữ volatile nghĩa là mất dữ liệu khi mất điện; non-volatile là giữ được. HBM mà ta sẽ gặp ở phần sau cũng là bộ nhớ volatile, chỉ khác là nó nằm sát GPU.",
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "Kim tự tháp bộ nhớ: lên cao thì nhanh, nhỏ và đắt",
@@ -49,7 +65,8 @@
           "credit": "Sơ đồ tự vẽ của người viết, CC0",
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
-      ]
+      ],
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "Mỗi thứ nằm ở đâu trong máy",
@@ -70,7 +87,8 @@
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
       ],
-      "notes": "Hình này là bản đồ để định vị các phần sau. Màu tuân theo bảng màu cố định của bài: xanh ngọc cho RAM và cache, xanh dương cho SSD, hổ phách cho HDD, đỏ cho HBM và GDDR của GPU. CPU nằm trong socket và mang theo cache SRAM. RAM cắm vào các khe DIMM dài cạnh CPU. SSD NVMe dạng M.2 cắm vào một khe nhỏ ngay trên bo mạch. HDD nối bằng cáp SATA và có nguồn riêng. Card đồ họa hoặc GPU cho AI cắm vào khe PCIe và mang theo bộ nhớ riêng ngay trên card. Chỗ dễ nhầm: đây là sơ đồ minh họa, không đúng tỉ lệ hay vị trí của một bo mạch cụ thể."
+      "notes": "Hình này là bản đồ để định vị các phần sau. Màu tuân theo bảng màu cố định của bài: xanh ngọc cho RAM và cache, xanh dương cho SSD, hổ phách cho HDD, đỏ cho HBM và GDDR của GPU. CPU nằm trong socket và mang theo cache SRAM. RAM cắm vào các khe DIMM dài cạnh CPU. SSD NVMe dạng M.2 cắm vào một khe nhỏ ngay trên bo mạch. HDD nối bằng cáp SATA và có nguồn riêng. Card đồ họa hoặc GPU cho AI cắm vào khe PCIe và mang theo bộ nhớ riêng ngay trên card. Chỗ dễ nhầm: đây là sơ đồ minh họa, không đúng tỉ lệ hay vị trí của một bo mạch cụ thể.",
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "HDD ngoài: 3.5 inch cho máy bàn, 2.5 inch cho laptop",
@@ -95,7 +113,8 @@
           "credit": "MaxVT, CC BY-SA 3.0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:Comparison_of_3.5_and_2.5_inch_hard_drives.jpg"
         }
-      ]
+      ],
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "HDD trong: đĩa, trục, đầu đọc và cần di chuyển",
@@ -118,7 +137,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:3.5_inch_hard_disk_drive,_side_view.jpg"
         }
       ],
-      "notes": "Đây là ảnh thật một ổ 3,5 inch đã mở nắp, thấy hai đĩa và bốn đầu đọc. Số trên ảnh do người viết thêm. Đĩa (1) là những tấm tròn phủ vật liệu từ, gắn quanh trục quay (2) ở giữa. Đầu đọc ghi (3) bay sát mặt đĩa rất gần mà không chạm vào. Chúng gắn trên cụm cần di chuyển (4), cần xoay để đưa đầu đọc tới đúng track. Bảng mạch nằm ở mặt dưới ổ, không thấy trong ảnh này nhưng luôn có. Ví dụ của người viết: đĩa nhạc có kim đọc, nhưng kim không chạm đĩa. Chỗ dễ nhầm: ổ hiện đại có nhiều đĩa hơn ổ trong ảnh, và một số ổ chứa khí heli thay không khí."
+      "notes": "Đây là ảnh thật một ổ 3,5 inch đã mở nắp, thấy hai đĩa và bốn đầu đọc. Số trên ảnh do người viết thêm. Đĩa (1) là những tấm tròn phủ vật liệu từ, gắn quanh trục quay (2) ở giữa. Đầu đọc ghi (3) bay sát mặt đĩa rất gần mà không chạm vào. Chúng gắn trên cụm cần di chuyển (4), cần xoay để đưa đầu đọc tới đúng track. Bảng mạch nằm ở mặt dưới ổ, không thấy trong ảnh này nhưng luôn có. Ví dụ của người viết: đĩa nhạc có kim đọc, nhưng kim không chạm đĩa. Chỗ dễ nhầm: ổ hiện đại có nhiều đĩa hơn ổ trong ảnh, và một số ổ chứa khí heli thay không khí.",
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "Vì sao HDD chậm: dò track rồi chờ đĩa quay",
@@ -134,7 +154,8 @@
       "layout": "explainer",
       "tone": "light",
       "notes": "Nửa vòng quay là độ trễ trung bình vì sector cần đọc có thể ở bất kỳ vị trí nào trên vòng, trung bình cách đầu đọc nửa vòng. Ở 5.400 vòng mỗi phút, một vòng mất 60 chia 5.400, khoảng 11,1 ms, nên nửa vòng là 5,56 ms; ở 7.200 vòng mỗi phút một vòng mất 8,33 ms nên nửa vòng là 4,17 ms. Đây là phép tự tính của người viết từ công thức, còn nguồn chỉ nói rằng độ trễ quay và thời gian dò là hai thành phần của thời gian truy cập. Ví dụ của người viết: HDD như người thủ kho phải đi tới đúng kệ rồi chờ cuốn hồ sơ xoay tới tay. Chỗ dễ nhầm: tốc độ đọc liên tục của HDD vẫn khá cao; chậm là khi truy cập ngẫu nhiều vị trí nhỏ.",
-      "body": "Mỗi lần truy cập, HDD phải làm hai việc cơ học. Thứ nhất là dò track (seek time): đưa đầu đọc tới đúng vòng chứa dữ liệu. Thứ hai là chờ độ trễ quay (rotational latency): đợi đĩa quay để sector cần đọc chạy tới dưới đầu đọc [S1]. Đa số ổ phổ thông quay 5.400 hoặc 7.200 vòng mỗi phút [S1]. Người viết tự tính độ trễ quay trung bình bằng nửa vòng: 5,56 ms và 4,17 ms. SSD không có hai khoản chờ này."
+      "body": "Mỗi lần truy cập, HDD phải làm hai việc cơ học. Thứ nhất là dò track (seek time): đưa đầu đọc tới đúng vòng chứa dữ liệu. Thứ hai là chờ độ trễ quay (rotational latency): đợi đĩa quay để sector cần đọc chạy tới dưới đầu đọc [S1]. Đa số ổ phổ thông quay 5.400 hoặc 7.200 vòng mỗi phút [S1]. Người viết tự tính độ trễ quay trung bình bằng nửa vòng: 5,56 ms và 4,17 ms. SSD không có hai khoản chờ này.",
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "CMR và SMR: track tách riêng hay xếp chồng như ngói",
@@ -158,7 +179,8 @@
           "credit": "Sơ đồ tự vẽ của người viết, CC0",
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
-      ]
+      ],
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "HDD hôm nay: dung lượng lớn, giá rẻ, nhưng cơ học",
@@ -176,7 +198,8 @@
       ],
       "layout": "card-grid",
       "tone": "light",
-      "notes": "Về dung lượng, Wikipedia ghi HDD tới 36 TB đã có mặt năm 2025, còn Seagate báo cáo đã giao một số lượng giới hạn ổ 40 TB dùng công nghệ ghi HAMR, mười đĩa, mỗi đĩa 4 TB, và dự kiến sản xuất quy mô lớn trong nửa đầu 2026. Về giá, trang theo dõi giá cho thấy ổ 30 đến 32 TB bán khoảng 40 USD mỗi TB, ổ 12 đến 20 TB có thể rẻ hơn tới khoảng 22 USD mỗi TB. Nhược điểm đến từ bộ phận chuyển động: chậm khi truy cập ngẫu nhiên, ồn, nhạy với va đập. Ứng dụng điển hình: NAS, camera giám sát, kho dữ liệu lớn và backup. Chỗ chưa chắc: tình trạng sẵn có của ổ 40 TB cuối 2026 chưa kiểm được."
+      "notes": "Về dung lượng, Wikipedia ghi HDD tới 36 TB đã có mặt năm 2025, còn Seagate báo cáo đã giao một số lượng giới hạn ổ 40 TB dùng công nghệ ghi HAMR, mười đĩa, mỗi đĩa 4 TB, và dự kiến sản xuất quy mô lớn trong nửa đầu 2026. Về giá, trang theo dõi giá cho thấy ổ 30 đến 32 TB bán khoảng 40 USD mỗi TB, ổ 12 đến 20 TB có thể rẻ hơn tới khoảng 22 USD mỗi TB. Nhược điểm đến từ bộ phận chuyển động: chậm khi truy cập ngẫu nhiên, ồn, nhạy với va đập. Ứng dụng điển hình: NAS, camera giám sát, kho dữ liệu lớn và backup. Chỗ chưa chắc: tình trạng sẵn có của ổ 40 TB cuối 2026 chưa kiểm được.",
+      "chapter": "Bức tranh chung và ổ đĩa cơ"
     },
     {
       "title": "SSD là gì và flash NAND lưu bit thế nào",
@@ -193,7 +216,8 @@
       "layout": "explainer",
       "tone": "dark",
       "notes": "NAND flash là loại bộ nhớ flash dùng trong SSD, thẻ nhớ, USB và điện thoại. Mỗi ô nhớ là một transistor đặc biệt có thể giữ điện tích bị nhốt bên trong; có hay không có điện tích, hoặc bao nhiêu điện tích, cho ra bit 0 hay 1. Vì điện tích bị nhốt nên dữ liệu còn khi mất nguồn, khác hẳn RAM. SSD không có đĩa quay hay đầu đọc di chuyển nên truy cập ngẫu nhiên nhanh hơn HDD rất nhiều. Chỗ dễ nhầm thứ nhất: SSD và RAM đều dùng chip bán dẫn nhưng khác bản chất, RAM mất dữ liệu khi tắt điện còn SSD thì không. Chỗ dễ nhầm thứ hai: SSD vẫn mòn dần theo số lần ghi, phần sau sẽ nói về TBW và DWPD.",
-      "body": "**SSD** (solid-state drive) là thiết bị lưu trữ không có bộ phận chuyển động; nó lưu dữ liệu trong các ô nhớ không bay hơi, thường là **NAND** flash [S4]. Mỗi ô nhớ (cell) giữ một lượng điện tích, và lượng đó biểu diễn bit; điện tích vẫn còn khi mất điện nguồn [S7]. Ví dụ của người viết: SSD như tủ hồ sơ nhiều ngăn kéo, mở ngăn nào cũng mất thời gian như nhau vì không phải chờ kim di chuyển."
+      "body": "**SSD** (solid-state drive) là thiết bị lưu trữ không có bộ phận chuyển động; nó lưu dữ liệu trong các ô nhớ không bay hơi, thường là **NAND** flash [S4]. Mỗi ô nhớ (cell) giữ một lượng điện tích, và lượng đó biểu diễn bit; điện tích vẫn còn khi mất điện nguồn [S7]. Ví dụ của người viết: SSD như tủ hồ sơ nhiều ngăn kéo, mở ngăn nào cũng mất thời gian như nhau vì không phải chờ kim di chuyển.",
+      "chapter": "SSD"
     },
     {
       "title": "SSD ngoài, loại cho máy tính: SATA 2.5\", mSATA và M.2",
@@ -222,7 +246,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:M.2_and_mSATA_SSDs_comparison.jpg"
         }
       ],
-      "notes": "Ảnh thứ nhất đặt một ổ mSATA lên trên một ổ 2,5 inch SATA, cho thấy mSATA chỉ bằng một tấm thẻ. Ảnh thứ hai so sánh mSATA với M.2 cỡ 2242. Ổ SATA 2,5 inch có hình dáng và giắc như HDD laptop nên cắm thay thế trực tiếp. mSATA là thẻ nhỏ đời cũ trong laptop mỏng. M.2 là thẻ dài cắm thẳng vào khe trên bo mạch, hiện là dạng phổ biến nhất cho SSD NVMe. Con số 2280 trong tên là quy ước kích thước của người viết, nghĩa là rộng 22 mm và dài 80 mm. Chỗ dễ nhầm: M.2 chỉ là hình dáng và đầu nối; bên trong có thể là SATA hoặc NVMe, nên phải xem ổ và khe có hỗ trợ giao thức nào."
+      "notes": "Ảnh thứ nhất đặt một ổ mSATA lên trên một ổ 2,5 inch SATA, cho thấy mSATA chỉ bằng một tấm thẻ. Ảnh thứ hai so sánh mSATA với M.2 cỡ 2242. Ổ SATA 2,5 inch có hình dáng và giắc như HDD laptop nên cắm thay thế trực tiếp. mSATA là thẻ nhỏ đời cũ trong laptop mỏng. M.2 là thẻ dài cắm thẳng vào khe trên bo mạch, hiện là dạng phổ biến nhất cho SSD NVMe. Con số 2280 trong tên là quy ước kích thước của người viết, nghĩa là rộng 22 mm và dài 80 mm. Chỗ dễ nhầm: M.2 chỉ là hình dáng và đầu nối; bên trong có thể là SATA hoặc NVMe, nên phải xem ổ và khe có hỗ trợ giao thức nào.",
+      "chapter": "SSD"
     },
     {
       "title": "SSD ngoài, loại cho máy chủ: U.2, EDSFF và thẻ PCIe",
@@ -253,7 +278,8 @@
           "credit": "Dmitry Nosachev, CC BY-SA 4.0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:HGST_SN150_NVMe_flash_SSD,_PCI-E_add-in_card.jpg"
         }
-      ]
+      ],
+      "chapter": "SSD"
     },
     {
       "title": "SSD trong: bộ điều khiển, chip NAND và chip DRAM",
@@ -276,7 +302,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:Samsung_SSD_840_120GB_MZ-7TD120--4_LID_REMOVED.JPG"
         }
       ],
-      "notes": "Ảnh chụp một ổ SSD 2,5 inch đã tháo nắp, số trên ảnh do người viết thêm. Bộ điều khiển (1) là chip trung tâm: nó điều phối việc đọc, ghi, xóa, sửa lỗi và dàn đều số lần ghi giữa các ô để ổ mòn đều. Các chip NAND (2) chứa dữ liệu thực sự; ổ càng lớn thì càng nhiều chip hoặc chip càng dày. Chip DRAM (3) làm bộ nhớ đệm giữ bảng cho biết dữ liệu nằm ở đâu trong NAND. Ổ rẻ có thể bỏ chip DRAM. Chỗ dễ nhầm: vị trí các chip trên ổ khác nhau theo model; ảnh chỉ minh họa ba thành phần chính."
+      "notes": "Ảnh chụp một ổ SSD 2,5 inch đã tháo nắp, số trên ảnh do người viết thêm. Bộ điều khiển (1) là chip trung tâm: nó điều phối việc đọc, ghi, xóa, sửa lỗi và dàn đều số lần ghi giữa các ô để ổ mòn đều. Các chip NAND (2) chứa dữ liệu thực sự; ổ càng lớn thì càng nhiều chip hoặc chip càng dày. Chip DRAM (3) làm bộ nhớ đệm giữ bảng cho biết dữ liệu nằm ở đâu trong NAND. Ổ rẻ có thể bỏ chip DRAM. Chỗ dễ nhầm: vị trí các chip trên ổ khác nhau theo model; ảnh chỉ minh họa ba thành phần chính.",
+      "chapter": "SSD"
     },
     {
       "title": "Ba bộ đệm: DRAM cache, HMB và SLC cache",
@@ -291,7 +318,8 @@
       ],
       "layout": "card-grid",
       "tone": "dark",
-      "notes": "Một SSD có ba kiểu bộ đệm hay bị nhầm. DRAM cache là chip DRAM riêng trên ổ, giữ bảng ánh xạ địa chỉ để tìm dữ liệu nhanh. Ổ không có chip này gọi là DRAM-less, rẻ hơn. Với ổ NVMe, công nghệ HMB cho phép ổ mượn một phần RAM của máy làm bộ đệm, giảm giá thành mà vẫn giữ hiệu năng đọc khá tốt. SLC cache là một vùng ô nhớ chạy ở chế độ một bit để ghi rất nhanh, rồi dữ liệu chuyển dần sang vùng chứa nhiều bit hơn nhưng chậm hơn. Suy luận của người viết: vì vậy một ổ có thể ghi rất nhanh lúc đầu rồi chậm lại khi ghi liên tục lượng lớn dữ liệu."
+      "notes": "Một SSD có ba kiểu bộ đệm hay bị nhầm. DRAM cache là chip DRAM riêng trên ổ, giữ bảng ánh xạ địa chỉ để tìm dữ liệu nhanh. Ổ không có chip này gọi là DRAM-less, rẻ hơn. Với ổ NVMe, công nghệ HMB cho phép ổ mượn một phần RAM của máy làm bộ đệm, giảm giá thành mà vẫn giữ hiệu năng đọc khá tốt. SLC cache là một vùng ô nhớ chạy ở chế độ một bit để ghi rất nhanh, rồi dữ liệu chuyển dần sang vùng chứa nhiều bit hơn nhưng chậm hơn. Suy luận của người viết: vì vậy một ổ có thể ghi rất nhanh lúc đầu rồi chậm lại khi ghi liên tục lượng lớn dữ liệu.",
+      "chapter": "SSD"
     },
     {
       "title": "SLC đến PLC: mỗi ô nhớ giữ nhiều bit hơn",
@@ -314,7 +342,8 @@
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
       ],
-      "notes": "Hình vẽ mỗi loại cell bằng một dải các mức điện tích. SLC chỉ cần phân biệt hai mức nên dễ và nhanh. MLC cần bốn mức, TLC tám mức, QLC mười sáu mức và PLC ba mươi hai mức. Đó là phép tự tính của người viết: n bit cần phân biệt 2 mũ n mức. Dải mức điện tích có độ rộng gần như cố định nên càng nhiều mức thì các mức càng sát nhau, khó phân biệt hơn, nên ghi chậm hơn, dễ sai hơn và mòn nhanh hơn. Đổi lại, cùng một ô chứa nhiều bit hơn nên giá mỗi GB thấp hơn. Chỗ dễ nhầm: số mức nhân đôi khi thêm một bit, không chỉ cộng một."
+      "notes": "Hình vẽ mỗi loại cell bằng một dải các mức điện tích. SLC chỉ cần phân biệt hai mức nên dễ và nhanh. MLC cần bốn mức, TLC tám mức, QLC mười sáu mức và PLC ba mươi hai mức. Đó là phép tự tính của người viết: n bit cần phân biệt 2 mũ n mức. Dải mức điện tích có độ rộng gần như cố định nên càng nhiều mức thì các mức càng sát nhau, khó phân biệt hơn, nên ghi chậm hơn, dễ sai hơn và mòn nhanh hơn. Đổi lại, cùng một ô chứa nhiều bit hơn nên giá mỗi GB thấp hơn. Chỗ dễ nhầm: số mức nhân đôi khi thêm một bit, không chỉ cộng một.",
+      "chapter": "SSD"
     },
     {
       "title": "So sánh SLC, MLC, TLC, QLC, PLC",
@@ -332,7 +361,8 @@
       ],
       "layout": "lookup-table",
       "tone": "dark",
-      "notes": "Bảng xếp theo thứ tự tăng số bit mỗi ô. Cột độ bền tính theo chu kỳ ghi xóa P/E, tức số lần một ô có thể ghi rồi xóa trước khi mòn. Nguồn nêu SLC từ 50.000 đến 100.000 chu kỳ, MLC khoảng 10.000, TLC khoảng 3.000. QLC thấp hơn nữa và các nguồn còn lệch nhau nên bài không ghi con số chắc chắn. Tốc độ và giá: SLC nhanh nhất, bền nhất và đắt nhất; QLC chậm nhất và rẻ nhất; TLC là điểm cân bằng cho ổ phổ thông. Đó là suy luận của người viết khớp với xu hướng trong nguồn. Chỗ dễ nhầm: số chu kỳ là số tham khảo, ổ thực tế còn phụ thuộc bộ điều khiển và cách sửa lỗi."
+      "notes": "Bảng xếp theo thứ tự tăng số bit mỗi ô. Cột độ bền tính theo chu kỳ ghi xóa P/E, tức số lần một ô có thể ghi rồi xóa trước khi mòn. Nguồn nêu SLC từ 50.000 đến 100.000 chu kỳ, MLC khoảng 10.000, TLC khoảng 3.000. QLC thấp hơn nữa và các nguồn còn lệch nhau nên bài không ghi con số chắc chắn. Tốc độ và giá: SLC nhanh nhất, bền nhất và đắt nhất; QLC chậm nhất và rẻ nhất; TLC là điểm cân bằng cho ổ phổ thông. Đó là suy luận của người viết khớp với xu hướng trong nguồn. Chỗ dễ nhầm: số chu kỳ là số tham khảo, ổ thực tế còn phụ thuộc bộ điều khiển và cách sửa lỗi.",
+      "chapter": "SSD"
     },
     {
       "title": "3D NAND: xếp tầng thay vì thu nhỏ tiếp",
@@ -357,7 +387,8 @@
           "credit": "Sơ đồ tự vẽ của người viết, CC0",
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
-      ]
+      ],
+      "chapter": "SSD"
     },
     {
       "title": "SATA và NVMe: hai con đường cho dữ liệu",
@@ -381,7 +412,8 @@
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
       ],
-      "notes": "SATA là giao diện thiết kế từ thời HDD: dữ liệu đi qua bộ điều khiển SATA ở chipset rồi qua cáp, giới hạn tối đa 600 MB/s. NVMe là giao thức dành riêng cho bộ nhớ flash, đi qua đường PCIe nối thẳng tới CPU, có nhiều hàng đợi lệnh dài và độ trễ thấp hơn giao thức AHCI cũ. Ví dụ của người viết: SATA như quốc lộ một làn qua nhiều trạm thu phí, NVMe như đường cao tốc nhiều làn nối thẳng. Chỗ dễ nhầm: một ổ M.2 có thể dùng SATA hoặc NVMe, nên không thể suy ra tốc độ chỉ từ hình dáng."
+      "notes": "SATA là giao diện thiết kế từ thời HDD: dữ liệu đi qua bộ điều khiển SATA ở chipset rồi qua cáp, giới hạn tối đa 600 MB/s. NVMe là giao thức dành riêng cho bộ nhớ flash, đi qua đường PCIe nối thẳng tới CPU, có nhiều hàng đợi lệnh dài và độ trễ thấp hơn giao thức AHCI cũ. Ví dụ của người viết: SATA như quốc lộ một làn qua nhiều trạm thu phí, NVMe như đường cao tốc nhiều làn nối thẳng. Chỗ dễ nhầm: một ổ M.2 có thể dùng SATA hoặc NVMe, nên không thể suy ra tốc độ chỉ từ hình dáng.",
+      "chapter": "SSD"
     },
     {
       "title": "PCIe Gen3 đến Gen6: gấp đôi mỗi thế hệ",
@@ -407,7 +439,8 @@
           "credit": "Sơ đồ tự vẽ của người viết, CC0",
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
-      ]
+      ],
+      "chapter": "SSD"
     },
     {
       "title": "TBW và DWPD: cách đọc độ bền của SSD",
@@ -422,7 +455,8 @@
       ],
       "layout": "one-big-number",
       "tone": "dark",
-      "notes": "Độ bền SSD thường ghi dưới hai dạng. TBW là tổng số terabyte được phép ghi trước khi hết bảo hành về độ bền. DWPD là số lần có thể ghi đầy toàn bộ ổ mỗi ngày trong thời gian bảo hành. Nguồn lấy ví dụ Samsung 970 EVO 1 TB có độ bền 600 TBW, và lưu ý TBW đo lượng dữ liệu máy chủ ghi, không quy đổi thẳng ra chu kỳ ghi xóa của ô nhớ vì bộ điều khiển có thể ghi vào NAND nhiều hơn (khuếch đại ghi). Người viết tự tính với giả định bảo hành 5 năm: 600 TB chia cho 1 TB nhân 365 ngày nhân 5 năm bằng khoảng 0,33 lần ghi đầy ổ mỗi ngày, tức khoảng 330 GB ghi mỗi ngày. Chỗ dễ nhầm: số 5 năm là giả định của người viết, thời hạn bảo hành thực tế do hãng quy định."
+      "notes": "Độ bền SSD thường ghi dưới hai dạng. TBW là tổng số terabyte được phép ghi trước khi hết bảo hành về độ bền. DWPD là số lần có thể ghi đầy toàn bộ ổ mỗi ngày trong thời gian bảo hành. Nguồn lấy ví dụ Samsung 970 EVO 1 TB có độ bền 600 TBW, và lưu ý TBW đo lượng dữ liệu máy chủ ghi, không quy đổi thẳng ra chu kỳ ghi xóa của ô nhớ vì bộ điều khiển có thể ghi vào NAND nhiều hơn (khuếch đại ghi). Người viết tự tính với giả định bảo hành 5 năm: 600 TB chia cho 1 TB nhân 365 ngày nhân 5 năm bằng khoảng 0,33 lần ghi đầy ổ mỗi ngày, tức khoảng 330 GB ghi mỗi ngày. Chỗ dễ nhầm: số 5 năm là giả định của người viết, thời hạn bảo hành thực tế do hãng quy định.",
+      "chapter": "SSD"
     },
     {
       "title": "Ổ người dùng và ổ doanh nghiệp: cùng NAND, khác mục đích",
@@ -438,7 +472,8 @@
       ],
       "layout": "two-column-comparison",
       "tone": "light",
-      "notes": "Hai nhóm ổ dùng cùng loại NAND nhưng khác mục đích. Ổ người dùng dành cho PC và laptop, dạng M.2 hoặc SATA 2,5 inch, độ bền ghi theo TBW và dung lượng thường từ 1 đến 4 TB. Ổ doanh nghiệp dùng trong máy chủ, dạng U.2 hoặc EDSFF, cắm nóng được và có dung lượng cực lớn: Micron 6600 ION đạt 245,76 TB bằng NAND QLC, giao diện PCIe 5.0 x4, bắt đầu giao ngày 5/5/2026. Độ bền DWPD cao hơn, hiệu năng ổn định khi tải nặng và bảo vệ dữ liệu khi mất điện đột ngột là kiến thức nền của người viết, không kèm nguồn riêng. Chỗ dễ nhầm: không nên cắm ổ người dùng vào việc ghi 24/7 và kỳ vọng độ bền như ổ doanh nghiệp."
+      "notes": "Hai nhóm ổ dùng cùng loại NAND nhưng khác mục đích. Ổ người dùng dành cho PC và laptop, dạng M.2 hoặc SATA 2,5 inch, độ bền ghi theo TBW và dung lượng thường từ 1 đến 4 TB. Ổ doanh nghiệp dùng trong máy chủ, dạng U.2 hoặc EDSFF, cắm nóng được và có dung lượng cực lớn: Micron 6600 ION đạt 245,76 TB bằng NAND QLC, giao diện PCIe 5.0 x4, bắt đầu giao ngày 5/5/2026. Độ bền DWPD cao hơn, hiệu năng ổn định khi tải nặng và bảo vệ dữ liệu khi mất điện đột ngột là kiến thức nền của người viết, không kèm nguồn riêng. Chỗ dễ nhầm: không nên cắm ổ người dùng vào việc ghi 24/7 và kỳ vọng độ bền như ổ doanh nghiệp.",
+      "chapter": "SSD"
     },
     {
       "title": "USB, thẻ SD, eMMC, UFS: flash cho thiết bị di động",
@@ -468,7 +503,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:Toshiba_EMMC_on_iPad_mini_2.png"
         }
       ],
-      "notes": "Ảnh trái là các loại thẻ nhớ đặt cạnh nhau để so kích thước, ảnh phải là một chip eMMC hàn trên bo mạch. Bộ nhớ flash NAND có mặt trong thẻ nhớ, ổ USB, SSD và điện thoại: một thiết bị flash gồm chip nhớ cùng một chip điều khiển. Chuẩn thẻ SDUC hỗ trợ thẻ đến 128 TiB, dù thẻ thực tế nhỏ hơn rất nhiều. eMMC là gói NAND nhúng hàn thẳng lên bo mạch nên không tháo ra được. UFS là thế hệ kế tiếp cho điện thoại và thiết bị nhúng; JEDEC công bố UFS 5.0 đạt tuần tự đến 10,8 GB/s, gấp đôi UFS 4.1. Chỗ dễ nhầm: tốc độ ghi trên bao bì thẻ là mức tối đa, dùng thật thường thấp hơn."
+      "notes": "Ảnh trái là các loại thẻ nhớ đặt cạnh nhau để so kích thước, ảnh phải là một chip eMMC hàn trên bo mạch. Bộ nhớ flash NAND có mặt trong thẻ nhớ, ổ USB, SSD và điện thoại: một thiết bị flash gồm chip nhớ cùng một chip điều khiển. Chuẩn thẻ SDUC hỗ trợ thẻ đến 128 TiB, dù thẻ thực tế nhỏ hơn rất nhiều. eMMC là gói NAND nhúng hàn thẳng lên bo mạch nên không tháo ra được. UFS là thế hệ kế tiếp cho điện thoại và thiết bị nhúng; JEDEC công bố UFS 5.0 đạt tuần tự đến 10,8 GB/s, gấp đôi UFS 4.1. Chỗ dễ nhầm: tốc độ ghi trên bao bì thẻ là mức tối đa, dùng thật thường thấp hơn.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "Bên trong ổ USB: bộ điều khiển, chip nhớ và thạch anh",
@@ -493,7 +529,8 @@
           "credit": "John Fader, GFDL, Wikimedia Commons; số do tác giả ảnh gốc ghi",
           "url": "https://commons.wikimedia.org/wiki/File:Usbkey_internals.jpg"
         }
-      ]
+      ],
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "Ổ quang: tia laser đọc các hố trên đĩa",
@@ -522,7 +559,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:CD_autolev_crop_new.jpg"
         }
       ],
-      "notes": "Ảnh trái là một ổ đĩa quang đã mở, phải là đĩa. Dữ liệu trên đĩa quang nằm dưới dạng các hố nhỏ trên một lớp kim loại mỏng; tia laser quét qua và đọc sự khác biệt phản xạ để ra bit. Đĩa CD chứa khoảng 700 MiB, tương ứng 80 phút âm thanh. DVD và Blu-ray dùng laser bước sóng ngắn hơn nên hố nhỏ hơn và đĩa chứa nhiều hơn rất nhiều; đó là kiến thức nền của người viết, bài không nêu dung lượng cụ thể vì đã bỏ nguồn đó. Ổ quang ngày nay chủ yếu để phát phim và lưu trữ đặc thù. Chỗ dễ nhầm: đĩa ghi được (R) dùng thuốc nhuộm thay vì hố vật lý."
+      "notes": "Ảnh trái là một ổ đĩa quang đã mở, phải là đĩa. Dữ liệu trên đĩa quang nằm dưới dạng các hố nhỏ trên một lớp kim loại mỏng; tia laser quét qua và đọc sự khác biệt phản xạ để ra bit. Đĩa CD chứa khoảng 700 MiB, tương ứng 80 phút âm thanh. DVD và Blu-ray dùng laser bước sóng ngắn hơn nên hố nhỏ hơn và đĩa chứa nhiều hơn rất nhiều; đó là kiến thức nền của người viết, bài không nêu dung lượng cụ thể vì đã bỏ nguồn đó. Ổ quang ngày nay chủ yếu để phát phim và lưu trữ đặc thù. Chỗ dễ nhầm: đĩa ghi được (R) dùng thuốc nhuộm thay vì hố vật lý.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "Băng từ LTO: hộp 40 TB cho lưu trữ dài hạn",
@@ -553,7 +591,8 @@
           "credit": "Austin Murphy, CC BY-SA 3.0, Wikimedia Commons; chú thích số do người viết thêm",
           "url": "https://commons.wikimedia.org/wiki/File:LTO2-cart-wo-top-shell.jpg"
         }
-      ]
+      ],
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "Optane và đĩa mềm: hai chương đã khép lại",
@@ -583,7 +622,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:2018_Pami%C4%99%C4%87_Intel_Optane_32GB.jpg"
         }
       ],
-      "notes": "Optane, hay 3D XPoint, là loại bộ nhớ không bay hơi đọc ghi theo từng byte với độ trễ ghi thấp, nằm giữa RAM và SSD về hiệu năng. Intel đã ngừng kinh doanh Optane và ghi giảm 559 triệu USD giá trị tồn kho; CEO Intel nêu lý do là xu hướng chuyển sang kiến trúc dựa trên CXL, phần sau sẽ nói tới. Đĩa mềm là bộ nhớ từ tính tháo rời, dung lượng chỉ vài MB, nay chỉ còn ý nghĩa lịch sử. Hai loại này nhắc ta rằng công nghệ lưu trữ không phải lúc nào cũng thắng nhờ hiệu năng: giá thành, hệ sinh thái và nhu cầu thị trường quyết định. Chỗ dễ nhầm: Optane không còn được bán mới, nên đừng chọn làm nền cho hệ thống mới."
+      "notes": "Optane, hay 3D XPoint, là loại bộ nhớ không bay hơi đọc ghi theo từng byte với độ trễ ghi thấp, nằm giữa RAM và SSD về hiệu năng. Intel đã ngừng kinh doanh Optane và ghi giảm 559 triệu USD giá trị tồn kho; CEO Intel nêu lý do là xu hướng chuyển sang kiến trúc dựa trên CXL, phần sau sẽ nói tới. Đĩa mềm là bộ nhớ từ tính tháo rời, dung lượng chỉ vài MB, nay chỉ còn ý nghĩa lịch sử. Hai loại này nhắc ta rằng công nghệ lưu trữ không phải lúc nào cũng thắng nhờ hiệu năng: giá thành, hệ sinh thái và nhu cầu thị trường quyết định. Chỗ dễ nhầm: Optane không còn được bán mới, nên đừng chọn làm nền cho hệ thống mới.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "SRAM và DRAM: sáu transistor hay một tụ điện",
@@ -608,7 +648,8 @@
           "credit": "Sơ đồ tự vẽ của người viết, CC0",
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
-      ]
+      ],
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "RAM ngoài: DIMM, SO-DIMM và RDIMM có ECC",
@@ -644,7 +685,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:Micron_PC2700_DDR_ECC_REG.JPG"
         }
       ],
-      "notes": "Ba ảnh là ba loại module RAM, hai cái sau thuộc thế hệ cũ hơn DDR5 nhưng cùng hình dáng. DIMM là thanh dài cắm vào máy bàn và máy chủ. SO-DIMM nhỏ gọn hơn, dùng cho laptop và mini PC. RDIMM, registered DIMM, thêm mạch đệm giữa module và bộ điều khiển bộ nhớ, thường đi kèm ECC và dùng trong máy chủ. Mỗi thế hệ DDR có rãnh khía ở vị trí khác nhau nên không cắm nhầm được. ECC, error-correcting code, thêm bit kiểm tra để phát hiện và sửa lỗi bit. Chỗ dễ nhầm: số chân và vị trí rãnh khía thay đổi theo thế hệ, nên một thanh DDR4 không cắm được vào khe DDR5 và ngược lại."
+      "notes": "Ba ảnh là ba loại module RAM, hai cái sau thuộc thế hệ cũ hơn DDR5 nhưng cùng hình dáng. DIMM là thanh dài cắm vào máy bàn và máy chủ. SO-DIMM nhỏ gọn hơn, dùng cho laptop và mini PC. RDIMM, registered DIMM, thêm mạch đệm giữa module và bộ điều khiển bộ nhớ, thường đi kèm ECC và dùng trong máy chủ. Mỗi thế hệ DDR có rãnh khía ở vị trí khác nhau nên không cắm nhầm được. ECC, error-correcting code, thêm bit kiểm tra để phát hiện và sửa lỗi bit. Chỗ dễ nhầm: số chân và vị trí rãnh khía thay đổi theo thế hệ, nên một thanh DDR4 không cắm được vào khe DDR5 và ngược lại.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "DIMM trong: chip DRAM, rãnh khía và chân tiếp xúc",
@@ -669,7 +711,8 @@
           "credit": "Mixabest, phạm vi công cộng, Wikimedia Commons; chú thích số do người viết thêm",
           "url": "https://commons.wikimedia.org/wiki/File:Micron_PC2700_DDR_ECC_REG.JPG"
         }
-      ]
+      ],
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "DDR4 và DDR5: điện áp, ECC trên chip, kênh con",
@@ -685,7 +728,8 @@
       ],
       "layout": "two-column-comparison",
       "tone": "dark",
-      "notes": "DDR5 là thế hệ RAM hiện hành. Điện áp danh định 1,1 V, với bộ điều chỉnh điện áp ngay trên module; có ECC trên chip, gọi là on-die ECC; và chia mỗi module thành các kênh con độc lập. DDR4 là thế hệ trước, không cắm vừa khe DDR5. Giá tháng 11/2026 rất cao do nhu cầu AI: bộ DDR5 32 GB khoảng 429 đến 600 USD, tức khoảng 13 đến 19 USD mỗi GB, so với khoảng 95 USD trước đợt thiếu hụt; DDR4 rẻ hơn khoảng 56% trên mỗi GB. Bài không nêu tốc độ tối đa của DDR5 theo JEDEC vì chưa kiểm được nguồn. Chỗ dễ nhầm: on-die ECC khác với ECC của module máy chủ, cái này bảo vệ trên đường truyền."
+      "notes": "DDR5 là thế hệ RAM hiện hành. Điện áp danh định 1,1 V, với bộ điều chỉnh điện áp ngay trên module; có ECC trên chip, gọi là on-die ECC; và chia mỗi module thành các kênh con độc lập. DDR4 là thế hệ trước, không cắm vừa khe DDR5. Giá tháng 11/2026 rất cao do nhu cầu AI: bộ DDR5 32 GB khoảng 429 đến 600 USD, tức khoảng 13 đến 19 USD mỗi GB, so với khoảng 95 USD trước đợt thiếu hụt; DDR4 rẻ hơn khoảng 56% trên mỗi GB. Bài không nêu tốc độ tối đa của DDR5 theo JEDEC vì chưa kiểm được nguồn. Chỗ dễ nhầm: on-die ECC khác với ECC của module máy chủ, cái này bảo vệ trên đường truyền.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "LPDDR và GDDR: bộ nhớ cho điện thoại và cho GPU",
@@ -708,7 +752,8 @@
           "url": "https://commons.wikimedia.org/wiki/File:Sapphire_Ultimate_HD_4670_512MB_-_Qimonda_HYB18H512321BF-10-93577.jpg"
         }
       ],
-      "notes": "LPDDR là biến thể DRAM tiết kiệm điện dùng trong điện thoại và laptop mỏng, thường hàn thẳng lên bo mạch. GDDR là biến thể thiết kế riêng cho card đồ họa, ưu tiên băng thông; ảnh là các chip GDDR gắn quanh GPU trên một card. Cả hai vẫn là DRAM, vẫn mất dữ liệu khi tắt điện. Điểm khác biệt là mục tiêu thiết kế: LPDDR tối ưu điện năng, GDDR tối ưu băng thông. Bài chưa kiểm được thông số chi tiết của LPDDR6 và GDDR7 nên không nêu số. Chỗ dễ nhầm: tên gọi giống DDR nhưng GDDR và DDR là hai họ khác nhau, không thay thế cho nhau."
+      "notes": "LPDDR là biến thể DRAM tiết kiệm điện dùng trong điện thoại và laptop mỏng, thường hàn thẳng lên bo mạch. GDDR là biến thể thiết kế riêng cho card đồ họa, ưu tiên băng thông; ảnh là các chip GDDR gắn quanh GPU trên một card. Cả hai vẫn là DRAM, vẫn mất dữ liệu khi tắt điện. Điểm khác biệt là mục tiêu thiết kế: LPDDR tối ưu điện năng, GDDR tối ưu băng thông. Bài chưa kiểm được thông số chi tiết của LPDDR6 và GDDR7 nên không nêu số. Chỗ dễ nhầm: tên gọi giống DDR nhưng GDDR và DDR là hai họ khác nhau, không thay thế cho nhau.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "GPU cho AI cần bộ nhớ nhanh hơn RAM thường cho phép",
@@ -723,7 +768,8 @@
       ],
       "layout": "one-highlighted-sentence",
       "tone": "dark",
-      "notes": "GPU cho AI xử lý lượng dữ liệu khổng lồ nên cần đọc bộ nhớ nhanh hơn nhiều so với RAM DIMM cho phép. HBM giải quyết bằng cách xếp chồng nhiều die DRAM thành một tòa nhà, đặt ngay sát bộ xử lý thay vì trải ra xa trên bo mạch. Ví dụ của người viết: thay vì dãy nhà trệt trải xa, HBM là tòa nhà nhiều tầng ngay cạnh GPU, lối đi ngắn và nhiều làn. Mỗi stack có bus 1024 bit, riêng HBM4 lên đến 2048 bit. Suy luận của người viết: nhờ đường truyền ngắn và rất rộng, băng thông của HBM vượt xa DDR hay GDDR. Chỗ dễ nhầm: HBM không cắm khe như DIMM, nó đóng gói chung với GPU."
+      "notes": "GPU cho AI xử lý lượng dữ liệu khổng lồ nên cần đọc bộ nhớ nhanh hơn nhiều so với RAM DIMM cho phép. HBM giải quyết bằng cách xếp chồng nhiều die DRAM thành một tòa nhà, đặt ngay sát bộ xử lý thay vì trải ra xa trên bo mạch. Ví dụ của người viết: thay vì dãy nhà trệt trải xa, HBM là tòa nhà nhiều tầng ngay cạnh GPU, lối đi ngắn và nhiều làn. Mỗi stack có bus 1024 bit, riêng HBM4 lên đến 2048 bit. Suy luận của người viết: nhờ đường truyền ngắn và rất rộng, băng thông của HBM vượt xa DDR hay GDDR. Chỗ dễ nhầm: HBM không cắm khe như DIMM, nó đóng gói chung với GPU.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "HBM cấu tạo: die xếp chồng, TSV và die đáy",
@@ -746,7 +792,8 @@
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
       ],
-      "notes": "Hình vẽ lát cắt ngang một stack HBM bên cạnh GPU. Một stack gồm từ 4 đến 16 die DRAM xếp trên một die logic đáy. Các die nối với nhau bằng TSV, through-silicon via, tức những lỗ nhỏ xuyên qua silicon dẫn tín hiệu từ tầng này sang tầng khác, và các chấm nối nhỏ gọi là microbump. Die đáy giao tiếp với GPU qua interposer, một tấm silicon nằm dưới cả hai. Bus rộng 1024 bit mỗi stack, riêng HBM4 là 2048 bit. Chỗ dễ nhầm: hình là sơ đồ minh họa, số lớp thực tế và kích thước không theo tỉ lệ."
+      "notes": "Hình vẽ lát cắt ngang một stack HBM bên cạnh GPU. Một stack gồm từ 4 đến 16 die DRAM xếp trên một die logic đáy. Các die nối với nhau bằng TSV, through-silicon via, tức những lỗ nhỏ xuyên qua silicon dẫn tín hiệu từ tầng này sang tầng khác, và các chấm nối nhỏ gọi là microbump. Die đáy giao tiếp với GPU qua interposer, một tấm silicon nằm dưới cả hai. Bus rộng 1024 bit mỗi stack, riêng HBM4 là 2048 bit. Chỗ dễ nhầm: hình là sơ đồ minh họa, số lớp thực tế và kích thước không theo tỉ lệ.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "HBM nằm cạnh GPU trên interposer: ảnh thật",
@@ -776,7 +823,8 @@
           "credit": "Fritzchens Fritz, CC0, Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx11_HBM-Stack_notes.jpg"
         }
-      ]
+      ],
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "HBM3E đến HBM4: bus rộng hơn, xếp cao hơn",
@@ -796,7 +844,8 @@
       ],
       "layout": "lookup-table",
       "tone": "light",
-      "notes": "Bảng này gom số liệu các thế hệ HBM. HBM3 và HBM3E có bus 1024 bit mỗi stack. HBM3E 12 lớp của Micron dung lượng 36 GB mỗi stack, băng thông trên 1,2 TB mỗi giây với tốc độ trên 9,2 Gb mỗi chân. Chuẩn JEDEC HBM4 nâng bus lên 2048 bit, tốc độ đến 8 Gb mỗi chân, băng thông đến 2 TB mỗi giây mỗi stack, hỗ trợ từ 4 đến 16 lớp với dung lượng đến 64 GB, và tăng số kênh từ 16 lên 32. Samsung và Micron bắt đầu giao HBM4 từ tháng 2 năm 2026. Bài không có nguồn đọc được cho thông số HBM2e nên không nêu. Chỗ dễ nhầm: các hãng công bố số theo thông số riêng của sản phẩm, có thể cao hơn mức chuẩn tối thiểu của JEDEC."
+      "notes": "Bảng này gom số liệu các thế hệ HBM. HBM3 và HBM3E có bus 1024 bit mỗi stack. HBM3E 12 lớp của Micron dung lượng 36 GB mỗi stack, băng thông trên 1,2 TB mỗi giây với tốc độ trên 9,2 Gb mỗi chân. Chuẩn JEDEC HBM4 nâng bus lên 2048 bit, tốc độ đến 8 Gb mỗi chân, băng thông đến 2 TB mỗi giây mỗi stack, hỗ trợ từ 4 đến 16 lớp với dung lượng đến 64 GB, và tăng số kênh từ 16 lên 32. Samsung và Micron bắt đầu giao HBM4 từ tháng 2 năm 2026. Bài không có nguồn đọc được cho thông số HBM2e nên không nêu. Chỗ dễ nhầm: các hãng công bố số theo thông số riêng của sản phẩm, có thể cao hơn mức chuẩn tối thiểu của JEDEC.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "CXL: mở rộng bộ nhớ qua đường PCIe",
@@ -819,7 +868,8 @@
           "url": "https://github.com/vohoailinh90/Multiple-report/blob/main/scripts/deckgen/figures/L21_ve_hinh.py"
         }
       ],
-      "notes": "CXL, Compute Express Link, là chuẩn kết nối chạy trên tầng vật lý của PCIe, có thêm các giao thức nhất quán bộ nhớ đệm để CPU truy cập bộ nhớ của thiết bị. Một thẻ nhớ CXL cho phép mở rộng dung lượng RAM mà không cần thêm khe DIMM; Samsung đã công bố từ năm 2021 một module mở rộng 128 GB dựa trên DDR5. Vị trí của nó nằm giữa RAM gắn trực tiếp và SSD: chậm hơn RAM tại chỗ nhưng nhanh hơn SSD rất nhiều. Đó là suy luận của người viết; các nguồn đo độ trễ CXL còn lệch nhau nên bài không nêu con số. Chỗ dễ nhầm: CXL không thay RAM, nó bổ sung."
+      "notes": "CXL, Compute Express Link, là chuẩn kết nối chạy trên tầng vật lý của PCIe, có thêm các giao thức nhất quán bộ nhớ đệm để CPU truy cập bộ nhớ của thiết bị. Một thẻ nhớ CXL cho phép mở rộng dung lượng RAM mà không cần thêm khe DIMM; Samsung đã công bố từ năm 2021 một module mở rộng 128 GB dựa trên DDR5. Vị trí của nó nằm giữa RAM gắn trực tiếp và SSD: chậm hơn RAM tại chỗ nhưng nhanh hơn SSD rất nhiều. Đó là suy luận của người viết; các nguồn đo độ trễ CXL còn lệch nhau nên bài không nêu con số. Chỗ dễ nhầm: CXL không thay RAM, nó bổ sung.",
+      "chapter": "Lưu trữ khác, RAM, HBM và CXL"
     },
     {
       "title": "Bảng so sánh 1: tốc độ, dung lượng, giá (số liệu tham khảo, 11/2026)",
@@ -844,7 +894,8 @@
       ],
       "layout": "lookup-table",
       "tone": "dark",
-      "notes": "Bảng 1 gom tốc độ, dung lượng và giá của từng loại. Độ trễ của cache, RAM và HDD là bậc độ lớn thuộc kiến thức nền của người viết, không kèm nguồn. Giá RAM và HDD lấy từ hai trang theo dõi giá bán lẻ tháng 11/2026; giá SSD là phép tự tính từ một mẫu khoảng 130 ổ. HBM không có nguồn giá trong bài. Tốc độ SSD lấy từ số công bố của hãng: Micron 6600 ION đọc 13,7 GB mỗi giây trên PCIe 5.0, Micron 9650 đọc 28 GB mỗi giây trên PCIe 6.0. Băng LTO-10 40 TB gốc, truy cập tuần tự. Chỗ dễ nhầm: tốc độ công bố là mức tối đa trong điều kiện lý tưởng, và giá đang biến động mạnh nên hãy kiểm lại trước khi mua."
+      "notes": "Bảng 1 gom tốc độ, dung lượng và giá của từng loại. Độ trễ của cache, RAM và HDD là bậc độ lớn thuộc kiến thức nền của người viết, không kèm nguồn. Giá RAM và HDD lấy từ hai trang theo dõi giá bán lẻ tháng 11/2026; giá SSD là phép tự tính từ một mẫu khoảng 130 ổ. HBM không có nguồn giá trong bài. Tốc độ SSD lấy từ số công bố của hãng: Micron 6600 ION đọc 13,7 GB mỗi giây trên PCIe 5.0, Micron 9650 đọc 28 GB mỗi giây trên PCIe 6.0. Băng LTO-10 40 TB gốc, truy cập tuần tự. Chỗ dễ nhầm: tốc độ công bố là mức tối đa trong điều kiện lý tưởng, và giá đang biến động mạnh nên hãy kiểm lại trước khi mua.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Bảng so sánh 2: bay hơi hay không, vì sao nhanh hay chậm",
@@ -863,7 +914,8 @@
       ],
       "layout": "two-column-comparison",
       "tone": "light",
-      "notes": "Cách đọc nhanh nhất là chia hai nhóm theo tính bay hơi. Cache SRAM, RAM DRAM và HBM là bay hơi: tắt điện là mất dữ liệu, bù lại rất nhanh. SSD, HDD, băng từ và Optane không bay hơi, giữ dữ liệu khi không có điện. Nhanh hay chậm có nguyên nhân cụ thể: SSD nhanh vì không có bộ phận cơ học, SRAM nhanh vì nằm trong CPU, HBM nhanh vì nằm sát GPU với bus rất rộng. Rẻ hay đắt cũng có nguyên nhân: DRAM rẻ vì ô nhớ đơn giản, QLC rẻ vì một ô chứa nhiều bit, HDD và băng rẻ vì vật liệu từ tính và cấu trúc đơn giản. Đó là tổng hợp của người viết từ các phần trước. Chỗ dễ nhầm: nhanh và bền không đi cùng nhau; thường phải đánh đổi."
+      "notes": "Cách đọc nhanh nhất là chia hai nhóm theo tính bay hơi. Cache SRAM, RAM DRAM và HBM là bay hơi: tắt điện là mất dữ liệu, bù lại rất nhanh. SSD, HDD, băng từ và Optane không bay hơi, giữ dữ liệu khi không có điện. Nhanh hay chậm có nguyên nhân cụ thể: SSD nhanh vì không có bộ phận cơ học, SRAM nhanh vì nằm trong CPU, HBM nhanh vì nằm sát GPU với bus rất rộng. Rẻ hay đắt cũng có nguyên nhân: DRAM rẻ vì ô nhớ đơn giản, QLC rẻ vì một ô chứa nhiều bit, HDD và băng rẻ vì vật liệu từ tính và cấu trúc đơn giản. Đó là tổng hợp của người viết từ các phần trước. Chỗ dễ nhầm: nhanh và bền không đi cùng nhau; thường phải đánh đổi.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Chọn gì: PC văn phòng, laptop, gaming, workstation",
@@ -893,7 +945,8 @@
           "text": "RAM lớn (có thể ECC), SSD NVMe nhanh cho dự án, HDD cho kho cũ"
         }
       ],
-      "notes": "Phần hướng dẫn chọn là suy luận của người viết từ các đặc tính ở trên, không phải khuyến nghị mua hàng. PC văn phòng không cần ổ nhanh nhất: một SSD 500 GB đến 1 TB và 16 GB RAM đủ cho việc hằng ngày. Laptop ưu tiên SSD NVMe M.2 và RAM tiết kiệm điện. Gaming hưởng lợi từ SSD NVMe nhanh khi tải game, RAM DDR5 và GPU có GDDR riêng. Workstation cần RAM lớn, có thể có ECC, SSD NVMe nhanh cho dự án đang làm và HDD cho kho dữ liệu cũ. Chỗ dễ nhầm: giá RAM và SSD đang rất cao nên cấu hình đề xuất có thể phải điều chỉnh theo ngân sách; hãy ưu tiên SSD vừa đủ và RAM đủ dùng thay vì cấu hình tối đa."
+      "notes": "Phần hướng dẫn chọn là suy luận của người viết từ các đặc tính ở trên, không phải khuyến nghị mua hàng. PC văn phòng không cần ổ nhanh nhất: một SSD 500 GB đến 1 TB và 16 GB RAM đủ cho việc hằng ngày. Laptop ưu tiên SSD NVMe M.2 và RAM tiết kiệm điện. Gaming hưởng lợi từ SSD NVMe nhanh khi tải game, RAM DDR5 và GPU có GDDR riêng. Workstation cần RAM lớn, có thể có ECC, SSD NVMe nhanh cho dự án đang làm và HDD cho kho dữ liệu cũ. Chỗ dễ nhầm: giá RAM và SSD đang rất cao nên cấu hình đề xuất có thể phải điều chỉnh theo ngân sách; hãy ưu tiên SSD vừa đủ và RAM đủ dùng thay vì cấu hình tối đa.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Chọn gì: NAS, server, AI/GPU, backup và archive",
@@ -911,7 +964,8 @@
       ],
       "layout": "numbered-rows",
       "tone": "dark",
-      "notes": "Nhóm thứ hai gồm các môi trường chuyên nghiệp. NAS chạy nhiều tác vụ ghi nên chọn HDD CMR dung lượng lớn và tránh SMR cho việc ghi ngẫu nhiên. Server dùng SSD NVMe doanh nghiệp dạng U.2 hoặc EDSFF cắm nóng, RAM RDIMM có ECC, và có thể thêm bộ nhớ CXL để mở rộng. Hệ AI/GPU dùng GPU có HBM, còn dữ liệu huấn luyện đặt trên SSD NVMe nhanh để GPU không phải chờ. Backup và archive: HDD dung lượng lớn cho bản sao gần, băng LTO cho lưu trữ dài hạn. Đó là suy luận của người viết từ đặc tính từng loại. Chỗ dễ nhầm: backup tốt cần nhiều bản ở nhiều nơi; một ổ lớn đơn lẻ không phải backup."
+      "notes": "Nhóm thứ hai gồm các môi trường chuyên nghiệp. NAS chạy nhiều tác vụ ghi nên chọn HDD CMR dung lượng lớn và tránh SMR cho việc ghi ngẫu nhiên. Server dùng SSD NVMe doanh nghiệp dạng U.2 hoặc EDSFF cắm nóng, RAM RDIMM có ECC, và có thể thêm bộ nhớ CXL để mở rộng. Hệ AI/GPU dùng GPU có HBM, còn dữ liệu huấn luyện đặt trên SSD NVMe nhanh để GPU không phải chờ. Backup và archive: HDD dung lượng lớn cho bản sao gần, băng LTO cho lưu trữ dài hạn. Đó là suy luận của người viết từ đặc tính từng loại. Chỗ dễ nhầm: backup tốt cần nhiều bản ở nhiều nơi; một ổ lớn đơn lẻ không phải backup.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Hiểu lầm 1 và 2: RAM không phải ổ đĩa, SSD không mau hỏng",
@@ -928,7 +982,8 @@
       "layout": "explainer",
       "tone": "light",
       "notes": "Hiểu lầm thứ nhất: nhiều người nghe 'bộ nhớ 16 GB' rồi tưởng là ổ đĩa. Thực ra RAM chỉ giữ dữ liệu khi máy còn điện. Hiểu lầm thứ hai: SSD mòn theo số lần ghi nên có người tin nó nhanh hỏng hơn HDD. Độ bền ghi của SSD được công bố bằng TBW hoặc DWPD, nên có thể ước tính tuổi thọ. Với ví dụ 600 TBW cho ổ 1 TB và giả định bảo hành 5 năm, mức ghi cho phép là khoảng 330 GB mỗi ngày, thường vượt xa nhu cầu ghi của người dùng văn phòng. Đó là phép tự tính của người viết. Chỗ dễ nhầm: tải ghi nặng như quay phim liên tục hay máy chủ cơ sở dữ liệu có thể chạm giới hạn này nhanh hơn nhiều.",
-      "body": "**RAM** và **HBM** là bộ nhớ bay hơi, mất dữ liệu khi tắt điện, nên không phải ổ lưu trữ [S4][S23]. Còn **SSD** có giới hạn số lần ghi, nhưng giới hạn đó đo được bằng TBW hoặc DWPD [S4]. Với ví dụ 600 TBW, ổ 1 TB ghi khoảng 330 GB mỗi ngày trong 5 năm, thường vượt xa mức ghi của người dùng bình thường. Đó là suy luận của người viết từ phép tính."
+      "body": "**RAM** và **HBM** là bộ nhớ bay hơi, mất dữ liệu khi tắt điện, nên không phải ổ lưu trữ [S4][S23]. Còn **SSD** có giới hạn số lần ghi, nhưng giới hạn đó đo được bằng TBW hoặc DWPD [S4]. Với ví dụ 600 TBW, ổ 1 TB ghi khoảng 330 GB mỗi ngày trong 5 năm, thường vượt xa mức ghi của người dùng bình thường. Đó là suy luận của người viết từ phép tính.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Hiểu lầm 3 và 4: NVMe và ổ NAS",
@@ -963,7 +1018,8 @@
           "text": "Xem NVMe hay SATA, CMR hay SMR trước khi mua, đừng chỉ nhìn dung lượng"
         }
       ],
-      "notes": "Hai hiểu lầm tiếp theo liên quan đến việc chọn ổ. Hiểu lầm thứ ba: NVMe luôn nhanh gấp nhiều lần SATA khi dùng thật. Tốc độ tuần tự khác xa, 600 MB mỗi giây so với 13,7 GB mỗi giây ở ổ doanh nghiệp PCIe 5.0, nhưng việc mở ứng dụng hay duyệt web phụ thuộc cả độ trễ và phần mềm nên sự khác biệt cảm nhận được nhỏ hơn nhiều; đó là suy luận của người viết. Hiểu lầm thứ tư: ổ NAS nào cũng như nhau. Ổ SMR phải ghi lại cả chuỗi track khi sửa dữ liệu nên ghi ngẫu nhiên có thể chậm. Chỗ dễ nhầm: nhãn trên hộp không phải lúc nào cũng nêu rõ CMR hay SMR, hãy tra thông số đúng model."
+      "notes": "Hai hiểu lầm tiếp theo liên quan đến việc chọn ổ. Hiểu lầm thứ ba: NVMe luôn nhanh gấp nhiều lần SATA khi dùng thật. Tốc độ tuần tự khác xa, 600 MB mỗi giây so với 13,7 GB mỗi giây ở ổ doanh nghiệp PCIe 5.0, nhưng việc mở ứng dụng hay duyệt web phụ thuộc cả độ trễ và phần mềm nên sự khác biệt cảm nhận được nhỏ hơn nhiều; đó là suy luận của người viết. Hiểu lầm thứ tư: ổ NAS nào cũng như nhau. Ổ SMR phải ghi lại cả chuỗi track khi sửa dữ liệu nên ghi ngẫu nhiên có thể chậm. Chỗ dễ nhầm: nhãn trên hộp không phải lúc nào cũng nêu rõ CMR hay SMR, hãy tra thông số đúng model.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Hiểu lầm 5 và 6: HBM là RAM tốt hơn, Optane là tương lai",
@@ -978,7 +1034,8 @@
       ],
       "layout": "card-grid",
       "tone": "light",
-      "notes": "Hiểu lầm thứ năm: HBM là RAM tốt hơn nên cứ thay vào là xong. Thực ra HBM nằm cạnh GPU trên interposer và được đóng gói chung với bộ xử lý, nên không cắm vào khe DIMM như DDR; nó đắt và chỉ có ý nghĩa với những chip được thiết kế để dùng nó. Hiểu lầm thứ sáu: Optane vẫn mua được và là tương lai. Intel đã công bố ngừng kinh doanh Optane và ghi giảm 559 triệu USD tồn kho, nêu lý do là xu hướng chuyển sang CXL. Hai hiểu lầm này cùng một gốc: nhìn thông số hấp dẫn mà quên rằng sản phẩm phải khớp với hệ thống và thị trường. Chỗ dễ nhầm: HBM vẫn rất quan trọng, chỉ là không thay thế DIMM."
+      "notes": "Hiểu lầm thứ năm: HBM là RAM tốt hơn nên cứ thay vào là xong. Thực ra HBM nằm cạnh GPU trên interposer và được đóng gói chung với bộ xử lý, nên không cắm vào khe DIMM như DDR; nó đắt và chỉ có ý nghĩa với những chip được thiết kế để dùng nó. Hiểu lầm thứ sáu: Optane vẫn mua được và là tương lai. Intel đã công bố ngừng kinh doanh Optane và ghi giảm 559 triệu USD tồn kho, nêu lý do là xu hướng chuyển sang CXL. Hai hiểu lầm này cùng một gốc: nhìn thông số hấp dẫn mà quên rằng sản phẩm phải khớp với hệ thống và thị trường. Chỗ dễ nhầm: HBM vẫn rất quan trọng, chỉ là không thay thế DIMM.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Năm điều cần nhớ và độ chắc chắn của số liệu",
@@ -997,7 +1054,8 @@
       ],
       "layout": "layers",
       "tone": "light",
-      "notes": "Năm điều cần nhớ gói lại cả bài. Một: bộ nhớ bay hơi và lưu trữ không bay hơi là hai nhóm khác nhau. Hai: kim tự tháp đổi tốc độ lấy dung lượng và giá. Ba: HDD rẻ và lớn nhưng chậm vì phải dò track và chờ đĩa quay. Bốn: SSD nhanh vì không cơ học, còn loại cell từ SLC đến QLC và giao diện SATA hay NVMe quyết định giá, độ bền và tốc độ. Năm: HBM nhanh nhờ xếp chồng die, nối TSV và nằm sát GPU. Về độ chắc chắn: độ trễ cache, DRAM, SSD, HDD là bậc độ lớn không kèm nguồn; giá lấy từ trang theo dõi thứ cấp và biến động mạnh; độ bền QLC, số tầng 3D NAND của Samsung và Micron, tốc độ tối đa DDR5, GDDR7, HBM2e và độ trễ CXL chưa có nguồn nên bài không nêu số; tình trạng sẵn có của ổ 40 TB cuối 2026 chưa kiểm."
+      "notes": "Năm điều cần nhớ gói lại cả bài. Một: bộ nhớ bay hơi và lưu trữ không bay hơi là hai nhóm khác nhau. Hai: kim tự tháp đổi tốc độ lấy dung lượng và giá. Ba: HDD rẻ và lớn nhưng chậm vì phải dò track và chờ đĩa quay. Bốn: SSD nhanh vì không cơ học, còn loại cell từ SLC đến QLC và giao diện SATA hay NVMe quyết định giá, độ bền và tốc độ. Năm: HBM nhanh nhờ xếp chồng die, nối TSV và nằm sát GPU. Về độ chắc chắn: độ trễ cache, DRAM, SSD, HDD là bậc độ lớn không kèm nguồn; giá lấy từ trang theo dõi thứ cấp và biến động mạnh; độ bền QLC, số tầng 3D NAND của Samsung và Micron, tốc độ tối đa DDR5, GDDR7, HBM2e và độ trễ CXL chưa có nguồn nên bài không nêu số; tình trạng sẵn có của ổ 40 TB cuối 2026 chưa kiểm.",
+      "chapter": "So sánh và ghi nhớ"
     },
     {
       "title": "Nguồn tham khảo (1/2)",
@@ -1025,7 +1083,8 @@
       ],
       "layout": "references",
       "tone": "dark",
-      "notes": "Danh sách nguồn, mỗi thẻ là liên kết bấm được tới trang chứa điều bài dựa vào."
+      "notes": "Danh sách nguồn, mỗi thẻ là liên kết bấm được tới trang chứa điều bài dựa vào.",
+      "chapter": "Nguồn tham khảo"
     },
     {
       "title": "Nguồn tham khảo (2/2)",
@@ -1053,7 +1112,8 @@
       ],
       "layout": "references",
       "tone": "dark",
-      "notes": "Danh sách nguồn, phần hai."
+      "notes": "Danh sách nguồn, phần hai.",
+      "chapter": "Nguồn tham khảo"
     }
   ]
 }

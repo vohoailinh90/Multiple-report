@@ -9,17 +9,17 @@
   "Não trái, não phải"
  ],
  "big": {
-  "37": "1.011"
+  "38": "1.011"
  },
  "actors": {},
  "mark": {
-  "1": "đúng hay sai",
-  "17": "ai làm gì lúc nào",
-  "35": "bên đối diện"
+  "2": "đúng hay sai",
+  "18": "ai làm gì lúc nào",
+  "36": "bên đối diện"
  },
  "center": {
-  "15": "Vỏ não trước trán",
-  "33": "Thể chai"
+  "16": "Vỏ não trước trán",
+  "34": "Thể chai"
  },
  "concepts": [
   "vỏ não trước trán",

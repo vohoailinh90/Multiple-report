@@ -1,0 +1,570 @@
+{
+ "title": "J04 · Personal Unconscious",
+ "subtitle": "Vô thức cá nhân và complexes",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/04-personal-unconscious.md",
+ "accent": "indigo",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "J04 · VÔ THỨC CÁ NHÂN",
+   "title": "Vô thức cá nhân\nkhông chỉ là điều bị dồn nén",
+   "body": "Jung tách một lớp vô thức cá nhân ra khỏi lập luận của Freud, và khái niệm complex ra đời từ một thí nghiệm liên tưởng từ. Bài học đọc cả hai văn bản gốc, rồi hỏi nghiên cứu hiện đại kiểm được gì. Complex là thuật ngữ lý thuyết, không phải nhãn chẩn đoán.",
+   "nodes": [
+    [
+     "Văn bản 1910",
+     "Thí nghiệm liên tưởng từ"
+    ],
+    [
+     "Văn bản 1916",
+     "Vô thức cá nhân"
+    ]
+   ],
+   "source": "J04 · Câu hỏi trung tâm",
+   "right": "TỪ PHÒNG THÍ NGHIỆM ĐẾN LÝ THUYẾT"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "title": "Đọc văn bản, kiểm cách suy luận",
+   "body": "Bạn cần giải thích vô thức cá nhân theo văn bản 1916, mô tả thí nghiệm liên tưởng từ và giới hạn Jung tự nêu, định nghĩa complex, phân tích một tình huống bằng nhiều giả thuyết, và phân biệt vô thức cá nhân với vô thức nhận thức và với dồn nén.",
+   "nodes": [
+    [
+     "01 · Giải thích",
+     "Vô thức cá nhân 1916"
+    ],
+    [
+     "02 · Mô tả",
+     "Thí nghiệm và giới hạn"
+    ],
+    [
+     "03 · Đánh giá",
+     "Bằng chứng hiện đại"
+    ]
+   ],
+   "arrows": "solid",
+   "source": "J04 · A"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Thí nghiệm liên tưởng từ, 1910",
+   "body": "Trong bài giảng ở Clark University, Jung dùng một công thức 100 từ kích thích. Người tham gia được dặn trả lời nhanh nhất bằng từ đầu tiên hiện ra; thời gian phản ứng ghi theo đơn vị 0,2 giây. Ông nhận xét việc tưởng dễ này thường không diễn ra trơn tru.",
+   "nodes": [
+    [
+     "100 từ kích thích",
+     "Trả lời từ đầu tiên hiện ra"
+    ],
+    [
+     "Thời gian phản ứng",
+     "Đơn vị 0,2 giây"
+    ]
+   ],
+   "source": "[S1] ch. II, tr. 94–99"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Chậm vì cảm xúc, không vì trí tuệ",
+   "body": "Jung viết nhiều người phản ứng chậm là người rất thông minh và nói trôi chảy, nên ông tìm nguyên nhân ở cảm xúc. Từ kích thích gợi cả một tình huống, và cách người ta đáp lại là cách họ thích nghi với tình huống ấy. Ví dụ của ông: từ “cô dâu” với một cô gái trẻ.",
+   "nodes": [
+    [
+     "Không phải",
+     "Trí tuệ kém"
+    ],
+    [
+     "Mà là",
+     "Cảm xúc gắn với từ"
+    ]
+   ],
+   "source": "[S1] ch. II, tr. 99–102"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Chỉ báo complex và giới hạn tự nêu",
+   "body": "Jung liệt kê các dấu hiệu: phản ứng chậm, không phản ứng, đáp nhiều từ hoặc bình luận, lặp lại, và quên khi thử lại. Chính ông viết rằng quy tắc liên hệ rối loạn phản ứng với điều bệnh lý “không phải không có ngoại lệ”, nhưng ở tr. 113 lại nói gần như chắc chắn có complex ẩn.",
+   "nodes": [
+    [
+     "Các chỉ báo",
+     "Chậm, lặp, bình luận, quên"
+    ],
+    [
+     "Hai lập trường",
+     "Có ngoại lệ, và gần như chắc chắn"
+    ]
+   ],
+   "source": "[S1] tr. 102–106, 113, 116–117"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "title": "Vô thức cá nhân trong bài giảng 1916",
+   "body": "Chương “The Concept of the Unconscious” là bài giảng đầu năm 1916 trước Zürich Union for Analytical Psychology, theo lời tựa tác giả bản in thứ hai. Jung mở đầu bằng việc nhắc lại sự đoạn tuyệt với trường phái Vienna, rồi mô tả lý thuyết Freud theo cách của ông.",
+   "nodes": [
+    [
+     "Bối cảnh",
+     "Sau khi tách khỏi Freud"
+    ],
+    [
+     "Cách tóm Freud",
+     "Của Jung, không trung lập"
+    ]
+   ],
+   "source": "[S1] Preface bản 2; ch. XV, tr. 445–447"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Jung tóm lý thuyết Freud thế nào",
+   "body": "Jung viết theo Freud, vô thức chỉ chứa ước muốn thời thơ ấu bị dồn nén, nên về cơ bản là cá nhân. Đây là cách tóm của một người đã tách khỏi Freud, không nên coi là mô tả đầy đủ Freud; hãy đối chiếu với F02 và F05 trước khi chấp nhận câu đó.",
+   "nodes": [
+    [
+     "Theo Jung",
+     "Chỉ cái bị dồn nén"
+    ],
+    [
+     "Cẩn trọng",
+     "Đối chiếu F02, F05"
+    ]
+   ],
+   "source": "[S1] ch. XV, tr. 445–446"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều Jung bổ sung",
+   "body": "Jung đề nghị đưa vào vô thức cả mọi chất liệu chưa vượt ngưỡng ý thức. Lập luận: nếu mọi sự quên đều do dồn nén thì gỡ dồn nén sẽ cho trí nhớ không quên gì, và người trí nhớ tốt sẽ không bị loạn thần kinh. Ông nói dồn nén có thật nhưng là hiện tượng đặc biệt.",
+   "nodes": [
+    [
+     "Dồn nén",
+     "Có thật, nhưng đặc biệt"
+    ],
+    [
+     "Thêm vào",
+     "Chưa lên ngưỡng, dưới ngưỡng"
+    ]
+   ],
+   "source": "[S1] ch. XV, tr. 446"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Định nghĩa vô thức cá nhân",
+   "body": "Vô thức cá nhân gồm chất liệu thu được trong đời cá nhân, và là yếu tố tâm lý cũng có thể là ý thức. Ví dụ ông đưa: yếu tố không tương hợp có thể bị dồn nén rồi đưa lên ý thức. Ta nhận ra chúng vì tác dụng hoặc nguồn gốc nằm trong quá khứ cá nhân.",
+   "nodes": [
+    [
+     "Thu được",
+     "Trong đời cá nhân"
+    ],
+    [
+     "Có thể là ý thức",
+     "Nếu biết và nhận ra"
+    ]
+   ],
+   "source": "[S1] ch. XV, tr. 448–449, 452, 457"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Complex: cụm nội dung mang cảm xúc",
+   "body": "Định nghĩa về sau của Jung, qua trích dẫn của Krieger: hình ảnh một tình huống tâm lý, nhấn mạnh mạnh về cảm xúc, không hợp với thái độ thường lệ của ý thức. Bài này chưa đọc CW 8. Krieger là nhà phân tích trong trường phái, nên đây là góc nhìn nội bộ.",
+   "nodes": [
+    [
+     "Định nghĩa",
+     "Qua trích dẫn gián tiếp"
+    ],
+    [
+     "Nguồn",
+     "Nội bộ trường phái"
+    ]
+   ],
+   "source": "[S2] IAAP · chưa đối chiếu CW 8"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "title": "Điều khái niệm không cho phép suy ra",
+   "body": "Vô thức cá nhân không đồng nghĩa dồn nén; quên không đồng nghĩa dồn nén, chính Jung nói vậy. Complex không tự đồng nghĩa bệnh. Phản ứng chậm không đồng nghĩa có complex. Vô thức cá nhân cũng không phải lớp duy nhất trong hệ thống Jung, nhưng lớp thứ hai chưa được xác nhận thực nghiệm.",
+   "nodes": [
+    [
+     "Không là",
+     "Dồn nén, bệnh, hay bằng chứng"
+    ],
+    [
+     "Xem J05",
+     "Lớp thứ hai"
+    ]
+   ],
+   "source": "[S1] tr. 102, 113, 446 · [S2]"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Từ trải nghiệm tới cụm cảm xúc",
+   "body": "Chuỗi tái dựng từ văn bản: một trải nghiệm có sức nặng cảm xúc để lại dấu vết; dấu vết tụ thành một cụm gọi là complex; cụm không hợp với thái độ ý thức thường lệ nên khó nhập vào ý thức, vì dồn nén hoặc chỉ vì chưa lên ngưỡng. Đây không phải cơ chế đã xác nhận.",
+   "nodes": [
+    [
+     "Trải nghiệm",
+     "Sức nặng cảm xúc"
+    ],
+    [
+     "Cụm",
+     "Complex"
+    ],
+    [
+     "Khó vào ý thức",
+     "Dồn nén hoặc chưa lên ngưỡng"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "chuỗi giả thuyết",
+   "source": "[S1] tr. 446–449 · [S2]"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "title": "Từ từ gợi tới biểu hiện, và chỗ kiểm",
+   "body": "Một từ gợi kích hoạt cụm, rồi biểu hiện quan sát được: phản ứng chậm, lặp, bình luận, quên khi thử lại; theo Jung, người ta thường không nhận ra mối liên hệ. Chỗ kiểm: phản ứng chậm phải tập trung ở những từ ấy và tái lập, không phải do tần suất từ hay ngẫu nhiên.",
+   "nodes": [
+    [
+     "Từ gợi",
+     "Kích hoạt cụm"
+    ],
+    [
+     "Biểu hiện",
+     "Chậm, lặp, quên"
+    ],
+    [
+     "Chỗ kiểm",
+     "Tái lập, loại nhiễu"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "giả thuyết",
+   "source": "[S1] tr. 99–106, 113, 116–117"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 1: quên tên một người",
+   "body": "Thảo không nhớ nổi tên một đồng nghiệp cũ dù đã làm chung hai năm. Ví dụ gần với điều Jung cảnh báo: không nên giải thích mọi sự quên bằng dồn nén. Giải thích khác: thiếu gợi ý, tuổi, mệt, nhiều cái tên giống nhau. Dồn nén không nên là giả thuyết đầu tiên.",
+   "nodes": [
+    [
+     "Đọc theo Jung",
+     "Không phải mọi sự quên"
+    ],
+    [
+     "Giải thích thay thế",
+     "Thiếu gợi ý, mệt, gây nhiễu"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S1] tr. 446"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 2: phản ứng quá mức",
+   "body": "Bách rất dễ cáu mỗi khi ai nhắc đến cân nặng của anh. Giả thuyết complex: chủ đề kích hoạt cụm cảm xúc cũ. Giải thích khác: anh từng bị trêu thật nhiều, anh đang lo về sức khỏe, hoặc bị nhắc quá nhiều. Đừng bỏ qua trải nghiệm có ý thức, phần dễ kiểm nhất.",
+   "nodes": [
+    [
+     "Đọc theo mô hình",
+     "Cụm cảm xúc cũ"
+    ],
+    [
+     "Giải thích thay thế",
+     "Từng bị trêu, lo sức khỏe"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S1] ch. II"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "title": "Ví dụ 3: mùi hương gợi cảm xúc",
+   "body": "Hiền buồn bất chợt trong hiệu sách vì mùi giấy cũ, nhưng không biết vì sao. Jung xếp những thứ có ảnh hưởng mà không biết nguồn vào vô thức cá nhân. Giải thích khác: một ký ức ngầm bình thường, tâm trạng nền, hoặc một chuyện hôm nay chưa được liên hệ. Có thể không có complex nào.",
+   "nodes": [
+    [
+     "Đọc theo Jung",
+     "Chất liệu chưa lên ý thức"
+    ],
+    [
+     "Giải thích thay thế",
+     "Ký ức ngầm, tâm trạng nền"
+    ]
+   ],
+   "source": "Ví dụ giả định · [S1] tr. 446"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Ca giả định: buổi thực hành của Quân",
+   "body": "Trong buổi thực hành môn tâm lý có giảng viên giám sát, một bạn đáp chậm gấp đôi ở năm trong 50 từ, trong đó có “mẹ”, “thi”, “nợ”. Quân nói bạn ấy có complex về gia đình. Quan sát là năm phản ứng chậm; complex gia đình là diễn giải.",
+   "nodes": [
+    [
+     "Quan sát",
+     "Năm phản ứng chậm"
+    ],
+    [
+     "Nhãn",
+     "Complex gia đình, chưa phải đo"
+    ]
+   ],
+   "source": "Ca giả định do bài thiết kế"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "title": "Bốn lời giải và cách kiểm",
+   "body": "Từ ít quen hoặc ít gợi liên tưởng; căng thẳng thi cử hiện tại; ngại ở trước người khác hoặc thiếu ngủ; dao động ngẫu nhiên. Cách kiểm: từ đối chứng khớp tần suất và độ dài, thử lại hôm khác, xem có tập trung ở một chủ đề không. Không nói điều này với bạn học.",
+   "nodes": [
+    [
+     "Từ lạ, nhiễu",
+     "Tần suất, độ dài"
+    ],
+    [
+     "Căng thẳng hiện tại",
+     "Kỳ thi"
+    ],
+    [
+     "Ngẫu nhiên",
+     "Năm trong 50 từ"
+    ]
+   ],
+   "arrows": "dash",
+   "hyp": "các lời giải cạnh tranh",
+   "source": "Ca giả định · [S1] ch. II · [S3]"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Chỉ báo phản ứng trong nghiên cứu về sau",
+   "body": "Ivanouw (2006): trên 326 người, các từ gợi cảm xúc cho phản ứng kéo dài đều đặn hơn và không phụ thuộc tần suất từ. Upmanyu và cộng sự (1996): 250 sinh viên nam Ấn Độ, phản ứng chậm và lặp từ liên hệ với tính đa nghi. Phản ứng chậm là thật nhưng không đặc hiệu.",
+   "nodes": [
+    [
+     "Có phụ thuộc từ",
+     "Ivanouw 2006"
+    ],
+    [
+     "Không đặc hiệu",
+     "Upmanyu 1996"
+    ]
+   ],
+   "source": "[S3] · [S4] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Phát hiện thông tin bị che giấu",
+   "body": "Phân tích gộp về Concealed Information Test: kích thước hiệu ứng trung bình d* khoảng 1,55 cho điện da, 1,11 nhịp thở, 0,89 nhịp tim, 1,89 sóng P300, trong các nghiên cứu phòng thí nghiệm. Bài này không khẳng định phương pháp kế thừa hay xác nhận lý thuyết complex.",
+   "nodes": [
+    [
+     "Đo sinh lý",
+     "Hiệu ứng lớn trong phòng thí nghiệm"
+    ],
+    [
+     "Không suy ra",
+     "Xác nhận complex"
+    ]
+   ],
+   "source": "[S5] Abstract"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "title": "Vô thức nhận thức và quên có điều khiển",
+   "body": "Bargh và Morsella (2008): vai trò lịch sử của Freud không thể nghi ngờ, nhưng các phép kiểm thực nghiệm không thân thiện với chi tiết mô hình Freud. Anderson và Green (2001): kiểm soát điều hành có thể ngăn ký ức vào ý thức và làm nhớ lại khó hơn. Cả hai không kiểm complex.",
+   "nodes": [
+    [
+     "Bargh và Morsella",
+     "Vô thức nhận thức"
+    ],
+    [
+     "Anderson và Green",
+     "Quên có điều khiển"
+    ]
+   ],
+   "source": "[S6] · [S7]"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Tự phản tư: điều gì khiến tôi phản ứng mạnh hơn tình huống đòi hỏi, và tôi kể được ít nhất hai cách giải thích không? Giao tiếp: mô tả điều quan sát và hỏi mở. Thí nghiệm liên tưởng từ chỉ nên dạy như bài tập lịch sử thiết kế phép đo, không dùng đánh giá người thật.",
+   "nodes": [
+    [
+     "Tự hỏi",
+     "Hai cách giải thích"
+    ],
+    [
+     "Với người khác",
+     "Quan sát và hỏi mở"
+    ]
+   ],
+   "source": "Ứng dụng đề xuất của bài · chưa kiểm nghiệm"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "title": "Các lớp chất liệu và phản ứng quan sát được",
+   "body": "Ba cột nối từ trái sang phải: các loại chất liệu của vô thức cá nhân, complex vẽ nét đứt như giả thuyết, và các phản ứng quan sát được. Dải dưới nhắc rằng cùng phản ứng còn có giải thích khác. Sơ đồ là bản đồ khái niệm, không phải vị trí não.",
+   "nodes": [
+    [
+     "Vô thức cá nhân (1916)",
+     "Dồn nén · chưa lên ngưỡng · dưới ngưỡng"
+    ],
+    [
+     "Complex · giả thuyết",
+     "Không hợp thái độ ý thức"
+    ],
+    [
+     "Quan sát được",
+     "Chậm, lặp, bình luận, quên"
+    ],
+    [
+     "Giải thích thay thế",
+     "Từ lạ · căng thẳng hiện tại · ngẫu nhiên · đa nghi"
+    ]
+   ],
+   "pos": [
+    [
+     80,
+     300,
+     500,
+     170,
+     0
+    ],
+    [
+     700,
+     300,
+     500,
+     170,
+     1
+    ],
+    [
+     1320,
+     300,
+     520,
+     170,
+     2
+    ],
+    [
+     700,
+     520,
+     1140,
+     140,
+     0
+    ]
+   ],
+   "edges": [
+    [
+     0,
+     1,
+     1
+    ],
+    [
+     1,
+     2,
+     1
+    ]
+   ],
+   "source": "[S1] · caption J04 · mục I"
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "1. Vô thức cá nhân là chất liệu thu được trong đời, về nguyên tắc có thể thành ý thức.\n2. Jung nói vô thức không chỉ chứa cái bị dồn nén.\n3. Quên không đồng nghĩa dồn nén.\n4. Complex là cụm nội dung mang cảm xúc, ra đời từ thí nghiệm liên tưởng từ.\n5. Chính Jung nêu quy tắc về chỉ báo có ngoại lệ.\n6. Phản ứng chậm là thật nhưng không đặc hiệu.\n7. Vô thức nhận thức hiện đại không xác nhận complex.\n8. Complex không phải nhãn chẩn đoán.",
+   "nodes": [],
+   "source": "J04 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 1–3: dồn nén, quên, phản ứng chậm",
+   "body": "Câu 1: vô thức cá nhân của Jung có đồng nghĩa dồn nén không? Không; dồn nén chỉ là phần đặc biệt. Câu 2: vì sao mọi sự quên không thể do dồn nén? Nếu thế thì gỡ dồn nén sẽ cho trí nhớ không quên gì. Câu 3: năm phản ứng chậm có chứng tỏ complex không? Không, cần đối chứng và thử lại.",
+   "nodes": [
+    [
+     "Câu 1–2",
+     "Dồn nén và quên"
+    ],
+    [
+     "Câu 3",
+     "Cần đối chứng"
+    ]
+   ],
+   "source": "[S1] tr. 446 · [S4] · J04 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "title": "Câu 4–5: hai khái niệm và ca của Quân",
+   "body": "Câu 4: vô thức cá nhân của Jung và vô thức nhận thức hiện đại có là một không? Không; tương đồng bề mặt không là xác nhận. Câu 5: với năm phản ứng chậm của Quân, nên đối chiếu từ trung tính khớp tần suất, thử lại, ghi trạng thái; không gán complex và không nói điều đó với bạn học.",
+   "nodes": [
+    [
+     "Câu 4",
+     "Hai khái niệm khác nhau"
+    ],
+    [
+     "Câu 5",
+     "Quan sát, không nhãn"
+    ]
+   ],
+   "source": "[S6] · J04 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn gốc đã đọc đúng phần",
+   "body": "S1: Jung, Collected Papers on Analytical Psychology, bản Long 1920, Gutenberg; ch. II tr. 94–118 và ch. XV tr. 445–457. S2: Krieger, The theory of complexes, IAAP, đọc toàn bài, nguồn nội bộ trường phái; CW 8 §201 chỉ qua trích dẫn, chưa đối chiếu.",
+   "nodes": [
+    [
+     "S1",
+     "gutenberg.org #48225"
+    ],
+    [
+     "S2",
+     "iaap.org · nội bộ trường phái"
+    ]
+   ],
+   "source": "J04 · L · nguồn đầy đủ trong bài"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "title": "Nguồn hiện đại và mức truy cập",
+   "body": "S3 Ivanouw 2006, S4 Upmanyu 1996, S5 Meijer 2014, S7 Anderson và Green 2001: abstract. S6 Bargh và Morsella 2008: phần thân bản tác giả. Chưa nguồn nào được đọc toàn văn; CW 8, CW 9i và Jung Lexicon không được dùng.",
+   "nodes": [
+    [
+     "S3 · S4 · S5 · S7",
+     "Abstract"
+    ],
+    [
+     "S6",
+     "Phần thân bản tác giả"
+    ]
+   ],
+   "source": "J04 · L · mức truy cập"
+  },
+  {
+   "layout": "closing",
+   "section": "J04 · KẾT",
+   "title": "Hỏi về nguyên nhân,\nđừng gán complex",
+   "body": "Phản ứng chậm là một quan sát; complex là một giả thuyết. Hiểu vô thức cá nhân theo đúng văn bản giúp tránh coi mọi sự quên là dồn nén. Đọc tiếp J05 về vô thức tập thể. Bản nháp chờ phản biện học thuật độc lập.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "J01 · J02 · J03"
+    ],
+    [
+     "Đọc tiếp",
+     "J05 · J19"
+    ]
+   ],
+   "source": "J04 · drafted · review pending",
+   "right": "QUAN SÁT, RỒI MỚI GIẢ THUYẾT"
+  }
+ ]
+}

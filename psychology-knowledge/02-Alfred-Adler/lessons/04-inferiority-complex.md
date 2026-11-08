@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-08
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # A04 — Inferiority Complex: mẫu hình nản chí, không phải nhãn chẩn đoán
 
@@ -172,7 +172,7 @@ Moritz, Werner và von Collani (2006) nhắc rằng trong lý thuyết về hoan
 
 ## I. Visual Explanation — Thang từ cảm giác đến mẫu hình
 
-**Trạng thái: not-started.** Chưa có canvas Moda và chưa có bản xuất cho A04; không có hình giả. Chưa viết kịch bản slide. Nghiên cứu và claim ledger ở [references/a04-research.md](../references/a04-research.md).
+**Trạng thái: exported.** Đã dựng [canvas Moda 29 trang](https://moda.app/canvas/aaffd91b-8e00-4a4a-acb2-b43008c88b73?source=agent) và lưu bản [PowerPoint](../visuals/a04.pptx) (chữ sửa được; bản gói miễn phí mang dấu moda.app). [Kịch bản slide](../moda/a04-slides.json) · [Metadata và giới hạn kiểm tra](../moda/a04-report-v1.json) · [Nguồn trực quan](../references/a04-visual-sources.md) · [Nghiên cứu](../references/a04-research.md). Đã kiểm render bằng LibreOffice (đủ 29 trang, thumbnail); chưa kiểm bằng PowerPoint hay iPhone. Không có ảnh bên thứ ba. Hình chính nằm ở một trang riêng của deck; phần brief dưới đây là thiết kế gốc, bản dựng có thể gọn hơn.
 
 **Brief cho hình chính:** một thang ba bậc từ trái sang phải: "Cảm giác thấp kém (chung, tr. 70)" → "Cảm giác bị cường độ hóa, chưa giải quyết (tr. 70, 75)" → "Mẫu hình cố định gọi là complex (tr. 75, 174, 224)". Nhãn dưới bậc 2–3: "ranh giới là suy luận của bài, không phải tiêu chí của Adler". Phía trên cả ba: ô "Diễn giải của người trong cuộc (tr. 74–75)" với mũi tên nét đứt gắn nhãn "giả thuyết". Một dải dưới: ba hành vi quan sát được (né, khoe, rút lui) và cạnh mỗi hành vi "còn giải thích khác". Accent Teal; không dùng thang màu đỏ–xanh kiểu bệnh/khỏe.
 

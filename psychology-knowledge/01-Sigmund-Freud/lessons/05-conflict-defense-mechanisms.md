@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-08
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # F05 — Xung đột nội tâm và cơ chế phòng vệ
 
@@ -165,7 +165,7 @@ Bargh và Morsella (2008) viết rằng tầm quan trọng lịch sử của Fre
 
 ## I. Visual Explanation — Sơ đồ xung đột, phòng vệ, dung hòa
 
-**Trạng thái: not-started.** Chưa có canvas Moda và chưa có bản xuất cho F05; không có hình giả. Chưa viết kịch bản slide. Nghiên cứu và claim ledger ở [references/f05-research.md](../references/f05-research.md).
+**Trạng thái: exported.** Đã dựng [canvas Moda 29 trang](https://moda.app/canvas/887fbc61-76b6-414e-bf87-0af215de2057?source=agent) và lưu bản [PowerPoint](../visuals/f05.pptx) (chữ sửa được; bản gói miễn phí mang dấu moda.app). [Kịch bản slide](../moda/f05-slides.json) · [Metadata và giới hạn kiểm tra](../moda/f05-report-v1.json) · [Nguồn trực quan](../references/f05-visual-sources.md) · [Nghiên cứu](../references/f05-research.md). Đã kiểm render bằng LibreOffice (đủ 29 trang, thumbnail); chưa kiểm bằng PowerPoint hay iPhone. Không có ảnh bên thứ ba. Hình chính nằm ở một trang riêng của deck; phần brief dưới đây là thiết kế gốc, bản dựng có thể gọn hơn.
 
 **Brief cho hình chính:** một sơ đồ từ trái sang phải. Ô "Đòi hỏi bản năng (giả thuyết)" và ô "Đòi hỏi lương tâm/thực tại" cùng đi vào ô "Cái tôi: xung đột". Từ đó ba nhánh nét đứt gắn nhãn "giả thuyết": "Phòng vệ kiểu dồn nén", "Phòng vệ kiểu cô lập/xóa bỏ", "Hình thành phản ứng". Một ô riêng bên phải: "Dung hòa: triệu chứng/tính cách" kèm nhãn "chỉ một lớp triệu chứng (S2, III)". Một dải dưới cùng: "Hành vi quan sát được" với ba giải thích thay thế. Dùng accent Burgundy; không dùng hình não; không dùng độ dày mũi tên làm số đo.
 

@@ -1,0 +1,67 @@
+{
+  "lesson_id": "J04",
+  "title": "J04 · Personal Unconscious",
+  "version": 1,
+  "produced_at": "2026-11-08",
+  "producer": "phiên Claude chính",
+  "deck_status": "exported-native-pptx",
+  "academic_review_status": "pending",
+  "visual_status": "exported",
+  "canvas_ref": "cvs_5SV0GFYKJS91VAYYBX5MYF0K4J",
+  "canvas_url": "https://moda.app/canvas/b9d820ff-4e59-4876-af79-7d2d3cf04c92?source=agent",
+  "page_count": 29,
+  "source_script": "j04-slides.json",
+  "source_lesson": "../lessons/04-personal-unconscious.md",
+  "reference_style": "F01 v4 (khung thẻ, mũi tên neo, kicker emoji); màu theo DESIGN-SYSTEM",
+  "brand_kit_id": null,
+  "brand_kit_note": "Không gắn brand kit: repo đã chọn dùng bảng màu riêng của từng nhà (COORDINATION/DESIGN-SYSTEM); canvas mở trong Moda với ô brand kit trống.",
+  "design_system": {
+    "page_size": [
+      1920,
+      1080
+    ],
+    "fonts": {
+      "heading": "Bricolage Grotesque",
+      "body": "Be Vietnam Pro"
+    },
+    "accent": "indigo #493C89",
+    "palette": {
+      "dark": "#1B1830",
+      "paper": "#F4F2F8",
+      "rose": "#D9D4EE"
+    },
+    "emoji_headers": "A–L bằng ký tự Unicode",
+    "icons": "không dùng; biểu tượng sách ở góc phải đã gỡ để đồng nhất"
+  },
+  "construction": "toàn bộ bằng hai chương trình canvas_edit (trang 1–15 và 16–29)",
+  "exports": {
+    "pptx": {
+      "path": "../visuals/j04.pptx",
+      "format": "pptx",
+      "status": "native-moda-export",
+      "page_count": 29,
+      "sha256": "92f9581d8a9a7b5aceff97cc23744019cf5ffe19c1269424042cb0c8f8da54b0",
+      "size_bytes": 308862,
+      "warnings": [],
+      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF."
+    }
+  },
+  "verification": {
+    "pptx_integrity": "zip hợp lệ, đủ 29 slide; có phông Be Vietnam Pro và Bricolage Grotesque",
+    "render_check": "Mở bằng LibreOffice, chuyển PDF đủ 29 trang, ghép thành ba tờ thumbnail (36 dpi) và xem toàn bộ 29 trang; trang sơ đồ xem ở độ phân giải cao hơn",
+    "moda_screenshots": "trang 1, 23, 28 xem ảnh chụp Moda từng trang",
+    "limits": "Thumbnail độ phân giải thấp không bắt được lỗi chữ nhỏ bị cắt; chưa mở bằng PowerPoint hay iPhone; PPTX native của các deck khác trong series từng bị báo ẩn chữ và đổi phông trên iPhone nên cần kiểm riêng."
+  },
+  "adjustments": "Kịch bản ban đầu có 30 slide; bỏ một slide mở đầu mục G để vừa 29 trang đã tạo.",
+  "excluded_assets": [
+    {
+      "kind": "ảnh tư liệu, chân dung, stock",
+      "reason": "Không có ảnh nào được kiểm giấy phép; deck chỉ dùng hình khối và sơ đồ vector tự vẽ"
+    }
+  ],
+  "limitations": [
+    "Nội dung học thuật chưa có phản biện độc lập (xem research ledger).",
+    "Mỗi slide mang một đoạn body 40–65 chữ; không có ghi chú người thuyết trình.",
+    "Kịch bản slide rút từ bài; mọi nguồn và mức truy cập nằm trong mục L và file research."
+  ]
+}

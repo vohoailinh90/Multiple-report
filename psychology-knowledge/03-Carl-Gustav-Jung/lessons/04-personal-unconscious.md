@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-08
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # J04 — Personal Unconscious: vô thức cá nhân và complexes
 
@@ -175,7 +175,7 @@ Anderson và Green (2001) báo cáo rằng người ta có thể dùng kiểm so
 
 ## I. Visual Explanation — Các lớp nội dung và đường đến phản ứng quan sát được
 
-**Trạng thái: not-started.** Chưa có canvas Moda và chưa có bản xuất cho J04; không có hình giả. Chưa viết kịch bản slide. Nghiên cứu và claim ledger ở [references/j04-research.md](../references/j04-research.md).
+**Trạng thái: exported.** Đã dựng [canvas Moda 29 trang](https://moda.app/canvas/b9d820ff-4e59-4876-af79-7d2d3cf04c92?source=agent) và lưu bản [PowerPoint](../visuals/j04.pptx) (chữ sửa được; bản gói miễn phí mang dấu moda.app). [Kịch bản slide](../moda/j04-slides.json) · [Metadata và giới hạn kiểm tra](../moda/j04-report-v1.json) · [Nguồn trực quan](../references/j04-visual-sources.md) · [Nghiên cứu](../references/j04-research.md). Đã kiểm render bằng LibreOffice (đủ 29 trang, thumbnail); chưa kiểm bằng PowerPoint hay iPhone. Không có ảnh bên thứ ba. Hình chính nằm ở một trang riêng của deck; phần brief dưới đây là thiết kế gốc, bản dựng có thể gọn hơn.
 
 **Brief cho hình chính:** một sơ đồ ba cột. Cột trái, "Vô thức cá nhân (Jung 1916)", gồm ba ô con: "Cái bị dồn nén (một phần)", "Chất liệu chưa lên ngưỡng ý thức", "Tri giác dưới ngưỡng". Cột giữa, "Complex (giả thuyết)": một cụm ô cảm xúc nét đứt có nhãn "không hợp thái độ ý thức thường lệ". Cột phải, "Điều quan sát được": "phản ứng chậm, lặp, bình luận, quên khi thử lại". Mũi tên nét đứt từ cột giữa sang cột phải, gắn nhãn "giả thuyết"; bên dưới, dải "giải thích thay thế: từ lạ, căng thẳng hiện tại, ngẫu nhiên, đa nghi/lo âu". Một ô nhỏ cạnh bên: "xem J05 cho lớp thứ hai". Accent Indigo; không dùng hình não; không đặt vô thức "bên dưới" như một tầng vật lý.
 

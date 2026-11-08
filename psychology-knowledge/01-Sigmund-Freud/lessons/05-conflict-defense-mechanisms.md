@@ -11,7 +11,7 @@ visual_status: exported
 
 **Câu hỏi trung tâm:** khi một người né tránh, phủ nhận hay làm ngược lại điều mình thật sự muốn, có phải họ đang "dùng cơ chế phòng vệ"? Bài này đọc khái niệm phòng vệ (defence) ngay trong hai văn bản Freud viết cách nhau ba mươi năm, rồi hỏi nghiên cứu hiện đại đã kiểm được phần nào và chưa kiểm được phần nào.
 
-Đọc trước: [F02 — ba miền truy cập](02-conscious-preconscious-unconscious.md); F03 (mô hình cấu trúc, [PR #39](https://github.com/vohoailinh90/Multiple-report/pull/39)) và F04 (hai nguyên lý, [PR #45](https://github.com/vohoailinh90/Multiple-report/pull/45)) nếu đã có trên nhánh bạn đang đọc. Đọc tiếp: F06 về dồn nén (repression) và ký ức; bài này chỉ đánh dấu ranh giới với F06, không giải trước. F16 sẽ quay lại lo âu và triệu chứng.
+Đọc trước: [F02 — ba miền truy cập](02-conscious-preconscious-unconscious.md); [F03 — mô hình cấu trúc](03-id-ego-superego.md) và [F04 — hai nguyên lý](04-pleasure-reality-principles.md). Đọc tiếp: F06 về dồn nén (repression) và ký ức; bài này chỉ đánh dấu ranh giới với F06, không giải trước. F16 sẽ quay lại lo âu và triệu chứng.
 
 ## Lưu ý
 

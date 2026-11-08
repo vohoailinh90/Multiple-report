@@ -11,7 +11,7 @@ visual_status: exported
 
 **Câu hỏi trung tâm:** khi ta quên một cái tên, giật mình trước một từ hay phản ứng quá mức với một chuyện nhỏ, có phải "vô thức" đang làm việc, và có phải đó là điều bị dồn nén? Bài này đọc cách Jung tách một lớp "vô thức cá nhân" ra khỏi lập luận của Freud, nhìn lại thí nghiệm liên tưởng từ nơi khái niệm complex ra đời, rồi hỏi nghiên cứu hiện đại kiểm được gì.
 
-Đọc trước: [J01 — cuộc đời Jung và quan hệ với Freud](01-cuoc-doi-va-quan-he-voi-freud.md); J02 (Analytical Psychology) và J03 (Conscious Ego) nếu đã có trên nhánh bạn đang đọc ([PR #44](https://github.com/vohoailinh90/Multiple-report/pull/44) cho J03). Đọc tiếp: J05 về vô thức tập thể, nơi Jung thêm một lớp thứ hai. Bài này chỉ đánh dấu ranh giới với J05, không giải trước; nó cũng chỉ mở đầu cho J19 (complexes và thí nghiệm liên tưởng từ, chi tiết hơn).
+Đọc trước: [J01 — cuộc đời Jung và quan hệ với Freud](01-cuoc-doi-va-quan-he-voi-freud.md); [J02 — Analytical Psychology](02-analytical-psychology.md) và [J03 — Conscious Ego](03-conscious-ego.md). Đọc tiếp: J05 về vô thức tập thể, nơi Jung thêm một lớp thứ hai. Bài này chỉ đánh dấu ranh giới với J05, không giải trước; nó cũng chỉ mở đầu cho J19 (complexes và thí nghiệm liên tưởng từ, chi tiết hơn).
 
 ## Lưu ý
 

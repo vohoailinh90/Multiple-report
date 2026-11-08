@@ -40,10 +40,11 @@
       "format": "pptx",
       "status": "native-moda-export",
       "page_count": 29,
-      "sha256": "879877825345f1684a258c1ecf39fc242a8607cb35ad35e881a70759177f3a3d",
-      "size_bytes": 309830,
+      "sha256": "d728ef264ba0e9e91c6b2f81a0c16525addd69dddf650b2c5eb3dca4507332ac",
+      "size_bytes": 311011,
       "warnings": [],
-      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF."
+      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF.",
+      "hyperlinks": "7 liên kết ngoài trên các slide nguồn (L), đã kiểm trong ppt/slides/_rels sau khi xuất; mỗi nguồn [Sn] có một liên kết bấm được tới URL ghi ở mục L của bài"
     }
   },
   "verification": {
@@ -52,7 +53,7 @@
     "moda_screenshots": "trang 1, 2, 12, 15, 16, 17, 18, 23, 24, 26, 27, 28, 29 xem ảnh chụp Moda từng trang",
     "limits": "Thumbnail độ phân giải thấp không bắt được lỗi chữ nhỏ bị cắt; chưa mở bằng PowerPoint hay iPhone; PPTX native của các deck khác trong series từng bị báo ẩn chữ và đổi phông trên iPhone nên cần kiểm riêng."
   },
-  "adjustments": "Slide 17 thêm hai mũi tên nét đứt và nhãn 'ba lời giải cạnh tranh'; slide 23 rút nhãn node 'Đòi hỏi lương tâm' sau khi render LibreOffice thấy nhãn dài che dòng mô tả.",
+  "adjustments": "Slide 17 thêm hai mũi tên nét đứt và nhãn 'ba lời giải cạnh tranh'; slide 23 rút nhãn node 'Đòi hỏi lương tâm' sau khi render LibreOffice thấy nhãn dài che dòng mô tả. Sau review: slide nguồn thêm liên kết bấm được cho từng nguồn, xuất lại PPTX.",
   "excluded_assets": [
     {
       "kind": "ảnh tư liệu, chân dung, stock",

@@ -40,10 +40,11 @@
       "format": "pptx",
       "status": "native-moda-export",
       "page_count": 29,
-      "sha256": "92f9581d8a9a7b5aceff97cc23744019cf5ffe19c1269424042cb0c8f8da54b0",
-      "size_bytes": 308862,
+      "sha256": "a72ee9049ffd9ff43f90c4f95b316a6e73c0c62f629f8ff32057090f2d91f11d",
+      "size_bytes": 309697,
       "warnings": [],
-      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF."
+      "notes": "Chữ là văn bản thật, sửa được. Bản xuất gói miễn phí mang dấu 'moda.app' ở góc dưới phải mỗi trang. Link tải Moda hết hạn nên không lưu; xuất lại từ canvas khi cần. Không xuất PDF.",
+      "hyperlinks": "7 liên kết ngoài trên các slide nguồn (L), đã kiểm trong ppt/slides/_rels sau khi xuất; mỗi nguồn [Sn] có một liên kết bấm được tới URL ghi ở mục L của bài"
     }
   },
   "verification": {
@@ -52,7 +53,7 @@
     "moda_screenshots": "trang 1, 23, 28 xem ảnh chụp Moda từng trang",
     "limits": "Thumbnail độ phân giải thấp không bắt được lỗi chữ nhỏ bị cắt; chưa mở bằng PowerPoint hay iPhone; PPTX native của các deck khác trong series từng bị báo ẩn chữ và đổi phông trên iPhone nên cần kiểm riêng."
   },
-  "adjustments": "Kịch bản ban đầu có 30 slide; bỏ một slide mở đầu mục G để vừa 29 trang đã tạo.",
+  "adjustments": "Kịch bản ban đầu có 30 slide; bỏ một slide mở đầu mục G để vừa 29 trang đã tạo. Sau review: slide nguồn thêm liên kết bấm được cho từng nguồn, xuất lại PPTX.",
   "excluded_assets": [
     {
       "kind": "ảnh tư liệu, chân dung, stock",

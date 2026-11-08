@@ -11,7 +11,7 @@ visual_status: exported
 
 **Câu hỏi trung tâm:** ai cũng có lúc thấy mình thua kém, vậy "mặc cảm tự ti" (inferiority complex) khác gì cảm giác thấp kém thông thường, và Adler thật sự viết gì về nó? Bài này đọc từng chỗ cụm từ xuất hiện trong một sách của Adler, rồi hỏi nghiên cứu hiện đại đo được phần nào.
 
-Đọc trước: A03, về cảm giác thấp kém (inferiority feelings), [PR #46](https://github.com/vohoailinh90/Multiple-report/pull/46) nếu chưa có trên nhánh bạn đang đọc. Đọc tiếp: A05 về nỗ lực vượt trội (striving for superiority), A06 về bù trừ và bù trừ quá mức, A07 về "superiority complex". Bài này chỉ đánh dấu ranh giới với A05–A07, không giải trước.
+Đọc trước: [A03 — cảm giác thấp kém (inferiority feelings)](03-inferiority-feelings.md). Đọc tiếp: A05 về nỗ lực vượt trội (striving for superiority), A06 về bù trừ và bù trừ quá mức, A07 về "superiority complex". Bài này chỉ đánh dấu ranh giới với A05–A07, không giải trước.
 
 ## Lưu ý
 

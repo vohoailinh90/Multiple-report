@@ -77,7 +77,9 @@ liền nhau (bài 15–20 mục `##` chỉ gom thành 5–8 chương), theo đú
 4. Ô chữ bị `text_auto_shrunk`: sửa tất cả trong một lệnh `canvas_edit` (`fontSize` cỡ đã khai, `fitHeight: true`).
 5. Xem **mọi** slide bằng `canvas_screenshot`, ba trang một lệnh; sửa chữ bị cắt, co nhỏ, chồng lên nhau.
 6. Slide nguồn phải có liên kết bấm được: sau khi xuất, `unzip -p <id>.pptx ppt/slides/_rels/slide<N>.xml.rels | grep -c hyperlink` ra bằng số nguồn.
-7. `export` dạng **PPTX** (không PNG, không PDF), tải về `lessons/<id>/<id>.pptx`, rồi
+7. `export` dạng **PPTX** (không PNG, không PDF), tải về `lessons/<id>/<id>.pptx`, rồi chạy `python3 scripts/pptx_fonts.py lessons/<id>/<id>.pptx`:
+   Moda thay Arial bằng Inter trên canvas (cảnh báo `font_substituted`) và nhúng Inter vào file; PowerPoint hiển thị sai dấu với font nhúng đó, nên script
+   đổi font chữ thân về Arial (SemiBold/ExtraBold thành Arial đậm), tiêu đề giữ Bricolage Grotesque. Rồi
    `python3 scripts/decks.py record <id> --canvas <URL>`: script kiểm PPTX có đúng số slide và ghi `deck.json`.
 
 ## Hình trong bài

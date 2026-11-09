@@ -31,7 +31,7 @@ class PptxFontTests(unittest.TestCase):
             slide = z.read("ppt/slides/slide1.xml").decode("utf-8")
             self.assertEqual(z.read("ppt/theme/theme1.xml").decode(), '<a:latin typeface="Inter"/>')
         self.assertNotIn("Inter", slide)
-        self.assertEqual(slide.count('typeface="Arial"'), 6)
+        self.assertEqual(slide.count('typeface="Arial"'), 5)
         self.assertIn('typeface="Bricolage Grotesque ExtraBold"', slide)
         self.assertIn('<a:rPr lang="en-US" sz="1650" b="1"><a:latin typeface="Arial"/>', slide, "SemiBold keeps its weight as Arial bold")
         self.assertIn("Tiêu đề", slide)

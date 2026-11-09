@@ -1,11 +1,12 @@
 {
-  "slides_sha256": "3d632bb8cb9bae3bfe04071c651ebe12007178fb061ff0a6a4b0a6760d8165e0",
-  "pptx_sha256": "113a9a68d824d7c0d596a7e4d7dd5de6af729136932903d5f6ae03cee01435d8",
-  "canvas": "https://moda.app/canvas/e2682ea8-ce04-4cb7-9220-cf48a54bf5ad",
-  "built": "2026-10-21",
-  "slide_count": 43,
+  "slides_sha256": "e7b9d844353854a9b4a8fd611c80b3bbfc468d06282a2ff368f32c904bc28b67",
+  "pptx_sha256": "84fa2f524c5b5846110abd2b6fee3113101dbe891071f06866f183a7799dce0f",
+  "canvas": "https://moda.app/canvas/a8c11879-2484-465a-9696-81296425daaf",
+  "built": "2026-11-09",
+  "slide_count": 44,
   "layouts": [
     "cover",
+    "contents",
     "one-highlighted-sentence",
     "card-grid",
     "explainer",

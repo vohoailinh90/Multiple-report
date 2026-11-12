@@ -1,0 +1,43 @@
+{
+ "lesson_id": "J06",
+ "version": 1,
+ "produced_at": "2026-11-12",
+ "producer": "phiên Claude chính (điều phối)",
+ "deck_status": "exported-native-pptx",
+ "academic_review_status": "pending",
+ "visual_status": "exported",
+ "canvas_ref": "cvs_5FQT95N5MK82W95G43M4907ECD",
+ "canvas_url": "https://moda.app/canvas/afbe925a-9693-40b8-92c0-83a11203b98d?source=agent",
+ "page_count": 35,
+ "source_script": "j06-slides.json",
+ "source_lesson": "../lessons/06-archetypes.md",
+ "brand_kit_id": null,
+ "design_system": {
+  "page_size": [
+   1920,
+   1080
+  ],
+  "fonts": {
+   "heading": "Bricolage Grotesque",
+   "body": "Arial"
+  },
+  "accent": "indigo #493C89"
+ },
+ "construction": "canvas_create (không brand kit) rồi canvas_edit dựng từng trang bằng chương trình; trang 2 là mục lục, mỗi trang có nhãn chương; trang nguồn dựng bằng canvas_apply_markup với liên kết bấm được",
+ "exports": {
+  "pptx": {
+   "path": "../visuals/j06.pptx",
+   "format": "pptx",
+   "page_count": 35,
+   "sha256": "a40e1e10cc09ecf843bfe9d6ba28219bb261b201e6426dcf0e4da105403276a0",
+   "size_bytes": 555640,
+   "hyperlinks_on_sources_slide": 6
+  }
+ },
+ "limits": [
+  "Chỉ xem một số trang (mục lục, trang nguồn, bìa kết và vài trang thẻ), chưa xem từng trang một",
+  "Slide dựng từ kịch bản slides.json: bố cục thẻ, không có mũi tên nối, không có ảnh tư liệu; visual_brief chưa được hiện thực hóa thành sơ đồ riêng",
+  "Chưa phản biện học thuật; link nguồn lấy từ lesson.md, link DOI chưa được mở thử trong phiên dựng",
+  "Font Inter của Moda đã đổi sang Arial bằng scripts/pptx_fonts.py; tiêu đề dùng Bricolage Grotesque ExtraBold (máy chưa cài font này sẽ thấy font thay thế)"
+ ]
+}

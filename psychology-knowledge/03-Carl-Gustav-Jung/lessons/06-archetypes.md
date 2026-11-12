@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-12
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # J06 — Archetypes: nguyên mẫu, hình ảnh và bối cảnh
 
@@ -148,7 +148,7 @@ Bảng *các giải thích cho cùng một mô-típ giống nhau* (cách sắp x
 
 ## I. Visual Explanation — Khái niệm, hình ảnh và bối cảnh
 
-**Trạng thái: not-started** (chưa dựng canvas Moda; không có đường link hình). Kịch bản slide: [j06-slides.json](../moda/j06-slides.json). Nguồn dự kiến cho hình: [j06-visual-sources.md](../references/j06-visual-sources.md).
+**Trạng thái: exported.** Đã dựng [canvas Moda 35 trang](https://moda.app/canvas/afbe925a-9693-40b8-92c0-83a11203b98d?source=agent) và lưu bản [PowerPoint](../visuals/j06.pptx) (chữ sửa được). [Kịch bản slide](../moda/j06-slides.json) · [Metadata và giới hạn](../moda/j06-report-v1.json).
 
 **Brief cho hình chính:** ba tầng từ trên xuống. Tầng trên: ô nét đứt "Archetype-as-such (giả thuyết, không quan sát được)". Tầng giữa: hai ô "Hình ảnh nguyên mẫu trong mơ, truyện, nghệ thuật (quan sát được)" và ô bên cạnh "Bối cảnh: văn hóa, truyền thống, trải nghiệm cá nhân". Mũi tên nét đứt gắn nhãn "giả thuyết" từ tầng trên xuống ô hình ảnh; mũi tên liền từ ô bối cảnh vào ô hình ảnh. Tầng dưới: ba ô "Giải thích thay thế: truyền văn hóa; hoàn cảnh chung; thiên lệch chọn mẫu" nối vào ô hình ảnh bằng đường liền. Chú giải: đường liền là quan hệ có thể quan sát, đường đứt là giả thuyết; không dùng hình não để chỉ vị trí.
 

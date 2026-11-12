@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-12
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # F07 — Phát triển tâm – tính dục (psychosexual development)
 
@@ -171,7 +171,7 @@ Bảng phân biệt "cách gọi phổ biến" với "văn bản đã đọc":
 
 ## I. Visual Explanation — Lộ trình và cột giới hạn
 
-**Trạng thái: not-started.** Chưa có canvas hay bản xuất; chưa gắn hình giả. [Kịch bản slide và visual brief](../moda/f07-slides.json).
+**Trạng thái: exported.** Đã dựng [canvas Moda 33 trang](https://moda.app/canvas/b6143f88-0303-4dcf-b80a-3c669db5c32a?source=agent) và lưu bản [PowerPoint](../visuals/f07.pptx) (chữ sửa được). [Kịch bản slide](../moda/f07-slides.json) · [Metadata và giới hạn](../moda/f07-report-v1.json).
 
 **Brief cho hình chính:** bảng ba cột. Cột 1 "Văn bản đã đọc": miệng → sadistic-anal → tiềm ẩn (khoảng 6–8 tuổi, có thể vắng) → ưu thế sinh dục, nối bằng mũi tên đứt nhãn "giả thuyết". Cột 2 "Có thể quan sát": hành vi của trẻ đa dạng và giảm theo tuổi (báo cáo của mẹ); thí nghiệm khỉ non (tiếp xúc êm ái). Cột 3 "Giới hạn": suy ngược từ người lớn; pha và cố định chưa kiểm trực tiếp. Phía dưới: "Cố định ≠ chẩn đoán tính cách".
 

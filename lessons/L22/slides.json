@@ -217,7 +217,7 @@
    "tone": "dark",
    "bullets": [
     "Premium mỗi phút: chênh lệch giá khớp ảo hai phía so với giá chỉ số [S5]",
-    "Trung bình có trọng số trong chu kỳ, cộng phần lãi suất 0,01% [S5]",
+    "Premium trung bình + kẹp(lãi suất 0,01% − premium trung bình, ±0,05%) [S5]",
     "Chia cho 8/N theo chu kỳ, rồi mới kẹp trong trần và sàn [S5]",
     "Dương: bên mua trả bên bán; âm: ngược lại [S5]",
     "Chốt mặc định lúc 00:00, 08:00, 16:00 UTC cho người giữ vị thế [S5]"
@@ -225,7 +225,7 @@
    "sources": [
     "S5"
    ],
-   "notes": "Năm hộp này đi theo thứ tự tính funding của OKX. Mỗi phút hệ thống đo premium, tức độ lệch của giá khớp ảo so với giá chỉ số, với giá trị khớp ảo bằng 200 lần đòn bẩy tối đa. Các premium trong chu kỳ được lấy trung bình có trọng số, cộng thêm phần điều chỉnh theo lãi suất cố định 0,01%, phần này bị kẹp trong ±0,05%. Tổng đó chia cho 8/N để chu kỳ nào cũng cho chi phí ngày tương đương, và chỉ sau khi chia mới áp trần và sàn của hợp đồng. Cuối cùng chỉ người đang giữ vị thế lúc chốt mới trả hoặc nhận. Nền tảng chỉ chuyển tiền giữa hai bên và không thu phí dịch vụ trong cơ chế này."
+   "notes": "Năm hộp này đi theo thứ tự tính funding của OKX. Mỗi phút hệ thống đo premium, tức độ lệch của giá khớp ảo so với giá chỉ số, với giá trị khớp ảo bằng 200 lần đòn bẩy tối đa. Các premium trong chu kỳ được lấy trung bình có trọng số. Rồi cộng thêm phần điều chỉnh: lãi suất cố định 0,01% trừ premium trung bình, kết quả kẹp trong ±0,05%; ví dụ premium 0,03% thì phần điều chỉnh là −0,02%, nên tổng là 0,01% chứ không phải 0,04%. Tổng đó chia cho 8/N để chu kỳ nào cũng cho chi phí ngày tương đương, và chỉ sau khi chia mới áp trần và sàn của hợp đồng. Cuối cùng chỉ người đang giữ vị thế lúc chốt mới trả hoặc nhận. Nền tảng chỉ chuyển tiền giữa hai bên và không thu phí dịch vụ trong cơ chế này."
   },
   {
    "title": "0,03% mỗi ngày",

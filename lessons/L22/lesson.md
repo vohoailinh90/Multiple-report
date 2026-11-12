@@ -63,7 +63,7 @@ Ba loại giá không thay thế nhau: **giá khớp gần nhất** (last) cho t
 
 **Funding** là khoản chuyển giữa bên mua và bên bán để kéo giá hợp đồng về gần giá giao ngay [S4][S5]. Khi tỷ lệ funding dương, bên mua trả bên bán; khi âm, bên bán trả bên mua; nền tảng chỉ tạo điều kiện chuyển tiền và không thu phí dịch vụ trong cơ chế này [S5]. Mặc định funding thanh toán mỗi 8 giờ lúc 00:00, 08:00 và 16:00 UTC, trừ hợp đồng quy định chu kỳ 1, 2 hoặc 4 giờ; bạn chỉ trả hoặc nhận nếu đang giữ vị thế đúng lúc tính [S5].
 
-Công thức của OKX: tỷ lệ funding = kẹp giữa trần và sàn của [chỉ số premium trung bình + kẹp(lãi suất − premium trung bình, ±0,05%)] chia cho (8/N), trong đó lãi suất cố định 0,01% và N là chu kỳ (giờ) [S5]. Premium đo chênh lệch giữa giá khớp ảo hai phía sổ lệnh và giá chỉ số; giá trị khớp ảo bằng 200 lần đòn bẩy tối đa của hợp đồng [S5].
+Công thức của OKX: tỷ lệ funding = kẹp trong khoảng trần và sàn của {[premium trung bình + kẹp(lãi suất − premium trung bình, ±0,05%)] chia cho (8/N)}, nghĩa là chia cho 8/N trước rồi mới áp trần và sàn, trong đó lãi suất cố định 0,01% và N là chu kỳ (giờ) [S5]. Premium đo chênh lệch giữa giá khớp ảo hai phía sổ lệnh và giá chỉ số; giá trị khớp ảo bằng 200 lần đòn bẩy tối đa của hợp đồng [S5].
 
 Ví dụ của OKX: vị thế 1.000 USDT, ba lần tính funding với tỷ lệ +0,01%, +0,03%, −0,02%: bên mua trả 0,1 và 0,3 rồi nhận 0,2, ròng trả 0,2 USDT [S4]. Cũng theo OKX, tỷ lệ 0,01% mỗi 8 giờ cộng lại thành 0,03% giá trị vị thế qua ba lần tính trong ngày [S4]. Funding và phí giao dịch là hai dòng tiền riêng [S3].
 

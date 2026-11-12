@@ -165,7 +165,7 @@ Dưới đây là chuỗi *giả thuyết* theo Adler (không phải chuỗi đ�
 4. Bù quá mức, theo văn bản, xuất hiện khi trẻ sợ không bao giờ bù nổi và đòi cán cân nghiêng hẳn; Adler gọi mức cực đoan là bệnh lý, một phán đoán lý thuyết. [S2, tr. 75–76]
 5. Bảng ba đáp ứng (linh hoạt, quá mức, né tránh) là cách sắp xếp của bài, tiêu chí là lý thuyết chứ không phải thang đo.
 6. Tổng quan thần kinh về mất giác quan hỗ trợ ý "cơ thể có thể đáp ứng", nhưng không kiểm Adler và chính nó nói có thể không thích nghi. [S4]
-7. Nghiên cứu hung hăng cho thấy cách hiểu "tự ty bị giấu thành hung hăng" quá đơn giản; không đồng nghĩa Adler sai, vì chưa ai kiểm khái niệm của ông. [S6, S7]
+7. Nghiên cứu hung hăng cho thấy cách hiểu "tự ty bị giấu thành hung hăng" quá đơn giản; không đồng nghĩa Adler sai: các thí nghiệm này không đo trực tiếp khái niệm của ông, và tìm kiếm của bài này chưa thấy phép kiểm trực tiếp nào (không có nghĩa là chưa từng có). [S6, S7]
 8. Không suy động cơ từ thành tích: mọi ví dụ "người khuyết tật thành người xuất sắc" chịu thiên lệch chọn lọc.
 
 ## K. Knowledge Check — Năm câu hỏi có giải thích

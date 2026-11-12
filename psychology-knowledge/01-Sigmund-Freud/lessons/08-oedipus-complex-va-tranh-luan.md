@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-12
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # F08 — Oedipus complex và tranh luận
 
@@ -169,7 +169,7 @@ Bốn tầng khẳng định trong văn bản và điều mỗi tầng có thể
 
 ## I. Visual Explanation — Giả thuyết và phản chứng
 
-**Trạng thái: not-started.** Chưa có canvas hay bản xuất; chưa gắn hình giả. [Kịch bản slide và visual brief](../moda/f08-slides.json).
+**Trạng thái: exported.** Đã dựng [canvas Moda 32 trang](https://moda.app/canvas/f98b5706-7aa8-4e8d-9f49-74fc1cc4a29e?source=agent) và lưu bản [PowerPoint](../visuals/f08.pptx) (chữ sửa được). [Kịch bản slide](../moda/f08-slides.json) · [Metadata và giới hạn](../moda/f08-report-v1.json).
 
 **Brief cho hình chính:** hai cột. Cột trái "Giả thuyết của Freud" gồm năm thẻ nối bằng mũi tên đứt nhãn "giả thuyết": mẹ là đối tượng đầu tiên → độc chiếm và ghen → dồn nén, tội lỗi → dậy thì, tách khỏi cha mẹ → hạt nhân bệnh thần kinh. Cột phải "Phê bình và giải thích thay thế" với bốn thẻ: nhân học (Malinowski), phương pháp (ca đơn lẻ; Little Hans), tiến hóa (sống chung, xung đột cha mẹ – con cái), sinh học xét lại (Solms). Dòng dưới: "Tính phổ quát: chưa đủ bằng chứng".
 

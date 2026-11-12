@@ -5,7 +5,7 @@ topic: khac
 date: 2026-11-12
 status: drafted
 review_status: pending
-visual_status: not-started
+visual_status: exported
 ---
 # A06 — Compensation và Overcompensation: bù trừ và bù trừ quá mức
 
@@ -149,7 +149,7 @@ Dưới đây là chuỗi *giả thuyết* theo Adler (không phải chuỗi đ�
 
 ## I. Visual Explanation — Nhiều đáp ứng cho một khó khăn
 
-**Trạng thái: not-started** (chưa dựng canvas Moda; không có đường link hình). Kịch bản slide: [a06-slides.json](../moda/a06-slides.json). Nguồn dự kiến cho hình: [a06-visual-sources.md](../references/a06-visual-sources.md).
+**Trạng thái: exported.** Đã dựng [canvas Moda 35 trang](https://moda.app/canvas/09987564-e2dc-4fb5-a72e-5b184095054a?source=agent) và lưu bản [PowerPoint](../visuals/a06.pptx) (chữ sửa được). [Kịch bản slide](../moda/a06-slides.json) · [Metadata và giới hạn](../moda/a06-report-v1.json).
 
 **Brief cho hình chính:** từ trái sang phải. Ô "Một khó khăn (thiếu hụt thật hoặc hiểu là thiếu hụt)" đi vào ô "Cách hiểu của người trong cuộc (hằng số tự đánh giá)". Từ đó chia ba nhánh nét đứt gắn nhãn "giả thuyết": nhánh trên "Bù trừ linh hoạt (vừa mục tiêu, có người khác)", nhánh giữa "Bù trừ quá mức (vượt mức, vội, bỏ qua người khác)", nhánh dưới "Nản chí / né tránh". Một dải dưới đáy: "Cùng một hành vi bên ngoài có thể đến từ nhiều đường (hộp: giải thích thay thế: áp lực, sở thích, hoàn cảnh)". Chú giải: đường liền là quan hệ trong văn bản, đường đứt là giả thuyết.
 

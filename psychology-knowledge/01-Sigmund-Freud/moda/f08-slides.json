@@ -1,0 +1,802 @@
+{
+ "title": "F08 · Oedipus complex và tranh luận",
+ "subtitle": "Phức cảm Oedipus là giả thuyết của Freud với tính phổ quát chưa đủ bằng chứng",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "not-started",
+ "source_lesson": "../lessons/08-oedipus-complex-va-tranh-luan.md",
+ "accent": "burgundy",
+ "chapters": [
+  "Mục tiêu và bối cảnh",
+  "Lý thuyết cốt lõi",
+  "Cơ chế và ví dụ",
+  "Bằng chứng và phê bình",
+  "Ứng dụng và hình",
+  "Ôn tập và nguồn"
+ ],
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "F08 · OEDIPUS",
+   "chapter": "Bìa",
+   "title": "Phổ quát,\nhay gắn với bối cảnh?",
+   "body": "Bài đọc điều Freud viết về Oedipus complex, tách bốn tầng khẳng định, rồi đặt cạnh phê bình nhân học, phê bình phương pháp và giải thích thay thế.",
+   "nodes": [
+    [
+     "Freud",
+     "Giả thuyết"
+    ],
+    [
+     "Phê bình",
+     "Nhân học, phương pháp, tiến hóa"
+    ]
+   ],
+   "source": "F08 · Câu hỏi trung tâm",
+   "visual_brief": "Bìa tối burgundy; hai thẻ: 'Giả thuyết' và 'Phê bình'; không ảnh người.",
+   "right": "OEDIPUS VÀ TRANH LUẬN"
+  },
+  {
+   "layout": "contents",
+   "section": "MỤC LỤC",
+   "chapter": "Mục lục",
+   "title": "Mục lục",
+   "body": "Sáu chương lớn của bài, theo đúng thứ tự A–L.",
+   "nodes": [
+    [
+     "1 · Mục tiêu và bối cảnh",
+     "Mục tiêu A; bối cảnh B"
+    ],
+    [
+     "2 · Lý thuyết cốt lõi",
+     "Văn bản đã đọc C"
+    ],
+    [
+     "3 · Cơ chế và ví dụ",
+     "Cơ chế D; ví dụ E; ca F"
+    ],
+    [
+     "4 · Bằng chứng và phê bình",
+     "Nhân học, phương pháp, tiến hóa G"
+    ],
+    [
+     "5 · Ứng dụng và hình",
+     "Ứng dụng H; hình I"
+    ],
+    [
+     "6 · Ôn tập và nguồn",
+     "Takeaways J; câu hỏi K; nguồn L"
+    ]
+   ],
+   "source": "F08 · mục lục",
+   "visual_brief": "Mỗi hàng một chương, số k cùng màu với nhãn chương ở đầu từng slide."
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Ba việc cần làm được sau bài",
+   "body": "Mô tả phức cảm theo văn bản; phân biệt bốn tầng khẳng định; đánh giá ba dòng phê bình.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Phức cảm theo văn bản"
+    ],
+    [
+     "02 · Phân biệt",
+     "Bốn tầng khẳng định"
+    ],
+    [
+     "03 · Đánh giá",
+     "Nhân học, phương pháp, tiến hóa"
+    ]
+   ],
+   "source": "F08 · A",
+   "visual_brief": "Ba thẻ ngang, nét liền.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Ba văn bản, ba mức trình bày",
+   "body": "Giải mộng nối giấc mơ điển hình với Oedipus; Three Contributions đặt rào cản loạn luân ở dậy thì; Bài giảng 21 trình bày đầy đủ. [S1] [S2] [S3]",
+   "nodes": [
+    [
+     "Giải mộng",
+     "Huyền thoại và giấc mơ"
+    ],
+    [
+     "Three Contributions",
+     "Rào cản loạn luân"
+    ],
+    [
+     "Bài giảng 21",
+     "Bản đầy đủ"
+    ]
+   ],
+   "source": "[S1] [S2] [S3]",
+   "visual_brief": "Ba thẻ nối mũi tên theo thứ tự đọc; nhãn 'không gán năm từng đoạn'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Từ sự kiện ngoài sang cấu trúc trong",
+   "body": "Freud viết rằng đời sống tính dục của trẻ có thể tự bừng lên từ nguồn nội tại; Oedipus complex là cấu trúc nội tại không cần sự kiện bên ngoài. [S3]",
+   "nodes": [
+    [
+     "Trước",
+     "Nhấn quyến rũ"
+    ],
+    [
+     "Sau",
+     "Cấu trúc nội tại"
+    ]
+   ],
+   "source": "[S3] Chương II",
+   "visual_brief": "Mũi tên từ 'ngoài' sang 'trong'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Về tên gọi",
+   "body": "Bài giảng 21 nói bé gái diễn ra tương tự 'với sự đảo ngược cần thiết'. Chữ 'Electra' không có trong ba văn bản đã đọc; bài chưa kiểm nguồn gốc thuật ngữ. [S1]",
+   "nodes": [
+    [
+     "Đã đọc",
+     "Không có chữ Electra"
+    ],
+    [
+     "Chưa kiểm",
+     "Nguồn gốc thuật ngữ"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Hai thẻ; nhãn 'giới hạn'.",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Người mẹ là đối tượng yêu đầu tiên",
+   "body": "Xung động miệng ban đầu có đối tượng là vú mẹ; trước thời kỳ tiềm ẩn, đối tượng được chọn gần như trùng người mẹ. Gắn với đó là Oedipus complex. [S1, B21]",
+   "nodes": [
+    [
+     "Vú mẹ",
+     "Đối tượng miệng"
+    ],
+    [
+     "Người mẹ",
+     "Đối tượng yêu đầu tiên"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Hai thẻ nối mũi tên đứt nhãn 'mô hình'.",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Nội dung của phức cảm theo Freud",
+   "body": "Muốn mẹ cho riêng mình, thấy cha vướng víu, nhưng vẫn thương cha: hai thái độ trái ngược cùng tồn tại. [S1, B21]",
+   "nodes": [
+    [
+     "Muốn",
+     "Độc chiếm"
+    ],
+    [
+     "Ghen",
+     "Với người cùng giới"
+    ],
+    [
+     "Thương",
+     "Thái độ trái ngược"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Ba thẻ.",
+   "arrows": "solid",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Phản bác động cơ ích kỷ",
+   "body": "Mẹ chăm sóc mọi nhu cầu nên trẻ muốn giữ mẹ? Freud: lợi ích ích kỷ chỉ là dịp để xung động tính dục bám vào. Đây là lập luận, không phải dữ liệu độc lập. [S1, B21]",
+   "nodes": [
+    [
+     "Phản bác",
+     "Động cơ ích kỷ"
+    ],
+    [
+     "Đáp",
+     "Chỉ là dịp"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Hai thẻ đối thoại.",
+   "arrows": "dash",
+   "hyp": "lập luận"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Những điều Freud tự nêu",
+   "body": "Cha mẹ ưu ái có thể góp phần; có em thì thành phức cảm gia đình; người lớn kể quá khứ có thể trộn hiện tại, nhưng 'hạt nhân ấu thơ' vẫn còn. [S1, B21]",
+   "nodes": [
+    [
+     "Cha mẹ",
+     "Góp phần"
+    ],
+    [
+     "Anh chị em",
+     "Ganh đua"
+    ],
+    [
+     "Kể lại",
+     "Trộn hiện tại"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Ba thẻ.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Dậy thì và hạt nhân bệnh thần kinh",
+   "body": "Dậy thì: đối tượng cũ tái đầu tư, phải tách khỏi cha mẹ. Không hoàn tất thì Oedipus complex là hạt nhân bệnh thần kinh. Phần này là giả thuyết. [S1, B21]",
+   "nodes": [
+    [
+     "Dậy thì",
+     "Tái đầu tư"
+    ],
+    [
+     "Tách lập",
+     "Nhiệm vụ"
+    ],
+    [
+     "Không xong",
+     "Hạt nhân bệnh"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Chuỗi ba thẻ, mũi tên đứt.",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Phần suy luận về lịch sử loài người",
+   "body": "Ảo tưởng nguyên thủy là 'tài sản phát sinh loài'; Freud tự lường trước đề xuất bị coi là rất táo bạo. Đọc như suy luận, không phải phát hiện. [S1, B21, B23]",
+   "nodes": [
+    [
+     "Đề xuất",
+     "Phát sinh loài"
+    ],
+    [
+     "Địa vị",
+     "Suy luận"
+    ]
+   ],
+   "source": "[S1] B21, B23",
+   "visual_brief": "Hai thẻ; nhãn 'suy luận'.",
+   "arrows": "dash",
+   "hyp": "suy luận"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Điều không được suy ra",
+   "body": "Không suy ra: phổ quát; một hành vi chứng minh phức cảm; trị liệu hiệu quả là chứng minh; huyền thoại là bằng chứng khoa học.",
+   "nodes": [
+    [
+     "Không",
+     "Phổ quát"
+    ],
+    [
+     "Không",
+     "Một hành vi là đủ"
+    ],
+    [
+     "Không",
+     "Trị liệu = chứng minh"
+    ]
+   ],
+   "source": "F08 · C",
+   "visual_brief": "Ba thẻ 'Không'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Chuỗi giả thuyết năm bước",
+   "body": "Mẹ là đối tượng đầu tiên, độc chiếm và ghen, dồn nén và tội lỗi, dậy thì tách lập, hạt nhân bệnh thần kinh. Chỉ hành vi ở bước 2 quan sát được. [S1]",
+   "nodes": [
+    [
+     "1",
+     "Mẹ, đối tượng đầu"
+    ],
+    [
+     "2",
+     "Độc chiếm, ghen"
+    ],
+    [
+     "3",
+     "Dồn nén, tội lỗi"
+    ],
+    [
+     "4",
+     "Dậy thì, tách lập"
+    ],
+    [
+     "5",
+     "Hạt nhân bệnh"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Chuỗi năm thẻ, mũi tên đứt, nhãn 'giả thuyết'.",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Bốn tầng khẳng định",
+   "body": "Quan sát trẻ, phân tích người lớn, huyền thoại và giấc mơ, phát sinh loài: mỗi tầng cho thấy một điều khác nhau.",
+   "nodes": [
+    [
+     "Quan sát trẻ",
+     "Hành vi gắn bó, ghen"
+    ],
+    [
+     "Phân tích người lớn",
+     "Cách kể trong trị liệu"
+    ],
+    [
+     "Huyền thoại, giấc mơ",
+     "Một diễn giải"
+    ],
+    [
+     "Phát sinh loài",
+     "Một suy đoán"
+    ]
+   ],
+   "source": "F08 · mục D",
+   "visual_brief": "Bốn thẻ; hàng dưới mỗi thẻ ghi 'không thể cho thấy'.",
+   "pos": [
+    [
+     80,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     520,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     960,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     1400,
+     300,
+     400,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Trẻ nói sẽ cưới mẹ",
+   "body": "Freud: biểu hiện phức cảm. Cách khác: gắn bó, 'cưới' nghĩa là ở cùng, có em sắp sinh, bắt chước. Ví dụ giả định. [S1, B21] [S8]",
+   "nodes": [
+    [
+     "Freud",
+     "Phức cảm ấu thơ"
+    ],
+    [
+     "Cách khác",
+     "Gắn bó, ganh đua"
+    ]
+   ],
+   "source": "[S1] B21 · [S8] · ví dụ giả định",
+   "visual_brief": "Hai thẻ nét đứt.",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Vở kịch làm ta rúng động",
+   "body": "Freud: người xem nhận ra mong muốn thơ ấu của mình. Cách khác: đề tài gia đình, tội lỗi, phát hiện dần. Sự lay động là hiện tượng, chưa là phép thử. [S2]",
+   "nodes": [
+    [
+     "Freud",
+     "Nhận ra mong muốn"
+    ],
+    [
+     "Cách khác",
+     "Đề tài và kịch tính"
+    ]
+   ],
+   "source": "[S2] tr. 222–224",
+   "visual_brief": "Hai thẻ nét đứt.",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Một xã hội theo dòng mẹ",
+   "body": "Cùng dữ liệu Trobriand: Malinowski thấy một phức cảm theo dòng mẹ; Jones, theo tóm tắt của Malinowski, đọc đó là biến thể của Oedipus. [S4]",
+   "nodes": [
+    [
+     "Malinowski",
+     "Phức cảm theo dòng mẹ"
+    ],
+    [
+     "Jones",
+     "Biến thể Oedipus"
+    ]
+   ],
+   "source": "[S4]",
+   "visual_brief": "Hai thẻ đối thoại; nhãn 'cùng dữ liệu'.",
+   "arrows": "dash",
+   "hyp": "hai cách đọc"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Ca giả định: Bin",
+   "body": "Đòi ngủ với mẹ, giận khi bố gần mẹ, lúc lại quấn bố; mẹ mang thai tháng thứ sáu. Nhiều giải thích; chưa thể nói 'Bin có Oedipus complex'. [S1]",
+   "nodes": [
+    [
+     "Biết",
+     "Hành vi, mẹ có thai"
+    ],
+    [
+     "Chưa biết",
+     "Thời gian, bối cảnh"
+    ]
+   ],
+   "source": "F08 · F (ca giả định)",
+   "visual_brief": "Hai cột biết / chưa biết.",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Cách kiểm an toàn",
+   "body": "Giữ sinh hoạt ổn định; thời gian riêng cho trẻ; nói đơn giản về em sắp sinh; quan sát vài tuần; gặp chuyên gia nếu lo âu nặng, kéo dài. Không giải thích Oedipus cho trẻ.",
+   "nodes": [
+    [
+     "Nên",
+     "Ổn định, lắng nghe"
+    ],
+    [
+     "Không",
+     "Gán nhãn, giải thích"
+    ],
+    [
+     "Khi nặng",
+     "Gặp chuyên gia"
+    ]
+   ],
+   "source": "F08 · F",
+   "visual_brief": "Ba thẻ nét liền.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Phê bình nhân học: Malinowski",
+   "body": "Phức cảm hạt nhân thay đổi theo cấu trúc gia đình; không giả định tính phổ quát. Một nhà điền dã, một vùng; có phản biện từ phía phân tâm học. [S4]",
+   "nodes": [
+    [
+     "Phụ hệ",
+     "Quyền lực người cha"
+    ],
+    [
+     "Mẫu hệ",
+     "Quyền lực người cậu"
+    ]
+   ],
+   "source": "[S4] Phần I",
+   "visual_brief": "Hai thẻ so sánh; nhãn 'một nhà điền dã'.",
+   "arrows": "dash",
+   "hyp": "còn tranh luận"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Phê bình phương pháp: Little Hans",
+   "body": "Freud trích ca năm tuổi làm bằng chứng 'trực tiếp'. Wolpe và Rachman: không đủ cho kết luận đó. Blum: tư liệu mới nêu sang chấn, xung đột cha mẹ, quan hệ tiền Oedipus. [S3] [S5] [S6]",
+   "nodes": [
+    [
+     "Freud",
+     "Bằng chứng trực tiếp"
+    ],
+    [
+     "Phê bình",
+     "Ca đơn lẻ, qua diễn giải"
+    ]
+   ],
+   "source": "[S3] [S5] [S6]",
+   "visual_brief": "Hai thẻ; nhãn 'abstract-read'.",
+   "arrows": "dash",
+   "hyp": "phê bình"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Sinh học tiến hóa: sống chung",
+   "body": "Sống chung thời thơ ấu dự đoán phản đối loạn luân anh chị em ở người lớn. Trái lập luận của Freud về sống chung, nhưng không kiểm Oedipus. [S7]",
+   "nodes": [
+    [
+     "Freud",
+     "Sống chung không là rào cản"
+    ],
+    [
+     "Dữ liệu",
+     "Sống chung dự đoán phản đối"
+    ]
+   ],
+   "source": "[S7] abstract",
+   "visual_brief": "Hai thẻ; nhãn 'không kiểm Oedipus'.",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Hai đề xuất lý thuyết",
+   "body": "Türkarslan: xung đột cha mẹ – con cái và ganh đua anh chị em. Solms: không phải khuynh hướng bẩm sinh, mà là kết quả gần như tất yếu của quá trình đơn giản hơn. Chưa phải thực nghiệm. [S8] [S9]",
+   "nodes": [
+    [
+     "S8",
+     "Xung đột cha mẹ – con cái"
+    ],
+    [
+     "S9",
+     "Kết quả gần tất yếu"
+    ]
+   ],
+   "source": "[S8] [S9]",
+   "visual_brief": "Hai thẻ; nhãn 'bài lý thuyết'.",
+   "arrows": "dash",
+   "hyp": "đề xuất"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Điều bài không tìm thấy",
+   "body": "Không có nghiên cứu thực nghiệm đã đọc kiểm tiên đoán đặc thù của Oedipus. Mức hỗ trợ cho tính phổ quát: chưa đủ, không phải đã bị bác bỏ.",
+   "nodes": [
+    [
+     "Không thấy",
+     "Phép thử trực tiếp"
+    ],
+    [
+     "Mức",
+     "Chưa đủ"
+    ]
+   ],
+   "source": "F08 · G (quy ước biên tập)",
+   "visual_brief": "Hai thẻ; nhãn 'không phải GRADE'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "chapter": "Ứng dụng và hình",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Đọc lịch sử tư tưởng; tự hỏi về gắn bó và tách lập; với trẻ ưu tiên ổn định; hỏi dữ liệu nào, mẫu nào khi đọc khẳng định 'phổ quát'. Không đoán bí mật gia đình.",
+   "nodes": [
+    [
+     "Đọc",
+     "Lịch sử tư tưởng"
+    ],
+    [
+     "Hỏi",
+     "Dữ liệu nào, mẫu nào"
+    ],
+    [
+     "Không",
+     "Quy lỗi cho cha mẹ"
+    ]
+   ],
+   "source": "F08 · H",
+   "visual_brief": "Ba thẻ.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "chapter": "Ứng dụng và hình",
+   "title": "Giả thuyết và phản chứng",
+   "body": "Hai cột: chuỗi giả thuyết năm bước; bốn nhóm phê bình và giải thích thay thế. Dòng cuối: tính phổ quát chưa đủ bằng chứng.",
+   "nodes": [
+    [
+     "Giả thuyết Freud",
+     "Năm bước, mũi tên đứt"
+    ],
+    [
+     "Phê bình",
+     "Nhân học, phương pháp"
+    ],
+    [
+     "Giải thích thay thế",
+     "Tiến hóa, xét lại"
+    ]
+   ],
+   "source": "F08 · caption mục I",
+   "visual_brief": "Hai cột; brief đầy đủ trong bài, mục I.",
+   "pos": [
+    [
+     80,
+     300,
+     540,
+     260,
+     0
+    ],
+    [
+     690,
+     300,
+     540,
+     260,
+     0
+    ],
+    [
+     1300,
+     300,
+     540,
+     260,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "Mẹ là đối tượng đầu tiên; bốn tầng khẳng định; Freud tự nêu giới hạn; phát sinh loài là suy luận; Malinowski; Little Hans; giải thích thay thế; phổ quát chưa đủ bằng chứng.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc văn bản gốc"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "F08 · J",
+   "visual_brief": "Danh sách tám ý; hai thẻ nhấn mạnh."
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 1–2",
+   "body": "Đáp của Freud trước phản bác ích kỷ; hai cách đọc 'cưới mẹ'.",
+   "nodes": [
+    [
+     "Câu 1",
+     "Phản bác ích kỷ"
+    ],
+    [
+     "Câu 2",
+     "Hai cách đọc"
+    ]
+   ],
+   "source": "[S1] [S8] · F08 · K",
+   "visual_brief": "Hai thẻ câu hỏi; đáp án ở ghi chú."
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 3–5",
+   "body": "Malinowski; Lieberman và cộng sự; ca Bin.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Malinowski"
+    ],
+    [
+     "Câu 4",
+     "Lieberman 2003"
+    ],
+    [
+     "Câu 5",
+     "Ca Bin"
+    ]
+   ],
+   "source": "[S4] [S7] · F08 · K",
+   "visual_brief": "Ba thẻ câu hỏi."
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Nguồn đã đọc",
+   "body": "Chín nguồn; ba văn bản Freud và Malinowski đọc các đoạn nêu; năm nguồn khác đọc abstract. Link bấm được ở slide nguồn.",
+   "nodes": [
+    [
+     "S1–S3",
+     "Văn bản Freud"
+    ],
+    [
+     "S4",
+     "Malinowski"
+    ],
+    [
+     "S5–S6",
+     "Little Hans"
+    ],
+    [
+     "S7–S9",
+     "Tiến hóa, xét lại"
+    ]
+   ],
+   "source": "F08 · L",
+   "visual_brief": "Danh sách chín thẻ có link; gen.py lấy URL từ mục L."
+  },
+  {
+   "layout": "closing",
+   "section": "F08 · KẾT",
+   "chapter": "Kết",
+   "title": "Giả thuyết,\nchưa phải quy luật",
+   "body": "Đọc trước: F02, F06; song song: F07. Đọc tiếp: F09, F13, F15, F17.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "F02 · F06"
+    ],
+    [
+     "Đọc tiếp",
+     "F09 · F13 · F15 · F17"
+    ]
+   ],
+   "source": "F08 · drafted · review pending",
+   "visual_brief": "Bìa kết tối; một câu kết.",
+   "right": "OEDIPUS, ĐÚNG MỨC"
+  }
+ ]
+}

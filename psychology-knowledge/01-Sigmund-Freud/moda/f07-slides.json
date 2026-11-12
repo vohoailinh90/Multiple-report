@@ -1,0 +1,812 @@
+{
+ "title": "F07 · Phát triển tâm – tính dục",
+ "subtitle": "Các giai đoạn là mô hình lịch sử suy ngược từ phân tích, chưa phải quy luật phát triển đã xác nhận",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/07-psychosexual-development.md",
+ "accent": "burgundy",
+ "chapters": [
+  "Mục tiêu và bối cảnh",
+  "Lý thuyết cốt lõi",
+  "Cơ chế và ví dụ",
+  "Bằng chứng hiện đại",
+  "Ứng dụng và hình",
+  "Ôn tập và nguồn"
+ ],
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "F07 · TÂM – TÍNH DỤC",
+   "chapter": "Bìa",
+   "title": "Các giai đoạn\nlà quy luật hay mô hình?",
+   "body": "Bài đọc điều Freud viết về các tổ chức tiền sinh dục, cố định và hồi quy, tách lịch trình năm giai đoạn khỏi văn bản gốc, rồi hỏi nghiên cứu hiện đại kiểm được gì.",
+   "nodes": [
+    [
+     "Freud",
+     "Mô hình lịch sử"
+    ],
+    [
+     "Quan sát",
+     "Hành vi trẻ, gắn bó"
+    ]
+   ],
+   "source": "F07 · Câu hỏi trung tâm",
+   "visual_brief": "Bìa tối burgundy; hai thẻ: 'Mô hình' và 'Quan sát'; không ảnh người.",
+   "right": "TÂM – TÍNH DỤC"
+  },
+  {
+   "layout": "contents",
+   "section": "MỤC LỤC",
+   "chapter": "Mục lục",
+   "title": "Mục lục",
+   "body": "Sáu chương lớn của bài, theo đúng thứ tự A–L.",
+   "nodes": [
+    [
+     "1 · Mục tiêu và bối cảnh",
+     "Mục tiêu A; bối cảnh B"
+    ],
+    [
+     "2 · Lý thuyết cốt lõi",
+     "Văn bản đã đọc C"
+    ],
+    [
+     "3 · Cơ chế và ví dụ",
+     "Cơ chế D; ví dụ E; ca F"
+    ],
+    [
+     "4 · Bằng chứng hiện đại",
+     "Bằng chứng G"
+    ],
+    [
+     "5 · Ứng dụng và hình",
+     "Ứng dụng H; hình I"
+    ],
+    [
+     "6 · Ôn tập và nguồn",
+     "Takeaways J; câu hỏi K; nguồn L"
+    ]
+   ],
+   "source": "F07 · mục lục",
+   "visual_brief": "Mỗi hàng một chương, số k cùng màu với nhãn chương ở đầu từng slide."
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Ba việc cần làm được sau bài",
+   "body": "Giải thích mô hình theo văn bản; phân biệt văn bản gốc với giáo trình rút gọn; đánh giá bằng chứng.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Pha, cố định, hồi quy"
+    ],
+    [
+     "02 · Phân biệt",
+     "Văn bản và giáo trình"
+    ],
+    [
+     "03 · Đánh giá",
+     "Quan sát, gắn bó, giới hạn"
+    ]
+   ],
+   "source": "F07 · A",
+   "visual_brief": "Ba thẻ ngang, nét liền.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Học thuyết lớn lên qua nhiều lần sửa",
+   "body": "Bản Brill dùng là bản in lại 1920 của ấn bản có nhiều đoạn thêm; lời tựa ấn bản 3 ký tháng 10/1914. Bài không gán từng đoạn cho một năm. [S2]",
+   "nodes": [
+    [
+     "Bản gốc",
+     "Chú thích nhắc 1905"
+    ],
+    [
+     "Ấn bản 3",
+     "Thêm đoạn, 10/1914"
+    ],
+    [
+     "Bài giảng",
+     "1916–17"
+    ]
+   ],
+   "source": "[S2] tựa ấn bản 3",
+   "visual_brief": "Dòng thời gian ba mốc; nhãn 'không xác định năm từng đoạn'.",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Hai văn bản được đọc",
+   "body": "Three Contributions (bản Brill) và Introductory Lectures (Riviere) Bài giảng 20, 21, 22. Bài chuyên đề khác không được đọc. [S1] [S2]",
+   "nodes": [
+    [
+     "Đã đọc",
+     "Brill; Bài giảng 20–22"
+    ],
+    [
+     "Chưa đọc",
+     "Các bài chuyên đề khác"
+    ]
+   ],
+   "source": "[S1] [S2]",
+   "visual_brief": "Hai thẻ: đã đọc (nét liền) và chưa đọc (nét đứt).",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Từ sự kiện bên ngoài đến phát triển bên trong",
+   "body": "Freud viết rằng ông chưa biết người bình thường cũng có trải nghiệm tương tự nên đã đặt giá trị quá cao cho quyến rũ; không cần quyến rũ để đánh thức đời sống tính dục của trẻ. [S2]",
+   "nodes": [
+    [
+     "Trước",
+     "Nhấn quyến rũ"
+    ],
+    [
+     "Sau",
+     "Nguồn nội tại, thể tạng"
+    ]
+   ],
+   "source": "[S2] Polymorphous-perverse",
+   "visual_brief": "Mũi tên chuyển từ 'sự kiện ngoài' sang 'phát triển trong'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Mục tiêu và bối cảnh",
+   "title": "Lập luận của người đề xuất",
+   "body": "Freud tự nêu rằng tính dục bị cho là mở rộng không chính đáng; ông đáp rằng mình khôi phục bề rộng đúng của khái niệm. Đây là lập luận, không phải phán quyết khoa học. [S1, B20]",
+   "nodes": [
+    [
+     "Phê phán",
+     "Mở rộng chữ"
+    ],
+    [
+     "Đáp",
+     "Khôi phục bề rộng"
+    ]
+   ],
+   "source": "[S1] B20",
+   "visual_brief": "Hai thẻ đối thoại; nhãn 'lập luận'.",
+   "arrows": "dash",
+   "hyp": "có lập trường"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Tính dục không đồng nghĩa sinh dục",
+   "body": "Nếu tính dục chỉ là sinh sản, các hiện tượng lệch chuẩn ở người lớn và khoái cảm cơ quan ở trẻ bị loại khỏi khái niệm. Freud chọn mở rộng chữ. [S1, B20–21]",
+   "nodes": [
+    [
+     "Hẹp",
+     "Gắn sinh sản"
+    ],
+    [
+     "Freud",
+     "Gồm khoái cảm cơ quan"
+    ]
+   ],
+   "source": "[S1] B20–21",
+   "visual_brief": "Hai vòng tròn: hẹp và rộng.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Xung động thành phần và mút ngón tay",
+   "body": "Trẻ có nhiều xung động thành phần tìm thỏa mãn độc lập. Mút ngón tay là nhịp lặp của tiếp xúc môi không nhằm dinh dưỡng. [S1, B21] [S2]",
+   "nodes": [
+    [
+     "Thành phần",
+     "Độc lập nhau"
+    ],
+    [
+     "Mút ngón tay",
+     "Không vì dinh dưỡng"
+    ]
+   ],
+   "source": "[S1] [S2] Thumbsucking",
+   "visual_brief": "Hình ngón tay trừu tượng, không ảnh trẻ thật.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Hai tổ chức tiền sinh dục",
+   "body": "Miệng: chưa tách khỏi việc ăn. Sadistic-anal: đối lập chủ động – thụ động, chưa là nam – nữ. [S1, B21] [S2]",
+   "nodes": [
+    [
+     "Miệng",
+     "Gắn với ăn"
+    ],
+    [
+     "Sadistic-anal",
+     "Chủ động / thụ động"
+    ]
+   ],
+   "source": "[S1] B21 · [S2]",
+   "visual_brief": "Hai thẻ nối mũi tên đứt nhãn 'giả thuyết'.",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Tiềm ẩn và ưu thế sinh dục",
+   "body": "Khoảng 6–8 tuổi Freud mô tả đứng lại hoặc thoái lui; thời kỳ này có thể vắng. Điểm ngoặt là ưu thế vùng sinh dục. [S1, B21]",
+   "nodes": [
+    [
+     "Tiềm ẩn",
+     "Khoảng 6–8, có thể vắng"
+    ],
+    [
+     "Ưu thế sinh dục",
+     "Phục vụ sinh sản"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Thanh thời gian; vùng tiềm ẩn nét đứt.",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Cố định và hồi quy",
+   "body": "Hai nguy cơ của phát triển theo pha: một phần bị giữ ở pha sớm, hoặc quay lại đó khi gặp trở ngại. Cố định càng mạnh, hồi quy càng dễ. [S1, B22]",
+   "nodes": [
+    [
+     "Cố định",
+     "Giữ lại"
+    ],
+    [
+     "Hồi quy",
+     "Quay lại"
+    ]
+   ],
+   "source": "[S1] B22",
+   "visual_brief": "Hình dân di cư dừng ở trạm; ghi 'ẩn dụ của Freud'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Lời của chính Freud",
+   "body": "Các pha sớm 'chắc chắn chỉ là cấu trúc lý thuyết', cần thiết trong thực hành, và được phát hiện qua phân tích bệnh thần kinh. [S1, B21]",
+   "nodes": [
+    [
+     "Địa vị",
+     "Cấu trúc lý thuyết"
+    ],
+    [
+     "Nguồn gốc",
+     "Suy ngược từ phân tích"
+    ]
+   ],
+   "source": "[S1] B21",
+   "visual_brief": "Hai thẻ nhấn mạnh; nhãn 'trích diễn đạt lại'.",
+   "arrows": "solid",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Điều không được suy ra",
+   "body": "Không có lịch trình năm giai đoạn trong văn bản đọc; không có quy tắc nối thói quen với giai đoạn; hồi quy không phải dồn nén. [S1, B22]",
+   "nodes": [
+    [
+     "Không",
+     "Năm giai đoạn đủ mốc"
+    ],
+    [
+     "Không",
+     "Thói quen = giai đoạn"
+    ],
+    [
+     "Không",
+     "Hồi quy = dồn nén"
+    ]
+   ],
+   "source": "[S1] B22 · F07 · C",
+   "visual_brief": "Ba thẻ 'Không'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Chuỗi giả thuyết năm bước",
+   "body": "Xung động thành phần, tổ chức theo pha, dấu vết, hồi quy khi gặp trở ngại, rồi triệu chứng hoặc nét tính cách. Bước 4–5 chưa có phép thử đã đọc. [S1]",
+   "nodes": [
+    [
+     "1",
+     "Xung động thành phần"
+    ],
+    [
+     "2",
+     "Tổ chức theo pha"
+    ],
+    [
+     "3",
+     "Cố định"
+    ],
+    [
+     "4",
+     "Hồi quy"
+    ],
+    [
+     "5",
+     "Triệu chứng / nét"
+    ]
+   ],
+   "source": "[S1] B20–22",
+   "visual_brief": "Chuỗi năm thẻ, mũi tên đứt, nhãn 'giả thuyết'.",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Cách nói phổ biến và văn bản đã đọc",
+   "body": "Năm giai đoạn có mốc tuổi là cách nói phổ biến; văn bản đã đọc có miệng, sadistic-anal, tiềm ẩn, sinh dục. 'Phallic' không có trong văn bản đã đọc.",
+   "nodes": [
+    [
+     "Phổ biến",
+     "Năm giai đoạn, mốc tuổi"
+    ],
+    [
+     "Văn bản",
+     "Bốn mốc"
+    ],
+    [
+     "Không có",
+     "Chữ 'phallic'"
+    ],
+    [
+     "Không có",
+     "Quy tắc tính cách"
+    ]
+   ],
+   "source": "F07 · mục D",
+   "visual_brief": "Bảng hai cột đối chiếu; bốn thẻ.",
+   "pos": [
+    [
+     80,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     520,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     960,
+     300,
+     400,
+     190,
+     0
+    ],
+    [
+     1400,
+     300,
+     400,
+     190,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Em bé mút ngón tay",
+   "body": "Freud: xung động miệng tách khỏi ăn. Cách mô tả khác: khoái cảm cơ quan, chưa cần chữ 'tính dục'. Freud tự nêu phản bác này. [S1, B21] [S2]",
+   "nodes": [
+    [
+     "Freud",
+     "Xung động miệng"
+    ],
+    [
+     "Cách khác",
+     "Khoái cảm cơ quan"
+    ]
+   ],
+   "source": "[S1] B21 · [S2]",
+   "visual_brief": "Hai thẻ nét đứt.",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Người ngăn nắp, tiết kiệm",
+   "body": "Nhãn 'tính cách hậu môn' chưa có quy tắc trong văn bản đã đọc. Giải thích thay thế: khí chất, nuôi dạy, hoàn cảnh, ký ức dựng lại. Ví dụ giả định.",
+   "nodes": [
+    [
+     "Nhãn",
+     "Phổ thông"
+    ],
+    [
+     "Thay thế",
+     "Khí chất, hoàn cảnh"
+    ]
+   ],
+   "source": "F07 · E (ví dụ giả định)",
+   "visual_brief": "Hai thẻ; nhãn 'ví dụ giả định'.",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Trẻ bảy tuổi bớt nói chuyện yêu đương",
+   "body": "Freud: tiềm ẩn, nhưng trẻ cũng học che giấu. Dữ liệu cho hướng giảm theo tuổi mà không phân biệt được hai cách. [S1, B21] [S6]",
+   "nodes": [
+    [
+     "Tiềm ẩn",
+     "Tâm sinh lý"
+    ],
+    [
+     "Che giấu",
+     "Học chuẩn mực"
+    ]
+   ],
+   "source": "[S1] B21 · [S6]",
+   "visual_brief": "Hai thẻ nét đứt.",
+   "arrows": "dash"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Ca giả định: Minh",
+   "body": "Cắn bút khi căng thẳng, tằn tiện, ký ức về tập vệ sinh nghiêm. Có nhiều giải thích; chưa thể nói 'cố định giai đoạn'. [S1]",
+   "nodes": [
+    [
+     "Biết",
+     "Hai thói quen, một ký ức"
+    ],
+    [
+     "Chưa biết",
+     "Tuổi, nguồn gốc"
+    ]
+   ],
+   "source": "F07 · F (ca giả định)",
+   "visual_brief": "Hai cột biết / chưa biết.",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Cơ chế và ví dụ",
+   "title": "Cách kiểm an toàn",
+   "body": "Ghi khi nào thói quen xuất hiện và cảm xúc kèm theo; cân nhắc nhiều giải thích; gặp chuyên gia nếu gây hại hoặc đau khổ. Không đào tuổi thơ.",
+   "nodes": [
+    [
+     "Nên",
+     "Ghi và hỏi vì sao"
+    ],
+    [
+     "Không",
+     "Đoán nguyên nhân"
+    ],
+    [
+     "Khi khổ",
+     "Gặp chuyên gia"
+    ]
+   ],
+   "source": "F07 · F",
+   "visual_brief": "Ba thẻ nét liền.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Hành vi của trẻ trong đời thường",
+   "body": "Mẹ báo cáo: hành vi liên quan cơ thể rất đa dạng ở trẻ 2–12 tuổi không nghi lạm dụng; trẻ lớn ít hơn trẻ nhỏ (1991). Mô tả, không kiểm pha. [S5] [S6]",
+   "nodes": [
+    [
+     "880 trẻ",
+     "1991"
+    ],
+    [
+     "1.114 trẻ",
+     "1998"
+    ]
+   ],
+   "source": "[S5] [S6]",
+   "visual_brief": "Hai thẻ số mẫu; chú thích 'báo cáo của mẹ'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Thí nghiệm khỉ non của Harlow",
+   "body": "Tiếp xúc êm ái quan trọng áp đảo, cho bú không đáng kể: giải thích thay thế cho vai trò của bú. Khỉ rhesus, không tự suy sang người. [S4]",
+   "nodes": [
+    [
+     "Mẹ khăn",
+     "Không cho bú"
+    ],
+    [
+     "Mẹ lưới",
+     "Có cho bú"
+    ]
+   ],
+   "source": "[S4]",
+   "visual_brief": "Hai thẻ; nhãn 'loài khác'.",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Đo được không phải là giải thích được",
+   "body": "Thang Oral Dependency đo sự phụ thuộc giữa người với người; thang Ai3 về tính cách hậu môn ít chịu ảnh hưởng mong muốn xã hội. Không nói về nguyên nhân. [S7] [S8]",
+   "nodes": [
+    [
+     "ROD",
+     "Đo phụ thuộc"
+    ],
+    [
+     "Ai3",
+     "Đo nét hậu môn"
+    ]
+   ],
+   "source": "[S7] [S8]",
+   "visual_brief": "Hai thẻ; nhãn 'đo, không giải thích'.",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Westen và giới hạn phương pháp",
+   "body": "Westen tách mệnh đề đương đại khỏi dạng cổ điển. Giới hạn: suy ngược từ người lớn, ký ức dựng lại, kết quả mở. Bài đọc abstract. [S3]",
+   "nodes": [
+    [
+     "Đương đại",
+     "Nhiều mệnh đề được ủng hộ"
+    ],
+    [
+     "Cổ điển",
+     "Không nêu từng giai đoạn"
+    ]
+   ],
+   "source": "[S3] abstract",
+   "visual_brief": "Hai thẻ; nhãn 'abstract-read'.",
+   "arrows": "dash",
+   "hyp": "còn tranh luận"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Mức hỗ trợ theo mệnh đề",
+   "body": "Văn bản gốc: mạnh cho nội dung. Hành vi trẻ: hạn chế. Khỉ non: hạn chế. Trình tự pha và cố định gây tính cách: chưa đủ.",
+   "nodes": [
+    [
+     "Văn bản",
+     "Mạnh cho nội dung"
+    ],
+    [
+     "Quan sát",
+     "Hạn chế"
+    ],
+    [
+     "Pha / cố định",
+     "Chưa đủ"
+    ]
+   ],
+   "source": "F07 · G (quy ước biên tập)",
+   "visual_brief": "Bảng ba hàng mức; nhãn 'không phải GRADE'.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "chapter": "Ứng dụng và hình",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Đọc lịch sử tư tưởng; tự hỏi thói quen giúp gì hôm nay; dùng dữ liệu chuẩn mực để thấy dải rộng; hỏi chuyên gia khi lo. Không gán nhãn giai đoạn.",
+   "nodes": [
+    [
+     "Đọc",
+     "Lịch sử tư tưởng"
+    ],
+    [
+     "Hỏi",
+     "Thói quen giúp gì"
+    ],
+    [
+     "Không",
+     "Gán nhãn"
+    ]
+   ],
+   "source": "F07 · H",
+   "visual_brief": "Ba thẻ.",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "chapter": "Ứng dụng và hình",
+   "title": "Lộ trình và cột giới hạn",
+   "body": "Bảng ba cột: văn bản đã đọc, điều quan sát được, giới hạn. Mũi tên đứt nhãn 'giả thuyết' cho lộ trình.",
+   "nodes": [
+    [
+     "Văn bản đã đọc",
+     "Miệng, sadistic-anal, tiềm ẩn, sinh dục"
+    ],
+    [
+     "Quan sát được",
+     "Hành vi trẻ; thí nghiệm khỉ non"
+    ],
+    [
+     "Giới hạn",
+     "Suy ngược; chưa kiểm pha"
+    ]
+   ],
+   "source": "F07 · caption mục I",
+   "visual_brief": "Ba cột; hàng dưới: 'Cố định ≠ chẩn đoán tính cách'. Brief đầy đủ trong bài, mục I.",
+   "pos": [
+    [
+     80,
+     300,
+     540,
+     260,
+     0
+    ],
+    [
+     690,
+     300,
+     540,
+     260,
+     0
+    ],
+    [
+     1300,
+     300,
+     540,
+     260,
+     0
+    ]
+   ]
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "Tính dục mở rộng là lựa chọn khái niệm; bốn mốc trong văn bản; cấu trúc lý thuyết; cố định khác dồn nén; không quy tắc tính cách; quan sát mô tả; khỉ non là giải thích thay thế; pha chưa đủ bằng chứng.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc văn bản gốc"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "F07 · J",
+   "visual_brief": "Danh sách tám ý; hai thẻ nhấn mạnh."
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 1–2",
+   "body": "Địa vị của các pha sớm theo Freud; cố định, hồi quy và dồn nén.",
+   "nodes": [
+    [
+     "Câu 1",
+     "Cấu trúc lý thuyết"
+    ],
+    [
+     "Câu 2",
+     "Cố định / hồi quy"
+    ]
+   ],
+   "source": "[S1] · F07 · K",
+   "visual_brief": "Hai thẻ câu hỏi; đáp án ở ghi chú."
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 3–5",
+   "body": "Giải thích thay thế cho 'tính cách hậu môn'; dữ liệu giảm theo tuổi có chứng minh tiềm ẩn không; phản hồi trong ca Minh.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Giải thích thay thế"
+    ],
+    [
+     "Câu 4",
+     "Dữ liệu và cơ chế"
+    ],
+    [
+     "Câu 5",
+     "Ca Minh"
+    ]
+   ],
+   "source": "[S5] [S6] [S1] · F07 · K",
+   "visual_brief": "Ba thẻ câu hỏi."
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Nguồn đã đọc",
+   "body": "Tám nguồn; hai văn bản Freud đọc các đoạn nêu; Harlow đọc phần liên quan; bốn nguồn khác đọc abstract. Link bấm được ở slide nguồn.",
+   "nodes": [
+    [
+     "S1–S2",
+     "Văn bản Freud"
+    ],
+    [
+     "S3",
+     "Westen"
+    ],
+    [
+     "S4",
+     "Harlow"
+    ],
+    [
+     "S5–S8",
+     "Quan sát và đo lường"
+    ]
+   ],
+   "source": "F07 · L",
+   "visual_brief": "Danh sách tám thẻ có link; gen.py lấy URL từ mục L."
+  },
+  {
+   "layout": "closing",
+   "section": "F07 · KẾT",
+   "chapter": "Kết",
+   "title": "Mô hình\nkhông phải quy luật",
+   "body": "Đọc trước: F02, F05, F06. Đọc tiếp: F08.",
+   "nodes": [
+    [
+     "Đọc trước",
+     "F02 · F05 · F06"
+    ],
+    [
+     "Đọc tiếp",
+     "F08"
+    ]
+   ],
+   "source": "F07 · drafted · review pending",
+   "visual_brief": "Bìa kết tối; một câu kết.",
+   "right": "TÂM – TÍNH DỤC, ĐÚNG MỨC"
+  }
+ ]
+}

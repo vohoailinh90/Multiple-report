@@ -1,0 +1,469 @@
+{
+ "title": "OKX trong giao dịch: sàn, sản phẩm, tài khoản, phí và rủi ro",
+ "subtitle": "Không phải lời khuyên đầu tư. Số liệu tính đến 12/11/2026.",
+ "slides": [
+  {
+   "title": "Mục lục",
+   "section": "Tóm tắt",
+   "chapter": "Mục lục",
+   "layout": "contents",
+   "tone": "light",
+   "bullets": [
+    "Tổng quan và sản phẩm: OKX là sàn nào, từ đâu ra, bán những sản phẩm gì",
+    "Tài khoản và ký quỹ: tài khoản hợp nhất, bốn chế độ, ký quỹ chéo và cô lập",
+    "Hợp đồng vĩnh cửu và funding: đòn bẩy, thanh lý, giá đánh dấu và dòng tiền funding",
+    "Chi phí và công cụ: bảng phí theo bậc, API, khóa và giao dịch thử",
+    "Rủi ro và cách dùng: Proof of Reserves, rủi ro cụ thể, quy trình thận trọng, giới hạn nguồn"
+   ],
+   "sources": [],
+   "notes": "Trang này là bản đồ của cả bài, để bạn biết trước năm chương lớn. Chương một nói OKX là gì và có những sản phẩm nào. Chương hai giải thích tài khoản hợp nhất và các chế độ ký quỹ. Chương ba đi vào hợp đồng vĩnh cửu: đòn bẩy, thanh lý và funding. Chương bốn nói về chi phí, tức bảng phí, và về công cụ, tức API. Chương năm gom lại phần minh bạch dự trữ, rủi ro, một quy trình dùng có kỷ luật và những giới hạn của chính bài này. Mỗi trang sau có nhãn chương ở đầu trang, cùng màu với số chương ở mục lục."
+  },
+  {
+   "title": "Một sàn, một tài khoản, nhiều thị trường",
+   "section": "Tóm tắt",
+   "chapter": "Tổng quan và sản phẩm",
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "OKX gộp giao ngay, ký quỹ, hợp đồng vĩnh cửu, kỳ hạn và quyền chọn vào một hệ tài khoản [S8][S2]",
+    "Chi phí thật nằm ở đòn bẩy, funding và bậc phí [S3][S5][S7]"
+   ],
+   "sources": [
+    "S2",
+    "S3",
+    "S5",
+    "S7",
+    "S8"
+   ],
+   "notes": "Đây là ý tóm tắt cả bài. OKX là sàn tập trung, nên bạn gửi tài sản lên sàn và giao dịch trên sổ lệnh của sàn. Điều làm OKX khác một ứng dụng mua bán đơn giản là tài khoản hợp nhất: cùng một tài khoản có thể giữ giao ngay lẫn phái sinh. Hệ quả hai mặt: vốn dùng hiệu quả hơn, nhưng rủi ro cũng nối với nhau giữa các vị thế. Ba thứ quyết định chi phí và rủi ro của bạn là đòn bẩy, funding của hợp đồng vĩnh cửu và bậc phí, mà bậc phí lại phụ thuộc khu vực. Phần còn lại của bài đi lần lượt qua từng thứ."
+  },
+  {
+   "title": "OKX qua các mốc: từ Okcoin 2013 đến vòng vốn 2026",
+   "section": "OKX là gì và lịch sử",
+   "chapter": "Tổng quan và sản phẩm",
+   "layout": "timeline",
+   "tone": "light",
+   "bullets": [
+    "2013: Okcoin do Star Xu lập (Wikipedia gắn nhãn cần dẫn nguồn) [S1]",
+    "2017: ra mắt OKEx ở Hồng Kông [S1]",
+    "2018: thanh lý 416 triệu USD, thu hồi lãi 17% [S1]",
+    "2020: tạm ngừng rút tiền gần ba tuần [S1]",
+    "2022: đổi tên OKX; 2025: hoạt động lại ở Mỹ [S1]",
+    "2026: ICE đầu tư, định giá 25 tỷ USD [S1]"
+   ],
+   "sources": [
+    "S1"
+   ],
+   "notes": "Trục thời gian lấy từ Wikipedia, nên mức chắc chắn là của một bách khoa mở: ai cũng sửa được và chính trang này còn một chỗ gắn nhãn cần dẫn nguồn ở năm sáng lập. Hai mốc đáng chú ý nhất cho người giao dịch là năm 2018 và 2020. Năm 2018, một vị thế đòn bẩy lớn bị thanh lý lỗ nặng, quỹ bảo hiểm không đủ, và người đang có lãi chưa thực hiện bị thu hồi 17% lãi. Năm 2020, sàn tạm ngừng rút tiền trong lúc người sáng lập hợp tác với cuộc điều tra. Bài không đánh giá các sự kiện này, chỉ ghi lại để bạn biết sàn từng có sự cố."
+  },
+  {
+   "title": "Hồ sơ nhanh về OKX",
+   "section": "OKX là gì và lịch sử",
+   "chapter": "Tổng quan và sản phẩm",
+   "layout": "profile-card",
+   "tone": "dark",
+   "bullets": [],
+   "sources": [
+    "S1"
+   ],
+   "notes": "Thẻ hồ sơ này gom bốn điều cần biết trước khi đọc tiếp. Thứ nhất, OKX là sàn tập trung, tức sàn giữ tài sản và khớp lệnh cho bạn, khác với sàn phi tập trung chạy trên blockchain. Thứ hai, OKB là token riêng của sàn, và từ 2025 OKB là token gas duy nhất của mạng X Layer. Thứ ba, các mốc pháp lý trong Wikipedia gồm Dubai, Hồng Kông, Pháp và Mỹ; đây không phải danh sách đầy đủ và không nói gì về Việt Nam. Thứ tư, Wikipedia ghi OKX hoạt động lại ở Mỹ từ tháng 4 năm 2025 với trụ sở ở San Jose, California.",
+   "facts": [
+    {
+     "label": "Loại hình",
+     "text": "Sàn tiền mã hóa tập trung, trước là OKEx, đổi tên OKX năm 2022 [S1]"
+    },
+    {
+     "label": "Token riêng",
+     "text": "OKB; từ 2025 là token gas duy nhất của mạng X Layer [S1]"
+    },
+    {
+     "label": "Mốc pháp lý",
+     "text": "Dubai (tạm thời, 2022), Hồng Kông (đơn, 2023), Pháp (2023), Mỹ (2025) [S1]"
+    },
+    {
+     "label": "Chưa xác minh",
+     "text": "Tình trạng cấp phép và phục vụ ở Việt Nam: bài không biết"
+    }
+   ]
+  },
+  {
+   "title": "Năm nhóm công cụ giao dịch và các sản phẩm xung quanh",
+   "section": "Sản phẩm giao dịch trên OKX",
+   "chapter": "Tổng quan và sản phẩm",
+   "layout": "card-grid",
+   "tone": "light",
+   "bullets": [
+    "Giao ngay và ký quỹ: mua bán tiền mã hóa; ký quỹ cho phép vay để giao dịch [S8]",
+    "Phái sinh: hợp đồng vĩnh cửu, kỳ hạn và quyền chọn, có đòn bẩy [S8][S7]",
+    "Tự động: bot giao dịch, sao chép giao dịch, API và bộ công cụ đại lý AI [S7]",
+    "Mở rộng: TradFi (cổ phiếu, ETF, hàng hóa), Earn, Loan; menu bản Hoa Kỳ [S7]"
+   ],
+   "sources": [
+    "S7",
+    "S8"
+   ],
+   "notes": "Bốn thẻ này chia sản phẩm theo mục đích. Hai thẻ đầu là nền: giao ngay và ký quỹ, rồi phái sinh. Thẻ ba là công cụ tự động: bot, sao chép giao dịch người khác, và API cho ai muốn tự lập trình. Thẻ bốn là mở rộng như TradFi, tức giao dịch cổ phiếu, ETF và hàng hóa bằng tiền mã hóa, cùng Earn và Loan. Lưu ý quan trọng: danh sách sản phẩm ở thẻ ba và bốn lấy từ menu của bản Hoa Kỳ. Sản phẩm có sẵn khác nhau theo khu vực, nên đừng cho rằng mọi thứ ở đây đều dùng được tại nơi bạn sống."
+  },
+  {
+   "title": "instType: cách tài liệu API phân loại công cụ",
+   "section": "Sản phẩm giao dịch trên OKX",
+   "chapter": "Tổng quan và sản phẩm",
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "SPOT: giao ngay, mua bán trực tiếp tài sản [S8]",
+    "MARGIN: giao dịch ký quỹ trên thị trường giao ngay [S8]",
+    "SWAP: hợp đồng vĩnh cửu, không có ngày hết hạn [S8][S3]",
+    "FUTURES: hợp đồng kỳ hạn, có ngày hết hạn [S8][S3]",
+    "OPTION: quyền chọn [S8]"
+   ],
+   "sources": [
+    "S3",
+    "S8"
+   ],
+   "notes": "Nếu bạn muốn một danh sách gọn và chính xác, đây là năm giá trị instType trong tài liệu API của OKX. Tên gọi trên giao diện có thể khác, nhưng bản chất nằm ở năm nhóm này. SWAP là hợp đồng vĩnh cửu: không có ngày hết hạn định sẵn, nên cần cơ chế funding để giá hợp đồng không trôi xa giá giao ngay. FUTURES là hợp đồng kỳ hạn, có ngày thanh toán cuối cùng. Chỗ dễ nhầm: MARGIN là giao dịch ký quỹ trên thị trường giao ngay, không phải hợp đồng phái sinh. Loại lệnh như market, limit, post_only, fok, ioc cũng nằm trong cùng tài liệu và áp dụng khác nhau theo từng loại công cụ."
+  },
+  {
+   "title": "Tài khoản hợp nhất: một tài khoản cho giao ngay và phái sinh",
+   "section": "Tài khoản hợp nhất và các chế độ ký quỹ",
+   "chapter": "Tài khoản và ký quỹ",
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Ở đâu: Trade, rồi Cài đặt, rồi Chế độ tài khoản [S2]",
+    "Làm gì: bù trừ lãi lỗ giữa thị trường; ký quỹ tính trên tổng vị thế [S2]",
+    "Đừng hiểu nhầm: đổi chế độ cần hủy hết lệnh và đóng hết vị thế [S2]"
+   ],
+   "sources": [
+    "S2"
+   ],
+   "notes": "Hãy hình dung trước đây bạn phải giữ tiền ở nhiều ví riêng cho giao ngay, hợp đồng và quyền chọn, rồi chuyển qua lại. Tài khoản hợp nhất bỏ phần đó. Lợi ích kép là vốn linh hoạt hơn và lãi lỗ giữa các thị trường bù trừ được. Nhưng cái giá là rủi ro cũng chung: yêu cầu ký quỹ tính trên toàn bộ vị thế và nợ trong tài khoản. Chỗ dễ nhầm là đổi chế độ không phải bấm một nút: OKX đòi bạn hủy hết lệnh chờ, đóng hết vị thế, và chế độ cao hơn có thể phải làm bài kiểm tra kiến thức trước.",
+   "body": "**Tài khoản hợp nhất** (unified account) cho phép dùng giao ngay, hợp đồng vĩnh cửu, kỳ hạn và quyền chọn trong **một tài khoản**, không cần chuyển vốn qua lại [S2]. Lãi lỗ ở các thị trường có thể **bù trừ**, nên vốn được dùng hiệu quả hơn, và yêu cầu ký quỹ tính trên tổng vị thế cùng tổng nợ của tài khoản [S2]. Đổi chế độ chỉ làm được khi đã hủy hết lệnh chờ và đóng hết vị thế [S2]."
+  },
+  {
+   "title": "Bốn chế độ tài khoản, từ đơn giản đến ký quỹ danh mục",
+   "section": "Tài khoản hợp nhất và các chế độ ký quỹ",
+   "chapter": "Tài khoản và ký quỹ",
+   "layout": "layers",
+   "tone": "dark",
+   "bullets": [
+    "1. Chế độ đơn giản: mặc định cho người mới; không có giao dịch ký quỹ [S2]",
+    "2. Ký quỹ một loại tiền: cùng tiền thanh toán thì dùng chung ký quỹ [S2]",
+    "3. Ký quỹ đa tiền: chia sẻ ký quỹ và bù trừ lãi lỗ giữa mọi vị thế [S2]",
+    "4. Ký quỹ danh mục: thêm bù trừ rủi ro giữa phái sinh cùng chỉ số [S2]",
+    "Tài liệu API gọi bốn chế độ bằng tên khác (Spot, Futures...) [S8]"
+   ],
+   "sources": [
+    "S2",
+    "S8"
+   ],
+   "notes": "Bốn tầng này tăng dần độ phức tạp và độ linh hoạt vốn. Tầng đầu, chế độ đơn giản, là mặc định cho người mới và không cho giao dịch ký quỹ. Tầng hai gom các sản phẩm cùng tiền thanh toán. Tầng ba cho chia sẻ ký quỹ giữa các vị thế dù khác tiền thanh toán. Tầng bốn, ký quỹ danh mục, thêm bù trừ rủi ro giữa các phái sinh cùng chỉ số. Chỗ dễ nhầm đáng nhớ: tài liệu API đặt tên bốn chế độ là Spot, Futures, Multi-currency margin và Portfolio margin, khác với trang Learn. Khi đọc, hãy đối chiếu theo tính năng chứ không theo tên."
+  },
+  {
+   "title": "Ký quỹ chéo và cô lập: chia sẻ rủi ro hay tách rủi ro",
+   "section": "Tài khoản hợp nhất và các chế độ ký quỹ",
+   "chapter": "Tài khoản và ký quỹ",
+   "layout": "two-column-comparison",
+   "tone": "light",
+   "bullets": [
+    "Chéo (cross): vị thế chia sẻ ký quỹ trong phạm vi chung và bù trừ lãi lỗ cho nhau [S2]",
+    "Cô lập (isolated): rủi ro của vị thế cô lập được đo riêng, tách khỏi vị thế chéo [S2]",
+    "Tự tính: chéo tận dụng vốn nhưng một vị thế xấu có thể lấy ký quỹ của vị thế khác"
+   ],
+   "sources": [
+    "S2"
+   ],
+   "notes": "Đây là quyết định bạn gặp ở mỗi vị thế. Ký quỹ chéo dùng chung vốn: ưu điểm là tận dụng vốn, nhược điểm là một vị thế xấu có thể ăn vào ký quỹ đang chống đỡ vị thế khác. Ký quỹ cô lập giới hạn thiệt hại vào phần ký quỹ gán cho vị thế đó. Trong mọi chế độ tài khoản, OKX cho phép cô lập vị thế, và rủi ro cô lập được đo riêng khỏi vị thế chéo. Câu cuối trên trang là suy luận của người viết từ cách OKX mô tả, không phải câu trích nguyên văn từ nguồn."
+  },
+  {
+   "title": "Hợp đồng vĩnh cửu và đòn bẩy: ví dụ 0,1 BTC",
+   "section": "Hợp đồng vĩnh cửu và funding",
+   "chapter": "Hợp đồng vĩnh cửu và funding",
+   "layout": "explainer",
+   "tone": "dark",
+   "bullets": [
+    "Là gì: phái sinh không có ngày hết hạn; lãi lỗ chạy theo quy tắc hợp đồng [S3]",
+    "Đòn bẩy: ví dụ 6.000 USDT danh nghĩa trên 600 USDT ký quỹ là 10 lần [S3]",
+    "Đừng hiểu nhầm: thanh lý có thể xảy ra trước khi mất hết vốn ban đầu [S3]"
+   ],
+   "sources": [
+    "S3"
+   ],
+   "notes": "Ví dụ gốc của OKX: mua 0,1 BTC ở 60.000 USDT, đóng ở 61.000 USDT, lãi giá là 100 USDT chưa tính phí. Giá trị danh nghĩa là 6.000 USDT, nếu ký quỹ 600 USDT thì đòn bẩy đơn giản là 10 lần, nhưng lãi lỗ vẫn tính trên 0,1 BTC chứ không phải 600 USDT. Chỗ dễ nhầm lớn nhất: nhiều người nghĩ mình chỉ mất khi hết 600 USDT. Thực tế nền tảng so vốn với yêu cầu duy trì, nên lệnh có thể bị hủy, giảm hoặc thanh lý sớm hơn. Tự tính: ở 10 lần, giá đi ngược khoảng 10% đã gần xóa ký quỹ ban đầu.",
+   "body": "Một **hợp đồng vĩnh cửu** (perpetual contract) là phái sinh không có ngày hết hạn định sẵn, cho phép mua hoặc bán với BTC mà không cần giao dịch giao ngay [S3]. Ký quỹ 600 USDT cho vị thế 0,1 BTC ở 60.000 USDT (6.000 USDT danh nghĩa) là **đòn bẩy** 10 lần [S3]. Thua lỗ giá hoặc funding làm giảm vốn, nên lệnh có thể bị **thanh lý** mà không chờ mất hết vốn ban đầu [S3]."
+  },
+  {
+   "title": "Ba loại giá: khớp gần nhất, chỉ số, đánh dấu",
+   "section": "Hợp đồng vĩnh cửu và funding",
+   "chapter": "Hợp đồng vĩnh cửu và funding",
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Giá khớp gần nhất (last): giá của giao dịch thực tế mới nhất của hợp đồng [S3]",
+    "Giá chỉ số (index): tham chiếu giao ngay từ các nguồn quy định, dùng cho funding [S3]",
+    "Giá đánh dấu (mark): định giá rủi ro, như lãi lỗ chưa thực hiện và đủ ký quỹ [S3]",
+    "Giá đánh dấu giảm ảnh hưởng của vài giao dịch bất thường trên một thị trường [S3]"
+   ],
+   "sources": [
+    "S3"
+   ],
+   "notes": "Ba giá này hay bị nhầm là một. Giá khớp gần nhất chỉ cho thấy giao dịch vừa xảy ra. Giá chỉ số là thước giao ngay mà hợp đồng được so để tính funding. Giá đánh dấu là giá mà nền tảng dùng để xét bạn còn đủ ký quỹ hay chưa. Vì thế bạn có thể thấy giá khớp chạm một mức nhưng vị thế chưa bị thanh lý, hoặc ngược lại. Theo OKX, giá đánh dấu giúp một cú giao dịch bất thường ngắn hạn không kéo cả hệ thống xét rủi ro đi sai. Công thức cụ thể phụ thuộc từng sản phẩm, nên cần đọc thông số hợp đồng."
+  },
+  {
+   "title": "Funding hình thành thế nào: từ sổ lệnh đến khoản trả",
+   "section": "Hợp đồng vĩnh cửu và funding",
+   "chapter": "Hợp đồng vĩnh cửu và funding",
+   "layout": "flow",
+   "tone": "dark",
+   "bullets": [
+    "Premium mỗi phút: chênh lệch giá khớp ảo hai phía so với giá chỉ số [S5]",
+    "Premium trung bình + kẹp(lãi suất 0,01% − premium trung bình, ±0,05%) [S5]",
+    "Chia cho 8/N theo chu kỳ, rồi mới kẹp trong trần và sàn [S5]",
+    "Dương: bên mua trả bên bán; âm: ngược lại [S5]",
+    "Chốt mặc định lúc 00:00, 08:00, 16:00 UTC cho người giữ vị thế [S5]"
+   ],
+   "sources": [
+    "S5"
+   ],
+   "notes": "Năm hộp này đi theo thứ tự tính funding của OKX. Mỗi phút hệ thống đo premium, tức độ lệch của giá khớp ảo so với giá chỉ số, với giá trị khớp ảo bằng 200 lần đòn bẩy tối đa. Các premium trong chu kỳ được lấy trung bình có trọng số. Rồi cộng thêm phần điều chỉnh: lãi suất cố định 0,01% trừ premium trung bình, kết quả kẹp trong ±0,05%; ví dụ premium 0,03% thì phần điều chỉnh là −0,02%, nên tổng là 0,01% chứ không phải 0,04%. Tổng đó chia cho 8/N để chu kỳ nào cũng cho chi phí ngày tương đương, và chỉ sau khi chia mới áp trần và sàn của hợp đồng. Cuối cùng chỉ người đang giữ vị thế lúc chốt mới trả hoặc nhận. Nền tảng chỉ chuyển tiền giữa hai bên và không thu phí dịch vụ trong cơ chế này."
+  },
+  {
+   "title": "0,03% mỗi ngày",
+   "section": "Hợp đồng vĩnh cửu và funding",
+   "chapter": "Hợp đồng vĩnh cửu và funding",
+   "layout": "one-big-number",
+   "tone": "light",
+   "bullets": [
+    "Ví dụ OKX: 0,01% mỗi 8 giờ, ba lần tính, cộng 0,03% giá trị vị thế mỗi ngày [S4]",
+    "Ví dụ 1.000 USDT với +0,01%, +0,03%, −0,02%: bên mua ròng trả 0,2 USDT [S4]",
+    "Funding và phí giao dịch là hai dòng tiền riêng [S3]"
+   ],
+   "sources": [
+    "S3",
+    "S4"
+   ],
+   "notes": "Con số 0,03% là ví dụ giả định của OKX, không phải tỷ lệ funding thật; tỷ lệ thật thay đổi theo hợp đồng và theo thời điểm. Ý nghĩa của nó là cho bạn một cảm giác độ lớn: nếu tỷ lệ cứ dương 0,01% mỗi tám giờ và bạn ở phía mua, mỗi ngày bạn trả khoảng 0,03% giá trị vị thế, khác hẳn phí giao dịch một lần. Chỗ dễ nhầm: tỷ lệ tính trên giá trị vị thế chứ không phải trên ký quỹ, nên với đòn bẩy cao, phần trăm funding so với vốn của bạn lớn hơn nhiều. Phần này là suy luận từ công thức, ví dụ gốc không tính điều đó."
+  },
+  {
+   "title": "Bảng phí giao ngay chuẩn của OKX Hoa Kỳ",
+   "section": "Phí giao dịch",
+   "chapter": "Chi phí và công cụ",
+   "layout": "lookup-table",
+   "tone": "dark",
+   "bullets": [
+    "Regular: maker 0,20% · taker 0,35% [S7]",
+    "VIP 1: maker 0,10% · taker 0,20% [S7]",
+    "VIP 2: maker 0,075% · taker 0,15% [S7]",
+    "VIP 3: maker 0,06% · taker 0,125% [S7]",
+    "VIP 4: maker 0,05% · taker 0,10% [S7]",
+    "VIP 5: maker 0,045% · taker 0,08% [S7]"
+   ],
+   "sources": [
+    "S7"
+   ],
+   "notes": "Đây là sáu hàng đầu của bảng phí giao ngay chuẩn trên trang OKX Hoa Kỳ, mà phiên viết đọc được. Bảng còn thêm bậc VIP 6 và cao hơn, bài không chép hết. Maker là người đặt lệnh nằm chờ trong sổ lệnh, taker là người khớp ngay với lệnh có sẵn; taker trả cao hơn. Tự tính: ở bậc Regular, một lệnh taker 1.000 USD mất 3,5 USD, khứ hồi bằng hai lệnh taker mất 7 USD, còn lệnh maker 1.000 USD mất 2 USD. Đây là phí giao ngay của bản Hoa Kỳ, không phải bản dành cho bạn; đọc trang tiếp theo trước khi tin các con số."
+  },
+  {
+   "title": "Phí không phải một con số: theo bậc, theo khu vực, theo sản phẩm",
+   "section": "Phí giao dịch",
+   "chapter": "Chi phí và công cụ",
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Ở đâu: trang phí của khu vực bạn dùng, không phải trang của khu vực khác [S7]",
+    "Làm gì: tính phí maker hoặc taker rồi cộng funding nếu giữ vị thế qua mốc [S7][S4]",
+    "Đừng hiểu nhầm: bài không biết phí bản quốc tế hay bản Việt Nam"
+   ],
+   "sources": [
+    "S4",
+    "S7"
+   ],
+   "notes": "Điều dễ nhầm nhất khi tìm hiểu phí của một sàn là tin con số đầu tiên thấy trên mạng. Phí của OKX theo bậc VIP và có bảng riêng cho từng loại sản phẩm, ví dụ cặp stablecoin có tab riêng. Phiên viết bài này mở trang phí toàn cầu thì bị chuyển về bản Hoa Kỳ, nên bảng ở trang trước chỉ đúng cho bản đó. Nhiều trang bên thứ ba nêu mức khác, nhưng bài không dùng vì không phải nguồn chính và không kiểm được. Cách làm an toàn: mở trang phí khu vực của bạn, ghi bậc hiện tại, rồi cộng funding nếu bạn giữ hợp đồng vĩnh cửu qua các mốc tính.",
+   "body": "Phí của OKX tính theo **bậc**: người dùng thường rồi VIP 1 trở lên, phí giảm khi lên bậc, và có bảng riêng cho từng loại sản phẩm [S7]. Bảng của bài là phí giao ngay chuẩn của **bản Hoa Kỳ**; bài không biết phí bản dành cho bạn. Với hợp đồng vĩnh cửu, phí giao dịch là một dòng tiền, còn **funding** là dòng tiền riêng cộng thêm nếu bạn giữ vị thế qua các mốc tính [S4][S7]."
+  },
+  {
+   "title": "API của OKX: khóa, chữ ký và hai kênh REST, WebSocket",
+   "section": "API và giao dịch tự động",
+   "chapter": "Chi phí và công cụ",
+   "layout": "connection-diagram",
+   "tone": "dark",
+   "bullets": [
+    "Khóa API + secret + passphrase: passphrase mất thì không khôi phục được [S8]",
+    "Chữ ký và dấu thời gian: lệch quá 30 giây bị từ chối [S8]",
+    "REST và WebSocket: hai kênh, giới hạn tốc độ khác nhau theo điểm cuối [S8]",
+    "Demo trading: khóa demo riêng, tiêu đề x-simulated-trading: 1 [S8]"
+   ],
+   "sources": [
+    "S8"
+   ],
+   "notes": "Sơ đồ đặt tài liệu API ở giữa vì mọi thứ tự động đều đi qua nó. Bốn nút xung quanh là điều cần nắm. Một: bạn có khóa API, khóa bí mật và passphrase; OKX chỉ lưu bản băm của passphrase nên mất là phải tạo bộ khóa mới. Hai: mỗi yêu cầu riêng tư phải ký, và dấu thời gian lệch quá 30 giây bị từ chối. Ba: có kênh REST và kênh WebSocket, mỗi điểm cuối có giới hạn tốc độ riêng, bị chặn thì nhận mã lỗi 50011. Bốn: có môi trường giao dịch thử, dùng khóa demo và thêm một tiêu đề riêng vào yêu cầu."
+  },
+  {
+   "title": "Ba quyền của khóa API và nguyên tắc quyền tối thiểu",
+   "section": "API và giao dịch tự động",
+   "chapter": "Chi phí và công cụ",
+   "layout": "card-grid",
+   "tone": "light",
+   "bullets": [
+    "Read: xem thông tin tài khoản, hóa đơn, lịch sử lệnh [S8]",
+    "Trade: đặt và hủy lệnh, chuyển quỹ, đổi cài đặt [S8]",
+    "Withdraw: rút tiền [S8]",
+    "Suy luận: bot chỉ đặt lệnh nên chỉ cần Read và Trade [S8]"
+   ],
+   "sources": [
+    "S8"
+   ],
+   "notes": "Ba quyền này gán được riêng lẻ hoặc kết hợp cho từng khóa. Read chỉ xem, an toàn nhất. Trade cho phép đặt, hủy lệnh và cả chuyển quỹ, nên khóa Trade bị lộ đã có thể gây thiệt hại đáng kể. Withdraw cho rút tiền ra ngoài, là quyền nguy hiểm nhất. Thẻ cuối là suy luận của người viết: một bot giao dịch chỉ cần đặt và hủy lệnh, nên đừng cấp Withdraw. Ngoài quyền, hãy dùng môi trường giao dịch thử trước, vì OKX cho tạo khóa demo riêng, và đặt expTime để lệnh gửi trễ không bị xử lý quá hạn."
+  },
+  {
+   "title": "Proof of Reserves: những con số trên trang của OKX",
+   "section": "Minh bạch, dự trữ và rủi ro",
+   "chapter": "Rủi ro và cách dùng",
+   "layout": "profile-card",
+   "tone": "dark",
+   "bullets": [],
+   "sources": [
+    "S6"
+   ],
+   "notes": "Bốn thẻ này gom những gì OKX tự công bố. Báo cáo thứ 49 ghi 33,87 tỷ USD trên 21 tài sản. Tỷ lệ dự trữ từng tài sản như BTC 108%, ETH 101%, USDT 106%, USDC 100% có nghĩa tài sản ví lớn hơn hoặc bằng số dư tài khoản, vào thời điểm lấy dữ liệu. Về cách kiểm, OKX dùng cây Merkle và zk-STARK để người dùng kiểm số dư của mình nằm trong báo cáo. Chú ý hai điều: báo cáo là ảnh chụp tại một thời điểm, và phần tài sản ở nhà lưu ký bên thứ ba phải liên hệ nhà lưu ký đó để xác minh.",
+   "facts": [
+    {
+     "label": "Báo cáo thứ 49",
+     "text": "33,87 tỷ USD trên 21 tài sản; 27,82 tỷ USD là BTC, ETH, USDT, USDC [S6]"
+    },
+    {
+     "label": "Tỷ lệ dự trữ",
+     "text": "BTC 108%, ETH 101%, USDT 106%, USDC 100% [S6]"
+    },
+    {
+     "label": "Cách kiểm",
+     "text": "Cây Merkle và zk-STARK: kiểm số dư của bạn nằm trong tổng tài sản [S6]"
+    },
+    {
+     "label": "Giới hạn trên trang",
+     "text": "Ảnh chụp tại một thời điểm; tài sản ở bên lưu ký thứ ba phải xác minh riêng [S6]"
+    }
+   ]
+  },
+  {
+   "title": "PoR cho biết gì và không cho biết gì",
+   "section": "Minh bạch, dự trữ và rủi ro",
+   "chapter": "Rủi ro và cách dùng",
+   "layout": "explainer",
+   "tone": "light",
+   "bullets": [
+    "Cho biết: tài sản ví không thấp hơn tổng số dư tài khoản lúc chụp [S6]",
+    "Không cho biết: tên kiểm toán độc lập, giấy phép, thanh khoản, vận hành [S6]",
+    "Đừng hiểu nhầm: do chính OKX phát hành; coi là một lớp thông tin"
+   ],
+   "sources": [
+    "S6"
+   ],
+   "notes": "Proof of Reserves là một công cụ minh bạch có giá trị: nếu tổng tài sản trong ví on-chain bằng hoặc lớn hơn tổng số dư tài khoản trong cây Merkle, tỷ lệ dự trữ đạt. Nhưng hãy đọc đúng phạm vi. Đây là ảnh chụp tại một thời điểm, do chính OKX công bố, và trong phần văn bản bài đọc được, trang không nêu tên một đơn vị kiểm toán độc lập. Suy luận của người viết: PoR không thay thế giấy phép, kiểm toán độc lập hay bảo đảm rằng bạn rút tiền được ngay khi thị trường biến động. Dùng nó cùng các thông tin khác, không dùng nó một mình.",
+   "body": "OKX nói giữ dự trữ **1:1** cho tài sản trong tài khoản và công bố báo cáo định kỳ; người dùng có thể kiểm số dư của mình qua cây Merkle và zk-STARK [S6]. Báo cáo là **ảnh chụp** tại thời điểm lấy dữ liệu, do chính sàn phát hành, và tài sản ở bên lưu ký thứ ba phải xác minh riêng [S6]. Suy luận của người viết: PoR không thay cho giấy phép, kiểm toán độc lập hay bảo đảm thanh khoản."
+  },
+  {
+   "title": "Bốn nguồn rủi ro cụ thể rút ra từ các nguồn",
+   "section": "Minh bạch, dự trữ và rủi ro",
+   "chapter": "Rủi ro và cách dùng",
+   "layout": "card-grid",
+   "tone": "dark",
+   "bullets": [
+    "Thanh lý: ký quỹ không đủ thì lệnh bị hủy, giảm hoặc thanh lý [S3]",
+    "Funding: làm giảm ký quỹ khi bạn ở phía trả; chạy mỗi 8 giờ [S3][S5]",
+    "Khu vực: sản phẩm và phí khác nhau, OKX ghi có thể không áp dụng cho mọi khách [S5][S7]",
+    "Lịch sử sự cố: thu hồi lãi 17% (2018), ngừng rút tiền (2020) [S1]"
+   ],
+   "sources": [
+    "S1",
+    "S3",
+    "S5",
+    "S7"
+   ],
+   "notes": "Bốn thẻ này không phải danh sách đầy đủ mọi rủi ro, chỉ là những rủi ro mà các nguồn bài đọc nêu ra trực tiếp. Thanh lý và funding là rủi ro cơ học của đòn bẩy và hợp đồng vĩnh cửu. Khu vực là rủi ro dễ bị quên: chính OKX ghi rằng một số bài và quy tắc có thể không áp dụng cho mọi khách hàng, nên điều bạn đọc ở một trang có thể không đúng với tài khoản của bạn. Lịch sử sự cố là dữ kiện từ Wikipedia, nhắc rằng sàn từng thu hồi lãi của người thắng và từng tạm ngừng rút tiền; không có nghĩa sự cố sẽ lặp lại."
+  },
+  {
+   "title": "Quy trình sáu bước để dùng OKX có kỷ luật",
+   "section": "Cách dùng OKX có kỷ luật",
+   "chapter": "Rủi ro và cách dùng",
+   "layout": "numbered-rows",
+   "tone": "light",
+   "bullets": [
+    "Xác định pháp nhân và khu vực; tự kiểm tra cấp phép ở nơi bạn sống [S5][S7]",
+    "Chọn chế độ tài khoản tối thiểu cần thiết; chế độ đơn giản không có ký quỹ [S2]",
+    "Đọc thông số hợp đồng: đơn vị, tiền thanh toán, ký quỹ, funding, thanh lý [S3]",
+    "Tính tổng chi phí: phí maker hoặc taker cộng funding nếu giữ qua mốc [S7][S4]",
+    "Thử trên demo trước; cấp khóa API quyền tối thiểu [S8]",
+    "Coi Proof of Reserves là một lớp thông tin, không phải bảo hiểm [S6]"
+   ],
+   "sources": [
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "notes": "Sáu bước này là suy luận của người viết, ghép từ các nguồn, không phải khuyến nghị đầu tư. Bước một đặt lên đầu vì mọi thứ khác phụ thuộc khu vực của bạn. Bước hai và ba là tránh dùng công cụ bạn chưa hiểu: bắt đầu ở chế độ đơn giản và đọc kỹ thông số hợp đồng. Bước bốn là gom chi phí đúng, vì phí và funding là hai dòng tiền riêng. Bước năm áp dụng nếu bạn dùng API hay bot: thử trên demo và chỉ cấp quyền cần thiết. Bước sáu nhắc rằng minh bạch dự trữ chỉ là một lớp thông tin, không phải bảo đảm."
+  },
+  {
+   "title": "Điều cần nhớ",
+   "section": "Điều cần nhớ",
+   "chapter": "Rủi ro và cách dùng",
+   "layout": "one-highlighted-sentence",
+   "tone": "dark",
+   "bullets": [
+    "Đòn bẩy khuếch đại cả lãi lẫn lỗ và có thể dẫn đến thanh lý trước khi mất hết vốn [S3]",
+    "Funding mặc định mỗi 8 giờ là dòng tiền riêng; phí và sản phẩm phụ thuộc khu vực [S5][S7]",
+    "Proof of Reserves hữu ích nhưng do chính sàn công bố [S6]"
+   ],
+   "sources": [
+    "S3",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "notes": "Ba câu này là phần cô đọng nhất của bài. Thứ nhất, đòn bẩy là con dao hai lưỡi và thanh lý có thể đến sớm hơn bạn nghĩ. Thứ hai, funding và phí là hai dòng tiền riêng, cộng lại mới ra chi phí thật, và cả hai phụ thuộc khu vực và bậc của bạn. Thứ ba, Proof of Reserves cho thêm thông tin về dự trữ nhưng không thay thế được việc bạn tự đánh giá giấy phép và rủi ro vận hành. Nếu chỉ nhớ một điều: đọc trang chính thức của đúng khu vực mình dùng trước khi đưa tiền lên sàn."
+  },
+  {
+   "title": "Lưu ý: giới hạn nguồn và không phải lời khuyên đầu tư",
+   "section": "Lưu ý",
+   "chapter": "Rủi ro và cách dùng",
+   "layout": "layers",
+   "tone": "light",
+   "bullets": [
+    "Bài không phải lời khuyên tài chính; giao dịch có đòn bẩy có thể mất toàn bộ vốn [S2]",
+    "Phí trong bài là của bản Hoa Kỳ; trang phí toàn cầu không đọc được [S7]",
+    "Chỉ có một nguồn ngoài OKX là Wikipedia; chưa có đánh giá độc lập mở được [S1]",
+    "Một vụ việc với cơ quan tư pháp Mỹ năm 2025 chưa kiểm chứng được; bài không dùng",
+    "Chưa xác minh cấp phép ở Việt Nam; số liệu tính đến 12/11/2026"
+   ],
+   "sources": [
+    "S1",
+    "S2",
+    "S7"
+   ],
+   "notes": "Trang này nói thẳng những gì bài không làm được. Bài không phải lời khuyên đầu tư. Con số phí chỉ đúng cho bản Hoa Kỳ vì trang toàn cầu không đọc được từ nơi phiên viết chạy. Nguồn ngoài OKX chỉ có Wikipedia. Kết quả tìm kiếm cho thấy có một vụ việc giữa OKX và cơ quan tư pháp Hoa Kỳ năm 2025, nhưng trang gốc trả về nội dung rỗng nên bài không dùng và không nêu chi tiết; nếu bạn cân nhắc dùng OKX, hãy tự tìm và đọc nguồn này. Bài cũng không xác minh tình trạng cấp phép ở Việt Nam. Mọi số liệu tính đến ngày 12 tháng 11 năm 2026 và đổi theo thời gian."
+  },
+  {
+   "title": "Nguồn tham khảo",
+   "section": "Nguồn tham khảo",
+   "chapter": "Nguồn tham khảo",
+   "layout": "references",
+   "tone": "dark",
+   "bullets": [
+    "S1: Wikipedia, OKX",
+    "S2: OKX Learn, What is a unified account?",
+    "S3: OKX Learn, What is a perpetual contract?",
+    "S4: OKX Learn, What is a funding rate?",
+    "S5: OKX Help, Perpetual futures funding fee mechanism",
+    "S6: OKX, Proof of Reserves",
+    "S7: OKX Hoa Kỳ, Trading fee (bảng phí và menu sản phẩm)",
+    "S8: OKX, API Guide v5 (tài liệu API)"
+   ],
+   "sources": [],
+   "notes": ""
+  }
+ ]
+}

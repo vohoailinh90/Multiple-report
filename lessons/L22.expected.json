@@ -1,0 +1,43 @@
+{
+  "id": "L22",
+  "title": "OKX trong giao dịch: sàn, sản phẩm, tài khoản, phí và rủi ro",
+  "topic": "khac",
+  "sections": [
+    "Tóm tắt",
+    "OKX là gì và lịch sử",
+    "Sản phẩm giao dịch trên OKX",
+    "Tài khoản hợp nhất và các chế độ ký quỹ",
+    "Hợp đồng vĩnh cửu và funding",
+    "Phí giao dịch",
+    "API và giao dịch tự động",
+    "Minh bạch, dự trữ và rủi ro",
+    "Cách dùng OKX có kỷ luật",
+    "Điều cần nhớ",
+    "Lưu ý",
+    "Nguồn tham khảo"
+  ],
+  "required_urls": [
+    "https://www.okx.com/en-us/learn/what-is-a-unified-account",
+    "https://www.okx.com/en-us/help/perps-funding-fee-mechanism",
+    "https://www.okx.com/docs-v5/en/"
+  ],
+  "key_terms": [
+    "OKX",
+    "tài khoản hợp nhất",
+    "hợp đồng vĩnh cửu",
+    "funding",
+    "đòn bẩy",
+    "ký quỹ",
+    "Proof of Reserves",
+    "API"
+  ],
+  "min_words": 1800,
+  "max_words": 30000,
+  "min_citations": 22,
+  "min_independent_sources": 8,
+  "min_layouts": 8,
+  "section_min_slides": 1,
+  "notes_words": [80, 200],
+  "language": "vi",
+  "slides": {"min": 22, "max": 28}
+}

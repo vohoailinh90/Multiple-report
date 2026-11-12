@@ -1,0 +1,20 @@
+{
+  "topic_label": "Giao dịch · Bài L22",
+  "motif": "feed",
+  "question": "OKX là sàn thế nào, đòn bẩy và funding lấy đi bao nhiêu, và rủi ro nào còn lại?",
+  "cards": [
+    "Tài khoản hợp nhất",
+    "Hợp đồng vĩnh cửu",
+    "Funding mỗi 8 giờ",
+    "Phí theo bậc"
+  ],
+  "concepts": [
+    "tài khoản",
+    "hợp đồng vĩnh cửu",
+    "đòn bẩy",
+    "funding"
+  ],
+  "big": {
+    "13": "0,03%"
+  }
+}

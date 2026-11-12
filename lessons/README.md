@@ -5,6 +5,7 @@
 | Chủ đề | Ngày | Bài | Tiêu đề | Slide |
 |---|---|---|---|---|
 | Khác | 2026-10-21 | [L06](L06/lesson.md) | Mạng xã hội và truyền thông tác động lên não | [L06.pptx](L06/L06.pptx) |
+| Khác | 2026-11-12 | [L22](L22/lesson.md) | OKX trong giao dịch: sàn, sản phẩm, tài khoản, phí và rủi ro | [L22.pptx](L22/L22.pptx) |
 | Kỹ thuật | 2026-10-21 | [L16](L16/lesson.md) | Grok Bot: đội agent AI chạy trên máy tính đám mây | [L16.pptx](L16/L16.pptx) |
 | Kỹ thuật | 2026-10-27 | [L17](L17/lesson.md) | Urea trong AdBlue khi nóng lên: từ biuret đến cặn | [L17.pptx](L17/L17.pptx) |
 | Kỹ thuật | 2026-10-27 | [L18](L18/lesson.md) | AdBlue từ lạnh đến nóng: các pha và biến đổi từ -5°C đến 450°C | [L18.pptx](L18/L18.pptx) |

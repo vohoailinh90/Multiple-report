@@ -1,0 +1,857 @@
+{
+ "title": "A06 · Compensation và Overcompensation — bù trừ và bù trừ quá mức",
+ "subtitle": "Nhiều đáp ứng cho một khó khăn",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/06-compensation-va-overcompensation.md",
+ "accent": "teal",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "A06 · BÙ TRỪ",
+   "chapter": "Mở đầu",
+   "title": "Bù trừ\nhay bù quá mức?",
+   "body": "Bài đọc cách Adler chuyển khái niệm bù trừ từ cơ quan yếu sang tâm hồn, phân biệt bù trừ linh hoạt với bù quá mức, rồi hỏi nghiên cứu hiện đại kiểm được gì.",
+   "nodes": [
+    [
+     "Một khó khăn",
+     "Điểm xuất phát"
+    ],
+    [
+     "Nhiều đáp ứng",
+     "Linh hoạt, quá mức, né tránh"
+    ]
+   ],
+   "source": "A06 · Câu hỏi trung tâm",
+   "right": "COMPENSATION · OVERCOMPENSATION"
+  },
+  {
+   "layout": "contents",
+   "section": "Mục lục",
+   "chapter": "Mục lục",
+   "title": "Mục lục",
+   "body": "Bảy chương lớn của bài, theo đúng thứ tự trong bài học.",
+   "nodes": [
+    [
+     "1 · Nguồn gốc khái niệm",
+     "Mục tiêu học tập, bối cảnh 1907–1927"
+    ],
+    [
+     "2 · Lý thuyết cốt lõi",
+     "Khái niệm, ba đáp ứng, điều không suy ra"
+    ],
+    [
+     "3 · Cơ chế giả thuyết",
+     "Chuỗi sáu bước và chỗ có thể kiểm"
+    ],
+    [
+     "4 · Ví dụ và ca",
+     "Ba ví dụ và ca giả định Thảo"
+    ],
+    [
+     "5 · Bằng chứng hiện đại",
+     "Bù trừ cảm giác, dyslexia, hung hăng"
+    ],
+    [
+     "6 · Ứng dụng và hình",
+     "Ứng dụng có điều kiện; hình tổng hợp"
+    ],
+    [
+     "7 · Ôn tập và nguồn",
+     "Takeaways, năm câu hỏi, nguồn"
+    ]
+   ],
+   "source": "A06 · Mục lục"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "chapter": "Nguồn gốc khái niệm",
+   "title": "Bốn việc cần làm được sau bài",
+   "body": "Giải thích, phân biệt, phân tích, đánh giá.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Bù trừ từ cơ thể đến tâm hồn"
+    ],
+    [
+     "02 · Phân biệt",
+     "Linh hoạt, quá mức, né tránh"
+    ],
+    [
+     "03 · Phân tích",
+     "Ít nhất ba giả thuyết"
+    ],
+    [
+     "04 · Đánh giá",
+     "Nghiên cứu lân cận"
+    ]
+   ],
+   "source": "A06 · A",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Nguồn gốc khái niệm",
+   "title": "Điểm xuất phát: cơ quan yếu (1907)",
+   "body": "Adler viết như bác sĩ: khiếm khuyết của một cơ quan có thể được chuyển thành phát triển cao hơn của chính cơ quan đó. Ví dụ ông nêu là Demosthenes. [S1, tr. 22]",
+   "nodes": [
+    [
+     "Cơ quan yếu",
+     "Khiếm khuyết"
+    ],
+    [
+     "Phát triển cao hơn",
+     "Khả năng, không phải bảo đảm"
+    ]
+   ],
+   "source": "[S1] tr. 22",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Nguồn gốc khái niệm",
+   "title": "Bù trừ không bảo đảm thành công",
+   "body": "Adler cũng ghi rằng cơ quan yếu đi kèm tỉ lệ bệnh và tử vong cao hơn, và nói thiên tài có thể là bù quá mức trong não kém. [S1, tr. 13, 68]",
+   "nodes": [
+    [
+     "Khả năng bù trừ",
+     "Tăng"
+    ],
+    [
+     "Tỉ lệ bệnh",
+     "Cũng tăng"
+    ]
+   ],
+   "source": "[S1] tr. 13, 68",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Nguồn gốc khái niệm",
+   "title": "Nâng lên tâm hồn (1913, 1925)",
+   "body": "Chương năm 1913: bất thường thể chất kéo theo hoạt động bù trừ; cấu trúc thượng tầng tâm lý bù trừ giúp cảm giác thấp kém khỏi bị lột trần. [S3, tr. 32]",
+   "nodes": [
+    [
+     "Cơ thể",
+     "1907"
+    ],
+    [
+     "Tâm hồn",
+     "1913 → 1925"
+    ]
+   ],
+   "source": "[S3] tr. 32",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Nguồn gốc khái niệm",
+   "title": "Bản giảng 1927",
+   "body": "Cơ quan tâm lý bù đắp nhanh thiếu hụt thể chất; nền tảng của khả năng giáo dục là nỗ lực bù trừ điểm yếu. [S2, tr. 30, 35]",
+   "nodes": [
+    [
+     "Cơ quan tâm lý",
+     "Bù đắp nhanh"
+    ],
+    [
+     "Hàng nghìn tài năng",
+     "Từ kích thích thiếu hụt"
+    ]
+   ],
+   "source": "[S2] tr. 30, 35",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Nguồn gốc khái niệm",
+   "title": "Điều bài chưa đọc",
+   "body": "Bản tiếng Đức; tác phẩm 1930 trở đi; Demosthenes chưa được xác minh qua nguồn cổ điển. Ví dụ chỉ là minh họa của Adler.",
+   "nodes": [
+    [
+     "Đã đọc",
+     "1907, 1913, 1927 (bản dịch)"
+    ],
+    [
+     "Chưa đọc",
+     "Bản gốc, 1930s"
+    ]
+   ],
+   "source": "A06 · mục B",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Tương đồng giữa cơ thể và tâm hồn",
+   "body": "Tim phì đại khi tuần hoàn khó khăn; tâm hồn dốc sức vượt cảm giác thấp kém. Đây là phép tương đồng để hiểu, không phải bằng chứng hai cơ chế cùng loại. [S2, tr. 75]",
+   "nodes": [
+    [
+     "Tim to ra",
+     "Ví dụ hữu cơ"
+    ],
+    [
+     "Tâm hồn dốc sức",
+     "Giả thuyết"
+    ]
+   ],
+   "source": "[S2] tr. 75",
+   "arrows": "dash",
+   "hyp": "tương đồng"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Hai nghĩa: thích nghi và che đậy",
+   "body": "Dùng nguồn lực khác để đạt mục đích; hoặc dựng cấu trúc để cảm giác thấp kém không bị lộ. Không suy được nghĩa nào từ hành vi bên ngoài. [S3, tr. 32]",
+   "nodes": [
+    [
+     "Thích nghi",
+     "Mở rộng năng lực"
+    ],
+    [
+     "Che đậy",
+     "Tránh bị lộ"
+    ]
+   ],
+   "source": "[S3] tr. 32",
+   "arrows": "dash",
+   "hyp": "hai giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Cách hiểu định hướng bù trừ",
+   "body": "Xu hướng bù trừ hướng tới mục tiêu này hay khác tùy hằng số tự đánh giá của đứa trẻ. [S2, tr. 74–75]",
+   "nodes": [
+    [
+     "Cách hiểu thiếu hụt",
+     "Hằng số tự đánh giá"
+    ],
+    [
+     "Hướng bù trừ",
+     "Mục tiêu"
+    ]
+   ],
+   "source": "[S2] tr. 74–75",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Bù trừ quá mức",
+   "body": "Khi sợ không bao giờ bù nổi, đứa trẻ có thể đòi cán cân nghiêng hẳn về mình; mức cực đoan Adler gọi là bệnh lý (phán đoán lý thuyết). [S2, tr. 75–76]",
+   "nodes": [
+    [
+     "Khôi phục cân bằng",
+     "Bù trừ"
+    ],
+    [
+     "Nghiêng hẳn",
+     "Bù quá mức"
+    ]
+   ],
+   "source": "[S2] tr. 75–76",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Dấu hiệu theo lý thuyết",
+   "body": "Nhịp vội vã, thiếu kiên nhẫn, xung động mạnh, không nghĩ tới người khác; nhưng cũng có thể là tham vọng phi xã hội không gây xung đột trực tiếp. [S2, tr. 75–76]",
+   "nodes": [
+    [
+     "Ồn ào",
+     "Vội, xung động"
+    ],
+    [
+     "Im lặng",
+     "Phi xã hội"
+    ]
+   ],
+   "source": "[S2] tr. 75–76",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Ba đáp ứng cho một khó khăn",
+   "body": "Bảng học tập của bài, không phải phân loại của Adler: bù trừ linh hoạt, bù trừ quá mức, nản chí hoặc né tránh.",
+   "nodes": [
+    [
+     "Linh hoạt",
+     "Vừa mục tiêu, có người khác"
+    ],
+    [
+     "Quá mức",
+     "Vượt mức, bỏ qua người khác"
+    ],
+    [
+     "Né tránh",
+     "Bỏ mục tiêu"
+    ]
+   ],
+   "source": "A06 · mục C.5",
+   "arrows": "dash",
+   "hyp": "sắp xếp của bài"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Lý thuyết cốt lõi",
+   "title": "Điều không được suy ra",
+   "body": "Không suy ra mọi thành tích là bù trừ; không suy ra khuyết tật dẫn tới xuất sắc; không suy động cơ từ một hành vi; bù quá mức không tự nhiên là xấu.",
+   "nodes": [
+    [
+     "Thành tích",
+     "Không phải bằng chứng"
+    ],
+    [
+     "Khuyết tật",
+     "Không phải lợi thế"
+    ],
+    [
+     "Hành vi",
+     "Nhiều mục tiêu"
+    ]
+   ],
+   "source": "[S1] tr. 68 · [S2] tr. 82",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "chapter": "Cơ chế giả thuyết",
+   "title": "Chuỗi sáu bước giả thuyết",
+   "body": "Thiếu hụt, kích thích, cách hiểu, hướng nỗ lực, rẽ hướng khi sợ không bù nổi, hậu quả với người khác. Mô hình, không phải chuỗi đã đo.",
+   "nodes": [
+    [
+     "1",
+     "Thiếu hụt"
+    ],
+    [
+     "2",
+     "Kích thích"
+    ],
+    [
+     "3",
+     "Cách hiểu"
+    ],
+    [
+     "4",
+     "Bù trừ"
+    ],
+    [
+     "5",
+     "Quá mức hoặc rút lui"
+    ],
+    [
+     "6",
+     "Người khác"
+    ]
+   ],
+   "source": "[S1] [S2]",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "chapter": "Cơ chế giả thuyết",
+   "title": "Chỗ lập luận có thể trượt",
+   "body": "Hai thứ dùng chung chữ 'bù trừ': bù trừ của cơ thể (có cơ sở sinh học để nghiên cứu) và bù trừ của mục tiêu tâm lý (là diễn giải). Chúng không chứng minh cho nhau.",
+   "nodes": [
+    [
+     "Bù trừ cơ thể",
+     "Có thể nghiên cứu"
+    ],
+    [
+     "Bù trừ mục tiêu",
+     "Diễn giải"
+    ],
+    [
+     "Cùng một chữ",
+     "Dễ lẫn"
+    ]
+   ],
+   "source": "A06 · mục D",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     200,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     440,
+     400,
+     190,
+     1
+    ]
+   ],
+   "visual_brief": "Hai ô tách biệt, mũi tên nét đứt nhãn 'không chứng minh cho nhau'."
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Ví dụ và ca",
+   "title": "Bạn học nói lắp",
+   "body": "Phù hợp với hướng bù trừ linh hoạt, nhưng không đủ dữ kiện: có thể là sở thích, thầy dạy, rủ rê; ví dụ thành công là thiên lệch chọn lọc. [S1, tr. 22]",
+   "nodes": [
+    [
+     "Dữ kiện",
+     "Tập tranh biện"
+    ],
+    [
+     "Thay thế",
+     "Sở thích, thầy, bạn"
+    ]
+   ],
+   "source": "[S1] tr. 22 · ví dụ giả định",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Ví dụ và ca",
+   "title": "Chạy việc đến kiệt sức",
+   "body": "Gần mô tả vội vã, thiếu kiên nhẫn của bù quá mức; giải thích thay thế: hợp đồng thử việc, áp lực, văn hóa công ty. [S2, tr. 75–76]",
+   "nodes": [
+    [
+     "Giả thuyết Adler",
+     "Chứng tỏ mình"
+    ],
+    [
+     "Thay thế",
+     "Hợp đồng, văn hóa"
+    ]
+   ],
+   "source": "[S2] tr. 75–76 · ví dụ giả định",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Ví dụ và ca",
+   "title": "Thành công từ một thiếu hụt thật",
+   "body": "Giám đốc có dyslexia giao việc giỏi. Hợp với ý thiếu hụt kích thích chiến lược, nhưng có chọn lọc, hồi cố và những người không thành công im lặng. [S2, tr. 35; S5]",
+   "nodes": [
+    [
+     "Ca kể lại",
+     "Sau khi thành công"
+    ],
+    [
+     "Chọn lọc",
+     "Người im lặng"
+    ]
+   ],
+   "source": "[S2] [S5] · ví dụ giả định",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Ví dụ và ca",
+   "title": "Ca giả định: Thảo",
+   "body": "Học sinh nhỏ con, tập ném rổ mỗi tối, vào đội trường, rồi hay ăn vạ và gắt với đồng đội. Ta chưa biết gia đình, huấn luyện viên, lời kể của em.",
+   "nodes": [
+    [
+     "Quan sát",
+     "Tập, vào đội, gắt"
+    ],
+    [
+     "Nhãn",
+     "Bù quá mức?"
+    ]
+   ],
+   "source": "A06 · ca giả định",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Ví dụ và ca",
+   "title": "Tách giả thuyết và giải thích cạnh tranh",
+   "body": "Luyện tập có thể là bù trừ linh hoạt; gắt gỏng có thể là bù quá mức, hoặc áp lực thi đấu, thiếu ngủ, đồng đội chuyền chậm.",
+   "nodes": [
+    [
+     "Adler",
+     "Hai giai đoạn"
+    ],
+    [
+     "Thay thế",
+     "Áp lực, mệt, đồng đội"
+    ]
+   ],
+   "source": "[S2] tr. 75–76",
+   "arrows": "dash",
+   "hyp": "nhiều giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Ví dụ và ca",
+   "title": "Điều còn thiếu và cách kiểm",
+   "body": "Hỏi mở; quan sát nhiều bối cảnh; hỏi huấn luyện viên và đồng đội; thử bài tập phối hợp; theo dõi giấc ngủ. Kết luận chỉ vừa dữ kiện.",
+   "nodes": [
+    [
+     "Hỏi",
+     "Em nghĩ gì"
+    ],
+    [
+     "Quan sát",
+     "Nhiều bối cảnh"
+    ],
+    [
+     "Ranh giới",
+     "Kiệt sức: tìm chuyên môn"
+    ]
+   ],
+   "source": "A06 · ca Thảo",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Điều chưa tìm thấy",
+   "body": "Chưa thấy phép kiểm trực tiếp việc khiếm khuyết sinh năng lực cao hơn ở cùng lĩnh vực, hay bù quá mức là cơ chế chung sau thành tích và hung hăng.",
+   "nodes": [
+    [
+     "Khẳng định 1",
+     "Khiếm khuyết thành năng lực"
+    ],
+    [
+     "Khẳng định 2",
+     "Bù quá mức là cơ chế chung"
+    ]
+   ],
+   "source": "A06 · research",
+   "arrows": "dash",
+   "hyp": "giới hạn tìm kiếm"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Bù trừ ở mức giác quan",
+   "body": "Mất thị giác hoặc thính giác đi kèm dẻo thần kinh liên giác quan; hỗ trợ ý cơ thể có thể đáp ứng, nhưng không kiểm Adler và có thể không thích nghi. [S4, abstract]",
+   "nodes": [
+    [
+     "Mất giác quan",
+     "Dẻo thần kinh"
+    ],
+    [
+     "Giới hạn",
+     "Không kiểm Adler"
+    ]
+   ],
+   "source": "[S4] abstract",
+   "arrows": "dash",
+   "hyp": "tương đồng"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Người khởi nghiệp có dyslexia",
+   "body": "Tỉ lệ dyslexia cao hơn ở người khởi nghiệp; một số chiến lược như giao việc có thể hữu ích. Bảng hỏi tự báo cáo, không biết nhân quả, không đo bù trừ. [S5, abstract]",
+   "nodes": [
+    [
+     "Kết quả",
+     "Tỉ lệ cao hơn"
+    ],
+    [
+     "Giới hạn",
+     "Tự báo cáo, chọn lọc"
+    ]
+   ],
+   "source": "[S5] abstract",
+   "arrows": "dash",
+   "hyp": "hạn chế"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Hung hăng: tự ty hay tự ái bị đe dọa",
+   "body": "Thí nghiệm: người tự yêu mình cao hung hăng hơn khi bị xúc phạm; tự trọng thấp không dự đoán hung hăng. Trái cách hiểu đơn giản, nhưng không kiểm khái niệm của Adler. [S6; S7]",
+   "nodes": [
+    [
+     "Tự trọng thấp",
+     "Không dự đoán"
+    ],
+    [
+     "Narcissism + xúc phạm",
+     "Hung hăng cao"
+    ]
+   ],
+   "source": "[S6] [S7] abstract",
+   "arrows": "dash",
+   "hyp": "hạn chế"
+  },
+  {
+   "layout": "diagram",
+   "section": "G",
+   "chapter": "Bằng chứng hiện đại",
+   "title": "Ba nguồn, ba giới hạn",
+   "body": "Mỗi nghiên cứu gần Adler ở một khía cạnh và xa ở khía cạnh khác; không nghiên cứu nào là xác nhận.",
+   "nodes": [
+    [
+     "Giác quan",
+     "Cơ thể, không phải mục tiêu"
+    ],
+    [
+     "Dyslexia",
+     "Tương quan, tự báo cáo"
+    ],
+    [
+     "Hung hăng",
+     "Lab, narcissism"
+    ]
+   ],
+   "source": "A06 · mục G",
+   "pos": [
+    [
+     80,
+     200,
+     400,
+     190,
+     0
+    ],
+    [
+     80,
+     440,
+     400,
+     190,
+     0
+    ],
+    [
+     80,
+     680,
+     400,
+     190,
+     0
+    ]
+   ],
+   "visual_brief": "Ba hàng: nguồn, điều đo được, điều không kiểm Adler."
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "chapter": "Ứng dụng và hình",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Tự hỏi mình đang tìm khả năng, công nhận hay tránh sợ; coi cố sức quá mức như câu hỏi; khích lệ tiến bộ cụ thể. Không đoán bù trừ của người thân.",
+   "nodes": [
+    [
+     "Tự phản tư",
+     "Hiểu điều mình muốn"
+    ],
+    [
+     "Giao tiếp",
+     "Hỏi, không kết luận"
+    ],
+    [
+     "Giáo dục",
+     "Khích lệ cụ thể"
+    ]
+   ],
+   "source": "A06 · mục H",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "chapter": "Ứng dụng và hình",
+   "title": "Nhiều đáp ứng cho một khó khăn",
+   "body": "Hình chính: khó khăn vào ô cách hiểu, rồi ba nhánh nét đứt (linh hoạt, quá mức, né tránh); dải dưới nhắc cùng hành vi có thể có nhiều giải thích.",
+   "nodes": [
+    [
+     "Một khó khăn",
+     "Điểm xuất phát"
+    ],
+    [
+     "Bù trừ linh hoạt",
+     "Giả thuyết"
+    ],
+    [
+     "Bù quá mức",
+     "Giả thuyết"
+    ],
+    [
+     "Nản chí / né tránh",
+     "Giả thuyết"
+    ]
+   ],
+   "source": "A06 · caption mục I",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     150,
+     400,
+     170,
+     1
+    ],
+    [
+     640,
+     420,
+     400,
+     170,
+     0
+    ],
+    [
+     640,
+     690,
+     400,
+     170,
+     0
+    ]
+   ],
+   "visual_brief": "Từ trái sang phải; đường đứt nhãn 'giả thuyết'; dải đáy: 'Cùng hành vi, nhiều giải thích (S2 tr. 82, qua A05)'."
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "Từ cơ thể đến tâm hồn; không bảo đảm thành công; cách hiểu định hướng; bù quá mức là giả thuyết; bảng ba đáp ứng là của bài; bằng chứng gần, không phải xác nhận; không suy động cơ từ thành tích.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc đúng văn bản"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "A06 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 1–2",
+   "body": "Nguồn gốc của 'compensation' và tương đồng cơ thể–tâm hồn; thêm dữ kiện nào để cân nhắc giả thuyết bù quá mức.",
+   "nodes": [
+    [
+     "Câu 1",
+     "1907 và 1927"
+    ],
+    [
+     "Câu 2",
+     "Dữ kiện cần thêm"
+    ]
+   ],
+   "source": "[S1] [S2] · A06 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 3–5",
+   "body": "Vì sao tổng quan thần kinh không xác nhận Adler; điểm yếu của bài báo 'dyslexia chứng minh Adler'; phản hồi hợp lý trong ca Thảo.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Merabet 2010"
+    ],
+    [
+     "Câu 4",
+     "Logan 2009"
+    ],
+    [
+     "Câu 5",
+     "Ca Thảo"
+    ]
+   ],
+   "source": "[S4] [S5] · A06 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Nguồn đã đọc",
+   "body": "Bảy nguồn, đọc phần thân các đoạn nêu của S1–S3; S4–S7 mới đọc abstract. Từng thẻ là liên kết bấm được tới URL trong lesson.md.",
+   "nodes": [
+    [
+     "S1",
+     "Adler 1907/1917, Organ Inferiority"
+    ],
+    [
+     "S2",
+     "Adler 1927, Understanding Human Nature"
+    ],
+    [
+     "S3",
+     "Adler, Practice and Theory (Radin)"
+    ],
+    [
+     "S4",
+     "Merabet & Pascual-Leone 2010"
+    ],
+    [
+     "S5",
+     "Logan 2009"
+    ],
+    [
+     "S6",
+     "Bushman và cộng sự 2009"
+    ],
+    [
+     "S7",
+     "Bushman & Baumeister 1998"
+    ]
+   ],
+   "source": "[S1]–[S7]"
+  },
+  {
+   "layout": "closing",
+   "section": "A06 · KẾT",
+   "chapter": "Kết",
+   "title": "Hỏi về hướng đi,\nđừng gán nhãn con người",
+   "body": "Bù trừ là một giả thuyết về hướng của nỗ lực. Muốn nói về một người cụ thể, cần dữ kiện của chính người đó.",
+   "nodes": [
+    [
+     "Cùng hành vi",
+     "Nhiều con đường"
+    ]
+   ],
+   "source": "A06 · kết",
+   "right": "COMPENSATION"
+  }
+ ]
+}

@@ -1,0 +1,860 @@
+{
+ "title": "J06 · Archetypes — nguyên mẫu, hình ảnh và bối cảnh",
+ "subtitle": "Khái niệm, hình ảnh và bối cảnh",
+ "status": "drafted",
+ "review_status": "pending",
+ "visual_status": "exported",
+ "source_lesson": "../lessons/06-archetypes.md",
+ "accent": "indigo",
+ "slides": [
+  {
+   "layout": "cover",
+   "section": "J06 · NGUYÊN MẪU",
+   "chapter": "Mở đầu",
+   "title": "Nguyên mẫu:\nkhuôn hay hình ảnh?",
+   "body": "Bài đọc cách Jung đi từ hình ảnh nguyên sơ tới archetype, tách dạng thức khỏi hình ảnh, rồi hỏi nghiên cứu hiện đại giải thích mô-típ giống nhau bằng gì.",
+   "nodes": [
+    [
+     "Dạng thức",
+     "Giả thuyết"
+    ],
+    [
+     "Hình ảnh",
+     "Quan sát được"
+    ]
+   ],
+   "source": "J06 · Câu hỏi trung tâm",
+   "right": "ARCHETYPES"
+  },
+  {
+   "layout": "contents",
+   "section": "Mục lục",
+   "chapter": "Mục lục",
+   "title": "Mục lục",
+   "body": "Bảy chương lớn của bài, theo đúng thứ tự trong bài học.",
+   "nodes": [
+    [
+     "1 · Từ hình ảnh nguyên sơ đến archetype",
+     "Mục tiêu học tập; văn bản 1921 và 1927"
+    ],
+    [
+     "2 · Khái niệm và hai mức",
+     "Archetype, dạng thức và hình ảnh; điều không suy ra"
+    ],
+    [
+     "3 · Giải thích cạnh tranh",
+     "Chuỗi giả thuyết; bốn giải thích cho một mô-típ"
+    ],
+    [
+     "4 · Ví dụ và ca",
+     "Ba ví dụ; ca giả định Lan"
+    ],
+    [
+     "5 · Bằng chứng và phê bình",
+     "Truyền truyện kể, chuẩn bị sẵn, ẩn dụ, phê bình"
+    ],
+    [
+     "6 · Ứng dụng và hình",
+     "Ứng dụng có điều kiện; hình tổng hợp"
+    ],
+    [
+     "7 · Ôn tập và nguồn",
+     "Takeaways, năm câu hỏi, nguồn"
+    ]
+   ],
+   "source": "J06 · Mục lục"
+  },
+  {
+   "layout": "cards",
+   "section": "A",
+   "chapter": "Từ hình ảnh nguyên sơ đến archetype",
+   "title": "Bốn việc cần làm được sau bài",
+   "body": "Giải thích, phân biệt, so sánh, đánh giá.",
+   "nodes": [
+    [
+     "01 · Hiểu",
+     "Archetype trong văn bản 1921, 1927"
+    ],
+    [
+     "02 · Phân biệt",
+     "Dạng thức và hình ảnh"
+    ],
+    [
+     "03 · So sánh",
+     "Ba giải thích cho mô-típ"
+    ],
+    [
+     "04 · Đánh giá",
+     "Bằng chứng lân cận"
+    ]
+   ],
+   "source": "J06 · A",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Từ hình ảnh nguyên sơ đến archetype",
+   "title": "Văn bản 1921: hai tên cho một ý",
+   "body": "Jung gọi hình ảnh nguyên sơ là 'còn gọi là archetype', luôn mang tính tập thể; thuật ngữ archetype bao hàm cùng ý với primordial image, mượn của Burckhardt. [S1, tr. 476, 555]",
+   "nodes": [
+    [
+     "Primordial image",
+     "Cách nói 1921"
+    ],
+    [
+     "Archetype",
+     "Cùng ý"
+    ]
+   ],
+   "source": "[S1] tr. 476, 555",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Từ hình ảnh nguyên sơ đến archetype",
+   "title": "Ngôn ngữ 'dấu vết trí nhớ'",
+   "body": "Năm 1921 hình ảnh nguyên sơ được mô tả như cặn lắng, engram, từ cô đặc nhiều quá trình tương tự; biểu hiện của khuynh hướng giải phẫu-sinh lý. [S1, tr. 556]",
+   "nodes": [
+    [
+     "Quá trình lặp lại",
+     "Nhiều thế hệ"
+    ],
+    [
+     "Khuynh hướng",
+     "Giả thuyết"
+    ]
+   ],
+   "source": "[S1] tr. 556",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Từ hình ảnh nguyên sơ đến archetype",
+   "title": "Bài giảng 1927: hệ thống sẵn sàng",
+   "body": "Archetype là hệ thống sẵn sàng, vừa là hình ảnh vừa là cảm xúc, thừa kế cùng cấu trúc não; chỉ là hình thức mà bản năng đã mang. [S2, tr. 117–118]",
+   "nodes": [
+    [
+     "Hình ảnh + cảm xúc",
+     "Hệ thống sẵn sàng"
+    ],
+    [
+     "Thừa kế",
+     "Phát biểu của Jung"
+    ]
+   ],
+   "source": "[S2] tr. 117–118",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Từ hình ảnh nguyên sơ đến archetype",
+   "title": "Hoàn cảnh quen thuộc tạo archetype",
+   "body": "Nguy hiểm lặp lại, cha mẹ, vợ chồng, con: những sự kiện quen thuộc tạo archetype mạnh nhất. Chính Jung nêu cả hoàn cảnh chung. [S2, tr. 115–116]",
+   "nodes": [
+    [
+     "Sự kiện lặp lại",
+     "Cha, mẹ, nguy hiểm"
+    ],
+    [
+     "Archetype",
+     "Mô-típ thần thoại"
+    ]
+   ],
+   "source": "[S2] tr. 115–116",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "B",
+   "chapter": "Từ hình ảnh nguyên sơ đến archetype",
+   "title": "Điều bài chưa đọc",
+   "body": "Collected Works tập 8, 9i; bản tiếng Đức; bài sau 1930. Cách đọc hai mức vì thế chỉ là cách đọc phổ biến.",
+   "nodes": [
+    [
+     "Đã đọc",
+     "1921, 1927 (bản dịch)"
+    ],
+    [
+     "Chưa đọc",
+     "CW 8, 9i, sau 1930"
+    ]
+   ],
+   "source": "J06 · mục B",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Khái niệm và hai mức",
+   "title": "Archetype là gì (theo văn bản đã đọc)",
+   "body": "Một giả thuyết về khuynh hướng có sẵn, cho phép hình ảnh và cảm xúc kiểu nhất định xuất hiện; không phải một ý tưởng cụ thể. [S1, tr. 378, 556; S2, tr. 118]",
+   "nodes": [
+    [
+     "Khuynh hướng",
+     "Giả thuyết"
+    ],
+    [
+     "Hình ảnh",
+     "Biểu hiện"
+    ]
+   ],
+   "source": "[S1] [S2]",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Khái niệm và hai mức",
+   "title": "Hai mức theo cách đọc phổ biến",
+   "body": "Archetype-as-such: dạng thức, không biểu tượng hóa được. Archetypal image: hình ảnh cụ thể tùy văn hóa. Chức năng kép: vừa biết được vừa không biết được. [S6, abstract]",
+   "nodes": [
+    [
+     "As-such",
+     "Không quan sát được"
+    ],
+    [
+     "Image",
+     "Quan sát được"
+    ]
+   ],
+   "source": "[S6] abstract",
+   "arrows": "dash",
+   "hyp": "cách đọc phổ biến"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Khái niệm và hai mức",
+   "title": "Hình ảnh là chức năng định hình",
+   "body": "Hình ảnh nguyên sơ đưa ý nghĩa điều phối cho tri giác rời rạc và biểu hiện sức sáng tạo của tâm trí; không phải bảng tra 'mơ X nghĩa là Y'. [S1, tr. 557]",
+   "nodes": [
+    [
+     "Tri giác rời rạc",
+     "Chưa có ý nghĩa"
+    ],
+    [
+     "Hình ảnh",
+     "Điều phối ý nghĩa"
+    ]
+   ],
+   "source": "[S1] tr. 557",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Khái niệm và hai mức",
+   "title": "Quan hệ với vô thức tập thể",
+   "body": "Nếu vô thức tập thể là kho, archetype là dạng thức trong kho; quan hệ lý thuyết, không có phép kiểm riêng (xem J05). [S2, tr. 116–117]",
+   "nodes": [
+    [
+     "Vô thức tập thể",
+     "Kho"
+    ],
+    [
+     "Archetype",
+     "Dạng thức"
+    ]
+   ],
+   "source": "[S2] tr. 116–117",
+   "arrows": "dash",
+   "hyp": "mô hình"
+  },
+  {
+   "layout": "cards",
+   "section": "C",
+   "chapter": "Khái niệm và hai mức",
+   "title": "Điều không được suy ra",
+   "body": "Không là ký ức di truyền đã xác nhận; không có danh sách cố định; không phải phân loại nhân cách; mô-típ giống nhau chưa chứng minh archetype.",
+   "nodes": [
+    [
+     "Di truyền",
+     "Chưa xác nhận"
+    ],
+    [
+     "Danh sách",
+     "Không có tiêu chí đủ"
+    ],
+    [
+     "Nhân cách",
+     "Không phải types"
+    ]
+   ],
+   "source": "J06 · mục C",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "chapter": "Giải thích cạnh tranh",
+   "title": "Chuỗi năm bước giả thuyết",
+   "body": "Trải nghiệm lặp lại, khuynh hướng thừa kế, dạng thức không quan sát được, hình ảnh mang màu văn hóa, đi kèm cảm xúc. Mô hình, không phải chuỗi đã đo.",
+   "nodes": [
+    [
+     "1",
+     "Trải nghiệm lặp lại"
+    ],
+    [
+     "2",
+     "Thừa kế"
+    ],
+    [
+     "3",
+     "Dạng thức"
+    ],
+    [
+     "4",
+     "Hình ảnh"
+    ],
+    [
+     "5",
+     "Cảm xúc"
+    ]
+   ],
+   "source": "[S1] [S2] [S6]",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "D",
+   "chapter": "Giải thích cạnh tranh",
+   "title": "Bốn giải thích cho một mô-típ",
+   "body": "Nền chung (Jung), truyền văn hóa, hoàn cảnh sống chung, thiên lệch chọn mẫu. Mỗi cái dự đoán một kiểu phân bố khác nhau.",
+   "nodes": [
+    [
+     "Nền chung",
+     "Độc lập, không theo lịch sử"
+    ],
+    [
+     "Truyền",
+     "Theo quan hệ quần thể"
+    ],
+    [
+     "Hoàn cảnh",
+     "Theo điều kiện phổ biến"
+    ],
+    [
+     "Thiên lệch",
+     "Giảm khi lấy mẫu có hệ thống"
+    ]
+   ],
+   "source": "[S2] [S4] · bảng của bài",
+   "arrows": "dash",
+   "hyp": "cạnh tranh"
+  },
+  {
+   "layout": "diagram",
+   "section": "D",
+   "chapter": "Giải thích cạnh tranh",
+   "title": "Chỗ lập luận có thể trượt",
+   "body": "Bước 1–2 chưa có phép kiểm; bước 3 đặt khái niệm ngoài tầm quan sát; bước 5 gộp hình ảnh quan sát được với nguồn gốc suy ra.",
+   "nodes": [
+    [
+     "Hình ảnh quan sát được",
+     "Dữ kiện"
+    ],
+    [
+     "Nguồn gốc suy ra",
+     "Giả thuyết"
+    ],
+    [
+     "Giải thích thay thế",
+     "Truyền, hoàn cảnh, thiên lệch"
+    ]
+   ],
+   "source": "J06 · mục D",
+   "pos": [
+    [
+     80,
+     400,
+     400,
+     190,
+     0
+    ],
+    [
+     640,
+     200,
+     400,
+     190,
+     1
+    ],
+    [
+     640,
+     480,
+     400,
+     190,
+     0
+    ]
+   ],
+   "visual_brief": "Một ô dữ kiện, hai nhánh: nhánh nét đứt 'giả thuyết Jung', nhánh liền 'giải thích thay thế'."
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Ví dụ và ca",
+   "title": "Hình tượng người mẹ trong truyện cổ",
+   "body": "Nhân vật nữ nuôi dưỡng ở ba vùng. Jung: archetype mẹ. Thay thế: trẻ nào cũng phụ thuộc người chăm sóc, truyện đi theo đường truyền, người sưu tầm chọn mẫu. [S2, tr. 115–116]",
+   "nodes": [
+    [
+     "Giả thuyết Jung",
+     "Archetype mẹ"
+    ],
+    [
+     "Thay thế",
+     "Kinh nghiệm chung, truyền"
+    ]
+   ],
+   "source": "[S2] · ví dụ giả định",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Ví dụ và ca",
+   "title": "Hành trình người hùng trong phim",
+   "body": "Jung nhắc hình ảnh nguyên sơ về sự ra đời người hùng như nguồn biểu tượng trong mơ. Biên kịch có thể chỉ học khuôn từ phim và lớp viết. [S1, tr. 595]",
+   "nodes": [
+    [
+     "Giả thuyết Jung",
+     "Mô-típ anh hùng"
+    ],
+    [
+     "Thay thế",
+     "Khuôn kể chuyện được dạy"
+    ]
+   ],
+   "source": "[S1] tr. 595 · ví dụ giả định",
+   "arrows": "dash",
+   "hyp": "phép gần đúng"
+  },
+  {
+   "layout": "cards",
+   "section": "E",
+   "chapter": "Ví dụ và ca",
+   "title": "Vòng tròn khi vẽ",
+   "body": "Hoa vẽ vòng tròn nhiều lớp. Có thể thích đối xứng, từng làm họa tiết, vòng tròn dễ vẽ. Không gán ý nghĩa cho một người từ hình họ vẽ.",
+   "nodes": [
+    [
+     "Gán nhãn",
+     "Không nên"
+    ],
+    [
+     "Hỏi",
+     "Hình này nhắc điều gì?"
+    ]
+   ],
+   "source": "J06 · ví dụ giả định",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Ví dụ và ca",
+   "title": "Ca giả định: Lan và nhân vật kẻ lừa",
+   "body": "Sinh viên dân gian học so ba bộ truyện, thấy nhân vật khôn khéo phá luật; dự định viết 'bằng chứng archetype'. Chưa biết quan hệ lịch sử giữa ba cộng đồng.",
+   "nodes": [
+    [
+     "Quan sát",
+     "Ba bộ truyện giống mô-típ"
+    ],
+    [
+     "Nhãn",
+     "Archetype?"
+    ]
+   ],
+   "source": "J06 · ca giả định",
+   "arrows": "dash",
+   "hyp": "giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Ví dụ và ca",
+   "title": "Giải thích cạnh tranh trong ca",
+   "body": "Truyền văn hóa, hoàn cảnh chung, thiên lệch chọn mẫu, cách mã hóa, giống bề mặt nhưng khác chức năng.",
+   "nodes": [
+    [
+     "Truyền",
+     "Buôn bán, di cư"
+    ],
+    [
+     "Thiên lệch",
+     "Chọn truyện giống"
+    ],
+    [
+     "Mã hóa",
+     "Người mã khác nhau"
+    ]
+   ],
+   "source": "[S4] · J06 · ca Lan",
+   "arrows": "dash",
+   "hyp": "nhiều giả thuyết"
+  },
+  {
+   "layout": "cards",
+   "section": "F",
+   "chapter": "Ví dụ và ca",
+   "title": "Điều còn thiếu và cách kiểm",
+   "body": "Lấy mẫu có hệ thống; cộng đồng đối chứng; người mã độc lập; phân tích phát sinh loài. Kết luận chỉ vừa dữ kiện: chưa loại được truyền và thiên lệch.",
+   "nodes": [
+    [
+     "Lấy mẫu",
+     "Hệ thống"
+    ],
+    [
+     "Đối chứng",
+     "Cộng đồng thứ tư"
+    ],
+    [
+     "Mã độc lập",
+     "Không biết giả thuyết"
+    ]
+   ],
+   "source": "[S4] · J06 · ca Lan",
+   "arrows": "solid"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Điều chưa tìm thấy",
+   "body": "Chưa thấy phép kiểm trực tiếp archetype-as-such; theo cách đọc phổ biến nó không quan sát được, nên khó thao tác hóa: phê bình về khả năng bác bỏ.",
+   "nodes": [
+    [
+     "Không tìm thấy",
+     "Giới hạn tìm kiếm"
+    ],
+    [
+     "Khó kiểm",
+     "Giới hạn của khái niệm"
+    ]
+   ],
+   "source": "J06 · research",
+   "arrows": "dash",
+   "hyp": "giới hạn"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Truyền văn hóa của truyện kể",
+   "body": "Phân bố nhiều truyện Ấn-Âu tương quan với quan hệ phát sinh loài quần thể chứ không với khoảng cách địa lý; gợi ý thừa kế văn hóa theo chiều dọc. [S4, abstract]",
+   "nodes": [
+    [
+     "Kết quả",
+     "Theo quan hệ quần thể"
+    ],
+    [
+     "Giới hạn",
+     "Chỉ Ấn-Âu, không kiểm Jung"
+    ]
+   ],
+   "source": "[S4] abstract",
+   "arrows": "dash",
+   "hyp": "hạn chế"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Sự chuẩn bị sẵn của nỗi sợ",
+   "body": "Mô-đun tiến hóa cho sợ và học sợ: kích hoạt ưu tiên, tự động, gắn mạch quanh hạch hạnh nhân. Gần Jung về lời, không về hình ảnh biểu tượng. [S5, abstract]",
+   "nodes": [
+    [
+     "Mô-đun sợ",
+     "Học sợ"
+    ],
+    [
+     "Không kiểm",
+     "Biểu tượng, mô-típ"
+    ]
+   ],
+   "source": "[S5] abstract",
+   "arrows": "dash",
+   "hyp": "tương đồng về lời"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Đọc lại theo ẩn dụ",
+   "body": "Hunt đề xuất 'trí tưởng tượng nguyên mẫu' dựa trên tâm lý học ẩn dụ và khác biệt cá nhân, ít gắn với vô thức tập thể sinh học. Quan điểm có lập trường. [S3, abstract]",
+   "nodes": [
+    [
+     "Hunt 2012",
+     "Trí tưởng tượng nguyên mẫu"
+    ],
+    [
+     "Giới hạn",
+     "Quan điểm trong truyền thống"
+    ]
+   ],
+   "source": "[S3] abstract",
+   "arrows": "dash",
+   "hyp": "hạn chế"
+  },
+  {
+   "layout": "cards",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Phê bình khái niệm",
+   "body": "Jones (2023): khái niệm có chức năng kép (biết được, không biết được); nêu khó khăn về phân loại và độ tin cậy khoa học. Chỉ dùng điều abstract nêu. [S6, abstract]",
+   "nodes": [
+    [
+     "Chức năng kép",
+     "Sign và symbol"
+    ],
+    [
+     "Hạn chế",
+     "Một abstract"
+    ]
+   ],
+   "source": "[S6] abstract",
+   "arrows": "dash",
+   "hyp": "hạn chế"
+  },
+  {
+   "layout": "diagram",
+   "section": "G",
+   "chapter": "Bằng chứng và phê bình",
+   "title": "Ba hướng, ba giới hạn",
+   "body": "Mỗi nghiên cứu gần Jung ở một khía cạnh và xa ở khía cạnh khác; không nghiên cứu nào là xác nhận hay bác bỏ.",
+   "nodes": [
+    [
+     "Truyền truyện kể",
+     "Ấn-Âu, không kiểm Jung"
+    ],
+    [
+     "Sợ chuẩn bị sẵn",
+     "Học sợ, không biểu tượng"
+    ],
+    [
+     "Ẩn dụ và phê bình",
+     "Quan điểm, abstract"
+    ]
+   ],
+   "source": "J06 · mục G",
+   "pos": [
+    [
+     80,
+     200,
+     400,
+     190,
+     0
+    ],
+    [
+     80,
+     440,
+     400,
+     190,
+     0
+    ],
+    [
+     80,
+     680,
+     400,
+     190,
+     0
+    ]
+   ],
+   "visual_brief": "Ba hàng: nguồn, điều đo/nêu, điều không kiểm Jung."
+  },
+  {
+   "layout": "cards",
+   "section": "H",
+   "chapter": "Ứng dụng và hình",
+   "title": "Ứng dụng có điều kiện",
+   "body": "Dùng archetype như câu hỏi khi đọc truyện cổ; dạy cả giải thích khác; tự phản tư tự do; nghiên cứu cần lấy mẫu hệ thống. Không dán nhãn 'bạn là archetype X'.",
+   "nodes": [
+    [
+     "Đọc truyện",
+     "Câu hỏi, không đáp án"
+    ],
+    [
+     "Giáo dục",
+     "Cả các giải thích khác"
+    ],
+    [
+     "Nghiên cứu",
+     "Lấy mẫu, mã độc lập"
+    ]
+   ],
+   "source": "J06 · mục H",
+   "arrows": "solid"
+  },
+  {
+   "layout": "diagram",
+   "section": "I",
+   "chapter": "Ứng dụng và hình",
+   "title": "Khái niệm, hình ảnh và bối cảnh",
+   "body": "Hình chính: archetype-as-such nét đứt ở trên, mũi tên giả thuyết xuống ô hình ảnh; bối cảnh và ba giải thích thay thế nối vào ô hình ảnh bằng đường liền.",
+   "nodes": [
+    [
+     "Archetype-as-such",
+     "Giả thuyết"
+    ],
+    [
+     "Hình ảnh nguyên mẫu",
+     "Quan sát được"
+    ],
+    [
+     "Bối cảnh",
+     "Văn hóa, cá nhân"
+    ],
+    [
+     "Giải thích thay thế",
+     "Truyền, hoàn cảnh, thiên lệch"
+    ]
+   ],
+   "source": "J06 · caption mục I",
+   "pos": [
+    [
+     540,
+     100,
+     520,
+     160,
+     1
+    ],
+    [
+     540,
+     400,
+     520,
+     170,
+     0
+    ],
+    [
+     80,
+     400,
+     360,
+     170,
+     0
+    ],
+    [
+     540,
+     700,
+     520,
+     170,
+     0
+    ]
+   ],
+   "visual_brief": "Ba tầng; đường đứt nhãn 'giả thuyết'; không dùng hình não; chú giải đường liền/đứt."
+  },
+  {
+   "layout": "takeaways",
+   "section": "J",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Giữ lại tám ý cốt lõi",
+   "body": "Hai tên một ý; hệ thống sẵn sàng là phát biểu của Jung; ngôn ngữ engram là giả thuyết; hai mức là cách đọc phổ biến; ba giải thích cho mô-típ; nghiên cứu gần, không trực tiếp; khả năng bác bỏ; không dán nhãn.",
+   "nodes": [
+    [
+     "Đúng nghĩa",
+     "Đọc đúng văn bản"
+    ],
+    [
+     "Đúng mức",
+     "Tách bằng chứng"
+    ]
+   ],
+   "source": "J06 · J"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 1–2",
+   "body": "Archetype và primordial image; vì sao cách đọc hai mức vừa hữu ích vừa khó kiểm.",
+   "nodes": [
+    [
+     "Câu 1",
+     "1921"
+    ],
+    [
+     "Câu 2",
+     "Hai mức"
+    ]
+   ],
+   "source": "[S1] [S6] · J06 · K"
+  },
+  {
+   "layout": "question",
+   "section": "K",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Câu 3–5",
+   "body": "Hai giải thích thay thế cho kẻ lừa; nỗi sợ chuẩn bị sẵn không chứng minh archetype; kết luận đúng dữ kiện trong ca Lan.",
+   "nodes": [
+    [
+     "Câu 3",
+     "Giải thích thay thế"
+    ],
+    [
+     "Câu 4",
+     "Chuẩn bị sẵn"
+    ],
+    [
+     "Câu 5",
+     "Ca Lan"
+    ]
+   ],
+   "source": "[S4] [S5] · J06 · K"
+  },
+  {
+   "layout": "refs",
+   "section": "L",
+   "chapter": "Ôn tập và nguồn",
+   "title": "Nguồn đã đọc",
+   "body": "Sáu nguồn, đọc phần thân S1–S2; S3–S6 mới đọc abstract. Từng thẻ là liên kết bấm được tới URL trong lesson.md.",
+   "nodes": [
+    [
+     "S1",
+     "Jung 1921/1923, Psychological Types"
+    ],
+    [
+     "S2",
+     "Jung 1927/1928, Mind and the Earth"
+    ],
+    [
+     "S3",
+     "Hunt 2012"
+    ],
+    [
+     "S4",
+     "da Silva & Tehrani 2016"
+    ],
+    [
+     "S5",
+     "Öhman & Mineka 2001"
+    ],
+    [
+     "S6",
+     "Jones 2023"
+    ]
+   ],
+   "source": "[S1]–[S6]"
+  },
+  {
+   "layout": "closing",
+   "section": "J06 · KẾT",
+   "chapter": "Kết",
+   "title": "Hỏi về nguồn gốc của hình ảnh,\nđừng gán nhãn con người",
+   "body": "Archetype là một giả thuyết lịch sử về dạng thức; mô-típ giống nhau có nhiều đường giải thích; muốn kết luận cần dữ kiện để chọn giữa chúng.",
+   "nodes": [
+    [
+     "Cùng hình ảnh",
+     "Nhiều con đường"
+    ]
+   ],
+   "source": "J06 · kết",
+   "right": "ARCHETYPES"
+  }
+ ]
+}
